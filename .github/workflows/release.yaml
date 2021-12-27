@@ -1,0 +1,50 @@
+name: "Check whether to make new release"
+on:
+  push:
+    paths:
+      - 'index.json'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    name: release
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: Generate diff
+        run: |
+          echo "\`\`\`diff" > changes.md
+          git diff HEAD~1 index.json >> changes.md
+          echo "\`\`\`" >> changes.md
+
+      - name: Compress index
+        run: tar -czvf index.tar.gz index.json
+
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')" 
+
+      - name: Bump version and push tag
+        id: tag_version
+        uses: mathieudutour/github-tag-action@v6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        with:
+          name: Index update for ${{ steps.date.outputs.date }}
+          body_path: changes.md 
+          token: ${{ secrets.GITHUB_TOKEN }}
+          files: index.tar.gz
+          tag_name: steps.tag_version.outputs.new_tag
+        env:
+          GITHUB_REPOSITORY: marcus-crane/khinsider-index

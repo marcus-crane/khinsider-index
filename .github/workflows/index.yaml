@@ -4,9 +4,6 @@ on:
     - cron: "0 * * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
   index-sync:
     name: index-sync
@@ -15,8 +12,6 @@ jobs:
 
       - name: Checkout
         uses: actions/checkout@v2
-        with:
-          fetch-depth: 0
 
       - uses: actions/setup-go@v2
         with:
@@ -42,26 +37,3 @@ jobs:
 
           remote_repo="https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
           git push "${remote_repo}" HEAD:main
-
-      - name: Generate diff
-        run: |
-          echo "\`\`\`diff" > changes.md
-          git diff HEAD~1 index.json >> changes.md
-          echo "\`\`\`" >> changes.md
-
-      - name: Compress index
-        run: tar -czvf index.tar.gz index.json
-
-      - name: Get current date
-        id: date
-        run: echo "::set-output name=date::$(date +'%Y-%m-%d')" 
-
-      - name: Release
-        uses: softprops/action-gh-release@v1
-        with:
-          name: Index update for ${{ steps.date.outputs.date }}
-          body_path: changes.md 
-          token: ${{ secrets.GITHUB_TOKEN }}
-          files: index.tar.gz
-        env:
-          GITHUB_REPOSITORY: marcus-crane/khinsider-index
