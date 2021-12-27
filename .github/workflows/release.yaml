@@ -45,6 +45,6 @@ jobs:
           body_path: changes.md 
           token: ${{ secrets.GITHUB_TOKEN }}
           files: index.tar.gz
-          tag_name: steps.tag_version.outputs.new_tag
+          tag_name: ${{ steps.tag_version.outputs.new_tag }}
         env:
           GITHUB_REPOSITORY: marcus-crane/khinsider-index
