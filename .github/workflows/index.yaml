@@ -12,6 +12,9 @@ jobs:
 
       - name: Checkout
         uses: actions/checkout@v2
+        with:
+          # See https://github.community/t/push-from-action-even-with-pat-does-not-trigger-action/17622/6
+          persist-credentials: false
 
       - uses: actions/setup-go@v2
         with:
@@ -25,7 +28,9 @@ jobs:
 
       - name: Commit index changes
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # We use a PAT in order to trigger other workflows on commit
+          # See https://github.community/t/push-from-action-does-not-trigger-subsequent-action/16854/2
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           set -eux
 
