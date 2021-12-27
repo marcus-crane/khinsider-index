@@ -1,7 +1,7 @@
 # khinsider-index
 A static file containing a complete index of the content on downloads.khinsider.com
 
-This repo runs the same index functionality built into my [khinsider](https://github.com/marcus-crane/khinsider) tool, just on a timer and uploaded as a file.
+This repo runs the same index functionality built into my [khinsider](https://github.com/marcus-crane/khinsider/tree/v2) tool, just on a timer and uploaded as a file.
 
 While any user can generate their own index if they choose, by default they'll download a tar gzipped version of the index that is generated and released against this repo, whenever any changes are detected.
 
