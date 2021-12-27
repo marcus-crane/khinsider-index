@@ -48,9 +48,14 @@ jobs:
       - name: Compress index
         run: tar -czvf index.tar.gz index.json
 
+     - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')" 
+
       - name: Release
         uses: softprops/action-gh-release@v1
         with:
+          name: Index update for ${{ steps.date.outputs.date }}
           body_path: changes.md 
           token: ${{ secrets.GITHUB_TOKEN }}
           files: index.tar.gz
