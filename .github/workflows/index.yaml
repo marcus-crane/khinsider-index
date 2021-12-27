@@ -50,7 +50,7 @@ jobs:
       - name: Compress index
         run: tar -czvf index.tar.gz index.json
 
-     - name: Get current date
+      - name: Get current date
         id: date
         run: echo "::set-output name=date::$(date +'%Y-%m-%d')" 
 
