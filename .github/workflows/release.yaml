@@ -3,6 +3,10 @@ on:
   push:
     paths:
       - 'index.json'
+    # Pushing tag will retrigger so we don't want
+    # to end up in an infinite loop!
+    tags-ignore:
+      - '**'
   workflow_dispatch:
 
 permissions:
