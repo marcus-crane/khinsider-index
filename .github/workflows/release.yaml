@@ -1,6 +1,8 @@
 name: "Check whether to make new release"
 on:
   push:
+    branches:
+      - 'main'
     paths:
       - 'index.json'
     # Pushing tag will retrigger so we don't want
