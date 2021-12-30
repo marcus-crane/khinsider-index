@@ -31,7 +31,7 @@ jobs:
       - name: Generate diff
         run: |
           echo "\`\`\`diff" > changes.md
-          git diff HEAD~1 index.json >> changes.md
+          git diff $(git describe --tags --abbrev=0)..HEAD index.json >> changes.md
           echo "\`\`\`" >> changes.md
 
       - name: Compress index
