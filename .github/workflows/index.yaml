@@ -13,6 +13,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
         with:
+          token: '${{ secrets.PAT_TOKEN }}'
           # See https://github.community/t/push-from-action-even-with-pat-does-not-trigger-action/17622/6
           persist-credentials: false
 
@@ -39,6 +40,9 @@ jobs:
 
           git add .
           git commit -a -m "Index has been updated" || exit 0
-
-          remote_repo="https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
-          git push "${remote_repo}" HEAD:main
+      
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.PAT_TOKEN }}
+          branch: ${{ github.ref }}
