@@ -38,6 +38,11 @@ jobs:
           git config --local user.email "helper@utf9k.net"
           git config --local user.name "Indexer Bot"
 
+          if [[ $(git diff --numstat --minimal | grep index.go | awk '{ print $1 }') == '2' ]]; then
+            # Only one line difference (the index version incrementing) so bailing out since no changes
+            exit 0
+          fi
+          
           git add .
           git commit -a -m "Index has been updated" || exit 0
       
