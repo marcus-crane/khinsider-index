@@ -23,9 +23,9 @@ jobs:
 
       - run: go install github.com/marcus-crane/khinsider/v2@v2.0.4
 
-      - run: khinsider index
+      - run: khinsider --debug index
 
-      - run: cp ~/.khinsider/index.json .
+      - run: cp ~/.cache/khinsider/index.json .
 
       - name: Commit index changes
         env:
