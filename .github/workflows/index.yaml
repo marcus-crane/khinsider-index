@@ -21,7 +21,7 @@ jobs:
         with:
           go-version: 1.17.2
 
-      - run: go install github.com/marcus-crane/khinsider/v2@v2.0.5
+      - run: go install github.com/marcus-crane/khinsider/v2@v2.0.6
 
       - run: khinsider --debug index
 
