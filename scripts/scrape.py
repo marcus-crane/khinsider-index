@@ -4,6 +4,8 @@ from pytimeparse.timeparse import timeparse
 import json
 import requests
 
+BASE_URL = 'https://downloads.khinsider.com/'
+
 # r = requests.get("https://downloads.khinsider.com/console-list")
 
 # soup = BeautifulSoup(r.text, 'html.parser')

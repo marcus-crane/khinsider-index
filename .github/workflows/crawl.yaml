@@ -1,0 +1,47 @@
+name: "Update khinsider index"
+on:
+  push:
+    branches:
+      - 'main'
+    paths:
+      - 'index.json'
+  workflow_dispatch:
+
+jobs:
+  index-crawl:
+    name: index-crawl
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v4
+        with:
+          cache: 'pip'
+
+      - run: cd scripts
+
+      - run: pip install -r requirements.txt
+
+      - run: python platforms.py
+
+      - run: python index_to_letters.py
+
+      - run: cd ..
+
+      - name: Commit changes
+        run: |
+          set -eux
+
+          git config --local user.email "helper@utf9k.net"
+          git config --local user.name "Indexer Bot"
+          
+          git add .
+          git commit -a -m "Index extras have been updated" || exit 0
+      
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
