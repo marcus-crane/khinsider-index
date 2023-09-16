@@ -7,6 +7,9 @@ on:
       - 'index.json'
   workflow_dispatch:
 
+env:
+  PYTHONUNBUFFERED: 1 # ensure that python scripts live output instead of buffering
+
 jobs:
   index-crawl:
     name: index-crawl
