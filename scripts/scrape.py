@@ -242,7 +242,7 @@ for link in links:
 
     alt_titles = msoup.find("p", {"class": "albuminfoAlternativeTitles"})
     if alt_titles is not None:
-        album['titles_alternatives'] = alt_titles.text.split("\r\n")
+        album['titles_alternative'] = alt_titles.text.split("\r\n")
 
     album = parse_album_metadata(album, msoup)
     album = parse_album_tracks(album, msoup)
