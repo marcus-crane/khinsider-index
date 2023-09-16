@@ -1,0 +1,87 @@
+{
+  "title": "10-Yard Fight",
+  "titles_alternative": [
+    "10\u30e4\u30fc\u30c9\u30d5\u30a1\u30a4\u30c8"
+  ],
+  "crawled_at": "2023-09-16T10:26:09.854245+00:00",
+  "slug": "10-yard-fight-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/10-yard-fight-nes",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/10-yard-fight-nes/10-Yard%20Fight%20%28J%29.png"
+  ],
+  "year": 1985,
+  "date_added": "2016-06-02T00:00:00+00:00",
+  "developers": {
+    "Irem": "https://downloads.khinsider.com/game-soundtracks/developer/irem",
+    "Tose": "https://downloads.khinsider.com/game-soundtracks/developer/tose"
+  },
+  "publishers": {
+    "Irem": "https://downloads.khinsider.com/game-soundtracks/publisher/irem",
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 1,
+      "title": "Start Half",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/10-yard-fight-nes/ldjywkeh/1.-start-half.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/10-yard-fight-nes/1.-start-half.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 2,
+      "title": "Play Start",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/10-yard-fight-nes/ietgwfuq/2.-play-start.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/10-yard-fight-nes/2.-play-start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 293601,
+      "track_number": 3,
+      "title": "Gamed Theme",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/10-yard-fight-nes/refnjwxs/3.-gamed-theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/10-yard-fight-nes/3.-gamed-theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 4,
+      "title": "Touchdown",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/10-yard-fight-nes/soycpfoy/4.-touchdown.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/10-yard-fight-nes/4.-touchdown.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 5,
+      "title": "Game Over",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/10-yard-fight-nes/jmczllrh/5.-game-over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/10-yard-fight-nes/5.-game-over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 17,
+    "filesize_mp3_bytes": 744486,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

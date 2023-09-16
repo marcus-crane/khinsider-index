@@ -1,0 +1,50 @@
+{
+  "title": "1000 Cooking Recipes from Elle a Table",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-16T10:27:44.410632+00:00",
+  "slug": "1000-cooking-recipes-from-elle-a-table-2010-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/1000-cooking-recipes-from-elle-a-table-2010-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/1000-cooking-recipes-from-elle-a-table-2010-nds-gamerip/1000%20Cooking%20Recipes%20from%20Elle%20a%20Table.jpg"
+  ],
+  "year": 2010,
+  "date_added": "2020-06-01T00:00:00+00:00",
+  "developers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/developer/nintendo"
+  },
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11565793,
+      "filesize_mp3_bytes": 3932160,
+      "title": "Cook",
+      "runtime": 127,
+      "source_mp3": "https://vgmsite.com/soundtracks/1000-cooking-recipes-from-elle-a-table-2010-nds-gamerip/xamscnrzgf/Cook.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/1000-cooking-recipes-from-elle-a-table-2010-nds-gamerip/xamscnrzgf/Cook.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/1000-cooking-recipes-from-elle-a-table-2010-nds-gamerip/Cook.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 13935575,
+      "filesize_mp3_bytes": 4718592,
+      "title": "Title",
+      "runtime": 152,
+      "source_mp3": "https://vgmsite.com/soundtracks/1000-cooking-recipes-from-elle-a-table-2010-nds-gamerip/ofcdalcsyv/Title.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/1000-cooking-recipes-from-elle-a-table-2010-nds-gamerip/ofcdalcsyv/Title.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/1000-cooking-recipes-from-elle-a-table-2010-nds-gamerip/Title.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 279,
+    "filesize_mp3_bytes": 8650752,
+    "filesize_flac_bytes": 25501368,
+    "tracks": 2
+  }
+}

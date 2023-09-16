@@ -1,0 +1,98 @@
+{
+  "title": "16t",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-16T23:09:09.684375+00:00",
+  "slug": "16t-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/16t-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/16t-genesis/16t.png"
+  ],
+  "year": 1991,
+  "date_added": "2020-03-01T00:00:00+00:00",
+  "developers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2369781,
+      "filesize_mp3_bytes": 1038090,
+      "track_number": 1,
+      "title": "Title Theme",
+      "runtime": 47,
+      "source_mp3": "https://vgmsite.com/soundtracks/16t-genesis/zcatovxyke/01%20-%20Title%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/16t-genesis/zcatovxyke/01%20-%20Title%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/16t-genesis/01%2520-%2520Title%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1887436,
+      "filesize_mp3_bytes": 849346,
+      "track_number": 2,
+      "title": "BGM 1",
+      "runtime": 42,
+      "source_mp3": "https://vgmsite.com/soundtracks/16t-genesis/iarbemmvop/02%20-%20BGM%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/16t-genesis/iarbemmvop/02%20-%20BGM%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/16t-genesis/02%2520-%2520BGM%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3607101,
+      "filesize_mp3_bytes": 1184890,
+      "track_number": 3,
+      "title": "BGM 2",
+      "runtime": 56,
+      "source_mp3": "https://vgmsite.com/soundtracks/16t-genesis/grzduqwnks/03%20-%20BGM%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/16t-genesis/grzduqwnks/03%20-%20BGM%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/16t-genesis/03%2520-%2520BGM%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 188743,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 4,
+      "title": "Round Clear",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/16t-genesis/mdomwxfcdv/04%20-%20Round%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/16t-genesis/mdomwxfcdv/04%20-%20Round%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/16t-genesis/04%2520-%2520Round%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3439329,
+      "filesize_mp3_bytes": 1887436,
+      "track_number": 5,
+      "title": "Staff Roll",
+      "runtime": 91,
+      "source_mp3": "https://vgmsite.com/soundtracks/16t-genesis/tfmcyctwvo/05%20-%20Staff%20Roll.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/16t-genesis/tfmcyctwvo/05%20-%20Staff%20Roll.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/16t-genesis/05%2520-%2520Staff%2520Roll.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 283115,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 6,
+      "title": "Game Over",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/16t-genesis/tufnmnmetk/06%20-%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/16t-genesis/tufnmnmetk/06%20-%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/16t-genesis/06%2520-%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 247,
+    "filesize_mp3_bytes": 5158990,
+    "filesize_flac_bytes": 11775505,
+    "tracks": 6
+  }
+}

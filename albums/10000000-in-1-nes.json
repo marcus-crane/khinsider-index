@@ -1,0 +1,41 @@
+{
+  "title": "10000000-in-1",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-16T10:27:47.217635+00:00",
+  "slug": "10000000-in-1-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/10000000-in-1-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/10000000-in-1-nes/10000000-in-1.png"
+  ],
+  "date_added": "2022-03-10T00:00:00+00:00",
+  "developers": {
+    "19xx": "https://downloads.khinsider.com/game-soundtracks/developer/19xx",
+    "menu": "https://downloads.khinsider.com/game-soundtracks/developer/menu"
+  },
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10894704,
+      "filesize_mp3_bytes": 3554672,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/10000000-in-1-nes/hwzxkspfxa/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/10000000-in-1-nes/hwzxkspfxa/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/10000000-in-1-nes/01.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 180,
+    "filesize_mp3_bytes": 3554672,
+    "filesize_flac_bytes": 10894704,
+    "tracks": 1
+  }
+}

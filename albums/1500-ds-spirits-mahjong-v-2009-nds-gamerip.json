@@ -1,0 +1,54 @@
+{
+  "title": "1500 DS Spirits - Mahjong V",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-16T10:44:20.967392+00:00",
+  "slug": "1500-ds-spirits-mahjong-v-2009-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/1500-ds-spirits-mahjong-v-2009-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/1500-ds-spirits-mahjong-v-2009-nds-gamerip/1500DS%20Spirits%20Mahjong%20V.PNG"
+  ],
+  "year": 2009,
+  "date_added": "2020-06-01T00:00:00+00:00",
+  "developers": {
+    "Tasuke": "https://downloads.khinsider.com/game-soundtracks/developer/tasuke"
+  },
+  "publishers": {
+    "Tasuke": "https://downloads.khinsider.com/game-soundtracks/publisher/tasuke"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10349445,
+      "filesize_mp3_bytes": 2705326,
+      "track_number": 1,
+      "title": "Majang Qz BGM",
+      "runtime": 85,
+      "source_mp3": "https://vgmsite.com/soundtracks/1500-ds-spirits-mahjong-v-2009-nds-gamerip/tzajxdjqjl/01%20-%20Majang%20Qz%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/1500-ds-spirits-mahjong-v-2009-nds-gamerip/tzajxdjqjl/01%20-%20Majang%20Qz%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/1500-ds-spirits-mahjong-v-2009-nds-gamerip/01%2520-%2520Majang%2520Qz%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 440401,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 2,
+      "title": "Majang Qz Result",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/1500-ds-spirits-mahjong-v-2009-nds-gamerip/wjgiuqngkp/02%20-%20Majang%20Qz%20Result.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/1500-ds-spirits-mahjong-v-2009-nds-gamerip/wjgiuqngkp/02%20-%20Majang%20Qz%20Result.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/1500-ds-spirits-mahjong-v-2009-nds-gamerip/02%2520-%2520Majang%2520Qz%2520Result.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 89,
+    "filesize_mp3_bytes": 2820669,
+    "filesize_flac_bytes": 10789846,
+    "tracks": 2
+  }
+}

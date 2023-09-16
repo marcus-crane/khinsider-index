@@ -212,40 +212,47 @@ links = data['entries'].values()
 
 processed_links = [x.replace('.json', '') for x in os.listdir("../albums")]
 
+with open("../failure.log", "r") as file:
+    failures = file.read()
+
 for link in links:
     slug = link.replace('/game-soundtracks/album/', '')
-    if slug in processed_links:
-        print(f"Skipping {slug}")
+    if slug in processed_links or slug in failures: # We skip failures for now but will handle them when sync is complete
+        # print(f"Skipping {slug}")
         continue
-    url = urllib.parse.urljoin(BASE_URL, link)
-    mr = requests.get(url)
-    msoup = BeautifulSoup(mr.text, 'html.parser')
-    title = msoup.css.select("#pageContent h2")[0].text
+    try:
+        url = urllib.parse.urljoin(BASE_URL, link)
+        mr = requests.get(url)
+        msoup = BeautifulSoup(mr.text, 'html.parser')
+        title = msoup.css.select("#pageContent h2")[0].text
 
-    print(f"Processing {title}")
+        print(f"Processing {slug}")
 
-    images = []
+        images = []
 
-    for image in msoup.find("div", {"class": "albumImage"}).find_all("a"):
-        images.append(image['href'])
-        
+        for image in msoup.find("div", {"class": "albumImage"}).find_all("a"):
+            images.append(image['href'])
+            
 
-    album = {
-        "title": title,
-        "titles_alternative": [],
-        "crawled_at": pendulum.now(tz='UTC').to_rfc3339_string(),
-        "slug": slug,
-        "url": url,
-        "platforms": [],
-        "images": images
-    }
+        album = {
+            "title": title,
+            "titles_alternative": [],
+            "crawled_at": pendulum.now(tz='UTC').to_rfc3339_string(),
+            "slug": slug,
+            "url": url,
+            "platforms": [],
+            "images": images
+        }
 
-    alt_titles = msoup.find("p", {"class": "albuminfoAlternativeTitles"})
-    if alt_titles is not None:
-        album['titles_alternative'] = alt_titles.text.split("\r\n")
+        alt_titles = msoup.find("p", {"class": "albuminfoAlternativeTitles"})
+        if alt_titles is not None:
+            album['titles_alternative'] = alt_titles.text.split("\r\n")
 
-    album = parse_album_metadata(album, msoup)
-    album = parse_album_tracks(album, msoup)
+        album = parse_album_metadata(album, msoup)
+        album = parse_album_tracks(album, msoup)
 
-    with open(f"../albums/{slug}.json", 'w') as file:
-        json.dump(album, file, indent=2)
+        with open(f"../albums/{slug}.json", 'w') as file:
+            json.dump(album, file, indent=2)
+    except Exception:
+        with open("../failure.log", "a") as file:
+            file.write(f"{slug}\n")
