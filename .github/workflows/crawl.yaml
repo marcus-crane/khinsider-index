@@ -20,15 +20,14 @@ jobs:
         with:
           cache: 'pip'
 
-      - run: cd scripts
-
       - run: pip install -r requirements.txt
+        working-directory: scripts
 
       - run: python platforms.py
+        working-directory: scripts
 
       - run: python index_to_letters.py
-
-      - run: cd ..
+        working-directory: scripts
 
       - name: Commit changes
         run: |
