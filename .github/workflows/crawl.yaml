@@ -1,4 +1,4 @@
-name: "Update khinsider index"
+name: "Generate extra info from index"
 on:
   push:
     branches:
