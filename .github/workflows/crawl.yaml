@@ -36,6 +36,7 @@ jobs:
         working-directory: scripts
 
       - name: Commit changes
+        if: always()
         run: |
           set -eux
 
@@ -46,6 +47,7 @@ jobs:
           git commit -a -m "Index extras have been updated" || exit 0
       
       - name: Push changes
+        if: always()
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
