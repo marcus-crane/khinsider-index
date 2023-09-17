@@ -1,0 +1,66 @@
+{
+  "title": "Aleshar: The World of Ice",
+  "titles_alternative": [
+    "Cryosphere"
+  ],
+  "crawled_at": "2023-09-17T05:54:08.775106+00:00",
+  "slug": "aleshar-the-world-of-ice-1997",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/aleshar-the-world-of-ice-1997",
+  "platforms": {
+    "MS-DOS": "https://downloads.khinsider.com/game-soundtracks/ms-dos"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/aleshar-the-world-of-ice-1997/main-menu.png"
+  ],
+  "year": 1997,
+  "date_added": "2023-04-21T00:00:00+00:00",
+  "developers": {
+    "Janne Pulkkinen": "https://downloads.khinsider.com/game-soundtracks/developer/janne-pulkkinen",
+    "Ossi Honkanen": "https://downloads.khinsider.com/game-soundtracks/developer/ossi-honkanen",
+    "Vesa Norilo": "https://downloads.khinsider.com/game-soundtracks/developer/vesa-norilo"
+  },
+  "publishers": {
+    "Hypothermia": "https://downloads.khinsider.com/game-soundtracks/publisher/hypothermia"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5892997,
+      "track_number": 1,
+      "title": "World Map",
+      "runtime": 190,
+      "source_mp3": "https://vgmsite.com/soundtracks/aleshar-the-world-of-ice-1997/zjumadnqvd/01.%20World%20Map.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/aleshar-the-world-of-ice-1997/01.%2520World%2520Map.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3229614,
+      "track_number": 2,
+      "title": "Boss",
+      "runtime": 100,
+      "source_mp3": "https://vgmsite.com/soundtracks/aleshar-the-world-of-ice-1997/anmpolczkh/02.%20Boss.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/aleshar-the-world-of-ice-1997/02.%2520Boss.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1426063,
+      "track_number": 3,
+      "title": "Title",
+      "runtime": 46,
+      "source_mp3": "https://vgmsite.com/soundtracks/aleshar-the-world-of-ice-1997/phceprseii/03.%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/aleshar-the-world-of-ice-1997/03.%2520Title.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 336,
+    "filesize_mp3_bytes": 10548674,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "title": "Afterburner",
+  "titles_alternative": [
+    "After Burner",
+    "\u30a2\u30d5\u30bf\u30fc\u30d0\u30fc\u30ca\u30fc"
+  ],
+  "crawled_at": "2023-09-17T05:21:24.536565+00:00",
+  "slug": "afterburner-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/afterburner-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/afterburner-commodore-64/A1.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2016-03-12T00:00:00+00:00",
+  "developers": {
+    "Sega AM2": "https://downloads.khinsider.com/game-soundtracks/developer/sega-am2",
+    "Software Studios": "https://downloads.khinsider.com/game-soundtracks/developer/software-studios"
+  },
+  "publishers": {
+    "Activision": "https://downloads.khinsider.com/game-soundtracks/publisher/activision",
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5756682,
+      "track_number": 1,
+      "title": "Title Screen After Burner",
+      "runtime": 341,
+      "source_mp3": "https://vgmsite.com/soundtracks/afterburner-commodore-64/ifhdbreu/01_Title%20Screen%20After%20Burner.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/afterburner-commodore-64/01_Title%2520Screen%2520After%2520Burner.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3313500,
+      "track_number": 2,
+      "title": "Super Stripe",
+      "runtime": 154,
+      "source_mp3": "https://vgmsite.com/soundtracks/afterburner-commodore-64/pjjwlrow/02_Super%20Stripe.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/afterburner-commodore-64/02_Super%2520Stripe.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3764387,
+      "track_number": 3,
+      "title": "BGM #1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/afterburner-commodore-64/zxmrwlqo/03_BGM%20%231.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/afterburner-commodore-64/03_BGM%2520%25231.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 807403,
+      "track_number": 4,
+      "title": "BGM #2",
+      "runtime": 44,
+      "source_mp3": "https://vgmsite.com/soundtracks/afterburner-commodore-64/khmepead/04_BGM%20%232.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/afterburner-commodore-64/04_BGM%2520%25232.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 199229,
+      "track_number": 5,
+      "title": "Jingle #1",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/afterburner-commodore-64/ytprdaqt/05_Jingle%20%231.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/afterburner-commodore-64/05_Jingle%2520%25231.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 6,
+      "title": "Jingle #2",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/afterburner-commodore-64/hwculhdi/06_Jingle%20%232.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/afterburner-commodore-64/06_Jingle%2520%25232.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 188743,
+      "track_number": 7,
+      "title": "Jingle #3",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/afterburner-commodore-64/qdxqvtbb/07_Jingle%20%233.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/afterburner-commodore-64/07_Jingle%2520%25233.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 8,
+      "title": "Jingle #4",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/afterburner-commodore-64/gpmjdalu/08_Jingle%20%234.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/afterburner-commodore-64/08_Jingle%2520%25234.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 747,
+    "filesize_mp3_bytes": 14271116,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

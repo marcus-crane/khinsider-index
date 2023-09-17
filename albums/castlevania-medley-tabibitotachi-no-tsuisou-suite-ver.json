@@ -1,0 +1,52 @@
+{
+  "title": "Akumajo Dracula Medley ~Tabibitotachi no Tsuisou Suite ver.~",
+  "titles_alternative": [
+    "\u60aa\u9b54\u57ce\u30c9\u30e9\u30ad\u30e5\u30e9\u30e1\u30c9\u30ec\u30fc \uff5e\u65c5\u4eba\u305f\u3061\u306e\u8ffd\u60f3\u7d44\u66f2ver.\uff5e",
+    "Castlevania Medley ~Tabibitotachi no Tsuisou Suite ver.~"
+  ],
+  "crawled_at": "2023-09-17T05:46:47.748809+00:00",
+  "slug": "castlevania-medley-tabibitotachi-no-tsuisou-suite-ver",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/castlevania-medley-tabibitotachi-no-tsuisou-suite-ver",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds",
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "FDS": "https://downloads.khinsider.com/game-soundtracks/famicom-disk-system",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes",
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation",
+    "PS2": "https://downloads.khinsider.com/game-soundtracks/playstation-2",
+    "Saturn": "https://downloads.khinsider.com/game-soundtracks/sega-saturn",
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/castlevania-medley-tabibitotachi-no-tsuisou-suite-ver/coverart.jpg"
+  ],
+  "year": 2018,
+  "catalog_number": null,
+  "date_added": "2020-12-29T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 285904732,
+      "filesize_mp3_bytes": 25239224,
+      "track_number": 1,
+      "title": "Castlevania Medley _Journeyers Recollection Suite ver._",
+      "runtime": 769,
+      "source_mp3": "https://vgmsite.com/soundtracks/castlevania-medley-tabibitotachi-no-tsuisou-suite-ver/zxnyucvfaf/01%20Castlevania%20Medley%20_Journeyers%20Recollection%20Suite%20ver._.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/castlevania-medley-tabibitotachi-no-tsuisou-suite-ver/zxnyucvfaf/01%20Castlevania%20Medley%20_Journeyers%20Recollection%20Suite%20ver._.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/castlevania-medley-tabibitotachi-no-tsuisou-suite-ver/01%2520Castlevania%2520Medley%2520_Journeyers%2520Recollection%2520Suite%2520ver._.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 769,
+    "filesize_mp3_bytes": 25239224,
+    "filesize_flac_bytes": 285904732,
+    "tracks": 1
+  }
+}

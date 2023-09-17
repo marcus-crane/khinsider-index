@@ -1,0 +1,84 @@
+{
+  "title": "Air Combat Yuugekiou II",
+  "titles_alternative": [
+    "\u30a8\u30a2\u30fc\u30fb\u30b3\u30f3\u30d0\u30c3\u30c8 \u904a\u6483\u738b\u2161"
+  ],
+  "crawled_at": "2023-09-17T05:32:54.783995+00:00",
+  "slug": "air-combat-yuugekiou-ii-x68000",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/air-combat-yuugekiou-ii-x68000",
+  "platforms": {
+    "X68000": "https://downloads.khinsider.com/game-soundtracks/x68000"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/air-combat-yuugekiou-ii-x68000/A1.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2017-12-07T00:00:00+00:00",
+  "developers": {
+    "SystemSoft": "https://downloads.khinsider.com/game-soundtracks/developer/systemsoft"
+  },
+  "publishers": {
+    "SystemSoft": "https://downloads.khinsider.com/game-soundtracks/publisher/systemsoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2589982,
+      "track_number": 1,
+      "title": "AIR COMBAT (\u30bf\u30a4\u30c8\u30eb)",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/air-combat-yuugekiou-ii-x68000/kihybipj/01_AIR%20COMBAT%20%28%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/air-combat-yuugekiou-ii-x68000/01_AIR%2520COMBAT%2520%2528%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%2588%25E3%2583%25AB%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2768240,
+      "track_number": 2,
+      "title": "BRIEFING (\u30e1\u30cb\u30e5\u30fc)",
+      "runtime": 102,
+      "source_mp3": "https://vgmsite.com/soundtracks/air-combat-yuugekiou-ii-x68000/pgjkilta/02_BRIEFING%20%28%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/air-combat-yuugekiou-ii-x68000/02_BRIEFING%2520%2528%25E3%2583%25A1%25E3%2583%258B%25E3%2583%25A5%25E3%2583%25BC%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 692060,
+      "track_number": 3,
+      "title": "Lose Mission (\u4efb\u52d9\u5931\u6557)",
+      "runtime": 25,
+      "source_mp3": "https://vgmsite.com/soundtracks/air-combat-yuugekiou-ii-x68000/hlksavow/03_Lose%20Mission%20%28%E4%BB%BB%E5%8B%99%E5%A4%B1%E6%95%97%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/air-combat-yuugekiou-ii-x68000/03_Lose%2520Mission%2520%2528%25E4%25BB%25BB%25E5%258B%2599%25E5%25A4%25B1%25E6%2595%2597%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 639631,
+      "track_number": 4,
+      "title": "COMPLETE (\u4efb\u52d9\u6210\u529f)",
+      "runtime": 24,
+      "source_mp3": "https://vgmsite.com/soundtracks/air-combat-yuugekiou-ii-x68000/lcefqnxy/04_COMPLETE%20%28%E4%BB%BB%E5%8B%99%E6%88%90%E5%8A%9F%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/air-combat-yuugekiou-ii-x68000/04_COMPLETE%2520%2528%25E4%25BB%25BB%25E5%258B%2599%25E6%2588%2590%25E5%258A%259F%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3103784,
+      "track_number": 5,
+      "title": "LIBERATION (\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0)",
+      "runtime": 116,
+      "source_mp3": "https://vgmsite.com/soundtracks/air-combat-yuugekiou-ii-x68000/fidbgdxr/05_LIBERATION%20%28%E3%82%A8%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/air-combat-yuugekiou-ii-x68000/05_LIBERATION%2520%2528%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 363,
+    "filesize_mp3_bytes": 9793697,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

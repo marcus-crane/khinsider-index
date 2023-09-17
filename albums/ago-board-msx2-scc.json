@@ -1,0 +1,67 @@
+{
+  "title": "Ago Board (SCC)",
+  "titles_alternative": [
+    "\u30a2\u30b4\u30dc\u30fc\u30c9"
+  ],
+  "crawled_at": "2023-09-17T05:29:34.804893+00:00",
+  "slug": "ago-board-msx2-scc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ago-board-msx2-scc",
+  "platforms": {
+    "MSX2": "https://downloads.khinsider.com/game-soundtracks/msx2"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ago-board-msx2-scc/Ago%20Board.png"
+  ],
+  "year": 1989,
+  "date_added": "2022-03-10T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami"
+  },
+  "publishers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5934940,
+      "filesize_mp3_bytes": 2275409,
+      "track_number": 1,
+      "title": "Main BGM",
+      "runtime": 111,
+      "source_mp3": "https://vgmsite.com/soundtracks/ago-board-msx2-scc/lfcubtmgxi/01%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ago-board-msx2-scc/lfcubtmgxi/01%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ago-board-msx2-scc/01%2520Main%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 178257,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 2,
+      "title": "Win",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/ago-board-msx2-scc/frsbzbttbh/02%20Win.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ago-board-msx2-scc/frsbzbttbh/02%20Win.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ago-board-msx2-scc/02%2520Win.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 209715,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 3,
+      "title": "Draw",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/ago-board-msx2-scc/npqhvqhvrn/03%20Draw.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ago-board-msx2-scc/npqhvqhvrn/03%20Draw.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ago-board-msx2-scc/03%2520Draw.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 118,
+    "filesize_mp3_bytes": 2411723,
+    "filesize_flac_bytes": 6322912,
+    "tracks": 3
+  }
+}

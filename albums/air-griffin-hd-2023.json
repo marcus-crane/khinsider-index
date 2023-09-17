@@ -1,0 +1,54 @@
+{
+  "title": "Air Griffin (HD)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T05:33:14.678285+00:00",
+  "slug": "air-griffin-hd-2023",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/air-griffin-hd-2023",
+  "platforms": {
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/air-griffin-hd-2023/icon.png"
+  ],
+  "year": 2023,
+  "date_added": "2023-08-01T00:00:00+00:00",
+  "developers": {
+    "Airborne": "https://downloads.khinsider.com/game-soundtracks/developer/airborne"
+  },
+  "publishers": {
+    "Airborne": "https://downloads.khinsider.com/game-soundtracks/publisher/airborne"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 188743,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 1,
+      "title": "Flight Over",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/air-griffin-hd-2023/gtrgbiokjl/01.%20Flight%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/air-griffin-hd-2023/gtrgbiokjl/01.%20Flight%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/air-griffin-hd-2023/01.%2520Flight%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1562378,
+      "filesize_mp3_bytes": 503316,
+      "track_number": 2,
+      "title": "Theme",
+      "runtime": 20,
+      "source_mp3": "https://vgmsite.com/soundtracks/air-griffin-hd-2023/jqxlcloowf/02.%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/air-griffin-hd-2023/jqxlcloowf/02.%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/air-griffin-hd-2023/02.%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 23,
+    "filesize_mp3_bytes": 566230,
+    "filesize_flac_bytes": 1751121,
+    "tracks": 2
+  }
+}

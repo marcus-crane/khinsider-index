@@ -1,0 +1,69 @@
+{
+  "title": "Age of Booty (Xbox Live Arcade)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T05:22:39.905780+00:00",
+  "slug": "age-of-booty-xbox-live-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/age-of-booty-xbox-live-arcade",
+  "platforms": {
+    "Xbox 360": "https://downloads.khinsider.com/game-soundtracks/xbox-360"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/age-of-booty-xbox-live-arcade/coverart.jpg"
+  ],
+  "date_added": "2019-04-21T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 13746831,
+      "filesize_mp3_bytes": 9531555,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 107,
+      "source_mp3": "https://vgmsite.com/soundtracks/age-of-booty-xbox-live-arcade/sofdzpik/01.%20Title.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/age-of-booty-xbox-live-arcade/sofdzpik/01.%20Title.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/age-of-booty-xbox-live-arcade/01.%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 15843983,
+      "filesize_mp3_bytes": 10234101,
+      "track_number": 2,
+      "title": "Map Editor",
+      "runtime": 124,
+      "source_mp3": "https://vgmsite.com/soundtracks/age-of-booty-xbox-live-arcade/rwgouiwa/02.%20Map%20Editor.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/age-of-booty-xbox-live-arcade/rwgouiwa/02.%20Map%20Editor.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/age-of-booty-xbox-live-arcade/02.%2520Map%2520Editor.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5872025,
+      "filesize_mp3_bytes": 5599395,
+      "track_number": 3,
+      "title": "Win",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/age-of-booty-xbox-live-arcade/lobyqjcv/03.%20Win.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/age-of-booty-xbox-live-arcade/lobyqjcv/03.%20Win.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/age-of-booty-xbox-live-arcade/03.%2520Win.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5872025,
+      "filesize_mp3_bytes": 5620367,
+      "track_number": 4,
+      "title": "Tie",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/age-of-booty-xbox-live-arcade/cvpusxbg/04.%20Tie.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/age-of-booty-xbox-live-arcade/cvpusxbg/04.%20Tie.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/age-of-booty-xbox-live-arcade/04.%2520Tie.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 249,
+    "filesize_mp3_bytes": 30985418,
+    "filesize_flac_bytes": 41334864,
+    "tracks": 4
+  }
+}

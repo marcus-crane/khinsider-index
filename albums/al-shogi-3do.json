@@ -1,0 +1,58 @@
+{
+  "title": "Al Shogi",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T05:49:34.552457+00:00",
+  "slug": "al-shogi-3do",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/al-shogi-3do",
+  "platforms": {
+    "3DO": "https://downloads.khinsider.com/game-soundtracks/3do"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/al-shogi-3do/alshogi.png"
+  ],
+  "year": 1995,
+  "date_added": "2021-12-04T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2097152,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 46,
+      "source_mp3": "https://vgmsite.com/soundtracks/al-shogi-3do/uszvzznhpk/1%20-%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/al-shogi-3do/1%2520-%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2977955,
+      "track_number": 2,
+      "title": "BGM 1",
+      "runtime": 68,
+      "source_mp3": "https://vgmsite.com/soundtracks/al-shogi-3do/hafvdgvjyy/2%20-%20BGM%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/al-shogi-3do/2%2520-%2520BGM%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2589982,
+      "track_number": 3,
+      "title": "BGM 2",
+      "runtime": 58,
+      "source_mp3": "https://vgmsite.com/soundtracks/al-shogi-3do/wnhnvbsxwf/3%20-%20BGM%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/al-shogi-3do/3%2520-%2520BGM%25202.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 172,
+    "filesize_mp3_bytes": 7665089,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

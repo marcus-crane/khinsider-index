@@ -1,0 +1,63 @@
+{
+  "title": "Adidas Championship Football",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T05:08:21.601147+00:00",
+  "slug": "adidas-championship-football-zx-spectrum",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/adidas-championship-football-zx-spectrum",
+  "platforms": {
+    "Spectrum": "https://downloads.khinsider.com/game-soundtracks/spectrum"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/adidas-championship-football-zx-spectrum/F1.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2016-06-29T00:00:00+00:00",
+  "developers": {
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/developer/ocean"
+  },
+  "publishers": {
+    "Erbe Software": "https://downloads.khinsider.com/game-soundtracks/publisher/erbe-software",
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/publisher/ocean"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2275409,
+      "track_number": 1,
+      "title": "Intro  Game Options",
+      "runtime": 123,
+      "source_mp3": "https://vgmsite.com/soundtracks/adidas-championship-football-zx-spectrum/zknhzsww/01_Intro%20%20Game%20Options.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/adidas-championship-football-zx-spectrum/01_Intro%2520%2520Game%2520Options.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3208642,
+      "track_number": 2,
+      "title": "This Week's Matches  Player Options",
+      "runtime": 178,
+      "source_mp3": "https://vgmsite.com/soundtracks/adidas-championship-football-zx-spectrum/ktqflboz/02_This%20Week%27s%20Matches%20%20Player%20Options.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/adidas-championship-football-zx-spectrum/02_This%2520Week%2527s%2520Matches%2520%2520Player%2520Options.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1457520,
+      "track_number": 3,
+      "title": "Heads or Tails",
+      "runtime": 80,
+      "source_mp3": "https://vgmsite.com/soundtracks/adidas-championship-football-zx-spectrum/ydoyzovg/03_Heads%20or%20Tails.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/adidas-championship-football-zx-spectrum/03_Heads%2520or%2520Tails.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 381,
+    "filesize_mp3_bytes": 6941571,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

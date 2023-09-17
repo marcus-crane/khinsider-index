@@ -1,0 +1,93 @@
+{
+  "title": "Aeolus",
+  "titles_alternative": [
+    "[ROAS-IV] Ragnarok Online Arrange Music"
+  ],
+  "crawled_at": "2023-09-17T05:16:37.036489+00:00",
+  "slug": "ragnaork-online-arrange-aeolus",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ragnaork-online-arrange-aeolus",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ragnaork-online-arrange-aeolus/Cover.jpg"
+  ],
+  "year": 2003,
+  "catalog_number": "SRRM-0005",
+  "date_added": "2014-11-05T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Sonic Revolution": "https://downloads.khinsider.com/game-soundtracks/publisher/sonic-revolution"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7958691,
+      "track_number": 1,
+      "title": "Aeon - Terror Scream REMIX -",
+      "runtime": 293,
+      "source_mp3": "https://vgmsite.com/soundtracks/ragnaork-online-arrange-aeolus/ntnffsih/01%20Aeon%20-%20Terror%20Scream%20REMIX%20-.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ragnaork-online-arrange-aeolus/01%2520Aeon%2520-%2520Terror%2520Scream%2520REMIX%2520-.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8399093,
+      "track_number": 2,
+      "title": "Zingaro - Sacrifice REMIX -",
+      "runtime": 283,
+      "source_mp3": "https://vgmsite.com/soundtracks/ragnaork-online-arrange-aeolus/nlvrnusn/02%20Zingaro%20-%20Sacrifice%20REMIX%20-.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ragnaork-online-arrange-aeolus/02%2520Zingaro%2520-%2520Sacrifice%2520REMIX%2520-.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7214202,
+      "track_number": 3,
+      "title": "Dreamer's Dream - Sorrow Of Myst -",
+      "runtime": 248,
+      "source_mp3": "https://vgmsite.com/soundtracks/ragnaork-online-arrange-aeolus/ymtdwihc/03%20Dreamer%27s%20Dream%20-%20Sorrow%20Of%20Myst%20-.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ragnaork-online-arrange-aeolus/03%2520Dreamer%2527s%2520Dream%2520-%2520Sorrow%2520Of%2520Myst%2520-.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7843348,
+      "track_number": 4,
+      "title": "Out of Curiosity - Death.Or.Positive Style -",
+      "runtime": 249,
+      "source_mp3": "https://vgmsite.com/soundtracks/ragnaork-online-arrange-aeolus/huhndixa/04%20Out%20of%20Curiosity%20-%20Death.Or.Positive%20Style%20-.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ragnaork-online-arrange-aeolus/04%2520Out%2520of%2520Curiosity%2520-%2520Death.Or.Positive%2520Style%2520-.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7560232,
+      "track_number": 5,
+      "title": "Hamatan - envenomix -",
+      "runtime": 261,
+      "source_mp3": "https://vgmsite.com/soundtracks/ragnaork-online-arrange-aeolus/tnejmpgy/05%20Hamatan%20-%20envenomix%20-.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ragnaork-online-arrange-aeolus/05%2520Hamatan%2520-%2520envenomix%2520-.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6616514,
+      "track_number": 6,
+      "title": "Theme of Lutie - White Snow -",
+      "runtime": 273,
+      "source_mp3": "https://vgmsite.com/soundtracks/ragnaork-online-arrange-aeolus/akrobqqk/06%20Theme%20of%20Lutie%20-%20White%20Snow%20-.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ragnaork-online-arrange-aeolus/06%2520Theme%2520of%2520Lutie%2520-%2520White%2520Snow%2520-.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1607,
+    "filesize_mp3_bytes": 45592080,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

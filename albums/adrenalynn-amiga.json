@@ -1,0 +1,48 @@
+{
+  "title": "Adrenalynn",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T05:09:21.295395+00:00",
+  "slug": "adrenalynn-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/adrenalynn-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/adrenalynn-amiga/1e45aa936486cbfd147422abd164cf80ed61d390.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2021-03-07T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2055208,
+      "track_number": 1,
+      "title": "Ages 61",
+      "runtime": 128,
+      "source_mp3": "https://vgmsite.com/soundtracks/adrenalynn-amiga/owhjnijwun/01%20Ages%2061.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/adrenalynn-amiga/01%2520Ages%252061.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1237319,
+      "track_number": 2,
+      "title": "Optimized ABN",
+      "runtime": 77,
+      "source_mp3": "https://vgmsite.com/soundtracks/adrenalynn-amiga/cfkhckrsru/02%20Optimized%20ABN.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/adrenalynn-amiga/02%2520Optimized%2520ABN.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 205,
+    "filesize_mp3_bytes": 3292527,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

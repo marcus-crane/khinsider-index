@@ -1,0 +1,91 @@
+{
+  "title": "Aladdin",
+  "titles_alternative": [
+    "Disney's Aladdin"
+  ],
+  "crawled_at": "2023-09-17T05:50:02.953372+00:00",
+  "slug": "aladdin-gameboy-sgb-1994",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/aladdin-gameboy-sgb-1994",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/aladdin-gameboy-sgb-1994/172919-disney-s-aladdin-game-boy-screenshot-title-screen.png"
+  ],
+  "year": 1994,
+  "catalog_number": null,
+  "date_added": "2018-05-25T00:00:00+00:00",
+  "developers": {
+    "Virgin Games": "https://downloads.khinsider.com/game-soundtracks/developer/virgin-games"
+  },
+  "publishers": {
+    "THQ": "https://downloads.khinsider.com/game-soundtracks/publisher/thq",
+    "Virgin Interactive Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/virgin-interactive-entertainment"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10286530,
+      "filesize_mp3_bytes": 7203717,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/aladdin-gameboy-sgb-1994/srreztdd/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/aladdin-gameboy-sgb-1994/srreztdd/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/aladdin-gameboy-sgb-1994/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9531555,
+      "filesize_mp3_bytes": 7203717,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/aladdin-gameboy-sgb-1994/utuonfoc/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/aladdin-gameboy-sgb-1994/utuonfoc/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/aladdin-gameboy-sgb-1994/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9950986,
+      "filesize_mp3_bytes": 7203717,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/aladdin-gameboy-sgb-1994/kemtzkzz/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/aladdin-gameboy-sgb-1994/kemtzkzz/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/aladdin-gameboy-sgb-1994/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9992929,
+      "filesize_mp3_bytes": 7203717,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/aladdin-gameboy-sgb-1994/rcyyurvv/04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/aladdin-gameboy-sgb-1994/rcyyurvv/04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/aladdin-gameboy-sgb-1994/04.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 262144,
+      "filesize_mp3_bytes": 209715,
+      "track_number": 5,
+      "title": "Track 5",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/aladdin-gameboy-sgb-1994/thjnnqlm/05.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/aladdin-gameboy-sgb-1994/thjnnqlm/05.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/aladdin-gameboy-sgb-1994/05.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 725,
+    "filesize_mp3_bytes": 29024583,
+    "filesize_flac_bytes": 40024144,
+    "tracks": 5
+  }
+}

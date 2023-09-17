@@ -1,0 +1,37 @@
+{
+  "title": "Air Support",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T05:34:02.496293+00:00",
+  "slug": "air-support-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/air-support-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/air-support-amiga/Air%20Support.jpg"
+  ],
+  "year": 1992,
+  "date_added": "2020-06-07T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4204789,
+      "title": "Title Screen",
+      "runtime": 206,
+      "source_mp3": "https://vgmsite.com/soundtracks/air-support-amiga/fczmldnuyr/Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/air-support-amiga/Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 206,
+    "filesize_mp3_bytes": 4204789,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

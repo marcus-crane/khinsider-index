@@ -1,0 +1,102 @@
+{
+  "title": "Alien 3",
+  "titles_alternative": [
+    "Alien\u00b3",
+    "\u30a8\u30a4\u30ea\u30a2\u30f33"
+  ],
+  "crawled_at": "2023-09-17T05:59:47.657081+00:00",
+  "slug": "alien-3-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/alien-3-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/alien-3-amiga/26692--alien-3.png"
+  ],
+  "year": 1992,
+  "date_added": "2015-07-14T00:00:00+00:00",
+  "developers": {
+    "Acclaim Studios London": "https://downloads.khinsider.com/game-soundtracks/developer/acclaim-studios-london",
+    "BITS Studios": "https://downloads.khinsider.com/game-soundtracks/developer/bits-studios"
+  },
+  "publishers": {
+    "Acclaim Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/acclaim-entertainment",
+    "Acclaim Japan": "https://downloads.khinsider.com/game-soundtracks/publisher/acclaim-japan",
+    "Arena Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/arena-entertainment",
+    "LJN": "https://downloads.khinsider.com/game-soundtracks/publisher/ljn",
+    "Tectoy": "https://downloads.khinsider.com/game-soundtracks/publisher/tectoy",
+    "Virgin Group": "https://downloads.khinsider.com/game-soundtracks/publisher/virgin-group",
+    "Virgin Interactive": "https://downloads.khinsider.com/game-soundtracks/publisher/virgin-interactive"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5473566,
+      "track_number": 1,
+      "title": "Level 1",
+      "runtime": 164,
+      "source_mp3": "https://vgmsite.com/soundtracks/alien-3-amiga/gnigfhhm/01_Level%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alien-3-amiga/01_Level%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3009413,
+      "track_number": 2,
+      "title": "Level 2",
+      "runtime": 94,
+      "source_mp3": "https://vgmsite.com/soundtracks/alien-3-amiga/jmjjdscq/02_Level%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alien-3-amiga/02_Level%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5337251,
+      "track_number": 3,
+      "title": "Level 3",
+      "runtime": 153,
+      "source_mp3": "https://vgmsite.com/soundtracks/alien-3-amiga/uzlcnyqp/03_Level%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alien-3-amiga/03_Level%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5872025,
+      "track_number": 4,
+      "title": "Level 4",
+      "runtime": 179,
+      "source_mp3": "https://vgmsite.com/soundtracks/alien-3-amiga/zkwkycgb/04_Level%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alien-3-amiga/04_Level%25204.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5295308,
+      "track_number": 5,
+      "title": "Level 5",
+      "runtime": 156,
+      "source_mp3": "https://vgmsite.com/soundtracks/alien-3-amiga/mgfxincl/05_Level%205.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alien-3-amiga/05_Level%25205.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1908408,
+      "track_number": 6,
+      "title": "Boss",
+      "runtime": 55,
+      "source_mp3": "https://vgmsite.com/soundtracks/alien-3-amiga/jktfzgpc/06_Boss.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alien-3-amiga/06_Boss.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 801,
+    "filesize_mp3_bytes": 26895971,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

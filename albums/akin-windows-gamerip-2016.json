@@ -1,0 +1,62 @@
+{
+  "title": "Akin",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T05:41:35.744289+00:00",
+  "slug": "akin-windows-gamerip-2016",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/akin-windows-gamerip-2016",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/akin-windows-gamerip-2016/Background.jpg"
+  ],
+  "year": 2016,
+  "date_added": "2023-02-27T00:00:00+00:00",
+  "developers": {
+    "ThinkOfGames": "https://downloads.khinsider.com/game-soundtracks/developer/thinkofgames"
+  },
+  "publishers": {
+    "Big Black Bear": "https://downloads.khinsider.com/game-soundtracks/publisher/big-black-bear"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6627000,
+      "track_number": 1,
+      "title": "Atmospheric",
+      "runtime": 166,
+      "source_mp3": "https://vgmsite.com/soundtracks/akin-windows-gamerip-2016/tuiqanswrm/01.%20Atmospheric.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/akin-windows-gamerip-2016/01.%2520Atmospheric.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6952058,
+      "track_number": 2,
+      "title": "Euphoria",
+      "runtime": 174,
+      "source_mp3": "https://vgmsite.com/soundtracks/akin-windows-gamerip-2016/ocuuzuhbei/02.%20Euphoria.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/akin-windows-gamerip-2016/02.%2520Euphoria.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5242880,
+      "track_number": 3,
+      "title": "Space",
+      "runtime": 131,
+      "source_mp3": "https://vgmsite.com/soundtracks/akin-windows-gamerip-2016/ptljzhrtfu/03.%20Space.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/akin-windows-gamerip-2016/03.%2520Space.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 471,
+    "filesize_mp3_bytes": 18821938,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

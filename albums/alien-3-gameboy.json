@@ -1,0 +1,75 @@
+{
+  "title": "Alien 3",
+  "titles_alternative": [
+    "Alien\u00b3",
+    "\u30a8\u30a4\u30ea\u30a2\u30f33"
+  ],
+  "crawled_at": "2023-09-17T05:59:50.522234+00:00",
+  "slug": "alien-3-gameboy",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/alien-3-gameboy",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/alien-3-gameboy/Alien3.png"
+  ],
+  "year": 1993,
+  "date_added": "2018-01-09T00:00:00+00:00",
+  "developers": {
+    "B.I.T.S. Ltd.": "https://downloads.khinsider.com/game-soundtracks/developer/b.i.t.s"
+  },
+  "publishers": {
+    "LJN": "https://downloads.khinsider.com/game-soundtracks/publisher/ljn"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5190451,
+      "track_number": 1,
+      "title": "Track 01 - Alien 3",
+      "runtime": 147,
+      "source_mp3": "https://vgmsite.com/soundtracks/alien-3-gameboy/kwcrorxh/01_Track%2001%20-%20Alien%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alien-3-gameboy/01_Track%252001%2520-%2520Alien%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8063549,
+      "track_number": 2,
+      "title": "Track 02 - Alien 3",
+      "runtime": 250,
+      "source_mp3": "https://vgmsite.com/soundtracks/alien-3-gameboy/hddmcvhe/02_Track%2002%20-%20Alien%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alien-3-gameboy/02_Track%252002%2520-%2520Alien%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1824522,
+      "track_number": 3,
+      "title": "Track 03 - Alien 3",
+      "runtime": 55,
+      "source_mp3": "https://vgmsite.com/soundtracks/alien-3-gameboy/tzovongi/03_Track%2003%20-%20Alien%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alien-3-gameboy/03_Track%252003%2520-%2520Alien%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 157286,
+      "track_number": 4,
+      "title": "Track 04 - Alien 3",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/alien-3-gameboy/vymsqyqx/04_Track%2004%20-%20Alien%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alien-3-gameboy/04_Track%252004%2520-%2520Alien%25203.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 457,
+    "filesize_mp3_bytes": 15235808,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

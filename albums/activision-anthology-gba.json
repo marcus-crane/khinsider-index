@@ -1,0 +1,68 @@
+{
+  "title": "Activision Anthology",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T05:07:08.508404+00:00",
+  "slug": "activision-anthology-gba",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/activision-anthology-gba",
+  "platforms": {
+    "GBA": "https://downloads.khinsider.com/game-soundtracks/gameboy-advance"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/activision-anthology-gba/1589294237-83a5db40-33a6-4776-b201-f201e240394e.jpg"
+  ],
+  "year": 2002,
+  "date_added": "2015-11-01T00:00:00+00:00",
+  "developers": {
+    "Activision": "https://downloads.khinsider.com/game-soundtracks/developer/activision"
+  },
+  "publishers": {
+    "Activision": "https://downloads.khinsider.com/game-soundtracks/publisher/activision"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2139095,
+      "title": "Activision Anthology 01 - Anthology",
+      "runtime": 133,
+      "source_mp3": "https://vgmsite.com/soundtracks/activision-anthology-gba/frcbxudo/Activision%20Anthology%2001%20-%20Anthology.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/activision-anthology-gba/Activision%2520Anthology%252001%2520-%2520Anthology.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2390753,
+      "title": "Activision Anthology 02 - Overtaken",
+      "runtime": 149,
+      "source_mp3": "https://vgmsite.com/soundtracks/activision-anthology-gba/owncokfy/Activision%20Anthology%2002%20-%20Overtaken.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/activision-anthology-gba/Activision%2520Anthology%252002%2520-%2520Overtaken.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2202009,
+      "title": "Activision Anthology 03 - Leap",
+      "runtime": 138,
+      "source_mp3": "https://vgmsite.com/soundtracks/activision-anthology-gba/kbnuagdd/Activision%20Anthology%2003%20-%20Leap.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/activision-anthology-gba/Activision%2520Anthology%252003%2520-%2520Leap.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2243952,
+      "title": "Activision Anthology 04 - Curtain",
+      "runtime": 140,
+      "source_mp3": "https://vgmsite.com/soundtracks/activision-anthology-gba/ptemsneb/Activision%20Anthology%2004%20-%20Curtain.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/activision-anthology-gba/Activision%2520Anthology%252004%2520-%2520Curtain.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 560,
+    "filesize_mp3_bytes": 8975809,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "title": "Action Ball",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T05:05:45.264045+00:00",
+  "slug": "action-ball-windows-gamerip-2005",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/action-ball-windows-gamerip-2005",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/action-ball-windows-gamerip-2005/action-ball.jpg"
+  ],
+  "year": 2005,
+  "date_added": "2023-09-06T00:00:00+00:00",
+  "developers": {
+    "Rionix": "https://downloads.khinsider.com/game-soundtracks/developer/rionix"
+  },
+  "publishers": {
+    "Alawar Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/alawar-entertainment",
+    "Big Fish Games": "https://downloads.khinsider.com/game-soundtracks/publisher/big-fish-games",
+    "RealArcade": "https://downloads.khinsider.com/game-soundtracks/publisher/realarcade",
+    "Reflexive Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/reflexive-entertainment"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4288675,
+      "track_number": 1,
+      "title": "Menu",
+      "runtime": 67,
+      "source_mp3": "https://vgmsite.com/soundtracks/action-ball-windows-gamerip-2005/fjvxaiojoi/01.%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/action-ball-windows-gamerip-2005/01.%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4278190,
+      "track_number": 2,
+      "title": "Track 1",
+      "runtime": 67,
+      "source_mp3": "https://vgmsite.com/soundtracks/action-ball-windows-gamerip-2005/tybdumfqrp/02.%20Track%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/action-ball-windows-gamerip-2005/02.%2520Track%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5117050,
+      "track_number": 3,
+      "title": "Track 2",
+      "runtime": 88,
+      "source_mp3": "https://vgmsite.com/soundtracks/action-ball-windows-gamerip-2005/jcxohayohr/03.%20Track%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/action-ball-windows-gamerip-2005/03.%2520Track%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3827302,
+      "track_number": 4,
+      "title": "Boss",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/action-ball-windows-gamerip-2005/fmwwmlqhqg/04.%20Boss.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/action-ball-windows-gamerip-2005/04.%2520Boss.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 318,
+    "filesize_mp3_bytes": 17511217,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

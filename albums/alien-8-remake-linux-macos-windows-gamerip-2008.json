@@ -1,0 +1,64 @@
+{
+  "title": "Alien 8 (Remake)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T06:00:10.280700+00:00",
+  "slug": "alien-8-remake-linux-macos-windows-gamerip-2008",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/alien-8-remake-linux-macos-windows-gamerip-2008",
+  "platforms": {
+    "Linux": "https://downloads.khinsider.com/game-soundtracks/linux",
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/alien-8-remake-linux-macos-windows-gamerip-2008/Image.png"
+  ],
+  "year": 2008,
+  "date_added": "2023-06-23T00:00:00+00:00",
+  "developers": {
+    "Retrospec": "https://downloads.khinsider.com/game-soundtracks/developer/retrospec"
+  },
+  "publishers": {
+    "Retrospec": "https://downloads.khinsider.com/game-soundtracks/publisher/retrospec"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 765460,
+      "track_number": 1,
+      "title": "Main Menu",
+      "runtime": 47,
+      "source_mp3": "https://vgmsite.com/soundtracks/alien-8-remake-linux-macos-windows-gamerip-2008/yikjhjnuzk/01%20Main%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alien-8-remake-linux-macos-windows-gamerip-2008/01%2520Main%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2789212,
+      "track_number": 2,
+      "title": "In Game 1",
+      "runtime": 174,
+      "source_mp3": "https://vgmsite.com/soundtracks/alien-8-remake-linux-macos-windows-gamerip-2008/kswdzblzca/02%20In%20Game%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alien-8-remake-linux-macos-windows-gamerip-2008/02%2520In%2520Game%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3659530,
+      "track_number": 3,
+      "title": "In Game 2",
+      "runtime": 229,
+      "source_mp3": "https://vgmsite.com/soundtracks/alien-8-remake-linux-macos-windows-gamerip-2008/owodtzbvpl/03%20In%20Game%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alien-8-remake-linux-macos-windows-gamerip-2008/03%2520In%2520Game%25202.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 450,
+    "filesize_mp3_bytes": 7214202,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

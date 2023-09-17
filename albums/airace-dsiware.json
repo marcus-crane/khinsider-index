@@ -1,0 +1,102 @@
+{
+  "title": "AiRace (DSiWare)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T05:30:43.917679+00:00",
+  "slug": "airace-dsiware",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/airace-dsiware",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/airace-dsiware/AiRace%20%28DSiWare%29.jpg"
+  ],
+  "year": 2010,
+  "date_added": "2019-02-10T00:00:00+00:00",
+  "developers": {
+    "NoWay": "https://downloads.khinsider.com/game-soundtracks/developer/noway"
+  },
+  "publishers": {
+    "QubicGames": "https://downloads.khinsider.com/game-soundtracks/publisher/qubicgames"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3670016,
+      "track_number": 1,
+      "title": "Menu",
+      "runtime": 92,
+      "source_mp3": "https://vgmsite.com/soundtracks/airace-dsiware/mminvmza/01%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/airace-dsiware/01%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5714739,
+      "track_number": 2,
+      "title": "Race 1",
+      "runtime": 143,
+      "source_mp3": "https://vgmsite.com/soundtracks/airace-dsiware/eywbmbhe/02%20Race%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/airace-dsiware/02%2520Race%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3670016,
+      "track_number": 3,
+      "title": "Race 2",
+      "runtime": 92,
+      "source_mp3": "https://vgmsite.com/soundtracks/airace-dsiware/poyfqvee/03%20Race%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/airace-dsiware/03%2520Race%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3921674,
+      "track_number": 4,
+      "title": "Race 3",
+      "runtime": 98,
+      "source_mp3": "https://vgmsite.com/soundtracks/airace-dsiware/sgdbwzti/04%20Race%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/airace-dsiware/04%2520Race%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3670016,
+      "track_number": 5,
+      "title": "Race 4",
+      "runtime": 92,
+      "source_mp3": "https://vgmsite.com/soundtracks/airace-dsiware/buklnvwu/05%20Race%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/airace-dsiware/05%2520Race%25204.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4183818,
+      "track_number": 6,
+      "title": "Race 5",
+      "runtime": 104,
+      "source_mp3": "https://vgmsite.com/soundtracks/airace-dsiware/jxdmvaqv/06%20Race%205.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/airace-dsiware/06%2520Race%25205.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4183818,
+      "track_number": 7,
+      "title": "Race 6",
+      "runtime": 104,
+      "source_mp3": "https://vgmsite.com/soundtracks/airace-dsiware/tiohzqsx/07%20Race%206.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/airace-dsiware/07%2520Race%25206.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 725,
+    "filesize_mp3_bytes": 29014097,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

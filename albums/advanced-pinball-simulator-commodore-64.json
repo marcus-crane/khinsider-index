@@ -1,0 +1,72 @@
+{
+  "title": "Advanced Pinball Simulator",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T05:11:58.358220+00:00",
+  "slug": "advanced-pinball-simulator-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/advanced-pinball-simulator-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/advanced-pinball-simulator-commodore-64/11298--advanced-pinball-simulator.png"
+  ],
+  "year": 1989,
+  "date_added": "2016-07-01T00:00:00+00:00",
+  "developers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/developer/codemasters"
+  },
+  "publishers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/publisher/codemasters"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1342177,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 74,
+      "source_mp3": "https://vgmsite.com/soundtracks/advanced-pinball-simulator-commodore-64/inigbled/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/advanced-pinball-simulator-commodore-64/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 2,
+      "title": "Get Ready!",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/advanced-pinball-simulator-commodore-64/shgozefg/02_Get%20Ready%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/advanced-pinball-simulator-commodore-64/02_Get%2520Ready%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2338324,
+      "track_number": 3,
+      "title": "Title Screen (SID Stereo)",
+      "runtime": 74,
+      "source_mp3": "https://vgmsite.com/soundtracks/advanced-pinball-simulator-commodore-64/iljuegdk/03_Title%20Screen%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/advanced-pinball-simulator-commodore-64/03_Title%2520Screen%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 4,
+      "title": "Get Ready! (SID Stereo)",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/advanced-pinball-simulator-commodore-64/rmtzswni/04_Get%20Ready%21%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/advanced-pinball-simulator-commodore-64/04_Get%2520Ready%2521%2520%2528SID%2520Stereo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 155,
+    "filesize_mp3_bytes": 3816815,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "title": "Adam & Eve (Unlicensed)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T05:07:47.208327+00:00",
+  "slug": "adam-eve-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/adam-eve-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/adam-eve-nes/A1.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2021-07-30T00:00:00+00:00",
+  "developers": {
+    "NTDEC": "https://downloads.khinsider.com/game-soundtracks/developer/ntdec"
+  },
+  "publishers": {
+    "Gluk Video": "https://downloads.khinsider.com/game-soundtracks/publisher/gluk-video",
+    "MegaSoft": "https://downloads.khinsider.com/game-soundtracks/publisher/megasoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2485125,
+      "filesize_mp3_bytes": 849346,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/adam-eve-nes/gfxwxqscyh/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/adam-eve-nes/gfxwxqscyh/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/adam-eve-nes/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2411724,
+      "filesize_mp3_bytes": 1080033,
+      "track_number": 2,
+      "title": "Level BGM #1",
+      "runtime": 61,
+      "source_mp3": "https://vgmsite.com/soundtracks/adam-eve-nes/cbunxqnkji/02%20Level%20BGM%20%231.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/adam-eve-nes/cbunxqnkji/02%20Level%20BGM%20%231.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/adam-eve-nes/02%2520Level%2520BGM%2520%25231.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 262144,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 3,
+      "title": "Level Done",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/adam-eve-nes/betjozmdma/03%20Level%20Done.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/adam-eve-nes/betjozmdma/03%20Level%20Done.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/adam-eve-nes/03%2520Level%2520Done.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2191523,
+      "filesize_mp3_bytes": 954204,
+      "track_number": 4,
+      "title": "Level BGM #2",
+      "runtime": 55,
+      "source_mp3": "https://vgmsite.com/soundtracks/adam-eve-nes/apclhqxogx/04%20Level%20BGM%20%232.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/adam-eve-nes/apclhqxogx/04%20Level%20BGM%20%232.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/adam-eve-nes/04%2520Level%2520BGM%2520%25232.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 178257,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 5,
+      "title": "Game Over",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/adam-eve-nes/zubiudfaar/05%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/adam-eve-nes/zubiudfaar/05%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/adam-eve-nes/05%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 174,
+    "filesize_mp3_bytes": 3124754,
+    "filesize_flac_bytes": 7528773,
+    "tracks": 5
+  }
+}

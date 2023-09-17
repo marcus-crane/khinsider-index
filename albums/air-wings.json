@@ -1,0 +1,88 @@
+{
+  "title": "Air Wings",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T05:34:07.545195+00:00",
+  "slug": "air-wings",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/air-wings",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade",
+    "Neo Geo": "https://downloads.khinsider.com/game-soundtracks/neo-geo",
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/air-wings/BK.jpg"
+  ],
+  "year": 2011,
+  "catalog_number": "CL-007",
+  "date_added": "2021-05-10T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Cityline90": "https://downloads.khinsider.com/game-soundtracks/publisher/cityline90"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 30230446,
+      "filesize_mp3_bytes": 6889144,
+      "track_number": 1,
+      "title": "Love Will Never Die - Twinkle Star Sprites",
+      "runtime": 221,
+      "source_mp3": "https://vgmsite.com/soundtracks/air-wings/xpkcdaildv/01%20Love%20Will%20Never%20Die%20-%20Twinkle%20Star%20Sprites.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/air-wings/xpkcdaildv/01%20Love%20Will%20Never%20Die%20-%20Twinkle%20Star%20Sprites.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/air-wings/01%2520Love%2520Will%2520Never%2520Die%2520-%2520Twinkle%2520Star%2520Sprites.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 30219960,
+      "filesize_mp3_bytes": 8063549,
+      "track_number": 2,
+      "title": "Stage1 - R-TYPE3",
+      "runtime": 227,
+      "source_mp3": "https://vgmsite.com/soundtracks/air-wings/bgyxaharuu/02%20Stage1%20-%20R-TYPE3.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/air-wings/bgyxaharuu/02%20Stage1%20-%20R-TYPE3.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/air-wings/02%2520Stage1%2520-%2520R-TYPE3.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 12897484,
+      "filesize_mp3_bytes": 3261071,
+      "track_number": 3,
+      "title": "Backstar's Fortress - GUNBIRD",
+      "runtime": 94,
+      "source_mp3": "https://vgmsite.com/soundtracks/air-wings/fsdxfwpvkk/03%20Backstar%27s%20Fortress%20-%20GUNBIRD.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/air-wings/fsdxfwpvkk/03%20Backstar%27s%20Fortress%20-%20GUNBIRD.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/air-wings/03%2520Backstar%2527s%2520Fortress%2520-%2520GUNBIRD.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 28395438,
+      "filesize_mp3_bytes": 9772728,
+      "track_number": 4,
+      "title": "Fly To The Leaden Sky - Battle Garegga",
+      "runtime": 284,
+      "source_mp3": "https://vgmsite.com/soundtracks/air-wings/pzglqtfesk/04%20Fly%20To%20The%20Leaden%20Sky%20-%20Battle%20Garegga.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/air-wings/pzglqtfesk/04%20Fly%20To%20The%20Leaden%20Sky%20-%20Battle%20Garegga.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/air-wings/04%2520Fly%2520To%2520The%2520Leaden%2520Sky%2520-%2520Battle%2520Garegga.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 14313062,
+      "filesize_mp3_bytes": 3858759,
+      "track_number": 5,
+      "title": "I Love You - winkle Star Sprites",
+      "runtime": 115,
+      "source_mp3": "https://vgmsite.com/soundtracks/air-wings/vzgnklwsso/05%20I%20Love%20You%20-%20winkle%20Star%20Sprites.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/air-wings/vzgnklwsso/05%20I%20Love%20You%20-%20winkle%20Star%20Sprites.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/air-wings/05%2520I%2520Love%2520You%2520-%2520winkle%2520Star%2520Sprites.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 941,
+    "filesize_mp3_bytes": 31845251,
+    "filesize_flac_bytes": 116056390,
+    "tracks": 5
+  }
+}

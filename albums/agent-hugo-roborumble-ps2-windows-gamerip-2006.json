@@ -1,0 +1,88 @@
+{
+  "title": "Agent Hugo: RoboRumble",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T05:28:54.608294+00:00",
+  "slug": "agent-hugo-roborumble-ps2-windows-gamerip-2006",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/agent-hugo-roborumble-ps2-windows-gamerip-2006",
+  "platforms": {
+    "PS2": "https://downloads.khinsider.com/game-soundtracks/playstation-2",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/agent-hugo-roborumble-ps2-windows-gamerip-2006/20432.jpg"
+  ],
+  "year": 2006,
+  "date_added": "2023-04-29T00:00:00+00:00",
+  "developers": {
+    "ITE Media": "https://downloads.khinsider.com/game-soundtracks/developer/ite-media"
+  },
+  "publishers": {
+    "ITE Media": "https://downloads.khinsider.com/game-soundtracks/publisher/ite-media"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7633633,
+      "filesize_mp3_bytes": 2390753,
+      "track_number": 1,
+      "title": "R.I.S.K. Base",
+      "runtime": 93,
+      "source_mp3": "https://vgmsite.com/soundtracks/agent-hugo-roborumble-ps2-windows-gamerip-2006/scmvimephp/01.%20R.I.S.K.%20Base.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/agent-hugo-roborumble-ps2-windows-gamerip-2006/scmvimephp/01.%20R.I.S.K.%20Base.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/agent-hugo-roborumble-ps2-windows-gamerip-2006/01.%2520R.I.S.K.%2520Base.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 36773560,
+      "filesize_mp3_bytes": 9227468,
+      "track_number": 2,
+      "title": "Egypt Deserts",
+      "runtime": 344,
+      "source_mp3": "https://vgmsite.com/soundtracks/agent-hugo-roborumble-ps2-windows-gamerip-2006/hzsnbmeweo/02.%20Egypt%20Deserts.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/agent-hugo-roborumble-ps2-windows-gamerip-2006/hzsnbmeweo/02.%20Egypt%20Deserts.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/agent-hugo-roborumble-ps2-windows-gamerip-2006/02.%2520Egypt%2520Deserts.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 33564917,
+      "filesize_mp3_bytes": 8766095,
+      "track_number": 3,
+      "title": "Abandoned City",
+      "runtime": 337,
+      "source_mp3": "https://vgmsite.com/soundtracks/agent-hugo-roborumble-ps2-windows-gamerip-2006/rfzgcqjprx/03.%20Abandoned%20City.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/agent-hugo-roborumble-ps2-windows-gamerip-2006/rfzgcqjprx/03.%20Abandoned%20City.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/agent-hugo-roborumble-ps2-windows-gamerip-2006/03.%2520Abandoned%2520City.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 35462840,
+      "filesize_mp3_bytes": 9185525,
+      "track_number": 4,
+      "title": "Outer Space",
+      "runtime": 346,
+      "source_mp3": "https://vgmsite.com/soundtracks/agent-hugo-roborumble-ps2-windows-gamerip-2006/bmoknbwyxe/04.%20Outer%20Space.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/agent-hugo-roborumble-ps2-windows-gamerip-2006/bmoknbwyxe/04.%20Outer%20Space.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/agent-hugo-roborumble-ps2-windows-gamerip-2006/04.%2520Outer%2520Space.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 23089643,
+      "filesize_mp3_bytes": 5725224,
+      "track_number": 5,
+      "title": "Geekdorph Boss",
+      "runtime": 218,
+      "source_mp3": "https://vgmsite.com/soundtracks/agent-hugo-roborumble-ps2-windows-gamerip-2006/nveflhroyb/05.%20Geekdorph%20Boss.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/agent-hugo-roborumble-ps2-windows-gamerip-2006/nveflhroyb/05.%20Geekdorph%20Boss.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/agent-hugo-roborumble-ps2-windows-gamerip-2006/05.%2520Geekdorph%2520Boss.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1338,
+    "filesize_mp3_bytes": 35295065,
+    "filesize_flac_bytes": 136524593,
+    "tracks": 5
+  }
+}

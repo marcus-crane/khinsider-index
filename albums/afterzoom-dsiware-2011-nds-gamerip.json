@@ -1,0 +1,80 @@
+{
+  "title": "Afterzoom (DSiWare)",
+  "titles_alternative": [
+    "Micro no Seimeitai",
+    "\u30df\u30af\u30ed\u306e\u751f\u547d\u4f53"
+  ],
+  "crawled_at": "2023-09-17T05:21:49.874441+00:00",
+  "slug": "afterzoom-dsiware-2011-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/afterzoom-dsiware-2011-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/afterzoom-dsiware-2011-nds-gamerip/Afterzoom.png"
+  ],
+  "year": 2011,
+  "date_added": "2020-06-01T00:00:00+00:00",
+  "developers": {
+    "Abylight": "https://downloads.khinsider.com/game-soundtracks/developer/abylight"
+  },
+  "publishers": {
+    "Abylight": "https://downloads.khinsider.com/game-soundtracks/publisher/abylight",
+    "Kawamoto Sangou": "https://downloads.khinsider.com/game-soundtracks/publisher/kawamoto-sangou"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 660602,
+      "filesize_mp3_bytes": 377487,
+      "track_number": 1,
+      "title": "Ambient Microscope",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/afterzoom-dsiware-2011-nds-gamerip/iqilcudirz/01%20-%20Ambient%20Microscope.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/afterzoom-dsiware-2011-nds-gamerip/iqilcudirz/01%20-%20Ambient%20Microscope.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/afterzoom-dsiware-2011-nds-gamerip/01%2520-%2520Ambient%2520Microscope.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 838860,
+      "filesize_mp3_bytes": 356515,
+      "track_number": 2,
+      "title": "Ambient Main",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/afterzoom-dsiware-2011-nds-gamerip/pwrroaqviu/02%20-%20Ambient%20Main.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/afterzoom-dsiware-2011-nds-gamerip/pwrroaqviu/02%20-%20Ambient%20Main.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/afterzoom-dsiware-2011-nds-gamerip/02%2520-%2520Ambient%2520Main.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 807403,
+      "filesize_mp3_bytes": 346030,
+      "track_number": 3,
+      "title": "Ambient Substances",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/afterzoom-dsiware-2011-nds-gamerip/glwjusqfrq/03%20-%20Ambient%20Substances.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/afterzoom-dsiware-2011-nds-gamerip/glwjusqfrq/03%20-%20Ambient%20Substances.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/afterzoom-dsiware-2011-nds-gamerip/03%2520-%2520Ambient%2520Substances.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 964689,
+      "filesize_mp3_bytes": 398458,
+      "track_number": 4,
+      "title": "Ambient Microbes",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/afterzoom-dsiware-2011-nds-gamerip/lmbsxuiiqu/04%20-%20Ambient%20Microbes.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/afterzoom-dsiware-2011-nds-gamerip/lmbsxuiiqu/04%20-%20Ambient%20Microbes.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/afterzoom-dsiware-2011-nds-gamerip/04%2520-%2520Ambient%2520Microbes.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 44,
+    "filesize_mp3_bytes": 1478490,
+    "filesize_flac_bytes": 3271554,
+    "tracks": 4
+  }
+}

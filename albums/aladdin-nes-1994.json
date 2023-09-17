@@ -1,0 +1,78 @@
+{
+  "title": "Aladdin",
+  "titles_alternative": [
+    "Disney's Aladdin"
+  ],
+  "crawled_at": "2023-09-17T05:50:16.116917+00:00",
+  "slug": "aladdin-nes-1994",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/aladdin-nes-1994",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/aladdin-nes-1994/Aladdin%20%28NES%29%20%28gamerip%29%20%281994%29.jpg"
+  ],
+  "year": 1994,
+  "date_added": "2022-03-21T00:00:00+00:00",
+  "developers": {
+    "Virgin Games": "https://downloads.khinsider.com/game-soundtracks/developer/virgin-games"
+  },
+  "publishers": {
+    "Virgin Games": "https://downloads.khinsider.com/game-soundtracks/publisher/virgin-games"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4655677,
+      "filesize_mp3_bytes": 1730150,
+      "track_number": 1,
+      "title": "Prince Ali",
+      "runtime": 87,
+      "source_mp3": "https://vgmsite.com/soundtracks/aladdin-nes-1994/wisocrmlpf/01%20Prince%20Ali.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/aladdin-nes-1994/wisocrmlpf/01%20Prince%20Ali.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/aladdin-nes-1994/01%2520Prince%2520Ali.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 14208204,
+      "filesize_mp3_bytes": 5242880,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 291,
+      "source_mp3": "https://vgmsite.com/soundtracks/aladdin-nes-1994/qwvrhrvchl/02%20Track%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/aladdin-nes-1994/qwvrhrvchl/02%20Track%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/aladdin-nes-1994/02%2520Track%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5756682,
+      "filesize_mp3_bytes": 2086666,
+      "track_number": 3,
+      "title": "A Whole New World",
+      "runtime": 112,
+      "source_mp3": "https://vgmsite.com/soundtracks/aladdin-nes-1994/ydkjpbvtvd/03%20A%20Whole%20New%20World.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/aladdin-nes-1994/ydkjpbvtvd/03%20A%20Whole%20New%20World.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/aladdin-nes-1994/03%2520A%2520Whole%2520New%2520World.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 230686,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/aladdin-nes-1994/pxtrewzdbj/04%20Track%204.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/aladdin-nes-1994/pxtrewzdbj/04%20Track%204.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/aladdin-nes-1994/04%2520Track%25204.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 495,
+    "filesize_mp3_bytes": 9143582,
+    "filesize_flac_bytes": 24851249,
+    "tracks": 4
+  }
+}

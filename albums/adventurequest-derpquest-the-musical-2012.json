@@ -1,0 +1,49 @@
+{
+  "title": "AdventureQuest: DerpQuest the musical",
+  "titles_alternative": [
+    "DerpQuest the musical",
+    "Derp Song",
+    "Derpie Brothers"
+  ],
+  "crawled_at": "2023-09-17T05:15:15.634986+00:00",
+  "slug": "adventurequest-derpquest-the-musical-2012",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/adventurequest-derpquest-the-musical-2012",
+  "platforms": {
+    "Online": "https://downloads.khinsider.com/game-soundtracks/online",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/adventurequest-derpquest-the-musical-2012/cover.png"
+  ],
+  "year": 2012,
+  "date_added": "2023-05-22T00:00:00+00:00",
+  "developers": {
+    "Thyton": "https://downloads.khinsider.com/game-soundtracks/developer/thyton",
+    "Warlic": "https://downloads.khinsider.com/game-soundtracks/developer/warlic"
+  },
+  "publishers": {
+    "Warlic": "https://downloads.khinsider.com/game-soundtracks/publisher/warlic"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4886364,
+      "filesize_mp3_bytes": 1876951,
+      "track_number": 1,
+      "title": "Derp Song",
+      "runtime": 59,
+      "source_mp3": "https://vgmsite.com/soundtracks/adventurequest-derpquest-the-musical-2012/zisupgutxo/01.%20Derp%20Song.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/adventurequest-derpquest-the-musical-2012/zisupgutxo/01.%20Derp%20Song.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/adventurequest-derpquest-the-musical-2012/01.%2520Derp%2520Song.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 59,
+    "filesize_mp3_bytes": 1876951,
+    "filesize_flac_bytes": 4886364,
+    "tracks": 1
+  }
+}

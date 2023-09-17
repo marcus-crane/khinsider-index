@@ -1,0 +1,72 @@
+{
+  "title": "Airball",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T05:34:49.982582+00:00",
+  "slug": "airball-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/airball-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/airball-amiga/Airball.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2015-10-06T00:00:00+00:00",
+  "developers": {
+    "Microdeal": "https://downloads.khinsider.com/game-soundtracks/developer/microdeal"
+  },
+  "publishers": {
+    "Microdeal": "https://downloads.khinsider.com/game-soundtracks/publisher/microdeal"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8776581,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 291,
+      "source_mp3": "https://vgmsite.com/soundtracks/airball-amiga/biifnbch/01_Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/airball-amiga/01_Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9604956,
+      "track_number": 2,
+      "title": "In-Game",
+      "runtime": 315,
+      "source_mp3": "https://vgmsite.com/soundtracks/airball-amiga/teskimvd/02_In-Game.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/airball-amiga/02_In-Game.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6469713,
+      "track_number": 3,
+      "title": "High Score",
+      "runtime": 214,
+      "source_mp3": "https://vgmsite.com/soundtracks/airball-amiga/jucxangv/03_High%20Score.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/airball-amiga/03_High%2520Score.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 576716,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 20,
+      "source_mp3": "https://vgmsite.com/soundtracks/airball-amiga/bxmyzxns/04_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/airball-amiga/04_Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 840,
+    "filesize_mp3_bytes": 25427966,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "title": "Air Cavalry",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T05:32:37.133865+00:00",
+  "slug": "air-cavalry-1995-snes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/air-cavalry-1995-snes",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/air-cavalry-1995-snes/50500_front.jpg"
+  ],
+  "year": 1995,
+  "date_added": "2019-08-01T00:00:00+00:00",
+  "developers": {
+    "Synergistic Software": "https://downloads.khinsider.com/game-soundtracks/developer/synergistic-software"
+  },
+  "publishers": {
+    "Cybersoft": "https://downloads.khinsider.com/game-soundtracks/publisher/cybersoft",
+    "GameTek": "https://downloads.khinsider.com/game-soundtracks/publisher/gametek"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5630853,
+      "filesize_mp3_bytes": 2191523,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 95,
+      "source_mp3": "https://vgmsite.com/soundtracks/air-cavalry-1995-snes/wcaommscuc/01%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/air-cavalry-1995-snes/wcaommscuc/01%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/air-cavalry-1995-snes/01%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 25312624,
+      "filesize_mp3_bytes": 9688842,
+      "track_number": 2,
+      "title": "Good Luck and Good Hunting",
+      "runtime": 408,
+      "source_mp3": "https://vgmsite.com/soundtracks/air-cavalry-1995-snes/wpuhvaboyp/02%20Good%20Luck%20and%20Good%20Hunting.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/air-cavalry-1995-snes/wpuhvaboyp/02%20Good%20Luck%20and%20Good%20Hunting.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/air-cavalry-1995-snes/02%2520Good%2520Luck%2520and%2520Good%2520Hunting.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 608174,
+      "filesize_mp3_bytes": 335544,
+      "track_number": 3,
+      "title": "Mission Failed",
+      "runtime": 18,
+      "source_mp3": "https://vgmsite.com/soundtracks/air-cavalry-1995-snes/ztkheligwh/03%20Mission%20Failed.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/air-cavalry-1995-snes/ztkheligwh/03%20Mission%20Failed.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/air-cavalry-1995-snes/03%2520Mission%2520Failed.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3177185,
+      "filesize_mp3_bytes": 1195376,
+      "track_number": 4,
+      "title": "Unknown Song",
+      "runtime": 57,
+      "source_mp3": "https://vgmsite.com/soundtracks/air-cavalry-1995-snes/ehgjxcwfhk/04%20Unknown%20Song.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/air-cavalry-1995-snes/ehgjxcwfhk/04%20Unknown%20Song.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/air-cavalry-1995-snes/04%2520Unknown%2520Song.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 578,
+    "filesize_mp3_bytes": 13411285,
+    "filesize_flac_bytes": 34728836,
+    "tracks": 4
+  }
+}

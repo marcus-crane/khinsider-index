@@ -1,0 +1,50 @@
+{
+  "title": "Akalabeth: World of Doom",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T05:38:19.451951+00:00",
+  "slug": "akalabeth-world-of-doom-windows-gamerip-1979",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/akalabeth-world-of-doom-windows-gamerip-1979",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/akalabeth-world-of-doom-windows-gamerip-1979/cover.jpg"
+  ],
+  "year": 1979,
+  "date_added": "2022-12-15T00:00:00+00:00",
+  "developers": {
+    "Origin Systems": "https://downloads.khinsider.com/game-soundtracks/developer/origin-systems"
+  },
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3103784,
+      "track_number": 1,
+      "title": "Overworld",
+      "runtime": 77,
+      "source_mp3": "https://vgmsite.com/soundtracks/akalabeth-world-of-doom-windows-gamerip-1979/mdpcwjndgs/01.%20Overworld.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/akalabeth-world-of-doom-windows-gamerip-1979/01.%2520Overworld.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2862612,
+      "track_number": 2,
+      "title": "Dungeon",
+      "runtime": 71,
+      "source_mp3": "https://vgmsite.com/soundtracks/akalabeth-world-of-doom-windows-gamerip-1979/fhvwydazrd/02.%20Dungeon.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/akalabeth-world-of-doom-windows-gamerip-1979/02.%2520Dungeon.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 148,
+    "filesize_mp3_bytes": 5966396,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}
