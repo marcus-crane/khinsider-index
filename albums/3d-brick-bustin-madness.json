@@ -1,0 +1,66 @@
+{
+  "title": "3D Brick Bustin Madness",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T00:07:50.746342+00:00",
+  "slug": "3d-brick-bustin-madness",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/3d-brick-bustin-madness",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/3d-brick-bustin-madness/3D%20Brick%20Busters%20Windows%20back%20cover.jpg"
+  ],
+  "year": 1999,
+  "date_added": "2020-06-21T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 16127098,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 403,
+      "source_mp3": "https://vgmsite.com/soundtracks/3d-brick-bustin-madness/nsczymeltn/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/3d-brick-bustin-madness/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 14837350,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 371,
+      "source_mp3": "https://vgmsite.com/soundtracks/3d-brick-bustin-madness/nbjvuszwgk/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/3d-brick-bustin-madness/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 16462643,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 412,
+      "source_mp3": "https://vgmsite.com/soundtracks/3d-brick-bustin-madness/vwbnfpejde/03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/3d-brick-bustin-madness/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 18853396,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 471,
+      "source_mp3": "https://vgmsite.com/soundtracks/3d-brick-bustin-madness/qazvmiytrf/04.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/3d-brick-bustin-madness/04.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1657,
+    "filesize_mp3_bytes": 66280487,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

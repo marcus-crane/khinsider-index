@@ -1,0 +1,96 @@
+{
+  "title": "ARMA 3 Soundtrack",
+  "titles_alternative": [
+    "Arma 3 - This Is War",
+    "ArmA III Soundtrack"
+  ],
+  "crawled_at": "2023-09-17T01:07:29.306063+00:00",
+  "slug": "arma-3-original-soundtrack-2013",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/arma-3-original-soundtrack-2013",
+  "platforms": {
+    "Linux": "https://downloads.khinsider.com/game-soundtracks/linux",
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/arma-3-original-soundtrack-2013/Front.jpg"
+  ],
+  "year": 2013,
+  "catalog_number": null,
+  "date_added": "2017-11-21T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Bohemia Interactive": "https://downloads.khinsider.com/game-soundtracks/publisher/bohemia-interactive"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5232394,
+      "track_number": 1,
+      "title": "This Is War (Main Theme)",
+      "runtime": 163,
+      "source_mp3": "https://vgmsite.com/soundtracks/arma-3-original-soundtrack-2013/kptdnsxa/01.%20This%20Is%20War%20%28Main%20Theme%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arma-3-original-soundtrack-2013/01.%2520This%2520Is%2520War%2520%2528Main%2520Theme%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3135242,
+      "track_number": 2,
+      "title": "Combined Arms",
+      "runtime": 97,
+      "source_mp3": "https://vgmsite.com/soundtracks/arma-3-original-soundtrack-2013/kvskafpo/02.%20Combined%20Arms.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arma-3-original-soundtrack-2013/02.%2520Combined%2520Arms.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4844421,
+      "track_number": 3,
+      "title": "Assault at Dusk",
+      "runtime": 151,
+      "source_mp3": "https://vgmsite.com/soundtracks/arma-3-original-soundtrack-2013/icfzpwan/03.%20Assault%20at%20Dusk.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arma-3-original-soundtrack-2013/03.%2520Assault%2520at%2520Dusk.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6092226,
+      "track_number": 4,
+      "title": "The East Wind",
+      "runtime": 190,
+      "source_mp3": "https://vgmsite.com/soundtracks/arma-3-original-soundtrack-2013/yzuglsun/04.%20The%20East%20Wind.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arma-3-original-soundtrack-2013/04.%2520The%2520East%2520Wind.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4435476,
+      "track_number": 5,
+      "title": "Survive",
+      "runtime": 138,
+      "source_mp3": "https://vgmsite.com/soundtracks/arma-3-original-soundtrack-2013/yzsmoygk/05.%20Survive.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arma-3-original-soundtrack-2013/05.%2520Survive.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3145728,
+      "track_number": 6,
+      "title": "Rebreather",
+      "runtime": 98,
+      "source_mp3": "https://vgmsite.com/soundtracks/arma-3-original-soundtrack-2013/uassrvky/06.%20Rebreather.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arma-3-original-soundtrack-2013/06.%2520Rebreather.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 837,
+    "filesize_mp3_bytes": 26885487,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

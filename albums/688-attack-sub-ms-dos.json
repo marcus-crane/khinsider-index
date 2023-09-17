@@ -1,0 +1,38 @@
+{
+  "title": "688 Attack Sub",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T00:18:14.270164+00:00",
+  "slug": "688-attack-sub-ms-dos",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/688-attack-sub-ms-dos",
+  "platforms": {
+    "MS-DOS": "https://downloads.khinsider.com/game-soundtracks/ms-dos"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/688-attack-sub-ms-dos/688%20Attack%20Sub.png"
+  ],
+  "year": 1989,
+  "date_added": "2016-08-10T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5567938,
+      "track_number": 1,
+      "title": "Title Screen (OPL2)",
+      "runtime": 179,
+      "source_mp3": "https://vgmsite.com/soundtracks/688-attack-sub-ms-dos/rqvnufkn/01_Title%20Screen%20%28OPL2%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/688-attack-sub-ms-dos/01_Title%2520Screen%2520%2528OPL2%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 179,
+    "filesize_mp3_bytes": 5567938,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

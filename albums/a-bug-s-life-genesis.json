@@ -1,0 +1,90 @@
+{
+  "title": "A Bug's Life (Unlicensed Bootleg)",
+  "titles_alternative": [
+    "\u87f2\u87f2\u5371\u6a5f"
+  ],
+  "crawled_at": "2023-09-17T00:27:10.649153+00:00",
+  "slug": "a-bug-s-life-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/a-bug-s-life-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/a-bug-s-life-genesis/A%20Bug%27s%20Life.png"
+  ],
+  "year": 1999,
+  "date_added": "2020-03-01T00:00:00+00:00",
+  "developers": {
+    "Gametek": "https://downloads.khinsider.com/game-soundtracks/developer/gametek",
+    "X BOY": "https://downloads.khinsider.com/game-soundtracks/developer/x-boy"
+  },
+  "publishers": {
+    "Unite Lucky Technology": "https://downloads.khinsider.com/game-soundtracks/publisher/unite-lucky-technology"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2925527,
+      "filesize_mp3_bytes": 1363148,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/a-bug-s-life-genesis/qhjtkozhks/01%20-%20Title.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/a-bug-s-life-genesis/qhjtkozhks/01%20-%20Title.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/a-bug-s-life-genesis/01%2520-%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4404019,
+      "filesize_mp3_bytes": 3177185,
+      "track_number": 2,
+      "title": "Ant Island",
+      "runtime": 151,
+      "source_mp3": "https://vgmsite.com/soundtracks/a-bug-s-life-genesis/vjrxwaldfh/02%20-%20Ant%20Island.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/a-bug-s-life-genesis/vjrxwaldfh/02%20-%20Ant%20Island.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/a-bug-s-life-genesis/02%2520-%2520Ant%2520Island.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3659530,
+      "filesize_mp3_bytes": 2160066,
+      "track_number": 3,
+      "title": "Find the Hero",
+      "runtime": 112,
+      "source_mp3": "https://vgmsite.com/soundtracks/a-bug-s-life-genesis/qzojbxlqqt/03%20-%20Find%20the%20Hero.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/a-bug-s-life-genesis/qzojbxlqqt/03%20-%20Find%20the%20Hero.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/a-bug-s-life-genesis/03%2520-%2520Find%2520the%2520Hero.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6144655,
+      "filesize_mp3_bytes": 2726297,
+      "track_number": 4,
+      "title": "In the Dark Hole",
+      "runtime": 133,
+      "source_mp3": "https://vgmsite.com/soundtracks/a-bug-s-life-genesis/nbzfahyasx/04%20-%20In%20the%20Dark%20Hole.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/a-bug-s-life-genesis/nbzfahyasx/04%20-%20In%20the%20Dark%20Hole.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/a-bug-s-life-genesis/04%2520-%2520In%2520the%2520Dark%2520Hole.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4540334,
+      "filesize_mp3_bytes": 1698693,
+      "track_number": 5,
+      "title": "Hang by a Thread",
+      "runtime": 83,
+      "source_mp3": "https://vgmsite.com/soundtracks/a-bug-s-life-genesis/tabnyfhqik/05%20-%20Hang%20by%20a%20Thread.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/a-bug-s-life-genesis/tabnyfhqik/05%20-%20Hang%20by%20a%20Thread.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/a-bug-s-life-genesis/05%2520-%2520Hang%2520by%2520a%2520Thread.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 543,
+    "filesize_mp3_bytes": 11125389,
+    "filesize_flac_bytes": 21674065,
+    "tracks": 5
+  }
+}

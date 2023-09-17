@@ -1,0 +1,44 @@
+{
+  "title": "5 Rings",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T00:14:49.741703+00:00",
+  "slug": "5-rings-2018-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/5-rings-2018-gamerip",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/5-rings-2018-gamerip/5R_1.jpg"
+  ],
+  "year": 2018,
+  "date_added": "2022-01-10T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10485,
+      "title": "Rot",
+      "runtime": 0,
+      "source_mp3": "https://vgmsite.com/soundtracks/5-rings-2018-gamerip/cedquqjixf/Rot.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/5-rings-2018-gamerip/Rot.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 52428,
+      "title": "Win",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/5-rings-2018-gamerip/dycqrydbwv/Win.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/5-rings-2018-gamerip/Win.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 4,
+    "filesize_mp3_bytes": 62913,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

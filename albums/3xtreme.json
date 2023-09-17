@@ -1,0 +1,73 @@
+{
+  "title": "3xtreme",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T00:12:20.887498+00:00",
+  "slug": "3xtreme",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/3xtreme",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/3xtreme/3xtreme%20title.jpg"
+  ],
+  "year": 1999,
+  "catalog_number": null,
+  "date_added": "2018-05-22T00:00:00+00:00",
+  "developers": {
+    "989 Sports": "https://downloads.khinsider.com/game-soundtracks/developer/989-sports"
+  },
+  "publishers": {
+    "989 Sports": "https://downloads.khinsider.com/game-soundtracks/publisher/989-sports"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 272629,
+      "track_number": 1,
+      "title": "989 STUDIOS",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/3xtreme/sghdyhvs/01%20989%20STUDIOS.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/3xtreme/01%2520989%2520STUDIOS.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6039797,
+      "track_number": 2,
+      "title": "Track 02",
+      "runtime": 150,
+      "source_mp3": "https://vgmsite.com/soundtracks/3xtreme/suojwtts/02%20Track%2002.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/3xtreme/02%2520Track%252002.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4708106,
+      "track_number": 3,
+      "title": "Demo Music",
+      "runtime": 116,
+      "source_mp3": "https://vgmsite.com/soundtracks/3xtreme/lhhdqksi/03%20Demo%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/3xtreme/03%2520Demo%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11943280,
+      "track_number": 4,
+      "title": "5",
+      "runtime": 297,
+      "source_mp3": "https://vgmsite.com/soundtracks/3xtreme/jsetoavp/04%205.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/3xtreme/04%25205.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 568,
+    "filesize_mp3_bytes": 22963812,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

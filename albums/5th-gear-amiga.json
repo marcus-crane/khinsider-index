@@ -1,0 +1,82 @@
+{
+  "title": "5th Gear",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T00:17:18.594269+00:00",
+  "slug": "5th-gear-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/5th-gear-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/5th-gear-amiga/5th%20Gear%20%28Amiga%29.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2016-06-01T00:00:00+00:00",
+  "developers": {
+    "Microwish Software": "https://downloads.khinsider.com/game-soundtracks/developer/microwish-software"
+  },
+  "publishers": {
+    "Hewson Consultants": "https://downloads.khinsider.com/game-soundtracks/publisher/hewson-consultants"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 14459863,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 408,
+      "source_mp3": "https://vgmsite.com/soundtracks/5th-gear-amiga/wgpanzvz/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/5th-gear-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 230686,
+      "track_number": 2,
+      "title": "Get Ready!",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/5th-gear-amiga/ouymhxws/02_Get%20Ready%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/5th-gear-amiga/02_Get%2520Ready%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1897922,
+      "track_number": 3,
+      "title": "Shop",
+      "runtime": 57,
+      "source_mp3": "https://vgmsite.com/soundtracks/5th-gear-amiga/wrionndv/03_Shop.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/5th-gear-amiga/03_Shop.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5347737,
+      "track_number": 4,
+      "title": "Ending",
+      "runtime": 166,
+      "source_mp3": "https://vgmsite.com/soundtracks/5th-gear-amiga/onhassmo/04_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/5th-gear-amiga/04_Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 482344,
+      "track_number": 5,
+      "title": "Game Over",
+      "runtime": 17,
+      "source_mp3": "https://vgmsite.com/soundtracks/5th-gear-amiga/opbvkjmy/05_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/5th-gear-amiga/05_Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 656,
+    "filesize_mp3_bytes": 22418552,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

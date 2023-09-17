@@ -1,0 +1,79 @@
+{
+  "title": "4D Boxing (IBM PC-XT-AT)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T00:14:15.288780+00:00",
+  "slug": "4d-boxing-ibm-pc-xt-at",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/4d-boxing-ibm-pc-xt-at",
+  "platforms": {
+    "IBM PC/AT": "https://downloads.khinsider.com/game-soundtracks/ibm-pc-at"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/4d-boxing-ibm-pc-xt-at/4D%20Boxing%20%28Sound%20Blaster%29.png"
+  ],
+  "year": 1991,
+  "date_added": "2022-03-10T00:00:00+00:00",
+  "developers": {
+    "Distinctive Software Inc.": "https://downloads.khinsider.com/game-soundtracks/developer/distinctive-software"
+  },
+  "publishers": {
+    "Electronic Arts": "https://downloads.khinsider.com/game-soundtracks/publisher/electronic-arts",
+    "Electronic Arts Victor": "https://downloads.khinsider.com/game-soundtracks/publisher/electronic-arts-victor",
+    "Mindscape": "https://downloads.khinsider.com/game-soundtracks/publisher/mindscape",
+    "The Learning Company": "https://downloads.khinsider.com/game-soundtracks/publisher/the-learning-company"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3072327,
+      "filesize_mp3_bytes": 1698693,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 74,
+      "source_mp3": "https://vgmsite.com/soundtracks/4d-boxing-ibm-pc-xt-at/flbgzsiffy/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/4d-boxing-ibm-pc-xt-at/flbgzsiffy/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/4d-boxing-ibm-pc-xt-at/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3449815,
+      "filesize_mp3_bytes": 1897922,
+      "track_number": 2,
+      "title": "The Gym",
+      "runtime": 82,
+      "source_mp3": "https://vgmsite.com/soundtracks/4d-boxing-ibm-pc-xt-at/qnwmkegphd/02%20The%20Gym.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/4d-boxing-ibm-pc-xt-at/qnwmkegphd/02%20The%20Gym.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/4d-boxing-ibm-pc-xt-at/02%2520The%2520Gym.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2610954,
+      "filesize_mp3_bytes": 1824522,
+      "track_number": 3,
+      "title": "Pre-Fight Cutscene",
+      "runtime": 81,
+      "source_mp3": "https://vgmsite.com/soundtracks/4d-boxing-ibm-pc-xt-at/xzpslftcxw/03%20Pre-Fight%20Cutscene.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/4d-boxing-ibm-pc-xt-at/xzpslftcxw/03%20Pre-Fight%20Cutscene.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/4d-boxing-ibm-pc-xt-at/03%2520Pre-Fight%2520Cutscene.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3072327,
+      "filesize_mp3_bytes": 1384120,
+      "track_number": 4,
+      "title": "Title Won & Hall of Fame",
+      "runtime": 61,
+      "source_mp3": "https://vgmsite.com/soundtracks/4d-boxing-ibm-pc-xt-at/wonwkrqcuy/04%20Title%20Won%20%26%20Hall%20of%20Fame.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/4d-boxing-ibm-pc-xt-at/wonwkrqcuy/04%20Title%20Won%20%26%20Hall%20of%20Fame.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/4d-boxing-ibm-pc-xt-at/04%2520Title%2520Won%2520%2526%2520Hall%2520of%2520Fame.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 298,
+    "filesize_mp3_bytes": 6805257,
+    "filesize_flac_bytes": 12205423,
+    "tracks": 4
+  }
+}

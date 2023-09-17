@@ -1,0 +1,36 @@
+{
+  "title": "AURA KINGDOM",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T01:21:22.591166+00:00",
+  "slug": "aura-kingdom-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/aura-kingdom-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/aura-kingdom-android/screen-0.jpg"
+  ],
+  "date_added": "2019-03-02T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2956984,
+      "title": "bgm099",
+      "runtime": 125,
+      "source_mp3": "https://vgmsite.com/soundtracks/aura-kingdom-android/mbysaenj/bgm099.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/aura-kingdom-android/bgm099.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 125,
+    "filesize_mp3_bytes": 2956984,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

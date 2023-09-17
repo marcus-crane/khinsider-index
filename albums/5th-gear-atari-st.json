@@ -1,0 +1,87 @@
+{
+  "title": "5th Gear",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T00:17:20.504079+00:00",
+  "slug": "5th-gear-atari-st",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/5th-gear-atari-st",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/5th-gear-atari-st/5th%20Gear.png"
+  ],
+  "year": 1989,
+  "date_added": "2022-12-03T00:00:00+00:00",
+  "developers": {
+    "Microwish Software": "https://downloads.khinsider.com/game-soundtracks/developer/microwish-software"
+  },
+  "publishers": {
+    "Hewson Consultants": "https://downloads.khinsider.com/game-soundtracks/publisher/hewson-consultants"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 46525317,
+      "filesize_mp3_bytes": 18654167,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 790,
+      "source_mp3": "https://vgmsite.com/soundtracks/5th-gear-atari-st/wmymjxwnhc/01%20Title.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/5th-gear-atari-st/wmymjxwnhc/01%20Title.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/5th-gear-atari-st/01%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 440401,
+      "filesize_mp3_bytes": 167772,
+      "track_number": 2,
+      "title": "Get Ready",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/5th-gear-atari-st/rnsmirmjlu/02%20Get%20Ready.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/5th-gear-atari-st/rnsmirmjlu/02%20Get%20Ready.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/5th-gear-atari-st/02%2520Get%2520Ready.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3229614,
+      "filesize_mp3_bytes": 1279262,
+      "track_number": 3,
+      "title": "Shop",
+      "runtime": 56,
+      "source_mp3": "https://vgmsite.com/soundtracks/5th-gear-atari-st/nxheqbffvj/03%20Shop.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/5th-gear-atari-st/nxheqbffvj/03%20Shop.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/5th-gear-atari-st/03%2520Shop.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10234101,
+      "filesize_mp3_bytes": 3554672,
+      "track_number": 4,
+      "title": "Well Done",
+      "runtime": 164,
+      "source_mp3": "https://vgmsite.com/soundtracks/5th-gear-atari-st/dtxetrvljy/04%20Well%20Done.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/5th-gear-atari-st/dtxetrvljy/04%20Well%20Done.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/5th-gear-atari-st/04%2520Well%2520Done.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 786432,
+      "filesize_mp3_bytes": 346030,
+      "track_number": 5,
+      "title": "Game Over",
+      "runtime": 16,
+      "source_mp3": "https://vgmsite.com/soundtracks/5th-gear-atari-st/ikgdradcxw/05%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/5th-gear-atari-st/ikgdradcxw/05%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/5th-gear-atari-st/05%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1034,
+    "filesize_mp3_bytes": 24001903,
+    "filesize_flac_bytes": 61215865,
+    "tracks": 5
+  }
+}

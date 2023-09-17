@@ -1,0 +1,62 @@
+{
+  "title": "AceSaga - The Lament of a Raven",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T01:29:02.647505+00:00",
+  "slug": "acesaga-the-lament-of-a-raven",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/acesaga-the-lament-of-a-raven",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/acesaga-the-lament-of-a-raven/AceSaga%20-%20The%20Lament%20of%20a%20Raven.jpg"
+  ],
+  "year": 2002,
+  "date_added": "2006-11-10T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3690987,
+      "title": "acesaga - amigo",
+      "runtime": 154,
+      "source_mp3": "https://vgmsite.com/soundtracks/acesaga-the-lament-of-a-raven/kmeeibho/acesaga%20-%20amigo.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/acesaga-the-lament-of-a-raven/acesaga%2520-%2520amigo.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3009413,
+      "title": "acesaga - die dulci fruere",
+      "runtime": 125,
+      "source_mp3": "https://vgmsite.com/soundtracks/acesaga-the-lament-of-a-raven/htkoqjua/acesaga%20-%20die%20dulci%20fruere.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/acesaga-the-lament-of-a-raven/acesaga%2520-%2520die%2520dulci%2520fruere.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3166699,
+      "title": "acesaga - miserere nobis",
+      "runtime": 132,
+      "source_mp3": "https://vgmsite.com/soundtracks/acesaga-the-lament-of-a-raven/vqipdprp/acesaga%20-%20miserere%20nobis.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/acesaga-the-lament-of-a-raven/acesaga%2520-%2520miserere%2520nobis.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5788139,
+      "title": "acesaga - quid novi",
+      "runtime": 241,
+      "source_mp3": "https://vgmsite.com/soundtracks/acesaga-the-lament-of-a-raven/njmrrqod/acesaga%20-%20quid%20novi.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/acesaga-the-lament-of-a-raven/acesaga%2520-%2520quid%2520novi.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 652,
+    "filesize_mp3_bytes": 15655238,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

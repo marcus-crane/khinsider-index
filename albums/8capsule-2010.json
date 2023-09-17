@@ -1,0 +1,73 @@
+{
+  "title": "8capsule",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T00:24:28.969675+00:00",
+  "slug": "8capsule-2010",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/8capsule-2010",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/8capsule-2010/Image.png"
+  ],
+  "year": 2010,
+  "date_added": "2023-04-18T00:00:00+00:00",
+  "developers": {
+    "thrompd": "https://downloads.khinsider.com/game-soundtracks/developer/thrompd"
+  },
+  "publishers": {},
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2149580,
+      "title": "Bad Time",
+      "runtime": 84,
+      "source_mp3": "https://vgmsite.com/soundtracks/8capsule-2010/giqmhexjdv/Bad%20Time.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/8capsule-2010/Bad%2520Time.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 660602,
+      "title": "Beauty",
+      "runtime": 34,
+      "source_mp3": "https://vgmsite.com/soundtracks/8capsule-2010/aeucofwqzx/Beauty.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/8capsule-2010/Beauty.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1342177,
+      "title": "Boss",
+      "runtime": 59,
+      "source_mp3": "https://vgmsite.com/soundtracks/8capsule-2010/ggnefyhuet/Boss.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/8capsule-2010/Boss.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1740636,
+      "title": "Good Time",
+      "runtime": 75,
+      "source_mp3": "https://vgmsite.com/soundtracks/8capsule-2010/dzbqgibwes/Good%20Time.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/8capsule-2010/Good%2520Time.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 849346,
+      "title": "Total Super",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/8capsule-2010/aksgbicjcs/Total%20Super.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/8capsule-2010/Total%2520Super.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 300,
+    "filesize_mp3_bytes": 6742341,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

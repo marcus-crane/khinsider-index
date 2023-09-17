@@ -1,0 +1,63 @@
+{
+  "title": "ALTER EGO (Android, iOS)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T00:59:55.076963+00:00",
+  "slug": "alter-ego-android-ios",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/alter-ego-android-ios",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/alter-ego-android-ios/coverart.jpg"
+  ],
+  "year": 2019,
+  "date_added": "2021-09-02T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2254438,
+      "title": "Alter ego",
+      "runtime": 131,
+      "source_mp3": "https://vgmsite.com/soundtracks/alter-ego-android-ios/rhiaxcqxsi/Alter%20ego.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alter-ego-android-ios/Alter%2520ego.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2747269,
+      "title": "Silence (piano)",
+      "runtime": 162,
+      "source_mp3": "https://vgmsite.com/soundtracks/alter-ego-android-ios/wbwfndqhfc/Silence%20%28piano%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alter-ego-android-ios/Silence%2520%2528piano%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2579496,
+      "title": "Silence (Remix ver.)",
+      "runtime": 152,
+      "source_mp3": "https://vgmsite.com/soundtracks/alter-ego-android-ios/zpbpxoytmp/Silence%20%28Remix%20ver.%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alter-ego-android-ios/Silence%2520%2528Remix%2520ver.%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2810183,
+      "title": "Silence (voice)",
+      "runtime": 166,
+      "source_mp3": "https://vgmsite.com/soundtracks/alter-ego-android-ios/gjkrescxxj/Silence%20%28voice%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alter-ego-android-ios/Silence%2520%2528voice%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 611,
+    "filesize_mp3_bytes": 10391386,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

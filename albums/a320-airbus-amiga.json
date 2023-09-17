@@ -1,0 +1,42 @@
+{
+  "title": "A320 Airbus",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T00:44:41.741585+00:00",
+  "slug": "a320-airbus-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/a320-airbus-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/a320-airbus-amiga/67953_back.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2021-03-18T00:00:00+00:00",
+  "developers": {
+    "Michael Bittner": "https://downloads.khinsider.com/game-soundtracks/developer/michael-bittner",
+    "Rainer Bopf": "https://downloads.khinsider.com/game-soundtracks/developer/rainer-bopf"
+  },
+  "publishers": {
+    "Thalion": "https://downloads.khinsider.com/game-soundtracks/publisher/thalion"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5253365,
+      "title": "Ecran Titre",
+      "runtime": 260,
+      "source_mp3": "https://vgmsite.com/soundtracks/a320-airbus-amiga/fsxzlazkyw/Ecran%20Titre.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/a320-airbus-amiga/Ecran%2520Titre.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 260,
+    "filesize_mp3_bytes": 5253365,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

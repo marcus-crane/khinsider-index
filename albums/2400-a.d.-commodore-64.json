@@ -1,0 +1,66 @@
+{
+  "title": "2400 A.D.",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T00:04:41.884437+00:00",
+  "slug": "2400-a.d.-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/2400-a.d.-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/2400-a.d.-commodore-64/2400%20A.D..png"
+  ],
+  "year": 1988,
+  "date_added": "2017-11-01T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8210350,
+      "track_number": 1,
+      "title": "2400 A.D. BGM 1",
+      "runtime": 468,
+      "source_mp3": "https://vgmsite.com/soundtracks/2400-a.d.-commodore-64/yxkspman/01_2400%20A.D.%20BGM%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/2400-a.d.-commodore-64/01_2400%2520A.D.%2520BGM%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3806330,
+      "track_number": 2,
+      "title": "2400 A.D. BGM 2",
+      "runtime": 229,
+      "source_mp3": "https://vgmsite.com/soundtracks/2400-a.d.-commodore-64/eifodvui/02_2400%20A.D.%20BGM%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/2400-a.d.-commodore-64/02_2400%2520A.D.%2520BGM%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 15225323,
+      "track_number": 3,
+      "title": "2400 A.D. BGM 1 (SID Stereo)",
+      "runtime": 481,
+      "source_mp3": "https://vgmsite.com/soundtracks/2400-a.d.-commodore-64/eelkcuqa/03_2400%20A.D.%20BGM%201%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/2400-a.d.-commodore-64/03_2400%2520A.D.%2520BGM%25201%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6731857,
+      "track_number": 4,
+      "title": "2400 A.D. BGM 2 (SID Stereo)",
+      "runtime": 232,
+      "source_mp3": "https://vgmsite.com/soundtracks/2400-a.d.-commodore-64/odsjnqvv/04_2400%20A.D.%20BGM%202%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/2400-a.d.-commodore-64/04_2400%2520A.D.%2520BGM%25202%2520%2528SID%2520Stereo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1410,
+    "filesize_mp3_bytes": 33973860,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

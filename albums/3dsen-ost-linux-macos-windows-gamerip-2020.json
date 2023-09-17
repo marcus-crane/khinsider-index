@@ -1,0 +1,68 @@
+{
+  "title": "3DSen OST",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T00:11:23.600655+00:00",
+  "slug": "3dsen-ost-linux-macos-windows-gamerip-2020",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/3dsen-ost-linux-macos-windows-gamerip-2020",
+  "platforms": {
+    "Linux": "https://downloads.khinsider.com/game-soundtracks/linux",
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "VR": "https://downloads.khinsider.com/game-soundtracks/virtual-reality",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/3dsen-ost-linux-macos-windows-gamerip-2020/3DSen%20OST%20Cover.png"
+  ],
+  "year": 2020,
+  "date_added": "2023-07-14T00:00:00+00:00",
+  "developers": {
+    "Geod Studio": "https://downloads.khinsider.com/game-soundtracks/developer/geod-studio"
+  },
+  "publishers": {
+    "Geod Studio": "https://downloads.khinsider.com/game-soundtracks/publisher/geod-studio"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 21233664,
+      "filesize_mp3_bytes": 3292528,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 112,
+      "source_mp3": "https://vgmsite.com/soundtracks/3dsen-ost-linux-macos-windows-gamerip-2020/iojkbgyrvs/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/3dsen-ost-linux-macos-windows-gamerip-2020/iojkbgyrvs/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/3dsen-ost-linux-macos-windows-gamerip-2020/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 30545018,
+      "filesize_mp3_bytes": 5525995,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 163,
+      "source_mp3": "https://vgmsite.com/soundtracks/3dsen-ost-linux-macos-windows-gamerip-2020/xnpumiggch/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/3dsen-ost-linux-macos-windows-gamerip-2020/xnpumiggch/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/3dsen-ost-linux-macos-windows-gamerip-2020/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11051991,
+      "filesize_mp3_bytes": 2002780,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 66,
+      "source_mp3": "https://vgmsite.com/soundtracks/3dsen-ost-linux-macos-windows-gamerip-2020/axktbohvqm/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/3dsen-ost-linux-macos-windows-gamerip-2020/axktbohvqm/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/3dsen-ost-linux-macos-windows-gamerip-2020/03.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 341,
+    "filesize_mp3_bytes": 10821303,
+    "filesize_flac_bytes": 62830673,
+    "tracks": 3
+  }
+}

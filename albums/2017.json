@@ -1,0 +1,53 @@
+{
+  "title": "4ORCE!",
+  "titles_alternative": [
+    "\u3075\u3049\u30fc\u3059!",
+    "FORCE!",
+    "\u2463ORCE!"
+  ],
+  "crawled_at": "2023-09-17T00:14:24.730456+00:00",
+  "slug": "2017",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/2017",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/2017/6802080.jpg"
+  ],
+  "year": 2017,
+  "catalog_number": "KCCD-006",
+  "date_added": "2022-09-27T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Confetto": "https://downloads.khinsider.com/game-soundtracks/publisher/confetto"
+  },
+  "genres": {
+    "Compilation": "https://downloads.khinsider.com/game-soundtracks/compilations"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11429478,
+      "track_number": 1,
+      "title": "senpai, notice me!",
+      "runtime": 281,
+      "source_mp3": "https://vgmsite.com/soundtracks/2017/qmadvwjjgj/01%20senpai%2C%20notice%20me%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/2017/01%2520senpai%252C%2520notice%2520me%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7140802,
+      "track_number": 2,
+      "title": "\u89c0\u6e2c\u885e\u66d0",
+      "runtime": 283,
+      "source_mp3": "https://vgmsite.com/soundtracks/2017/brdojahcsi/02%20%E8%A7%80%E6%B8%AC%E8%A1%9E%E6%9B%90.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/2017/02%2520%25E8%25A7%2580%25E6%25B8%25AC%25E8%25A1%259E%25E6%259B%2590.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 564,
+    "filesize_mp3_bytes": 18570280,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

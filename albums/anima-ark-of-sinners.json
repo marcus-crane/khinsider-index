@@ -1,0 +1,72 @@
+{
+  "title": "ANIMA - Ark of Sinners (WiiWare)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T01:02:11.766633+00:00",
+  "slug": "anima-ark-of-sinners",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/anima-ark-of-sinners",
+  "platforms": {
+    "Wii": "https://downloads.khinsider.com/game-soundtracks/nintendo-wii"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/anima-ark-of-sinners/cover.png"
+  ],
+  "year": 2011,
+  "date_added": "2019-09-08T00:00:00+00:00",
+  "developers": {
+    "Anima Game Studio": "https://downloads.khinsider.com/game-soundtracks/developer/anima-game-studio"
+  },
+  "publishers": {
+    "Anima Game Studio": "https://downloads.khinsider.com/game-soundtracks/publisher/anima-game-studio"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 734003,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 57,
+      "source_mp3": "https://vgmsite.com/soundtracks/anima-ark-of-sinners/dutanjmiku/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/anima-ark-of-sinners/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1939865,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 142,
+      "source_mp3": "https://vgmsite.com/soundtracks/anima-ark-of-sinners/vcnxytknbz/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/anima-ark-of-sinners/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 796917,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 72,
+      "source_mp3": "https://vgmsite.com/soundtracks/anima-ark-of-sinners/wywhknkdyt/03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/anima-ark-of-sinners/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2862612,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 121,
+      "source_mp3": "https://vgmsite.com/soundtracks/anima-ark-of-sinners/qvecjlsmoi/04.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/anima-ark-of-sinners/04.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 392,
+    "filesize_mp3_bytes": 6333397,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

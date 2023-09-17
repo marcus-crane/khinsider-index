@@ -1,0 +1,66 @@
+{
+  "title": "3D Galaxy Fighters",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T00:08:24.693009+00:00",
+  "slug": "3d-galaxy-fighters",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/3d-galaxy-fighters",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/3d-galaxy-fighters/1523501175-504982356.png"
+  ],
+  "year": 1999,
+  "date_added": "2020-06-21T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 16850616,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 421,
+      "source_mp3": "https://vgmsite.com/soundtracks/3d-galaxy-fighters/nczgteokik/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/3d-galaxy-fighters/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 16231956,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 406,
+      "source_mp3": "https://vgmsite.com/soundtracks/3d-galaxy-fighters/zoliqdwrrp/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/3d-galaxy-fighters/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 19576913,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 489,
+      "source_mp3": "https://vgmsite.com/soundtracks/3d-galaxy-fighters/rjhejjuvri/03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/3d-galaxy-fighters/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 18654167,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 466,
+      "source_mp3": "https://vgmsite.com/soundtracks/3d-galaxy-fighters/lhauqnflnf/04.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/3d-galaxy-fighters/04.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1782,
+    "filesize_mp3_bytes": 71313652,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

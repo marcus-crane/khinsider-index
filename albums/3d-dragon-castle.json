@@ -1,0 +1,66 @@
+{
+  "title": "3D Dragon Castle",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T00:08:20.661366+00:00",
+  "slug": "3d-dragon-castle",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/3d-dragon-castle",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/3d-dragon-castle/3D%20Dragon%20Duel%20Windows%20back%20cover.jpg"
+  ],
+  "year": 1999,
+  "date_added": "2020-06-21T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 15581839,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 389,
+      "source_mp3": "https://vgmsite.com/soundtracks/3d-dragon-castle/emkondcylx/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/3d-dragon-castle/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 15298723,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 382,
+      "source_mp3": "https://vgmsite.com/soundtracks/3d-dragon-castle/hoeubdcnsx/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/3d-dragon-castle/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 12079595,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 302,
+      "source_mp3": "https://vgmsite.com/soundtracks/3d-dragon-castle/muaxxyhbog/03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/3d-dragon-castle/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11985223,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 299,
+      "source_mp3": "https://vgmsite.com/soundtracks/3d-dragon-castle/fothdkqejz/04.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/3d-dragon-castle/04.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1372,
+    "filesize_mp3_bytes": 54945380,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

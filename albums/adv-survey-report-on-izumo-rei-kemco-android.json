@@ -1,0 +1,63 @@
+{
+  "title": "ADV Survey Report on Izumo Rei (Kemco)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T00:50:46.730036+00:00",
+  "slug": "adv-survey-report-on-izumo-rei-kemco-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/adv-survey-report-on-izumo-rei-kemco-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/adv-survey-report-on-izumo-rei-kemco-android/screen-0.jpg"
+  ],
+  "date_added": "2018-06-21T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3575644,
+      "title": "BGM00",
+      "runtime": 89,
+      "source_mp3": "https://vgmsite.com/soundtracks/adv-survey-report-on-izumo-rei-kemco-android/cecmazec/BGM00.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/adv-survey-report-on-izumo-rei-kemco-android/BGM00.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3722444,
+      "title": "BGM01",
+      "runtime": 93,
+      "source_mp3": "https://vgmsite.com/soundtracks/adv-survey-report-on-izumo-rei-kemco-android/tgjklxmc/BGM01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/adv-survey-report-on-izumo-rei-kemco-android/BGM01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3334471,
+      "title": "BGM02",
+      "runtime": 83,
+      "source_mp3": "https://vgmsite.com/soundtracks/adv-survey-report-on-izumo-rei-kemco-android/phoqnpjr/BGM02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/adv-survey-report-on-izumo-rei-kemco-android/BGM02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3848273,
+      "title": "BGM03",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/adv-survey-report-on-izumo-rei-kemco-android/rxndssmk/BGM03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/adv-survey-report-on-izumo-rei-kemco-android/BGM03.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 361,
+    "filesize_mp3_bytes": 14480832,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

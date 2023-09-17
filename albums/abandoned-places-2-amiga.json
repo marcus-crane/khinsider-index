@@ -1,0 +1,62 @@
+{
+  "title": "Abandoned Places 2",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T01:23:29.214371+00:00",
+  "slug": "abandoned-places-2-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/abandoned-places-2-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/abandoned-places-2-amiga/abandoned%20places%202.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2018-03-04T00:00:00+00:00",
+  "developers": {
+    "ArtGame": "https://downloads.khinsider.com/game-soundtracks/developer/artgame"
+  },
+  "publishers": {
+    "International Computer Entertainment Ltd.": "https://downloads.khinsider.com/game-soundtracks/publisher/international-computer-entertainment"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3858759,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 138,
+      "source_mp3": "https://vgmsite.com/soundtracks/abandoned-places-2-amiga/nhbyjxjs/01_Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/abandoned-places-2-amiga/01_Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4225761,
+      "track_number": 2,
+      "title": "Winning Piece",
+      "runtime": 161,
+      "source_mp3": "https://vgmsite.com/soundtracks/abandoned-places-2-amiga/rmzqrunf/02_Winning%20Piece.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/abandoned-places-2-amiga/02_Winning%2520Piece.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4267704,
+      "track_number": 3,
+      "title": "Game Over",
+      "runtime": 159,
+      "source_mp3": "https://vgmsite.com/soundtracks/abandoned-places-2-amiga/crlarfzl/03_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/abandoned-places-2-amiga/03_Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 458,
+    "filesize_mp3_bytes": 12352224,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

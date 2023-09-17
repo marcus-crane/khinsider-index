@@ -1,0 +1,84 @@
+{
+  "title": "A Kingdom for Keflings",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T00:33:20.776757+00:00",
+  "slug": "a-kingdom-for-keflings",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/a-kingdom-for-keflings",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows",
+    "Xbox 360": "https://downloads.khinsider.com/game-soundtracks/xbox-360"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/a-kingdom-for-keflings/Album%20Cover.jpg"
+  ],
+  "year": 2008,
+  "catalog_number": null,
+  "date_added": "2016-07-25T00:00:00+00:00",
+  "developers": {
+    "NinjaBee": "https://downloads.khinsider.com/game-soundtracks/developer/ninjabee"
+  },
+  "publishers": {
+    "Microsoft Studios": "https://downloads.khinsider.com/game-soundtracks/publisher/microsoft-studios"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1027604,
+      "track_number": 1,
+      "title": "Keflings Opener",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/a-kingdom-for-keflings/rqguqskz/01%20Keflings%20Opener.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/a-kingdom-for-keflings/01%2520Keflings%2520Opener.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1478492,
+      "track_number": 2,
+      "title": "Keflings Spring",
+      "runtime": 92,
+      "source_mp3": "https://vgmsite.com/soundtracks/a-kingdom-for-keflings/flebjcct/02%20Keflings%20Spring.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/a-kingdom-for-keflings/02%2520Keflings%2520Spring.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1468006,
+      "track_number": 3,
+      "title": "Keflings Summer",
+      "runtime": 91,
+      "source_mp3": "https://vgmsite.com/soundtracks/a-kingdom-for-keflings/vpufkpha/03%20Keflings%20Summer.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/a-kingdom-for-keflings/03%2520Keflings%2520Summer.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1352663,
+      "track_number": 4,
+      "title": "Keflings Winter",
+      "runtime": 84,
+      "source_mp3": "https://vgmsite.com/soundtracks/a-kingdom-for-keflings/hbaiwzik/04%20Keflings%20Winter.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/a-kingdom-for-keflings/04%2520Keflings%2520Winter.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1541406,
+      "track_number": 5,
+      "title": "Keflings Fall",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/a-kingdom-for-keflings/sfrprxof/05%20Keflings%20Fall.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/a-kingdom-for-keflings/05%2520Keflings%2520Fall.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 427,
+    "filesize_mp3_bytes": 6868171,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

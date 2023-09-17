@@ -1,0 +1,77 @@
+{
+  "title": "ASTRAL CHAIN VOCAL COLLECTION",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T01:15:16.377117+00:00",
+  "slug": "astral-chain-vocal-collection",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/astral-chain-vocal-collection",
+  "platforms": {
+    "Switch": "https://downloads.khinsider.com/game-soundtracks/nintendo-switch"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/astral-chain-vocal-collection/Cover.jpg"
+  ],
+  "year": 2019,
+  "catalog_number": "ANTCD-32892",
+  "date_added": "2020-08-30T00:00:00+00:00",
+  "developers": {
+    "PlatinumGames": "https://downloads.khinsider.com/game-soundtracks/developer/platinumgames"
+  },
+  "publishers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 32002539,
+      "filesize_mp3_bytes": 21181235,
+      "track_number": 1,
+      "title": "Savior",
+      "runtime": 218,
+      "source_mp3": "https://vgmsite.com/soundtracks/astral-chain-vocal-collection/nikxwswsnp/01.%20Savior.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/astral-chain-vocal-collection/nikxwswsnp/01.%20Savior.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/astral-chain-vocal-collection/01.%2520Savior.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 29056040,
+      "filesize_mp3_bytes": 21023948,
+      "track_number": 2,
+      "title": "Dark Hero - Female ver.",
+      "runtime": 205,
+      "source_mp3": "https://vgmsite.com/soundtracks/astral-chain-vocal-collection/hnziopnddv/02.%20Dark%20Hero%20-%20Female%20ver..mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/astral-chain-vocal-collection/hnziopnddv/02.%20Dark%20Hero%20-%20Female%20ver..flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/astral-chain-vocal-collection/02.%2520Dark%2520Hero%2520-%2520Female%2520ver..mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 28657582,
+      "filesize_mp3_bytes": 20982005,
+      "track_number": 3,
+      "title": "Dark Hero - Male ver.",
+      "runtime": 206,
+      "source_mp3": "https://vgmsite.com/soundtracks/astral-chain-vocal-collection/wybmodzpkx/03.%20Dark%20Hero%20-%20Male%20ver..mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/astral-chain-vocal-collection/wybmodzpkx/03.%20Dark%20Hero%20-%20Male%20ver..flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/astral-chain-vocal-collection/03.%2520Dark%2520Hero%2520-%2520Male%2520ver..mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 25312624,
+      "filesize_mp3_bytes": 19482542,
+      "track_number": 4,
+      "title": "The Anwser",
+      "runtime": 169,
+      "source_mp3": "https://vgmsite.com/soundtracks/astral-chain-vocal-collection/afctapfwpd/04.%20The%20Anwser.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/astral-chain-vocal-collection/afctapfwpd/04.%20The%20Anwser.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/astral-chain-vocal-collection/04.%2520The%2520Anwser.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 798,
+    "filesize_mp3_bytes": 82669730,
+    "filesize_flac_bytes": 115028785,
+    "tracks": 4
+  }
+}

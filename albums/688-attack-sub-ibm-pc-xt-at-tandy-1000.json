@@ -1,0 +1,54 @@
+{
+  "title": "688 Attack Sub (IBM PC-XT-AT, Tandy 1000)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T00:18:15.071912+00:00",
+  "slug": "688-attack-sub-ibm-pc-xt-at-tandy-1000",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/688-attack-sub-ibm-pc-xt-at-tandy-1000",
+  "platforms": {
+    "IBM PC/AT": "https://downloads.khinsider.com/game-soundtracks/ibm-pc-at"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/688-attack-sub-ibm-pc-xt-at-tandy-1000/688%20Attack%20Sub%20%28EGA%2C%20Tandy%29.png"
+  ],
+  "year": 1989,
+  "date_added": "2022-03-10T00:00:00+00:00",
+  "developers": {
+    "Electronic Arts": "https://downloads.khinsider.com/game-soundtracks/developer/electronic-arts"
+  },
+  "publishers": {
+    "Electronic Arts": "https://downloads.khinsider.com/game-soundtracks/publisher/electronic-arts"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8881438,
+      "filesize_mp3_bytes": 3261071,
+      "track_number": 1,
+      "title": "Title Screen (Tandy 1000)",
+      "runtime": 155,
+      "source_mp3": "https://vgmsite.com/soundtracks/688-attack-sub-ibm-pc-xt-at-tandy-1000/hiiupgauhl/01%20Title%20Screen%20%28Tandy%201000%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/688-attack-sub-ibm-pc-xt-at-tandy-1000/hiiupgauhl/01%20Title%20Screen%20%28Tandy%201000%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/688-attack-sub-ibm-pc-xt-at-tandy-1000/01%2520Title%2520Screen%2520%2528Tandy%25201000%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11125391,
+      "filesize_mp3_bytes": 3890216,
+      "track_number": 2,
+      "title": "Title Screen (AdLib Music Synthesizer Card)",
+      "runtime": 177,
+      "source_mp3": "https://vgmsite.com/soundtracks/688-attack-sub-ibm-pc-xt-at-tandy-1000/fhpsvmeijc/02%20Title%20Screen%20%28AdLib%20Music%20Synthesizer%20Card%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/688-attack-sub-ibm-pc-xt-at-tandy-1000/fhpsvmeijc/02%20Title%20Screen%20%28AdLib%20Music%20Synthesizer%20Card%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/688-attack-sub-ibm-pc-xt-at-tandy-1000/02%2520Title%2520Screen%2520%2528AdLib%2520Music%2520Synthesizer%2520Card%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 332,
+    "filesize_mp3_bytes": 7151287,
+    "filesize_flac_bytes": 20006829,
+    "tracks": 2
+  }
+}

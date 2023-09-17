@@ -1,0 +1,54 @@
+{
+  "title": "50 More Classic Games",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T00:17:01.292483+00:00",
+  "slug": "50-more-classic-games-2011-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/50-more-classic-games-2011-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/50-more-classic-games-2011-nds-gamerip/50%20More%20Classic%20Games.jpg"
+  ],
+  "year": 2011,
+  "date_added": "2020-06-01T00:00:00+00:00",
+  "developers": {
+    "Destineer": "https://downloads.khinsider.com/game-soundtracks/developer/destineer"
+  },
+  "publishers": {
+    "Destineer": "https://downloads.khinsider.com/game-soundtracks/publisher/destineer"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1688207,
+      "filesize_mp3_bytes": 671088,
+      "track_number": 1,
+      "title": "In Game",
+      "runtime": 46,
+      "source_mp3": "https://vgmsite.com/soundtracks/50-more-classic-games-2011-nds-gamerip/zweacbyiqx/01%20In%20Game.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/50-more-classic-games-2011-nds-gamerip/zweacbyiqx/01%20In%20Game.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/50-more-classic-games-2011-nds-gamerip/01%2520In%2520Game.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2768240,
+      "filesize_mp3_bytes": 1121976,
+      "track_number": 2,
+      "title": "Main",
+      "runtime": 69,
+      "source_mp3": "https://vgmsite.com/soundtracks/50-more-classic-games-2011-nds-gamerip/udyeklcfim/02%20Main.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/50-more-classic-games-2011-nds-gamerip/udyeklcfim/02%20Main.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/50-more-classic-games-2011-nds-gamerip/02%2520Main.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 115,
+    "filesize_mp3_bytes": 1793064,
+    "filesize_flac_bytes": 4456447,
+    "tracks": 2
+  }
+}

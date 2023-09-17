@@ -1,0 +1,83 @@
+{
+  "title": "3D Challenge OST",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T00:07:54.017137+00:00",
+  "slug": "3d-challenge-ost-3ds",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/3d-challenge-ost-3ds",
+  "platforms": {
+    "3DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-3ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/3d-challenge-ost-3ds/cover.png"
+  ],
+  "year": 2010,
+  "date_added": "2020-10-24T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3376414,
+      "filesize_mp3_bytes": 1541406,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 46,
+      "source_mp3": "https://vgmsite.com/soundtracks/3d-challenge-ost-3ds/cdfmdpmpgu/01.%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/3d-challenge-ost-3ds/cdfmdpmpgu/01.%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/3d-challenge-ost-3ds/01.%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5033164,
+      "filesize_mp3_bytes": 1981808,
+      "track_number": 2,
+      "title": "Tutorial",
+      "runtime": 62,
+      "source_mp3": "https://vgmsite.com/soundtracks/3d-challenge-ost-3ds/hjiwsjqkht/02.%20Tutorial.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/3d-challenge-ost-3ds/hjiwsjqkht/02.%20Tutorial.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/3d-challenge-ost-3ds/02.%2520Tutorial.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3701473,
+      "filesize_mp3_bytes": 1006632,
+      "track_number": 3,
+      "title": "Thinking",
+      "runtime": 39,
+      "source_mp3": "https://vgmsite.com/soundtracks/3d-challenge-ost-3ds/agdmxsjgci/03.%20Thinking.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/3d-challenge-ost-3ds/agdmxsjgci/03.%20Thinking.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/3d-challenge-ost-3ds/03.%2520Thinking.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3544186,
+      "filesize_mp3_bytes": 1048576,
+      "track_number": 4,
+      "title": "Examination",
+      "runtime": 40,
+      "source_mp3": "https://vgmsite.com/soundtracks/3d-challenge-ost-3ds/cqxavisdyt/04.%20Examination.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/3d-challenge-ost-3ds/cqxavisdyt/04.%20Examination.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/3d-challenge-ost-3ds/04.%2520Examination.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2579496,
+      "filesize_mp3_bytes": 1132462,
+      "track_number": 5,
+      "title": "Fanfare",
+      "runtime": 35,
+      "source_mp3": "https://vgmsite.com/soundtracks/3d-challenge-ost-3ds/oypjrqinrf/05.%20Fanfare.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/3d-challenge-ost-3ds/oypjrqinrf/05.%20Fanfare.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/3d-challenge-ost-3ds/05.%2520Fanfare.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 222,
+    "filesize_mp3_bytes": 6710884,
+    "filesize_flac_bytes": 18234733,
+    "tracks": 5
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "title": "ADventure Lib",
+  "titles_alternative": [
+    "ADventure Lib"
+  ],
+  "crawled_at": "2023-09-17T00:50:57.154967+00:00",
+  "slug": "adventure-lib-2015",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/adventure-lib-2015",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/adventure-lib-2015/adlib.jpg"
+  ],
+  "year": 2015,
+  "date_added": "2023-02-27T00:00:00+00:00",
+  "developers": {
+    "Fancy Fish Games": "https://downloads.khinsider.com/game-soundtracks/developer/fancy-fish-games"
+  },
+  "publishers": {
+    "Fancy Fish Games": "https://downloads.khinsider.com/game-soundtracks/publisher/fancy-fish-games"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3942645,
+      "track_number": 1,
+      "title": "Throne Room",
+      "runtime": 133,
+      "source_mp3": "https://vgmsite.com/soundtracks/adventure-lib-2015/raaeehjtir/01.%20Throne%20Room.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/adventure-lib-2015/01.%2520Throne%2520Room.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5106565,
+      "track_number": 2,
+      "title": "Outside Castle Walls",
+      "runtime": 206,
+      "source_mp3": "https://vgmsite.com/soundtracks/adventure-lib-2015/qtvoakagsn/02.%20Outside%20Castle%20Walls.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/adventure-lib-2015/02.%2520Outside%2520Castle%2520Walls.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4236247,
+      "track_number": 3,
+      "title": "The Dungeon Below",
+      "runtime": 151,
+      "source_mp3": "https://vgmsite.com/soundtracks/adventure-lib-2015/adrukoxvgu/03.%20The%20Dungeon%20Below.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/adventure-lib-2015/03.%2520The%2520Dungeon%2520Below.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4026531,
+      "track_number": 4,
+      "title": "Town Square",
+      "runtime": 138,
+      "source_mp3": "https://vgmsite.com/soundtracks/adventure-lib-2015/cuhdhobxfr/04.%20Town%20Square.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/adventure-lib-2015/04.%2520Town%2520Square.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 628,
+    "filesize_mp3_bytes": 17311988,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

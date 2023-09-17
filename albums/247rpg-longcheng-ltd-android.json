@@ -1,0 +1,45 @@
+{
+  "title": "247RPG (Longcheng Ltd)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T00:04:43.520237+00:00",
+  "slug": "247rpg-longcheng-ltd-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/247rpg-longcheng-ltd-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/247rpg-longcheng-ltd-android/us-ipad-1-247rpg.jpg"
+  ],
+  "date_added": "2018-03-06T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 314572,
+      "title": "bg1",
+      "runtime": 52,
+      "source_mp3": "https://vgmsite.com/soundtracks/247rpg-longcheng-ltd-android/qidrwsxk/bg1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/247rpg-longcheng-ltd-android/bg1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 293601,
+      "title": "bg2",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/247rpg-longcheng-ltd-android/ixfpcnho/bg2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/247rpg-longcheng-ltd-android/bg2.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 100,
+    "filesize_mp3_bytes": 608173,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

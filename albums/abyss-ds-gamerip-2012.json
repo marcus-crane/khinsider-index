@@ -1,0 +1,70 @@
+{
+  "title": "Abyss",
+  "titles_alternative": [
+    "\u30a2\u30d3\u30b9"
+  ],
+  "crawled_at": "2023-09-17T01:25:12.410038+00:00",
+  "slug": "abyss-ds-gamerip-2012",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/abyss-ds-gamerip-2012",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds",
+    "PS5": "https://downloads.khinsider.com/game-soundtracks/playstation-5",
+    "Switch": "https://downloads.khinsider.com/game-soundtracks/nintendo-switch",
+    "Wii U": "https://downloads.khinsider.com/game-soundtracks/nintendo-wii-u"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/abyss-ds-gamerip-2012/395481-abyss-nintendo-dsi-front-cover.jpg"
+  ],
+  "year": 2012,
+  "date_added": "2022-09-27T00:00:00+00:00",
+  "developers": {
+    "EnjoyUP": "https://downloads.khinsider.com/game-soundtracks/developer/enjoyup"
+  },
+  "publishers": {
+    "Cosen": "https://downloads.khinsider.com/game-soundtracks/publisher/cosen",
+    "EnjoyUp": "https://downloads.khinsider.com/game-soundtracks/publisher/enjoyup",
+    "Starsign": "https://downloads.khinsider.com/game-soundtracks/publisher/starsign",
+    "Super PowerUp Games": "https://downloads.khinsider.com/game-soundtracks/publisher/super-powerup-games"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3040870,
+      "track_number": 1,
+      "title": "Menu",
+      "runtime": 76,
+      "source_mp3": "https://vgmsite.com/soundtracks/abyss-ds-gamerip-2012/qsflefvcxi/01.%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/abyss-ds-gamerip-2012/01.%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6469713,
+      "track_number": 2,
+      "title": "Ingame 1",
+      "runtime": 162,
+      "source_mp3": "https://vgmsite.com/soundtracks/abyss-ds-gamerip-2012/rndzdqjern/02.%20Ingame%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/abyss-ds-gamerip-2012/02.%2520Ingame%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6134169,
+      "track_number": 3,
+      "title": "Ingame 2",
+      "runtime": 153,
+      "source_mp3": "https://vgmsite.com/soundtracks/abyss-ds-gamerip-2012/sekrermvhf/03.%20Ingame%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/abyss-ds-gamerip-2012/03.%2520Ingame%25202.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 391,
+    "filesize_mp3_bytes": 15644752,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

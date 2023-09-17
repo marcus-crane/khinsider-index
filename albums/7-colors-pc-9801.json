@@ -1,0 +1,82 @@
+{
+  "title": "7 Colors",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T00:18:26.933256+00:00",
+  "slug": "7-colors-pc-9801",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/7-colors-pc-9801",
+  "platforms": {
+    "PC-98": "https://downloads.khinsider.com/game-soundtracks/pc-9801"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/7-colors-pc-9801/7%20Colors%20%28PC-9801%29.jpg"
+  ],
+  "year": 1992,
+  "date_added": "2016-07-03T00:00:00+00:00",
+  "developers": {
+    "Gamos": "https://downloads.khinsider.com/game-soundtracks/developer/gamos"
+  },
+  "publishers": {
+    "Hot-B": "https://downloads.khinsider.com/game-soundtracks/publisher/hot-b"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 838860,
+      "track_number": 1,
+      "title": "Opening",
+      "runtime": 33,
+      "source_mp3": "https://vgmsite.com/soundtracks/7-colors-pc-9801/exudrbwn/01_Opening.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/7-colors-pc-9801/01_Opening.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3292528,
+      "track_number": 2,
+      "title": "BGM #1",
+      "runtime": 122,
+      "source_mp3": "https://vgmsite.com/soundtracks/7-colors-pc-9801/rjuhsmjn/02_BGM%20%231.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/7-colors-pc-9801/02_BGM%2520%25231.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4026531,
+      "track_number": 3,
+      "title": "BGM #2",
+      "runtime": 149,
+      "source_mp3": "https://vgmsite.com/soundtracks/7-colors-pc-9801/byndtyld/03_BGM%20%232.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/7-colors-pc-9801/03_BGM%2520%25232.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3533701,
+      "track_number": 4,
+      "title": "BGM #3",
+      "runtime": 117,
+      "source_mp3": "https://vgmsite.com/soundtracks/7-colors-pc-9801/rkplrfrk/04_BGM%20%233.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/7-colors-pc-9801/04_BGM%2520%25233.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 199229,
+      "track_number": 5,
+      "title": "Finish",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/7-colors-pc-9801/dskvlwhh/05_Finish.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/7-colors-pc-9801/05_Finish.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 428,
+    "filesize_mp3_bytes": 11890849,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

@@ -1,0 +1,782 @@
+{
+  "title": "ARMS",
+  "titles_alternative": [
+    "\u30a2\u30fc\u30e0\u30ba"
+  ],
+  "crawled_at": "2023-09-17T01:11:23.489573+00:00",
+  "slug": "arms-soundtrack",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack",
+  "platforms": {
+    "Switch": "https://downloads.khinsider.com/game-soundtracks/nintendo-switch"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/arms-soundtrack/1.01%20ARMS%20Original%20Soundtrack.jpg"
+  ],
+  "year": 2017,
+  "date_added": "2018-06-24T00:00:00+00:00",
+  "developers": {
+    "Nintendo EPD": "https://downloads.khinsider.com/game-soundtracks/developer/nintendo-epd"
+  },
+  "publishers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 27546091,
+      "filesize_mp3_bytes": 8367636,
+      "track_number": 1,
+      "title": "Grand Prix (Title)",
+      "runtime": 187,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/gmwzqheb/1-01%20-%20Grand%20Prix%20%28Title%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/gmwzqheb/1-01%20-%20Grand%20Prix%20%28Title%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/1-01%2520-%2520Grand%2520Prix%2520%2528Title%2529.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 15476981,
+      "filesize_mp3_bytes": 5096079,
+      "track_number": 2,
+      "title": "Tutorial",
+      "runtime": 105,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/knjrwgqw/1-02%20-%20Tutorial.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/knjrwgqw/1-02%20-%20Tutorial.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/1-02%2520-%2520Tutorial.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 23225958,
+      "filesize_mp3_bytes": 7990149,
+      "track_number": 3,
+      "title": "Fighter Select",
+      "runtime": 178,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/omfxzdus/1-03%20-%20Fighter%20Select.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/omfxzdus/1-03%20-%20Fighter%20Select.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/1-03%2520-%2520Fighter%2520Select.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 19723714,
+      "filesize_mp3_bytes": 5934940,
+      "track_number": 4,
+      "title": "Spring Stadium (Spring Man's Stage)",
+      "runtime": 133,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/rvusrvhb/1-04%20-%20Spring%20Stadium%20%28Spring%20Man%27s%20Stage%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/rvusrvhb/1-04%20-%20Spring%20Stadium%20%28Spring%20Man%27s%20Stage%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/1-04%2520-%2520Spring%2520Stadium%2520%2528Spring%2520Man%2527s%2520Stage%2529.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 21883781,
+      "filesize_mp3_bytes": 6427770,
+      "track_number": 5,
+      "title": "Ribbon Ring (Ribbon Girl's Stage)",
+      "runtime": 145,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/zzfuysct/1-05%20-%20Ribbon%20Ring%20%28Ribbon%20Girl%27s%20Stage%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/zzfuysct/1-05%20-%20Ribbon%20Ring%20%28Ribbon%20Girl%27s%20Stage%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/1-05%2520-%2520Ribbon%2520Ring%2520%2528Ribbon%2520Girl%2527s%2520Stage%2529.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 26151485,
+      "filesize_mp3_bytes": 8178892,
+      "track_number": 6,
+      "title": "Ninja College (Ninjara's Stage)",
+      "runtime": 187,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/jltwnidr/1-06%20-%20Ninja%20College%20%28Ninjara%27s%20Stage%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/jltwnidr/1-06%20-%20Ninja%20College%20%28Ninjara%27s%20Stage%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/1-06%2520-%2520Ninja%2520College%2520%2528Ninjara%2527s%2520Stage%2529.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 19734200,
+      "filesize_mp3_bytes": 5924454,
+      "track_number": 7,
+      "title": "Mausoleum (Master Mummy's Stage)",
+      "runtime": 133,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/jkjaqxmv/1-07%20-%20Mausoleum%20%28Master%20Mummy%27s%20Stage%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/jkjaqxmv/1-07%20-%20Mausoleum%20%28Master%20Mummy%27s%20Stage%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/1-07%2520-%2520Mausoleum%2520%2528Master%2520Mummy%2527s%2520Stage%2529.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 19000197,
+      "filesize_mp3_bytes": 5945425,
+      "track_number": 8,
+      "title": "Ramen Bowl (Min Min's Stage)",
+      "runtime": 132,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/lrjnxinb/1-08%20-%20Ramen%20Bowl%20%28Min%20Min%27s%20Stage%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/lrjnxinb/1-08%20-%20Ramen%20Bowl%20%28Min%20Min%27s%20Stage%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/1-08%2520-%2520Ramen%2520Bowl%2520%2528Min%2520Min%2527s%2520Stage%2529.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 25637683,
+      "filesize_mp3_bytes": 7476346,
+      "track_number": 9,
+      "title": "Scrapyard (Mechanica's Stage)",
+      "runtime": 172,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/zmhnokje/1-09%20-%20Scrapyard%20%28Mechanica%27s%20Stage%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/zmhnokje/1-09%20-%20Scrapyard%20%28Mechanica%27s%20Stage%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/1-09%2520-%2520Scrapyard%2520%2528Mechanica%2527s%2520Stage%2529.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 18832424,
+      "filesize_mp3_bytes": 6039797,
+      "track_number": 10,
+      "title": "Cinema Deux (Twintelle's Stage)",
+      "runtime": 133,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/qtlhswpe/1-10%20-%20Cinema%20Deux%20%28Twintelle%27s%20Stage%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/qtlhswpe/1-10%20-%20Cinema%20Deux%20%28Twintelle%27s%20Stage%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/1-10%2520-%2520Cinema%2520Deux%2520%2528Twintelle%2527s%2520Stage%2529.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 20583546,
+      "filesize_mp3_bytes": 6406799,
+      "track_number": 11,
+      "title": "Buster Beach (Byte & Barq's Stage)",
+      "runtime": 144,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/oaxgluel/1-11%20-%20Buster%20Beach%20%28Byte%20%26%20Barq%27s%20Stage%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/oaxgluel/1-11%20-%20Buster%20Beach%20%28Byte%20%26%20Barq%27s%20Stage%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/1-11%2520-%2520Buster%2520Beach%2520%2528Byte%2520%2526%2520Barq%2527s%2520Stage%2529.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 22953328,
+      "filesize_mp3_bytes": 6941573,
+      "track_number": 12,
+      "title": "Snake Park (Kid Cobra's Stage)",
+      "runtime": 156,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/wenmzbkg/1-12%20-%20Snake%20Park%20%28Kid%20Cobra%27s%20Stage%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/wenmzbkg/1-12%20-%20Snake%20Park%20%28Kid%20Cobra%27s%20Stage%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/1-12%2520-%2520Snake%2520Park%2520%2528Kid%2520Cobra%2527s%2520Stage%2529.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 20006830,
+      "filesize_mp3_bytes": 5945425,
+      "track_number": 13,
+      "title": "DNA Lab (Helix's Stage)",
+      "runtime": 133,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/aoqbtlls/1-13%20-%20DNA%20Lab%20%28Helix%27s%20Stage%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/aoqbtlls/1-13%20-%20DNA%20Lab%20%28Helix%27s%20Stage%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/1-13%2520-%2520DNA%2520Lab%2520%2528Helix%2527s%2520Stage%2529.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 18979225,
+      "filesize_mp3_bytes": 5788139,
+      "track_number": 14,
+      "title": "Via Dolce (Lola Pop's Stage)",
+      "runtime": 126,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/rrasgfwk/1-14%20-%20Via%20Dolce%20%28Lola%20Pop%27s%20Stage%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/rrasgfwk/1-14%20-%20Via%20Dolce%20%28Lola%20Pop%27s%20Stage%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/1-14%2520-%2520Via%2520Dolce%2520%2528Lola%2520Pop%2527s%2520Stage%2529.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 23739760,
+      "filesize_mp3_bytes": 7402946,
+      "track_number": 15,
+      "title": "Temple Grounds (Misango's Stage)",
+      "runtime": 170,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/ecsclkkb/1-15%20-%20Temple%20Grounds%20%28Misango%27s%20Stage%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/ecsclkkb/1-15%20-%20Temple%20Grounds%20%28Misango%27s%20Stage%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/1-15%2520-%2520Temple%2520Grounds%2520%2528Misango%2527s%2520Stage%2529.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 23341301,
+      "filesize_mp3_bytes": 7402946,
+      "track_number": 16,
+      "title": "Sparring Ring (Springtron's Stage)",
+      "runtime": 172,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/sapnpkug/1-16%20-%20Sparring%20Ring%20%28Springtron%27s%20Stage%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/sapnpkug/1-16%20-%20Sparring%20Ring%20%28Springtron%27s%20Stage%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/1-16%2520-%2520Sparring%2520Ring%2520%2528Springtron%2527s%2520Stage%2529.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 20635975,
+      "filesize_mp3_bytes": 6186598,
+      "track_number": 17,
+      "title": "[NAME REDACTED] (Dr. Coyle's Stage)",
+      "runtime": 137,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/xqvombyu/1-17%20-%20%5BNAME%20REDACTED%5D%20%28Dr.%20Coyle%27s%20Stage%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/xqvombyu/1-17%20-%20%5BNAME%20REDACTED%5D%20%28Dr.%20Coyle%27s%20Stage%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/1-17%2520-%2520%255BNAME%2520REDACTED%255D%2520%2528Dr.%2520Coyle%2527s%2520Stage%2529.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 891289,
+      "filesize_mp3_bytes": 975175,
+      "track_number": 18,
+      "title": "Fight Results",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/ckxemxdg/1-18%20-%20Fight%20Results.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/ckxemxdg/1-18%20-%20Fight%20Results.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/1-18%2520-%2520Fight%2520Results.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 21915238,
+      "filesize_mp3_bytes": 6857687,
+      "track_number": 19,
+      "title": "Replay",
+      "runtime": 149,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/jjblmsrd/1-19%20-%20Replay.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/jjblmsrd/1-19%20-%20Replay.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/1-19%2520-%2520Replay.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 4980736,
+      "filesize_mp3_bytes": 1814036,
+      "track_number": 20,
+      "title": "Grand Prix Opening",
+      "runtime": 35,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/alkliozk/1-20%20-%20Grand%20Prix%20Opening.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/alkliozk/1-20%20-%20Grand%20Prix%20Opening.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/1-20%2520-%2520Grand%2520Prix%2520Opening.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 891289,
+      "filesize_mp3_bytes": 513802,
+      "track_number": 21,
+      "title": "Grand Prix Loading",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/yylcixqi/1-21%20-%20Grand%20Prix%20Loading.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/yylcixqi/1-21%20-%20Grand%20Prix%20Loading.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/1-21%2520-%2520Grand%2520Prix%2520Loading.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 1300234,
+      "filesize_mp3_bytes": 650117,
+      "track_number": 22,
+      "title": "New Challenger! (Grand Prix)",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/errwpmkc/1-22%20-%20New%20Challenger%21%20%28Grand%20Prix%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/errwpmkc/1-22%20-%20New%20Challenger%21%20%28Grand%20Prix%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/1-22%2520-%2520New%2520Challenger%2521%2520%2528Grand%2520Prix%2529.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 849346,
+      "filesize_mp3_bytes": 975175,
+      "track_number": 23,
+      "title": "Face-Off",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/eemaqixt/1-23%20-%20Face-Off.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/eemaqixt/1-23%20-%20Face-Off.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/1-23%2520-%2520Face-Off.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 28416409,
+      "filesize_mp3_bytes": 8598323,
+      "track_number": 24,
+      "title": "Sky Arena (Max Brass' Stage)",
+      "runtime": 199,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/vhlcqdhz/1-24%20-%20Sky%20Arena%20%28Max%20Brass%27%20Stage%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/vhlcqdhz/1-24%20-%20Sky%20Arena%20%28Max%20Brass%27%20Stage%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/1-24%2520-%2520Sky%2520Arena%2520%2528Max%2520Brass%2527%2520Stage%2529.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 5903482,
+      "filesize_mp3_bytes": 2495610,
+      "track_number": 25,
+      "title": "Grand Prix Champion",
+      "runtime": 44,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/idhzmbgu/1-25%20-%20Grand%20Prix%20Champion.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/idhzmbgu/1-25%20-%20Grand%20Prix%20Champion.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/1-25%2520-%2520Grand%2520Prix%2520Champion.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 2317352,
+      "filesize_mp3_bytes": 1226833,
+      "track_number": 26,
+      "title": "Hedlok Appears!",
+      "runtime": 12,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/muykbzsp/1-26%20-%20Hedlok%20Appears%21.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/muykbzsp/1-26%20-%20Hedlok%20Appears%21.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/1-26%2520-%2520Hedlok%2520Appears%2521.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 828375,
+      "filesize_mp3_bytes": 545259,
+      "track_number": 27,
+      "title": "Hedlok - Dr. Coyle Loading (Grand Prix)",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/izgyzzvg/1-27%20-%20Hedlok%20-%20Dr.%20Coyle%20Loading%20%28Grand%20Prix%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/izgyzzvg/1-27%20-%20Hedlok%20-%20Dr.%20Coyle%20Loading%20%28Grand%20Prix%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/1-27%2520-%2520Hedlok%2520-%2520Dr.%2520Coyle%2520Loading%2520%2528Grand%2520Prix%2529.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 1216348,
+      "filesize_mp3_bytes": 660602,
+      "track_number": 28,
+      "title": "Hedlok - Dr. Coyle Intro (Grand Prix)",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/mmkfldam/1-28%20-%20Hedlok%20-%20Dr.%20Coyle%20Intro%20%28Grand%20Prix%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/mmkfldam/1-28%20-%20Hedlok%20-%20Dr.%20Coyle%20Intro%20%28Grand%20Prix%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/1-28%2520-%2520Hedlok%2520-%2520Dr.%2520Coyle%2520Intro%2520%2528Grand%2520Prix%2529.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 996147,
+      "filesize_mp3_bytes": 880803,
+      "track_number": 29,
+      "title": "Face-Off (Hedlok)",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/nrszqeev/1-29%20-%20Face-Off%20%28Hedlok%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/nrszqeev/1-29%20-%20Face-Off%20%28Hedlok%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/1-29%2520-%2520Face-Off%2520%2528Hedlok%2529.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 23834132,
+      "filesize_mp3_bytes": 6752829,
+      "track_number": 30,
+      "title": "VS Hedlok (Grand Prix)",
+      "runtime": 151,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/xniptals/1-30%20-%20VS%20Hedlok%20%28Grand%20Prix%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/xniptals/1-30%20-%20VS%20Hedlok%20%28Grand%20Prix%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/1-30%2520-%2520VS%2520Hedlok%2520%2528Grand%2520Prix%2529.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 2380267,
+      "filesize_mp3_bytes": 1457520,
+      "track_number": 31,
+      "title": "Dr. Coyle Appears!",
+      "runtime": 17,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/khlzxnlc/1-31%20-%20Dr.%20Coyle%20Appears%21.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/khlzxnlc/1-31%20-%20Dr.%20Coyle%20Appears%21.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/1-31%2520-%2520Dr.%2520Coyle%2520Appears%2521.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 23110615,
+      "filesize_mp3_bytes": 7014973,
+      "track_number": 32,
+      "title": "VS Dr. Coyle Hedlok",
+      "runtime": 161,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/ilezdfil/1-32%20-%20VS%20Dr.%20Coyle%20Hedlok.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/ilezdfil/1-32%20-%20VS%20Dr.%20Coyle%20Hedlok.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/1-32%2520-%2520VS%2520Dr.%2520Coyle%2520Hedlok.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 32421969,
+      "filesize_mp3_bytes": 10370416,
+      "track_number": 33,
+      "title": "Grand Prix Ending (Staff Credits)",
+      "runtime": 241,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/npqtfevv/1-33%20-%20Grand%20Prix%20Ending%20%28Staff%20Credits%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/npqtfevv/1-33%20-%20Grand%20Prix%20Ending%20%28Staff%20Credits%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/1-33%2520-%2520Grand%2520Prix%2520Ending%2520%2528Staff%2520Credits%2529.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 40496005,
+      "filesize_mp3_bytes": 7465861,
+      "track_number": 1,
+      "title": "Grand Prix (Ribbon Girl Ver.)",
+      "runtime": 172,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/mrphcrav/2-01%20-%20Grand%20Prix%20%28Ribbon%20Girl%20Ver.%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/mrphcrav/2-01%20-%20Grand%20Prix%20%28Ribbon%20Girl%20Ver.%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/2-01%2520-%2520Grand%2520Prix%2520%2528Ribbon%2520Girl%2520Ver.%2529.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 16284385,
+      "filesize_mp3_bytes": 5148508,
+      "track_number": 2,
+      "title": "V-Ball",
+      "runtime": 109,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/jtobqhty/2-02%20-%20V-Ball.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/jtobqhty/2-02%20-%20V-Ball.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/2-02%2520-%2520V-Ball.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 16494100,
+      "filesize_mp3_bytes": 5400166,
+      "track_number": 3,
+      "title": "Hoops",
+      "runtime": 113,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/tdksviyw/2-03%20-%20Hoops.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/tdksviyw/2-03%20-%20Hoops.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/2-03%2520-%2520Hoops.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 14638120,
+      "filesize_mp3_bytes": 3491758,
+      "track_number": 4,
+      "title": "Skillshot",
+      "runtime": 63,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/bjdrflmn/2-04%20-%20Skillshot.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/bjdrflmn/2-04%20-%20Skillshot.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/2-04%2520-%2520Skillshot.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 19975372,
+      "filesize_mp3_bytes": 6417285,
+      "track_number": 5,
+      "title": "Get ARMS",
+      "runtime": 137,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/uawbhkad/2-05%20-%20Get%20ARMS.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/uawbhkad/2-05%20-%20Get%20ARMS.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/2-05%2520-%2520Get%2520ARMS.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 9919528,
+      "filesize_mp3_bytes": 3722444,
+      "track_number": 6,
+      "title": "Get ARMS Results",
+      "runtime": 70,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/dalhtmek/2-06%20-%20Get%20ARMS%20Results.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/dalhtmek/2-06%20-%20Get%20ARMS%20Results.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/2-06%2520-%2520Get%2520ARMS%2520Results.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 22198353,
+      "filesize_mp3_bytes": 7990149,
+      "track_number": 7,
+      "title": "Party Match Lobby",
+      "runtime": 178,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/zqucsyas/2-07%20-%20Party%20Match%20Lobby.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/zqucsyas/2-07%20-%20Party%20Match%20Lobby.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/2-07%2520-%2520Party%2520Match%2520Lobby.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 1027604,
+      "filesize_mp3_bytes": 1059061,
+      "track_number": 8,
+      "title": "New Challenger! (Party - Ranked Match)",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/hjqlabyb/2-08%20-%20New%20Challenger%21%20%28Party%20-%20Ranked%20Match%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/hjqlabyb/2-08%20-%20New%20Challenger%21%20%28Party%20-%20Ranked%20Match%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/2-08%2520-%2520New%2520Challenger%2521%2520%2528Party%2520-%2520Ranked%2520Match%2529.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 24222105,
+      "filesize_mp3_bytes": 7077888,
+      "track_number": 9,
+      "title": "VS Hedlok (Party Match)",
+      "runtime": 160,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/psxfpaym/2-09%20-%20VS%20Hedlok%20%28Party%20Match%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/psxfpaym/2-09%20-%20VS%20Hedlok%20%28Party%20Match%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/2-09%2520-%2520VS%2520Hedlok%2520%2528Party%2520Match%2529.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 24358420,
+      "filesize_mp3_bytes": 7130316,
+      "track_number": 10,
+      "title": "VS Hedlok (Lvl. 8)",
+      "runtime": 161,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/ciuewzqt/2-10%20-%20VS%20Hedlok%20%28Lvl.%208%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/ciuewzqt/2-10%20-%20VS%20Hedlok%20%28Lvl.%208%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/2-10%2520-%2520VS%2520Hedlok%2520%2528Lvl.%25208%2529.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 1457520,
+      "filesize_mp3_bytes": 1111490,
+      "track_number": 11,
+      "title": "Winner Drumroll (Party Match)",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/rhwmalmv/2-11%20-%20Winner%20Drumroll%20%28Party%20Match%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/rhwmalmv/2-11%20-%20Winner%20Drumroll%20%28Party%20Match%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/2-11%2520-%2520Winner%2520Drumroll%2520%2528Party%2520Match%2529.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 933232,
+      "filesize_mp3_bytes": 985661,
+      "track_number": 12,
+      "title": "Winner (Party Match)",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/przwhjwq/2-12%20-%20Winner%20%28Party%20Match%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/przwhjwq/2-12%20-%20Winner%20%28Party%20Match%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/2-12%2520-%2520Winner%2520%2528Party%2520Match%2529.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 37601935,
+      "filesize_mp3_bytes": 6721372,
+      "track_number": 13,
+      "title": "Party Crash Menu",
+      "runtime": 153,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/rkecpetz/2-13%20-%20Party%20Crash%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/rkecpetz/2-13%20-%20Party%20Crash%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/2-13%2520-%2520Party%2520Crash%2520Menu.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 24253562,
+      "filesize_mp3_bytes": 6721372,
+      "track_number": 14,
+      "title": "Party Crash Lobby",
+      "runtime": 153,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/raocddwr/2-14%20-%20Party%20Crash%20Lobby.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/raocddwr/2-14%20-%20Party%20Crash%20Lobby.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/2-14%2520-%2520Party%2520Crash%2520Lobby.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 12540968,
+      "filesize_mp3_bytes": 4099932,
+      "track_number": 15,
+      "title": "Party Crash Fever",
+      "runtime": 88,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/zybjkzrs/2-15%20-%20Party%20Crash%20Fever.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/zybjkzrs/2-15%20-%20Party%20Crash%20Fever.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/2-15%2520-%2520Party%2520Crash%2520Fever.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 587202,
+      "filesize_mp3_bytes": 692060,
+      "track_number": 16,
+      "title": "Face-Off (Party Crash Bonus Period)",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/imegyhxa/2-16%20-%20Face-Off%20%28Party%20Crash%20Bonus%20Period%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/imegyhxa/2-16%20-%20Face-Off%20%28Party%20Crash%20Bonus%20Period%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/2-16%2520-%2520Face-Off%2520%2528Party%2520Crash%2520Bonus%2520Period%2529.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 3376414,
+      "filesize_mp3_bytes": 1656750,
+      "track_number": 17,
+      "title": "Party Crash Results",
+      "runtime": 26,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/xfgfmmly/2-17%20-%20Party%20Crash%20Results.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/xfgfmmly/2-17%20-%20Party%20Crash%20Results.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/2-17%2520-%2520Party%2520Crash%2520Results.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 5599395,
+      "filesize_mp3_bytes": 2506096,
+      "track_number": 18,
+      "title": "Fighter Select (Ranked Match)",
+      "runtime": 40,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/blzkbknr/2-18%20-%20Fighter%20Select%20%28Ranked%20Match%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/blzkbknr/2-18%20-%20Fighter%20Select%20%28Ranked%20Match%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/2-18%2520-%2520Fighter%2520Select%2520%2528Ranked%2520Match%2529.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 20845690,
+      "filesize_mp3_bytes": 6752829,
+      "track_number": 19,
+      "title": "Arena Lobby",
+      "runtime": 147,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/mzegowrl/2-19%20-%20Arena%20Lobby.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/mzegowrl/2-19%20-%20Arena%20Lobby.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/2-19%2520-%2520Arena%2520Lobby.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 817889,
+      "filesize_mp3_bytes": 954204,
+      "track_number": 20,
+      "title": "Tutorial Success",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/nnedfwfh/2-20%20-%20Tutorial%20Success.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/nnedfwfh/2-20%20-%20Tutorial%20Success.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/2-20%2520-%2520Tutorial%2520Success.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 891289,
+      "filesize_mp3_bytes": 859832,
+      "track_number": 21,
+      "title": "Springtron Appears!",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/mwdzkwdg/2-21%20-%20Springtron%20Appears%21.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/mwdzkwdg/2-21%20-%20Springtron%20Appears%21.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/2-21%2520-%2520Springtron%2520Appears%2521.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 744488,
+      "filesize_mp3_bytes": 943718,
+      "track_number": 22,
+      "title": "Points Scored (Hoops) - Finish (Get ARMS)",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/revuedqc/2-22%20-%20Points%20Scored%20%28Hoops%29%20-%20Finish%20%28Get%20ARMS%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/revuedqc/2-22%20-%20Points%20Scored%20%28Hoops%29%20-%20Finish%20%28Get%20ARMS%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/2-22%2520-%2520Points%2520Scored%2520%2528Hoops%2529%2520-%2520Finish%2520%2528Get%2520ARMS%2529.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 817889,
+      "filesize_mp3_bytes": 933232,
+      "track_number": 23,
+      "title": "ARM Obtained (Get ARMS)",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/eneqmiqu/2-23%20-%20ARM%20Obtained%20%28Get%20ARMS%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/eneqmiqu/2-23%20-%20ARM%20Obtained%20%28Get%20ARMS%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/2-23%2520-%2520ARM%2520Obtained%2520%2528Get%2520ARMS%2529.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 933232,
+      "filesize_mp3_bytes": 985661,
+      "track_number": 24,
+      "title": "Level Up (1-on-100)",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/tdniwszp/2-24%20-%20Level%20Up%20%281-on-100%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/tdniwszp/2-24%20-%20Level%20Up%20%281-on-100%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/2-24%2520-%2520Level%2520Up%2520%25281-on-100%2529.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 765460,
+      "filesize_mp3_bytes": 943718,
+      "track_number": 25,
+      "title": "Stage Fade In",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/fprscbho/2-25%20-%20Stage%20Fade%20In.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/fprscbho/2-25%20-%20Stage%20Fade%20In.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/2-25%2520-%2520Stage%2520Fade%2520In.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 754974,
+      "filesize_mp3_bytes": 922746,
+      "track_number": 26,
+      "title": "Snare Roll",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/otfetyku/2-26%20-%20Snare%20Roll.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/otfetyku/2-26%20-%20Snare%20Roll.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/2-26%2520-%2520Snare%2520Roll.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 807403,
+      "filesize_mp3_bytes": 933232,
+      "track_number": 27,
+      "title": "Goal",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/enggbybu/2-27%20-%20Goal.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/enggbybu/2-27%20-%20Goal.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/2-27%2520-%2520Goal.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 891289,
+      "filesize_mp3_bytes": 1038090,
+      "track_number": 28,
+      "title": "ARMS!",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/suvjodtl/2-28%20-%20ARMS%21.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/suvjodtl/2-28%20-%20ARMS%21.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/2-28%2520-%2520ARMS%2521.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 27210547,
+      "filesize_mp3_bytes": 8074035,
+      "track_number": 29,
+      "title": "Grand Prix (Ribbon Girl Ver. w- Fade)",
+      "runtime": 187,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/rmyqgkvq/2-29%20-%20Grand%20Prix%20%28Ribbon%20Girl%20Ver.%20w-%20Fade%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/rmyqgkvq/2-29%20-%20Grand%20Prix%20%28Ribbon%20Girl%20Ver.%20w-%20Fade%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/2-29%2520-%2520Grand%2520Prix%2520%2528Ribbon%2520Girl%2520Ver.%2520w-%2520Fade%2529.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 3722444,
+      "filesize_mp3_bytes": 2044723,
+      "track_number": 30,
+      "title": "Skillshot (Phase 1)",
+      "runtime": 27,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/adunnvlu/2-30%20-%20Skillshot%20%28Phase%201%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/adunnvlu/2-30%20-%20Skillshot%20%28Phase%201%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/2-30%2520-%2520Skillshot%2520%2528Phase%25201%2529.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 5746196,
+      "filesize_mp3_bytes": 2548039,
+      "track_number": 31,
+      "title": "Skillshot (Phase 2)",
+      "runtime": 40,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/agotpynw/2-31%20-%20Skillshot%20%28Phase%202%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/agotpynw/2-31%20-%20Skillshot%20%28Phase%202%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/2-31%2520-%2520Skillshot%2520%2528Phase%25202%2529.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 5158993,
+      "filesize_mp3_bytes": 2254438,
+      "track_number": 32,
+      "title": "Skillshot (Phase 3)",
+      "runtime": 32,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/xfeehhyb/2-32%20-%20Skillshot%20%28Phase%203%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/xfeehhyb/2-32%20-%20Skillshot%20%28Phase%203%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/2-32%2520-%2520Skillshot%2520%2528Phase%25203%2529.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 43337646,
+      "filesize_mp3_bytes": 13788774,
+      "track_number": 33,
+      "title": "Grand Prix (Medley) [Bonus Track]",
+      "runtime": 324,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/pbxuxvpa/2-33%20-%20Grand%20Prix%20%28Medley%29%20%5BBonus%20Track%5D.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/pbxuxvpa/2-33%20-%20Grand%20Prix%20%28Medley%29%20%5BBonus%20Track%5D.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/2-33%2520-%2520Grand%2520Prix%2520%2528Medley%2529%2520%255BBonus%2520Track%255D.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 22051553,
+      "filesize_mp3_bytes": 6721372,
+      "track_number": 34,
+      "title": "Party Crash (Menu & Lobby Medley) [Bonus Track]",
+      "runtime": 153,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/cltgvuwo/2-34%20-%20Party%20Crash%20%28Menu%20%26%20Lobby%20Medley%29%20%5BBonus%20Track%5D.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/cltgvuwo/2-34%20-%20Party%20Crash%20%28Menu%20%26%20Lobby%20Medley%29%20%5BBonus%20Track%5D.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/2-34%2520-%2520Party%2520Crash%2520%2528Menu%2520%2526%2520Lobby%2520Medley%2529%2520%255BBonus%2520Track%255D.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 22250782,
+      "filesize_mp3_bytes": 6721372,
+      "track_number": 35,
+      "title": "Party Crash (Menu & Lobby Mix) [Bonus Track]",
+      "runtime": 153,
+      "source_mp3": "https://vgmsite.com/soundtracks/arms-soundtrack/haqywufw/2-35%20-%20Party%20Crash%20%28Menu%20%26%20Lobby%20Mix%29%20%5BBonus%20Track%5D.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arms-soundtrack/haqywufw/2-35%20-%20Party%20Crash%20%28Menu%20%26%20Lobby%20Mix%29%20%5BBonus%20Track%5D.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arms-soundtrack/2-35%2520-%2520Party%2520Crash%2520%2528Menu%2520%2526%2520Lobby%2520Mix%2529%2520%255BBonus%2520Track%255D.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 6297,
+    "filesize_mp3_bytes": 302063258,
+    "filesize_flac_bytes": 953417691,
+    "tracks": 68
+  }
+}

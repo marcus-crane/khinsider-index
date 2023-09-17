@@ -1,0 +1,55 @@
+{
+  "title": "AWS Pro Moves Soccer",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T01:21:34.754303+00:00",
+  "slug": "aws-pro-moves-soccer-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/aws-pro-moves-soccer-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/aws-pro-moves-soccer-genesis/AWS%20Pro%20Moves%20Soccer.png"
+  ],
+  "year": 1993,
+  "date_added": "2020-03-01T00:00:00+00:00",
+  "developers": {
+    "BWS": "https://downloads.khinsider.com/game-soundtracks/developer/bws",
+    "ZAT": "https://downloads.khinsider.com/game-soundtracks/developer/zat"
+  },
+  "publishers": {
+    "AWS Pro Moves Soccer": "https://downloads.khinsider.com/game-soundtracks/publisher/aws-pro-moves-soccer"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 31876710,
+      "filesize_mp3_bytes": 11083448,
+      "track_number": 1,
+      "title": "Introduction",
+      "runtime": 528,
+      "source_mp3": "https://vgmsite.com/soundtracks/aws-pro-moves-soccer-genesis/khuelxkdzn/01%20-%20Introduction.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/aws-pro-moves-soccer-genesis/khuelxkdzn/01%20-%20Introduction.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/aws-pro-moves-soccer-genesis/01%2520-%2520Introduction.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 31939624,
+      "filesize_mp3_bytes": 11156848,
+      "track_number": 2,
+      "title": "Menu Theme",
+      "runtime": 493,
+      "source_mp3": "https://vgmsite.com/soundtracks/aws-pro-moves-soccer-genesis/dzqnukdznf/02%20-%20Menu%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/aws-pro-moves-soccer-genesis/dzqnukdznf/02%20-%20Menu%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/aws-pro-moves-soccer-genesis/02%2520-%2520Menu%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1021,
+    "filesize_mp3_bytes": 22240296,
+    "filesize_flac_bytes": 63816334,
+    "tracks": 2
+  }
+}

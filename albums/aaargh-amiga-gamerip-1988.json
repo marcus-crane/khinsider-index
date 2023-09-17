@@ -1,0 +1,72 @@
+{
+  "title": "Aaargh!",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T01:22:46.484956+00:00",
+  "slug": "aaargh-amiga-gamerip-1988",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/aaargh-amiga-gamerip-1988",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/aaargh-amiga-gamerip-1988/4097217-aaargh-front-cover.jpg"
+  ],
+  "year": 1988,
+  "date_added": "2023-03-01T00:00:00+00:00",
+  "developers": {
+    "Arcadia Systems": "https://downloads.khinsider.com/game-soundtracks/developer/arcadia-systems"
+  },
+  "publishers": {
+    "Electronic Arts": "https://downloads.khinsider.com/game-soundtracks/publisher/electronic-arts"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4351590,
+      "track_number": 1,
+      "title": "In-game",
+      "runtime": 155,
+      "source_mp3": "https://vgmsite.com/soundtracks/aaargh-amiga-gamerip-1988/ocmrqzqyfi/01.%20In-game.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/aaargh-amiga-gamerip-1988/01.%2520In-game.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6773800,
+      "track_number": 2,
+      "title": "Battle for the Egg",
+      "runtime": 242,
+      "source_mp3": "https://vgmsite.com/soundtracks/aaargh-amiga-gamerip-1988/jtxfgbxnuq/02.%20Battle%20for%20the%20Egg.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/aaargh-amiga-gamerip-1988/02.%2520Battle%2520for%2520the%2520Egg.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1006632,
+      "track_number": 3,
+      "title": "Another Battle for the Egg",
+      "runtime": 36,
+      "source_mp3": "https://vgmsite.com/soundtracks/aaargh-amiga-gamerip-1988/ysvmqmniij/03.%20Another%20Battle%20for%20the%20Egg.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/aaargh-amiga-gamerip-1988/03.%2520Another%2520Battle%2520for%2520the%2520Egg.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 681574,
+      "track_number": 4,
+      "title": "Another Another Battle for the Egg",
+      "runtime": 24,
+      "source_mp3": "https://vgmsite.com/soundtracks/aaargh-amiga-gamerip-1988/xcidgwgqfy/04.%20Another%20Another%20Battle%20for%20the%20Egg.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/aaargh-amiga-gamerip-1988/04.%2520Another%2520Another%2520Battle%2520for%2520the%2520Egg.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 457,
+    "filesize_mp3_bytes": 12813596,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

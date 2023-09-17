@@ -1,0 +1,72 @@
+{
+  "title": "7 Colors",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T00:18:25.359510+00:00",
+  "slug": "7-colors-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/7-colors-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/7-colors-amiga/7%20Colors%20Amiga%20back%20cover.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2021-03-18T00:00:00+00:00",
+  "developers": {
+    "Gamos": "https://downloads.khinsider.com/game-soundtracks/developer/gamos"
+  },
+  "publishers": {
+    "Infogrames": "https://downloads.khinsider.com/game-soundtracks/publisher/infogrames"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2306867,
+      "track_number": 1,
+      "title": "Bach Suite No1",
+      "runtime": 109,
+      "source_mp3": "https://vgmsite.com/soundtracks/7-colors-amiga/tfjrktijpk/01%20Bach%20Suite%20No1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/7-colors-amiga/01%2520Bach%2520Suite%2520No1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2956984,
+      "track_number": 2,
+      "title": "Invention No1",
+      "runtime": 142,
+      "source_mp3": "https://vgmsite.com/soundtracks/7-colors-amiga/xypheuqjdx/02%20Invention%20No1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/7-colors-amiga/02%2520Invention%2520No1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1918894,
+      "track_number": 3,
+      "title": "Sicilian",
+      "runtime": 90,
+      "source_mp3": "https://vgmsite.com/soundtracks/7-colors-amiga/jxjlsazxby/03%20Sicilian.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/7-colors-amiga/03%2520Sicilian.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5693767,
+      "track_number": 4,
+      "title": "Sy No40",
+      "runtime": 278,
+      "source_mp3": "https://vgmsite.com/soundtracks/7-colors-amiga/rivhrjilka/04%20Sy%20No40.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/7-colors-amiga/04%2520Sy%2520No40.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 619,
+    "filesize_mp3_bytes": 12876512,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

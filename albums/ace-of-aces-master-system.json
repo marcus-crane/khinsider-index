@@ -1,0 +1,99 @@
+{
+  "title": "Ace of Aces",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T01:28:53.609042+00:00",
+  "slug": "ace-of-aces-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ace-of-aces-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ace-of-aces-master-system/A1.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2020-07-02T00:00:00+00:00",
+  "developers": {
+    "Artech Studios": "https://downloads.khinsider.com/game-soundtracks/developer/artech-studios",
+    "Tiertex": "https://downloads.khinsider.com/game-soundtracks/developer/tiertex"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3596615,
+      "filesize_mp3_bytes": 1195376,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 61,
+      "source_mp3": "https://vgmsite.com/soundtracks/ace-of-aces-master-system/fysagkefzb/01%20-%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ace-of-aces-master-system/fysagkefzb/01%20-%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ace-of-aces-master-system/01%2520-%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 660602,
+      "filesize_mp3_bytes": 346030,
+      "track_number": 2,
+      "title": "Call to Duty",
+      "runtime": 16,
+      "source_mp3": "https://vgmsite.com/soundtracks/ace-of-aces-master-system/aoiqqrvfex/02%20-%20Call%20to%20Duty.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ace-of-aces-master-system/aoiqqrvfex/02%20-%20Call%20to%20Duty.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ace-of-aces-master-system/02%2520-%2520Call%2520to%2520Duty.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 744488,
+      "filesize_mp3_bytes": 608174,
+      "track_number": 3,
+      "title": "Plane (Drone)",
+      "runtime": 20,
+      "source_mp3": "https://vgmsite.com/soundtracks/ace-of-aces-master-system/ajpydxllan/03%20-%20Plane%20%28Drone%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ace-of-aces-master-system/ajpydxllan/03%20-%20Plane%20%28Drone%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ace-of-aces-master-system/03%2520-%2520Plane%2520%2528Drone%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 73400,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 4,
+      "title": "Crash Warning",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/ace-of-aces-master-system/agjzgnswnk/04%20-%20Crash%20Warning.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ace-of-aces-master-system/agjzgnswnk/04%20-%20Crash%20Warning.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ace-of-aces-master-system/04%2520-%2520Crash%2520Warning.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 125829,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 5,
+      "title": "Crash",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/ace-of-aces-master-system/gaeemaejcz/05%20-%20Crash.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ace-of-aces-master-system/gaeemaejcz/05%20-%20Crash.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ace-of-aces-master-system/05%2520-%2520Crash.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1310720,
+      "filesize_mp3_bytes": 545259,
+      "track_number": 6,
+      "title": "Game Over",
+      "runtime": 21,
+      "source_mp3": "https://vgmsite.com/soundtracks/ace-of-aces-master-system/axpxnombcu/06%20-%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ace-of-aces-master-system/axpxnombcu/06%20-%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ace-of-aces-master-system/06%2520-%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 122,
+    "filesize_mp3_bytes": 2799696,
+    "filesize_flac_bytes": 6511654,
+    "tracks": 6
+  }
+}

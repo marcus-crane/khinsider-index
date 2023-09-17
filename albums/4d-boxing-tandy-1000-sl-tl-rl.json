@@ -1,0 +1,79 @@
+{
+  "title": "4D Boxing (Tandy 1000 SL-TL-RL)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T00:14:16.913052+00:00",
+  "slug": "4d-boxing-tandy-1000-sl-tl-rl",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/4d-boxing-tandy-1000-sl-tl-rl",
+  "platforms": {
+    "IBM PC": "https://downloads.khinsider.com/game-soundtracks/ibm-pc"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/4d-boxing-tandy-1000-sl-tl-rl/4D%20Boxing%20%28Tandy%201000%20SL%2C%20TL%2C%20RL%29.png"
+  ],
+  "year": 1991,
+  "date_added": "2022-03-10T00:00:00+00:00",
+  "developers": {
+    "Distinctive Software Inc.": "https://downloads.khinsider.com/game-soundtracks/developer/distinctive-software"
+  },
+  "publishers": {
+    "Electronic Arts": "https://downloads.khinsider.com/game-soundtracks/publisher/electronic-arts",
+    "Electronic Arts Victor": "https://downloads.khinsider.com/game-soundtracks/publisher/electronic-arts-victor",
+    "Mindscape": "https://downloads.khinsider.com/game-soundtracks/publisher/mindscape",
+    "The Learning Company": "https://downloads.khinsider.com/game-soundtracks/publisher/the-learning-company"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3156213,
+      "filesize_mp3_bytes": 1646264,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 75,
+      "source_mp3": "https://vgmsite.com/soundtracks/4d-boxing-tandy-1000-sl-tl-rl/ujbycceist/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/4d-boxing-tandy-1000-sl-tl-rl/ujbycceist/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/4d-boxing-tandy-1000-sl-tl-rl/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2757754,
+      "filesize_mp3_bytes": 1478492,
+      "track_number": 2,
+      "title": "The Gym",
+      "runtime": 82,
+      "source_mp3": "https://vgmsite.com/soundtracks/4d-boxing-tandy-1000-sl-tl-rl/kiloxugfqn/02%20The%20Gym.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/4d-boxing-tandy-1000-sl-tl-rl/kiloxugfqn/02%20The%20Gym.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/4d-boxing-tandy-1000-sl-tl-rl/02%2520The%2520Gym.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2149580,
+      "filesize_mp3_bytes": 1195376,
+      "track_number": 3,
+      "title": "Pre-Fight Cutscene",
+      "runtime": 81,
+      "source_mp3": "https://vgmsite.com/soundtracks/4d-boxing-tandy-1000-sl-tl-rl/jrezmezuar/03%20Pre-Fight%20Cutscene.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/4d-boxing-tandy-1000-sl-tl-rl/jrezmezuar/03%20Pre-Fight%20Cutscene.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/4d-boxing-tandy-1000-sl-tl-rl/03%2520Pre-Fight%2520Cutscene.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3114270,
+      "filesize_mp3_bytes": 1384120,
+      "track_number": 4,
+      "title": "Title Won & Hall of Fame",
+      "runtime": 62,
+      "source_mp3": "https://vgmsite.com/soundtracks/4d-boxing-tandy-1000-sl-tl-rl/unzcwfyenn/04%20Title%20Won%20%26%20Hall%20of%20Fame.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/4d-boxing-tandy-1000-sl-tl-rl/unzcwfyenn/04%20Title%20Won%20%26%20Hall%20of%20Fame.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/4d-boxing-tandy-1000-sl-tl-rl/04%2520Title%2520Won%2520%2526%2520Hall%2520of%2520Fame.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 300,
+    "filesize_mp3_bytes": 5704252,
+    "filesize_flac_bytes": 11177817,
+    "tracks": 4
+  }
+}

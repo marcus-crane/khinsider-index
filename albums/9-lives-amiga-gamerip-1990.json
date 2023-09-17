@@ -1,0 +1,52 @@
+{
+  "title": "9 Lives",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T00:24:34.922113+00:00",
+  "slug": "9-lives-amiga-gamerip-1990",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/9-lives-amiga-gamerip-1990",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/9-lives-amiga-gamerip-1990/57825-9-lives-front-cover.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2023-03-01T00:00:00+00:00",
+  "developers": {
+    "Frames": "https://downloads.khinsider.com/game-soundtracks/developer/frames"
+  },
+  "publishers": {
+    "ARC": "https://downloads.khinsider.com/game-soundtracks/publisher/arc"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1006632,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 36,
+      "source_mp3": "https://vgmsite.com/soundtracks/9-lives-amiga-gamerip-1990/pmbaipazdk/1%20-%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/9-lives-amiga-gamerip-1990/1%2520-%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3879731,
+      "track_number": 2,
+      "title": "Title",
+      "runtime": 138,
+      "source_mp3": "https://vgmsite.com/soundtracks/9-lives-amiga-gamerip-1990/zyqqaxbung/2%20-%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/9-lives-amiga-gamerip-1990/2%2520-%2520Title.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 174,
+    "filesize_mp3_bytes": 4886363,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}
