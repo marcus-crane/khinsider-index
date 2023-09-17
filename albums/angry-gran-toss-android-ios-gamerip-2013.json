@@ -1,0 +1,42 @@
+{
+  "title": "Angry Gran Toss",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T08:10:16.754113+00:00",
+  "slug": "angry-gran-toss-android-ios-gamerip-2013",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/angry-gran-toss-android-ios-gamerip-2013",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/angry-gran-toss-android-ios-gamerip-2013/unknown.png"
+  ],
+  "year": 2013,
+  "date_added": "2022-07-20T00:00:00+00:00",
+  "developers": {
+    "AceViral.com": "https://downloads.khinsider.com/game-soundtracks/developer/aceviral.com"
+  },
+  "publishers": {
+    "AceViral.com": "https://downloads.khinsider.com/game-soundtracks/publisher/aceviral.com"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1384120,
+      "title": "Background",
+      "runtime": 69,
+      "source_mp3": "https://vgmsite.com/soundtracks/angry-gran-toss-android-ios-gamerip-2013/gtljbraypx/Background.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/angry-gran-toss-android-ios-gamerip-2013/Background.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 69,
+    "filesize_mp3_bytes": 1384120,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

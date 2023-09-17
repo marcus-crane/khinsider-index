@@ -1,0 +1,77 @@
+{
+  "title": "Ameagari no Nekotachi e Special Music CD",
+  "titles_alternative": [
+    "\u96e8\u3042\u304c\u308a\u306e\u732b\u305f\u3061\u3078 \u521d\u56de\u7279\u5178\u97f3\u697dCD"
+  ],
+  "crawled_at": "2023-09-17T06:59:47.919889+00:00",
+  "slug": "ame-agari-no-neko-tachi-e-special-music-cd",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ame-agari-no-neko-tachi-e-special-music-cd",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ame-agari-no-neko-tachi-e-special-music-cd/coverart.jpg"
+  ],
+  "year": 2001,
+  "catalog_number": "DAI-010616",
+  "date_added": "2020-04-01T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "HOOK": "https://downloads.khinsider.com/game-soundtracks/publisher/hook"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 19797114,
+      "filesize_mp3_bytes": 6092226,
+      "track_number": 1,
+      "title": "Summer Candy",
+      "runtime": 172,
+      "source_mp3": "https://vgmsite.com/soundtracks/ame-agari-no-neko-tachi-e-special-music-cd/cvulspozhs/01%20Summer%20Candy.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ame-agari-no-neko-tachi-e-special-music-cd/cvulspozhs/01%20Summer%20Candy.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ame-agari-no-neko-tachi-e-special-music-cd/01%2520Summer%2520Candy.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 38713425,
+      "filesize_mp3_bytes": 10695475,
+      "track_number": 2,
+      "title": "To Cats After the Rain",
+      "runtime": 301,
+      "source_mp3": "https://vgmsite.com/soundtracks/ame-agari-no-neko-tachi-e-special-music-cd/ycdbjhpbdo/02%20To%20Cats%20After%20the%20Rain.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ame-agari-no-neko-tachi-e-special-music-cd/ycdbjhpbdo/02%20To%20Cats%20After%20the%20Rain.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ame-agari-no-neko-tachi-e-special-music-cd/02%2520To%2520Cats%2520After%2520the%2520Rain.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20048773,
+      "filesize_mp3_bytes": 6008340,
+      "track_number": 3,
+      "title": "Summer Candy Ver.2",
+      "runtime": 174,
+      "source_mp3": "https://vgmsite.com/soundtracks/ame-agari-no-neko-tachi-e-special-music-cd/apyfoimegz/03%20Summer%20Candy%20Ver.2.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ame-agari-no-neko-tachi-e-special-music-cd/apyfoimegz/03%20Summer%20Candy%20Ver.2.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ame-agari-no-neko-tachi-e-special-music-cd/03%2520Summer%2520Candy%2520Ver.2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 38818283,
+      "filesize_mp3_bytes": 10705960,
+      "track_number": 4,
+      "title": "To Cats After the Rain Ver.2",
+      "runtime": 296,
+      "source_mp3": "https://vgmsite.com/soundtracks/ame-agari-no-neko-tachi-e-special-music-cd/hfkcqxxfrb/04%20To%20Cats%20After%20the%20Rain%20Ver.2.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ame-agari-no-neko-tachi-e-special-music-cd/hfkcqxxfrb/04%20To%20Cats%20After%20the%20Rain%20Ver.2.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ame-agari-no-neko-tachi-e-special-music-cd/04%2520To%2520Cats%2520After%2520the%2520Rain%2520Ver.2.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 943,
+    "filesize_mp3_bytes": 33502001,
+    "filesize_flac_bytes": 117377595,
+    "tracks": 4
+  }
+}

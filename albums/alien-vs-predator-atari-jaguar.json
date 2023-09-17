@@ -1,0 +1,62 @@
+{
+  "title": "Alien vs. Predator",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T06:17:25.420586+00:00",
+  "slug": "alien-vs-predator-atari-jaguar",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/alien-vs-predator-atari-jaguar",
+  "platforms": {
+    "Atari Jaguar": "https://downloads.khinsider.com/game-soundtracks/atari-jaguar"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/alien-vs-predator-atari-jaguar/Alien%20Vs%20Predator%20Atari%20Jaguar%20cover.jpg"
+  ],
+  "year": 1994,
+  "date_added": "2020-08-22T00:00:00+00:00",
+  "developers": {
+    "Rebellion Developments": "https://downloads.khinsider.com/game-soundtracks/developer/rebellion-developments"
+  },
+  "publishers": {
+    "Atari Corporation": "https://downloads.khinsider.com/game-soundtracks/publisher/atari-corporation"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4487905,
+      "track_number": 1,
+      "title": "Intro Theme",
+      "runtime": 112,
+      "source_mp3": "https://vgmsite.com/soundtracks/alien-vs-predator-atari-jaguar/dolplxthxc/1.%20Intro%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alien-vs-predator-atari-jaguar/1.%2520Intro%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8724152,
+      "track_number": 2,
+      "title": "Predator Test Theme",
+      "runtime": 218,
+      "source_mp3": "https://vgmsite.com/soundtracks/alien-vs-predator-atari-jaguar/iahhscozdz/2.%20Predator%20Test%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alien-vs-predator-atari-jaguar/2.%2520Predator%2520Test%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10768875,
+      "track_number": 3,
+      "title": "You Win",
+      "runtime": 269,
+      "source_mp3": "https://vgmsite.com/soundtracks/alien-vs-predator-atari-jaguar/mygnmzcwoi/3.%20You%20Win.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alien-vs-predator-atari-jaguar/3.%2520You%2520Win.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 599,
+    "filesize_mp3_bytes": 23980932,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

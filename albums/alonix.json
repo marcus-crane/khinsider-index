@@ -1,0 +1,53 @@
+{
+  "title": "Alonix",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T06:41:36.789561+00:00",
+  "slug": "alonix",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/alonix",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/alonix/Alonix.jpg"
+  ],
+  "year": 2018,
+  "date_added": "2020-05-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2453667,
+      "title": "BGM 01",
+      "runtime": 102,
+      "source_mp3": "https://vgmsite.com/soundtracks/alonix/udldescmbx/BGM%2001.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alonix/BGM%252001.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1929379,
+      "title": "BGM 02",
+      "runtime": 80,
+      "source_mp3": "https://vgmsite.com/soundtracks/alonix/uoqwyrdsqe/BGM%2002.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alonix/BGM%252002.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2852126,
+      "title": "BGM 03",
+      "runtime": 119,
+      "source_mp3": "https://vgmsite.com/soundtracks/alonix/inenwhpbxs/BGM%2003.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alonix/BGM%252003.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 301,
+    "filesize_mp3_bytes": 7235172,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

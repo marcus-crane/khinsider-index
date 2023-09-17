@@ -1,0 +1,82 @@
+{
+  "title": "Alien Breed",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T06:06:17.962119+00:00",
+  "slug": "alien-breed-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/alien-breed-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/alien-breed-amiga/cover_alien_breed.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2015-03-05T00:00:00+00:00",
+  "developers": {
+    "Team 17": "https://downloads.khinsider.com/game-soundtracks/developer/team-17"
+  },
+  "publishers": {
+    "Team 17": "https://downloads.khinsider.com/game-soundtracks/publisher/team-17"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7895777,
+      "track_number": 1,
+      "title": "Title Theme",
+      "runtime": 244,
+      "source_mp3": "https://vgmsite.com/soundtracks/alien-breed-amiga/zcisxxsv/01_Title%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alien-breed-amiga/01_Title%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9909043,
+      "track_number": 2,
+      "title": "Menu",
+      "runtime": 282,
+      "source_mp3": "https://vgmsite.com/soundtracks/alien-breed-amiga/iftlevmx/02_Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alien-breed-amiga/02_Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1709178,
+      "track_number": 3,
+      "title": "End Level",
+      "runtime": 49,
+      "source_mp3": "https://vgmsite.com/soundtracks/alien-breed-amiga/ilrquwrr/03_End%20Level.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alien-breed-amiga/03_End%2520Level.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 33606860,
+      "track_number": 4,
+      "title": "Title Theme (Extended)",
+      "runtime": 1007,
+      "source_mp3": "https://vgmsite.com/soundtracks/alien-breed-amiga/jpwrdmwo/04_Title%20Theme%20%28Extended%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alien-breed-amiga/04_Title%2520Theme%2520%2528Extended%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 33334231,
+      "track_number": 5,
+      "title": "Title Theme Alt. Version (Extended)",
+      "runtime": 1000,
+      "source_mp3": "https://vgmsite.com/soundtracks/alien-breed-amiga/mjenbnqr/05_Title%20Theme%20Alt.%20Version%20%28Extended%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alien-breed-amiga/05_Title%2520Theme%2520Alt.%2520Version%2520%2528Extended%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2582,
+    "filesize_mp3_bytes": 86455089,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

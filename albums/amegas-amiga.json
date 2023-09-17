@@ -1,0 +1,42 @@
+{
+  "title": "Amegas",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T06:59:51.898033+00:00",
+  "slug": "amegas-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/amegas-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/amegas-amiga/A1.png"
+  ],
+  "year": 1987,
+  "date_added": "2016-05-11T00:00:00+00:00",
+  "developers": {
+    "Guido Bartels": "https://downloads.khinsider.com/game-soundtracks/developer/guido-bartels"
+  },
+  "publishers": {
+    "reLINE": "https://downloads.khinsider.com/game-soundtracks/publisher/reline"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9930014,
+      "track_number": 1,
+      "title": "Amegas Main Theme",
+      "runtime": 271,
+      "source_mp3": "https://vgmsite.com/soundtracks/amegas-amiga/ooofmjrq/01_Amegas%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/amegas-amiga/01_Amegas%2520Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 271,
+    "filesize_mp3_bytes": 9930014,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

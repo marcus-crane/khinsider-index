@@ -1,0 +1,58 @@
+{
+  "title": "Alto's Adventure (Original Game Soundtrack)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T06:49:38.599814+00:00",
+  "slug": "alto-s-adventure",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/alto-s-adventure",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/alto-s-adventure/coverart.jpg"
+  ],
+  "year": 2016,
+  "catalog_number": null,
+  "date_added": "2020-06-27T00:00:00+00:00",
+  "developers": {
+    "Snowman": "https://downloads.khinsider.com/game-soundtracks/developer/snowman",
+    "Team Alto": "https://downloads.khinsider.com/game-soundtracks/developer/team-alto"
+  },
+  "publishers": {
+    "Various Artists": "https://downloads.khinsider.com/game-soundtracks/publisher/various-artists"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 28468838,
+      "filesize_mp3_bytes": 8273264,
+      "track_number": 1,
+      "title": "Alto's Theme",
+      "runtime": 262,
+      "source_mp3": "https://vgmsite.com/soundtracks/alto-s-adventure/ydxtizjowj/01%20Alto%27s%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/alto-s-adventure/ydxtizjowj/01%20Alto%27s%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alto-s-adventure/01%2520Alto%2527s%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 32296140,
+      "filesize_mp3_bytes": 13149143,
+      "track_number": 2,
+      "title": "Zen Mode",
+      "runtime": 448,
+      "source_mp3": "https://vgmsite.com/soundtracks/alto-s-adventure/nnqtmdamcc/02%20Zen%20Mode.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/alto-s-adventure/nnqtmdamcc/02%20Zen%20Mode.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alto-s-adventure/02%2520Zen%2520Mode.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 710,
+    "filesize_mp3_bytes": 21422407,
+    "filesize_flac_bytes": 60764978,
+    "tracks": 2
+  }
+}

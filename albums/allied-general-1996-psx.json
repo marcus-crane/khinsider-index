@@ -1,0 +1,95 @@
+{
+  "title": "Allied General",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T06:36:15.343408+00:00",
+  "slug": "allied-general-1996-psx",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/allied-general-1996-psx",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/allied-general-1996-psx/slus-303-436x423.jpg"
+  ],
+  "year": 1996,
+  "catalog_number": null,
+  "date_added": "2020-11-03T00:00:00+00:00",
+  "developers": {
+    "Halestorm": "https://downloads.khinsider.com/game-soundtracks/developer/halestorm",
+    "Strategic Simulations": "https://downloads.khinsider.com/game-soundtracks/developer/strategic-simulations"
+  },
+  "publishers": {
+    "Mindscape": "https://downloads.khinsider.com/game-soundtracks/publisher/mindscape",
+    "Strategic Simulations": "https://downloads.khinsider.com/game-soundtracks/publisher/strategic-simulations"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3932160,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 165,
+      "source_mp3": "https://vgmsite.com/soundtracks/allied-general-1996-psx/qcpfnypwcf/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/allied-general-1996-psx/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6522142,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 280,
+      "source_mp3": "https://vgmsite.com/soundtracks/allied-general-1996-psx/ycrkbtegrk/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/allied-general-1996-psx/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3764387,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 175,
+      "source_mp3": "https://vgmsite.com/soundtracks/allied-general-1996-psx/zrukeqnrjj/03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/allied-general-1996-psx/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1562378,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 69,
+      "source_mp3": "https://vgmsite.com/soundtracks/allied-general-1996-psx/mlcpnlzzhq/04.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/allied-general-1996-psx/04.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5892997,
+      "track_number": 5,
+      "title": "Track 5",
+      "runtime": 247,
+      "source_mp3": "https://vgmsite.com/soundtracks/allied-general-1996-psx/wdosyuuinz/05.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/allied-general-1996-psx/05.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3711959,
+      "track_number": 6,
+      "title": "Track 6",
+      "runtime": 171,
+      "source_mp3": "https://vgmsite.com/soundtracks/allied-general-1996-psx/uwdaytgszr/06.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/allied-general-1996-psx/06.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1107,
+    "filesize_mp3_bytes": 25386023,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Anarchy",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T07:20:59.283233+00:00",
+  "slug": "anarchy-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/anarchy-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/anarchy-amiga/A1.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2018-01-24T00:00:00+00:00",
+  "developers": {
+    "WJS Design": "https://downloads.khinsider.com/game-soundtracks/developer/wjs-design"
+  },
+  "publishers": {
+    "Psygnosis": "https://downloads.khinsider.com/game-soundtracks/publisher/psygnosis"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4812963,
+      "track_number": 1,
+      "title": "Title Screen  Ending",
+      "runtime": 178,
+      "source_mp3": "https://vgmsite.com/soundtracks/anarchy-amiga/ckeqznev/01_Title%20Screen%20%20Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/anarchy-amiga/01_Title%2520Screen%2520%2520Ending.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 178,
+    "filesize_mp3_bytes": 4812963,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

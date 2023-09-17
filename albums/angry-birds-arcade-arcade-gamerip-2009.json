@@ -1,0 +1,50 @@
+{
+  "title": "Angry Birds (Arcade)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T07:41:52.910049+00:00",
+  "slug": "angry-birds-arcade-arcade-gamerip-2009",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/angry-birds-arcade-arcade-gamerip-2009",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/angry-birds-arcade-arcade-gamerip-2009/Album.png"
+  ],
+  "year": 2015,
+  "date_added": "2022-07-31T00:00:00+00:00",
+  "developers": {
+    "Rovio": "https://downloads.khinsider.com/game-soundtracks/developer/rovio"
+  },
+  "publishers": {
+    "Innovative Concepts In Entertainment Inc. (ICE)": "https://downloads.khinsider.com/game-soundtracks/publisher/innovative-concepts-in-entertainment-inc.-ice"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2275409,
+      "title": "Attract",
+      "runtime": 101,
+      "source_mp3": "https://vgmsite.com/soundtracks/angry-birds-arcade-arcade-gamerip-2009/rfotlruxsz/Attract.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/angry-birds-arcade-arcade-gamerip-2009/Attract.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 513802,
+      "title": "You Win!  Try Again!",
+      "runtime": 13,
+      "source_mp3": "https://vgmsite.com/soundtracks/angry-birds-arcade-arcade-gamerip-2009/mqmvzpdbmr/You%20Win%21%20%20Try%20Again%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/angry-birds-arcade-arcade-gamerip-2009/You%2520Win%2521%2520%2520Try%2520Again%2521.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 114,
+    "filesize_mp3_bytes": 2789211,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

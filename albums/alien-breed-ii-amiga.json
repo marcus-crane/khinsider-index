@@ -1,0 +1,52 @@
+{
+  "title": "Alien Breed II: The Horror Continues",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T06:06:30.746666+00:00",
+  "slug": "alien-breed-ii-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/alien-breed-ii-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/alien-breed-ii-amiga/cover_alien_breed_ii_the_horror_continues.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2016-01-24T00:00:00+00:00",
+  "developers": {
+    "Team 17": "https://downloads.khinsider.com/game-soundtracks/developer/team-17"
+  },
+  "publishers": {
+    "Team 17": "https://downloads.khinsider.com/game-soundtracks/publisher/team-17"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6679429,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 243,
+      "source_mp3": "https://vgmsite.com/soundtracks/alien-breed-ii-amiga/nxpzrzqf/01_Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alien-breed-ii-amiga/01_Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6710886,
+      "track_number": 2,
+      "title": "Intro (AGA)",
+      "runtime": 243,
+      "source_mp3": "https://vgmsite.com/soundtracks/alien-breed-ii-amiga/sbvthtrk/02_Intro%20%28AGA%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alien-breed-ii-amiga/02_Intro%2520%2528AGA%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 486,
+    "filesize_mp3_bytes": 13390315,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

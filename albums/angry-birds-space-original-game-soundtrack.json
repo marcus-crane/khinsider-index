@@ -1,0 +1,73 @@
+{
+  "title": "Angry Birds Space",
+  "titles_alternative": [
+    "Angry Birds Space (Original Game Soundtrack)"
+  ],
+  "crawled_at": "2023-09-17T08:08:00.277526+00:00",
+  "slug": "angry-birds-space-original-game-soundtrack",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/angry-birds-space-original-game-soundtrack",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios",
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/angry-birds-space-original-game-soundtrack/Cover.jpg"
+  ],
+  "year": 2012,
+  "catalog_number": null,
+  "date_added": "2023-08-27T00:00:00+00:00",
+  "developers": {
+    "Rovio Entertainment Ltd.": "https://downloads.khinsider.com/game-soundtracks/developer/rovio-entertainment",
+    "THQ Nordic": "https://downloads.khinsider.com/game-soundtracks/developer/thq-nordic"
+  },
+  "publishers": {
+    "Rovio Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/rovio-entertainment"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9814671,
+      "filesize_mp3_bytes": 3198156,
+      "track_number": 1,
+      "title": "Angry Birds Space Theme",
+      "runtime": 91,
+      "source_mp3": "https://vgmsite.com/soundtracks/angry-birds-space-original-game-soundtrack/fwbkvlfziv/01.%20Angry%20Birds%20Space%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/angry-birds-space-original-game-soundtrack/fwbkvlfziv/01.%20Angry%20Birds%20Space%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/angry-birds-space-original-game-soundtrack/01.%2520Angry%2520Birds%2520Space%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11471421,
+      "filesize_mp3_bytes": 4183818,
+      "track_number": 2,
+      "title": "Angry Birds Space Theme",
+      "runtime": 121,
+      "source_mp3": "https://vgmsite.com/soundtracks/angry-birds-space-original-game-soundtrack/uudcbtznbq/02.%20Angry%20Birds%20Space%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/angry-birds-space-original-game-soundtrack/uudcbtznbq/02.%20Angry%20Birds%20Space%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/angry-birds-space-original-game-soundtrack/02.%2520Angry%2520Birds%2520Space%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5117050,
+      "filesize_mp3_bytes": 2023751,
+      "track_number": 3,
+      "title": "Angry Birds Space Mirror World Theme",
+      "runtime": 58,
+      "source_mp3": "https://vgmsite.com/soundtracks/angry-birds-space-original-game-soundtrack/eevczebusf/03.%20Angry%20Birds%20Space%20Mirror%20World%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/angry-birds-space-original-game-soundtrack/eevczebusf/03.%20Angry%20Birds%20Space%20Mirror%20World%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/angry-birds-space-original-game-soundtrack/03.%2520Angry%2520Birds%2520Space%2520Mirror%2520World%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 270,
+    "filesize_mp3_bytes": 9405725,
+    "filesize_flac_bytes": 26403142,
+    "tracks": 3
+  }
+}

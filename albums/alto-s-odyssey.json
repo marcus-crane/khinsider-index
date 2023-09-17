@@ -1,0 +1,56 @@
+{
+  "title": "Alto's Odyssey",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T06:49:41.760037+00:00",
+  "slug": "alto-s-odyssey",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/alto-s-odyssey",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/alto-s-odyssey/Alto_s%20Odyssey.jpg"
+  ],
+  "date_added": "2020-07-04T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 13715374,
+      "track_number": 1,
+      "title": "An Endless Desert",
+      "runtime": 342,
+      "source_mp3": "https://vgmsite.com/soundtracks/alto-s-odyssey/yhgroxujfc/01%20An%20Endless%20Desert.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alto-s-odyssey/01%2520An%2520Endless%2520Desert.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 14889779,
+      "track_number": 2,
+      "title": "A Moment Of Tranquility",
+      "runtime": 372,
+      "source_mp3": "https://vgmsite.com/soundtracks/alto-s-odyssey/ckgmqvzmca/02%20A%20Moment%20Of%20Tranquility.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alto-s-odyssey/02%2520A%2520Moment%2520Of%2520Tranquility.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 36144414,
+      "track_number": 3,
+      "title": "Window To A World",
+      "runtime": 903,
+      "source_mp3": "https://vgmsite.com/soundtracks/alto-s-odyssey/ptmudzjxyb/03%20Window%20To%20A%20World.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alto-s-odyssey/03%2520Window%2520To%2520A%2520World.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1617,
+    "filesize_mp3_bytes": 64749567,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

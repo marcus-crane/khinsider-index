@@ -1,0 +1,56 @@
+{
+  "title": "Amazing Alex",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T06:57:01.977591+00:00",
+  "slug": "amazing-alex-android-ios-mobile-gamerip-2012",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/amazing-alex-android-ios-mobile-gamerip-2012",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios",
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/amazing-alex-android-ios-mobile-gamerip-2012/Icon.png"
+  ],
+  "year": 2012,
+  "date_added": "2023-07-26T00:00:00+00:00",
+  "developers": {
+    "Mystery Coconut Games": "https://downloads.khinsider.com/game-soundtracks/developer/mystery-coconut-games",
+    "Rovio Entertainment Ltd.": "https://downloads.khinsider.com/game-soundtracks/developer/rovio-entertainment",
+    "Snappy Touch": "https://downloads.khinsider.com/game-soundtracks/developer/snappy-touch"
+  },
+  "publishers": {
+    "Rovio Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/rovio-entertainment"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1342177,
+      "track_number": 1,
+      "title": "Music",
+      "runtime": 92,
+      "source_mp3": "https://vgmsite.com/soundtracks/amazing-alex-android-ios-mobile-gamerip-2012/cqhlqiuxpa/01.%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/amazing-alex-android-ios-mobile-gamerip-2012/01.%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1541406,
+      "track_number": 2,
+      "title": "Theme",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/amazing-alex-android-ios-mobile-gamerip-2012/szgoqpjdlz/02.%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/amazing-alex-android-ios-mobile-gamerip-2012/02.%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 188,
+    "filesize_mp3_bytes": 2883583,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

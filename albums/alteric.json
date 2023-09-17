@@ -1,0 +1,101 @@
+{
+  "title": "Alteric",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T06:48:39.885176+00:00",
+  "slug": "alteric",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/alteric",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/alteric/Alteric.png"
+  ],
+  "year": 2016,
+  "date_added": "2021-12-01T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 41775267,
+      "filesize_mp3_bytes": 7486832,
+      "track_number": 1,
+      "title": "Song 1",
+      "runtime": 229,
+      "source_mp3": "https://vgmsite.com/soundtracks/alteric/vyzyojpcxl/01%20Song%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/alteric/vyzyojpcxl/01%20Song%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alteric/01%2520Song%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 30010245,
+      "filesize_mp3_bytes": 5525995,
+      "track_number": 2,
+      "title": "Song 2",
+      "runtime": 170,
+      "source_mp3": "https://vgmsite.com/soundtracks/alteric/fpycmmdlmf/02%20Song%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/alteric/fpycmmdlmf/02%20Song%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alteric/02%2520Song%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 37444648,
+      "filesize_mp3_bytes": 6637486,
+      "track_number": 3,
+      "title": "Song 3",
+      "runtime": 209,
+      "source_mp3": "https://vgmsite.com/soundtracks/alteric/zrwnzvumnm/03%20Song%203.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/alteric/zrwnzvumnm/03%20Song%203.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alteric/03%2520Song%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 36280729,
+      "filesize_mp3_bytes": 6406799,
+      "track_number": 4,
+      "title": "Song 4",
+      "runtime": 196,
+      "source_mp3": "https://vgmsite.com/soundtracks/alteric/ancefeyepx/04%20Song%204.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/alteric/ancefeyepx/04%20Song%204.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alteric/04%2520Song%25204.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 28458352,
+      "filesize_mp3_bytes": 5463080,
+      "track_number": 5,
+      "title": "Main Theme",
+      "runtime": 179,
+      "source_mp3": "https://vgmsite.com/soundtracks/alteric/zyhemvqqkk/05%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/alteric/zyhemvqqkk/05%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alteric/05%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 27577548,
+      "filesize_mp3_bytes": 4812963,
+      "track_number": 6,
+      "title": "Boss Battle 1",
+      "runtime": 148,
+      "source_mp3": "https://vgmsite.com/soundtracks/alteric/xjtoajlcqm/06%20Boss%20Battle%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/alteric/xjtoajlcqm/06%20Boss%20Battle%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alteric/06%2520Boss%2520Battle%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 37392220,
+      "filesize_mp3_bytes": 6595543,
+      "track_number": 7,
+      "title": "Boss Battle 2",
+      "runtime": 195,
+      "source_mp3": "https://vgmsite.com/soundtracks/alteric/opdgojivyh/07%20Boss%20Battle%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/alteric/opdgojivyh/07%20Boss%20Battle%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alteric/07%2520Boss%2520Battle%25202.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1326,
+    "filesize_mp3_bytes": 42928698,
+    "filesize_flac_bytes": 238939009,
+    "tracks": 7
+  }
+}

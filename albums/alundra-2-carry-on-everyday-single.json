@@ -1,0 +1,64 @@
+{
+  "title": "Alundra 2 - Carry On Everyday Single",
+  "titles_alternative": [
+    "Carry On Everyday / Saeko Chiba",
+    "Carry On Everyday / \u5343\u8449\u7d17\u5b50"
+  ],
+  "crawled_at": "2023-09-17T06:49:45.955297+00:00",
+  "slug": "alundra-2-carry-on-everyday-single",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/alundra-2-carry-on-everyday-single",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/alundra-2-carry-on-everyday-single/Alundra%202%20-%20Carry%20On%20Everyday%20Single.jpg"
+  ],
+  "year": 1999,
+  "catalog_number": "SVWD-9015",
+  "date_added": "2006-11-10T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "VORN": "https://downloads.khinsider.com/game-soundtracks/publisher/vorn"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5588910,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 279,
+      "source_mp3": "https://vgmsite.com/soundtracks/alundra-2-carry-on-everyday-single/vvjnxukt/01-.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alundra-2-carry-on-everyday-single/01-.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6543114,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 327,
+      "source_mp3": "https://vgmsite.com/soundtracks/alundra-2-carry-on-everyday-single/qacnidan/02-.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alundra-2-carry-on-everyday-single/02-.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5557452,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 278,
+      "source_mp3": "https://vgmsite.com/soundtracks/alundra-2-carry-on-everyday-single/whxgmoql/03-.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alundra-2-carry-on-everyday-single/03-.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 884,
+    "filesize_mp3_bytes": 17689476,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

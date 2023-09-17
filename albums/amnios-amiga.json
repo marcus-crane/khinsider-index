@@ -1,0 +1,52 @@
+{
+  "title": "Amnios",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T07:12:17.616838+00:00",
+  "slug": "amnios-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/amnios-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/amnios-amiga/A1.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2018-01-18T00:00:00+00:00",
+  "developers": {
+    "Flying Chicken": "https://downloads.khinsider.com/game-soundtracks/developer/flying-chicken"
+  },
+  "publishers": {
+    "Psygnosis": "https://downloads.khinsider.com/game-soundtracks/publisher/psygnosis"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6658457,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 210,
+      "source_mp3": "https://vgmsite.com/soundtracks/amnios-amiga/jelairii/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/amnios-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6060769,
+      "track_number": 2,
+      "title": "Name Entry",
+      "runtime": 192,
+      "source_mp3": "https://vgmsite.com/soundtracks/amnios-amiga/qvbiwaaj/02_Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/amnios-amiga/02_Name%2520Entry.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 402,
+    "filesize_mp3_bytes": 12719226,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

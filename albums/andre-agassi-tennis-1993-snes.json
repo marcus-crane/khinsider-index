@@ -1,0 +1,57 @@
+{
+  "title": "Andre Agassi Tennis",
+  "titles_alternative": [
+    "\u30a2\u30f3\u30c9\u30ec\u30fb\u30a2\u30ac\u30b7 \u30c6\u30cb\u30b9"
+  ],
+  "crawled_at": "2023-09-17T07:24:01.748692+00:00",
+  "slug": "andre-agassi-tennis-1993-snes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/andre-agassi-tennis-1993-snes",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/andre-agassi-tennis-1993-snes/A1.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2019-08-01T00:00:00+00:00",
+  "developers": {
+    "Radiance": "https://downloads.khinsider.com/game-soundtracks/developer/radiance"
+  },
+  "publishers": {
+    "Nichibutsu": "https://downloads.khinsider.com/game-soundtracks/publisher/nichibutsu",
+    "TecMagik": "https://downloads.khinsider.com/game-soundtracks/publisher/tecmagik"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8472494,
+      "filesize_mp3_bytes": 4131389,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 130,
+      "source_mp3": "https://vgmsite.com/soundtracks/andre-agassi-tennis-1993-snes/lszrlnuihj/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/andre-agassi-tennis-1993-snes/lszrlnuihj/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/andre-agassi-tennis-1993-snes/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4246732,
+      "filesize_mp3_bytes": 2275409,
+      "track_number": 2,
+      "title": "Current Status",
+      "runtime": 80,
+      "source_mp3": "https://vgmsite.com/soundtracks/andre-agassi-tennis-1993-snes/dhothrqmvv/02%20Current%20Status.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/andre-agassi-tennis-1993-snes/dhothrqmvv/02%20Current%20Status.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/andre-agassi-tennis-1993-snes/02%2520Current%2520Status.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 210,
+    "filesize_mp3_bytes": 6406798,
+    "filesize_flac_bytes": 12719226,
+    "tracks": 2
+  }
+}

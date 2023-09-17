@@ -1,0 +1,41 @@
+{
+  "title": "Ampu-Tea",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T07:18:46.978924+00:00",
+  "slug": "ampu-tea-windows-gamerip-2014",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ampu-tea-windows-gamerip-2014",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ampu-tea-windows-gamerip-2014/Thumbnail.jpg"
+  ],
+  "year": 2014,
+  "date_added": "2023-01-22T00:00:00+00:00",
+  "developers": {
+    "ProjectorGames": "https://downloads.khinsider.com/game-soundtracks/developer/projectorgames"
+  },
+  "publishers": {
+    "KISS ltd": "https://downloads.khinsider.com/game-soundtracks/publisher/kiss"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6050283,
+      "title": "Court of the Queen",
+      "runtime": 200,
+      "source_mp3": "https://vgmsite.com/soundtracks/ampu-tea-windows-gamerip-2014/qzvauaalqp/Court%20of%20the%20Queen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ampu-tea-windows-gamerip-2014/Court%2520of%2520the%2520Queen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 200,
+    "filesize_mp3_bytes": 6050283,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

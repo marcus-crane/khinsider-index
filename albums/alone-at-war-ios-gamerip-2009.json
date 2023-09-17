@@ -1,0 +1,52 @@
+{
+  "title": "Alone At War",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T06:37:51.472132+00:00",
+  "slug": "alone-at-war-ios-gamerip-2009",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/alone-at-war-ios-gamerip-2009",
+  "platforms": {
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/alone-at-war-ios-gamerip-2009/Image.jpg"
+  ],
+  "year": 2009,
+  "date_added": "2023-08-17T00:00:00+00:00",
+  "developers": {
+    "Alcomi": "https://downloads.khinsider.com/game-soundtracks/developer/alcomi"
+  },
+  "publishers": {
+    "Gameloft": "https://downloads.khinsider.com/game-soundtracks/publisher/gameloft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1321205,
+      "track_number": 1,
+      "title": "Night Cave 96",
+      "runtime": 110,
+      "source_mp3": "https://vgmsite.com/soundtracks/alone-at-war-ios-gamerip-2009/mhqsyajwvq/01.%20Night%20Cave%2096.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alone-at-war-ios-gamerip-2009/01.%2520Night%2520Cave%252096.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3135242,
+      "track_number": 2,
+      "title": "Whimsy Groove 96",
+      "runtime": 262,
+      "source_mp3": "https://vgmsite.com/soundtracks/alone-at-war-ios-gamerip-2009/fesdyvfywx/02.%20Whimsy%20Groove%2096.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alone-at-war-ios-gamerip-2009/02.%2520Whimsy%2520Groove%252096.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 372,
+    "filesize_mp3_bytes": 4456447,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

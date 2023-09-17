@@ -1,0 +1,67 @@
+{
+  "title": "Alien Zone Plus",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T06:15:59.850488+00:00",
+  "slug": "alien-zone-plus-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/alien-zone-plus-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/alien-zone-plus-android/1.jpeg"
+  ],
+  "date_added": "2017-03-14T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 943718,
+      "track_number": 1,
+      "title": "open",
+      "runtime": 59,
+      "source_mp3": "https://vgmsite.com/soundtracks/alien-zone-plus-android/uebzkhqa/01%20open.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alien-zone-plus-android/01%2520open.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1090519,
+      "track_number": 2,
+      "title": "bgm1",
+      "runtime": 66,
+      "source_mp3": "https://vgmsite.com/soundtracks/alien-zone-plus-android/mhsftmgf/02%20bgm1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alien-zone-plus-android/02%2520bgm1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 996147,
+      "track_number": 3,
+      "title": "bgm2",
+      "runtime": 60,
+      "source_mp3": "https://vgmsite.com/soundtracks/alien-zone-plus-android/opuzvwdt/03%20bgm2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alien-zone-plus-android/03%2520bgm2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1038090,
+      "track_number": 4,
+      "title": "bgm3",
+      "runtime": 63,
+      "source_mp3": "https://vgmsite.com/soundtracks/alien-zone-plus-android/hbyqzqym/04%20bgm3.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alien-zone-plus-android/04%2520bgm3.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 248,
+    "filesize_mp3_bytes": 4068474,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

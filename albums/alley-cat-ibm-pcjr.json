@@ -1,0 +1,41 @@
+{
+  "title": "Alley Cat (IBM PCjr)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-17T06:35:40.730709+00:00",
+  "slug": "alley-cat-ibm-pcjr",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/alley-cat-ibm-pcjr",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/alley-cat-ibm-pcjr/Alley%20Cat.png"
+  ],
+  "year": 1985,
+  "date_added": "2022-03-14T00:00:00+00:00",
+  "developers": {
+    "Synapse Software": "https://downloads.khinsider.com/game-soundtracks/developer/synapse-software"
+  },
+  "publishers": {
+    "IBM": "https://downloads.khinsider.com/game-soundtracks/publisher/ibm"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4823449,
+      "filesize_mp3_bytes": 2191523,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 113,
+      "source_mp3": "https://vgmsite.com/soundtracks/alley-cat-ibm-pcjr/sxzjfqofzw/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/alley-cat-ibm-pcjr/sxzjfqofzw/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/alley-cat-ibm-pcjr/01%2520Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 113,
+    "filesize_mp3_bytes": 2191523,
+    "filesize_flac_bytes": 4823449,
+    "tracks": 1
+  }
+}

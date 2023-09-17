@@ -1,0 +1,104 @@
+{
+  "title": "All Terrain Racing",
+  "titles_alternative": [
+    "ATR: All Terrain Racing"
+  ],
+  "crawled_at": "2023-09-17T06:35:01.949495+00:00",
+  "slug": "all-terrain-racing-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/all-terrain-racing-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/all-terrain-racing-amiga/ATR1.png"
+  ],
+  "year": 1995,
+  "date_added": "2017-09-25T00:00:00+00:00",
+  "developers": {
+    "Team 17": "https://downloads.khinsider.com/game-soundtracks/developer/team-17"
+  },
+  "publishers": {
+    "Team 17": "https://downloads.khinsider.com/game-soundtracks/publisher/team-17"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5337251,
+      "track_number": 1,
+      "title": "Title Screen  Canyon",
+      "runtime": 172,
+      "source_mp3": "https://vgmsite.com/soundtracks/all-terrain-racing-amiga/wdcozgxx/01_Title%20Screen%20%20Canyon.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/all-terrain-racing-amiga/01_Title%2520Screen%2520%2520Canyon.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4236247,
+      "track_number": 2,
+      "title": "Track Select  Sport",
+      "runtime": 139,
+      "source_mp3": "https://vgmsite.com/soundtracks/all-terrain-racing-amiga/kpfpmrop/02_Track%20Select%20%20Sport.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/all-terrain-racing-amiga/02_Track%2520Select%2520%2520Sport.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3953131,
+      "track_number": 3,
+      "title": "Forest",
+      "runtime": 117,
+      "source_mp3": "https://vgmsite.com/soundtracks/all-terrain-racing-amiga/bmkptggc/03_Forest.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/all-terrain-racing-amiga/03_Forest.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4173332,
+      "track_number": 4,
+      "title": "Space",
+      "runtime": 142,
+      "source_mp3": "https://vgmsite.com/soundtracks/all-terrain-racing-amiga/rmxeuzld/04_Space.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/all-terrain-racing-amiga/04_Space.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3774873,
+      "track_number": 5,
+      "title": "Moon",
+      "runtime": 125,
+      "source_mp3": "https://vgmsite.com/soundtracks/all-terrain-racing-amiga/sucikpoq/05_Moon.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/all-terrain-racing-amiga/05_Moon.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6176112,
+      "track_number": 6,
+      "title": "Alien",
+      "runtime": 217,
+      "source_mp3": "https://vgmsite.com/soundtracks/all-terrain-racing-amiga/nnrpsqov/06_Alien.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/all-terrain-racing-amiga/06_Alien.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3103784,
+      "track_number": 7,
+      "title": "Xmas Special (from A.T.R Xmas Demo)",
+      "runtime": 110,
+      "source_mp3": "https://vgmsite.com/soundtracks/all-terrain-racing-amiga/bzfxciyo/07_Xmas%20Special%20%28from%20A.T.R%20Xmas%20Demo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/all-terrain-racing-amiga/07_Xmas%2520Special%2520%2528from%2520A.T.R%2520Xmas%2520Demo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1022,
+    "filesize_mp3_bytes": 30754730,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}
