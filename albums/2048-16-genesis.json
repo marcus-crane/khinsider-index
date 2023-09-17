@@ -1,0 +1,39 @@
+{
+  "title": "2048 - 16",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-16T23:59:00.127532+00:00",
+  "slug": "2048-16-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/2048-16-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/2048-16-genesis/2048~16.png"
+  ],
+  "year": 2014,
+  "date_added": "2020-03-01T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8965324,
+      "filesize_mp3_bytes": 2988441,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 143,
+      "source_mp3": "https://vgmsite.com/soundtracks/2048-16-genesis/lrgdcmroxj/01%20-%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/2048-16-genesis/lrgdcmroxj/01%20-%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/2048-16-genesis/01%2520-%2520Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 143,
+    "filesize_mp3_bytes": 2988441,
+    "filesize_flac_bytes": 8965324,
+    "tracks": 1
+  }
+}

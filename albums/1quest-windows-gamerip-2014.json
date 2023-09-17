@@ -1,0 +1,53 @@
+{
+  "title": "1Quest",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-16T23:57:32.602259+00:00",
+  "slug": "1quest-windows-gamerip-2014",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/1quest-windows-gamerip-2014",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/1quest-windows-gamerip-2014/1q_1.jpg"
+  ],
+  "year": 2014,
+  "date_added": "2022-08-03T00:00:00+00:00",
+  "developers": {
+    "Ratz 'N' Gods": "https://downloads.khinsider.com/game-soundtracks/developer/ratz-n-gods",
+    "Storybird Games": "https://downloads.khinsider.com/game-soundtracks/developer/storybird-games"
+  },
+  "publishers": {
+    "Ratz 'N' Gods": "https://downloads.khinsider.com/game-soundtracks/publisher/ratz-n-gods"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2359296,
+      "track_number": 1,
+      "title": "Menu",
+      "runtime": 108,
+      "source_mp3": "https://vgmsite.com/soundtracks/1quest-windows-gamerip-2014/euzejpzrtw/1.%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/1quest-windows-gamerip-2014/1.%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4026531,
+      "track_number": 2,
+      "title": "Dungeon",
+      "runtime": 182,
+      "source_mp3": "https://vgmsite.com/soundtracks/1quest-windows-gamerip-2014/sllejdkexo/2.%20Dungeon.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/1quest-windows-gamerip-2014/2.%2520Dungeon.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 290,
+    "filesize_mp3_bytes": 6385827,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

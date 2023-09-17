@@ -1,0 +1,105 @@
+{
+  "title": "1Xtreme",
+  "titles_alternative": [
+    "ESPN Extreme Games"
+  ],
+  "crawled_at": "2023-09-16T23:57:33.705282+00:00",
+  "slug": "1xtreme",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/1xtreme",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/1xtreme/coverart.jpg"
+  ],
+  "year": 1995,
+  "catalog_number": null,
+  "date_added": "2018-05-22T00:00:00+00:00",
+  "developers": {
+    "Sony Interactive Studios America": "https://downloads.khinsider.com/game-soundtracks/developer/sony-interactive-studios-america"
+  },
+  "publishers": {
+    "Sony Computer Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/sony-computer-entertainment"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 13453230,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 335,
+      "source_mp3": "https://vgmsite.com/soundtracks/1xtreme/hwxbmiea/1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/1xtreme/1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10936647,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 273,
+      "source_mp3": "https://vgmsite.com/soundtracks/1xtreme/fbxybzlx/2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/1xtreme/2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 15005122,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 374,
+      "source_mp3": "https://vgmsite.com/soundtracks/1xtreme/fhdxqqst/3.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/1xtreme/3.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 12310282,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 307,
+      "source_mp3": "https://vgmsite.com/soundtracks/1xtreme/fzkvrmpq/4.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/1xtreme/4.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 15204352,
+      "track_number": 5,
+      "title": "Track 5",
+      "runtime": 379,
+      "source_mp3": "https://vgmsite.com/soundtracks/1xtreme/uwlvktkq/5.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/1xtreme/5.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 14334033,
+      "track_number": 6,
+      "title": "Track 6",
+      "runtime": 357,
+      "source_mp3": "https://vgmsite.com/soundtracks/1xtreme/byisntnt/6.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/1xtreme/6.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 14323548,
+      "track_number": 7,
+      "title": "Track 7",
+      "runtime": 357,
+      "source_mp3": "https://vgmsite.com/soundtracks/1xtreme/nauxuyvr/7.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/1xtreme/7.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2382,
+    "filesize_mp3_bytes": 95567214,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

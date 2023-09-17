@@ -1,0 +1,54 @@
+{
+  "title": "20 em 1",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-16T23:58:09.119963+00:00",
+  "slug": "20-em-1-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/20-em-1-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/20-em-1-master-system/20%20em%201.png"
+  ],
+  "year": 1995,
+  "date_added": "2020-07-02T00:00:00+00:00",
+  "developers": {
+    "Tec Toy": "https://downloads.khinsider.com/game-soundtracks/developer/tec-toy"
+  },
+  "publishers": {
+    "Tec Toy": "https://downloads.khinsider.com/game-soundtracks/publisher/tec-toy"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2170552,
+      "filesize_mp3_bytes": 1101004,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 65,
+      "source_mp3": "https://vgmsite.com/soundtracks/20-em-1-master-system/odsjrzdoal/01%20-%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/20-em-1-master-system/odsjrzdoal/01%20-%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/20-em-1-master-system/01%2520-%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2589982,
+      "filesize_mp3_bytes": 1132462,
+      "track_number": 2,
+      "title": "Main Theme",
+      "runtime": 58,
+      "source_mp3": "https://vgmsite.com/soundtracks/20-em-1-master-system/wnoivppfrc/02%20-%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/20-em-1-master-system/wnoivppfrc/02%20-%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/20-em-1-master-system/02%2520-%2520Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 123,
+    "filesize_mp3_bytes": 2233466,
+    "filesize_flac_bytes": 4760534,
+    "tracks": 2
+  }
+}

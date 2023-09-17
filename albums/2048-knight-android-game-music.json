@@ -1,0 +1,83 @@
+{
+  "title": "2048 Knight",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-16T23:59:00.981823+00:00",
+  "slug": "2048-knight-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/2048-knight-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/2048-knight-android-game-music/1.png"
+  ],
+  "year": 2016,
+  "catalog_number": null,
+  "date_added": "2017-11-24T00:00:00+00:00",
+  "developers": {
+    "RETROBOX": "https://downloads.khinsider.com/game-soundtracks/developer/retrobox"
+  },
+  "publishers": {
+    "RETROBOX": "https://downloads.khinsider.com/game-soundtracks/publisher/retrobox"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2820669,
+      "track_number": 1,
+      "title": "title",
+      "runtime": 70,
+      "source_mp3": "https://vgmsite.com/soundtracks/2048-knight-android-game-music/ijdfurhw/1%20title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/2048-knight-android-game-music/1%2520title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3198156,
+      "track_number": 2,
+      "title": "story",
+      "runtime": 80,
+      "source_mp3": "https://vgmsite.com/soundtracks/2048-knight-android-game-music/akulbgus/2%20story.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/2048-knight-android-game-music/2%2520story.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2233466,
+      "track_number": 3,
+      "title": "normal",
+      "runtime": 56,
+      "source_mp3": "https://vgmsite.com/soundtracks/2048-knight-android-game-music/lxxkonzn/3%20normal.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/2048-knight-android-game-music/3%2520normal.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1709178,
+      "track_number": 4,
+      "title": "boss",
+      "runtime": 43,
+      "source_mp3": "https://vgmsite.com/soundtracks/2048-knight-android-game-music/dzecwfzq/4%20boss.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/2048-knight-android-game-music/4%2520boss.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 335544,
+      "track_number": 5,
+      "title": "game over",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/2048-knight-android-game-music/macyqern/5%20game%20over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/2048-knight-android-game-music/5%2520game%2520over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 257,
+    "filesize_mp3_bytes": 10297013,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}
