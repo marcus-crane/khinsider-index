@@ -45,6 +45,7 @@ jobs:
           
           git add .
           git commit -a -m "Index extras have been updated" || exit 0
+          git pull
       
       - name: Push changes
         if: always()
