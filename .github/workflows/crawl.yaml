@@ -1,10 +1,10 @@
 name: "Generate extra info from index"
 on:
-  push:
-    branches:
-      - 'main'
-    paths:
-      - 'index.json'
+  # push:
+  #   branches:
+  #     - 'main'
+  #   paths:
+  #     - 'index.json'
   workflow_dispatch:
 
 env:
