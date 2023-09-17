@@ -42,10 +42,11 @@ jobs:
 
           git config --local user.email "helper@utf9k.net"
           git config --local user.name "Indexer Bot"
-          
+          git config pull.rebase false
+
+          git pull
           git add .
           git commit -a -m "Index extras have been updated" || exit 0
-          git pull
       
       - name: Push changes
         if: always()
