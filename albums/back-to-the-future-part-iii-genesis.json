@@ -1,0 +1,77 @@
+{
+  "title": "Back to the Future Part III",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T02:52:03.832444+00:00",
+  "slug": "back-to-the-future-part-iii-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/back-to-the-future-part-iii-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/back-to-the-future-part-iii-genesis/B1.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2020-03-02T00:00:00+00:00",
+  "developers": {
+    "Probe": "https://downloads.khinsider.com/game-soundtracks/developer/probe"
+  },
+  "publishers": {
+    "Arena": "https://downloads.khinsider.com/game-soundtracks/publisher/arena",
+    "Image Works": "https://downloads.khinsider.com/game-soundtracks/publisher/image-works"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4037017,
+      "filesize_mp3_bytes": 1572864,
+      "track_number": 1,
+      "title": "Title Screen (Back to the Future Theme)",
+      "runtime": 43,
+      "source_mp3": "https://vgmsite.com/soundtracks/back-to-the-future-part-iii-genesis/tstrvanssa/01%20-%20Title%20Screen%20%28Back%20to%20the%20Future%20Theme%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/back-to-the-future-part-iii-genesis/tstrvanssa/01%20-%20Title%20Screen%20%28Back%20to%20the%20Future%20Theme%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/back-to-the-future-part-iii-genesis/01%2520-%2520Title%2520Screen%2520%2528Back%2520to%2520the%2520Future%2520Theme%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 24222105,
+      "filesize_mp3_bytes": 10580131,
+      "track_number": 2,
+      "title": "Stage 1",
+      "runtime": 306,
+      "source_mp3": "https://vgmsite.com/soundtracks/back-to-the-future-part-iii-genesis/qvfsiwxdud/02%20-%20Stage%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/back-to-the-future-part-iii-genesis/qvfsiwxdud/02%20-%20Stage%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/back-to-the-future-part-iii-genesis/02%2520-%2520Stage%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 14365491,
+      "filesize_mp3_bytes": 6291456,
+      "track_number": 3,
+      "title": "Stage 2",
+      "runtime": 185,
+      "source_mp3": "https://vgmsite.com/soundtracks/back-to-the-future-part-iii-genesis/kcbrdojvau/03%20-%20Stage%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/back-to-the-future-part-iii-genesis/kcbrdojvau/03%20-%20Stage%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/back-to-the-future-part-iii-genesis/03%2520-%2520Stage%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 13086228,
+      "filesize_mp3_bytes": 6291456,
+      "track_number": 4,
+      "title": "Stage 3 & 4",
+      "runtime": 179,
+      "source_mp3": "https://vgmsite.com/soundtracks/back-to-the-future-part-iii-genesis/xzmznkcfbm/04%20-%20Stage%203%20%26%204.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/back-to-the-future-part-iii-genesis/xzmznkcfbm/04%20-%20Stage%203%20%26%204.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/back-to-the-future-part-iii-genesis/04%2520-%2520Stage%25203%2520%2526%25204.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 713,
+    "filesize_mp3_bytes": 24735907,
+    "filesize_flac_bytes": 55710841,
+    "tracks": 4
+  }
+}

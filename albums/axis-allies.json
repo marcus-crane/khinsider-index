@@ -1,0 +1,93 @@
+{
+  "title": "Axis & Allies",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T02:20:11.163726+00:00",
+  "slug": "axis-allies",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/axis-allies",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/axis-allies/166883-axis-allies-windows-other.jpg"
+  ],
+  "date_added": "2019-08-31T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6899630,
+      "filesize_mp3_bytes": 2055208,
+      "title": "Britain",
+      "runtime": 114,
+      "source_mp3": "https://vgmsite.com/soundtracks/axis-allies/somfycnapt/Britain.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/axis-allies/somfycnapt/Britain.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/axis-allies/Britain.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 16137584,
+      "filesize_mp3_bytes": 5127536,
+      "title": "Credits",
+      "runtime": 280,
+      "source_mp3": "https://vgmsite.com/soundtracks/axis-allies/qnldgafgoj/Credits.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/axis-allies/qnldgafgoj/Credits.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/axis-allies/Credits.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6973030,
+      "filesize_mp3_bytes": 2013265,
+      "title": "Germany",
+      "runtime": 117,
+      "source_mp3": "https://vgmsite.com/soundtracks/axis-allies/aftsjxbuyn/Germany.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/axis-allies/aftsjxbuyn/Germany.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/axis-allies/Germany.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7025459,
+      "filesize_mp3_bytes": 2107637,
+      "title": "Japan",
+      "runtime": 120,
+      "source_mp3": "https://vgmsite.com/soundtracks/axis-allies/jgdisdeyar/Japan.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/axis-allies/jgdisdeyar/Japan.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/axis-allies/Japan.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6218055,
+      "filesize_mp3_bytes": 1740636,
+      "title": "Menu",
+      "runtime": 105,
+      "source_mp3": "https://vgmsite.com/soundtracks/axis-allies/ngaugcrxjc/Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/axis-allies/ngaugcrxjc/Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/axis-allies/Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7235174,
+      "filesize_mp3_bytes": 2065694,
+      "title": "USA",
+      "runtime": 116,
+      "source_mp3": "https://vgmsite.com/soundtracks/axis-allies/tulddvggvm/USA.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/axis-allies/tulddvggvm/USA.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/axis-allies/USA.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7329546,
+      "filesize_mp3_bytes": 2128609,
+      "title": "USSR",
+      "runtime": 123,
+      "source_mp3": "https://vgmsite.com/soundtracks/axis-allies/ulixwttvbi/USSR.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/axis-allies/ulixwttvbi/USSR.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/axis-allies/USSR.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 975,
+    "filesize_mp3_bytes": 17238585,
+    "filesize_flac_bytes": 57818478,
+    "tracks": 7
+  }
+}

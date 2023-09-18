@@ -1,0 +1,86 @@
+{
+  "title": "Apex Legends",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T00:24:25.334157+00:00",
+  "slug": "apex-legends-2019",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/apex-legends-2019",
+  "platforms": {
+    "PS4": "https://downloads.khinsider.com/game-soundtracks/playstation-4",
+    "Switch": "https://downloads.khinsider.com/game-soundtracks/nintendo-switch",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows",
+    "Xbox One": "https://downloads.khinsider.com/game-soundtracks/xbox-one"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/apex-legends-2019/cover.jpg"
+  ],
+  "year": 2019,
+  "date_added": "2020-02-22T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 16483614,
+      "filesize_mp3_bytes": 9342812,
+      "track_number": 1,
+      "title": "Apex Legends Main Theme",
+      "runtime": 160,
+      "source_mp3": "https://vgmsite.com/soundtracks/apex-legends-2019/zqoxecihsr/01%20Apex%20Legends%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/apex-legends-2019/zqoxecihsr/01%20Apex%20Legends%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/apex-legends-2019/01%2520Apex%2520Legends%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 21443379,
+      "filesize_mp3_bytes": 13369344,
+      "track_number": 2,
+      "title": "Preparing The Arena",
+      "runtime": 261,
+      "source_mp3": "https://vgmsite.com/soundtracks/apex-legends-2019/ljpgvbkuhk/02%20Preparing%20The%20Arena.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/apex-legends-2019/ljpgvbkuhk/02%20Preparing%20The%20Arena.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/apex-legends-2019/02%2520Preparing%2520The%2520Arena.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 12729712,
+      "filesize_mp3_bytes": 9143582,
+      "track_number": 3,
+      "title": "Choose Your Legend",
+      "runtime": 155,
+      "source_mp3": "https://vgmsite.com/soundtracks/apex-legends-2019/dktlylamzq/03%20Choose%20Your%20Legend.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/apex-legends-2019/dktlylamzq/03%20Choose%20Your%20Legend.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/apex-legends-2019/03%2520Choose%2520Your%2520Legend.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 16190013,
+      "filesize_mp3_bytes": 9594470,
+      "track_number": 4,
+      "title": "You Are The Jumpmaster",
+      "runtime": 166,
+      "source_mp3": "https://vgmsite.com/soundtracks/apex-legends-2019/btijomjdwp/04%20You%20Are%20The%20Jumpmaster.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/apex-legends-2019/btijomjdwp/04%20You%20Are%20The%20Jumpmaster.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/apex-legends-2019/04%2520You%2520Are%2520The%2520Jumpmaster.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 30607933,
+      "filesize_mp3_bytes": 18727567,
+      "track_number": 5,
+      "title": "Victory & Lobby Redux",
+      "runtime": 395,
+      "source_mp3": "https://vgmsite.com/soundtracks/apex-legends-2019/fnleijvfua/05%20Victory%20%26%20Lobby%20Redux.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/apex-legends-2019/fnleijvfua/05%20Victory%20%26%20Lobby%20Redux.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/apex-legends-2019/05%2520Victory%2520%2526%2520Lobby%2520Redux.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1137,
+    "filesize_mp3_bytes": 60177775,
+    "filesize_flac_bytes": 97454651,
+    "tracks": 5
+  }
+}

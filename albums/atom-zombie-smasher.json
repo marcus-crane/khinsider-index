@@ -1,0 +1,89 @@
+{
+  "title": "Atom Zombie Smasher",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T02:11:10.911773+00:00",
+  "slug": "atom-zombie-smasher",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/atom-zombie-smasher",
+  "platforms": {
+    "Linux": "https://downloads.khinsider.com/game-soundtracks/linux",
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/atom-zombie-smasher/Atom%20Zombie%20Smasher%20Cover.png"
+  ],
+  "year": 2011,
+  "date_added": "2022-11-23T00:00:00+00:00",
+  "developers": {
+    "Blendo Games": "https://downloads.khinsider.com/game-soundtracks/developer/blendo-games"
+  },
+  "publishers": {
+    "Blendo Games": "https://downloads.khinsider.com/game-soundtracks/publisher/blendo-games"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10968104,
+      "filesize_mp3_bytes": 4854906,
+      "track_number": 1,
+      "title": "Blue Without You",
+      "runtime": 156,
+      "source_mp3": "https://vgmsite.com/soundtracks/atom-zombie-smasher/ahdxiqcdev/01.%20Blue%20Without%20You.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/atom-zombie-smasher/ahdxiqcdev/01.%20Blue%20Without%20You.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/atom-zombie-smasher/01.%2520Blue%2520Without%2520You.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 12803112,
+      "filesize_mp3_bytes": 3827302,
+      "track_number": 2,
+      "title": "Boulevard",
+      "runtime": 119,
+      "source_mp3": "https://vgmsite.com/soundtracks/atom-zombie-smasher/nievxaybhj/02.%20Boulevard.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/atom-zombie-smasher/nievxaybhj/02.%20Boulevard.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/atom-zombie-smasher/02.%2520Boulevard.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 12519997,
+      "filesize_mp3_bytes": 4194304,
+      "track_number": 3,
+      "title": "Hang Em High",
+      "runtime": 119,
+      "source_mp3": "https://vgmsite.com/soundtracks/atom-zombie-smasher/gylpnymzeo/03.%20Hang%20Em%20High.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/atom-zombie-smasher/gylpnymzeo/03.%20Hang%20Em%20High.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/atom-zombie-smasher/03.%2520Hang%2520Em%2520High.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9636413,
+      "filesize_mp3_bytes": 2631925,
+      "track_number": 4,
+      "title": "The Baron",
+      "runtime": 165,
+      "source_mp3": "https://vgmsite.com/soundtracks/atom-zombie-smasher/zqpffyjydt/04.%20The%20Baron.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/atom-zombie-smasher/zqpffyjydt/04.%20The%20Baron.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/atom-zombie-smasher/04.%2520The%2520Baron.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6385827,
+      "filesize_mp3_bytes": 2589982,
+      "track_number": 5,
+      "title": "Tsunami",
+      "runtime": 98,
+      "source_mp3": "https://vgmsite.com/soundtracks/atom-zombie-smasher/exhloebmmj/05.%20Tsunami.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/atom-zombie-smasher/exhloebmmj/05.%20Tsunami.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/atom-zombie-smasher/05.%2520Tsunami.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 657,
+    "filesize_mp3_bytes": 18098419,
+    "filesize_flac_bytes": 52313453,
+    "tracks": 5
+  }
+}

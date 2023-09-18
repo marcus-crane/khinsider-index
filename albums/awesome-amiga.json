@@ -1,0 +1,112 @@
+{
+  "title": "Awesome",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T02:19:03.864409+00:00",
+  "slug": "awesome-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/awesome-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/awesome-amiga/Awesome%20%28Amiga%29.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2016-05-20T00:00:00+00:00",
+  "developers": {
+    "Reflections": "https://downloads.khinsider.com/game-soundtracks/developer/reflections"
+  },
+  "publishers": {
+    "Psygnosis": "https://downloads.khinsider.com/game-soundtracks/publisher/psygnosis"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8661237,
+      "track_number": 1,
+      "title": "Asteroids",
+      "runtime": 266,
+      "source_mp3": "https://vgmsite.com/soundtracks/awesome-amiga/hwqbhgfn/01_Asteroids.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/awesome-amiga/01_Asteroids.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9751756,
+      "track_number": 2,
+      "title": "Battlefield",
+      "runtime": 292,
+      "source_mp3": "https://vgmsite.com/soundtracks/awesome-amiga/jukomzhk/02_Battlefield.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/awesome-amiga/02_Battlefield.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7864320,
+      "track_number": 3,
+      "title": "Boss",
+      "runtime": 235,
+      "source_mp3": "https://vgmsite.com/soundtracks/awesome-amiga/gfsigipb/03_Boss.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/awesome-amiga/03_Boss.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9814671,
+      "track_number": 4,
+      "title": "Planet",
+      "runtime": 302,
+      "source_mp3": "https://vgmsite.com/soundtracks/awesome-amiga/bpvttvde/04_Planet.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/awesome-amiga/04_Planet.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1835008,
+      "track_number": 5,
+      "title": "Out of Oxygen",
+      "runtime": 56,
+      "source_mp3": "https://vgmsite.com/soundtracks/awesome-amiga/slswdgvz/05_Out%20of%20Oxygen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/awesome-amiga/05_Out%2520of%2520Oxygen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10884218,
+      "track_number": 6,
+      "title": "Escape",
+      "runtime": 317,
+      "source_mp3": "https://vgmsite.com/soundtracks/awesome-amiga/jeeqofwz/06_Escape.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/awesome-amiga/06_Escape.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8493465,
+      "track_number": 7,
+      "title": "Ending",
+      "runtime": 261,
+      "source_mp3": "https://vgmsite.com/soundtracks/awesome-amiga/stpvhltw/07_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/awesome-amiga/07_Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7004487,
+      "track_number": 8,
+      "title": "Game Over",
+      "runtime": 228,
+      "source_mp3": "https://vgmsite.com/soundtracks/awesome-amiga/zsvsahrs/08_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/awesome-amiga/08_Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1957,
+    "filesize_mp3_bytes": 64309162,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

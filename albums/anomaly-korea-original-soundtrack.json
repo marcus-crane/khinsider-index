@@ -1,0 +1,71 @@
+{
+  "title": "Anomaly Korea Original Soundtrack",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T00:11:58.515637+00:00",
+  "slug": "anomaly-korea-original-soundtrack",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/anomaly-korea-original-soundtrack",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/anomaly-korea-original-soundtrack/coverart.jpg"
+  ],
+  "year": 2013,
+  "catalog_number": null,
+  "date_added": "2015-11-25T00:00:00+00:00",
+  "developers": {
+    "11 bit studios S.A.": "https://downloads.khinsider.com/game-soundtracks/developer/11-bit-studios"
+  },
+  "publishers": {
+    "Humble Bundle": "https://downloads.khinsider.com/game-soundtracks/publisher/humble-bundle"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4330618,
+      "title": "Ambient",
+      "runtime": 182,
+      "source_mp3": "https://vgmsite.com/soundtracks/anomaly-korea-original-soundtrack/dnbbreto/Ambient.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/anomaly-korea-original-soundtrack/Ambient.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2390753,
+      "title": "Battle",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/anomaly-korea-original-soundtrack/grkuplnb/Battle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/anomaly-korea-original-soundtrack/Battle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2432696,
+      "title": "Clash",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/anomaly-korea-original-soundtrack/tqtrcpyu/Clash.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/anomaly-korea-original-soundtrack/Clash.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3135242,
+      "title": "Main Theme",
+      "runtime": 141,
+      "source_mp3": "https://vgmsite.com/soundtracks/anomaly-korea-original-soundtrack/qijldsmd/Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/anomaly-korea-original-soundtrack/Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 515,
+    "filesize_mp3_bytes": 12289309,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

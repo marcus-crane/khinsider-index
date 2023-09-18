@@ -1,0 +1,82 @@
+{
+  "title": "Auto Destruct",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T02:15:49.745514+00:00",
+  "slug": "auto-destruct-psx",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/auto-destruct-psx",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/auto-destruct-psx/A1.jpg"
+  ],
+  "year": 1998,
+  "date_added": "2015-02-26T00:00:00+00:00",
+  "developers": {
+    "Neurostone": "https://downloads.khinsider.com/game-soundtracks/developer/neurostone"
+  },
+  "publishers": {
+    "Electronic Arts": "https://downloads.khinsider.com/game-soundtracks/publisher/electronic-arts"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5892997,
+      "track_number": 1,
+      "title": "Auto Destruct",
+      "runtime": 165,
+      "source_mp3": "https://vgmsite.com/soundtracks/auto-destruct-psx/rwchxxki/01_Auto%20Destruct.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/auto-destruct-psx/01_Auto%2520Destruct.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10370416,
+      "track_number": 2,
+      "title": "San Francisco",
+      "runtime": 363,
+      "source_mp3": "https://vgmsite.com/soundtracks/auto-destruct-psx/cfmwfwqz/02_San%20Francisco.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/auto-destruct-psx/02_San%2520Francisco.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10810818,
+      "track_number": 3,
+      "title": "New York",
+      "runtime": 372,
+      "source_mp3": "https://vgmsite.com/soundtracks/auto-destruct-psx/asfqzgsj/03_New%20York.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/auto-destruct-psx/03_New%2520York.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10380902,
+      "track_number": 4,
+      "title": "Tokyo",
+      "runtime": 359,
+      "source_mp3": "https://vgmsite.com/soundtracks/auto-destruct-psx/chgzycgg/04_Tokyo.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/auto-destruct-psx/04_Tokyo.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7476346,
+      "track_number": 5,
+      "title": "Credits",
+      "runtime": 274,
+      "source_mp3": "https://vgmsite.com/soundtracks/auto-destruct-psx/nvnmtpdy/05_Credits.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/auto-destruct-psx/05_Credits.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1533,
+    "filesize_mp3_bytes": 44931479,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "title": "Aquaboo",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T00:27:11.690531+00:00",
+  "slug": "aquaboo-2017",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/aquaboo-2017",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/aquaboo-2017/Image.jpg"
+  ],
+  "year": 2017,
+  "catalog_number": null,
+  "date_added": "2023-08-04T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "eejis": "https://downloads.khinsider.com/game-soundtracks/publisher/eejis"
+  },
+  "genres": {
+    "Inspired By": "https://downloads.khinsider.com/game-soundtracks/inspired-by"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3722444,
+      "track_number": 1,
+      "title": "Dance Dance Revolution",
+      "runtime": 199,
+      "source_mp3": "https://vgmsite.com/soundtracks/aquaboo-2017/mraawccvzk/01.%20Dance%20Dance%20Revolution.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/aquaboo-2017/01.%2520Dance%2520Dance%2520Revolution.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1960837,
+      "track_number": 2,
+      "title": "Up Sun",
+      "runtime": 109,
+      "source_mp3": "https://vgmsite.com/soundtracks/aquaboo-2017/aabczyivfs/02.%20Up%20Sun.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/aquaboo-2017/02.%2520Up%2520Sun.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2652897,
+      "track_number": 3,
+      "title": "Underwater Afternoon",
+      "runtime": 125,
+      "source_mp3": "https://vgmsite.com/soundtracks/aquaboo-2017/vuqwvpqxey/03.%20Underwater%20Afternoon.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/aquaboo-2017/03.%2520Underwater%2520Afternoon.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1887436,
+      "track_number": 4,
+      "title": "R.U.F. Song",
+      "runtime": 87,
+      "source_mp3": "https://vgmsite.com/soundtracks/aquaboo-2017/goctjzwfwo/04.%20R.U.F.%20Song.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/aquaboo-2017/04.%2520R.U.F.%2520Song.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 520,
+    "filesize_mp3_bytes": 10223614,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

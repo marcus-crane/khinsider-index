@@ -1,0 +1,94 @@
+{
+  "title": "Arkanoid - Revenge of DOH (ZX Spectrum 128)",
+  "titles_alternative": [
+    "Arkanoid II",
+    "\u30a2\u30eb\u30ab\u30ce\u30a4\u30c9II"
+  ],
+  "crawled_at": "2023-09-18T00:57:04.179150+00:00",
+  "slug": "arkanoid-revenge-of-doh-zx-spectrum-128",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/arkanoid-revenge-of-doh-zx-spectrum-128",
+  "platforms": {
+    "Spectrum": "https://downloads.khinsider.com/game-soundtracks/spectrum"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/arkanoid-revenge-of-doh-zx-spectrum-128/Arkanoid%20-%20Revenge%20of%20DOH.png"
+  ],
+  "year": 1988,
+  "date_added": "2022-03-14T00:00:00+00:00",
+  "developers": {
+    "Imagine": "https://downloads.khinsider.com/game-soundtracks/developer/imagine",
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/developer/taito"
+  },
+  "publishers": {
+    "Erbe": "https://downloads.khinsider.com/game-soundtracks/publisher/erbe",
+    "IBSA": "https://downloads.khinsider.com/game-soundtracks/publisher/ibsa",
+    "Imagine": "https://downloads.khinsider.com/game-soundtracks/publisher/imagine",
+    "The Hit Squad": "https://downloads.khinsider.com/game-soundtracks/publisher/the-hit-squad"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 314572,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 1,
+      "title": "Introduction",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/arkanoid-revenge-of-doh-zx-spectrum-128/iirwarblok/01%20Introduction.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arkanoid-revenge-of-doh-zx-spectrum-128/iirwarblok/01%20Introduction.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arkanoid-revenge-of-doh-zx-spectrum-128/01%2520Introduction.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 230686,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 2,
+      "title": "Get Ready!",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/arkanoid-revenge-of-doh-zx-spectrum-128/qeqdybgkzx/02%20Get%20Ready%21.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arkanoid-revenge-of-doh-zx-spectrum-128/qeqdybgkzx/02%20Get%20Ready%21.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arkanoid-revenge-of-doh-zx-spectrum-128/02%2520Get%2520Ready%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3659530,
+      "filesize_mp3_bytes": 1604321,
+      "track_number": 3,
+      "title": "DOH (Dominate Over Hour)",
+      "runtime": 90,
+      "source_mp3": "https://vgmsite.com/soundtracks/arkanoid-revenge-of-doh-zx-spectrum-128/qrwpriccle/03%20DOH%20%28Dominate%20Over%20Hour%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arkanoid-revenge-of-doh-zx-spectrum-128/qrwpriccle/03%20DOH%20%28Dominate%20Over%20Hour%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arkanoid-revenge-of-doh-zx-spectrum-128/03%2520DOH%2520%2528Dominate%2520Over%2520Hour%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1593835,
+      "filesize_mp3_bytes": 692060,
+      "track_number": 4,
+      "title": "Ending",
+      "runtime": 33,
+      "source_mp3": "https://vgmsite.com/soundtracks/arkanoid-revenge-of-doh-zx-spectrum-128/nteotwxuyw/04%20Ending.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arkanoid-revenge-of-doh-zx-spectrum-128/nteotwxuyw/04%20Ending.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arkanoid-revenge-of-doh-zx-spectrum-128/04%2520Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 94371,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 5,
+      "title": "Game Over",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/arkanoid-revenge-of-doh-zx-spectrum-128/fswhrmuwfm/05%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arkanoid-revenge-of-doh-zx-spectrum-128/fswhrmuwfm/05%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arkanoid-revenge-of-doh-zx-spectrum-128/05%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 139,
+    "filesize_mp3_bytes": 2579495,
+    "filesize_flac_bytes": 5892994,
+    "tracks": 5
+  }
+}

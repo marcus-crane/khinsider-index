@@ -1,0 +1,67 @@
+{
+  "title": "Arctic",
+  "titles_alternative": [
+    "\u30a2\u30fc\u30af\u30c6\u30a3\u30c3\u30af"
+  ],
+  "crawled_at": "2023-09-18T00:51:44.330581+00:00",
+  "slug": "arctic-pc-9801",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/arctic-pc-9801",
+  "platforms": {
+    "PC-98": "https://downloads.khinsider.com/game-soundtracks/pc-9801"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/arctic-pc-9801/773729-arctic-pc-98-front-cover.jpg"
+  ],
+  "year": 1988,
+  "date_added": "2022-03-14T00:00:00+00:00",
+  "developers": {
+    "Artdink": "https://downloads.khinsider.com/game-soundtracks/developer/artdink"
+  },
+  "publishers": {
+    "Pony Canyon": "https://downloads.khinsider.com/game-soundtracks/publisher/pony-canyon"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4026531,
+      "filesize_mp3_bytes": 2191523,
+      "track_number": 1,
+      "title": "Arctic Main BGM",
+      "runtime": 108,
+      "source_mp3": "https://vgmsite.com/soundtracks/arctic-pc-9801/ojtrjjkjuc/01%20Arctic%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arctic-pc-9801/ojtrjjkjuc/01%20Arctic%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arctic-pc-9801/01%2520Arctic%2520Main%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 304087,
+      "filesize_mp3_bytes": 157286,
+      "track_number": 2,
+      "title": "Game Over BGM",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/arctic-pc-9801/uujupejlsf/02%20Game%20Over%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arctic-pc-9801/uujupejlsf/02%20Game%20Over%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arctic-pc-9801/02%2520Game%2520Over%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 513802,
+      "filesize_mp3_bytes": 157286,
+      "track_number": 3,
+      "title": "Winner BGM",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/arctic-pc-9801/tnrjqgifkh/03%20Winner%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arctic-pc-9801/tnrjqgifkh/03%20Winner%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arctic-pc-9801/03%2520Winner%2520BGM.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 122,
+    "filesize_mp3_bytes": 2506095,
+    "filesize_flac_bytes": 4844420,
+    "tracks": 3
+  }
+}

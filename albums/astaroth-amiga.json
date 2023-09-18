@@ -1,0 +1,72 @@
+{
+  "title": "Astaroth",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T01:46:20.526687+00:00",
+  "slug": "astaroth-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/astaroth-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/astaroth-amiga/129023-astaroth-the-angel-of-death-amiga-front-cover.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2016-02-18T00:00:00+00:00",
+  "developers": {
+    "Eldritch the Cat": "https://downloads.khinsider.com/game-soundtracks/developer/eldritch-the-cat"
+  },
+  "publishers": {
+    "Hewson": "https://downloads.khinsider.com/game-soundtracks/publisher/hewson"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11974737,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 394,
+      "source_mp3": "https://vgmsite.com/soundtracks/astaroth-amiga/cpxlvpze/01_Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/astaroth-amiga/01_Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10349445,
+      "track_number": 2,
+      "title": "Title Screen",
+      "runtime": 333,
+      "source_mp3": "https://vgmsite.com/soundtracks/astaroth-amiga/ewdnbhbb/02_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/astaroth-amiga/02_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4215275,
+      "track_number": 3,
+      "title": "BGM #1",
+      "runtime": 128,
+      "source_mp3": "https://vgmsite.com/soundtracks/astaroth-amiga/bffjitqz/03_BGM%20%231.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/astaroth-amiga/03_BGM%2520%25231.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3701473,
+      "track_number": 4,
+      "title": "Ending",
+      "runtime": 123,
+      "source_mp3": "https://vgmsite.com/soundtracks/astaroth-amiga/lbecsoqs/04_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/astaroth-amiga/04_Ending.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 978,
+    "filesize_mp3_bytes": 30240930,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

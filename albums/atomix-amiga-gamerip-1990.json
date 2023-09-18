@@ -1,0 +1,82 @@
+{
+  "title": "Atomix",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T02:12:53.391516+00:00",
+  "slug": "atomix-amiga-gamerip-1990",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/atomix-amiga-gamerip-1990",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/atomix-amiga-gamerip-1990/Atomix%20Title%20Screen.png"
+  ],
+  "year": 1990,
+  "date_added": "2023-08-11T00:00:00+00:00",
+  "developers": {
+    "SoftTouch": "https://downloads.khinsider.com/game-soundtracks/developer/softtouch"
+  },
+  "publishers": {
+    "Thalion": "https://downloads.khinsider.com/game-soundtracks/publisher/thalion"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10076815,
+      "track_number": 1,
+      "title": "Thalion Intro",
+      "runtime": 269,
+      "source_mp3": "https://vgmsite.com/soundtracks/atomix-amiga-gamerip-1990/djmpfyiinq/01.%20Thalion%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/atomix-amiga-gamerip-1990/01.%2520Thalion%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7528775,
+      "track_number": 2,
+      "title": "Atomic Fallout End",
+      "runtime": 224,
+      "source_mp3": "https://vgmsite.com/soundtracks/atomix-amiga-gamerip-1990/nawjrwnwlf/02.%20Atomic%20Fallout%20End.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/atomix-amiga-gamerip-1990/02.%2520Atomic%2520Fallout%2520End.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2705326,
+      "track_number": 3,
+      "title": "Title",
+      "runtime": 77,
+      "source_mp3": "https://vgmsite.com/soundtracks/atomix-amiga-gamerip-1990/lqzykhalip/03.%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/atomix-amiga-gamerip-1990/03.%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4844421,
+      "track_number": 4,
+      "title": "Thalion (Unused)",
+      "runtime": 131,
+      "source_mp3": "https://vgmsite.com/soundtracks/atomix-amiga-gamerip-1990/vzulgaoilb/04.%20Thalion%20%28Unused%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/atomix-amiga-gamerip-1990/04.%2520Thalion%2520%2528Unused%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 178257,
+      "track_number": 5,
+      "title": "Thalion (Unused 2)",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/atomix-amiga-gamerip-1990/vpwvrtixlq/05.%20Thalion%20%28Unused%202%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/atomix-amiga-gamerip-1990/05.%2520Thalion%2520%2528Unused%25202%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 706,
+    "filesize_mp3_bytes": 25333594,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

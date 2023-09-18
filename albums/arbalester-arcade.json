@@ -1,0 +1,66 @@
+{
+  "title": "Arbalester",
+  "titles_alternative": [
+    "\u30a2\u30eb\u30d0\u30ec\u30b9\u30bf"
+  ],
+  "crawled_at": "2023-09-18T00:44:19.925703+00:00",
+  "slug": "arbalester-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/arbalester-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/arbalester-arcade/A1.png"
+  ],
+  "year": 1989,
+  "date_added": "2016-02-12T00:00:00+00:00",
+  "developers": {
+    "Jorudan": "https://downloads.khinsider.com/game-soundtracks/developer/jorudan"
+  },
+  "publishers": {
+    "Romstar": "https://downloads.khinsider.com/game-soundtracks/publisher/romstar",
+    "Seta": "https://downloads.khinsider.com/game-soundtracks/publisher/seta",
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/publisher/taito"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 1,
+      "title": "Insert Coin",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/arbalester-arcade/uqxfzyci/01_Insert%20Coin.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arbalester-arcade/01_Insert%2520Coin.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2202009,
+      "track_number": 2,
+      "title": "Main BGM",
+      "runtime": 80,
+      "source_mp3": "https://vgmsite.com/soundtracks/arbalester-arcade/mhfqynfs/02_Main%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arbalester-arcade/02_Main%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1310720,
+      "track_number": 3,
+      "title": "Big Plane",
+      "runtime": 47,
+      "source_mp3": "https://vgmsite.com/soundtracks/arbalester-arcade/iqibwbew/03_Big%20Plane.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arbalester-arcade/03_Big%2520Plane.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 129,
+    "filesize_mp3_bytes": 3554672,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

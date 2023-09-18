@@ -1,0 +1,61 @@
+{
+  "title": "Assassin - Special Edition",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T01:20:18.450125+00:00",
+  "slug": "assassin-special-edition-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/assassin-special-edition-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/assassin-special-edition-amiga/folder.jpg"
+  ],
+  "year": 1994,
+  "date_added": "2021-03-24T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 618659,
+      "filesize_mp3_bytes": 387973,
+      "track_number": 1,
+      "title": "Assasin Intro",
+      "runtime": 19,
+      "source_mp3": "https://vgmsite.com/soundtracks/assassin-special-edition-amiga/mwlzvtiezp/01%20Assasin%20Intro.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/assassin-special-edition-amiga/mwlzvtiezp/01%20Assasin%20Intro.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/assassin-special-edition-amiga/01%2520Assasin%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 24410849,
+      "filesize_mp3_bytes": 8745123,
+      "track_number": 2,
+      "title": "Assassin",
+      "runtime": 284,
+      "source_mp3": "https://vgmsite.com/soundtracks/assassin-special-edition-amiga/ckdoasehfo/02%20Assassin.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/assassin-special-edition-amiga/ckdoasehfo/02%20Assassin.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/assassin-special-edition-amiga/02%2520Assassin.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5746196,
+      "filesize_mp3_bytes": 1939865,
+      "track_number": 3,
+      "title": "High Score",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/assassin-special-edition-amiga/wwzynanbsi/03%20High%20Score.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/assassin-special-edition-amiga/wwzynanbsi/03%20High%20Score.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/assassin-special-edition-amiga/03%2520High%2520Score.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 367,
+    "filesize_mp3_bytes": 11072961,
+    "filesize_flac_bytes": 30775704,
+    "tracks": 3
+  }
+}

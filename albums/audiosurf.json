@@ -1,0 +1,69 @@
+{
+  "title": "Audiosurf OST",
+  "titles_alternative": [
+    "Audiosurf: Ride Your Music OST"
+  ],
+  "crawled_at": "2023-09-18T02:14:39.111407+00:00",
+  "slug": "audiosurf",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/audiosurf",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/audiosurf/300px-Audiosurf_cover.jpg"
+  ],
+  "year": 2007,
+  "catalog_number": null,
+  "date_added": "2015-10-12T00:00:00+00:00",
+  "developers": {
+    "Dylan Fitterer": "https://downloads.khinsider.com/game-soundtracks/developer/dylan-fitterer"
+  },
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3879731,
+      "title": "Circuit_Breakdown",
+      "runtime": 97,
+      "source_mp3": "https://vgmsite.com/soundtracks/audiosurf/gpfmpwms/Circuit_Breakdown.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/audiosurf/Circuit_Breakdown.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5442109,
+      "title": "Circuit_Breakdown_alternate_loop",
+      "runtime": 136,
+      "source_mp3": "https://vgmsite.com/soundtracks/audiosurf/ijwmywek/Circuit_Breakdown_alternate_loop.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/audiosurf/Circuit_Breakdown_alternate_loop.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1803550,
+      "title": "flute loops 2",
+      "runtime": 45,
+      "source_mp3": "https://vgmsite.com/soundtracks/audiosurf/qbtzgqoi/flute%20loops%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/audiosurf/flute%2520loops%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4141875,
+      "title": "Victims_of_Science_-_The_Device_Has_Been_Modified_v2",
+      "runtime": 207,
+      "source_mp3": "https://vgmsite.com/soundtracks/audiosurf/uyepltzt/Victims_of_Science_-_The_Device_Has_Been_Modified_v2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/audiosurf/Victims_of_Science_-_The_Device_Has_Been_Modified_v2.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 485,
+    "filesize_mp3_bytes": 15267265,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

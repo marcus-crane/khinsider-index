@@ -1,0 +1,54 @@
+{
+  "title": "Art Alive",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T01:09:46.642284+00:00",
+  "slug": "art-alive-genesis-gamerip-1991",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/art-alive-genesis-gamerip-1991",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/art-alive-genesis-gamerip-1991/Art%20Alive%20Box%20Art%20%28EU%29.png"
+  ],
+  "year": 1991,
+  "date_added": "2022-09-06T00:00:00+00:00",
+  "developers": {
+    "Western Technologies": "https://downloads.khinsider.com/game-soundtracks/developer/western-technologies"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 18748538,
+      "filesize_mp3_bytes": 2883584,
+      "track_number": 1,
+      "title": "Title Screen & Pencil Tool",
+      "runtime": 110,
+      "source_mp3": "https://vgmsite.com/soundtracks/art-alive-genesis-gamerip-1991/qirzjcprtd/01.%20Title%20Screen%20%26%20Pencil%20Tool.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/art-alive-genesis-gamerip-1991/qirzjcprtd/01.%20Title%20Screen%20%26%20Pencil%20Tool.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/art-alive-genesis-gamerip-1991/01.%2520Title%2520Screen%2520%2526%2520Pencil%2520Tool.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 849346,
+      "filesize_mp3_bytes": 209715,
+      "track_number": 2,
+      "title": "Paint Bucket Tool",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/art-alive-genesis-gamerip-1991/gujgjqsvhu/02.%20Paint%20Bucket%20Tool.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/art-alive-genesis-gamerip-1991/gujgjqsvhu/02.%20Paint%20Bucket%20Tool.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/art-alive-genesis-gamerip-1991/02.%2520Paint%2520Bucket%2520Tool.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 114,
+    "filesize_mp3_bytes": 3093299,
+    "filesize_flac_bytes": 19597884,
+    "tracks": 2
+  }
+}

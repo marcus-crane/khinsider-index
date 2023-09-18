@@ -1,0 +1,62 @@
+{
+  "title": "Apache",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T00:18:51.783478+00:00",
+  "slug": "apache-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/apache-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/apache-amiga/Apache.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2019-04-22T00:00:00+00:00",
+  "developers": {
+    "Team 17": "https://downloads.khinsider.com/game-soundtracks/developer/team-17"
+  },
+  "publishers": {
+    "Team 17": "https://downloads.khinsider.com/game-soundtracks/publisher/team-17"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5609881,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 187,
+      "source_mp3": "https://vgmsite.com/soundtracks/apache-amiga/ujsmgpbi/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/apache-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2715811,
+      "track_number": 2,
+      "title": "Name Entry",
+      "runtime": 100,
+      "source_mp3": "https://vgmsite.com/soundtracks/apache-amiga/ysrubnnh/02_Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/apache-amiga/02_Name%2520Entry.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2065694,
+      "track_number": 3,
+      "title": "Unused (Bonus Stage)",
+      "runtime": 71,
+      "source_mp3": "https://vgmsite.com/soundtracks/apache-amiga/osciltea/03_Unused%20%28Bonus%20Stage%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/apache-amiga/03_Unused%2520%2528Bonus%2520Stage%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 358,
+    "filesize_mp3_bytes": 10391386,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

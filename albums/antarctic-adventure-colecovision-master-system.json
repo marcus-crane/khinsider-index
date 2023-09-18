@@ -1,0 +1,76 @@
+{
+  "title": "Antarctic Adventure (ColecoVision)",
+  "titles_alternative": [
+    "\u3051\u3063\u304d\u3087\u304f\u5357\u6975\u5927\u5192\u967a"
+  ],
+  "crawled_at": "2023-09-18T00:15:21.199460+00:00",
+  "slug": "antarctic-adventure-colecovision-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/antarctic-adventure-colecovision-master-system",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/antarctic-adventure-colecovision-master-system/AA.jpg"
+  ],
+  "year": 1984,
+  "date_added": "2020-07-02T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami"
+  },
+  "publishers": {
+    "Coleco": "https://downloads.khinsider.com/game-soundtracks/publisher/coleco"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 283115,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 1,
+      "title": "Game Start",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/antarctic-adventure-colecovision-master-system/kbfcikhpdj/01%20-%20Game%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/antarctic-adventure-colecovision-master-system/kbfcikhpdj/01%20-%20Game%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/antarctic-adventure-colecovision-master-system/01%2520-%2520Game%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2956984,
+      "filesize_mp3_bytes": 1121976,
+      "track_number": 2,
+      "title": "The Skater's Waltz",
+      "runtime": 61,
+      "source_mp3": "https://vgmsite.com/soundtracks/antarctic-adventure-colecovision-master-system/puexuupkmk/02%20-%20The%20Skater%27s%20Waltz.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/antarctic-adventure-colecovision-master-system/puexuupkmk/02%20-%20The%20Skater%27s%20Waltz.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/antarctic-adventure-colecovision-master-system/02%2520-%2520The%2520Skater%2527s%2520Waltz.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 251658,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 3,
+      "title": "Level Completed",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/antarctic-adventure-colecovision-master-system/lvqrcpbedo/03%20-%20Level%20Completed.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/antarctic-adventure-colecovision-master-system/lvqrcpbedo/03%20-%20Level%20Completed.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/antarctic-adventure-colecovision-master-system/03%2520-%2520Level%2520Completed.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 272629,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/antarctic-adventure-colecovision-master-system/geehjcywlq/04%20-%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/antarctic-adventure-colecovision-master-system/geehjcywlq/04%20-%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/antarctic-adventure-colecovision-master-system/04%2520-%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 76,
+    "filesize_mp3_bytes": 1384119,
+    "filesize_flac_bytes": 3764386,
+    "tracks": 4
+  }
+}

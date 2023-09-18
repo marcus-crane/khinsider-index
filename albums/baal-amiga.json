@@ -1,0 +1,62 @@
+{
+  "title": "Baal",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T02:49:32.886788+00:00",
+  "slug": "baal-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/baal-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/baal-amiga/B1.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2016-11-03T00:00:00+00:00",
+  "developers": {
+    "WJS Design": "https://downloads.khinsider.com/game-soundtracks/developer/wjs-design"
+  },
+  "publishers": {
+    "Psygnosis": "https://downloads.khinsider.com/game-soundtracks/publisher/psygnosis"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6826229,
+      "track_number": 1,
+      "title": "Intro (Frank Suck On This)",
+      "runtime": 233,
+      "source_mp3": "https://vgmsite.com/soundtracks/baal-amiga/foxsydgu/01_Intro%20%28Frank%20Suck%20On%20This%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/baal-amiga/01_Intro%2520%2528Frank%2520Suck%2520On%2520This%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1614807,
+      "track_number": 2,
+      "title": "Ending",
+      "runtime": 56,
+      "source_mp3": "https://vgmsite.com/soundtracks/baal-amiga/bbjhzyge/02_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/baal-amiga/02_Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2789212,
+      "track_number": 3,
+      "title": "Game Over",
+      "runtime": 87,
+      "source_mp3": "https://vgmsite.com/soundtracks/baal-amiga/blzbpcvr/03_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/baal-amiga/03_Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 376,
+    "filesize_mp3_bytes": 11230248,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

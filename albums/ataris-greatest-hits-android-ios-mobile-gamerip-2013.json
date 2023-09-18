@@ -1,0 +1,44 @@
+{
+  "title": "Atari's Greatest Hits",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T01:54:48.123970+00:00",
+  "slug": "ataris-greatest-hits-android-ios-mobile-gamerip-2013",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ataris-greatest-hits-android-ios-mobile-gamerip-2013",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios",
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ataris-greatest-hits-android-ios-mobile-gamerip-2013/icon.png"
+  ],
+  "year": 2013,
+  "date_added": "2023-09-11T00:00:00+00:00",
+  "developers": {
+    "Atari": "https://downloads.khinsider.com/game-soundtracks/developer/atari"
+  },
+  "publishers": {
+    "Atari": "https://downloads.khinsider.com/game-soundtracks/publisher/atari"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3575644,
+      "track_number": 1,
+      "title": "Atari Greatest Hits Menu Music",
+      "runtime": 144,
+      "source_mp3": "https://vgmsite.com/soundtracks/ataris-greatest-hits-android-ios-mobile-gamerip-2013/nxjhuxujek/01.%20Atari%20Greatest%20Hits%20Menu%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ataris-greatest-hits-android-ios-mobile-gamerip-2013/01.%2520Atari%2520Greatest%2520Hits%2520Menu%2520Music.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 144,
+    "filesize_mp3_bytes": 3575644,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

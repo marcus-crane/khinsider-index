@@ -1,0 +1,40 @@
+{
+  "title": "Banen - Single",
+  "titles_alternative": [
+    "Fire Emblem Engage"
+  ],
+  "crawled_at": "2023-09-18T03:08:56.095237+00:00",
+  "slug": "banen-single-2023",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/banen-single-2023",
+  "platforms": {
+    "Switch": "https://downloads.khinsider.com/game-soundtracks/nintendo-switch"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/banen-single-2023/Rainy-Banen.jpg"
+  ],
+  "year": 2023,
+  "date_added": "2023-03-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10223616,
+      "track_number": 1,
+      "title": "Banen",
+      "runtime": 299,
+      "source_mp3": "https://vgmsite.com/soundtracks/banen-single-2023/jkiaftwfyu/01%20Banen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/banen-single-2023/01%2520Banen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 299,
+    "filesize_mp3_bytes": 10223616,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

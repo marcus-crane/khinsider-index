@@ -1,0 +1,101 @@
+{
+  "title": "Arkanoid",
+  "titles_alternative": [
+    "\u30a2\u30eb\u30ab\u30ce\u30a4\u30c9"
+  ],
+  "crawled_at": "2023-09-18T00:56:47.756312+00:00",
+  "slug": "arkanoid-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/arkanoid-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/arkanoid-arcade/A1.jpg"
+  ],
+  "year": 1986,
+  "date_added": "2022-03-14T00:00:00+00:00",
+  "developers": {
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/developer/taito"
+  },
+  "publishers": {
+    "Romstar": "https://downloads.khinsider.com/game-soundtracks/publisher/romstar",
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/publisher/taito"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 178257,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 1,
+      "title": "Story",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/arkanoid-arcade/rzkprkxblt/01%20Story.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arkanoid-arcade/rzkprkxblt/01%20Story.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arkanoid-arcade/01%2520Story.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 125829,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 2,
+      "title": "Round Start",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/arkanoid-arcade/pedpjefxau/02%20Round%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arkanoid-arcade/pedpjefxau/02%20Round%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arkanoid-arcade/02%2520Round%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 230686,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 3,
+      "title": "Doh Round",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/arkanoid-arcade/eekimcdsft/03%20Doh%20Round.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arkanoid-arcade/eekimcdsft/03%20Doh%20Round.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arkanoid-arcade/03%2520Doh%2520Round.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1981808,
+      "filesize_mp3_bytes": 954204,
+      "track_number": 4,
+      "title": "Ending",
+      "runtime": 45,
+      "source_mp3": "https://vgmsite.com/soundtracks/arkanoid-arcade/paruxrpwgn/04%20Ending.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arkanoid-arcade/paruxrpwgn/04%20Ending.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arkanoid-arcade/04%2520Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 94371,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 5,
+      "title": "Game Over",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/arkanoid-arcade/dbicvwzqei/05%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arkanoid-arcade/dbicvwzqei/05%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arkanoid-arcade/05%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 220200,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 6,
+      "title": "Unused",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/arkanoid-arcade/jgfdqnftpq/06%20Unused.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arkanoid-arcade/jgfdqnftpq/06%20Unused.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arkanoid-arcade/06%2520Unused.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 64,
+    "filesize_mp3_bytes": 1352659,
+    "filesize_flac_bytes": 2831151,
+    "tracks": 6
+  }
+}

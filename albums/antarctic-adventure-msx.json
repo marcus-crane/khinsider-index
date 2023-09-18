@@ -1,0 +1,78 @@
+{
+  "title": "Antarctic Adventure",
+  "titles_alternative": [
+    "\u3051\u3063\u304d\u3087\u304f\u5357\u6975\u5927\u5192\u967a"
+  ],
+  "crawled_at": "2023-09-18T00:15:22.797753+00:00",
+  "slug": "antarctic-adventure-msx",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/antarctic-adventure-msx",
+  "platforms": {
+    "MSX": "https://downloads.khinsider.com/game-soundtracks/msx"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/antarctic-adventure-msx/AA.jpg"
+  ],
+  "year": 1983,
+  "date_added": "2022-03-14T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami"
+  },
+  "publishers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 230686,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 1,
+      "title": "Start Music",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/antarctic-adventure-msx/qpstavzdgf/01%20Start%20Music.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/antarctic-adventure-msx/qpstavzdgf/01%20Start%20Music.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/antarctic-adventure-msx/01%2520Start%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4718592,
+      "filesize_mp3_bytes": 1981808,
+      "track_number": 2,
+      "title": "In-Game BGM (From Waldteufel Waltz 'Skater's Waltz')",
+      "runtime": 113,
+      "source_mp3": "https://vgmsite.com/soundtracks/antarctic-adventure-msx/wksgoqtmiq/02%20In-Game%20BGM%20%28From%20Waldteufel%20Waltz%20%27Skater%27s%20Waltz%27%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/antarctic-adventure-msx/wksgoqtmiq/02%20In-Game%20BGM%20%28From%20Waldteufel%20Waltz%20%27Skater%27s%20Waltz%27%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/antarctic-adventure-msx/02%2520In-Game%2520BGM%2520%2528From%2520Waldteufel%2520Waltz%2520%2527Skater%2527s%2520Waltz%2527%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 220200,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 3,
+      "title": "Check Point Arrival",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/antarctic-adventure-msx/rkilusbuxa/03%20Check%20Point%20Arrival.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/antarctic-adventure-msx/rkilusbuxa/03%20Check%20Point%20Arrival.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/antarctic-adventure-msx/03%2520Check%2520Point%2520Arrival.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 230686,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/antarctic-adventure-msx/xzeofmytnf/04%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/antarctic-adventure-msx/xzeofmytnf/04%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/antarctic-adventure-msx/04%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 128,
+    "filesize_mp3_bytes": 2264921,
+    "filesize_flac_bytes": 5400164,
+    "tracks": 4
+  }
+}

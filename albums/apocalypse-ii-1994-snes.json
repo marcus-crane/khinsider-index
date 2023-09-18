@@ -1,0 +1,54 @@
+{
+  "title": "Apocalypse II",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T00:25:11.789818+00:00",
+  "slug": "apocalypse-ii-1994-snes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/apocalypse-ii-1994-snes",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/apocalypse-ii-1994-snes/Apocalypse%20II%20%28SNES%29%20%28gamerip%29%20%281994%29.jpg"
+  ],
+  "year": 1994,
+  "date_added": "2019-08-01T00:00:00+00:00",
+  "developers": {
+    "Psygnosis": "https://downloads.khinsider.com/game-soundtracks/developer/psygnosis"
+  },
+  "publishers": {
+    "Piko Interactive": "https://downloads.khinsider.com/game-soundtracks/publisher/piko-interactive"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 104857,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 1,
+      "title": "Intro Voice",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/apocalypse-ii-1994-snes/cghgvrmqdy/01%20Intro%20Voice.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/apocalypse-ii-1994-snes/cghgvrmqdy/01%20Intro%20Voice.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/apocalypse-ii-1994-snes/01%2520Intro%2520Voice.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 41764782,
+      "filesize_mp3_bytes": 20447232,
+      "track_number": 2,
+      "title": "Main Theme",
+      "runtime": 828,
+      "source_mp3": "https://vgmsite.com/soundtracks/apocalypse-ii-1994-snes/bzkaydubho/02%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/apocalypse-ii-1994-snes/bzkaydubho/02%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/apocalypse-ii-1994-snes/02%2520Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 834,
+    "filesize_mp3_bytes": 20520632,
+    "filesize_flac_bytes": 41869639,
+    "tracks": 2
+  }
+}

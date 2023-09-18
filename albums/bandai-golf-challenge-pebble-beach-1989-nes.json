@@ -1,0 +1,87 @@
+{
+  "title": "Bandai Golf - Challenge Pebble Beach",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T03:08:38.871704+00:00",
+  "slug": "bandai-golf-challenge-pebble-beach-1989-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/bandai-golf-challenge-pebble-beach-1989-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/bandai-golf-challenge-pebble-beach-1989-nes/B1.png"
+  ],
+  "year": 1989,
+  "date_added": "2022-03-17T00:00:00+00:00",
+  "developers": {
+    "Tose": "https://downloads.khinsider.com/game-soundtracks/developer/tose"
+  },
+  "publishers": {
+    "Bandai": "https://downloads.khinsider.com/game-soundtracks/publisher/bandai"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10569646,
+      "filesize_mp3_bytes": 3869245,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/bandai-golf-challenge-pebble-beach-1989-nes/ugnmdfergs/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bandai-golf-challenge-pebble-beach-1989-nes/ugnmdfergs/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bandai-golf-challenge-pebble-beach-1989-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8598323,
+      "filesize_mp3_bytes": 4131389,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/bandai-golf-challenge-pebble-beach-1989-nes/ajosjvhbit/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bandai-golf-challenge-pebble-beach-1989-nes/ajosjvhbit/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bandai-golf-challenge-pebble-beach-1989-nes/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 125829,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/bandai-golf-challenge-pebble-beach-1989-nes/ecxpkunlnd/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bandai-golf-challenge-pebble-beach-1989-nes/ecxpkunlnd/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bandai-golf-challenge-pebble-beach-1989-nes/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 83886,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/bandai-golf-challenge-pebble-beach-1989-nes/ksykybnvne/04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bandai-golf-challenge-pebble-beach-1989-nes/ksykybnvne/04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bandai-golf-challenge-pebble-beach-1989-nes/04.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 94371,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 5,
+      "title": "Track 5",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/bandai-golf-challenge-pebble-beach-1989-nes/dydfbiexzx/05.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bandai-golf-challenge-pebble-beach-1989-nes/dydfbiexzx/05.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bandai-golf-challenge-pebble-beach-1989-nes/05.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 368,
+    "filesize_mp3_bytes": 8136948,
+    "filesize_flac_bytes": 19472055,
+    "tracks": 5
+  }
+}

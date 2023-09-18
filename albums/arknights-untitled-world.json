@@ -1,0 +1,46 @@
+{
+  "title": "Arknights - Untitled world",
+  "titles_alternative": [
+    "Untitled world / ReoNa"
+  ],
+  "crawled_at": "2023-09-18T00:59:04.458330+00:00",
+  "slug": "arknights-untitled-world",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/arknights-untitled-world",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios",
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/arknights-untitled-world/Cover.jpg"
+  ],
+  "year": 2020,
+  "catalog_number": "VVXX-00691",
+  "date_added": "2021-07-01T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Sony Music Labels Inc.": "https://downloads.khinsider.com/game-soundtracks/publisher/sony-music-labels"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 143445196,
+      "filesize_mp3_bytes": 8451522,
+      "track_number": 1,
+      "title": "Untitled world",
+      "runtime": 248,
+      "source_mp3": "https://vgmsite.com/soundtracks/arknights-untitled-world/uskopgkggc/01.%20Untitled%20world.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arknights-untitled-world/uskopgkggc/01.%20Untitled%20world.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arknights-untitled-world/01.%2520Untitled%2520world.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 248,
+    "filesize_mp3_bytes": 8451522,
+    "filesize_flac_bytes": 143445196,
+    "tracks": 1
+  }
+}

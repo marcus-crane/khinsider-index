@@ -1,0 +1,83 @@
+{
+  "title": "BIOS",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T02:32:31.884506+00:00",
+  "slug": "bios-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/bios-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/bios-master-system/BIOS.png"
+  ],
+  "year": 1986,
+  "date_added": "2020-07-03T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 146800,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 1,
+      "title": "Sega Tune",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/bios-master-system/efwsgnxwxt/01%20-%20Sega%20Tune.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bios-master-system/efwsgnxwxt/01%20-%20Sega%20Tune.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bios-master-system/01%2520-%2520Sega%2520Tune.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1111490,
+      "filesize_mp3_bytes": 461373,
+      "track_number": 2,
+      "title": "Snail Maze",
+      "runtime": 27,
+      "source_mp3": "https://vgmsite.com/soundtracks/bios-master-system/zuflabavyz/02%20-%20Snail%20Maze.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bios-master-system/zuflabavyz/02%20-%20Snail%20Maze.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bios-master-system/02%2520-%2520Snail%2520Maze.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 125829,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 3,
+      "title": "Snail Maze - Level End",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/bios-master-system/ejqtadimnc/03%20-%20Snail%20Maze%20-%20Level%20End.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bios-master-system/ejqtadimnc/03%20-%20Snail%20Maze%20-%20Level%20End.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bios-master-system/03%2520-%2520Snail%2520Maze%2520-%2520Level%2520End.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 293601,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 4,
+      "title": "Snail Maze - Congratulations!",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/bios-master-system/bqzpdidiys/04%20-%20Snail%20Maze%20-%20Congratulations%21.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bios-master-system/bqzpdidiys/04%20-%20Snail%20Maze%20-%20Congratulations%21.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bios-master-system/04%2520-%2520Snail%2520Maze%2520-%2520Congratulations%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 24977080,
+      "filesize_mp3_bytes": 10066329,
+      "track_number": 5,
+      "title": "Space Harrier Main BGM",
+      "runtime": 495,
+      "source_mp3": "https://vgmsite.com/soundtracks/bios-master-system/ogiqpnmwqb/05%20-%20Space%20Harrier%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bios-master-system/ogiqpnmwqb/05%20-%20Space%20Harrier%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bios-master-system/05%2520-%2520Space%2520Harrier%2520Main%2520BGM.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 532,
+    "filesize_mp3_bytes": 10716445,
+    "filesize_flac_bytes": 26654800,
+    "tracks": 5
+  }
+}

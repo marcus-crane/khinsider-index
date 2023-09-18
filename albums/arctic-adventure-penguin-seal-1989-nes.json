@@ -1,0 +1,66 @@
+{
+  "title": "Arctic Adventure - Penguin & Seal (Unlicensed)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T00:51:45.687636+00:00",
+  "slug": "arctic-adventure-penguin-seal-1989-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/arctic-adventure-penguin-seal-1989-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/arctic-adventure-penguin-seal-1989-nes/Arctic%20Adventure%20-%20Penguin%20%26%20Seal.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2022-03-14T00:00:00+00:00",
+  "developers": {
+    "Sachen": "https://downloads.khinsider.com/game-soundtracks/developer/sachen"
+  },
+  "publishers": {
+    "HES": "https://downloads.khinsider.com/game-soundtracks/publisher/hes",
+    "Sachen": "https://downloads.khinsider.com/game-soundtracks/publisher/sachen"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 115343,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/arctic-adventure-penguin-seal-1989-nes/jimatqprmp/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arctic-adventure-penguin-seal-1989-nes/jimatqprmp/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arctic-adventure-penguin-seal-1989-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 618659,
+      "filesize_mp3_bytes": 188743,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/arctic-adventure-penguin-seal-1989-nes/icxbgikxvw/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arctic-adventure-penguin-seal-1989-nes/icxbgikxvw/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arctic-adventure-penguin-seal-1989-nes/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 807403,
+      "filesize_mp3_bytes": 262144,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 14,
+      "source_mp3": "https://vgmsite.com/soundtracks/arctic-adventure-penguin-seal-1989-nes/bdrwitoozh/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arctic-adventure-penguin-seal-1989-nes/bdrwitoozh/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arctic-adventure-penguin-seal-1989-nes/03.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 28,
+    "filesize_mp3_bytes": 492830,
+    "filesize_flac_bytes": 1541405,
+    "tracks": 3
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Arm Wrestling",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T01:01:54.664661+00:00",
+  "slug": "arm-wrestling-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/arm-wrestling-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/arm-wrestling-arcade/A1.jpg"
+  ],
+  "year": 1985,
+  "date_added": "2022-03-14T00:00:00+00:00",
+  "developers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/developer/nintendo"
+  },
+  "publishers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 429916,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 1,
+      "title": "Got Money Bag",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/arm-wrestling-arcade/etkqivyhff/01%20Got%20Money%20Bag.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arm-wrestling-arcade/etkqivyhff/01%20Got%20Money%20Bag.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arm-wrestling-arcade/01%2520Got%2520Money%2520Bag.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 8,
+    "filesize_mp3_bytes": 136314,
+    "filesize_flac_bytes": 429916,
+    "tracks": 1
+  }
+}

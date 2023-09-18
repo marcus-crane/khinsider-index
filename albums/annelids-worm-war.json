@@ -1,0 +1,64 @@
+{
+  "title": "Annelids: Online battle",
+  "titles_alternative": [
+    "Annelids - Worm War"
+  ],
+  "crawled_at": "2023-09-18T00:07:40.929972+00:00",
+  "slug": "annelids-worm-war",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/annelids-worm-war",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/annelids-worm-war/1.png"
+  ],
+  "year": 2013,
+  "date_added": "2020-04-30T00:00:00+00:00",
+  "developers": {
+    "Michal Srb": "https://downloads.khinsider.com/game-soundtracks/developer/michal-srb"
+  },
+  "publishers": {
+    "Michal Srb": "https://downloads.khinsider.com/game-soundtracks/publisher/michal-srb"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1006632,
+      "track_number": 1,
+      "title": "Sierra Goblins",
+      "runtime": 111,
+      "source_mp3": "https://vgmsite.com/soundtracks/annelids-worm-war/uwjtnaievi/01%20Sierra%20Goblins.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/annelids-worm-war/01%2520Sierra%2520Goblins.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1835008,
+      "track_number": 2,
+      "title": "Pathfinder",
+      "runtime": 105,
+      "source_mp3": "https://vgmsite.com/soundtracks/annelids-worm-war/kmpxzbeaun/02%20Pathfinder.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/annelids-worm-war/02%2520Pathfinder.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3753902,
+      "track_number": 3,
+      "title": "Step By Step",
+      "runtime": 246,
+      "source_mp3": "https://vgmsite.com/soundtracks/annelids-worm-war/xelunfezse/03%20Step%20By%20Step.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/annelids-worm-war/03%2520Step%2520By%2520Step.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 462,
+    "filesize_mp3_bytes": 6595542,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

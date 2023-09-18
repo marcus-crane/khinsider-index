@@ -1,0 +1,72 @@
+{
+  "title": "Atomino",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T02:12:46.619187+00:00",
+  "slug": "atomino-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/atomino-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/atomino-amiga/Atomino.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2019-06-10T00:00:00+00:00",
+  "developers": {
+    "Blue Byte": "https://downloads.khinsider.com/game-soundtracks/developer/blue-byte"
+  },
+  "publishers": {
+    "Psygnosis": "https://downloads.khinsider.com/game-soundtracks/publisher/psygnosis"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5127536,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 188,
+      "source_mp3": "https://vgmsite.com/soundtracks/atomino-amiga/rrjpqhzheh/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/atomino-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7298088,
+      "track_number": 2,
+      "title": "Mode A+B",
+      "runtime": 266,
+      "source_mp3": "https://vgmsite.com/soundtracks/atomino-amiga/oorveaifzk/02_Mode%20A%2BB.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/atomino-amiga/02_Mode%2520A%252BB.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5442109,
+      "track_number": 3,
+      "title": "Name Entry",
+      "runtime": 202,
+      "source_mp3": "https://vgmsite.com/soundtracks/atomino-amiga/oafflmlxey/03_Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/atomino-amiga/03_Name%2520Entry.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2967470,
+      "track_number": 4,
+      "title": "Unknown",
+      "runtime": 106,
+      "source_mp3": "https://vgmsite.com/soundtracks/atomino-amiga/dovatelsct/04_Unknown.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/atomino-amiga/04_Unknown.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 762,
+    "filesize_mp3_bytes": 20835203,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

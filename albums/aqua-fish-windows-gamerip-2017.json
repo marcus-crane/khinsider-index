@@ -1,0 +1,62 @@
+{
+  "title": "Aqua Fish",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T00:26:08.825009+00:00",
+  "slug": "aqua-fish-windows-gamerip-2017",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/aqua-fish-windows-gamerip-2017",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/aqua-fish-windows-gamerip-2017/header.jpg"
+  ],
+  "year": 2017,
+  "date_added": "2023-03-06T00:00:00+00:00",
+  "developers": {
+    "Starodymov": "https://downloads.khinsider.com/game-soundtracks/developer/starodymov"
+  },
+  "publishers": {
+    "Starodymov": "https://downloads.khinsider.com/game-soundtracks/publisher/starodymov"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2610954,
+      "track_number": 1,
+      "title": "Aquarium Menu",
+      "runtime": 65,
+      "source_mp3": "https://vgmsite.com/soundtracks/aqua-fish-windows-gamerip-2017/gdmhedaxva/01.%20Aquarium%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/aqua-fish-windows-gamerip-2017/01.%2520Aquarium%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6889144,
+      "track_number": 2,
+      "title": "Game Map Music",
+      "runtime": 172,
+      "source_mp3": "https://vgmsite.com/soundtracks/aqua-fish-windows-gamerip-2017/lmybdkcxad/02.%20Game%20Map%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/aqua-fish-windows-gamerip-2017/02.%2520Game%2520Map%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2139095,
+      "track_number": 3,
+      "title": "Game Music",
+      "runtime": 53,
+      "source_mp3": "https://vgmsite.com/soundtracks/aqua-fish-windows-gamerip-2017/emucclxmoi/03.%20Game%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/aqua-fish-windows-gamerip-2017/03.%2520Game%2520Music.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 290,
+    "filesize_mp3_bytes": 11639193,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

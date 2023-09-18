@@ -1,0 +1,112 @@
+{
+  "title": "Armalyte",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T01:03:22.954884+00:00",
+  "slug": "armalyte-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/armalyte-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/armalyte-amiga/A1.png"
+  ],
+  "year": 1991,
+  "date_added": "2019-04-22T00:00:00+00:00",
+  "developers": {
+    "Arc Developments": "https://downloads.khinsider.com/game-soundtracks/developer/arc-developments"
+  },
+  "publishers": {
+    "Thalamus": "https://downloads.khinsider.com/game-soundtracks/publisher/thalamus"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5557452,
+      "track_number": 1,
+      "title": "Title Screen & Ending",
+      "runtime": 197,
+      "source_mp3": "https://vgmsite.com/soundtracks/armalyte-amiga/tzeiovzv/01_Title%20Screen%20%26%20Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/armalyte-amiga/01_Title%2520Screen%2520%2526%2520Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3963617,
+      "track_number": 2,
+      "title": "Stage 1",
+      "runtime": 140,
+      "source_mp3": "https://vgmsite.com/soundtracks/armalyte-amiga/hkuxefpg/02_Stage%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/armalyte-amiga/02_Stage%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2055208,
+      "track_number": 3,
+      "title": "Boss Theme",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/armalyte-amiga/mhbcyzdo/03_Boss%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/armalyte-amiga/03_Boss%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3953131,
+      "track_number": 4,
+      "title": "Stage 2 & 5",
+      "runtime": 133,
+      "source_mp3": "https://vgmsite.com/soundtracks/armalyte-amiga/woepowbb/04_Stage%202%20%26%205.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/armalyte-amiga/04_Stage%25202%2520%2526%25205.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3995074,
+      "track_number": 5,
+      "title": "Stage 3",
+      "runtime": 133,
+      "source_mp3": "https://vgmsite.com/soundtracks/armalyte-amiga/cimzvzuj/05_Stage%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/armalyte-amiga/05_Stage%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5148508,
+      "track_number": 6,
+      "title": "Stage 4",
+      "runtime": 172,
+      "source_mp3": "https://vgmsite.com/soundtracks/armalyte-amiga/qxuxcfyd/06_Stage%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/armalyte-amiga/06_Stage%25204.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1258291,
+      "track_number": 7,
+      "title": "Name Entry",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/armalyte-amiga/kpowgcxv/07_Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/armalyte-amiga/07_Name%2520Entry.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 304087,
+      "track_number": 8,
+      "title": "Game Over",
+      "runtime": 12,
+      "source_mp3": "https://vgmsite.com/soundtracks/armalyte-amiga/pjnnrbpi/08_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/armalyte-amiga/08_Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 899,
+    "filesize_mp3_bytes": 26235368,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Autoescuela Trainer",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T02:16:03.690425+00:00",
+  "slug": "autoescuela-trainer-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/autoescuela-trainer-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/autoescuela-trainer-nds-gamerip/Autoescuela%20Trainer.jpg"
+  ],
+  "year": 2009,
+  "date_added": "2020-06-01T00:00:00+00:00",
+  "developers": {
+    "Firehazard": "https://downloads.khinsider.com/game-soundtracks/developer/firehazard"
+  },
+  "publishers": {
+    "BHV": "https://downloads.khinsider.com/game-soundtracks/publisher/bhv"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1384120,
+      "filesize_mp3_bytes": 2139095,
+      "title": "Menu",
+      "runtime": 132,
+      "source_mp3": "https://vgmsite.com/soundtracks/autoescuela-trainer-nds-gamerip/llmawegsig/Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/autoescuela-trainer-nds-gamerip/llmawegsig/Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/autoescuela-trainer-nds-gamerip/Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 734003,
+      "filesize_mp3_bytes": 996147,
+      "title": "Puzzle",
+      "runtime": 60,
+      "source_mp3": "https://vgmsite.com/soundtracks/autoescuela-trainer-nds-gamerip/wezaiqwyxm/Puzzle.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/autoescuela-trainer-nds-gamerip/wezaiqwyxm/Puzzle.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/autoescuela-trainer-nds-gamerip/Puzzle.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 192,
+    "filesize_mp3_bytes": 3135242,
+    "filesize_flac_bytes": 2118123,
+    "tracks": 2
+  }
+}

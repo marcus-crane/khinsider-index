@@ -1,0 +1,72 @@
+{
+  "title": "Bangkok Knights",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T03:09:26.775589+00:00",
+  "slug": "bangkok-knights-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/bangkok-knights-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/bangkok-knights-amiga/B1.png"
+  ],
+  "year": 1989,
+  "date_added": "2019-04-22T00:00:00+00:00",
+  "developers": {
+    "Soft Culture": "https://downloads.khinsider.com/game-soundtracks/developer/soft-culture"
+  },
+  "publishers": {
+    "Soft Culture": "https://downloads.khinsider.com/game-soundtracks/publisher/soft-culture"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5001707,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 190,
+      "source_mp3": "https://vgmsite.com/soundtracks/bangkok-knights-amiga/bbweuuiu/01_Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bangkok-knights-amiga/01_Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7602176,
+      "track_number": 2,
+      "title": "Title Screen",
+      "runtime": 230,
+      "source_mp3": "https://vgmsite.com/soundtracks/bangkok-knights-amiga/teretvfz/02_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bangkok-knights-amiga/02_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8346664,
+      "track_number": 3,
+      "title": "In-Game BGM",
+      "runtime": 255,
+      "source_mp3": "https://vgmsite.com/soundtracks/bangkok-knights-amiga/asmyjxuv/03_In-Game%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bangkok-knights-amiga/03_In-Game%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 713031,
+      "track_number": 4,
+      "title": "Ending",
+      "runtime": 21,
+      "source_mp3": "https://vgmsite.com/soundtracks/bangkok-knights-amiga/vsfqgygm/04_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bangkok-knights-amiga/04_Ending.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 696,
+    "filesize_mp3_bytes": 21663578,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

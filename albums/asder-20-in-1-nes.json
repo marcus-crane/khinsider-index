@@ -1,0 +1,47 @@
+{
+  "title": "Asder 20-in-1",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T01:15:25.037867+00:00",
+  "slug": "asder-20-in-1-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/asder-20-in-1-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/asder-20-in-1-nes/title%20screen.png"
+  ],
+  "date_added": "2021-11-11T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 660602,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 52,
+      "source_mp3": "https://vgmsite.com/soundtracks/asder-20-in-1-nes/entlkpsgbm/01%20-%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/asder-20-in-1-nes/01%2520-%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1111490,
+      "track_number": 2,
+      "title": "Game Select",
+      "runtime": 87,
+      "source_mp3": "https://vgmsite.com/soundtracks/asder-20-in-1-nes/qdxqvtbbfy/02%20-%20Game%20Select.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/asder-20-in-1-nes/02%2520-%2520Game%2520Select.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 139,
+    "filesize_mp3_bytes": 1772092,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

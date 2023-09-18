@@ -1,0 +1,67 @@
+{
+  "title": "Artist Tool",
+  "titles_alternative": [
+    "\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u30c4\u30fc\u30eb"
+  ],
+  "crawled_at": "2023-09-18T01:14:39.731828+00:00",
+  "slug": "artist-tool-turbografx-16",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/artist-tool-turbografx-16",
+  "platforms": {
+    "TurboGrafx-16": "https://downloads.khinsider.com/game-soundtracks/turbografx-16"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/artist-tool-turbografx-16/A1.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2021-06-03T00:00:00+00:00",
+  "developers": {
+    "Hudson Soft": "https://downloads.khinsider.com/game-soundtracks/developer/hudson-soft"
+  },
+  "publishers": {
+    "NEC": "https://downloads.khinsider.com/game-soundtracks/publisher/nec"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5830082,
+      "filesize_mp3_bytes": 2579496,
+      "track_number": 1,
+      "title": "BGM 1",
+      "runtime": 120,
+      "source_mp3": "https://vgmsite.com/soundtracks/artist-tool-turbografx-16/jllqhifxde/01%20BGM%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/artist-tool-turbografx-16/jllqhifxde/01%20BGM%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/artist-tool-turbografx-16/01%2520BGM%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4917821,
+      "filesize_mp3_bytes": 2202009,
+      "track_number": 2,
+      "title": "BGM 2",
+      "runtime": 114,
+      "source_mp3": "https://vgmsite.com/soundtracks/artist-tool-turbografx-16/xhqgvaygpb/02%20BGM%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/artist-tool-turbografx-16/xhqgvaygpb/02%20BGM%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/artist-tool-turbografx-16/02%2520BGM%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6773800,
+      "filesize_mp3_bytes": 2663383,
+      "track_number": 3,
+      "title": "BGM 3",
+      "runtime": 130,
+      "source_mp3": "https://vgmsite.com/soundtracks/artist-tool-turbografx-16/brfpzxbqgw/03%20BGM%203.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/artist-tool-turbografx-16/brfpzxbqgw/03%20BGM%203.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/artist-tool-turbografx-16/03%2520BGM%25203.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 364,
+    "filesize_mp3_bytes": 7444888,
+    "filesize_flac_bytes": 17521703,
+    "tracks": 3
+  }
+}

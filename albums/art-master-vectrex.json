@@ -1,0 +1,41 @@
+{
+  "title": "Art Master (Vectrex)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T01:09:47.713968+00:00",
+  "slug": "art-master-vectrex",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/art-master-vectrex",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/art-master-vectrex/Art%20Master.png"
+  ],
+  "year": 1983,
+  "date_added": "2022-03-17T00:00:00+00:00",
+  "developers": {
+    "General Consumer Electronics": "https://downloads.khinsider.com/game-soundtracks/developer/general-consumer-electronics"
+  },
+  "publishers": {
+    "General Consumer Electronics": "https://downloads.khinsider.com/game-soundtracks/publisher/general-consumer-electronics"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 125829,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/art-master-vectrex/wqgpnyihoe/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/art-master-vectrex/wqgpnyihoe/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/art-master-vectrex/01%2520Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 3,
+    "filesize_mp3_bytes": 52428,
+    "filesize_flac_bytes": 125829,
+    "tracks": 1
+  }
+}

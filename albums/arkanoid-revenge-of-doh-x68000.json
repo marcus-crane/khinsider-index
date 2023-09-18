@@ -1,0 +1,102 @@
+{
+  "title": "Arkanoid - Revenge of DOH",
+  "titles_alternative": [
+    "Arkanoid II",
+    "\u30a2\u30eb\u30ab\u30ce\u30a4\u30c9II"
+  ],
+  "crawled_at": "2023-09-18T00:57:06.054818+00:00",
+  "slug": "arkanoid-revenge-of-doh-x68000",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/arkanoid-revenge-of-doh-x68000",
+  "platforms": {
+    "X68000": "https://downloads.khinsider.com/game-soundtracks/x68000"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/arkanoid-revenge-of-doh-x68000/A1.jpg"
+  ],
+  "year": 1988,
+  "date_added": "2022-03-14T00:00:00+00:00",
+  "developers": {
+    "SPS": "https://downloads.khinsider.com/game-soundtracks/developer/sps",
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/developer/taito"
+  },
+  "publishers": {
+    "Sharp": "https://downloads.khinsider.com/game-soundtracks/publisher/sharp"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4550819,
+      "filesize_mp3_bytes": 2128609,
+      "track_number": 1,
+      "title": "Loading",
+      "runtime": 65,
+      "source_mp3": "https://vgmsite.com/soundtracks/arkanoid-revenge-of-doh-x68000/vyvfzjzmqz/01%20Loading.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arkanoid-revenge-of-doh-x68000/vyvfzjzmqz/01%20Loading.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arkanoid-revenge-of-doh-x68000/01%2520Loading.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 765460,
+      "filesize_mp3_bytes": 241172,
+      "track_number": 2,
+      "title": "Introduction",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/arkanoid-revenge-of-doh-x68000/fehgnstcaw/02%20Introduction.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arkanoid-revenge-of-doh-x68000/fehgnstcaw/02%20Introduction.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arkanoid-revenge-of-doh-x68000/02%2520Introduction.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 325058,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 3,
+      "title": "Get Ready!",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/arkanoid-revenge-of-doh-x68000/rcsfoyyvms/03%20Get%20Ready%21.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arkanoid-revenge-of-doh-x68000/rcsfoyyvms/03%20Get%20Ready%21.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arkanoid-revenge-of-doh-x68000/03%2520Get%2520Ready%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3135242,
+      "filesize_mp3_bytes": 2013265,
+      "track_number": 4,
+      "title": "DOH (Dominate Over Hour)",
+      "runtime": 67,
+      "source_mp3": "https://vgmsite.com/soundtracks/arkanoid-revenge-of-doh-x68000/ypzkckkayt/04%20DOH%20%28Dominate%20Over%20Hour%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arkanoid-revenge-of-doh-x68000/ypzkckkayt/04%20DOH%20%28Dominate%20Over%20Hour%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arkanoid-revenge-of-doh-x68000/04%2520DOH%2520%2528Dominate%2520Over%2520Hour%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2862612,
+      "filesize_mp3_bytes": 1184890,
+      "track_number": 5,
+      "title": "Ending",
+      "runtime": 35,
+      "source_mp3": "https://vgmsite.com/soundtracks/arkanoid-revenge-of-doh-x68000/xonpdgsdru/05%20Ending.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arkanoid-revenge-of-doh-x68000/xonpdgsdru/05%20Ending.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arkanoid-revenge-of-doh-x68000/05%2520Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 230686,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 6,
+      "title": "Game Over",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/arkanoid-revenge-of-doh-x68000/mrjjdcxhhy/06%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arkanoid-revenge-of-doh-x68000/mrjjdcxhhy/06%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arkanoid-revenge-of-doh-x68000/06%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 181,
+    "filesize_mp3_bytes": 5798622,
+    "filesize_flac_bytes": 11869877,
+    "tracks": 6
+  }
+}

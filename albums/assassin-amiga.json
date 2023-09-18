@@ -1,0 +1,102 @@
+{
+  "title": "Assassin",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T01:20:15.978968+00:00",
+  "slug": "assassin-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/assassin-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/assassin-amiga/Assassin-Box_Art.jpg"
+  ],
+  "year": 1992,
+  "date_added": "2017-04-05T00:00:00+00:00",
+  "developers": {
+    "Psionic Systems": "https://downloads.khinsider.com/game-soundtracks/developer/psionic-systems"
+  },
+  "publishers": {
+    "Team17": "https://downloads.khinsider.com/game-soundtracks/publisher/team17"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 482344,
+      "track_number": 1,
+      "title": "Intro Speech",
+      "runtime": 18,
+      "source_mp3": "https://vgmsite.com/soundtracks/assassin-amiga/jxgfkyef/01_Intro%20Speech.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/assassin-amiga/01_Intro%2520Speech.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7958691,
+      "track_number": 2,
+      "title": "Title Screen",
+      "runtime": 286,
+      "source_mp3": "https://vgmsite.com/soundtracks/assassin-amiga/hikrraib/02_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/assassin-amiga/02_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 3,
+      "title": "High Score (Intro)",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/assassin-amiga/pwzcnvli/03_High%20Score%20%28Intro%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/assassin-amiga/03_High%2520Score%2520%2528Intro%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3816816,
+      "track_number": 4,
+      "title": "High Score (Music)",
+      "runtime": 141,
+      "source_mp3": "https://vgmsite.com/soundtracks/assassin-amiga/zobpnhvz/04_High%20Score%20%28Music%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/assassin-amiga/04_High%2520Score%2520%2528Music%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7990149,
+      "track_number": 5,
+      "title": "Title Screen (Special Edition)",
+      "runtime": 286,
+      "source_mp3": "https://vgmsite.com/soundtracks/assassin-amiga/rucfxiry/05_Title%20Screen%20%28Special%20Edition%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/assassin-amiga/05_Title%2520Screen%2520%2528Special%2520Edition%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1698693,
+      "track_number": 6,
+      "title": "Intro Speech (Unused)",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/assassin-amiga/lmlzreti/06_Intro%20Speech%20%28Unused%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/assassin-amiga/06_Intro%2520Speech%2520%2528Unused%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1405091,
+      "track_number": 7,
+      "title": "Loading (Unused)",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/assassin-amiga/vynainji/07_Loading%20%28Unused%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/assassin-amiga/07_Loading%2520%2528Unused%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 848,
+    "filesize_mp3_bytes": 23456641,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Bangboo",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T03:09:25.650468+00:00",
+  "slug": "bangboo-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/bangboo-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/bangboo-amiga/Bangboo.png"
+  ],
+  "year": 1995,
+  "date_added": "2017-08-16T00:00:00+00:00",
+  "developers": {
+    "Millennium": "https://downloads.khinsider.com/game-soundtracks/developer/millennium"
+  },
+  "publishers": {
+    "Millennium": "https://downloads.khinsider.com/game-soundtracks/publisher/millennium"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10171187,
+      "track_number": 1,
+      "title": "Sado Goredon (Title Screen)",
+      "runtime": 363,
+      "source_mp3": "https://vgmsite.com/soundtracks/bangboo-amiga/sovgtxgm/01_Sado%20Goredon%20%28Title%20Screen%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bangboo-amiga/01_Sado%2520Goredon%2520%2528Title%2520Screen%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5253365,
+      "track_number": 2,
+      "title": "Bangboo (Menu Theme)",
+      "runtime": 188,
+      "source_mp3": "https://vgmsite.com/soundtracks/bangboo-amiga/psmheifa/02_Bangboo%20%28Menu%20Theme%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bangboo-amiga/02_Bangboo%2520%2528Menu%2520Theme%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 551,
+    "filesize_mp3_bytes": 15424552,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

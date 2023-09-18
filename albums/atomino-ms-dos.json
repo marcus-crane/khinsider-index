@@ -1,0 +1,82 @@
+{
+  "title": "Atomino",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T02:12:51.521907+00:00",
+  "slug": "atomino-ms-dos",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/atomino-ms-dos",
+  "platforms": {
+    "MS-DOS": "https://downloads.khinsider.com/game-soundtracks/ms-dos"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/atomino-ms-dos/Atomino.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2016-06-12T00:00:00+00:00",
+  "developers": {
+    "Blue Byte": "https://downloads.khinsider.com/game-soundtracks/developer/blue-byte"
+  },
+  "publishers": {
+    "Psygnosis": "https://downloads.khinsider.com/game-soundtracks/publisher/psygnosis"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5830082,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 192,
+      "source_mp3": "https://vgmsite.com/soundtracks/atomino-ms-dos/ylwgipdw/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/atomino-ms-dos/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7696547,
+      "track_number": 2,
+      "title": "Mode A+B",
+      "runtime": 251,
+      "source_mp3": "https://vgmsite.com/soundtracks/atomino-ms-dos/fhypflcg/02_Mode%20A%2BB.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/atomino-ms-dos/02_Mode%2520A%252BB.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5389680,
+      "track_number": 3,
+      "title": "Ending",
+      "runtime": 178,
+      "source_mp3": "https://vgmsite.com/soundtracks/atomino-ms-dos/xzqqwlwz/03_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/atomino-ms-dos/03_Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3219128,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 105,
+      "source_mp3": "https://vgmsite.com/soundtracks/atomino-ms-dos/bptuzybh/04_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/atomino-ms-dos/04_Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2977955,
+      "track_number": 5,
+      "title": "High Score",
+      "runtime": 99,
+      "source_mp3": "https://vgmsite.com/soundtracks/atomino-ms-dos/podxixdg/05_High%20Score.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/atomino-ms-dos/05_High%2520Score.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 825,
+    "filesize_mp3_bytes": 25113392,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

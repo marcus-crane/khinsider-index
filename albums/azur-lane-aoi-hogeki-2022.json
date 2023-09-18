@@ -1,0 +1,58 @@
+{
+  "title": "Azur Lane - Aoi Hogeki",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T02:22:13.365113+00:00",
+  "slug": "azur-lane-aoi-hogeki-2022",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/azur-lane-aoi-hogeki-2022",
+  "platforms": {
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/azur-lane-aoi-hogeki-2022/Cover.jpg"
+  ],
+  "year": 2022,
+  "date_added": "2023-04-10T00:00:00+00:00",
+  "developers": {
+    "Manjuu": "https://downloads.khinsider.com/game-soundtracks/developer/manjuu",
+    "Yongshi": "https://downloads.khinsider.com/game-soundtracks/developer/yongshi"
+  },
+  "publishers": {
+    "Inc., Bilibili": "https://downloads.khinsider.com/game-soundtracks/publisher/inc.-bilibili",
+    "X.D. Global": "https://downloads.khinsider.com/game-soundtracks/publisher/x.d.-global",
+    "Yostar": "https://downloads.khinsider.com/game-soundtracks/publisher/yostar",
+    "Yostar Limited": "https://downloads.khinsider.com/game-soundtracks/publisher/yostar-limited"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 30408704,
+      "filesize_mp3_bytes": 7864320,
+      "track_number": 1,
+      "title": "Aoi Hogeki",
+      "runtime": 232,
+      "source_mp3": "https://vgmsite.com/soundtracks/azur-lane-aoi-hogeki-2022/ttffchslkz/01.%20Aoi%20Hogeki.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/azur-lane-aoi-hogeki-2022/ttffchslkz/01.%20Aoi%20Hogeki.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/azur-lane-aoi-hogeki-2022/01.%2520Aoi%2520Hogeki.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 29926359,
+      "filesize_mp3_bytes": 7864320,
+      "track_number": 2,
+      "title": "Aoi Hogeki (Instrumental)",
+      "runtime": 230,
+      "source_mp3": "https://vgmsite.com/soundtracks/azur-lane-aoi-hogeki-2022/ropposnkfd/02.%20Aoi%20Hogeki%20%28Instrumental%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/azur-lane-aoi-hogeki-2022/ropposnkfd/02.%20Aoi%20Hogeki%20%28Instrumental%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/azur-lane-aoi-hogeki-2022/02.%2520Aoi%2520Hogeki%2520%2528Instrumental%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 462,
+    "filesize_mp3_bytes": 15728640,
+    "filesize_flac_bytes": 60335063,
+    "tracks": 2
+  }
+}

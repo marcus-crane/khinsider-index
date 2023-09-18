@@ -1,0 +1,64 @@
+{
+  "title": "Astro Marine Corps",
+  "titles_alternative": [
+    "A.M.C.: Astro Marine Corps"
+  ],
+  "crawled_at": "2023-09-18T01:52:13.649376+00:00",
+  "slug": "astro-marine-corps-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/astro-marine-corps-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/astro-marine-corps-amiga/A1.png"
+  ],
+  "year": 1990,
+  "date_added": "2019-07-08T00:00:00+00:00",
+  "developers": {
+    "Creepsoft": "https://downloads.khinsider.com/game-soundtracks/developer/creepsoft"
+  },
+  "publishers": {
+    "Dinamic": "https://downloads.khinsider.com/game-soundtracks/publisher/dinamic"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7256145,
+      "track_number": 1,
+      "title": "Title Screen  Ending",
+      "runtime": 239,
+      "source_mp3": "https://vgmsite.com/soundtracks/astro-marine-corps-amiga/lqvnyuwlfq/01_Title%20Screen%20%20Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/astro-marine-corps-amiga/01_Title%2520Screen%2520%2520Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 12624855,
+      "track_number": 2,
+      "title": "Zone 1",
+      "runtime": 427,
+      "source_mp3": "https://vgmsite.com/soundtracks/astro-marine-corps-amiga/evtzvxsxis/02_Zone%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/astro-marine-corps-amiga/02_Zone%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 16934502,
+      "track_number": 3,
+      "title": "Zone 2 & 3",
+      "runtime": 583,
+      "source_mp3": "https://vgmsite.com/soundtracks/astro-marine-corps-amiga/dysptxyyjz/03_Zone%202%20%26%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/astro-marine-corps-amiga/03_Zone%25202%2520%2526%25203.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1249,
+    "filesize_mp3_bytes": 36815502,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

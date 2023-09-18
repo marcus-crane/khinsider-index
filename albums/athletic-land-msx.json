@@ -1,0 +1,67 @@
+{
+  "title": "Athletic Land",
+  "titles_alternative": [
+    "\u308f\u3093\u3071\u304f\u30a2\u30b9\u30ec\u30c1\u30c3\u30af"
+  ],
+  "crawled_at": "2023-09-18T02:09:00.724339+00:00",
+  "slug": "athletic-land-msx",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/athletic-land-msx",
+  "platforms": {
+    "MSX": "https://downloads.khinsider.com/game-soundtracks/msx"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/athletic-land-msx/A1.jpg"
+  ],
+  "year": 1984,
+  "date_added": "2022-03-17T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami"
+  },
+  "publishers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 136314,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 1,
+      "title": "Let's Play",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/athletic-land-msx/futimxujiu/01%20Let%27s%20Play.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/athletic-land-msx/futimxujiu/01%20Let%27s%20Play.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/athletic-land-msx/01%2520Let%2527s%2520Play.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1897922,
+      "filesize_mp3_bytes": 1142947,
+      "track_number": 2,
+      "title": "Child's Play",
+      "runtime": 53,
+      "source_mp3": "https://vgmsite.com/soundtracks/athletic-land-msx/pwflnwtyyq/02%20Child%27s%20Play.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/athletic-land-msx/pwflnwtyyq/02%20Child%27s%20Play.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/athletic-land-msx/02%2520Child%2527s%2520Play.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 230686,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 3,
+      "title": "Game Over",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/athletic-land-msx/puxdujvklp/03%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/athletic-land-msx/puxdujvklp/03%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/athletic-land-msx/03%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 61,
+    "filesize_mp3_bytes": 1300232,
+    "filesize_flac_bytes": 2264922,
+    "tracks": 3
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "title": "Ballblazer",
+  "titles_alternative": [
+    "\u30dc\u30fc\u30eb\u30d6\u30ec\u30a4\u30b6\u30fc"
+  ],
+  "crawled_at": "2023-09-18T03:06:58.355163+00:00",
+  "slug": "ballblazer-1988-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ballblazer-1988-nes",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ballblazer-1988-nes/Ballblazer.jpg"
+  ],
+  "year": 1988,
+  "date_added": "2022-03-17T00:00:00+00:00",
+  "developers": {
+    "LucasArts": "https://downloads.khinsider.com/game-soundtracks/developer/lucasarts"
+  },
+  "publishers": {
+    "Pony Canyon": "https://downloads.khinsider.com/game-soundtracks/publisher/pony-canyon"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7371489,
+      "filesize_mp3_bytes": 3344957,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/ballblazer-1988-nes/xfcdqrwuyi/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ballblazer-1988-nes/xfcdqrwuyi/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ballblazer-1988-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 125829,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/ballblazer-1988-nes/lpgsbstldz/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ballblazer-1988-nes/lpgsbstldz/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ballblazer-1988-nes/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 0,
+      "filesize_mp3_bytes": 0,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/ballblazer-1988-nes/lyhtbkjomw/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ballblazer-1988-nes/lyhtbkjomw/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ballblazer-1988-nes/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 104857,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/ballblazer-1988-nes/dldqbxzscq/04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ballblazer-1988-nes/dldqbxzscq/04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ballblazer-1988-nes/04.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 62914,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 5,
+      "title": "Track 5",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/ballblazer-1988-nes/rxirnagdxg/05.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ballblazer-1988-nes/rxirnagdxg/05.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ballblazer-1988-nes/05.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 190,
+    "filesize_mp3_bytes": 3481271,
+    "filesize_flac_bytes": 7665089,
+    "tracks": 5
+  }
+}

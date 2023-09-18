@@ -1,0 +1,72 @@
+{
+  "title": "Astaroth",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T01:46:22.138087+00:00",
+  "slug": "astaroth-atari-st",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/astaroth-atari-st",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/astaroth-atari-st/261928-astaroth-the-angel-of-death-atari-st-front-cover.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2018-05-01T00:00:00+00:00",
+  "developers": {
+    "Eldritch the Cat": "https://downloads.khinsider.com/game-soundtracks/developer/eldritch-the-cat"
+  },
+  "publishers": {
+    "Hewson": "https://downloads.khinsider.com/game-soundtracks/publisher/hewson"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11502878,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 397,
+      "source_mp3": "https://vgmsite.com/soundtracks/astaroth-atari-st/dsfjeace/01_Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/astaroth-atari-st/01_Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8378122,
+      "track_number": 2,
+      "title": "Title Screen",
+      "runtime": 327,
+      "source_mp3": "https://vgmsite.com/soundtracks/astaroth-atari-st/gtomwibc/02_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/astaroth-atari-st/02_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4613734,
+      "track_number": 3,
+      "title": "BGM #1",
+      "runtime": 151,
+      "source_mp3": "https://vgmsite.com/soundtracks/astaroth-atari-st/qzkivtpo/03_BGM%20%231.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/astaroth-atari-st/03_BGM%2520%25231.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3145728,
+      "track_number": 4,
+      "title": "Ending",
+      "runtime": 136,
+      "source_mp3": "https://vgmsite.com/soundtracks/astaroth-atari-st/poizknhq/04_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/astaroth-atari-st/04_Ending.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1011,
+    "filesize_mp3_bytes": 27640462,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

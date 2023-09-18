@@ -1,0 +1,101 @@
+{
+  "title": "B.O.B.",
+  "titles_alternative": [
+    "Space Funky B.O.B.",
+    "\u30b9\u30da\u30fc\u30b9\u30d5\u30a1\u30f3\u30ad\u30fc \u30d3\u30fc\u30fb\u30aa\u30fc\u30fb\u30d3\u30fc"
+  ],
+  "crawled_at": "2023-09-18T02:24:04.559209+00:00",
+  "slug": "bob-rip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/bob-rip",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/bob-rip/B1.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2017-12-10T00:00:00+00:00",
+  "developers": {
+    "Gray Matter": "https://downloads.khinsider.com/game-soundtracks/developer/gray-matter"
+  },
+  "publishers": {
+    "EA": "https://downloads.khinsider.com/game-soundtracks/publisher/ea"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4445962,
+      "filesize_mp3_bytes": 2841640,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 71,
+      "source_mp3": "https://vgmsite.com/soundtracks/bob-rip/uprtmgev/01%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bob-rip/uprtmgev/01%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bob-rip/01%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10863247,
+      "filesize_mp3_bytes": 8566865,
+      "track_number": 2,
+      "title": "Space City",
+      "runtime": 214,
+      "source_mp3": "https://vgmsite.com/soundtracks/bob-rip/fwukepch/02%20Space%20City.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bob-rip/fwukepch/02%20Space%20City.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bob-rip/02%2520Space%2520City.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4729077,
+      "filesize_mp3_bytes": 5001707,
+      "track_number": 3,
+      "title": "Organic Life",
+      "runtime": 125,
+      "source_mp3": "https://vgmsite.com/soundtracks/bob-rip/ervgzfqz/03%20Organic%20Life.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bob-rip/ervgzfqz/03%20Organic%20Life.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bob-rip/03%2520Organic%2520Life.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7549747,
+      "filesize_mp3_bytes": 6207569,
+      "track_number": 4,
+      "title": "Boss Battle",
+      "runtime": 155,
+      "source_mp3": "https://vgmsite.com/soundtracks/bob-rip/qfaqklil/04%20Boss%20Battle.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bob-rip/qfaqklil/04%20Boss%20Battle.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bob-rip/04%2520Boss%2520Battle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10538188,
+      "filesize_mp3_bytes": 8608808,
+      "track_number": 5,
+      "title": "Techno Pyramid",
+      "runtime": 215,
+      "source_mp3": "https://vgmsite.com/soundtracks/bob-rip/rlmwkfjq/05%20Techno%20Pyramid.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bob-rip/rlmwkfjq/05%20Techno%20Pyramid.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bob-rip/05%2520Techno%2520Pyramid.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4383047,
+      "filesize_mp3_bytes": 3607101,
+      "track_number": 6,
+      "title": "Underground",
+      "runtime": 90,
+      "source_mp3": "https://vgmsite.com/soundtracks/bob-rip/hkgrendg/06%20Underground.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bob-rip/hkgrendg/06%20Underground.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bob-rip/06%2520Underground.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 870,
+    "filesize_mp3_bytes": 34833690,
+    "filesize_flac_bytes": 42509268,
+    "tracks": 6
+  }
+}

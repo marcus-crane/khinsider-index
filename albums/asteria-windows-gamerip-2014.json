@@ -1,0 +1,112 @@
+{
+  "title": "Asteria",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T01:46:34.828329+00:00",
+  "slug": "asteria-windows-gamerip-2014",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/asteria-windows-gamerip-2014",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/asteria-windows-gamerip-2014/header.jpg"
+  ],
+  "year": 2014,
+  "date_added": "2023-03-06T00:00:00+00:00",
+  "developers": {
+    "Legend Studio": "https://downloads.khinsider.com/game-soundtracks/developer/legend-studio"
+  },
+  "publishers": {
+    "Legend Studio": "https://downloads.khinsider.com/game-soundtracks/publisher/legend-studio"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2401239,
+      "track_number": 1,
+      "title": "Above Ground",
+      "runtime": 60,
+      "source_mp3": "https://vgmsite.com/soundtracks/asteria-windows-gamerip-2014/ucfcdlewaz/01.%20Above%20Ground.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/asteria-windows-gamerip-2014/01.%2520Above%2520Ground.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2306867,
+      "track_number": 2,
+      "title": "Battle",
+      "runtime": 58,
+      "source_mp3": "https://vgmsite.com/soundtracks/asteria-windows-gamerip-2014/dafrppolea/02.%20Battle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/asteria-windows-gamerip-2014/02.%2520Battle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2621440,
+      "track_number": 3,
+      "title": "Botanica",
+      "runtime": 65,
+      "source_mp3": "https://vgmsite.com/soundtracks/asteria-windows-gamerip-2014/kmxdobonez/03.%20Botanica.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/asteria-windows-gamerip-2014/03.%2520Botanica.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2558525,
+      "track_number": 4,
+      "title": "Credits",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/asteria-windows-gamerip-2014/ojbgczrhnu/04.%20Credits.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/asteria-windows-gamerip-2014/04.%2520Credits.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2642411,
+      "track_number": 5,
+      "title": "Krawnix Lair",
+      "runtime": 66,
+      "source_mp3": "https://vgmsite.com/soundtracks/asteria-windows-gamerip-2014/cjjjtvkoum/05.%20Krawnix%20Lair.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/asteria-windows-gamerip-2014/05.%2520Krawnix%2520Lair.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2432696,
+      "track_number": 6,
+      "title": "Menu & Skyrealm",
+      "runtime": 61,
+      "source_mp3": "https://vgmsite.com/soundtracks/asteria-windows-gamerip-2014/obexacezbe/06.%20Menu%20%26%20Skyrealm.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/asteria-windows-gamerip-2014/06.%2520Menu%2520%2526%2520Skyrealm.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4571791,
+      "track_number": 7,
+      "title": "Start",
+      "runtime": 114,
+      "source_mp3": "https://vgmsite.com/soundtracks/asteria-windows-gamerip-2014/etbqrxeyef/07.%20Start.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/asteria-windows-gamerip-2014/07.%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3355443,
+      "track_number": 8,
+      "title": "Underground",
+      "runtime": 84,
+      "source_mp3": "https://vgmsite.com/soundtracks/asteria-windows-gamerip-2014/wozdnmpohy/08.%20Underground.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/asteria-windows-gamerip-2014/08.%2520Underground.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 572,
+    "filesize_mp3_bytes": 22890412,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

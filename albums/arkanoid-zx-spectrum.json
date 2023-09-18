@@ -1,0 +1,71 @@
+{
+  "title": "Arkanoid",
+  "titles_alternative": [
+    "\u30a2\u30eb\u30ab\u30ce\u30a4\u30c9"
+  ],
+  "crawled_at": "2023-09-18T00:56:56.639474+00:00",
+  "slug": "arkanoid-zx-spectrum",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/arkanoid-zx-spectrum",
+  "platforms": {
+    "Spectrum": "https://downloads.khinsider.com/game-soundtracks/spectrum"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/arkanoid-zx-spectrum/coverart.jpg"
+  ],
+  "year": 1986,
+  "date_added": "2022-01-19T00:00:00+00:00",
+  "developers": {
+    "Probe": "https://downloads.khinsider.com/game-soundtracks/developer/probe",
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/developer/taito"
+  },
+  "publishers": {
+    "Imagine": "https://downloads.khinsider.com/game-soundtracks/publisher/imagine"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 314572,
+      "title": "Arkanoid Game Over",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/arkanoid-zx-spectrum/rqjcxxqyki/Arkanoid%20Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arkanoid-zx-spectrum/Arkanoid%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 545259,
+      "title": "Arkanoid History Screen",
+      "runtime": 16,
+      "source_mp3": "https://vgmsite.com/soundtracks/arkanoid-zx-spectrum/bscshpbsjt/Arkanoid%20History%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arkanoid-zx-spectrum/Arkanoid%2520History%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1258291,
+      "title": "Arkanoid Opening Screen (Main Theme) by Mark Jones",
+      "runtime": 52,
+      "source_mp3": "https://vgmsite.com/soundtracks/arkanoid-zx-spectrum/qkxwumacal/Arkanoid%20Opening%20Screen%20%28Main%20Theme%29%20by%20Mark%20Jones.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arkanoid-zx-spectrum/Arkanoid%2520Opening%2520Screen%2520%2528Main%2520Theme%2529%2520by%2520Mark%2520Jones.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 346030,
+      "title": "Arkanoid Start Game",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/arkanoid-zx-spectrum/swwlggewnb/Arkanoid%20Start%20Game.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arkanoid-zx-spectrum/Arkanoid%2520Start%2520Game.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 73,
+    "filesize_mp3_bytes": 2464152,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "title": "Aspar GP Master",
+  "titles_alternative": [
+    "Grand Prix Master"
+  ],
+  "crawled_at": "2023-09-18T01:17:55.017062+00:00",
+  "slug": "aspar-gp-master-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/aspar-gp-master-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/aspar-gp-master-commodore-64/Aspar%20GP%20Master.jpg"
+  ],
+  "year": 1988,
+  "date_added": "2016-02-04T00:00:00+00:00",
+  "developers": {
+    "Dinamic Software": "https://downloads.khinsider.com/game-soundtracks/developer/dinamic-software"
+  },
+  "publishers": {
+    "Dinamic Software": "https://downloads.khinsider.com/game-soundtracks/publisher/dinamic-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4267704,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 211,
+      "source_mp3": "https://vgmsite.com/soundtracks/aspar-gp-master-commodore-64/bzirvmrb/01_Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/aspar-gp-master-commodore-64/01_Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1153433,
+      "track_number": 2,
+      "title": "Classification",
+      "runtime": 73,
+      "source_mp3": "https://vgmsite.com/soundtracks/aspar-gp-master-commodore-64/nhlxgqub/02_Classification.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/aspar-gp-master-commodore-64/02_Classification.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 167772,
+      "track_number": 3,
+      "title": "Victory",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/aspar-gp-master-commodore-64/rxjursjf/03_Victory.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/aspar-gp-master-commodore-64/03_Victory.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 660602,
+      "track_number": 4,
+      "title": "Ending",
+      "runtime": 39,
+      "source_mp3": "https://vgmsite.com/soundtracks/aspar-gp-master-commodore-64/owkgblur/04_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/aspar-gp-master-commodore-64/04_Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8136949,
+      "track_number": 5,
+      "title": "Main Theme (SID Stereo)",
+      "runtime": 220,
+      "source_mp3": "https://vgmsite.com/soundtracks/aspar-gp-master-commodore-64/pibadfxe/05_Main%20Theme%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/aspar-gp-master-commodore-64/05_Main%2520Theme%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2181038,
+      "track_number": 6,
+      "title": "Classification (SID Stereo)",
+      "runtime": 72,
+      "source_mp3": "https://vgmsite.com/soundtracks/aspar-gp-master-commodore-64/ylzmftby/06_Classification%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/aspar-gp-master-commodore-64/06_Classification%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 293601,
+      "track_number": 7,
+      "title": "Victory (SID Stereo)",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/aspar-gp-master-commodore-64/afodmzww/07_Victory%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/aspar-gp-master-commodore-64/07_Victory%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1237319,
+      "track_number": 8,
+      "title": "Ending (SID Stereo)",
+      "runtime": 40,
+      "source_mp3": "https://vgmsite.com/soundtracks/aspar-gp-master-commodore-64/aogsulrz/08_Ending%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/aspar-gp-master-commodore-64/08_Ending%2520%2528SID%2520Stereo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 675,
+    "filesize_mp3_bytes": 18098418,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

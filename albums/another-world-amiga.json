@@ -1,0 +1,58 @@
+{
+  "title": "Another World",
+  "titles_alternative": [
+    "Out of This World",
+    "Outer World",
+    "\u30a2\u30a6\u30bf\u30fc\u30ef\u30fc\u30eb\u30c9"
+  ],
+  "crawled_at": "2023-09-18T00:14:29.624052+00:00",
+  "slug": "another-world-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/another-world-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/another-world-amiga/A1.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2016-11-03T00:00:00+00:00",
+  "developers": {
+    "Delphine Software International": "https://downloads.khinsider.com/game-soundtracks/developer/delphine-software-international",
+    "\u00c9ric Chahi": "https://downloads.khinsider.com/game-soundtracks/developer/ric-chahi",
+    "MORE": "https://downloads.khinsider.com/game-soundtracks/developer/more"
+  },
+  "publishers": {
+    "Delphine Software": "https://downloads.khinsider.com/game-soundtracks/publisher/delphine-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3439329,
+      "track_number": 1,
+      "title": "Opening",
+      "runtime": 128,
+      "source_mp3": "https://vgmsite.com/soundtracks/another-world-amiga/zpjjxaqj/01_Opening.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/another-world-amiga/01_Opening.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2726297,
+      "track_number": 2,
+      "title": "Ending",
+      "runtime": 97,
+      "source_mp3": "https://vgmsite.com/soundtracks/another-world-amiga/iltqqbch/02_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/another-world-amiga/02_Ending.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 225,
+    "filesize_mp3_bytes": 6165626,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

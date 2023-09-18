@@ -1,0 +1,91 @@
+{
+  "title": "Astro Flash, Transbot",
+  "titles_alternative": [
+    "Nuclear Creature",
+    "Transformer",
+    "\u30a2\u30b9\u30c8\u30ed\u30d5\u30e9\u30c3\u30b7\u30e5"
+  ],
+  "crawled_at": "2023-09-18T01:52:11.746755+00:00",
+  "slug": "astro-flash-transbot-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/astro-flash-transbot-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/astro-flash-transbot-master-system/Astro%20Flash%2C%20Transbot.png"
+  ],
+  "year": 1985,
+  "date_added": "2020-07-02T00:00:00+00:00",
+  "developers": {
+    "Sega R&D2": "https://downloads.khinsider.com/game-soundtracks/developer/sega-r-d2"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 943718,
+      "filesize_mp3_bytes": 377487,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 21,
+      "source_mp3": "https://vgmsite.com/soundtracks/astro-flash-transbot-master-system/tdsmwjkdou/01%20-%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/astro-flash-transbot-master-system/tdsmwjkdou/01%20-%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/astro-flash-transbot-master-system/01%2520-%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 272629,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 2,
+      "title": "Start",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/astro-flash-transbot-master-system/jtdotxupdt/02%20-%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/astro-flash-transbot-master-system/jtdotxupdt/02%20-%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/astro-flash-transbot-master-system/02%2520-%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3323985,
+      "filesize_mp3_bytes": 1111490,
+      "track_number": 3,
+      "title": "Main Theme",
+      "runtime": 66,
+      "source_mp3": "https://vgmsite.com/soundtracks/astro-flash-transbot-master-system/ppnbqfiqdx/03%20-%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/astro-flash-transbot-master-system/ppnbqfiqdx/03%20-%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/astro-flash-transbot-master-system/03%2520-%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2516582,
+      "filesize_mp3_bytes": 1342177,
+      "track_number": 4,
+      "title": "Base",
+      "runtime": 61,
+      "source_mp3": "https://vgmsite.com/soundtracks/astro-flash-transbot-master-system/ebgfchbdcy/04%20-%20Base.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/astro-flash-transbot-master-system/ebgfchbdcy/04%20-%20Base.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/astro-flash-transbot-master-system/04%2520-%2520Base.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 220200,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 5,
+      "title": "Game Over",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/astro-flash-transbot-master-system/hsquxectkx/05%20-%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/astro-flash-transbot-master-system/hsquxectkx/05%20-%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/astro-flash-transbot-master-system/05%2520-%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 157,
+    "filesize_mp3_bytes": 3019897,
+    "filesize_flac_bytes": 7277114,
+    "tracks": 5
+  }
+}

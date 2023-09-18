@@ -1,0 +1,54 @@
+{
+  "title": "Arkanoid: Space Ball",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T00:57:27.770454+00:00",
+  "slug": "arkanoid-space-ball-linux-macos-windows-gamerip-2007",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/arkanoid-space-ball-linux-macos-windows-gamerip-2007",
+  "platforms": {
+    "Linux": "https://downloads.khinsider.com/game-soundtracks/linux",
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/arkanoid-space-ball-linux-macos-windows-gamerip-2007/arkanoid-space-ball.jpg"
+  ],
+  "year": 2007,
+  "date_added": "2023-09-06T00:00:00+00:00",
+  "developers": {
+    "Wild Spike": "https://downloads.khinsider.com/game-soundtracks/developer/wild-spike"
+  },
+  "publishers": {
+    "Wild Spike": "https://downloads.khinsider.com/game-soundtracks/publisher/wild-spike"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7235174,
+      "track_number": 1,
+      "title": "Warning Forever",
+      "runtime": 181,
+      "source_mp3": "https://vgmsite.com/soundtracks/arkanoid-space-ball-linux-macos-windows-gamerip-2007/kaiyfymklq/01.%20Warning%20Forever.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arkanoid-space-ball-linux-macos-windows-gamerip-2007/01.%2520Warning%2520Forever.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7381975,
+      "track_number": 2,
+      "title": "Look at the Stars",
+      "runtime": 184,
+      "source_mp3": "https://vgmsite.com/soundtracks/arkanoid-space-ball-linux-macos-windows-gamerip-2007/antjdfwvpe/02.%20Look%20at%20the%20Stars.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arkanoid-space-ball-linux-macos-windows-gamerip-2007/02.%2520Look%2520at%2520the%2520Stars.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 365,
+    "filesize_mp3_bytes": 14617149,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

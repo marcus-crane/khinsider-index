@@ -1,0 +1,42 @@
+{
+  "title": "Back to the Golden Age",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T02:52:59.278009+00:00",
+  "slug": "back-to-the-golden-age-atari-st",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/back-to-the-golden-age-atari-st",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/back-to-the-golden-age-atari-st/Back%20to%20the%20Golden%20Age.png"
+  ],
+  "year": 1991,
+  "date_added": "2019-04-15T00:00:00+00:00",
+  "developers": {
+    "Ubisoft": "https://downloads.khinsider.com/game-soundtracks/developer/ubisoft"
+  },
+  "publishers": {
+    "Ubisoft": "https://downloads.khinsider.com/game-soundtracks/publisher/ubisoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2432696,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 80,
+      "source_mp3": "https://vgmsite.com/soundtracks/back-to-the-golden-age-atari-st/ngklxzbv/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/back-to-the-golden-age-atari-st/01_Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 80,
+    "filesize_mp3_bytes": 2432696,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

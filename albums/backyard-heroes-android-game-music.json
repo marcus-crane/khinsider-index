@@ -1,0 +1,52 @@
+{
+  "title": "Backyard Heroes (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T02:55:12.180718+00:00",
+  "slug": "backyard-heroes-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/backyard-heroes-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/backyard-heroes-android-game-music/1.png"
+  ],
+  "date_added": "2016-06-15T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1646264,
+      "title": "Backyard_Heroes_-_gameplay_music",
+      "runtime": 58,
+      "source_mp3": "https://vgmsite.com/soundtracks/backyard-heroes-android-game-music/stnpeltx/Backyard_Heroes_-_gameplay_music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/backyard-heroes-android-game-music/Backyard_Heroes_-_gameplay_music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 555745,
+      "title": "Backyard_Heroes_-_menu_music",
+      "runtime": 19,
+      "source_mp3": "https://vgmsite.com/soundtracks/backyard-heroes-android-game-music/enjwgxnu/Backyard_Heroes_-_menu_music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/backyard-heroes-android-game-music/Backyard_Heroes_-_menu_music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 167772,
+      "title": "Backyard_Heroes_-_victory_music",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/backyard-heroes-android-game-music/lakzhkac/Backyard_Heroes_-_victory_music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/backyard-heroes-android-game-music/Backyard_Heroes_-_victory_music.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 83,
+    "filesize_mp3_bytes": 2369781,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

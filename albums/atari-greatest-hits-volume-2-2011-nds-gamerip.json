@@ -1,0 +1,42 @@
+{
+  "title": "Atari Greatest Hits - Volume 2",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T01:54:38.482305+00:00",
+  "slug": "atari-greatest-hits-volume-2-2011-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/atari-greatest-hits-volume-2-2011-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/atari-greatest-hits-volume-2-2011-nds-gamerip/A1.jpg"
+  ],
+  "year": 2011,
+  "date_added": "2020-06-01T00:00:00+00:00",
+  "developers": {
+    "Code Mystics": "https://downloads.khinsider.com/game-soundtracks/developer/code-mystics"
+  },
+  "publishers": {
+    "Atari SA": "https://downloads.khinsider.com/game-soundtracks/publisher/atari-sa"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10747904,
+      "filesize_mp3_bytes": 3177185,
+      "title": "Frontend",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/atari-greatest-hits-volume-2-2011-nds-gamerip/naoduupjro/Frontend.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/atari-greatest-hits-volume-2-2011-nds-gamerip/naoduupjro/Frontend.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/atari-greatest-hits-volume-2-2011-nds-gamerip/Frontend.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 96,
+    "filesize_mp3_bytes": 3177185,
+    "filesize_flac_bytes": 10747904,
+    "tracks": 1
+  }
+}

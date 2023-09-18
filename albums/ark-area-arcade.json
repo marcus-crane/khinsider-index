@@ -1,0 +1,91 @@
+{
+  "title": "Ark Area",
+  "titles_alternative": [
+    "\u30a2\u30fc\u30af\u30a8\u30ea\u30a2"
+  ],
+  "crawled_at": "2023-09-18T00:56:33.097812+00:00",
+  "slug": "ark-area-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ark-area-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ark-area-arcade/Ark%20Area.png"
+  ],
+  "year": 1988,
+  "date_added": "2020-09-25T00:00:00+00:00",
+  "developers": {
+    "Hamster Corporation": "https://downloads.khinsider.com/game-soundtracks/developer/hamster-corporation",
+    "UPL": "https://downloads.khinsider.com/game-soundtracks/developer/upl"
+  },
+  "publishers": {
+    "Hamster Corporation": "https://downloads.khinsider.com/game-soundtracks/publisher/hamster-corporation",
+    "UPL": "https://downloads.khinsider.com/game-soundtracks/publisher/upl"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 209715,
+      "filesize_mp3_bytes": 220200,
+      "track_number": 1,
+      "title": "Credit",
+      "runtime": 13,
+      "source_mp3": "https://vgmsite.com/soundtracks/ark-area-arcade/xqnlxkkros/01%20Credit.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ark-area-arcade/xqnlxkkros/01%20Credit.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ark-area-arcade/01%2520Credit.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6249512,
+      "filesize_mp3_bytes": 3156213,
+      "track_number": 2,
+      "title": "BGM1 (Area 1, 2, 3, 4, 7, 10, 13, 14, 16)",
+      "runtime": 149,
+      "source_mp3": "https://vgmsite.com/soundtracks/ark-area-arcade/ecjjsteznf/02%20BGM1%20%28Area%201%2C%202%2C%203%2C%204%2C%207%2C%2010%2C%2013%2C%2014%2C%2016%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ark-area-arcade/ecjjsteznf/02%20BGM1%20%28Area%201%2C%202%2C%203%2C%204%2C%207%2C%2010%2C%2013%2C%2014%2C%2016%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ark-area-arcade/02%2520BGM1%2520%2528Area%25201%252C%25202%252C%25203%252C%25204%252C%25207%252C%252010%252C%252013%252C%252014%252C%252016%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3963617,
+      "filesize_mp3_bytes": 2002780,
+      "track_number": 3,
+      "title": "BGM2 (Area 5, 6, 8, 12, 17, 18, 20, 23)",
+      "runtime": 97,
+      "source_mp3": "https://vgmsite.com/soundtracks/ark-area-arcade/vzocwlvybp/03%20BGM2%20%28Area%205%2C%206%2C%208%2C%2012%2C%2017%2C%2018%2C%2020%2C%2023%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ark-area-arcade/vzocwlvybp/03%20BGM2%20%28Area%205%2C%206%2C%208%2C%2012%2C%2017%2C%2018%2C%2020%2C%2023%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ark-area-arcade/03%2520BGM2%2520%2528Area%25205%252C%25206%252C%25208%252C%252012%252C%252017%252C%252018%252C%252020%252C%252023%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3261071,
+      "filesize_mp3_bytes": 1614807,
+      "track_number": 4,
+      "title": "BGM3 (Area 9, 15, 21, 22)",
+      "runtime": 83,
+      "source_mp3": "https://vgmsite.com/soundtracks/ark-area-arcade/kyankubium/04%20BGM3%20%28Area%209%2C%2015%2C%2021%2C%2022%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ark-area-arcade/kyankubium/04%20BGM3%20%28Area%209%2C%2015%2C%2021%2C%2022%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ark-area-arcade/04%2520BGM3%2520%2528Area%25209%252C%252015%252C%252021%252C%252022%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7182745,
+      "filesize_mp3_bytes": 3533701,
+      "track_number": 5,
+      "title": "BGM4 (Area 11, 19, Ending & Ranking)",
+      "runtime": 165,
+      "source_mp3": "https://vgmsite.com/soundtracks/ark-area-arcade/vaabcywawz/05%20BGM4%20%28Area%2011%2C%2019%2C%20Ending%20%26%20Ranking%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ark-area-arcade/vaabcywawz/05%20BGM4%20%28Area%2011%2C%2019%2C%20Ending%20%26%20Ranking%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ark-area-arcade/05%2520BGM4%2520%2528Area%252011%252C%252019%252C%2520Ending%2520%2526%2520Ranking%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 507,
+    "filesize_mp3_bytes": 10527701,
+    "filesize_flac_bytes": 20866660,
+    "tracks": 5
+  }
+}
