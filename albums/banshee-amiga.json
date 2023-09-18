@@ -1,0 +1,102 @@
+{
+  "title": "Banshee",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T22:52:39.886888+00:00",
+  "slug": "banshee-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/banshee-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/banshee-amiga/B1.jpg"
+  ],
+  "year": 1994,
+  "date_added": "2019-06-10T00:00:00+00:00",
+  "developers": {
+    "Core Design": "https://downloads.khinsider.com/game-soundtracks/developer/core-design"
+  },
+  "publishers": {
+    "Core Design": "https://downloads.khinsider.com/game-soundtracks/publisher/core-design"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5043650,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 188,
+      "source_mp3": "https://vgmsite.com/soundtracks/banshee-amiga/tqsawpmidt/01_Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/banshee-amiga/01_Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7413432,
+      "track_number": 2,
+      "title": "Title Screen",
+      "runtime": 251,
+      "source_mp3": "https://vgmsite.com/soundtracks/banshee-amiga/ayjfhtqiho/02_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/banshee-amiga/02_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 870318,
+      "track_number": 3,
+      "title": "Ending",
+      "runtime": 33,
+      "source_mp3": "https://vgmsite.com/soundtracks/banshee-amiga/bcgjaebbco/03_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/banshee-amiga/03_Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2170552,
+      "track_number": 4,
+      "title": "Name Entry",
+      "runtime": 79,
+      "source_mp3": "https://vgmsite.com/soundtracks/banshee-amiga/otjjduyrrj/04_Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/banshee-amiga/04_Name%2520Entry.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6239027,
+      "track_number": 5,
+      "title": "Title Screen (CD32)",
+      "runtime": 179,
+      "source_mp3": "https://vgmsite.com/soundtracks/banshee-amiga/vyfnaeonmv/05_Title%20Screen%20%28CD32%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/banshee-amiga/05_Title%2520Screen%2520%2528CD32%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4246732,
+      "track_number": 6,
+      "title": "Name Entry (CD32)",
+      "runtime": 123,
+      "source_mp3": "https://vgmsite.com/soundtracks/banshee-amiga/rqjcqzqdlo/06_Name%20Entry%20%28CD32%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/banshee-amiga/06_Name%2520Entry%2520%2528CD32%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3743416,
+      "track_number": 7,
+      "title": "Unused (Coverdisk Demo)",
+      "runtime": 140,
+      "source_mp3": "https://vgmsite.com/soundtracks/banshee-amiga/bqyzmtahzo/07_Unused%20%28Coverdisk%20Demo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/banshee-amiga/07_Unused%2520%2528Coverdisk%2520Demo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 993,
+    "filesize_mp3_bytes": 29727127,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

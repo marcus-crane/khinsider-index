@@ -1,0 +1,52 @@
+{
+  "title": "Barcode Knight (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T22:54:27.721738+00:00",
+  "slug": "barcode-knight-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/barcode-knight-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/barcode-knight-android-game-music/1.jpg"
+  ],
+  "date_added": "2016-06-10T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1258291,
+      "title": "bgm1",
+      "runtime": 158,
+      "source_mp3": "https://vgmsite.com/soundtracks/barcode-knight-android-game-music/xjvyoxot/bgm1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/barcode-knight-android-game-music/bgm1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1551892,
+      "title": "bgm2",
+      "runtime": 65,
+      "source_mp3": "https://vgmsite.com/soundtracks/barcode-knight-android-game-music/rxowggpr/bgm2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/barcode-knight-android-game-music/bgm2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2191523,
+      "title": "bgm3",
+      "runtime": 55,
+      "source_mp3": "https://vgmsite.com/soundtracks/barcode-knight-android-game-music/lxnlakmt/bgm3.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/barcode-knight-android-game-music/bgm3.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 278,
+    "filesize_mp3_bytes": 5001706,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

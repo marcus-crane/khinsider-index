@@ -1,0 +1,40 @@
+{
+  "title": "Bara no Yume",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T22:52:49.696706+00:00",
+  "slug": "bara-no-yume-2021",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/bara-no-yume-2021",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/bara-no-yume-2021/cover.jpg"
+  ],
+  "year": 2021,
+  "date_added": "2023-05-06T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Kallionic": "https://downloads.khinsider.com/game-soundtracks/publisher/kallionic"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9510584,
+      "filesize_mp3_bytes": 2254438,
+      "title": "Bara no Yume - Kairii",
+      "runtime": 83,
+      "source_mp3": "https://vgmsite.com/soundtracks/bara-no-yume-2021/xakvxtykfv/Bara%20no%20Yume%20-%20Kairii.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bara-no-yume-2021/xakvxtykfv/Bara%20no%20Yume%20-%20Kairii.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bara-no-yume-2021/Bara%2520no%2520Yume%2520-%2520Kairii.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 83,
+    "filesize_mp3_bytes": 2254438,
+    "filesize_flac_bytes": 9510584,
+    "tracks": 1
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "title": "Baraduke",
+  "titles_alternative": [
+    "Alien Sector",
+    "\u30d0\u30e9\u30c7\u30e5\u30fc\u30af"
+  ],
+  "crawled_at": "2023-09-18T22:52:57.063193+00:00",
+  "slug": "baraduke-x68000",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/baraduke-x68000",
+  "platforms": {
+    "X68000": "https://downloads.khinsider.com/game-soundtracks/x68000"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/baraduke-x68000/Baraduke.png"
+  ],
+  "year": 1995,
+  "date_added": "2022-03-17T00:00:00+00:00",
+  "developers": {
+    "Dempa Shimbunsha": "https://downloads.khinsider.com/game-soundtracks/developer/dempa-shimbunsha",
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/developer/namco"
+  },
+  "publishers": {
+    "Micomsoft": "https://downloads.khinsider.com/game-soundtracks/publisher/micomsoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 31457,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 1,
+      "title": "Coin",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/baraduke-x68000/mpboqdgdxa/01%20Coin.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/baraduke-x68000/mpboqdgdxa/01%20Coin.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/baraduke-x68000/01%2520Coin.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 450887,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 2,
+      "title": "Game Start Sound",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/baraduke-x68000/qldcvoevmb/02%20Game%20Start%20Sound.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/baraduke-x68000/qldcvoevmb/02%20Game%20Start%20Sound.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/baraduke-x68000/02%2520Game%2520Start%2520Sound.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 136314,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 3,
+      "title": "Round Start Sound",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/baraduke-x68000/hyvynrwfhs/03%20Round%20Start%20Sound.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/baraduke-x68000/hyvynrwfhs/03%20Round%20Start%20Sound.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/baraduke-x68000/03%2520Round%2520Start%2520Sound.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2369781,
+      "filesize_mp3_bytes": 702545,
+      "track_number": 4,
+      "title": "Grand Finale Music",
+      "runtime": 37,
+      "source_mp3": "https://vgmsite.com/soundtracks/baraduke-x68000/emgpyrhahi/04%20Grand%20Finale%20Music.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/baraduke-x68000/emgpyrhahi/04%20Grand%20Finale%20Music.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/baraduke-x68000/04%2520Grand%2520Finale%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 209715,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 5,
+      "title": "Game Over Sound",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/baraduke-x68000/cgalbdnfxn/05%20Game%20Over%20Sound.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/baraduke-x68000/cgalbdnfxn/05%20Game%20Over%20Sound.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/baraduke-x68000/05%2520Game%2520Over%2520Sound.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 713031,
+      "filesize_mp3_bytes": 314572,
+      "track_number": 6,
+      "title": "Name Entry Music",
+      "runtime": 14,
+      "source_mp3": "https://vgmsite.com/soundtracks/baraduke-x68000/ftgzmfzvli/06%20Name%20Entry%20Music.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/baraduke-x68000/ftgzmfzvli/06%20Name%20Entry%20Music.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/baraduke-x68000/06%2520Name%2520Entry%2520Music.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 71,
+    "filesize_mp3_bytes": 1373631,
+    "filesize_flac_bytes": 3911185,
+    "tracks": 6
+  }
+}

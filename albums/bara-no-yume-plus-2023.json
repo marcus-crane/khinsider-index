@@ -1,0 +1,52 @@
+{
+  "title": "Bara no Yume (Plus)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T22:52:48.043718+00:00",
+  "slug": "bara-no-yume-plus-2023",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/bara-no-yume-plus-2023",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/bara-no-yume-plus-2023/cover.jpg"
+  ],
+  "year": 2023,
+  "date_added": "2023-05-06T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Kairii": "https://downloads.khinsider.com/game-soundtracks/publisher/kairii"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 24526192,
+      "filesize_mp3_bytes": 5882511,
+      "track_number": 1,
+      "title": "Bara no Yume (Plus)",
+      "runtime": 176,
+      "source_mp3": "https://vgmsite.com/soundtracks/bara-no-yume-plus-2023/tzdpgxgqcv/01.%20Bara%20no%20Yume%20%28Plus%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bara-no-yume-plus-2023/tzdpgxgqcv/01.%20Bara%20no%20Yume%20%28Plus%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bara-no-yume-plus-2023/01.%2520Bara%2520no%2520Yume%2520%2528Plus%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20384317,
+      "filesize_mp3_bytes": 5861539,
+      "track_number": 2,
+      "title": "Bara no Yume (Plus) (Instrumental)",
+      "runtime": 176,
+      "source_mp3": "https://vgmsite.com/soundtracks/bara-no-yume-plus-2023/rajluapdhc/02.%20Bara%20no%20Yume%20%28Plus%29%20%28Instrumental%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bara-no-yume-plus-2023/rajluapdhc/02.%20Bara%20no%20Yume%20%28Plus%29%20%28Instrumental%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bara-no-yume-plus-2023/02.%2520Bara%2520no%2520Yume%2520%2528Plus%2529%2520%2528Instrumental%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 352,
+    "filesize_mp3_bytes": 11744050,
+    "filesize_flac_bytes": 44910509,
+    "tracks": 2
+  }
+}

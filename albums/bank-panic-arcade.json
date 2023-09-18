@@ -1,0 +1,101 @@
+{
+  "title": "Bank Panic",
+  "titles_alternative": [
+    "\u30d0\u30f3\u30af\u30d1\u30cb\u30c3\u30af"
+  ],
+  "crawled_at": "2023-09-18T22:52:36.002878+00:00",
+  "slug": "bank-panic-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/bank-panic-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/bank-panic-arcade/B1.jpg"
+  ],
+  "year": 1984,
+  "date_added": "2022-03-24T00:00:00+00:00",
+  "developers": {
+    "Sanritsu Denki": "https://downloads.khinsider.com/game-soundtracks/developer/sanritsu-denki"
+  },
+  "publishers": {
+    "Bally Midway": "https://downloads.khinsider.com/game-soundtracks/publisher/bally-midway",
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 52428,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 1,
+      "title": "Coin",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/bank-panic-arcade/mpwxoyorwe/01%20Coin.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bank-panic-arcade/mpwxoyorwe/01%20Coin.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bank-panic-arcade/01%2520Coin.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 346030,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 2,
+      "title": "Game Start",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/bank-panic-arcade/iscrbdpjdc/02%20Game%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bank-panic-arcade/iscrbdpjdc/02%20Game%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bank-panic-arcade/02%2520Game%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4078960,
+      "filesize_mp3_bytes": 1405091,
+      "track_number": 3,
+      "title": "Main BGM",
+      "runtime": 78,
+      "source_mp3": "https://vgmsite.com/soundtracks/bank-panic-arcade/cosrcmzzmf/03%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bank-panic-arcade/cosrcmzzmf/03%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bank-panic-arcade/03%2520Main%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 335544,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 4,
+      "title": "Stage Clear",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/bank-panic-arcade/oejjxvftee/04%20Stage%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bank-panic-arcade/oejjxvftee/04%20Stage%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bank-panic-arcade/04%2520Stage%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 387973,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 5,
+      "title": "Miss",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/bank-panic-arcade/yymbyjuwlg/05%20Miss.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bank-panic-arcade/yymbyjuwlg/05%20Miss.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bank-panic-arcade/05%2520Miss.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 209715,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 6,
+      "title": "Game Over",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/bank-panic-arcade/fninvphkzt/06%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bank-panic-arcade/fninvphkzt/06%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bank-panic-arcade/06%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 102,
+    "filesize_mp3_bytes": 1866462,
+    "filesize_flac_bytes": 5410650,
+    "tracks": 6
+  }
+}
