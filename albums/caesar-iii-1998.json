@@ -1,0 +1,94 @@
+{
+  "title": "Caesar III",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T03:21:33.805976+00:00",
+  "slug": "caesar-iii-1998",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/caesar-iii-1998",
+  "platforms": {
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/caesar-iii-1998/Caesar%20III.jpg"
+  ],
+  "year": 1998,
+  "date_added": "2023-09-02T00:00:00+00:00",
+  "developers": {
+    "Impressions Games": "https://downloads.khinsider.com/game-soundtracks/developer/impressions-games"
+  },
+  "publishers": {
+    "1C Company": "https://downloads.khinsider.com/game-soundtracks/publisher/1c-company",
+    "Sierra Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/sierra-entertainment"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2076180,
+      "track_number": 1,
+      "title": "Setup",
+      "runtime": 51,
+      "source_mp3": "https://vgmsite.com/soundtracks/caesar-iii-1998/fgaabommrk/01.%20Setup.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/caesar-iii-1998/01.%2520Setup.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 14564720,
+      "track_number": 2,
+      "title": "Dirt Roads (Rome 1)",
+      "runtime": 364,
+      "source_mp3": "https://vgmsite.com/soundtracks/caesar-iii-1998/agkrtfntap/02.%20Dirt%20Roads%20%28Rome%201%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/caesar-iii-1998/02.%2520Dirt%2520Roads%2520%2528Rome%25201%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 14313062,
+      "track_number": 3,
+      "title": "Overture (Rome 2)",
+      "runtime": 357,
+      "source_mp3": "https://vgmsite.com/soundtracks/caesar-iii-1998/rnzpcbiujv/03.%20Overture%20%28Rome%202%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/caesar-iii-1998/03.%2520Overture%2520%2528Rome%25202%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 15718154,
+      "track_number": 4,
+      "title": "Hail (Rome 3)",
+      "runtime": 392,
+      "source_mp3": "https://vgmsite.com/soundtracks/caesar-iii-1998/xcrgjnksih/04.%20Hail%20%28Rome%203%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/caesar-iii-1998/04.%2520Hail%2520%2528Rome%25203%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 13872660,
+      "track_number": 5,
+      "title": "Paved Roads (Rome 4)",
+      "runtime": 346,
+      "source_mp3": "https://vgmsite.com/soundtracks/caesar-iii-1998/ubxpncvipm/05.%20Paved%20Roads%20%28Rome%204%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/caesar-iii-1998/05.%2520Paved%2520Roads%2520%2528Rome%25204%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 17154703,
+      "track_number": 6,
+      "title": "Marchis Maximus (Rome 5)",
+      "runtime": 428,
+      "source_mp3": "https://vgmsite.com/soundtracks/caesar-iii-1998/byjldwmkkz/06.%20Marchis%20Maximus%20%28Rome%205%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/caesar-iii-1998/06.%2520Marchis%2520Maximus%2520%2528Rome%25205%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1938,
+    "filesize_mp3_bytes": 77699479,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

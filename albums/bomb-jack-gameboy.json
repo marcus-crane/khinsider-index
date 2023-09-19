@@ -1,0 +1,89 @@
+{
+  "title": "Bomb Jack",
+  "titles_alternative": [
+    "\u30dc\u30f3\u30b8\u30e3\u30c3\u30af"
+  ],
+  "crawled_at": "2023-09-19T01:22:11.489283+00:00",
+  "slug": "bomb-jack-gameboy",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/bomb-jack-gameboy",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/bomb-jack-gameboy/311538_front.jpg"
+  ],
+  "year": 1992,
+  "date_added": "2022-10-10T00:00:00+00:00",
+  "developers": {
+    "Tehkan": "https://downloads.khinsider.com/game-soundtracks/developer/tehkan"
+  },
+  "publishers": {
+    "Infogrames": "https://downloads.khinsider.com/game-soundtracks/publisher/infogrames"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 51820625,
+      "filesize_mp3_bytes": 14627635,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 453,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomb-jack-gameboy/wtadagubba/01.%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bomb-jack-gameboy/wtadagubba/01.%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomb-jack-gameboy/01.%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8787066,
+      "filesize_mp3_bytes": 2663383,
+      "track_number": 2,
+      "title": "Stage BGM",
+      "runtime": 128,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomb-jack-gameboy/wtljjcbldn/02.%20Stage%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bomb-jack-gameboy/wtljjcbldn/02.%20Stage%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomb-jack-gameboy/02.%2520Stage%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 335544,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 3,
+      "title": "Stage Clear",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomb-jack-gameboy/bpfmfzdcxs/03.%20Stage%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bomb-jack-gameboy/bpfmfzdcxs/03.%20Stage%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomb-jack-gameboy/03.%2520Stage%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 828375,
+      "filesize_mp3_bytes": 272629,
+      "track_number": 4,
+      "title": "Bomb Order Bonus",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomb-jack-gameboy/bbtxhyxjfu/04.%20Bomb%20Order%20Bonus.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bomb-jack-gameboy/bbtxhyxjfu/04.%20Bomb%20Order%20Bonus.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomb-jack-gameboy/04.%2520Bomb%2520Order%2520Bonus.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20216545,
+      "filesize_mp3_bytes": 6553600,
+      "track_number": 5,
+      "title": "Game Over (The Last Sigh)",
+      "runtime": 261,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomb-jack-gameboy/pefasymmmt/05.%20Game%20Over%20%28The%20Last%20Sigh%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bomb-jack-gameboy/pefasymmmt/05.%20Game%20Over%20%28The%20Last%20Sigh%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomb-jack-gameboy/05.%2520Game%2520Over%2520%2528The%2520Last%2520Sigh%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 854,
+    "filesize_mp3_bytes": 24232590,
+    "filesize_flac_bytes": 81988155,
+    "tracks": 5
+  }
+}

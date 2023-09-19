@@ -1,0 +1,70 @@
+{
+  "title": "Battlefield Heroes",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T23:30:24.976795+00:00",
+  "slug": "battlefield-heroes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/battlefield-heroes",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/battlefield-heroes/Battlefield%20Heroes.jpg"
+  ],
+  "year": 2009,
+  "date_added": "2015-09-09T00:00:00+00:00",
+  "developers": {
+    "Dice": "https://downloads.khinsider.com/game-soundtracks/developer/dice",
+    "Easy Studios": "https://downloads.khinsider.com/game-soundtracks/developer/easy-studios"
+  },
+  "publishers": {
+    "Aeria Games": "https://downloads.khinsider.com/game-soundtracks/publisher/aeria-games",
+    "EA": "https://downloads.khinsider.com/game-soundtracks/publisher/ea"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4508876,
+      "title": "MenuSong",
+      "runtime": 113,
+      "source_mp3": "https://vgmsite.com/soundtracks/battlefield-heroes/mxcgooha/MenuSong.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battlefield-heroes/MenuSong.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7612661,
+      "title": "West_FE_Music",
+      "runtime": 190,
+      "source_mp3": "https://vgmsite.com/soundtracks/battlefield-heroes/swamgrit/West_FE_Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battlefield-heroes/West_FE_Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5295308,
+      "title": "West_Music_Flag_NA",
+      "runtime": 132,
+      "source_mp3": "https://vgmsite.com/soundtracks/battlefield-heroes/xzsjqqqv/West_Music_Flag_NA.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battlefield-heroes/West_Music_Flag_NA.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5148508,
+      "title": "West_Music_Flag_RA",
+      "runtime": 128,
+      "source_mp3": "https://vgmsite.com/soundtracks/battlefield-heroes/adlouvbk/West_Music_Flag_RA.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battlefield-heroes/West_Music_Flag_RA.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 563,
+    "filesize_mp3_bytes": 22565353,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

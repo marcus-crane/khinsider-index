@@ -1,0 +1,87 @@
+{
+  "title": "Caltron 6-in-1 - Bookyman (Unlicensed)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T03:44:25.025806+00:00",
+  "slug": "caltron-6-in-1-bookyman-1992-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/caltron-6-in-1-bookyman-1992-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/caltron-6-in-1-bookyman-1992-nes/Caltron%206-in-1%20-%20Bookyman.png"
+  ],
+  "year": 1992,
+  "date_added": "2022-03-24T00:00:00+00:00",
+  "developers": {
+    "MegaSoft": "https://downloads.khinsider.com/game-soundtracks/developer/megasoft"
+  },
+  "publishers": {
+    "Caltron": "https://downloads.khinsider.com/game-soundtracks/publisher/caltron"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 398458,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/caltron-6-in-1-bookyman-1992-nes/jctoayzbtj/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/caltron-6-in-1-bookyman-1992-nes/jctoayzbtj/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/caltron-6-in-1-bookyman-1992-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6606028,
+      "filesize_mp3_bytes": 3009413,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/caltron-6-in-1-bookyman-1992-nes/nlmhpyueck/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/caltron-6-in-1-bookyman-1992-nes/nlmhpyueck/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/caltron-6-in-1-bookyman-1992-nes/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10485,
+      "filesize_mp3_bytes": 10485,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/caltron-6-in-1-bookyman-1992-nes/voozfgmksa/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/caltron-6-in-1-bookyman-1992-nes/voozfgmksa/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/caltron-6-in-1-bookyman-1992-nes/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 104857,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/caltron-6-in-1-bookyman-1992-nes/dvukzqvbza/04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/caltron-6-in-1-bookyman-1992-nes/dvukzqvbza/04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/caltron-6-in-1-bookyman-1992-nes/04.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 136314,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 5,
+      "title": "Track 5",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/caltron-6-in-1-bookyman-1992-nes/bhqkqatgtx/05.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/caltron-6-in-1-bookyman-1992-nes/bhqkqatgtx/05.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/caltron-6-in-1-bookyman-1992-nes/05.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 196,
+    "filesize_mp3_bytes": 3271555,
+    "filesize_flac_bytes": 7256142,
+    "tracks": 5
+  }
+}

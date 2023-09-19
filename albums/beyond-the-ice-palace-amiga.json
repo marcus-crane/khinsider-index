@@ -1,0 +1,52 @@
+{
+  "title": "Beyond the Ice Palace",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T00:02:42.566882+00:00",
+  "slug": "beyond-the-ice-palace-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/beyond-the-ice-palace-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/beyond-the-ice-palace-amiga/Beyond%20the%20Ice%20Palace.png"
+  ],
+  "year": 1988,
+  "date_added": "2016-03-02T00:00:00+00:00",
+  "developers": {
+    "Elite": "https://downloads.khinsider.com/game-soundtracks/developer/elite"
+  },
+  "publishers": {
+    "Elite": "https://downloads.khinsider.com/game-soundtracks/publisher/elite"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9500098,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 304,
+      "source_mp3": "https://vgmsite.com/soundtracks/beyond-the-ice-palace-amiga/ssktmgfy/01_Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/beyond-the-ice-palace-amiga/01_Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1468006,
+      "track_number": 2,
+      "title": "Ending",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/beyond-the-ice-palace-amiga/sxzrowdw/02_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/beyond-the-ice-palace-amiga/02_Ending.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 352,
+    "filesize_mp3_bytes": 10968104,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

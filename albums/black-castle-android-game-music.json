@@ -1,0 +1,61 @@
+{
+  "title": "Black Castle (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T00:23:24.590124+00:00",
+  "slug": "black-castle-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/black-castle-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/black-castle-android-game-music/1.jpg"
+  ],
+  "date_added": "2016-06-15T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 293601,
+      "title": "back",
+      "runtime": 74,
+      "source_mp3": "https://vgmsite.com/soundtracks/black-castle-android-game-music/nlekevxl/back.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/black-castle-android-game-music/back.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 230686,
+      "title": "battle",
+      "runtime": 58,
+      "source_mp3": "https://vgmsite.com/soundtracks/black-castle-android-game-music/jzooxvvj/battle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/black-castle-android-game-music/battle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 450887,
+      "title": "camp",
+      "runtime": 112,
+      "source_mp3": "https://vgmsite.com/soundtracks/black-castle-android-game-music/ztcwjlxr/camp.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/black-castle-android-game-music/camp.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 241172,
+      "title": "cg",
+      "runtime": 61,
+      "source_mp3": "https://vgmsite.com/soundtracks/black-castle-android-game-music/gncrcbfb/cg.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/black-castle-android-game-music/cg.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 305,
+    "filesize_mp3_bytes": 1216346,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

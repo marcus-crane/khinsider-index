@@ -1,0 +1,100 @@
+{
+  "title": "Borench (System C-2)",
+  "titles_alternative": [
+    "\u30dc\u30ec\u30f3\u30c1"
+  ],
+  "crawled_at": "2023-09-19T01:44:12.580284+00:00",
+  "slug": "borench-system-c-2-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/borench-system-c-2-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/borench-system-c-2-arcade/B1.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2022-03-24T00:00:00+00:00",
+  "developers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 367001,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 1,
+      "title": "Round Select",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/borench-system-c-2-arcade/osqkabydcs/01%20Round%20Select.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/borench-system-c-2-arcade/osqkabydcs/01%20Round%20Select.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/borench-system-c-2-arcade/01%2520Round%2520Select.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8965324,
+      "filesize_mp3_bytes": 3743416,
+      "track_number": 2,
+      "title": "Main Theme",
+      "runtime": 177,
+      "source_mp3": "https://vgmsite.com/soundtracks/borench-system-c-2-arcade/vzqjdeuarz/02%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/borench-system-c-2-arcade/vzqjdeuarz/02%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/borench-system-c-2-arcade/02%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 178257,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 3,
+      "title": "Round Clear",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/borench-system-c-2-arcade/ftkhlmqsun/03%20Round%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/borench-system-c-2-arcade/ftkhlmqsun/03%20Round%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/borench-system-c-2-arcade/03%2520Round%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8315207,
+      "filesize_mp3_bytes": 2527068,
+      "track_number": 4,
+      "title": "Trouble!",
+      "runtime": 125,
+      "source_mp3": "https://vgmsite.com/soundtracks/borench-system-c-2-arcade/pzusemupvy/04%20Trouble%21.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/borench-system-c-2-arcade/pzusemupvy/04%20Trouble%21.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/borench-system-c-2-arcade/04%2520Trouble%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 73400,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 5,
+      "title": "Game Over",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/borench-system-c-2-arcade/anvbjobxbo/05%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/borench-system-c-2-arcade/anvbjobxbo/05%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/borench-system-c-2-arcade/05%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4582277,
+      "filesize_mp3_bytes": 1132462,
+      "track_number": 6,
+      "title": "Name Entry",
+      "runtime": 65,
+      "source_mp3": "https://vgmsite.com/soundtracks/borench-system-c-2-arcade/qizqcapofa/06%20Name%20Entry.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/borench-system-c-2-arcade/qizqcapofa/06%20Name%20Entry.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/borench-system-c-2-arcade/06%2520Name%2520Entry.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 379,
+    "filesize_mp3_bytes": 7644117,
+    "filesize_flac_bytes": 22481466,
+    "tracks": 6
+  }
+}

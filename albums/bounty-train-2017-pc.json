@@ -1,0 +1,88 @@
+{
+  "title": "Bounty Train",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T01:46:49.409902+00:00",
+  "slug": "bounty-train-2017-pc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/bounty-train-2017-pc",
+  "platforms": {
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/bounty-train-2017-pc/BT_1.jpg"
+  ],
+  "year": 2017,
+  "date_added": "2021-03-18T00:00:00+00:00",
+  "developers": {
+    "Corbie Games": "https://downloads.khinsider.com/game-soundtracks/developer/corbie-games"
+  },
+  "publishers": {
+    "Daedalic Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/daedalic-entertainment"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 23236444,
+      "filesize_mp3_bytes": 3984588,
+      "track_number": 1,
+      "title": "Map view",
+      "runtime": 120,
+      "source_mp3": "https://vgmsite.com/soundtracks/bounty-train-2017-pc/pyynksukcr/1.%20Map%20view.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bounty-train-2017-pc/pyynksukcr/1.%20Map%20view.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bounty-train-2017-pc/1.%2520Map%2520view.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11639193,
+      "filesize_mp3_bytes": 3323985,
+      "track_number": 2,
+      "title": "Chase",
+      "runtime": 98,
+      "source_mp3": "https://vgmsite.com/soundtracks/bounty-train-2017-pc/mgwsbaymyj/2.%20Chase.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bounty-train-2017-pc/mgwsbaymyj/2.%20Chase.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bounty-train-2017-pc/2.%2520Chase.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 30807162,
+      "filesize_mp3_bytes": 4802478,
+      "track_number": 3,
+      "title": "Driving the train",
+      "runtime": 142,
+      "source_mp3": "https://vgmsite.com/soundtracks/bounty-train-2017-pc/eouezajqde/3.%20Driving%20the%20train.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bounty-train-2017-pc/eouezajqde/3.%20Driving%20the%20train.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bounty-train-2017-pc/3.%2520Driving%2520the%2520train.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 19430113,
+      "filesize_mp3_bytes": 3250585,
+      "track_number": 4,
+      "title": "Ambush",
+      "runtime": 91,
+      "source_mp3": "https://vgmsite.com/soundtracks/bounty-train-2017-pc/evjkcsyhpz/4.%20Ambush.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bounty-train-2017-pc/evjkcsyhpz/4.%20Ambush.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bounty-train-2017-pc/4.%2520Ambush.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10643046,
+      "filesize_mp3_bytes": 2873098,
+      "track_number": 5,
+      "title": "Being in town",
+      "runtime": 88,
+      "source_mp3": "https://vgmsite.com/soundtracks/bounty-train-2017-pc/vkhvavfkux/5.%20Being%20in%20town.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bounty-train-2017-pc/vkhvavfkux/5.%20Being%20in%20town.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bounty-train-2017-pc/5.%2520Being%2520in%2520town.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 539,
+    "filesize_mp3_bytes": 18234734,
+    "filesize_flac_bytes": 95755958,
+    "tracks": 5
+  }
+}

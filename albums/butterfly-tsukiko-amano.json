@@ -1,0 +1,53 @@
+{
+  "title": "Butterfly / Tsukiko Amano",
+  "titles_alternative": [
+    "\u8776 / \u5929\u91ce\u6708\u5b50"
+  ],
+  "crawled_at": "2023-09-19T02:42:35.907156+00:00",
+  "slug": "butterfly-tsukiko-amano",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/butterfly-tsukiko-amano",
+  "platforms": {
+    "PS2": "https://downloads.khinsider.com/game-soundtracks/playstation-2"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/butterfly-tsukiko-amano/Butterfly%20-%20Tsukiko%20Amano.jpg"
+  ],
+  "year": 2003,
+  "catalog_number": "PCCA-70051",
+  "date_added": "2006-11-17T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Pony Canyon": "https://downloads.khinsider.com/game-soundtracks/publisher/pony-canyon"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8724152,
+      "track_number": 1,
+      "title": "butterfly",
+      "runtime": 352,
+      "source_mp3": "https://vgmsite.com/soundtracks/butterfly-tsukiko-amano/olcyrmgf/01%20butterfly.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/butterfly-tsukiko-amano/01%2520butterfly.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6406799,
+      "track_number": 2,
+      "title": "elephant",
+      "runtime": 262,
+      "source_mp3": "https://vgmsite.com/soundtracks/butterfly-tsukiko-amano/rlolvssl/02%20elephant.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/butterfly-tsukiko-amano/02%2520elephant.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 614,
+    "filesize_mp3_bytes": 15130951,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

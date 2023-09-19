@@ -1,0 +1,50 @@
+{
+  "title": "Battlezone (XBLA)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T23:34:38.001774+00:00",
+  "slug": "battlezone-xbla-2008-x360-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/battlezone-xbla-2008-x360-gamerip",
+  "platforms": {
+    "Xbox 360": "https://downloads.khinsider.com/game-soundtracks/xbox-360"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/battlezone-xbla-2008-x360-gamerip/Battlezone%20%28XBLA%29.jpg"
+  ],
+  "year": 2008,
+  "date_added": "2020-06-13T00:00:00+00:00",
+  "developers": {
+    "Stainless Games": "https://downloads.khinsider.com/game-soundtracks/developer/stainless-games"
+  },
+  "publishers": {
+    "Atari": "https://downloads.khinsider.com/game-soundtracks/publisher/atari"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3837788,
+      "title": "Front End",
+      "runtime": 120,
+      "source_mp3": "https://vgmsite.com/soundtracks/battlezone-xbla-2008-x360-gamerip/qjackxizlc/Front%20End.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battlezone-xbla-2008-x360-gamerip/Front%2520End.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9080668,
+      "title": "In Game",
+      "runtime": 288,
+      "source_mp3": "https://vgmsite.com/soundtracks/battlezone-xbla-2008-x360-gamerip/rbjvmozegf/In%20Game.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battlezone-xbla-2008-x360-gamerip/In%2520Game.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 408,
+    "filesize_mp3_bytes": 12918456,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

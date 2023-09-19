@@ -1,0 +1,103 @@
+{
+  "title": "BurgerTime",
+  "titles_alternative": [
+    "Hamburger",
+    "\u30cf\u30f3\u30d0\u30fc\u30ac\u30fc"
+  ],
+  "crawled_at": "2023-09-19T02:34:15.456693+00:00",
+  "slug": "burgertime",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/burgertime",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/burgertime/coverart.jpg"
+  ],
+  "year": 1985,
+  "date_added": "2022-03-31T00:00:00+00:00",
+  "developers": {
+    "Data East": "https://downloads.khinsider.com/game-soundtracks/developer/data-east"
+  },
+  "publishers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/publisher/namco",
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 167772,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 1,
+      "title": "Start",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/burgertime/zrrgupijxy/01%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/burgertime/zrrgupijxy/01%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/burgertime/01%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1373634,
+      "filesize_mp3_bytes": 545259,
+      "track_number": 2,
+      "title": "Game Music",
+      "runtime": 32,
+      "source_mp3": "https://vgmsite.com/soundtracks/burgertime/skedpgojml/02%20Game%20Music.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/burgertime/skedpgojml/02%20Game%20Music.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/burgertime/02%2520Game%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 167772,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 3,
+      "title": "Level End",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/burgertime/zxshzsdvto/03%20Level%20End.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/burgertime/zxshzsdvto/03%20Level%20End.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/burgertime/03%2520Level%2520End.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 94371,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 4,
+      "title": "Lose Life",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/burgertime/gtqyworbpz/04%20Lose%20Life.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/burgertime/gtqyworbpz/04%20Lose%20Life.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/burgertime/04%2520Lose%2520Life.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 31457,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 5,
+      "title": "Pause, Item Appears",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/burgertime/erkxlfoged/05%20Pause%2C%20Item%20Appears.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/burgertime/erkxlfoged/05%20Pause%2C%20Item%20Appears.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/burgertime/05%2520Pause%252C%2520Item%2520Appears.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 52428,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 6,
+      "title": "Bonus",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/burgertime/eraxsqbiea/06%20Bonus.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/burgertime/eraxsqbiea/06%20Bonus.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/burgertime/06%2520Bonus.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 46,
+    "filesize_mp3_bytes": 734000,
+    "filesize_flac_bytes": 1887434,
+    "tracks": 6
+  }
+}

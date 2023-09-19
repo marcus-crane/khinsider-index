@@ -1,0 +1,64 @@
+{
+  "title": "Battletoads (Prototype)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T23:33:04.404481+00:00",
+  "slug": "battletoads-gba",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/battletoads-gba",
+  "platforms": {
+    "GBA": "https://downloads.khinsider.com/game-soundtracks/gameboy-advance"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/battletoads-gba/Battletoads.png"
+  ],
+  "date_added": "2021-06-13T00:00:00+00:00",
+  "developers": {
+    "Rare": "https://downloads.khinsider.com/game-soundtracks/developer/rare"
+  },
+  "publishers": {
+    "Rare": "https://downloads.khinsider.com/game-soundtracks/publisher/rare"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 15802040,
+      "filesize_mp3_bytes": 5525995,
+      "track_number": 1,
+      "title": "Exploration",
+      "runtime": 277,
+      "source_mp3": "https://vgmsite.com/soundtracks/battletoads-gba/bexbggtnde/01.%20Exploration.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/battletoads-gba/bexbggtnde/01.%20Exploration.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battletoads-gba/01.%2520Exploration.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4204789,
+      "filesize_mp3_bytes": 1478492,
+      "track_number": 2,
+      "title": "Fight",
+      "runtime": 72,
+      "source_mp3": "https://vgmsite.com/soundtracks/battletoads-gba/fyuhbcdqxu/02.%20Fight.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/battletoads-gba/fyuhbcdqxu/02.%20Fight.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battletoads-gba/02.%2520Fight.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9101639,
+      "filesize_mp3_bytes": 3114270,
+      "track_number": 3,
+      "title": "Unused",
+      "runtime": 157,
+      "source_mp3": "https://vgmsite.com/soundtracks/battletoads-gba/zhyltgxhed/03.%20Unused.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/battletoads-gba/zhyltgxhed/03.%20Unused.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battletoads-gba/03.%2520Unused.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 506,
+    "filesize_mp3_bytes": 10118757,
+    "filesize_flac_bytes": 29108468,
+    "tracks": 3
+  }
+}

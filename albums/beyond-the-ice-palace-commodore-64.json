@@ -1,0 +1,72 @@
+{
+  "title": "Beyond the Ice Palace",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T00:02:43.767467+00:00",
+  "slug": "beyond-the-ice-palace-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/beyond-the-ice-palace-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/beyond-the-ice-palace-commodore-64/B1.jpg"
+  ],
+  "year": 1988,
+  "date_added": "2016-03-02T00:00:00+00:00",
+  "developers": {
+    "Elite": "https://downloads.khinsider.com/game-soundtracks/developer/elite"
+  },
+  "publishers": {
+    "Elite": "https://downloads.khinsider.com/game-soundtracks/publisher/elite"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5305794,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 293,
+      "source_mp3": "https://vgmsite.com/soundtracks/beyond-the-ice-palace-commodore-64/vvmbkmcw/01_Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/beyond-the-ice-palace-commodore-64/01_Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1184890,
+      "track_number": 2,
+      "title": "Ending",
+      "runtime": 55,
+      "source_mp3": "https://vgmsite.com/soundtracks/beyond-the-ice-palace-commodore-64/vhgxnduv/02_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/beyond-the-ice-palace-commodore-64/02_Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5442109,
+      "track_number": 3,
+      "title": "Main Theme (SID Stereo)",
+      "runtime": 176,
+      "source_mp3": "https://vgmsite.com/soundtracks/beyond-the-ice-palace-commodore-64/sjtsjvzw/03_Main%20Theme%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/beyond-the-ice-palace-commodore-64/03_Main%2520Theme%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2390753,
+      "track_number": 4,
+      "title": "Ending (SID Stereo)",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/beyond-the-ice-palace-commodore-64/daqcjqtn/04_Ending%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/beyond-the-ice-palace-commodore-64/04_Ending%2520%2528SID%2520Stereo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 588,
+    "filesize_mp3_bytes": 14323546,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

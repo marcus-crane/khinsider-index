@@ -1,0 +1,126 @@
+{
+  "title": "Caesar III",
+  "titles_alternative": [
+    "\u0426\u0435\u0437\u0430\u0440\u044c III"
+  ],
+  "crawled_at": "2023-09-19T03:21:30.504915+00:00",
+  "slug": "caesar-iii",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/caesar-iii",
+  "platforms": {
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/caesar-iii/Caesar%20III.jpg"
+  ],
+  "year": 1998,
+  "date_added": "2020-05-23T00:00:00+00:00",
+  "developers": {
+    "Impressions Games": "https://downloads.khinsider.com/game-soundtracks/developer/impressions-games"
+  },
+  "publishers": {
+    "1C Company": "https://downloads.khinsider.com/game-soundtracks/publisher/1c-company",
+    "Sierra Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/sierra-entertainment"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 408944,
+      "track_number": 1,
+      "title": "Setup",
+      "runtime": 51,
+      "source_mp3": "https://vgmsite.com/soundtracks/caesar-iii/tneaerrjox/01.%20Setup.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/caesar-iii/01.%2520Setup.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2002780,
+      "track_number": 2,
+      "title": "Rome 1",
+      "runtime": 251,
+      "source_mp3": "https://vgmsite.com/soundtracks/caesar-iii/yevoczlqcq/02.%20Rome%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/caesar-iii/02.%2520Rome%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2862612,
+      "track_number": 3,
+      "title": "Rome 2",
+      "runtime": 358,
+      "source_mp3": "https://vgmsite.com/soundtracks/caesar-iii/zxvmpcqlsf/03.%20Rome%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/caesar-iii/03.%2520Rome%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3135242,
+      "track_number": 4,
+      "title": "Rome 3",
+      "runtime": 392,
+      "source_mp3": "https://vgmsite.com/soundtracks/caesar-iii/ywyirvicqo/04.%20Rome%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/caesar-iii/04.%2520Rome%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2915041,
+      "track_number": 5,
+      "title": "Rome 4",
+      "runtime": 364,
+      "source_mp3": "https://vgmsite.com/soundtracks/caesar-iii/lhfztijuud/05.%20Rome%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/caesar-iii/05.%2520Rome%25204.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3439329,
+      "track_number": 6,
+      "title": "Rome 5",
+      "runtime": 431,
+      "source_mp3": "https://vgmsite.com/soundtracks/caesar-iii/hmkewglayn/06.%20Rome%205.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/caesar-iii/06.%2520Rome%25205.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 471859,
+      "track_number": 7,
+      "title": "Combat Short",
+      "runtime": 59,
+      "source_mp3": "https://vgmsite.com/soundtracks/caesar-iii/oormwltsco/07.%20Combat%20Short.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/caesar-iii/07.%2520Combat%2520Short.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1593835,
+      "track_number": 8,
+      "title": "Combat Long",
+      "runtime": 199,
+      "source_mp3": "https://vgmsite.com/soundtracks/caesar-iii/zbleehpezx/08.%20Combat%20Long.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/caesar-iii/08.%2520Combat%2520Long.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 513802,
+      "track_number": 9,
+      "title": "Win Assignment",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/caesar-iii/eazmzcmriz/09.%20Win%20Assignment.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/caesar-iii/09.%2520Win%2520Assignment.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2169,
+    "filesize_mp3_bytes": 17343444,
+    "filesize_flac_bytes": 0,
+    "tracks": 9
+  }
+}

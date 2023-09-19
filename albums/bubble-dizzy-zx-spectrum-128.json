@@ -1,0 +1,54 @@
+{
+  "title": "Bubble Dizzy (ZX Spectrum 128)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T02:19:11.797860+00:00",
+  "slug": "bubble-dizzy-zx-spectrum-128",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/bubble-dizzy-zx-spectrum-128",
+  "platforms": {
+    "Spectrum": "https://downloads.khinsider.com/game-soundtracks/spectrum"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/bubble-dizzy-zx-spectrum-128/Bubble%20Dizzy.png"
+  ],
+  "year": 1991,
+  "date_added": "2022-03-24T00:00:00+00:00",
+  "developers": {
+    "W.A.S.P.": "https://downloads.khinsider.com/game-soundtracks/developer/w.a.s.p"
+  },
+  "publishers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/publisher/codemasters"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 15812526,
+      "filesize_mp3_bytes": 6291456,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 291,
+      "source_mp3": "https://vgmsite.com/soundtracks/bubble-dizzy-zx-spectrum-128/xtlvfoshrb/01%20Title.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bubble-dizzy-zx-spectrum-128/xtlvfoshrb/01%20Title.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bubble-dizzy-zx-spectrum-128/01%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11418992,
+      "filesize_mp3_bytes": 4529848,
+      "track_number": 2,
+      "title": "In-Game",
+      "runtime": 209,
+      "source_mp3": "https://vgmsite.com/soundtracks/bubble-dizzy-zx-spectrum-128/bvefbtpift/02%20In-Game.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bubble-dizzy-zx-spectrum-128/bvefbtpift/02%20In-Game.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bubble-dizzy-zx-spectrum-128/02%2520In-Game.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 500,
+    "filesize_mp3_bytes": 10821304,
+    "filesize_flac_bytes": 27231518,
+    "tracks": 2
+  }
+}

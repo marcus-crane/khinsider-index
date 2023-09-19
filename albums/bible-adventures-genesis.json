@@ -1,0 +1,87 @@
+{
+  "title": "Bible Adventures",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T00:04:31.734940+00:00",
+  "slug": "bible-adventures-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/bible-adventures-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/bible-adventures-genesis/Bible%20Adventures.png"
+  ],
+  "year": 1995,
+  "date_added": "2020-03-02T00:00:00+00:00",
+  "developers": {
+    "Wisdom Tree": "https://downloads.khinsider.com/game-soundtracks/developer/wisdom-tree"
+  },
+  "publishers": {
+    "Wisdom Tree": "https://downloads.khinsider.com/game-soundtracks/publisher/wisdom-tree"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1583349,
+      "filesize_mp3_bytes": 901775,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/bible-adventures-genesis/ctyhbzxnha/01%20-%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bible-adventures-genesis/ctyhbzxnha/01%20-%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bible-adventures-genesis/01%2520-%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2495610,
+      "filesize_mp3_bytes": 1509949,
+      "track_number": 2,
+      "title": "Stage Theme",
+      "runtime": 87,
+      "source_mp3": "https://vgmsite.com/soundtracks/bible-adventures-genesis/fnfkannmes/02%20-%20Stage%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bible-adventures-genesis/fnfkannmes/02%20-%20Stage%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bible-adventures-genesis/02%2520-%2520Stage%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 146800,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 3,
+      "title": "Death Theme",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/bible-adventures-genesis/xjcjfiiqbb/03%20-%20Death%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bible-adventures-genesis/xjcjfiiqbb/03%20-%20Death%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bible-adventures-genesis/03%2520-%2520Death%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 146800,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 4,
+      "title": "Stage Clear",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/bible-adventures-genesis/eozvsejaon/04%20-%20Stage%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bible-adventures-genesis/eozvsejaon/04%20-%20Stage%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bible-adventures-genesis/04%2520-%2520Stage%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2516582,
+      "filesize_mp3_bytes": 1509949,
+      "track_number": 5,
+      "title": "Ending Theme",
+      "runtime": 78,
+      "source_mp3": "https://vgmsite.com/soundtracks/bible-adventures-genesis/skposfefyl/05%20-%20Ending%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bible-adventures-genesis/skposfefyl/05%20-%20Ending%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bible-adventures-genesis/05%2520-%2520Ending%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 221,
+    "filesize_mp3_bytes": 4099930,
+    "filesize_flac_bytes": 6889141,
+    "tracks": 5
+  }
+}

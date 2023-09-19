@@ -1,0 +1,62 @@
+{
+  "title": "Bushido (INDER Pinball)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T02:39:21.608643+00:00",
+  "slug": "bushido-inder-pinball-soundtrack",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/bushido-inder-pinball-soundtrack",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/bushido-inder-pinball-soundtrack/bushido-fp3762.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2020-05-24T00:00:00+00:00",
+  "developers": {
+    "INDER": "https://downloads.khinsider.com/game-soundtracks/developer/inder"
+  },
+  "publishers": {
+    "INDER": "https://downloads.khinsider.com/game-soundtracks/publisher/inder"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6658457,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 166,
+      "source_mp3": "https://vgmsite.com/soundtracks/bushido-inder-pinball-soundtrack/fwpatgxwhn/01%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bushido-inder-pinball-soundtrack/01%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 2,
+      "title": "End Of Ball Bonus",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/bushido-inder-pinball-soundtrack/epqsjcbxvy/02%20End%20Of%20Ball%20Bonus.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bushido-inder-pinball-soundtrack/02%2520End%2520Of%2520Ball%2520Bonus.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 356515,
+      "track_number": 3,
+      "title": "Match",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/bushido-inder-pinball-soundtrack/xbwkrwvnqc/03%20Match.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bushido-inder-pinball-soundtrack/03%2520Match.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 176,
+    "filesize_mp3_bytes": 7130315,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

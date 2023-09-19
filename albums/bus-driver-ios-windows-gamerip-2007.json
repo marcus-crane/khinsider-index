@@ -1,0 +1,59 @@
+{
+  "title": "Bus Driver",
+  "titles_alternative": [
+    "Bus Driver Gold",
+    "Bus Driver: Pocket Edition"
+  ],
+  "crawled_at": "2023-09-19T02:38:49.239858+00:00",
+  "slug": "bus-driver-ios-windows-gamerip-2007",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/bus-driver-ios-windows-gamerip-2007",
+  "platforms": {
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios",
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/bus-driver-ios-windows-gamerip-2007/Bus_Driver_01.jpg"
+  ],
+  "year": 2007,
+  "date_added": "2023-03-16T00:00:00+00:00",
+  "developers": {
+    "SCS Software": "https://downloads.khinsider.com/game-soundtracks/developer/scs-software"
+  },
+  "publishers": {
+    "Akella": "https://downloads.khinsider.com/game-soundtracks/publisher/akella",
+    "Meridian4": "https://downloads.khinsider.com/game-soundtracks/publisher/meridian4",
+    "SCS Software": "https://downloads.khinsider.com/game-soundtracks/publisher/scs-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4120903,
+      "track_number": 1,
+      "title": "Intro Music",
+      "runtime": 133,
+      "source_mp3": "https://vgmsite.com/soundtracks/bus-driver-ios-windows-gamerip-2007/twjlofzmku/01.%20Intro%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bus-driver-ios-windows-gamerip-2007/01.%2520Intro%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2443182,
+      "track_number": 2,
+      "title": "Menu Music",
+      "runtime": 76,
+      "source_mp3": "https://vgmsite.com/soundtracks/bus-driver-ios-windows-gamerip-2007/xmyhekwshf/02.%20Menu%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bus-driver-ios-windows-gamerip-2007/02.%2520Menu%2520Music.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 209,
+    "filesize_mp3_bytes": 6564085,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

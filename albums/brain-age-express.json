@@ -1,0 +1,101 @@
+{
+  "title": "Brain Age Express: Math (DSiWare)",
+  "titles_alternative": [
+    "A Little Bit of... Dr Kawashima's Brain Training",
+    "\u6771\u5317\u5927\u5b66\u52a0\u9f62\u533b\u5b66\u7814\u7a76\u6240\u5ddd\u5cf6\u9686\u592a\u6559\u6388\u76e3\u4fee \u3061\u3087\u3063\u3068\u8133\u3092\u935b\u3048\u308b\u5927\u4eba\u306eDSi\u30c8\u30ec\u30fc\u30cb\u30f3\u30b0"
+  ],
+  "crawled_at": "2023-09-19T01:49:28.361655+00:00",
+  "slug": "brain-age-express",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/brain-age-express",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/brain-age-express/brain-age-express-cover.jpg"
+  ],
+  "year": 2008,
+  "date_added": "2021-01-07T00:00:00+00:00",
+  "developers": {
+    "Nintendo System Development": "https://downloads.khinsider.com/game-soundtracks/developer/nintendo-system-development"
+  },
+  "publishers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5117050,
+      "filesize_mp3_bytes": 1761607,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 54,
+      "source_mp3": "https://vgmsite.com/soundtracks/brain-age-express/xelyiozjfg/01%20Title.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/brain-age-express/xelyiozjfg/01%20Title.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/brain-age-express/01%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3869245,
+      "filesize_mp3_bytes": 1258291,
+      "track_number": 2,
+      "title": "Main Menu",
+      "runtime": 41,
+      "source_mp3": "https://vgmsite.com/soundtracks/brain-age-express/fpmqafetjd/02%20Main%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/brain-age-express/fpmqafetjd/02%20Main%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/brain-age-express/02%2520Main%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8870952,
+      "filesize_mp3_bytes": 2936012,
+      "track_number": 3,
+      "title": "Guest Menu",
+      "runtime": 97,
+      "source_mp3": "https://vgmsite.com/soundtracks/brain-age-express/jcmlrpsvrl/03%20Guest%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/brain-age-express/jcmlrpsvrl/03%20Guest%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/brain-age-express/03%2520Guest%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2044723,
+      "filesize_mp3_bytes": 618659,
+      "track_number": 4,
+      "title": "Theme Albums",
+      "runtime": 22,
+      "source_mp3": "https://vgmsite.com/soundtracks/brain-age-express/xyuhdlirvd/04%20Theme%20Albums.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/brain-age-express/xyuhdlirvd/04%20Theme%20Albums.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/brain-age-express/04%2520Theme%2520Albums.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 13977518,
+      "filesize_mp3_bytes": 3701473,
+      "track_number": 5,
+      "title": "Slideshow",
+      "runtime": 121,
+      "source_mp3": "https://vgmsite.com/soundtracks/brain-age-express/etcfxksajg/05%20Slideshow.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/brain-age-express/etcfxksajg/05%20Slideshow.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/brain-age-express/05%2520Slideshow.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9615441,
+      "filesize_mp3_bytes": 2862612,
+      "track_number": 6,
+      "title": "Staff Credits",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/brain-age-express/ewbcrjcqjl/06%20Staff%20Credits.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/brain-age-express/ewbcrjcqjl/06%20Staff%20Credits.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/brain-age-express/06%2520Staff%2520Credits.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 431,
+    "filesize_mp3_bytes": 13138654,
+    "filesize_flac_bytes": 43494929,
+    "tracks": 6
+  }
+}

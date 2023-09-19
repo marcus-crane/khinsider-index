@@ -1,0 +1,116 @@
+{
+  "title": "Battlecorps (SCD)",
+  "titles_alternative": [
+    "\u30d0\u30c8\u30eb\u30b3\u30fc\u30d7\u30b9"
+  ],
+  "crawled_at": "2023-09-18T23:26:58.223192+00:00",
+  "slug": "battlecorps-scd",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/battlecorps-scd",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/battlecorps-scd/cover.jpg"
+  ],
+  "year": 1994,
+  "date_added": "2006-11-12T00:00:00+00:00",
+  "developers": {
+    "Core Design": "https://downloads.khinsider.com/game-soundtracks/developer/core-design"
+  },
+  "publishers": {
+    "Core Design": "https://downloads.khinsider.com/game-soundtracks/publisher/core-design",
+    "Time Warner": "https://downloads.khinsider.com/game-soundtracks/publisher/time-warner",
+    "Victor": "https://downloads.khinsider.com/game-soundtracks/publisher/victor"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 15120465,
+      "track_number": 1,
+      "title": "introduction",
+      "runtime": 378,
+      "source_mp3": "https://vgmsite.com/soundtracks/battlecorps-scd/rihxqskc/01%20-%20introduction.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battlecorps-scd/01%2520-%2520introduction.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6197084,
+      "track_number": 2,
+      "title": "lava sector ~ ice sector",
+      "runtime": 300,
+      "source_mp3": "https://vgmsite.com/soundtracks/battlecorps-scd/pjxsdouc/02%20-%20lava%20sector%20~%20ice%20sector.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battlecorps-scd/02%2520-%2520lava%2520sector%2520~%2520ice%2520sector.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6291456,
+      "track_number": 3,
+      "title": "underground sector",
+      "runtime": 330,
+      "source_mp3": "https://vgmsite.com/soundtracks/battlecorps-scd/zqqpjebu/03%20-%20underground%20sector.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battlecorps-scd/03%2520-%2520underground%2520sector.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6480199,
+      "track_number": 4,
+      "title": "steel sewer sector ~ credits",
+      "runtime": 318,
+      "source_mp3": "https://vgmsite.com/soundtracks/battlecorps-scd/typwoqif/04%20-%20steel%20sewer%20sector%20~%20credits.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battlecorps-scd/04%2520-%2520steel%2520sewer%2520sector%2520~%2520credits.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9856614,
+      "track_number": 5,
+      "title": "aqua sector",
+      "runtime": 384,
+      "source_mp3": "https://vgmsite.com/soundtracks/battlecorps-scd/wbapcyzm/05%20-%20aqua%20sector.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battlecorps-scd/05%2520-%2520aqua%2520sector.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8954839,
+      "track_number": 6,
+      "title": "cyberzone sector",
+      "runtime": 395,
+      "source_mp3": "https://vgmsite.com/soundtracks/battlecorps-scd/bepdlags/06%20-%20cyberzone%20sector.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battlecorps-scd/06%2520-%2520cyberzone%2520sector.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4938792,
+      "track_number": 7,
+      "title": "ending",
+      "runtime": 252,
+      "source_mp3": "https://vgmsite.com/soundtracks/battlecorps-scd/lxdfkvkh/07%20-%20ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battlecorps-scd/07%2520-%2520ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 618659,
+      "track_number": 8,
+      "title": "game over",
+      "runtime": 46,
+      "source_mp3": "https://vgmsite.com/soundtracks/battlecorps-scd/nvxhpeur/08%20-%20game%20over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battlecorps-scd/08%2520-%2520game%2520over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2403,
+    "filesize_mp3_bytes": 58458108,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "title": "Battle City",
+  "titles_alternative": [
+    "\u30d0\u30c8\u30eb\u30b7\u30c6\u30a3\u30fc"
+  ],
+  "crawled_at": "2023-09-18T23:16:20.366580+00:00",
+  "slug": "battle-city-gb",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/battle-city-gb",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/battle-city-gb/Battle%20City.png"
+  ],
+  "year": 1991,
+  "catalog_number": null,
+  "date_added": "2022-03-17T00:00:00+00:00",
+  "developers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/developer/namco",
+    "Nova": "https://downloads.khinsider.com/game-soundtracks/developer/nova"
+  },
+  "publishers": {
+    "Nova": "https://downloads.khinsider.com/game-soundtracks/publisher/nova"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 461373,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 1,
+      "title": "Stage Start",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/battle-city-gb/qnfhkyiybs/01%20Stage%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/battle-city-gb/qnfhkyiybs/01%20Stage%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battle-city-gb/01%2520Stage%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 209715,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 2,
+      "title": "Game Over",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/battle-city-gb/fxiplvnzwm/02%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/battle-city-gb/fxiplvnzwm/02%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battle-city-gb/02%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 912261,
+      "filesize_mp3_bytes": 262144,
+      "track_number": 3,
+      "title": "Got High Score",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/battle-city-gb/syiidsnrxd/03%20Got%20High%20Score.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/battle-city-gb/syiidsnrxd/03%20Got%20High%20Score.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battle-city-gb/03%2520Got%2520High%2520Score.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4404019,
+      "filesize_mp3_bytes": 1184890,
+      "track_number": 4,
+      "title": "Unknown",
+      "runtime": 35,
+      "source_mp3": "https://vgmsite.com/soundtracks/battle-city-gb/nfqljmzudq/04%20Unknown.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/battle-city-gb/nfqljmzudq/04%20Unknown.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battle-city-gb/04%2520Unknown.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 50,
+    "filesize_mp3_bytes": 1667234,
+    "filesize_flac_bytes": 5987368,
+    "tracks": 4
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "title": "Bio Challenge",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T00:11:09.858775+00:00",
+  "slug": "bio-challenge-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/bio-challenge-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/bio-challenge-amiga/B1.png"
+  ],
+  "year": 1989,
+  "date_added": "2018-02-20T00:00:00+00:00",
+  "developers": {
+    "Delphine Software": "https://downloads.khinsider.com/game-soundtracks/developer/delphine-software"
+  },
+  "publishers": {
+    "Delphine Software": "https://downloads.khinsider.com/game-soundtracks/publisher/delphine-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1289748,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 49,
+      "source_mp3": "https://vgmsite.com/soundtracks/bio-challenge-amiga/uaspdydo/01_Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bio-challenge-amiga/01_Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10485760,
+      "track_number": 2,
+      "title": "Title Screen",
+      "runtime": 310,
+      "source_mp3": "https://vgmsite.com/soundtracks/bio-challenge-amiga/mchgnykx/02_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bio-challenge-amiga/02_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3407872,
+      "track_number": 3,
+      "title": "In-Game BGM",
+      "runtime": 123,
+      "source_mp3": "https://vgmsite.com/soundtracks/bio-challenge-amiga/vvnzkcpi/03_In-Game%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bio-challenge-amiga/03_In-Game%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1132462,
+      "track_number": 4,
+      "title": "Ending",
+      "runtime": 33,
+      "source_mp3": "https://vgmsite.com/soundtracks/bio-challenge-amiga/ayyorzjf/04_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bio-challenge-amiga/04_Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2757754,
+      "track_number": 5,
+      "title": "Name Entry",
+      "runtime": 79,
+      "source_mp3": "https://vgmsite.com/soundtracks/bio-challenge-amiga/ghviivch/05_Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bio-challenge-amiga/05_Name%2520Entry.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4404019,
+      "track_number": 6,
+      "title": "Name Entry (Unused)",
+      "runtime": 156,
+      "source_mp3": "https://vgmsite.com/soundtracks/bio-challenge-amiga/rdsqqwch/06_Name%20Entry%20%28Unused%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bio-challenge-amiga/06_Name%2520Entry%2520%2528Unused%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4666163,
+      "track_number": 7,
+      "title": "Title Screen (Unused)",
+      "runtime": 169,
+      "source_mp3": "https://vgmsite.com/soundtracks/bio-challenge-amiga/wgmruuum/07_Title%20Screen%20%28Unused%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bio-challenge-amiga/07_Title%2520Screen%2520%2528Unused%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 919,
+    "filesize_mp3_bytes": 28143778,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "title": "Brilliant World / Kaori Oda",
+  "titles_alternative": [
+    "Brilliant World / \u7e54\u7530\u304b\u304a\u308a"
+  ],
+  "crawled_at": "2023-09-19T02:04:48.888991+00:00",
+  "slug": "brilliant-world",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/brilliant-world",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/brilliant-world/Brilliant%20World.jpg"
+  ],
+  "year": 2007,
+  "catalog_number": "MJCD-23033",
+  "date_added": "2015-11-18T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Marvelous Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/marvelous-entertainment"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7140802,
+      "track_number": 1,
+      "title": "Brilliant World",
+      "runtime": 237,
+      "source_mp3": "https://vgmsite.com/soundtracks/brilliant-world/xurbjlhb/01%20Brilliant%20World.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/brilliant-world/01%2520Brilliant%2520World.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8011120,
+      "track_number": 2,
+      "title": "Wish on",
+      "runtime": 246,
+      "source_mp3": "https://vgmsite.com/soundtracks/brilliant-world/hjrqpanf/02%20Wish%20on.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/brilliant-world/02%2520Wish%2520on.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7392460,
+      "track_number": 3,
+      "title": "Brilliant World (karaoke)",
+      "runtime": 237,
+      "source_mp3": "https://vgmsite.com/soundtracks/brilliant-world/nqrxfkkx/03%20Brilliant%20World%20%28karaoke%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/brilliant-world/03%2520Brilliant%2520World%2520%2528karaoke%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7979663,
+      "track_number": 4,
+      "title": "Wish on (karaoke)",
+      "runtime": 244,
+      "source_mp3": "https://vgmsite.com/soundtracks/brilliant-world/vvhbutpe/04%20Wish%20on%20%28karaoke%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/brilliant-world/04%2520Wish%2520on%2520%2528karaoke%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 964,
+    "filesize_mp3_bytes": 30524045,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

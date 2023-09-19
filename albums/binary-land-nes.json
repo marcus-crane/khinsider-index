@@ -1,0 +1,101 @@
+{
+  "title": "Binary Land",
+  "titles_alternative": [
+    "\u30d0\u30a4\u30ca\u30ea\u30a3\u30e9\u30f3\u30c9"
+  ],
+  "crawled_at": "2023-09-19T00:10:50.257695+00:00",
+  "slug": "binary-land-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/binary-land-nes",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/binary-land-nes/B1.jpg"
+  ],
+  "year": 1985,
+  "date_added": "2022-06-27T00:00:00+00:00",
+  "developers": {
+    "Hudson Soft": "https://downloads.khinsider.com/game-soundtracks/developer/hudson-soft"
+  },
+  "publishers": {
+    "Hudson Soft": "https://downloads.khinsider.com/game-soundtracks/publisher/hudson-soft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2873098,
+      "filesize_mp3_bytes": 1426063,
+      "track_number": 1,
+      "title": "Round Start ~ Main BGM",
+      "runtime": 58,
+      "source_mp3": "https://vgmsite.com/soundtracks/binary-land-nes/nqzpobgbje/01%20Round%20Start%20~%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/binary-land-nes/nqzpobgbje/01%20Round%20Start%20~%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/binary-land-nes/01%2520Round%2520Start%2520~%2520Main%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 251658,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 2,
+      "title": "Round Clear",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/binary-land-nes/brkwgkikgj/02%20Round%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/binary-land-nes/brkwgkikgj/02%20Round%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/binary-land-nes/02%2520Round%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1971322,
+      "filesize_mp3_bytes": 1017118,
+      "track_number": 3,
+      "title": "Bonus Round",
+      "runtime": 42,
+      "source_mp3": "https://vgmsite.com/soundtracks/binary-land-nes/znolqqwwws/03%20Bonus%20Round.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/binary-land-nes/znolqqwwws/03%20Bonus%20Round.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/binary-land-nes/03%2520Bonus%2520Round.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 230686,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 4,
+      "title": "Miss",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/binary-land-nes/aukqvnvsdu/04%20Miss.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/binary-land-nes/aukqvnvsdu/04%20Miss.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/binary-land-nes/04%2520Miss.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 629145,
+      "filesize_mp3_bytes": 241172,
+      "track_number": 5,
+      "title": "End",
+      "runtime": 12,
+      "source_mp3": "https://vgmsite.com/soundtracks/binary-land-nes/hlihqmaxuu/05%20End.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/binary-land-nes/hlihqmaxuu/05%20End.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/binary-land-nes/05%2520End.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3229614,
+      "filesize_mp3_bytes": 1331691,
+      "track_number": 6,
+      "title": "Name Entry",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/binary-land-nes/zwtrnmsqnw/06%20Name%20Entry.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/binary-land-nes/zwtrnmsqnw/06%20Name%20Entry.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/binary-land-nes/06%2520Name%2520Entry.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 186,
+    "filesize_mp3_bytes": 4204786,
+    "filesize_flac_bytes": 9185523,
+    "tracks": 6
+  }
+}

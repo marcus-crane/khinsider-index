@@ -1,0 +1,52 @@
+{
+  "title": "Bishoujo Senshi Sailor Moon Collection (PC Engine CD)",
+  "titles_alternative": [
+    "\u30b2\u30fc\u30e0\uff1a\u7f8e\u5c11\u5973\u6226\u58eb\u30bb\u30fc\u30e9\u30fc\u30e0\u30fc\u30f3 Collection"
+  ],
+  "crawled_at": "2023-09-19T00:19:13.539249+00:00",
+  "slug": "bishoujo-senshi-sailor-moon-collection-turbografx-16",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/bishoujo-senshi-sailor-moon-collection-turbografx-16",
+  "platforms": {
+    "TurboGrafx-16": "https://downloads.khinsider.com/game-soundtracks/turbografx-16"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/bishoujo-senshi-sailor-moon-collection-turbografx-16/Bishoujo%20Senshi%20Sailor%20Moon%20Collection.jpg"
+  ],
+  "year": 1994,
+  "date_added": "2018-12-13T00:00:00+00:00",
+  "developers": {
+    "TamTam": "https://downloads.khinsider.com/game-soundtracks/developer/tamtam"
+  },
+  "publishers": {
+    "Banpresto": "https://downloads.khinsider.com/game-soundtracks/publisher/banpresto"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2432696,
+      "title": "Track 1",
+      "runtime": 93,
+      "source_mp3": "https://vgmsite.com/soundtracks/bishoujo-senshi-sailor-moon-collection-turbografx-16/rsuaklky/Track%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bishoujo-senshi-sailor-moon-collection-turbografx-16/Track%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5840568,
+      "title": "Track 2",
+      "runtime": 245,
+      "source_mp3": "https://vgmsite.com/soundtracks/bishoujo-senshi-sailor-moon-collection-turbografx-16/ebuysfeo/Track%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bishoujo-senshi-sailor-moon-collection-turbografx-16/Track%25202.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 338,
+    "filesize_mp3_bytes": 8273264,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

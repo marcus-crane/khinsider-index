@@ -1,0 +1,112 @@
+{
+  "title": "Batman Returns",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T23:09:52.076766+00:00",
+  "slug": "batman-returns-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/batman-returns-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/batman-returns-amiga/BR.png"
+  ],
+  "year": 1994,
+  "date_added": "2019-05-13T00:00:00+00:00",
+  "developers": {
+    "Dentons": "https://downloads.khinsider.com/game-soundtracks/developer/dentons"
+  },
+  "publishers": {
+    "GameTek": "https://downloads.khinsider.com/game-soundtracks/publisher/gametek"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5232394,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 188,
+      "source_mp3": "https://vgmsite.com/soundtracks/batman-returns-amiga/oglgfbqi/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/batman-returns-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2569011,
+      "track_number": 2,
+      "title": "Story Sequence 1",
+      "runtime": 95,
+      "source_mp3": "https://vgmsite.com/soundtracks/batman-returns-amiga/csfqcjtm/02_Story%20Sequence%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/batman-returns-amiga/02_Story%2520Sequence%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5043650,
+      "track_number": 3,
+      "title": "Stage BGM",
+      "runtime": 172,
+      "source_mp3": "https://vgmsite.com/soundtracks/batman-returns-amiga/lbmbnkxi/03_Stage%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/batman-returns-amiga/03_Stage%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4162846,
+      "track_number": 4,
+      "title": "Story Sequence 2",
+      "runtime": 140,
+      "source_mp3": "https://vgmsite.com/soundtracks/batman-returns-amiga/hmtldfex/04_Story%20Sequence%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/batman-returns-amiga/04_Story%2520Sequence%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1751121,
+      "track_number": 5,
+      "title": "Story Sequence 3",
+      "runtime": 61,
+      "source_mp3": "https://vgmsite.com/soundtracks/batman-returns-amiga/uhtjthcu/05_Story%20Sequence%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/batman-returns-amiga/05_Story%2520Sequence%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1939865,
+      "track_number": 6,
+      "title": "Story Sequence 4",
+      "runtime": 68,
+      "source_mp3": "https://vgmsite.com/soundtracks/batman-returns-amiga/duiccxmc/06_Story%20Sequence%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/batman-returns-amiga/06_Story%2520Sequence%25204.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3900702,
+      "track_number": 7,
+      "title": "Ending",
+      "runtime": 141,
+      "source_mp3": "https://vgmsite.com/soundtracks/batman-returns-amiga/njfchzgv/07_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/batman-returns-amiga/07_Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1153433,
+      "track_number": 8,
+      "title": "Game Over",
+      "runtime": 41,
+      "source_mp3": "https://vgmsite.com/soundtracks/batman-returns-amiga/ruilldrl/08_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/batman-returns-amiga/08_Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 906,
+    "filesize_mp3_bytes": 25753022,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "title": "Bug!",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T02:26:14.478910+00:00",
+  "slug": "bug-pc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/bug-pc",
+  "platforms": {
+    "Saturn": "https://downloads.khinsider.com/game-soundtracks/sega-saturn"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/bug-pc/Folder.jpg"
+  ],
+  "year": 1995,
+  "date_added": "2015-12-30T00:00:00+00:00",
+  "developers": {
+    "Realtime Associates": "https://downloads.khinsider.com/game-soundtracks/developer/realtime-associates"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3261071,
+      "title": "02 Insectia.mp3",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/bug-pc/qazylhts/02%20Insectia.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bug-pc/02%2520Insectia.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4582277,
+      "title": "03 Reptilia.mp3",
+      "runtime": 98,
+      "source_mp3": "https://vgmsite.com/soundtracks/bug-pc/bygrnvom/03%20Reptilia.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bug-pc/03%2520Reptilia.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3198156,
+      "title": "04 Splot.mp3",
+      "runtime": 63,
+      "source_mp3": "https://vgmsite.com/soundtracks/bug-pc/xxiyqnrb/04%20Splot.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bug-pc/04%2520Splot.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4466933,
+      "title": "05 Quaria.mp3",
+      "runtime": 95,
+      "source_mp3": "https://vgmsite.com/soundtracks/bug-pc/wuibrbzx/05%20Quaria.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bug-pc/05%2520Quaria.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4120903,
+      "title": "06 Burrbs.mp3",
+      "runtime": 86,
+      "source_mp3": "https://vgmsite.com/soundtracks/bug-pc/mfakikfe/06%20Burrbs.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bug-pc/06%2520Burrbs.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4173332,
+      "title": "07 Arachnia.mp3",
+      "runtime": 87,
+      "source_mp3": "https://vgmsite.com/soundtracks/bug-pc/xlieyvcc/07%20Arachnia.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bug-pc/07%2520Arachnia.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5085593,
+      "title": "08 Title Screen.mp3",
+      "runtime": 127,
+      "source_mp3": "https://vgmsite.com/soundtracks/bug-pc/cwbhsmfj/08%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bug-pc/08%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3827302,
+      "title": "09 Boss.mp3",
+      "runtime": 79,
+      "source_mp3": "https://vgmsite.com/soundtracks/bug-pc/rdepgcsz/09%20Boss.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bug-pc/09%2520Boss.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2432696,
+      "title": "10 Bonus Round.mp3",
+      "runtime": 44,
+      "source_mp3": "https://vgmsite.com/soundtracks/bug-pc/ajalvdcb/10%20Bonus%20Round.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bug-pc/10%2520Bonus%2520Round.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3890216,
+      "title": "11 Rush.mp3",
+      "runtime": 81,
+      "source_mp3": "https://vgmsite.com/soundtracks/bug-pc/cxzurbgj/11%20Rush.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bug-pc/11%2520Rush.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 824,
+    "filesize_mp3_bytes": 39038479,
+    "filesize_flac_bytes": 0,
+    "tracks": 10
+  }
+}

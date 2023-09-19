@@ -1,0 +1,106 @@
+{
+  "title": "Bionic Commando",
+  "titles_alternative": [
+    "Top Secret",
+    "\u30c8\u30c3\u30d7\u30fb\u30b7\u30fc\u30af\u30ec\u30c3\u30c8"
+  ],
+  "crawled_at": "2023-09-19T00:13:38.621212+00:00",
+  "slug": "bionic-commando-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/bionic-commando-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/bionic-commando-amiga/BC1.jpg"
+  ],
+  "year": 1988,
+  "date_added": "2015-10-08T00:00:00+00:00",
+  "developers": {
+    "Capcom": "https://downloads.khinsider.com/game-soundtracks/developer/capcom",
+    "Software Creations": "https://downloads.khinsider.com/game-soundtracks/developer/software-creations"
+  },
+  "publishers": {
+    "Capcom": "https://downloads.khinsider.com/game-soundtracks/publisher/capcom"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5704253,
+      "track_number": 1,
+      "title": "The Front Line (Round 1)",
+      "runtime": 187,
+      "source_mp3": "https://vgmsite.com/soundtracks/bionic-commando-amiga/llqfxxjs/01_The%20Front%20Line%20%28Round%201%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bionic-commando-amiga/01_The%2520Front%2520Line%2520%2528Round%25201%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5274337,
+      "track_number": 2,
+      "title": "Big Fortress (Round 2)",
+      "runtime": 173,
+      "source_mp3": "https://vgmsite.com/soundtracks/bionic-commando-amiga/dsxawdqy/02_Big%20Fortress%20%28Round%202%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bionic-commando-amiga/02_Big%2520Fortress%2520%2528Round%25202%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3732930,
+      "track_number": 3,
+      "title": "Infiltration (Round 3)",
+      "runtime": 121,
+      "source_mp3": "https://vgmsite.com/soundtracks/bionic-commando-amiga/hhtjdzxj/03_Infiltration%20%28Round%203%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bionic-commando-amiga/03_Infiltration%2520%2528Round%25203%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6228541,
+      "track_number": 4,
+      "title": "The Tower of Demon (Round 4)",
+      "runtime": 210,
+      "source_mp3": "https://vgmsite.com/soundtracks/bionic-commando-amiga/lnshdtzw/04_The%20Tower%20of%20Demon%20%28Round%204%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bionic-commando-amiga/04_The%2520Tower%2520of%2520Demon%2520%2528Round%25204%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4404019,
+      "track_number": 5,
+      "title": "Top Secret (Round 5)",
+      "runtime": 151,
+      "source_mp3": "https://vgmsite.com/soundtracks/bionic-commando-amiga/wdzsbdck/05_Top%20Secret%20%28Round%205%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bionic-commando-amiga/05_Top%2520Secret%2520%2528Round%25205%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 314572,
+      "track_number": 6,
+      "title": "Round Clear",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/bionic-commando-amiga/blipxnco/06_Round%20Clear.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bionic-commando-amiga/06_Round%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 7,
+      "title": "Game Over",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/bionic-commando-amiga/tomqhwgv/07_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bionic-commando-amiga/07_Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 855,
+    "filesize_mp3_bytes": 25753023,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Cafe AQUA Maxi Single",
+  "titles_alternative": [
+    "Cafe AQUA \u901a\u8ca9\u7279\u5178\u30c7\u30a3\u30b9\u30af"
+  ],
+  "crawled_at": "2023-09-19T03:21:50.948235+00:00",
+  "slug": "cafe-aqua-maxi-single",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/cafe-aqua-maxi-single",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/cafe-aqua-maxi-single/00%20Cover.jpg"
+  ],
+  "year": 2005,
+  "catalog_number": null,
+  "date_added": "2022-07-10T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "NEXTON": "https://downloads.khinsider.com/game-soundtracks/publisher/nexton"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8598323,
+      "track_number": 1,
+      "title": "A-Q-U-A",
+      "runtime": 332,
+      "source_mp3": "https://vgmsite.com/soundtracks/cafe-aqua-maxi-single/qhiybnpbuz/01%20A-Q-U-A.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cafe-aqua-maxi-single/01%2520A-Q-U-A.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8703180,
+      "track_number": 2,
+      "title": "A-Q-U-A ~karaoke version~",
+      "runtime": 332,
+      "source_mp3": "https://vgmsite.com/soundtracks/cafe-aqua-maxi-single/sixptijanz/02%20A-Q-U-A%20~karaoke%20version~.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cafe-aqua-maxi-single/02%2520A-Q-U-A%2520~karaoke%2520version~.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 664,
+    "filesize_mp3_bytes": 17301503,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

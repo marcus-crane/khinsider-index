@@ -1,0 +1,94 @@
+{
+  "title": "Budokan",
+  "titles_alternative": [
+    "Budokan: The Martial Spirit"
+  ],
+  "crawled_at": "2023-09-19T02:23:51.130320+00:00",
+  "slug": "budokan-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/budokan-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/budokan-amiga/B1.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2017-05-14T00:00:00+00:00",
+  "developers": {
+    "EA": "https://downloads.khinsider.com/game-soundtracks/developer/ea"
+  },
+  "publishers": {
+    "EA": "https://downloads.khinsider.com/game-soundtracks/publisher/ea"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4896849,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 178,
+      "source_mp3": "https://vgmsite.com/soundtracks/budokan-amiga/gmqyuqkr/01_Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/budokan-amiga/01_Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4246732,
+      "track_number": 2,
+      "title": "Courtyard",
+      "runtime": 140,
+      "source_mp3": "https://vgmsite.com/soundtracks/budokan-amiga/zbfrlixf/02_Courtyard.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/budokan-amiga/02_Courtyard.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4005560,
+      "track_number": 3,
+      "title": "Talk",
+      "runtime": 140,
+      "source_mp3": "https://vgmsite.com/soundtracks/budokan-amiga/lgltmgqc/03_Talk.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/budokan-amiga/03_Talk.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5714739,
+      "track_number": 4,
+      "title": "Interlude",
+      "runtime": 182,
+      "source_mp3": "https://vgmsite.com/soundtracks/budokan-amiga/krrueqin/04_Interlude.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/budokan-amiga/04_Interlude.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2956984,
+      "track_number": 5,
+      "title": "Budokan",
+      "runtime": 99,
+      "source_mp3": "https://vgmsite.com/soundtracks/budokan-amiga/ibpefsup/05_Budokan.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/budokan-amiga/05_Budokan.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6228541,
+      "track_number": 6,
+      "title": "Ending",
+      "runtime": 233,
+      "source_mp3": "https://vgmsite.com/soundtracks/budokan-amiga/bpnwhoyb/06_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/budokan-amiga/06_Ending.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 972,
+    "filesize_mp3_bytes": 28049405,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "title": "Beat Saber Vol. IV",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T23:42:31.219221+00:00",
+  "slug": "beat-saber-vol.-iv",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/beat-saber-vol.-iv",
+  "platforms": {
+    "PS4": "https://downloads.khinsider.com/game-soundtracks/playstation-4",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/beat-saber-vol.-iv/coverart.jpg"
+  ],
+  "year": 2021,
+  "date_added": "2021-04-15T00:00:00+00:00",
+  "developers": {
+    "Beat Games": "https://downloads.khinsider.com/game-soundtracks/developer/beat-games"
+  },
+  "publishers": {
+    "Beat Games (Previous)": "https://downloads.khinsider.com/game-soundtracks/publisher/beat-games-previous",
+    "Oculus VR": "https://downloads.khinsider.com/game-soundtracks/publisher/oculus-vr"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6291456,
+      "track_number": 1,
+      "title": "Into The dream (ft. Jakub Tirco)",
+      "runtime": 196,
+      "source_mp3": "https://vgmsite.com/soundtracks/beat-saber-vol.-iv/iurfvjrrvl/01%20Into%20The%20dream%20%28ft.%20Jakub%20Tirco%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/beat-saber-vol.-iv/01%2520Into%2520The%2520dream%2520%2528ft.%2520Jakub%2520Tirco%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8462008,
+      "track_number": 2,
+      "title": "Spin Eternally",
+      "runtime": 230,
+      "source_mp3": "https://vgmsite.com/soundtracks/beat-saber-vol.-iv/wzetftpihl/02%20Spin%20Eternally.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/beat-saber-vol.-iv/02%2520Spin%2520Eternally.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5966397,
+      "track_number": 3,
+      "title": "It Takes Me (feat. Waylon Reavis)",
+      "runtime": 187,
+      "source_mp3": "https://vgmsite.com/soundtracks/beat-saber-vol.-iv/cktfhrccwh/03%20It%20Takes%20Me%20%28feat.%20Waylon%20Reavis%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/beat-saber-vol.-iv/03%2520It%2520Takes%2520Me%2520%2528feat.%2520Waylon%2520Reavis%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3858759,
+      "track_number": 4,
+      "title": "LUDICROUS+",
+      "runtime": 113,
+      "source_mp3": "https://vgmsite.com/soundtracks/beat-saber-vol.-iv/ddbachjyqw/04%20LUDICROUS%2B.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/beat-saber-vol.-iv/04%2520LUDICROUS%252B.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 726,
+    "filesize_mp3_bytes": 24578620,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

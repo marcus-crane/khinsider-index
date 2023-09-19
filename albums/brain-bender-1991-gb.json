@@ -1,0 +1,48 @@
+{
+  "title": "Brain Bender",
+  "titles_alternative": [
+    "Migrain",
+    "\u30df\u30b0\u30ec\u30a4\u30f3"
+  ],
+  "crawled_at": "2023-09-19T01:49:47.575485+00:00",
+  "slug": "brain-bender-1991-gb",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/brain-bender-1991-gb",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/brain-bender-1991-gb/Brain%20Bender.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2022-03-21T00:00:00+00:00",
+  "developers": {
+    "Gremlin": "https://downloads.khinsider.com/game-soundtracks/developer/gremlin"
+  },
+  "publishers": {
+    "Acclaim": "https://downloads.khinsider.com/game-soundtracks/publisher/acclaim",
+    "Electro Brain": "https://downloads.khinsider.com/game-soundtracks/publisher/electro-brain",
+    "Gremlin": "https://downloads.khinsider.com/game-soundtracks/publisher/gremlin"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 17574133,
+      "filesize_mp3_bytes": 6742343,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/brain-bender-1991-gb/hxpwhqzizi/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/brain-bender-1991-gb/hxpwhqzizi/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/brain-bender-1991-gb/01%2520BGM%2520%252301.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 180,
+    "filesize_mp3_bytes": 6742343,
+    "filesize_flac_bytes": 17574133,
+    "tracks": 1
+  }
+}

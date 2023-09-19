@@ -1,0 +1,75 @@
+{
+  "title": "Berry's MAXI Single CD",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T23:56:28.170609+00:00",
+  "slug": "berry-s-maxi-single-cd",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/berry-s-maxi-single-cd",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/berry-s-maxi-single-cd/01.jpg"
+  ],
+  "year": 2013,
+  "catalog_number": "SPH-1301",
+  "date_added": "2020-04-02T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Sphere": "https://downloads.khinsider.com/game-soundtracks/publisher/sphere"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 30513561,
+      "filesize_mp3_bytes": 7728005,
+      "track_number": 1,
+      "title": "Welcome\u2606Berry's",
+      "runtime": 221,
+      "source_mp3": "https://vgmsite.com/soundtracks/berry-s-maxi-single-cd/blyvomsyrh/01%20-%20Welcome%E2%98%86Berry%27s.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/berry-s-maxi-single-cd/blyvomsyrh/01%20-%20Welcome%E2%98%86Berry%27s.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/berry-s-maxi-single-cd/01%2520-%2520Welcome%25E2%2598%2586Berry%2527s.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 28657582,
+      "filesize_mp3_bytes": 7916748,
+      "track_number": 2,
+      "title": "Mata Suki ni Naru",
+      "runtime": 225,
+      "source_mp3": "https://vgmsite.com/soundtracks/berry-s-maxi-single-cd/jyragpzqus/02%20-%20Mata%20Suki%20ni%20Naru.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/berry-s-maxi-single-cd/jyragpzqus/02%20-%20Mata%20Suki%20ni%20Naru.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/berry-s-maxi-single-cd/02%2520-%2520Mata%2520Suki%2520ni%2520Naru.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 29905387,
+      "filesize_mp3_bytes": 8074035,
+      "track_number": 3,
+      "title": "Welcome\u2606Berry's (Instrumental ver.)",
+      "runtime": 221,
+      "source_mp3": "https://vgmsite.com/soundtracks/berry-s-maxi-single-cd/fpsautxiwm/03%20-%20Welcome%E2%98%86Berry%27s%20%28Instrumental%20ver.%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/berry-s-maxi-single-cd/fpsautxiwm/03%20-%20Welcome%E2%98%86Berry%27s%20%28Instrumental%20ver.%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/berry-s-maxi-single-cd/03%2520-%2520Welcome%25E2%2598%2586Berry%2527s%2520%2528Instrumental%2520ver.%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 27242004,
+      "filesize_mp3_bytes": 8388608,
+      "track_number": 4,
+      "title": "Mata Suki ni Naru (Instrumental ver.)",
+      "runtime": 220,
+      "source_mp3": "https://vgmsite.com/soundtracks/berry-s-maxi-single-cd/klpjxdpmsi/04%20-%20Mata%20Suki%20ni%20Naru%20%28Instrumental%20ver.%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/berry-s-maxi-single-cd/klpjxdpmsi/04%20-%20Mata%20Suki%20ni%20Naru%20%28Instrumental%20ver.%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/berry-s-maxi-single-cd/04%2520-%2520Mata%2520Suki%2520ni%2520Naru%2520%2528Instrumental%2520ver.%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 887,
+    "filesize_mp3_bytes": 32107396,
+    "filesize_flac_bytes": 116318534,
+    "tracks": 4
+  }
+}

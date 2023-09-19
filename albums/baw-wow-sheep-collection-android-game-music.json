@@ -1,0 +1,53 @@
+{
+  "title": "Baw Wow! Sheep Collection! (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T23:35:11.298044+00:00",
+  "slug": "baw-wow-sheep-collection-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/baw-wow-sheep-collection-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/baw-wow-sheep-collection-android-game-music/1.png"
+  ],
+  "year": 2012,
+  "date_added": "2016-06-04T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1237319,
+      "title": "ms_main",
+      "runtime": 77,
+      "source_mp3": "https://vgmsite.com/soundtracks/baw-wow-sheep-collection-android-game-music/llmylwkr/ms_main.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/baw-wow-sheep-collection-android-game-music/ms_main.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 492830,
+      "title": "ms_minigame",
+      "runtime": 31,
+      "source_mp3": "https://vgmsite.com/soundtracks/baw-wow-sheep-collection-android-game-music/wkzmelyo/ms_minigame.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/baw-wow-sheep-collection-android-game-music/ms_minigame.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 576716,
+      "title": "ms_wolf",
+      "runtime": 36,
+      "source_mp3": "https://vgmsite.com/soundtracks/baw-wow-sheep-collection-android-game-music/qofgetfb/ms_wolf.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/baw-wow-sheep-collection-android-game-music/ms_wolf.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 144,
+    "filesize_mp3_bytes": 2306865,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

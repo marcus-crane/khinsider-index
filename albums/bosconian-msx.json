@@ -1,0 +1,67 @@
+{
+  "title": "Bosconian",
+  "titles_alternative": [
+    "\u30dc\u30b9\u30b3\u30cb\u30a2\u30f3"
+  ],
+  "crawled_at": "2023-09-19T01:44:26.925693+00:00",
+  "slug": "bosconian-msx",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/bosconian-msx",
+  "platforms": {
+    "MSX": "https://downloads.khinsider.com/game-soundtracks/msx"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/bosconian-msx/B1.jpg"
+  ],
+  "year": 1984,
+  "date_added": "2021-10-02T00:00:00+00:00",
+  "developers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/developer/namco"
+  },
+  "publishers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/publisher/namco"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 335544,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 1,
+      "title": "Start Music",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/bosconian-msx/zvtfybskdy/01%20Start%20Music.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bosconian-msx/zvtfybskdy/01%20Start%20Music.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bosconian-msx/01%2520Start%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 73400,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 2,
+      "title": "Round Clear Music",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/bosconian-msx/nuvetchiuu/02%20Round%20Clear%20Music.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bosconian-msx/nuvetchiuu/02%20Round%20Clear%20Music.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bosconian-msx/02%2520Round%2520Clear%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 251658,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 3,
+      "title": "High Score Music",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/bosconian-msx/esjuzmwmej/03%20High%20Score%20Music.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bosconian-msx/esjuzmwmej/03%20High%20Score%20Music.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bosconian-msx/03%2520High%2520Score%2520Music.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 16,
+    "filesize_mp3_bytes": 251657,
+    "filesize_flac_bytes": 660602,
+    "tracks": 3
+  }
+}

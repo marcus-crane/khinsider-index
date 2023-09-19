@@ -1,0 +1,56 @@
+{
+  "title": "Caesar's Palace",
+  "titles_alternative": [
+    "Super Caesars Palace"
+  ],
+  "crawled_at": "2023-09-19T03:21:36.188473+00:00",
+  "slug": "caesar-s-palace-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/caesar-s-palace-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/caesar-s-palace-genesis/Caesars%20Palace.png"
+  ],
+  "year": 1993,
+  "date_added": "2020-03-03T00:00:00+00:00",
+  "developers": {
+    "The Illusions Gaming Company": "https://downloads.khinsider.com/game-soundtracks/developer/the-illusions-gaming-company"
+  },
+  "publishers": {
+    "Virgin": "https://downloads.khinsider.com/game-soundtracks/publisher/virgin"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6899630,
+      "filesize_mp3_bytes": 3061841,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 141,
+      "source_mp3": "https://vgmsite.com/soundtracks/caesar-s-palace-genesis/qwznfhlkex/01%20-%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/caesar-s-palace-genesis/qwznfhlkex/01%20-%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/caesar-s-palace-genesis/01%2520-%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3282042,
+      "filesize_mp3_bytes": 1551892,
+      "track_number": 2,
+      "title": "Casino Theme",
+      "runtime": 75,
+      "source_mp3": "https://vgmsite.com/soundtracks/caesar-s-palace-genesis/eqmkeoujre/02%20-%20Casino%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/caesar-s-palace-genesis/eqmkeoujre/02%20-%20Casino%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/caesar-s-palace-genesis/02%2520-%2520Casino%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 216,
+    "filesize_mp3_bytes": 4613733,
+    "filesize_flac_bytes": 10181672,
+    "tracks": 2
+  }
+}

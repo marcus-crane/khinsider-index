@@ -1,0 +1,62 @@
+{
+  "title": "Bouncing Balls",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T01:45:51.460545+00:00",
+  "slug": "bouncing-balls-arcade-original-soundtrack",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/bouncing-balls-arcade-original-soundtrack",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/bouncing-balls-arcade-original-soundtrack/Bouncing%20Balls%20%28Arcade%29.png"
+  ],
+  "year": 1991,
+  "date_added": "2021-11-03T00:00:00+00:00",
+  "developers": {
+    "Comad": "https://downloads.khinsider.com/game-soundtracks/developer/comad"
+  },
+  "publishers": {
+    "Comad": "https://downloads.khinsider.com/game-soundtracks/publisher/comad"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1038090,
+      "track_number": 1,
+      "title": "Attract Screen",
+      "runtime": 65,
+      "source_mp3": "https://vgmsite.com/soundtracks/bouncing-balls-arcade-original-soundtrack/heqwokfyos/1.%20Attract%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bouncing-balls-arcade-original-soundtrack/1.%2520Attract%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1384120,
+      "track_number": 2,
+      "title": "In-Game Music",
+      "runtime": 87,
+      "source_mp3": "https://vgmsite.com/soundtracks/bouncing-balls-arcade-original-soundtrack/skivhcgueg/2.%20In-Game%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bouncing-balls-arcade-original-soundtrack/2.%2520In-Game%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2610954,
+      "track_number": 3,
+      "title": "Unused",
+      "runtime": 163,
+      "source_mp3": "https://vgmsite.com/soundtracks/bouncing-balls-arcade-original-soundtrack/cggwmlpanr/3.%20Unused.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bouncing-balls-arcade-original-soundtrack/3.%2520Unused.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 315,
+    "filesize_mp3_bytes": 5033164,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

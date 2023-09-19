@@ -1,0 +1,62 @@
+{
+  "title": "Beastlord",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T23:41:14.766495+00:00",
+  "slug": "beastlord-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/beastlord-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/beastlord-amiga/beastlord.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2016-08-22T00:00:00+00:00",
+  "developers": {
+    "Smithson Computing": "https://downloads.khinsider.com/game-soundtracks/developer/smithson-computing"
+  },
+  "publishers": {
+    "Grandslam": "https://downloads.khinsider.com/game-soundtracks/publisher/grandslam"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5913968,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 213,
+      "source_mp3": "https://vgmsite.com/soundtracks/beastlord-amiga/gmmezwkq/01_Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/beastlord-amiga/01_Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4498391,
+      "track_number": 2,
+      "title": "Ending",
+      "runtime": 171,
+      "source_mp3": "https://vgmsite.com/soundtracks/beastlord-amiga/vmcphcxj/02_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/beastlord-amiga/02_Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2747269,
+      "track_number": 3,
+      "title": "Game Over",
+      "runtime": 114,
+      "source_mp3": "https://vgmsite.com/soundtracks/beastlord-amiga/lsedwlxl/03_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/beastlord-amiga/03_Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 498,
+    "filesize_mp3_bytes": 13159628,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

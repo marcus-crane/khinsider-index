@@ -1,0 +1,46 @@
+{
+  "title": "Boku to Wanko - Doggie Collector (Chronus App Inc)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T01:17:54.898239+00:00",
+  "slug": "boku-to-wanko-doggie-collector-chronus-app-inc-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/boku-to-wanko-doggie-collector-chronus-app-inc-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/boku-to-wanko-doggie-collector-chronus-app-inc-android/1.png"
+  ],
+  "year": 2013,
+  "date_added": "2017-07-21T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2317352,
+      "title": "bgm_main",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/boku-to-wanko-doggie-collector-chronus-app-inc-android/rgznuqam/bgm_main.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/boku-to-wanko-doggie-collector-chronus-app-inc-android/bgm_main.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 975175,
+      "title": "bgm_noraneko",
+      "runtime": 39,
+      "source_mp3": "https://vgmsite.com/soundtracks/boku-to-wanko-doggie-collector-chronus-app-inc-android/yzeeetzm/bgm_noraneko.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/boku-to-wanko-doggie-collector-chronus-app-inc-android/bgm_noraneko.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 135,
+    "filesize_mp3_bytes": 3292527,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

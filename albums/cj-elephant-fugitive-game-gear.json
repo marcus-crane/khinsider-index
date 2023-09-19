@@ -1,0 +1,65 @@
+{
+  "title": "CJ Elephant Fugitive",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T03:00:22.886086+00:00",
+  "slug": "cj-elephant-fugitive-game-gear",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/cj-elephant-fugitive-game-gear",
+  "platforms": {
+    "Game Gear": "https://downloads.khinsider.com/game-soundtracks/sega-game-gear"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/cj-elephant-fugitive-game-gear/CJ%20Elephant%20Fugitive%20%28GG%29.png"
+  ],
+  "year": 1994,
+  "date_added": "2020-07-06T00:00:00+00:00",
+  "developers": {
+    "Big Red Software": "https://downloads.khinsider.com/game-soundtracks/developer/big-red-software"
+  },
+  "publishers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/publisher/codemasters"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6899630,
+      "filesize_mp3_bytes": 2149580,
+      "track_number": 1,
+      "title": "Title, Credits",
+      "runtime": 115,
+      "source_mp3": "https://vgmsite.com/soundtracks/cj-elephant-fugitive-game-gear/vlrjiagrwr/01%20-%20Title%2C%20Credits.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/cj-elephant-fugitive-game-gear/vlrjiagrwr/01%20-%20Title%2C%20Credits.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cj-elephant-fugitive-game-gear/01%2520-%2520Title%252C%2520Credits.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1247805,
+      "filesize_mp3_bytes": 471859,
+      "track_number": 2,
+      "title": "Next Stage, Boss",
+      "runtime": 23,
+      "source_mp3": "https://vgmsite.com/soundtracks/cj-elephant-fugitive-game-gear/matnqurrji/02%20-%20Next%20Stage%2C%20Boss.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/cj-elephant-fugitive-game-gear/matnqurrji/02%20-%20Next%20Stage%2C%20Boss.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cj-elephant-fugitive-game-gear/02%2520-%2520Next%2520Stage%252C%2520Boss.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20961034,
+      "filesize_mp3_bytes": 7224688,
+      "track_number": 3,
+      "title": "Stage Theme",
+      "runtime": 354,
+      "source_mp3": "https://vgmsite.com/soundtracks/cj-elephant-fugitive-game-gear/asvtghktck/03%20-%20Stage%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/cj-elephant-fugitive-game-gear/asvtghktck/03%20-%20Stage%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cj-elephant-fugitive-game-gear/03%2520-%2520Stage%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 492,
+    "filesize_mp3_bytes": 9846127,
+    "filesize_flac_bytes": 29108469,
+    "tracks": 3
+  }
+}

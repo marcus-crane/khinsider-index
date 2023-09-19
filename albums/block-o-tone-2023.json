@@ -1,0 +1,41 @@
+{
+  "title": "Block-o-tone",
+  "titles_alternative": [
+    "Get Outta' Here",
+    "Flashback (Amiga)"
+  ],
+  "crawled_at": "2023-09-19T00:54:01.372570+00:00",
+  "slug": "block-o-tone-2023",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/block-o-tone-2023",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/block-o-tone-2023/cover.png"
+  ],
+  "year": 2023,
+  "catalog_number": null,
+  "date_added": "2023-08-06T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Inspired By": "https://downloads.khinsider.com/game-soundtracks/inspired-by"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5924454,
+      "title": "Shoo Get Outta Here",
+      "runtime": 166,
+      "source_mp3": "https://vgmsite.com/soundtracks/block-o-tone-2023/hglyocecnq/Shoo%20Get%20Outta%20Here.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/block-o-tone-2023/Shoo%2520Get%2520Outta%2520Here.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 166,
+    "filesize_mp3_bytes": 5924454,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

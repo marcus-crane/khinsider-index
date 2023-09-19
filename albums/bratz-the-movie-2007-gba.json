@@ -1,0 +1,76 @@
+{
+  "title": "Bratz: The Movie",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T01:54:06.980571+00:00",
+  "slug": "bratz-the-movie-2007-gba",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/bratz-the-movie-2007-gba",
+  "platforms": {
+    "GBA": "https://downloads.khinsider.com/game-soundtracks/gameboy-advance"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/bratz-the-movie-2007-gba/Bratz%20-%20The%20Movie.jpg"
+  ],
+  "year": 2007,
+  "date_added": "2021-11-25T00:00:00+00:00",
+  "developers": {
+    "Blitz Games": "https://downloads.khinsider.com/game-soundtracks/developer/blitz-games"
+  },
+  "publishers": {
+    "THQ": "https://downloads.khinsider.com/game-soundtracks/publisher/thq"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5484052,
+      "filesize_mp3_bytes": 1017118,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 32,
+      "source_mp3": "https://vgmsite.com/soundtracks/bratz-the-movie-2007-gba/qrwooqktms/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bratz-the-movie-2007-gba/qrwooqktms/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bratz-the-movie-2007-gba/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2998927,
+      "filesize_mp3_bytes": 513802,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 19,
+      "source_mp3": "https://vgmsite.com/soundtracks/bratz-the-movie-2007-gba/yqfxvynylm/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bratz-the-movie-2007-gba/yqfxvynylm/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bratz-the-movie-2007-gba/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3711959,
+      "filesize_mp3_bytes": 681574,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 27,
+      "source_mp3": "https://vgmsite.com/soundtracks/bratz-the-movie-2007-gba/qkgxvcbqzb/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bratz-the-movie-2007-gba/qkgxvcbqzb/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bratz-the-movie-2007-gba/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2474639,
+      "filesize_mp3_bytes": 450887,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 14,
+      "source_mp3": "https://vgmsite.com/soundtracks/bratz-the-movie-2007-gba/miofuxgpwz/04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bratz-the-movie-2007-gba/miofuxgpwz/04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bratz-the-movie-2007-gba/04.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 92,
+    "filesize_mp3_bytes": 2663381,
+    "filesize_flac_bytes": 14669577,
+    "tracks": 4
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Bloodborne Mini Soundtrack",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T00:58:38.769414+00:00",
+  "slug": "bloodborne-mini-soundtrack",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/bloodborne-mini-soundtrack",
+  "platforms": {
+    "PS4": "https://downloads.khinsider.com/game-soundtracks/playstation-4"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/bloodborne-mini-soundtrack/00%20-%20Bloodborne%20Mini%20Soundtrack-2015-Booklet%20Front%20%26%20Back.png"
+  ],
+  "year": 2015,
+  "catalog_number": "PCPX-96212",
+  "date_added": "2016-12-26T00:00:00+00:00",
+  "developers": {
+    "FromSoftware": "https://downloads.khinsider.com/game-soundtracks/developer/fromsoftware"
+  },
+  "publishers": {
+    "Sony Computer Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/sony-computer-entertainment"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8220835,
+      "track_number": 1,
+      "title": "Ludwig, the Holy Blade",
+      "runtime": 248,
+      "source_mp3": "https://vgmsite.com/soundtracks/bloodborne-mini-soundtrack/akanxqxq/01%20-%20Ludwig%2C%20the%20Holy%20Blade.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bloodborne-mini-soundtrack/01%2520-%2520Ludwig%252C%2520the%2520Holy%2520Blade.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9500098,
+      "track_number": 2,
+      "title": "Laurence, the First Vicar",
+      "runtime": 297,
+      "source_mp3": "https://vgmsite.com/soundtracks/bloodborne-mini-soundtrack/fypowcnw/02%20-%20Laurence%2C%20the%20First%20Vicar.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bloodborne-mini-soundtrack/02%2520-%2520Laurence%252C%2520the%2520First%2520Vicar.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7654604,
+      "track_number": 3,
+      "title": "Living Failures",
+      "runtime": 235,
+      "source_mp3": "https://vgmsite.com/soundtracks/bloodborne-mini-soundtrack/nockvctt/03%20-%20Living%20Failures.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bloodborne-mini-soundtrack/03%2520-%2520Living%2520Failures.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9678356,
+      "track_number": 4,
+      "title": "Lady Maria of the Astral Clocktower",
+      "runtime": 287,
+      "source_mp3": "https://vgmsite.com/soundtracks/bloodborne-mini-soundtrack/uxzwoggr/04%20-%20Lady%20Maria%20of%20the%20Astral%20Clocktower.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bloodborne-mini-soundtrack/04%2520-%2520Lady%2520Maria%2520of%2520the%2520Astral%2520Clocktower.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8556380,
+      "track_number": 5,
+      "title": "Orphan of Kos",
+      "runtime": 262,
+      "source_mp3": "https://vgmsite.com/soundtracks/bloodborne-mini-soundtrack/kpaaifhr/05%20-%20Orphan%20of%20Kos.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bloodborne-mini-soundtrack/05%2520-%2520Orphan%2520of%2520Kos.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1329,
+    "filesize_mp3_bytes": 43610273,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

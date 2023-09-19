@@ -1,0 +1,72 @@
+{
+  "title": "Blue Lightning (Atari Jaguar CD)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T01:07:30.183546+00:00",
+  "slug": "blue-lightning-atari-jaguar-cd",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/blue-lightning-atari-jaguar-cd",
+  "platforms": {
+    "Atari Jaguar": "https://downloads.khinsider.com/game-soundtracks/atari-jaguar"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/blue-lightning-atari-jaguar-cd/Blue%20Lightning%20Atari%20Jaguar%20CD%20full%20cover.jpg"
+  ],
+  "year": 1995,
+  "date_added": "2020-09-11T00:00:00+00:00",
+  "developers": {
+    "Attention to Detail": "https://downloads.khinsider.com/game-soundtracks/developer/attention-to-detail"
+  },
+  "publishers": {
+    "Atari Corporation": "https://downloads.khinsider.com/game-soundtracks/publisher/atari-corporation"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8682209,
+      "track_number": 1,
+      "title": "Combat",
+      "runtime": 217,
+      "source_mp3": "https://vgmsite.com/soundtracks/blue-lightning-atari-jaguar-cd/adwnynlpqc/1.%20Combat.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/blue-lightning-atari-jaguar-cd/1.%2520Combat.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3649044,
+      "track_number": 2,
+      "title": "Track 1",
+      "runtime": 91,
+      "source_mp3": "https://vgmsite.com/soundtracks/blue-lightning-atari-jaguar-cd/qrbdtdlgbc/2.%20Track%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/blue-lightning-atari-jaguar-cd/2.%2520Track%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4445962,
+      "track_number": 3,
+      "title": "Track 2",
+      "runtime": 111,
+      "source_mp3": "https://vgmsite.com/soundtracks/blue-lightning-atari-jaguar-cd/lhokrhtqpb/3.%20Track%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/blue-lightning-atari-jaguar-cd/3.%2520Track%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4645191,
+      "track_number": 4,
+      "title": "Track 3",
+      "runtime": 116,
+      "source_mp3": "https://vgmsite.com/soundtracks/blue-lightning-atari-jaguar-cd/oepvvhuzcs/4.%20Track%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/blue-lightning-atari-jaguar-cd/4.%2520Track%25203.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 535,
+    "filesize_mp3_bytes": 21422406,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

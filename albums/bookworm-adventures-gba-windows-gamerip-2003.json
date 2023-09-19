@@ -1,0 +1,83 @@
+{
+  "title": "Bookworm Deluxe",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T01:36:31.566662+00:00",
+  "slug": "bookworm-adventures-gba-windows-gamerip-2003",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/bookworm-adventures-gba-windows-gamerip-2003",
+  "platforms": {
+    "GBA": "https://downloads.khinsider.com/game-soundtracks/gameboy-advance",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/bookworm-adventures-gba-windows-gamerip-2003/1_bookworm_deluxe.jpg"
+  ],
+  "year": 2003,
+  "date_added": "2023-04-05T00:00:00+00:00",
+  "developers": {
+    "PopCap Games": "https://downloads.khinsider.com/game-soundtracks/developer/popcap-games"
+  },
+  "publishers": {
+    "PopCap Games": "https://downloads.khinsider.com/game-soundtracks/publisher/popcap-games"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2715811,
+      "track_number": 1,
+      "title": "Bookworm Menu",
+      "runtime": 170,
+      "source_mp3": "https://vgmsite.com/soundtracks/bookworm-adventures-gba-windows-gamerip-2003/vkslvrfrrf/01.%20Bookworm%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bookworm-adventures-gba-windows-gamerip-2003/01.%2520Bookworm%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6637486,
+      "track_number": 2,
+      "title": "Classic Mode",
+      "runtime": 415,
+      "source_mp3": "https://vgmsite.com/soundtracks/bookworm-adventures-gba-windows-gamerip-2003/jhenbczild/02.%20Classic%20Mode.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bookworm-adventures-gba-windows-gamerip-2003/02.%2520Classic%2520Mode.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3449815,
+      "track_number": 3,
+      "title": "Action",
+      "runtime": 215,
+      "source_mp3": "https://vgmsite.com/soundtracks/bookworm-adventures-gba-windows-gamerip-2003/knnvtncszi/03.%20Action.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bookworm-adventures-gba-windows-gamerip-2003/03.%2520Action.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6805258,
+      "track_number": 4,
+      "title": "Hall Of Fame",
+      "runtime": 425,
+      "source_mp3": "https://vgmsite.com/soundtracks/bookworm-adventures-gba-windows-gamerip-2003/yqqzrzmgvp/04.%20Hall%20Of%20Fame.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bookworm-adventures-gba-windows-gamerip-2003/04.%2520Hall%2520Of%2520Fame.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 555745,
+      "track_number": 5,
+      "title": "Danger!",
+      "runtime": 35,
+      "source_mp3": "https://vgmsite.com/soundtracks/bookworm-adventures-gba-windows-gamerip-2003/ljwetuiwhv/05.%20Danger%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bookworm-adventures-gba-windows-gamerip-2003/05.%2520Danger%2521.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1260,
+    "filesize_mp3_bytes": 20164115,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "title": "CAFE SOURIRE MAXI SINGLE",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T02:46:34.020144+00:00",
+  "slug": "cafe-sourire-maxi-single",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/cafe-sourire-maxi-single",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/cafe-sourire-maxi-single/CFS-014S2-01.jpg"
+  ],
+  "year": 2011,
+  "catalog_number": "CFS-014S2",
+  "date_added": "2020-04-03T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "CUFFS": "https://downloads.khinsider.com/game-soundtracks/publisher/cuffs"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 36616273,
+      "filesize_mp3_bytes": 8860467,
+      "track_number": 1,
+      "title": "Heart Seeds",
+      "runtime": 257,
+      "source_mp3": "https://vgmsite.com/soundtracks/cafe-sourire-maxi-single/xstlhsokcf/01%20-%20Heart%20Seeds.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/cafe-sourire-maxi-single/xstlhsokcf/01%20-%20Heart%20Seeds.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cafe-sourire-maxi-single/01%2520-%2520Heart%2520Seeds.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 37497077,
+      "filesize_mp3_bytes": 10024386,
+      "track_number": 2,
+      "title": "Cafe",
+      "runtime": 305,
+      "source_mp3": "https://vgmsite.com/soundtracks/cafe-sourire-maxi-single/tcgkctgmjb/02%20-%20Cafe.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/cafe-sourire-maxi-single/tcgkctgmjb/02%20-%20Cafe.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cafe-sourire-maxi-single/02%2520-%2520Cafe.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 35808870,
+      "filesize_mp3_bytes": 8986296,
+      "track_number": 3,
+      "title": "Heart Seeds (Instrumental Ver.)",
+      "runtime": 256,
+      "source_mp3": "https://vgmsite.com/soundtracks/cafe-sourire-maxi-single/mzhjpvarji/03%20-%20Heart%20Seeds%20%28Instrumental%20Ver.%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/cafe-sourire-maxi-single/mzhjpvarji/03%20-%20Heart%20Seeds%20%28Instrumental%20Ver.%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cafe-sourire-maxi-single/03%2520-%2520Heart%2520Seeds%2520%2528Instrumental%2520Ver.%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 34550579,
+      "filesize_mp3_bytes": 10328473,
+      "track_number": 4,
+      "title": "Cafe (Instrumental Ver.)",
+      "runtime": 301,
+      "source_mp3": "https://vgmsite.com/soundtracks/cafe-sourire-maxi-single/gpaieyewii/04%20-%20Cafe%20%28Instrumental%20Ver.%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/cafe-sourire-maxi-single/gpaieyewii/04%20-%20Cafe%20%28Instrumental%20Ver.%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cafe-sourire-maxi-single/04%2520-%2520Cafe%2520%2528Instrumental%2520Ver.%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1119,
+    "filesize_mp3_bytes": 38199622,
+    "filesize_flac_bytes": 144472799,
+    "tracks": 4
+  }
+}

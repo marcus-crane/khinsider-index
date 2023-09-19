@@ -1,0 +1,76 @@
+{
+  "title": "Caesars Palace II",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T03:21:49.180333+00:00",
+  "slug": "caesars-palace-ii-gbc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/caesars-palace-ii-gbc",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/caesars-palace-ii-gbc/C1.jpg"
+  ],
+  "year": 1999,
+  "date_added": "2022-03-24T00:00:00+00:00",
+  "developers": {
+    "Runecraft": "https://downloads.khinsider.com/game-soundtracks/developer/runecraft"
+  },
+  "publishers": {
+    "Interplay": "https://downloads.khinsider.com/game-soundtracks/publisher/interplay"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10433331,
+      "filesize_mp3_bytes": 4037017,
+      "track_number": 1,
+      "title": "Casino Theme 1",
+      "runtime": 181,
+      "source_mp3": "https://vgmsite.com/soundtracks/caesars-palace-ii-gbc/ozkvxujkcw/01%20Casino%20Theme%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/caesars-palace-ii-gbc/ozkvxujkcw/01%20Casino%20Theme%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/caesars-palace-ii-gbc/01%2520Casino%2520Theme%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11345592,
+      "filesize_mp3_bytes": 4991221,
+      "track_number": 2,
+      "title": "Casino Theme 2",
+      "runtime": 197,
+      "source_mp3": "https://vgmsite.com/soundtracks/caesars-palace-ii-gbc/lhofrzqwqy/02%20Casino%20Theme%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/caesars-palace-ii-gbc/lhofrzqwqy/02%20Casino%20Theme%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/caesars-palace-ii-gbc/02%2520Casino%2520Theme%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 13012828,
+      "filesize_mp3_bytes": 5075107,
+      "track_number": 3,
+      "title": "Casino Theme 3",
+      "runtime": 216,
+      "source_mp3": "https://vgmsite.com/soundtracks/caesars-palace-ii-gbc/qqazwguokc/03%20Casino%20Theme%203.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/caesars-palace-ii-gbc/qqazwguokc/03%20Casino%20Theme%203.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/caesars-palace-ii-gbc/03%2520Casino%2520Theme%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7549747,
+      "filesize_mp3_bytes": 3282042,
+      "track_number": 4,
+      "title": "Casino Theme 4",
+      "runtime": 133,
+      "source_mp3": "https://vgmsite.com/soundtracks/caesars-palace-ii-gbc/vhftzkheyl/04%20Casino%20Theme%204.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/caesars-palace-ii-gbc/vhftzkheyl/04%20Casino%20Theme%204.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/caesars-palace-ii-gbc/04%2520Casino%2520Theme%25204.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 727,
+    "filesize_mp3_bytes": 17385387,
+    "filesize_flac_bytes": 42341498,
+    "tracks": 4
+  }
+}

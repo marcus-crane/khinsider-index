@@ -1,0 +1,87 @@
+{
+  "title": "Brico Utile",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T02:02:56.825017+00:00",
+  "slug": "brico-utile-2008-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/brico-utile-2008-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/brico-utile-2008-nds-gamerip/Brico%20Utile.jpg"
+  ],
+  "year": 2008,
+  "date_added": "2020-06-02T00:00:00+00:00",
+  "developers": {
+    "Dancing Dots": "https://downloads.khinsider.com/game-soundtracks/developer/dancing-dots"
+  },
+  "publishers": {
+    "Neko": "https://downloads.khinsider.com/game-soundtracks/publisher/neko"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 18926796,
+      "filesize_mp3_bytes": 6773800,
+      "track_number": 1,
+      "title": "Mus Generique",
+      "runtime": 213,
+      "source_mp3": "https://vgmsite.com/soundtracks/brico-utile-2008-nds-gamerip/muruskkizt/01%20-%20Mus%20Generique.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/brico-utile-2008-nds-gamerip/muruskkizt/01%20-%20Mus%20Generique.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/brico-utile-2008-nds-gamerip/01%2520-%2520Mus%2520Generique.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11041505,
+      "filesize_mp3_bytes": 5221908,
+      "track_number": 2,
+      "title": "Mus Menu",
+      "runtime": 207,
+      "source_mp3": "https://vgmsite.com/soundtracks/brico-utile-2008-nds-gamerip/oenyedbvmb/02%20-%20Mus%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/brico-utile-2008-nds-gamerip/oenyedbvmb/02%20-%20Mus%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/brico-utile-2008-nds-gamerip/02%2520-%2520Mus%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4424990,
+      "filesize_mp3_bytes": 2044723,
+      "track_number": 3,
+      "title": "Mus Quizz",
+      "runtime": 73,
+      "source_mp3": "https://vgmsite.com/soundtracks/brico-utile-2008-nds-gamerip/xjkrinmtyj/03%20-%20Mus%20Quizz.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/brico-utile-2008-nds-gamerip/xjkrinmtyj/03%20-%20Mus%20Quizz.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/brico-utile-2008-nds-gamerip/03%2520-%2520Mus%2520Quizz.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 13830717,
+      "filesize_mp3_bytes": 5987368,
+      "track_number": 4,
+      "title": "Mus Minigames",
+      "runtime": 189,
+      "source_mp3": "https://vgmsite.com/soundtracks/brico-utile-2008-nds-gamerip/nsdhqmnqfb/04%20-%20Mus%20Minigames.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/brico-utile-2008-nds-gamerip/nsdhqmnqfb/04%20-%20Mus%20Minigames.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/brico-utile-2008-nds-gamerip/04%2520-%2520Mus%2520Minigames.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 650117,
+      "filesize_mp3_bytes": 356515,
+      "track_number": 5,
+      "title": "Mus Scores",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/brico-utile-2008-nds-gamerip/krwvoebzxz/05%20-%20Mus%20Scores.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/brico-utile-2008-nds-gamerip/krwvoebzxz/05%20-%20Mus%20Scores.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/brico-utile-2008-nds-gamerip/05%2520-%2520Mus%2520Scores.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 693,
+    "filesize_mp3_bytes": 20384314,
+    "filesize_flac_bytes": 48874125,
+    "tracks": 5
+  }
+}

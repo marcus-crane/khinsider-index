@@ -1,0 +1,89 @@
+{
+  "title": "Beat Saber OST Vol II",
+  "titles_alternative": [
+    "Beat Saber (Original Game Soundtrack), Vol. II"
+  ],
+  "crawled_at": "2023-09-18T23:42:23.000298+00:00",
+  "slug": "beat-saber-vol.-ii",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/beat-saber-vol.-ii",
+  "platforms": {
+    "PS4": "https://downloads.khinsider.com/game-soundtracks/playstation-4",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/beat-saber-vol.-ii/cover.jpg"
+  ],
+  "year": 2018,
+  "catalog_number": null,
+  "date_added": "2020-04-04T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Beat Games": "https://downloads.khinsider.com/game-soundtracks/publisher/beat-games"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 16064184,
+      "filesize_mp3_bytes": 4110417,
+      "track_number": 1,
+      "title": "Unlimited Power",
+      "runtime": 119,
+      "source_mp3": "https://vgmsite.com/soundtracks/beat-saber-vol.-ii/pneubwtxsk/01%20Unlimited%20Power.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/beat-saber-vol.-ii/pneubwtxsk/01%20Unlimited%20Power.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/beat-saber-vol.-ii/01%2520Unlimited%2520Power.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 26455572,
+      "filesize_mp3_bytes": 6616514,
+      "track_number": 2,
+      "title": "Rum n' Bass",
+      "runtime": 199,
+      "source_mp3": "https://vgmsite.com/soundtracks/beat-saber-vol.-ii/ziakhgtinf/02%20Rum%20n%27%20Bass.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/beat-saber-vol.-ii/ziakhgtinf/02%20Rum%20n%27%20Bass.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/beat-saber-vol.-ii/02%2520Rum%2520n%2527%2520Bass.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 23026728,
+      "filesize_mp3_bytes": 5756682,
+      "track_number": 3,
+      "title": "Be There For You",
+      "runtime": 173,
+      "source_mp3": "https://vgmsite.com/soundtracks/beat-saber-vol.-ii/mrbbsvnnua/03%20Be%20There%20For%20You.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/beat-saber-vol.-ii/mrbbsvnnua/03%20Be%20There%20For%20You.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/beat-saber-vol.-ii/03%2520Be%2520There%2520For%2520You.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 21202206,
+      "filesize_mp3_bytes": 5316280,
+      "track_number": 4,
+      "title": "Elixia",
+      "runtime": 153,
+      "source_mp3": "https://vgmsite.com/soundtracks/beat-saber-vol.-ii/omttqyzfet/04%20Elixia.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/beat-saber-vol.-ii/omttqyzfet/04%20Elixia.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/beat-saber-vol.-ii/04%2520Elixia.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 17165189,
+      "filesize_mp3_bytes": 4477419,
+      "track_number": 5,
+      "title": "I Need You",
+      "runtime": 131,
+      "source_mp3": "https://vgmsite.com/soundtracks/beat-saber-vol.-ii/xbxmbrrrtq/05%20I%20Need%20You.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/beat-saber-vol.-ii/xbxmbrrrtq/05%20I%20Need%20You.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/beat-saber-vol.-ii/05%2520I%2520Need%2520You.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 775,
+    "filesize_mp3_bytes": 26277312,
+    "filesize_flac_bytes": 103913879,
+    "tracks": 5
+  }
+}

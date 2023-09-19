@@ -1,0 +1,90 @@
+{
+  "title": "Battlemaniacs",
+  "titles_alternative": [
+    "Battletoads in Battlemaniacs"
+  ],
+  "crawled_at": "2023-09-18T23:31:22.653074+00:00",
+  "slug": "battlemaniacs-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/battlemaniacs-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/battlemaniacs-master-system/Battlemaniacs-SMS.png"
+  ],
+  "year": 1996,
+  "date_added": "2018-02-02T00:00:00+00:00",
+  "developers": {
+    "Rare": "https://downloads.khinsider.com/game-soundtracks/developer/rare",
+    "Syrox Developments": "https://downloads.khinsider.com/game-soundtracks/developer/syrox-developments"
+  },
+  "publishers": {
+    "Tec Toy": "https://downloads.khinsider.com/game-soundtracks/publisher/tec-toy"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7644119,
+      "filesize_mp3_bytes": 5934940,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 148,
+      "source_mp3": "https://vgmsite.com/soundtracks/battlemaniacs-master-system/vwsxmhbu/01%20-%20Title.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/battlemaniacs-master-system/vwsxmhbu/01%20-%20Title.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battlemaniacs-master-system/01%2520-%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6952058,
+      "filesize_mp3_bytes": 5211422,
+      "track_number": 2,
+      "title": "Ragnarok Canyon",
+      "runtime": 130,
+      "source_mp3": "https://vgmsite.com/soundtracks/battlemaniacs-master-system/lofdjrzt/02%20-%20Ragnarok%20Canyon.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/battlemaniacs-master-system/lofdjrzt/02%20-%20Ragnarok%20Canyon.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battlemaniacs-master-system/02%2520-%2520Ragnarok%2520Canyon.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4938792,
+      "filesize_mp3_bytes": 4099932,
+      "track_number": 3,
+      "title": "Hollow Tree",
+      "runtime": 103,
+      "source_mp3": "https://vgmsite.com/soundtracks/battlemaniacs-master-system/grfquakz/03%20-%20Hollow%20Tree.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/battlemaniacs-master-system/grfquakz/03%20-%20Hollow%20Tree.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battlemaniacs-master-system/03%2520-%2520Hollow%2520Tree.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4718592,
+      "filesize_mp3_bytes": 3701473,
+      "track_number": 4,
+      "title": "Snake Pit",
+      "runtime": 92,
+      "source_mp3": "https://vgmsite.com/soundtracks/battlemaniacs-master-system/lqykanma/04%20-%20Snake%20Pit.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/battlemaniacs-master-system/lqykanma/04%20-%20Snake%20Pit.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battlemaniacs-master-system/04%2520-%2520Snake%2520Pit.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5704253,
+      "filesize_mp3_bytes": 4508876,
+      "track_number": 5,
+      "title": "Last Battle, Bonus Stage #1",
+      "runtime": 113,
+      "source_mp3": "https://vgmsite.com/soundtracks/battlemaniacs-master-system/aqbfphmw/05%20-%20Last%20Battle%2C%20Bonus%20Stage%20%231%20.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/battlemaniacs-master-system/aqbfphmw/05%20-%20Last%20Battle%2C%20Bonus%20Stage%20%231%20.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battlemaniacs-master-system/05%2520-%2520Last%2520Battle%252C%2520Bonus%2520Stage%2520%25231%2520.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 586,
+    "filesize_mp3_bytes": 23456643,
+    "filesize_flac_bytes": 29957814,
+    "tracks": 5
+  }
+}

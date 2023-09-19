@@ -1,0 +1,44 @@
+{
+  "title": "Carnival (VIC Dual)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T04:18:56.295088+00:00",
+  "slug": "carnival-vic-dual-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/carnival-vic-dual-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/carnival-vic-dual-arcade/C1.jpg"
+  ],
+  "year": 1980,
+  "date_added": "2022-03-28T00:00:00+00:00",
+  "developers": {
+    "Gremlin": "https://downloads.khinsider.com/game-soundtracks/developer/gremlin"
+  },
+  "publishers": {
+    "Gremlin": "https://downloads.khinsider.com/game-soundtracks/publisher/gremlin",
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 12352225,
+      "filesize_mp3_bytes": 3953131,
+      "track_number": 1,
+      "title": "Main BGM",
+      "runtime": 207,
+      "source_mp3": "https://vgmsite.com/soundtracks/carnival-vic-dual-arcade/vchdknpcyb/01%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/carnival-vic-dual-arcade/vchdknpcyb/01%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/carnival-vic-dual-arcade/01%2520Main%2520BGM.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 207,
+    "filesize_mp3_bytes": 3953131,
+    "filesize_flac_bytes": 12352225,
+    "tracks": 1
+  }
+}

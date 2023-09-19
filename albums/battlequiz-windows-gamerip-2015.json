@@ -1,0 +1,62 @@
+{
+  "title": "BattleQuiz",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T23:26:02.245405+00:00",
+  "slug": "battlequiz-windows-gamerip-2015",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/battlequiz-windows-gamerip-2015",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/battlequiz-windows-gamerip-2015/header.jpg"
+  ],
+  "year": 2015,
+  "date_added": "2023-03-06T00:00:00+00:00",
+  "developers": {
+    "Rhema Group": "https://downloads.khinsider.com/game-soundtracks/developer/rhema-group"
+  },
+  "publishers": {
+    "Play sp. z o. o.": "https://downloads.khinsider.com/game-soundtracks/publisher/play-sp.-z-o.-o"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3795845,
+      "track_number": 1,
+      "title": "Menu",
+      "runtime": 95,
+      "source_mp3": "https://vgmsite.com/soundtracks/battlequiz-windows-gamerip-2015/pfrbpscdcd/01.%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battlequiz-windows-gamerip-2015/01.%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3921674,
+      "track_number": 2,
+      "title": "Muzyka2",
+      "runtime": 98,
+      "source_mp3": "https://vgmsite.com/soundtracks/battlequiz-windows-gamerip-2015/rlsknayhkt/02.%20Muzyka2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battlequiz-windows-gamerip-2015/02.%2520Muzyka2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2726297,
+      "track_number": 3,
+      "title": "Muzyka3",
+      "runtime": 68,
+      "source_mp3": "https://vgmsite.com/soundtracks/battlequiz-windows-gamerip-2015/ienmenayrv/03.%20Muzyka3.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battlequiz-windows-gamerip-2015/03.%2520Muzyka3.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 261,
+    "filesize_mp3_bytes": 10443816,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

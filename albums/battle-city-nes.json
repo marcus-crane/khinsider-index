@@ -1,0 +1,70 @@
+{
+  "title": "Battle City",
+  "titles_alternative": [
+    "Vs. BattleCity",
+    "\u30d0\u30c8\u30eb\u30b7\u30c6\u30a3\u30fc"
+  ],
+  "crawled_at": "2023-09-18T23:16:22.230776+00:00",
+  "slug": "battle-city-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/battle-city-nes",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade",
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/battle-city-nes/B1.jpg"
+  ],
+  "year": 1985,
+  "date_added": "2022-06-27T00:00:00+00:00",
+  "developers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/developer/namco"
+  },
+  "publishers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/publisher/namco"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 230686,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 1,
+      "title": "Stage Start",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/battle-city-nes/vxpccybkxs/01%20Stage%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/battle-city-nes/vxpccybkxs/01%20Stage%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battle-city-nes/01%2520Stage%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 94371,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 2,
+      "title": "Game Over",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/battle-city-nes/syyviamnro/02%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/battle-city-nes/syyviamnro/02%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battle-city-nes/02%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 461373,
+      "filesize_mp3_bytes": 167772,
+      "track_number": 3,
+      "title": "Got High Score",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/battle-city-nes/jkmbjdkzze/03%20Got%20High%20Score.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/battle-city-nes/jkmbjdkzze/03%20Got%20High%20Score.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battle-city-nes/03%2520Got%2520High%2520Score.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 17,
+    "filesize_mp3_bytes": 304086,
+    "filesize_flac_bytes": 786430,
+    "tracks": 3
+  }
+}

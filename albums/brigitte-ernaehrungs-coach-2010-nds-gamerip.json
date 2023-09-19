@@ -1,0 +1,65 @@
+{
+  "title": "Brigitte - Ernaehrungs Coach",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T02:04:47.410346+00:00",
+  "slug": "brigitte-ernaehrungs-coach-2010-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/brigitte-ernaehrungs-coach-2010-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/brigitte-ernaehrungs-coach-2010-nds-gamerip/Brigitte%20-%20Ernaehrungs%20Coach.jpg"
+  ],
+  "year": 2010,
+  "date_added": "2020-06-02T00:00:00+00:00",
+  "developers": {
+    "HMH": "https://downloads.khinsider.com/game-soundtracks/developer/hmh"
+  },
+  "publishers": {
+    "HMH": "https://downloads.khinsider.com/game-soundtracks/publisher/hmh"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8713666,
+      "filesize_mp3_bytes": 3124756,
+      "track_number": 1,
+      "title": "Energie",
+      "runtime": 104,
+      "source_mp3": "https://vgmsite.com/soundtracks/brigitte-ernaehrungs-coach-2010-nds-gamerip/ftvjmjaiwf/01%20-%20Energie.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/brigitte-ernaehrungs-coach-2010-nds-gamerip/ftvjmjaiwf/01%20-%20Energie.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/brigitte-ernaehrungs-coach-2010-nds-gamerip/01%2520-%2520Energie.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 14208204,
+      "filesize_mp3_bytes": 6050283,
+      "track_number": 2,
+      "title": "Pause",
+      "runtime": 194,
+      "source_mp3": "https://vgmsite.com/soundtracks/brigitte-ernaehrungs-coach-2010-nds-gamerip/gjnnnlffgp/02%20-%20Pause.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/brigitte-ernaehrungs-coach-2010-nds-gamerip/gjnnnlffgp/02%20-%20Pause.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/brigitte-ernaehrungs-coach-2010-nds-gamerip/02%2520-%2520Pause.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 15172894,
+      "filesize_mp3_bytes": 5714739,
+      "track_number": 3,
+      "title": "Fresh",
+      "runtime": 193,
+      "source_mp3": "https://vgmsite.com/soundtracks/brigitte-ernaehrungs-coach-2010-nds-gamerip/jsndmmedxm/03%20-%20Fresh.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/brigitte-ernaehrungs-coach-2010-nds-gamerip/jsndmmedxm/03%20-%20Fresh.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/brigitte-ernaehrungs-coach-2010-nds-gamerip/03%2520-%2520Fresh.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 491,
+    "filesize_mp3_bytes": 14889778,
+    "filesize_flac_bytes": 38094764,
+    "tracks": 3
+  }
+}

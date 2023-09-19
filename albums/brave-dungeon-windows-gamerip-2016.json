@@ -1,0 +1,62 @@
+{
+  "title": "Brave Dungeon",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T01:54:29.752319+00:00",
+  "slug": "brave-dungeon-windows-gamerip-2016",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/brave-dungeon-windows-gamerip-2016",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/brave-dungeon-windows-gamerip-2016/header.jpg"
+  ],
+  "year": 2016,
+  "date_added": "2023-03-06T00:00:00+00:00",
+  "developers": {
+    "Zakhar Zakharov": "https://downloads.khinsider.com/game-soundtracks/developer/zakhar-zakharov"
+  },
+  "publishers": {
+    "Atriagames": "https://downloads.khinsider.com/game-soundtracks/publisher/atriagames"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7969177,
+      "track_number": 1,
+      "title": "Test",
+      "runtime": 199,
+      "source_mp3": "https://vgmsite.com/soundtracks/brave-dungeon-windows-gamerip-2016/bttaiqusad/01.%20Test.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/brave-dungeon-windows-gamerip-2016/01.%2520Test.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10307502,
+      "track_number": 2,
+      "title": "Hotlinetheme",
+      "runtime": 258,
+      "source_mp3": "https://vgmsite.com/soundtracks/brave-dungeon-windows-gamerip-2016/qtgmnzgmtf/02.%20Hotlinetheme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/brave-dungeon-windows-gamerip-2016/02.%2520Hotlinetheme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6878658,
+      "track_number": 3,
+      "title": "Bgm",
+      "runtime": 172,
+      "source_mp3": "https://vgmsite.com/soundtracks/brave-dungeon-windows-gamerip-2016/jlrnlvmhky/03.%20Bgm.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/brave-dungeon-windows-gamerip-2016/03.%2520Bgm.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 629,
+    "filesize_mp3_bytes": 25155337,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

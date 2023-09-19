@@ -1,0 +1,77 @@
+{
+  "title": "Carol Vorderman's Sudoku",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T04:19:31.445586+00:00",
+  "slug": "carol-vorderman-s-sudoku-2006-psp",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/carol-vorderman-s-sudoku-2006-psp",
+  "platforms": {
+    "PSP": "https://downloads.khinsider.com/game-soundtracks/playstation-portable-psp"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/carol-vorderman-s-sudoku-2006-psp/Carol%20Vorderman%27s%20Sudoku.jpg"
+  ],
+  "year": 2006,
+  "date_added": "2020-08-20T00:00:00+00:00",
+  "developers": {
+    "Empire": "https://downloads.khinsider.com/game-soundtracks/developer/empire"
+  },
+  "publishers": {
+    "Eidos": "https://downloads.khinsider.com/game-soundtracks/publisher/eidos",
+    "Empire": "https://downloads.khinsider.com/game-soundtracks/publisher/empire"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11020533,
+      "filesize_mp3_bytes": 4414504,
+      "track_number": 1,
+      "title": "Menu",
+      "runtime": 268,
+      "source_mp3": "https://vgmsite.com/soundtracks/carol-vorderman-s-sudoku-2006-psp/rfvmnpofna/01%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/carol-vorderman-s-sudoku-2006-psp/rfvmnpofna/01%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/carol-vorderman-s-sudoku-2006-psp/01%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9867100,
+      "filesize_mp3_bytes": 4330618,
+      "track_number": 2,
+      "title": "In Game",
+      "runtime": 325,
+      "source_mp3": "https://vgmsite.com/soundtracks/carol-vorderman-s-sudoku-2006-psp/vpspamhmml/02%20In%20Game.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/carol-vorderman-s-sudoku-2006-psp/vpspamhmml/02%20In%20Game.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/carol-vorderman-s-sudoku-2006-psp/02%2520In%2520Game.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 21642608,
+      "filesize_mp3_bytes": 7507804,
+      "track_number": 3,
+      "title": "Final",
+      "runtime": 535,
+      "source_mp3": "https://vgmsite.com/soundtracks/carol-vorderman-s-sudoku-2006-psp/aqtifqrvzs/03%20Final.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/carol-vorderman-s-sudoku-2006-psp/aqtifqrvzs/03%20Final.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/carol-vorderman-s-sudoku-2006-psp/03%2520Final.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6752829,
+      "filesize_mp3_bytes": 1908408,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 130,
+      "source_mp3": "https://vgmsite.com/soundtracks/carol-vorderman-s-sudoku-2006-psp/nmjncadbsz/04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/carol-vorderman-s-sudoku-2006-psp/nmjncadbsz/04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/carol-vorderman-s-sudoku-2006-psp/04.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1258,
+    "filesize_mp3_bytes": 18161334,
+    "filesize_flac_bytes": 49283070,
+    "tracks": 4
+  }
+}

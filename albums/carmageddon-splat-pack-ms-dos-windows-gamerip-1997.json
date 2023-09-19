@@ -1,0 +1,63 @@
+{
+  "title": "Carmageddon Splat Pack",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T04:18:00.462682+00:00",
+  "slug": "carmageddon-splat-pack-ms-dos-windows-gamerip-1997",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/carmageddon-splat-pack-ms-dos-windows-gamerip-1997",
+  "platforms": {
+    "MS-DOS": "https://downloads.khinsider.com/game-soundtracks/ms-dos",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/carmageddon-splat-pack-ms-dos-windows-gamerip-1997/Front.jpg"
+  ],
+  "year": 1997,
+  "date_added": "2023-02-27T00:00:00+00:00",
+  "developers": {
+    "Stainless Games": "https://downloads.khinsider.com/game-soundtracks/developer/stainless-games"
+  },
+  "publishers": {
+    "SCi Games": "https://downloads.khinsider.com/game-soundtracks/publisher/sci-games"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11020533,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 275,
+      "source_mp3": "https://vgmsite.com/soundtracks/carmageddon-splat-pack-ms-dos-windows-gamerip-1997/xhybjnpaud/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/carmageddon-splat-pack-ms-dos-windows-gamerip-1997/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8577351,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 214,
+      "source_mp3": "https://vgmsite.com/soundtracks/carmageddon-splat-pack-ms-dos-windows-gamerip-1997/pzuloqxpkf/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/carmageddon-splat-pack-ms-dos-windows-gamerip-1997/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 14512291,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 363,
+      "source_mp3": "https://vgmsite.com/soundtracks/carmageddon-splat-pack-ms-dos-windows-gamerip-1997/crregulcnk/03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/carmageddon-splat-pack-ms-dos-windows-gamerip-1997/03.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 852,
+    "filesize_mp3_bytes": 34110175,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

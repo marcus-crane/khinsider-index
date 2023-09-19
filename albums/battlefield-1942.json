@@ -1,0 +1,94 @@
+{
+  "title": "Battlefield 1942",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T23:27:14.007433+00:00",
+  "slug": "battlefield-1942",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/battlefield-1942",
+  "platforms": {
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/battlefield-1942/Battlefield%201942.jpg"
+  ],
+  "year": 2002,
+  "date_added": "2015-09-09T00:00:00+00:00",
+  "developers": {
+    "Digital Illusions CE": "https://downloads.khinsider.com/game-soundtracks/developer/digital-illusions-ce"
+  },
+  "publishers": {
+    "Aspyr": "https://downloads.khinsider.com/game-soundtracks/publisher/aspyr",
+    "EA": "https://downloads.khinsider.com/game-soundtracks/publisher/ea"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3974103,
+      "track_number": 1,
+      "title": "Vehicle 4",
+      "runtime": 248,
+      "source_mp3": "https://vgmsite.com/soundtracks/battlefield-1942/ibyjpxrc/01%20-%20Vehicle%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battlefield-1942/01%2520-%2520Vehicle%25204.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1897922,
+      "track_number": 2,
+      "title": "Briefing",
+      "runtime": 119,
+      "source_mp3": "https://vgmsite.com/soundtracks/battlefield-1942/thttxsjz/02%20-%20Briefing.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battlefield-1942/02%2520-%2520Briefing.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4299161,
+      "track_number": 3,
+      "title": "Menu",
+      "runtime": 269,
+      "source_mp3": "https://vgmsite.com/soundtracks/battlefield-1942/lewstcwc/03%20-%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battlefield-1942/03%2520-%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2579496,
+      "track_number": 4,
+      "title": "Slaughter 4",
+      "runtime": 161,
+      "source_mp3": "https://vgmsite.com/soundtracks/battlefield-1942/mtscgwhq/04%20-%20Slaughter%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battlefield-1942/04%2520-%2520Slaughter%25204.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2852126,
+      "track_number": 5,
+      "title": "Theme 2",
+      "runtime": 178,
+      "source_mp3": "https://vgmsite.com/soundtracks/battlefield-1942/auusciyx/05%20-%20Theme%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battlefield-1942/05%2520-%2520Theme%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2684354,
+      "track_number": 6,
+      "title": "Vehicle 3",
+      "runtime": 168,
+      "source_mp3": "https://vgmsite.com/soundtracks/battlefield-1942/znyybohn/06%20-%20Vehicle%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battlefield-1942/06%2520-%2520Vehicle%25203.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1143,
+    "filesize_mp3_bytes": 18287162,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

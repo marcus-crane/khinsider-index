@@ -1,0 +1,65 @@
+{
+  "title": "Breakout Demo",
+  "titles_alternative": [
+    "Intellivision Breakout (Demo)"
+  ],
+  "crawled_at": "2023-09-19T02:01:39.948737+00:00",
+  "slug": "breakout-demo-gamerip-2020",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/breakout-demo-gamerip-2020",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/breakout-demo-gamerip-2020/Breakout.png"
+  ],
+  "year": 2020,
+  "date_added": "2023-03-13T00:00:00+00:00",
+  "developers": {
+    "Intellivision": "https://downloads.khinsider.com/game-soundtracks/developer/intellivision"
+  },
+  "publishers": {
+    "Intellivision": "https://downloads.khinsider.com/game-soundtracks/publisher/intellivision"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 492830,
+      "filesize_mp3_bytes": 199229,
+      "track_number": 1,
+      "title": "End Game",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/breakout-demo-gamerip-2020/hwtzyhgpdi/01.%20End%20Game.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/breakout-demo-gamerip-2020/hwtzyhgpdi/01.%20End%20Game.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/breakout-demo-gamerip-2020/01.%2520End%2520Game.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 38273024,
+      "filesize_mp3_bytes": 13736345,
+      "track_number": 2,
+      "title": "Main Theme",
+      "runtime": 428,
+      "source_mp3": "https://vgmsite.com/soundtracks/breakout-demo-gamerip-2020/pdoncctsgu/02.%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/breakout-demo-gamerip-2020/pdoncctsgu/02.%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/breakout-demo-gamerip-2020/02.%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4089446,
+      "filesize_mp3_bytes": 2390753,
+      "track_number": 3,
+      "title": "Title Screen",
+      "runtime": 61,
+      "source_mp3": "https://vgmsite.com/soundtracks/breakout-demo-gamerip-2020/pxqtvqqpuz/03.%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/breakout-demo-gamerip-2020/pxqtvqqpuz/03.%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/breakout-demo-gamerip-2020/03.%2520Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 495,
+    "filesize_mp3_bytes": 16326327,
+    "filesize_flac_bytes": 42855300,
+    "tracks": 3
+  }
+}

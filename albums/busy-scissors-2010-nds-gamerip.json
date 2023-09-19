@@ -1,0 +1,74 @@
+{
+  "title": "Busy Scissors",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T02:42:23.838324+00:00",
+  "slug": "busy-scissors-2010-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/busy-scissors-2010-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/busy-scissors-2010-nds-gamerip/Busy%20Scissors%20%28Nintendo%20DS%29%20Cover.jpg"
+  ],
+  "year": 2010,
+  "date_added": "2020-06-02T00:00:00+00:00",
+  "developers": {
+    "Little Orbit": "https://downloads.khinsider.com/game-soundtracks/developer/little-orbit"
+  },
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 13946060,
+      "filesize_mp3_bytes": 4655677,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 154,
+      "source_mp3": "https://vgmsite.com/soundtracks/busy-scissors-2010-nds-gamerip/yfawbwfhsn/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/busy-scissors-2010-nds-gamerip/yfawbwfhsn/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/busy-scissors-2010-nds-gamerip/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 21191720,
+      "filesize_mp3_bytes": 7151288,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 225,
+      "source_mp3": "https://vgmsite.com/soundtracks/busy-scissors-2010-nds-gamerip/nzrvblnwhl/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/busy-scissors-2010-nds-gamerip/nzrvblnwhl/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/busy-scissors-2010-nds-gamerip/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 13012828,
+      "filesize_mp3_bytes": 4372561,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 133,
+      "source_mp3": "https://vgmsite.com/soundtracks/busy-scissors-2010-nds-gamerip/cfijxytiyj/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/busy-scissors-2010-nds-gamerip/cfijxytiyj/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/busy-scissors-2010-nds-gamerip/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 18077450,
+      "filesize_mp3_bytes": 6039797,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 190,
+      "source_mp3": "https://vgmsite.com/soundtracks/busy-scissors-2010-nds-gamerip/izxfdxrqlk/04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/busy-scissors-2010-nds-gamerip/izxfdxrqlk/04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/busy-scissors-2010-nds-gamerip/04.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 702,
+    "filesize_mp3_bytes": 22219323,
+    "filesize_flac_bytes": 66228058,
+    "tracks": 4
+  }
+}

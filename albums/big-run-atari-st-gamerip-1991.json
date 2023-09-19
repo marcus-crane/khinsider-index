@@ -1,0 +1,66 @@
+{
+  "title": "Big Run",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T00:07:22.825693+00:00",
+  "slug": "big-run-atari-st-gamerip-1991",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/big-run-atari-st-gamerip-1991",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/big-run-atari-st-gamerip-1991/B1.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2023-04-05T00:00:00+00:00",
+  "developers": {
+    "Jaleco": "https://downloads.khinsider.com/game-soundtracks/developer/jaleco"
+  },
+  "publishers": {
+    "Jaleco": "https://downloads.khinsider.com/game-soundtracks/publisher/jaleco",
+    "Storm": "https://downloads.khinsider.com/game-soundtracks/publisher/storm"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8818524,
+      "filesize_mp3_bytes": 4299161,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 174,
+      "source_mp3": "https://vgmsite.com/soundtracks/big-run-atari-st-gamerip-1991/kxxchogyny/01.%20Title.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/big-run-atari-st-gamerip-1991/kxxchogyny/01.%20Title.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/big-run-atari-st-gamerip-1991/01.%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6259998,
+      "filesize_mp3_bytes": 2390753,
+      "track_number": 2,
+      "title": "Game Over",
+      "runtime": 113,
+      "source_mp3": "https://vgmsite.com/soundtracks/big-run-atari-st-gamerip-1991/duoojcbvnj/02.%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/big-run-atari-st-gamerip-1991/duoojcbvnj/02.%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/big-run-atari-st-gamerip-1991/02.%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 209715,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 3,
+      "title": "Unknown Jingle",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/big-run-atari-st-gamerip-1991/vdvcqggzkh/03.%20Unknown%20Jingle.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/big-run-atari-st-gamerip-1991/vdvcqggzkh/03.%20Unknown%20Jingle.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/big-run-atari-st-gamerip-1991/03.%2520Unknown%2520Jingle.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 291,
+    "filesize_mp3_bytes": 6773800,
+    "filesize_flac_bytes": 15288237,
+    "tracks": 3
+  }
+}

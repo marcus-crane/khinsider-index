@@ -1,0 +1,67 @@
+{
+  "title": "Borodino",
+  "titles_alternative": [
+    "\u0411\u043e\u0440\u043e\u0434\u0438\u043d\u043e: \u041d\u0430\u0443\u043a\u0430 \u043f\u043e\u0431\u0435\u0436\u0434\u0430\u0442\u044c"
+  ],
+  "crawled_at": "2023-09-19T01:44:17.919766+00:00",
+  "slug": "borodino-windows-gamerip-1997",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/borodino-windows-gamerip-1997",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/borodino-windows-gamerip-1997/Image1.jpg"
+  ],
+  "year": 1997,
+  "date_added": "2023-07-06T00:00:00+00:00",
+  "developers": {
+    "1C Company": "https://downloads.khinsider.com/game-soundtracks/developer/1c-company"
+  },
+  "publishers": {
+    "1C Company": "https://downloads.khinsider.com/game-soundtracks/publisher/1c-company"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 17500733,
+      "filesize_mp3_bytes": 5735710,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 236,
+      "source_mp3": "https://vgmsite.com/soundtracks/borodino-windows-gamerip-1997/tluyfhrmte/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/borodino-windows-gamerip-1997/tluyfhrmte/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/borodino-windows-gamerip-1997/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 12614369,
+      "filesize_mp3_bytes": 3984588,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 150,
+      "source_mp3": "https://vgmsite.com/soundtracks/borodino-windows-gamerip-1997/iggdbraore/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/borodino-windows-gamerip-1997/iggdbraore/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/borodino-windows-gamerip-1997/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 15508439,
+      "filesize_mp3_bytes": 4750049,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 183,
+      "source_mp3": "https://vgmsite.com/soundtracks/borodino-windows-gamerip-1997/cwdltdpzym/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/borodino-windows-gamerip-1997/cwdltdpzym/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/borodino-windows-gamerip-1997/03.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 569,
+    "filesize_mp3_bytes": 14470347,
+    "filesize_flac_bytes": 45623541,
+    "tracks": 3
+  }
+}

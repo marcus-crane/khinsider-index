@@ -1,0 +1,65 @@
+{
+  "title": "Berlitz - My English Coach",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T23:56:02.007332+00:00",
+  "slug": "berlitz-my-english-coach-2009-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/berlitz-my-english-coach-2009-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/berlitz-my-english-coach-2009-nds-gamerip/Berlitz%20-%20My%20English%20Coach.jpg"
+  ],
+  "year": 2009,
+  "date_added": "2020-06-02T00:00:00+00:00",
+  "developers": {
+    "Emme": "https://downloads.khinsider.com/game-soundtracks/developer/emme"
+  },
+  "publishers": {
+    "Emme": "https://downloads.khinsider.com/game-soundtracks/publisher/emme"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 37266391,
+      "filesize_mp3_bytes": 11712593,
+      "track_number": 1,
+      "title": "BGM Menu",
+      "runtime": 351,
+      "source_mp3": "https://vgmsite.com/soundtracks/berlitz-my-english-coach-2009-nds-gamerip/bghbsocfad/01%20-%20BGM%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/berlitz-my-english-coach-2009-nds-gamerip/bghbsocfad/01%20-%20BGM%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/berlitz-my-english-coach-2009-nds-gamerip/01%2520-%2520BGM%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 27546091,
+      "filesize_mp3_bytes": 8965324,
+      "track_number": 2,
+      "title": "BGM Exe",
+      "runtime": 277,
+      "source_mp3": "https://vgmsite.com/soundtracks/berlitz-my-english-coach-2009-nds-gamerip/bqufxqfbjv/02%20-%20BGM%20Exe.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/berlitz-my-english-coach-2009-nds-gamerip/bqufxqfbjv/02%20-%20BGM%20Exe.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/berlitz-my-english-coach-2009-nds-gamerip/02%2520-%2520BGM%2520Exe.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 12813598,
+      "filesize_mp3_bytes": 4110417,
+      "track_number": 3,
+      "title": "BGM Prog Dic",
+      "runtime": 128,
+      "source_mp3": "https://vgmsite.com/soundtracks/berlitz-my-english-coach-2009-nds-gamerip/movgpcdlaz/03%20-%20BGM%20Prog%20Dic.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/berlitz-my-english-coach-2009-nds-gamerip/movgpcdlaz/03%20-%20BGM%20Prog%20Dic.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/berlitz-my-english-coach-2009-nds-gamerip/03%2520-%2520BGM%2520Prog%2520Dic.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 756,
+    "filesize_mp3_bytes": 24788334,
+    "filesize_flac_bytes": 77626080,
+    "tracks": 3
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Bugbo",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T02:26:18.738683+00:00",
+  "slug": "bugbo-2022",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/bugbo-2022",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/bugbo-2022/Screenshot%202023-08-18%206.png"
+  ],
+  "year": 2022,
+  "date_added": "2023-08-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "bensilly": "https://downloads.khinsider.com/game-soundtracks/publisher/bensilly"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2170552,
+      "filesize_mp3_bytes": 639631,
+      "track_number": 1,
+      "title": "A Familiar Foe",
+      "runtime": 40,
+      "source_mp3": "https://vgmsite.com/soundtracks/bugbo-2022/phwjedequh/01.%20A%20Familiar%20Foe.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bugbo-2022/phwjedequh/01.%20A%20Familiar%20Foe.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bugbo-2022/01.%2520A%2520Familiar%2520Foe.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4162846,
+      "filesize_mp3_bytes": 1184890,
+      "track_number": 2,
+      "title": "Bugbo, We_re Gonna Find You",
+      "runtime": 73,
+      "source_mp3": "https://vgmsite.com/soundtracks/bugbo-2022/zrutpgqtmv/02.%20Bugbo%2C%20We_re%20Gonna%20Find%20You.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bugbo-2022/zrutpgqtmv/02.%20Bugbo%2C%20We_re%20Gonna%20Find%20You.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bugbo-2022/02.%2520Bugbo%252C%2520We_re%2520Gonna%2520Find%2520You.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 754974,
+      "filesize_mp3_bytes": 293601,
+      "track_number": 3,
+      "title": "Bugbo",
+      "runtime": 17,
+      "source_mp3": "https://vgmsite.com/soundtracks/bugbo-2022/awbgspodmg/03.%20Bugbo.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bugbo-2022/awbgspodmg/03.%20Bugbo.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bugbo-2022/03.%2520Bugbo.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2569011,
+      "filesize_mp3_bytes": 891289,
+      "track_number": 4,
+      "title": "The Underground Circus",
+      "runtime": 56,
+      "source_mp3": "https://vgmsite.com/soundtracks/bugbo-2022/drujbehzfu/04.%20The%20Underground%20Circus.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bugbo-2022/drujbehzfu/04.%20The%20Underground%20Circus.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bugbo-2022/04.%2520The%2520Underground%2520Circus.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4666163,
+      "filesize_mp3_bytes": 1163919,
+      "track_number": 5,
+      "title": "Thomas Flyswatter",
+      "runtime": 71,
+      "source_mp3": "https://vgmsite.com/soundtracks/bugbo-2022/duguojoifb/05.%20Thomas%20Flyswatter.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bugbo-2022/duguojoifb/05.%20Thomas%20Flyswatter.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bugbo-2022/05.%2520Thomas%2520Flyswatter.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 257,
+    "filesize_mp3_bytes": 4173330,
+    "filesize_flac_bytes": 14323546,
+    "tracks": 5
+  }
+}

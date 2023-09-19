@@ -1,0 +1,112 @@
+{
+  "title": "Captain Skyhawk",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T04:10:17.969216+00:00",
+  "slug": "captain-skyhawk-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/captain-skyhawk-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/captain-skyhawk-nes/CS.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2015-04-21T00:00:00+00:00",
+  "developers": {
+    "Rare": "https://downloads.khinsider.com/game-soundtracks/developer/rare"
+  },
+  "publishers": {
+    "Milton Bradley": "https://downloads.khinsider.com/game-soundtracks/publisher/milton-bradley"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 838860,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 25,
+      "source_mp3": "https://vgmsite.com/soundtracks/captain-skyhawk-nes/otgnijip/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/captain-skyhawk-nes/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 597688,
+      "track_number": 2,
+      "title": "Mission Start & Complete",
+      "runtime": 17,
+      "source_mp3": "https://vgmsite.com/soundtracks/captain-skyhawk-nes/dnsksftx/02_Mission%20Start%20%26%20Complete.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/captain-skyhawk-nes/02_Mission%2520Start%2520%2526%2520Complete.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4739563,
+      "track_number": 3,
+      "title": "Space Dock - Weapon Shop",
+      "runtime": 140,
+      "source_mp3": "https://vgmsite.com/soundtracks/captain-skyhawk-nes/glqphzfq/03_Space%20Dock%20-%20Weapon%20Shop.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/captain-skyhawk-nes/03_Space%2520Dock%2520-%2520Weapon%2520Shop.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1027604,
+      "track_number": 4,
+      "title": "Enemy Base",
+      "runtime": 32,
+      "source_mp3": "https://vgmsite.com/soundtracks/captain-skyhawk-nes/xlkqkgvy/04_Enemy%20Base.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/captain-skyhawk-nes/04_Enemy%2520Base.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2453667,
+      "track_number": 5,
+      "title": "Congratulations",
+      "runtime": 71,
+      "source_mp3": "https://vgmsite.com/soundtracks/captain-skyhawk-nes/usijrzmu/05_Congratulations.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/captain-skyhawk-nes/05_Congratulations.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1090519,
+      "track_number": 6,
+      "title": "High Score",
+      "runtime": 32,
+      "source_mp3": "https://vgmsite.com/soundtracks/captain-skyhawk-nes/wldhoood/06_High%20Score.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/captain-skyhawk-nes/06_High%2520Score.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 891289,
+      "track_number": 7,
+      "title": "Game Over",
+      "runtime": 26,
+      "source_mp3": "https://vgmsite.com/soundtracks/captain-skyhawk-nes/vtigvycp/07_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/captain-skyhawk-nes/07_Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3397386,
+      "track_number": 8,
+      "title": "Unknown Theme",
+      "runtime": 101,
+      "source_mp3": "https://vgmsite.com/soundtracks/captain-skyhawk-nes/bhtqdxbr/08_Unknown%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/captain-skyhawk-nes/08_Unknown%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 444,
+    "filesize_mp3_bytes": 15036576,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

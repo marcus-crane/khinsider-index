@@ -1,0 +1,73 @@
+{
+  "title": "Bubbles",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T02:20:47.817845+00:00",
+  "slug": "bubbles",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/bubbles",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/bubbles/coverart.jpg"
+  ],
+  "date_added": "2018-09-29T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2348810,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 58,
+      "source_mp3": "https://vgmsite.com/soundtracks/bubbles/hchaufyw/1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bubbles/1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1541406,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 38,
+      "source_mp3": "https://vgmsite.com/soundtracks/bubbles/pquamefa/2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bubbles/2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4676648,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 117,
+      "source_mp3": "https://vgmsite.com/soundtracks/bubbles/otmnmsgz/3.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bubbles/3.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3932160,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 98,
+      "source_mp3": "https://vgmsite.com/soundtracks/bubbles/pyqerxpf/4.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bubbles/4.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1027604,
+      "track_number": 5,
+      "title": "Track 5",
+      "runtime": 25,
+      "source_mp3": "https://vgmsite.com/soundtracks/bubbles/xlomixud/5.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bubbles/5.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 336,
+    "filesize_mp3_bytes": 13526628,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

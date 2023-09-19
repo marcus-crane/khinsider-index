@@ -1,0 +1,95 @@
+{
+  "title": "Battleship (GBC)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T23:31:52.982249+00:00",
+  "slug": "battleship-game-boy",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/battleship-game-boy",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/battleship-game-boy/battleship-gbc-ntsc-na-1999-back.PNG"
+  ],
+  "year": 1999,
+  "date_added": "2019-04-24T00:00:00+00:00",
+  "developers": {
+    "Use Corporation": "https://downloads.khinsider.com/game-soundtracks/developer/use-corporation"
+  },
+  "publishers": {
+    "Majesco": "https://downloads.khinsider.com/game-soundtracks/publisher/majesco"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7203717,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/battleship-game-boy/pnjrkvbs/BGM%20%2301.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battleship-game-boy/BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7203717,
+      "title": "BGM #02",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/battleship-game-boy/fkdhhxjm/BGM%20%2302.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battleship-game-boy/BGM%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7203717,
+      "title": "BGM #03",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/battleship-game-boy/lrxeeijx/BGM%20%2303.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battleship-game-boy/BGM%2520%252303.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7203717,
+      "title": "BGM #04",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/battleship-game-boy/uimijzvc/BGM%20%2304.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battleship-game-boy/BGM%2520%252304.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 146800,
+      "title": "Jingle #01",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/battleship-game-boy/ajaefoff/Jingle%20%2301.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battleship-game-boy/Jingle%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 220200,
+      "title": "Jingle #02",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/battleship-game-boy/ygjzhgdq/Jingle%20%2302.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battleship-game-boy/Jingle%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 178257,
+      "title": "Jingle #03",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/battleship-game-boy/blblwxud/Jingle%20%2303.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battleship-game-boy/Jingle%2520%252303.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 733,
+    "filesize_mp3_bytes": 29360125,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

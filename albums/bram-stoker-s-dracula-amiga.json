@@ -1,0 +1,42 @@
+{
+  "title": "Bram Stoker's Dracula",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T01:50:43.040456+00:00",
+  "slug": "bram-stoker-s-dracula-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/bram-stoker-s-dracula-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/bram-stoker-s-dracula-amiga/D1.jpg"
+  ],
+  "year": 1994,
+  "date_added": "2019-04-22T00:00:00+00:00",
+  "developers": {
+    "Psygnosis": "https://downloads.khinsider.com/game-soundtracks/developer/psygnosis"
+  },
+  "publishers": {
+    "Psygnosis": "https://downloads.khinsider.com/game-soundtracks/publisher/psygnosis"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6322913,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 239,
+      "source_mp3": "https://vgmsite.com/soundtracks/bram-stoker-s-dracula-amiga/rjiowwow/01_Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bram-stoker-s-dracula-amiga/01_Intro.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 239,
+    "filesize_mp3_bytes": 6322913,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

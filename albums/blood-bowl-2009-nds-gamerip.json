@@ -1,0 +1,59 @@
+{
+  "title": "Blood Bowl",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T00:56:48.814995+00:00",
+  "slug": "blood-bowl-2009-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/blood-bowl-2009-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/blood-bowl-2009-nds-gamerip/B1.png"
+  ],
+  "year": 2009,
+  "date_added": "2020-06-02T00:00:00+00:00",
+  "developers": {
+    "Cyanide": "https://downloads.khinsider.com/game-soundtracks/developer/cyanide"
+  },
+  "publishers": {
+    "Focus Home": "https://downloads.khinsider.com/game-soundtracks/publisher/focus-home"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 283115,
+      "title": "Champions Lane",
+      "runtime": 60,
+      "source_mp3": "https://vgmsite.com/soundtracks/blood-bowl-2009-nds-gamerip/ogkvpxqkrq/Champions%20Lane.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/blood-bowl-2009-nds-gamerip/Champions%2520Lane.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 650117,
+      "title": "Main Theme",
+      "runtime": 140,
+      "source_mp3": "https://vgmsite.com/soundtracks/blood-bowl-2009-nds-gamerip/hckabuscdq/Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/blood-bowl-2009-nds-gamerip/Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1027604,
+      "title": "Post Match",
+      "runtime": 221,
+      "source_mp3": "https://vgmsite.com/soundtracks/blood-bowl-2009-nds-gamerip/xuuzdkvzmr/Post%20Match.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/blood-bowl-2009-nds-gamerip/Post%2520Match.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 421,
+    "filesize_mp3_bytes": 1960836,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

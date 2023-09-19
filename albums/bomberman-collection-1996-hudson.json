@@ -1,0 +1,48 @@
+{
+  "title": "Bomberman Collection",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T01:26:57.064867+00:00",
+  "slug": "bomberman-collection-1996-hudson",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/bomberman-collection-1996-hudson",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/bomberman-collection-1996-hudson/Bomberman%20Collection.png"
+  ],
+  "year": 1996,
+  "date_added": "2022-03-21T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 838860,
+      "filesize_mp3_bytes": 262144,
+      "title": "Bomberman Collection - 01 - Title Screen",
+      "runtime": 12,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomberman-collection-1996-hudson/gmnftlmotn/Bomberman%20Collection%20-%2001%20-%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bomberman-collection-1996-hudson/gmnftlmotn/Bomberman%20Collection%20-%2001%20-%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomberman-collection-1996-hudson/Bomberman%2520Collection%2520-%252001%2520-%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6931087,
+      "filesize_mp3_bytes": 3166699,
+      "title": "Bomberman Collection - 02 - Game Selection",
+      "runtime": 106,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomberman-collection-1996-hudson/pnvdghhmii/Bomberman%20Collection%20-%2002%20-%20Game%20Selection.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bomberman-collection-1996-hudson/pnvdghhmii/Bomberman%20Collection%20-%2002%20-%20Game%20Selection.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomberman-collection-1996-hudson/Bomberman%2520Collection%2520-%252002%2520-%2520Game%2520Selection.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 118,
+    "filesize_mp3_bytes": 3428843,
+    "filesize_flac_bytes": 7769947,
+    "tracks": 2
+  }
+}

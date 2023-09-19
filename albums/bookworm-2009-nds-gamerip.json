@@ -1,0 +1,76 @@
+{
+  "title": "Bookworm",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T01:36:20.768819+00:00",
+  "slug": "bookworm-2009-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/bookworm-2009-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/bookworm-2009-nds-gamerip/Bookworm.jpg"
+  ],
+  "year": 2009,
+  "date_added": "2020-06-02T00:00:00+00:00",
+  "developers": {
+    "PopCap": "https://downloads.khinsider.com/game-soundtracks/developer/popcap"
+  },
+  "publishers": {
+    "PopCap": "https://downloads.khinsider.com/game-soundtracks/publisher/popcap"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1950351,
+      "filesize_mp3_bytes": 859832,
+      "track_number": 1,
+      "title": "Bw Fire",
+      "runtime": 41,
+      "source_mp3": "https://vgmsite.com/soundtracks/bookworm-2009-nds-gamerip/owzbicvoxp/01%20-%20Bw%20Fire.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bookworm-2009-nds-gamerip/owzbicvoxp/01%20-%20Bw%20Fire.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bookworm-2009-nds-gamerip/01%2520-%2520Bw%2520Fire.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5473566,
+      "filesize_mp3_bytes": 2768240,
+      "track_number": 2,
+      "title": "Bw Menu",
+      "runtime": 132,
+      "source_mp3": "https://vgmsite.com/soundtracks/bookworm-2009-nds-gamerip/aahfhjkfni/02%20-%20Bw%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bookworm-2009-nds-gamerip/aahfhjkfni/02%20-%20Bw%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bookworm-2009-nds-gamerip/02%2520-%2520Bw%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7675576,
+      "filesize_mp3_bytes": 3638558,
+      "track_number": 3,
+      "title": "Bw Gameplay",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/bookworm-2009-nds-gamerip/jipqwdpihb/03%20-%20Bw%20Gameplay.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bookworm-2009-nds-gamerip/jipqwdpihb/03%20-%20Bw%20Gameplay.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bookworm-2009-nds-gamerip/03%2520-%2520Bw%2520Gameplay.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5599395,
+      "filesize_mp3_bytes": 2768240,
+      "track_number": 4,
+      "title": "Bw Library",
+      "runtime": 142,
+      "source_mp3": "https://vgmsite.com/soundtracks/bookworm-2009-nds-gamerip/rszbrqnqqu/04%20-%20Bw%20Library.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bookworm-2009-nds-gamerip/rszbrqnqqu/04%20-%20Bw%20Library.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bookworm-2009-nds-gamerip/04%2520-%2520Bw%2520Library.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 495,
+    "filesize_mp3_bytes": 10034870,
+    "filesize_flac_bytes": 20698888,
+    "tracks": 4
+  }
+}

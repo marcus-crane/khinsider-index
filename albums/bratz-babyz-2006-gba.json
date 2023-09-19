@@ -1,0 +1,65 @@
+{
+  "title": "Bratz - Babyz",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T01:53:06.678542+00:00",
+  "slug": "bratz-babyz-2006-gba",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/bratz-babyz-2006-gba",
+  "platforms": {
+    "GBA": "https://downloads.khinsider.com/game-soundtracks/gameboy-advance"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/bratz-babyz-2006-gba/B1.png"
+  ],
+  "year": 2006,
+  "date_added": "2021-11-25T00:00:00+00:00",
+  "developers": {
+    "AWE": "https://downloads.khinsider.com/game-soundtracks/developer/awe"
+  },
+  "publishers": {
+    "THQ": "https://downloads.khinsider.com/game-soundtracks/publisher/thq"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3114270,
+      "filesize_mp3_bytes": 713031,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 39,
+      "source_mp3": "https://vgmsite.com/soundtracks/bratz-babyz-2006-gba/cwpuxsyytc/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bratz-babyz-2006-gba/cwpuxsyytc/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bratz-babyz-2006-gba/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1593835,
+      "filesize_mp3_bytes": 398458,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 27,
+      "source_mp3": "https://vgmsite.com/soundtracks/bratz-babyz-2006-gba/fezgghtasx/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bratz-babyz-2006-gba/fezgghtasx/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bratz-babyz-2006-gba/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2327838,
+      "filesize_mp3_bytes": 534773,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 32,
+      "source_mp3": "https://vgmsite.com/soundtracks/bratz-babyz-2006-gba/qrygibgnkg/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bratz-babyz-2006-gba/qrygibgnkg/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bratz-babyz-2006-gba/03.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 98,
+    "filesize_mp3_bytes": 1646262,
+    "filesize_flac_bytes": 7035943,
+    "tracks": 3
+  }
+}

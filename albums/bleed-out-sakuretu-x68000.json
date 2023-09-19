@@ -1,0 +1,76 @@
+{
+  "title": "Bleed Out Sakuretu",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T00:49:42.287949+00:00",
+  "slug": "bleed-out-sakuretu-x68000",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/bleed-out-sakuretu-x68000",
+  "platforms": {
+    "X68000": "https://downloads.khinsider.com/game-soundtracks/x68000"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/bleed-out-sakuretu-x68000/Bleed%20Out%20Sakuretsu.png"
+  ],
+  "year": 1995,
+  "date_added": "2022-11-12T00:00:00+00:00",
+  "developers": {
+    "GOLDEN CATS": "https://downloads.khinsider.com/game-soundtracks/developer/golden-cats"
+  },
+  "publishers": {
+    "GOLDEN CATS": "https://downloads.khinsider.com/game-soundtracks/publisher/golden-cats"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 387973,
+      "filesize_mp3_bytes": 241172,
+      "track_number": 1,
+      "title": "Logo",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/bleed-out-sakuretu-x68000/fpsleilzhb/01.%20Logo.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bleed-out-sakuretu-x68000/fpsleilzhb/01.%20Logo.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bleed-out-sakuretu-x68000/01.%2520Logo.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 22334668,
+      "filesize_mp3_bytes": 6490685,
+      "track_number": 2,
+      "title": "Stage 1",
+      "runtime": 193,
+      "source_mp3": "https://vgmsite.com/soundtracks/bleed-out-sakuretu-x68000/gpnkfvzyea/02.%20Stage%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bleed-out-sakuretu-x68000/gpnkfvzyea/02.%20Stage%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bleed-out-sakuretu-x68000/02.%2520Stage%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 16913530,
+      "filesize_mp3_bytes": 5106565,
+      "track_number": 3,
+      "title": "Boss 1",
+      "runtime": 156,
+      "source_mp3": "https://vgmsite.com/soundtracks/bleed-out-sakuretu-x68000/uoqfpgautl/03.%20Boss%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bleed-out-sakuretu-x68000/uoqfpgautl/03.%20Boss%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bleed-out-sakuretu-x68000/03.%2520Boss%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 513802,
+      "filesize_mp3_bytes": 251658,
+      "track_number": 4,
+      "title": "Logo (with Voice)",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/bleed-out-sakuretu-x68000/eyyovayyqt/04.%20Logo%20%28with%20Voice%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bleed-out-sakuretu-x68000/eyyovayyqt/04.%20Logo%20%28with%20Voice%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bleed-out-sakuretu-x68000/04.%2520Logo%2520%2528with%2520Voice%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 366,
+    "filesize_mp3_bytes": 12090080,
+    "filesize_flac_bytes": 40149973,
+    "tracks": 4
+  }
+}

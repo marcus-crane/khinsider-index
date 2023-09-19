@@ -1,0 +1,64 @@
+{
+  "title": "Beep Special Project - Namco Game Music Sono Sheet",
+  "titles_alternative": [
+    "Beep\u7279\u5225\u4f01\u753b\u3000\u30ca\u30e0\u30b3\u30fb\u30b2\u30fc\u30e0\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u30fb\u30bd\u30ce\u30b7\u30fc\u30c8",
+    "Beep Magazine Vol.4 - Namco Game Music Sono Sheet"
+  ],
+  "crawled_at": "2023-09-18T23:46:37.065900+00:00",
+  "slug": "beep-magazine-vol.-04-namco-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/beep-magazine-vol.-04-namco-game-music",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/beep-magazine-vol.-04-namco-game-music/00-beep-magazine-vol.4-sono-cover.gif"
+  ],
+  "year": 1987,
+  "catalog_number": null,
+  "date_added": "2006-11-12T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "SOFTBANK Publishing": "https://downloads.khinsider.com/game-soundtracks/publisher/softbank-publishing"
+  },
+  "genres": {
+    "Compilation": "https://downloads.khinsider.com/game-soundtracks/compilations"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3879731,
+      "track_number": 1,
+      "title": "thundercepter",
+      "runtime": 190,
+      "source_mp3": "https://vgmsite.com/soundtracks/beep-magazine-vol.-04-namco-game-music/tguemarw/01%20thundercepter.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/beep-magazine-vol.-04-namco-game-music/01%2520thundercepter.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4624220,
+      "track_number": 2,
+      "title": "rolling thunder",
+      "runtime": 209,
+      "source_mp3": "https://vgmsite.com/soundtracks/beep-magazine-vol.-04-namco-game-music/twyslrhe/02%20rolling%20thunder.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/beep-magazine-vol.-04-namco-game-music/02%2520rolling%2520thunder.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9384755,
+      "track_number": 3,
+      "title": "youkaidouchuuki (travel book of monsters)",
+      "runtime": 402,
+      "source_mp3": "https://vgmsite.com/soundtracks/beep-magazine-vol.-04-namco-game-music/setnbjum/03%20youkaidouchuuki%20%28travel%20book%20of%20monsters%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/beep-magazine-vol.-04-namco-game-music/03%2520youkaidouchuuki%2520%2528travel%2520book%2520of%2520monsters%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 801,
+    "filesize_mp3_bytes": 17888706,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

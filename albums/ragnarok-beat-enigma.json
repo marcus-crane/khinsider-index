@@ -1,0 +1,103 @@
+{
+  "title": "Beat Enigma",
+  "titles_alternative": [
+    "[ROAS-I] Ragnarok Online Arrange Mini Album"
+  ],
+  "crawled_at": "2023-09-18T23:41:54.376004+00:00",
+  "slug": "ragnarok-beat-enigma",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ragnarok-beat-enigma",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ragnarok-beat-enigma/BK.jpg"
+  ],
+  "year": 2002,
+  "catalog_number": "SRRM-0002",
+  "date_added": "2014-11-05T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Sonic Revolution": "https://downloads.khinsider.com/game-soundtracks/publisher/sonic-revolution"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10401873,
+      "track_number": 1,
+      "title": "Title -Time of Zero-",
+      "runtime": 285,
+      "source_mp3": "https://vgmsite.com/soundtracks/ragnarok-beat-enigma/glpcieai/01%20Title%20-Time%20of%20Zero-.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ragnarok-beat-enigma/01%2520Title%2520-Time%2520of%2520Zero-.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10412359,
+      "track_number": 2,
+      "title": "Ancient Groover -Muna D'nB' Mix-",
+      "runtime": 300,
+      "source_mp3": "https://vgmsite.com/soundtracks/ragnarok-beat-enigma/yunjpzhh/02%20Ancient%20Groover%20-Muna%20D%27nB%27%20Mix-.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ragnarok-beat-enigma/02%2520Ancient%2520Groover%2520-Muna%2520D%2527nB%2527%2520Mix-.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11177820,
+      "track_number": 3,
+      "title": "Under the ground -HiSpeed mix-",
+      "runtime": 324,
+      "source_mp3": "https://vgmsite.com/soundtracks/ragnarok-beat-enigma/mrijkhmo/03%20Under%20the%20ground%20-HiSpeed%20mix-.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ragnarok-beat-enigma/03%2520Under%2520the%2520ground%2520-HiSpeed%2520mix-.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8776581,
+      "track_number": 4,
+      "title": "Streamside -One more smile-",
+      "runtime": 249,
+      "source_mp3": "https://vgmsite.com/soundtracks/ragnarok-beat-enigma/ryppkkjy/04%20Streamside%20-One%20more%20smile-.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ragnarok-beat-enigma/04%2520Streamside%2520-One%2520more%2520smile-.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10443816,
+      "track_number": 5,
+      "title": "Ancient Groover -UG House mix-",
+      "runtime": 315,
+      "source_mp3": "https://vgmsite.com/soundtracks/ragnarok-beat-enigma/opdfssuk/05%20Ancient%20Groover%20-UG%20House%20mix-.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ragnarok-beat-enigma/05%2520Ancient%2520Groover%2520-UG%2520House%2520mix-.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 13054771,
+      "track_number": 6,
+      "title": "Desert -Deeper REMIX-",
+      "runtime": 350,
+      "source_mp3": "https://vgmsite.com/soundtracks/ragnarok-beat-enigma/fszqsvcx/06%20Desert%20-Deeper%20REMIX-.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ragnarok-beat-enigma/06%2520Desert%2520-Deeper%2520REMIX-.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11072962,
+      "track_number": 7,
+      "title": "Everlasting Wanderers -Crystal Bule mix-",
+      "runtime": 323,
+      "source_mp3": "https://vgmsite.com/soundtracks/ragnarok-beat-enigma/ltoacoza/07%20Everlasting%20Wanderers%20-Crystal%20Bule%20mix-.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ragnarok-beat-enigma/07%2520Everlasting%2520Wanderers%2520-Crystal%2520Bule%2520mix-.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2146,
+    "filesize_mp3_bytes": 75340182,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

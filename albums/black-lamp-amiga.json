@@ -1,0 +1,64 @@
+{
+  "title": "Black Lamp",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T00:24:58.447830+00:00",
+  "slug": "black-lamp-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/black-lamp-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/black-lamp-amiga/B1.png"
+  ],
+  "year": 1988,
+  "date_added": "2019-04-22T00:00:00+00:00",
+  "developers": {
+    "Atari": "https://downloads.khinsider.com/game-soundtracks/developer/atari",
+    "Firebird": "https://downloads.khinsider.com/game-soundtracks/developer/firebird"
+  },
+  "publishers": {
+    "Firebird": "https://downloads.khinsider.com/game-soundtracks/publisher/firebird",
+    "Rainbird": "https://downloads.khinsider.com/game-soundtracks/publisher/rainbird"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4194304,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 154,
+      "source_mp3": "https://vgmsite.com/soundtracks/black-lamp-amiga/jrwlpqch/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/black-lamp-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3900702,
+      "track_number": 2,
+      "title": "In-Game BGM",
+      "runtime": 133,
+      "source_mp3": "https://vgmsite.com/soundtracks/black-lamp-amiga/wvehmawa/02_In-Game%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/black-lamp-amiga/02_In-Game%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 293601,
+      "track_number": 3,
+      "title": "Game Over",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/black-lamp-amiga/qientvfm/03_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/black-lamp-amiga/03_Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 298,
+    "filesize_mp3_bytes": 8388607,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

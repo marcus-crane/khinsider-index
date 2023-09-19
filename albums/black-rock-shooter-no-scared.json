@@ -1,0 +1,63 @@
+{
+  "title": "Black Rock Shooter NO SCARED",
+  "titles_alternative": [
+    "Re:make/NO SCARED / ONE OK ROCK"
+  ],
+  "crawled_at": "2023-09-19T00:27:58.382441+00:00",
+  "slug": "black-rock-shooter-no-scared",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/black-rock-shooter-no-scared",
+  "platforms": {
+    "PSP": "https://downloads.khinsider.com/game-soundtracks/playstation-portable-psp"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/black-rock-shooter-no-scared/cover.png"
+  ],
+  "year": 2011,
+  "catalog_number": "AZCS-2013",
+  "date_added": "2021-08-29T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "A-Sketch": "https://downloads.khinsider.com/game-soundtracks/publisher/a-sketch"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8441036,
+      "track_number": 1,
+      "title": "Re-make",
+      "runtime": 203,
+      "source_mp3": "https://vgmsite.com/soundtracks/black-rock-shooter-no-scared/declkaunic/01%20Re-make%20.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/black-rock-shooter-no-scared/01%2520Re-make%2520.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9080668,
+      "track_number": 2,
+      "title": "NO SCARED",
+      "runtime": 219,
+      "source_mp3": "https://vgmsite.com/soundtracks/black-rock-shooter-no-scared/yatzlhiknj/02%20NO%20SCARED%20.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/black-rock-shooter-no-scared/02%2520NO%2520SCARED%2520.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8849981,
+      "track_number": 3,
+      "title": "Rock, Scissors, Paper",
+      "runtime": 213,
+      "source_mp3": "https://vgmsite.com/soundtracks/black-rock-shooter-no-scared/doodviobvn/03%20Rock%2C%20Scissors%2C%20Paper.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/black-rock-shooter-no-scared/03%2520Rock%252C%2520Scissors%252C%2520Paper.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 635,
+    "filesize_mp3_bytes": 26371685,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

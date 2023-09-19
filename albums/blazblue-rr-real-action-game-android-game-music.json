@@ -1,0 +1,44 @@
+{
+  "title": "BlazBlue RR - Real Action Game (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T00:40:45.706067+00:00",
+  "slug": "blazblue-rr-real-action-game-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/blazblue-rr-real-action-game-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/blazblue-rr-real-action-game-android-game-music/1.jpeg"
+  ],
+  "year": 2011,
+  "date_added": "2016-10-26T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2202009,
+      "title": "001_btl_jn.mp3",
+      "runtime": 101,
+      "source_mp3": "https://vgmsite.com/soundtracks/blazblue-rr-real-action-game-android-game-music/bitmvnkb/001_btl_jn.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/blazblue-rr-real-action-game-android-game-music/001_btl_jn.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1709178,
+      "title": "150_cs_opening.mp3",
+      "runtime": 82,
+      "source_mp3": "https://vgmsite.com/soundtracks/blazblue-rr-real-action-game-android-game-music/iyrpbtkm/150_cs_opening.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/blazblue-rr-real-action-game-android-game-music/150_cs_opening.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 183,
+    "filesize_mp3_bytes": 3911187,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

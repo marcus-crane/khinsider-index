@@ -1,0 +1,52 @@
+{
+  "title": "Bubble Pong Pong",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T02:19:26.572095+00:00",
+  "slug": "bubble-pong-pong-arcade-original-sound-track",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/bubble-pong-pong-arcade-original-sound-track",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/bubble-pong-pong-arcade-original-sound-track/Bubble%20Pong%20Pong%20%28Arcade%29.png"
+  ],
+  "year": 1996,
+  "date_added": "2021-12-31T00:00:00+00:00",
+  "developers": {
+    "Top": "https://downloads.khinsider.com/game-soundtracks/developer/top"
+  },
+  "publishers": {
+    "TOP": "https://downloads.khinsider.com/game-soundtracks/publisher/top"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1761607,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 110,
+      "source_mp3": "https://vgmsite.com/soundtracks/bubble-pong-pong-arcade-original-sound-track/xpsrcnzmqs/1.%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bubble-pong-pong-arcade-original-sound-track/1.%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1562378,
+      "track_number": 2,
+      "title": "Ending",
+      "runtime": 98,
+      "source_mp3": "https://vgmsite.com/soundtracks/bubble-pong-pong-arcade-original-sound-track/otmxrjwkjk/2.%20Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bubble-pong-pong-arcade-original-sound-track/2.%2520Ending.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 208,
+    "filesize_mp3_bytes": 3323985,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

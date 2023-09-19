@@ -1,0 +1,79 @@
+{
+  "title": "Battle Squadron",
+  "titles_alternative": [
+    "Battle Squadron: The Destruction of the Barrax Empire"
+  ],
+  "crawled_at": "2023-09-18T23:23:07.307388+00:00",
+  "slug": "battle-squadron-original-game-audio",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/battle-squadron-original-game-audio",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/battle-squadron-original-game-audio/B1.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2020-03-02T00:00:00+00:00",
+  "developers": {
+    "Cope-com": "https://downloads.khinsider.com/game-soundtracks/developer/cope-com"
+  },
+  "publishers": {
+    "EA": "https://downloads.khinsider.com/game-soundtracks/publisher/ea",
+    "Innerprise Software": "https://downloads.khinsider.com/game-soundtracks/publisher/innerprise-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11555307,
+      "filesize_mp3_bytes": 3869245,
+      "track_number": 1,
+      "title": "Title Theme",
+      "runtime": 175,
+      "source_mp3": "https://vgmsite.com/soundtracks/battle-squadron-original-game-audio/medjfqfkni/01%20-%20Title%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/battle-squadron-original-game-audio/medjfqfkni/01%20-%20Title%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battle-squadron-original-game-audio/01%2520-%2520Title%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 13065256,
+      "filesize_mp3_bytes": 4498391,
+      "track_number": 2,
+      "title": "Main Theme",
+      "runtime": 212,
+      "source_mp3": "https://vgmsite.com/soundtracks/battle-squadron-original-game-audio/zelrgulhlp/02%20-%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/battle-squadron-original-game-audio/zelrgulhlp/02%20-%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battle-squadron-original-game-audio/02%2520-%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2348810,
+      "filesize_mp3_bytes": 828375,
+      "track_number": 3,
+      "title": "Ending Theme",
+      "runtime": 38,
+      "source_mp3": "https://vgmsite.com/soundtracks/battle-squadron-original-game-audio/lolotianmy/03%20-%20Ending%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/battle-squadron-original-game-audio/lolotianmy/03%20-%20Ending%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battle-squadron-original-game-audio/03%2520-%2520Ending%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10716446,
+      "filesize_mp3_bytes": 3355443,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 164,
+      "source_mp3": "https://vgmsite.com/soundtracks/battle-squadron-original-game-audio/rwquybpypc/04%20-%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/battle-squadron-original-game-audio/rwquybpypc/04%20-%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battle-squadron-original-game-audio/04%2520-%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 589,
+    "filesize_mp3_bytes": 12551454,
+    "filesize_flac_bytes": 37685819,
+    "tracks": 4
+  }
+}

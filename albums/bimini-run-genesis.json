@@ -1,0 +1,98 @@
+{
+  "title": "Bimini Run",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T00:10:09.775803+00:00",
+  "slug": "bimini-run-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/bimini-run-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/bimini-run-genesis/B1.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2020-03-02T00:00:00+00:00",
+  "developers": {
+    "Microsmiths": "https://downloads.khinsider.com/game-soundtracks/developer/microsmiths"
+  },
+  "publishers": {
+    "Nuvision": "https://downloads.khinsider.com/game-soundtracks/publisher/nuvision"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6689914,
+      "filesize_mp3_bytes": 3607101,
+      "track_number": 1,
+      "title": "Title Theme",
+      "runtime": 100,
+      "source_mp3": "https://vgmsite.com/soundtracks/bimini-run-genesis/lubfzvvlnz/01%20-%20Title%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bimini-run-genesis/lubfzvvlnz/01%20-%20Title%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bimini-run-genesis/01%2520-%2520Title%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3208642,
+      "filesize_mp3_bytes": 1740636,
+      "track_number": 2,
+      "title": "Hot Pursuit",
+      "runtime": 87,
+      "source_mp3": "https://vgmsite.com/soundtracks/bimini-run-genesis/iubjdnikcm/02%20-%20Hot%20Pursuit.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bimini-run-genesis/iubjdnikcm/02%20-%20Hot%20Pursuit.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bimini-run-genesis/02%2520-%2520Hot%2520Pursuit.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3879731,
+      "filesize_mp3_bytes": 2002780,
+      "track_number": 3,
+      "title": "The Stealth",
+      "runtime": 101,
+      "source_mp3": "https://vgmsite.com/soundtracks/bimini-run-genesis/yndbjdrbvp/03%20-%20The%20Stealth.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bimini-run-genesis/yndbjdrbvp/03%20-%20The%20Stealth.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bimini-run-genesis/03%2520-%2520The%2520Stealth.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4812963,
+      "filesize_mp3_bytes": 2401239,
+      "track_number": 4,
+      "title": "High Seas Encounter",
+      "runtime": 127,
+      "source_mp3": "https://vgmsite.com/soundtracks/bimini-run-genesis/jwvpmfxitb/04%20-%20High%20Seas%20Encounter.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bimini-run-genesis/jwvpmfxitb/04%20-%20High%20Seas%20Encounter.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bimini-run-genesis/04%2520-%2520High%2520Seas%2520Encounter.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3439329,
+      "filesize_mp3_bytes": 1835008,
+      "track_number": 5,
+      "title": "The Rescue",
+      "runtime": 95,
+      "source_mp3": "https://vgmsite.com/soundtracks/bimini-run-genesis/lajxdjrgvx/05%20-%20The%20Rescue.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bimini-run-genesis/lajxdjrgvx/05%20-%20The%20Rescue.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bimini-run-genesis/05%2520-%2520The%2520Rescue.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9521070,
+      "filesize_mp3_bytes": 4550819,
+      "track_number": 6,
+      "title": "Into the Bimini Zone",
+      "runtime": 133,
+      "source_mp3": "https://vgmsite.com/soundtracks/bimini-run-genesis/mwttovhbxm/06%20-%20Into%20the%20Bimini%20Zone.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bimini-run-genesis/mwttovhbxm/06%20-%20Into%20the%20Bimini%20Zone.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bimini-run-genesis/06%2520-%2520Into%2520the%2520Bimini%2520Zone.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 643,
+    "filesize_mp3_bytes": 16137583,
+    "filesize_flac_bytes": 31551649,
+    "tracks": 6
+  }
+}

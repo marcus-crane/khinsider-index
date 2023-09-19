@@ -1,0 +1,87 @@
+{
+  "title": "Battlemaster",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-18T23:31:24.711069+00:00",
+  "slug": "battlemaster-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/battlemaster-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/battlemaster-genesis/B1.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2020-03-02T00:00:00+00:00",
+  "developers": {
+    "Personal Software Services": "https://downloads.khinsider.com/game-soundtracks/developer/personal-software-services"
+  },
+  "publishers": {
+    "Arena": "https://downloads.khinsider.com/game-soundtracks/publisher/arena"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10527703,
+      "filesize_mp3_bytes": 6406799,
+      "track_number": 1,
+      "title": "Title Music",
+      "runtime": 316,
+      "source_mp3": "https://vgmsite.com/soundtracks/battlemaster-genesis/sbhtzhawms/01%20-%20Title%20Music.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/battlemaster-genesis/sbhtzhawms/01%20-%20Title%20Music.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battlemaster-genesis/01%2520-%2520Title%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2904555,
+      "filesize_mp3_bytes": 1667235,
+      "track_number": 2,
+      "title": "Leader Music",
+      "runtime": 80,
+      "source_mp3": "https://vgmsite.com/soundtracks/battlemaster-genesis/bpbvvylria/02%20-%20Leader%20Music.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/battlemaster-genesis/bpbvvylria/02%20-%20Leader%20Music.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battlemaster-genesis/02%2520-%2520Leader%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1363148,
+      "filesize_mp3_bytes": 849346,
+      "track_number": 3,
+      "title": "Parley Music",
+      "runtime": 42,
+      "source_mp3": "https://vgmsite.com/soundtracks/battlemaster-genesis/gsgnfkrhox/03%20-%20Parley%20Music.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/battlemaster-genesis/gsgnfkrhox/03%20-%20Parley%20Music.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battlemaster-genesis/03%2520-%2520Parley%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1677721,
+      "filesize_mp3_bytes": 1121976,
+      "track_number": 4,
+      "title": "Travel Music",
+      "runtime": 56,
+      "source_mp3": "https://vgmsite.com/soundtracks/battlemaster-genesis/egnjyyzolu/04%20-%20Travel%20Music.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/battlemaster-genesis/egnjyyzolu/04%20-%20Travel%20Music.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battlemaster-genesis/04%2520-%2520Travel%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10747904,
+      "filesize_mp3_bytes": 6343884,
+      "track_number": 5,
+      "title": "Game Music",
+      "runtime": 302,
+      "source_mp3": "https://vgmsite.com/soundtracks/battlemaster-genesis/njkmxekutq/05%20-%20Game%20Music.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/battlemaster-genesis/njkmxekutq/05%20-%20Game%20Music.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battlemaster-genesis/05%2520-%2520Game%2520Music.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 796,
+    "filesize_mp3_bytes": 16389240,
+    "filesize_flac_bytes": 27221031,
+    "tracks": 5
+  }
+}

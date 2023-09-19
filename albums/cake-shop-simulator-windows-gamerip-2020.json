@@ -1,0 +1,54 @@
+{
+  "title": "Cake Shop Simulator",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T03:23:15.256931+00:00",
+  "slug": "cake-shop-simulator-windows-gamerip-2020",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/cake-shop-simulator-windows-gamerip-2020",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/cake-shop-simulator-windows-gamerip-2020/header.jpg"
+  ],
+  "year": 2020,
+  "date_added": "2023-04-10T00:00:00+00:00",
+  "developers": {
+    "indiegames3000": "https://downloads.khinsider.com/game-soundtracks/developer/indiegames3000"
+  },
+  "publishers": {
+    "indiegames3000": "https://downloads.khinsider.com/game-soundtracks/publisher/indiegames3000"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5567938,
+      "filesize_mp3_bytes": 1939865,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 57,
+      "source_mp3": "https://vgmsite.com/soundtracks/cake-shop-simulator-windows-gamerip-2020/fnkvhbjzpb/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/cake-shop-simulator-windows-gamerip-2020/fnkvhbjzpb/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cake-shop-simulator-windows-gamerip-2020/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5012193,
+      "filesize_mp3_bytes": 1803550,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 55,
+      "source_mp3": "https://vgmsite.com/soundtracks/cake-shop-simulator-windows-gamerip-2020/mgfgeevhzt/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/cake-shop-simulator-windows-gamerip-2020/mgfgeevhzt/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cake-shop-simulator-windows-gamerip-2020/02.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 112,
+    "filesize_mp3_bytes": 3743415,
+    "filesize_flac_bytes": 10580131,
+    "tracks": 2
+  }
+}

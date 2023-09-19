@@ -1,0 +1,102 @@
+{
+  "title": "Blackthorne (32X)",
+  "titles_alternative": [
+    "Blackhawk",
+    "\u30d6\u30e9\u30c3\u30af\u30bd\u30fc\u30f3"
+  ],
+  "crawled_at": "2023-09-19T00:30:30.301562+00:00",
+  "slug": "blackthorne-32x-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/blackthorne-32x-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/blackthorne-32x-genesis/Blackthorne.png"
+  ],
+  "year": 1995,
+  "date_added": "2020-03-02T00:00:00+00:00",
+  "developers": {
+    "Blizzard": "https://downloads.khinsider.com/game-soundtracks/developer/blizzard",
+    "Paradox": "https://downloads.khinsider.com/game-soundtracks/developer/paradox"
+  },
+  "publishers": {
+    "Interplay Productions": "https://downloads.khinsider.com/game-soundtracks/publisher/interplay-productions"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11293163,
+      "filesize_mp3_bytes": 4173332,
+      "track_number": 1,
+      "title": "Main Menu",
+      "runtime": 123,
+      "source_mp3": "https://vgmsite.com/soundtracks/blackthorne-32x-genesis/qjhdmmxoov/01%20-%20Main%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/blackthorne-32x-genesis/qjhdmmxoov/01%20-%20Main%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/blackthorne-32x-genesis/01%2520-%2520Main%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 14638120,
+      "filesize_mp3_bytes": 4750049,
+      "track_number": 2,
+      "title": "Story",
+      "runtime": 153,
+      "source_mp3": "https://vgmsite.com/soundtracks/blackthorne-32x-genesis/yqzjgyfdrc/02%20-%20Story.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/blackthorne-32x-genesis/yqzjgyfdrc/02%20-%20Story.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/blackthorne-32x-genesis/02%2520-%2520Story.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 17007902,
+      "filesize_mp3_bytes": 6092226,
+      "track_number": 3,
+      "title": "Mine",
+      "runtime": 189,
+      "source_mp3": "https://vgmsite.com/soundtracks/blackthorne-32x-genesis/avhbefwykw/03%20-%20Mine.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/blackthorne-32x-genesis/avhbefwykw/03%20-%20Mine.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/blackthorne-32x-genesis/03%2520-%2520Mine.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 21191720,
+      "filesize_mp3_bytes": 8168407,
+      "track_number": 4,
+      "title": "Mountains (Snow), Forest",
+      "runtime": 258,
+      "source_mp3": "https://vgmsite.com/soundtracks/blackthorne-32x-genesis/zawtglzrcn/04%20-%20Mountains%20%28Snow%29%2C%20Forest.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/blackthorne-32x-genesis/zawtglzrcn/04%20-%20Mountains%20%28Snow%29%2C%20Forest.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/blackthorne-32x-genesis/04%2520-%2520Mountains%2520%2528Snow%2529%252C%2520Forest.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9793699,
+      "filesize_mp3_bytes": 3418357,
+      "track_number": 5,
+      "title": "Mountains (Sand)",
+      "runtime": 128,
+      "source_mp3": "https://vgmsite.com/soundtracks/blackthorne-32x-genesis/wnbmbigfnq/05%20-%20Mountains%20%28Sand%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/blackthorne-32x-genesis/wnbmbigfnq/05%20-%20Mountains%20%28Sand%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/blackthorne-32x-genesis/05%2520-%2520Mountains%2520%2528Sand%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 12519997,
+      "filesize_mp3_bytes": 3701473,
+      "track_number": 6,
+      "title": "Sarlac's Keep",
+      "runtime": 137,
+      "source_mp3": "https://vgmsite.com/soundtracks/blackthorne-32x-genesis/eeayavfmdv/06%20-%20Sarlac%27s%20Keep.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/blackthorne-32x-genesis/eeayavfmdv/06%20-%20Sarlac%27s%20Keep.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/blackthorne-32x-genesis/06%2520-%2520Sarlac%2527s%2520Keep.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 988,
+    "filesize_mp3_bytes": 30303844,
+    "filesize_flac_bytes": 86444601,
+    "tracks": 6
+  }
+}

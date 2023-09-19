@@ -1,0 +1,72 @@
+{
+  "title": "CarVup",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T04:14:23.971184+00:00",
+  "slug": "carvup-atari-st",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/carvup-atari-st",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/carvup-atari-st/C1.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2017-12-25T00:00:00+00:00",
+  "developers": {
+    "Core Design": "https://downloads.khinsider.com/game-soundtracks/developer/core-design"
+  },
+  "publishers": {
+    "Core Design": "https://downloads.khinsider.com/game-soundtracks/publisher/core-design"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3607101,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 138,
+      "source_mp3": "https://vgmsite.com/soundtracks/carvup-atari-st/fqvlpxew/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/carvup-atari-st/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3607101,
+      "track_number": 2,
+      "title": "World 1",
+      "runtime": 145,
+      "source_mp3": "https://vgmsite.com/soundtracks/carvup-atari-st/nceejypn/02_World%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/carvup-atari-st/02_World%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4026531,
+      "track_number": 3,
+      "title": "World 2",
+      "runtime": 153,
+      "source_mp3": "https://vgmsite.com/soundtracks/carvup-atari-st/sbljsjof/03_World%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/carvup-atari-st/03_World%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3481272,
+      "track_number": 4,
+      "title": "World 3",
+      "runtime": 139,
+      "source_mp3": "https://vgmsite.com/soundtracks/carvup-atari-st/jqkfxsrn/04_World%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/carvup-atari-st/04_World%25203.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 575,
+    "filesize_mp3_bytes": 14722005,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

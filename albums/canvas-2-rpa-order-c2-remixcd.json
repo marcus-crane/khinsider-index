@@ -1,0 +1,46 @@
+{
+  "title": "Canvas 2 RPA Order C2 REMIXCD",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T03:49:46.827748+00:00",
+  "slug": "canvas-2-rpa-order-c2-remixcd",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/canvas-2-rpa-order-c2-remixcd",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/canvas-2-rpa-order-c2-remixcd/Canvas%202%20RPA%20Order%20C2%20REMIXCD.jpg"
+  ],
+  "year": 2004,
+  "date_added": "2022-07-11T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Remix": "https://downloads.khinsider.com/game-soundtracks/remixes"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9877585,
+      "track_number": 1,
+      "title": "Track01",
+      "runtime": 348,
+      "source_mp3": "https://vgmsite.com/soundtracks/canvas-2-rpa-order-c2-remixcd/xycoynqssr/01%20Track01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/canvas-2-rpa-order-c2-remixcd/01%2520Track01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7130316,
+      "track_number": 2,
+      "title": "Track02",
+      "runtime": 260,
+      "source_mp3": "https://vgmsite.com/soundtracks/canvas-2-rpa-order-c2-remixcd/vrprnbqmam/02%20Track02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/canvas-2-rpa-order-c2-remixcd/02%2520Track02.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 608,
+    "filesize_mp3_bytes": 17007901,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

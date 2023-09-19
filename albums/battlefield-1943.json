@@ -1,0 +1,95 @@
+{
+  "title": "Battlefield 1943",
+  "titles_alternative": [
+    "\u30d0\u30c8\u30eb\u30d5\u30a3\u30fc\u30eb\u30c91943"
+  ],
+  "crawled_at": "2023-09-18T23:27:16.407646+00:00",
+  "slug": "battlefield-1943",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/battlefield-1943",
+  "platforms": {
+    "PS3": "https://downloads.khinsider.com/game-soundtracks/playstation-3",
+    "Xbox 360": "https://downloads.khinsider.com/game-soundtracks/xbox-360"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/battlefield-1943/Battlefield%201943.jpg"
+  ],
+  "year": 2009,
+  "date_added": "2015-09-09T00:00:00+00:00",
+  "developers": {
+    "Dice": "https://downloads.khinsider.com/game-soundtracks/developer/dice"
+  },
+  "publishers": {
+    "EA": "https://downloads.khinsider.com/game-soundtracks/publisher/ea"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 440401,
+      "track_number": 1,
+      "title": "BMUS_UI_Logos_01",
+      "runtime": 15,
+      "source_mp3": "https://vgmsite.com/soundtracks/battlefield-1943/gutuvjqe/01%20-%20BMUS_UI_Logos_01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battlefield-1943/01%2520-%2520BMUS_UI_Logos_01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4099932,
+      "track_number": 2,
+      "title": "BMUS_Menu_001_WaveDataSns_1",
+      "runtime": 130,
+      "source_mp3": "https://vgmsite.com/soundtracks/battlefield-1943/msovvbvq/02%20-%20BMUS_Menu_001_WaveDataSns_1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battlefield-1943/02%2520-%2520BMUS_Menu_001_WaveDataSns_1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 15277752,
+      "track_number": 3,
+      "title": "BMUS_RadioAmerican_WaveDataSns_1",
+      "runtime": 530,
+      "source_mp3": "https://vgmsite.com/soundtracks/battlefield-1943/vczpklgd/03%20-%20BMUS_RadioAmerican_WaveDataSns_1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battlefield-1943/03%2520-%2520BMUS_RadioAmerican_WaveDataSns_1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 17867735,
+      "track_number": 4,
+      "title": "BMUS_RadioBF_WaveDataSns_1",
+      "runtime": 609,
+      "source_mp3": "https://vgmsite.com/soundtracks/battlefield-1943/umnloysd/04%20-%20BMUS_RadioBF_WaveDataSns_1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battlefield-1943/04%2520-%2520BMUS_RadioBF_WaveDataSns_1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 19933429,
+      "track_number": 5,
+      "title": "BMUS_RadioJapan_WaveDataSns_1",
+      "runtime": 705,
+      "source_mp3": "https://vgmsite.com/soundtracks/battlefield-1943/teydxctb/05%20-%20BMUS_RadioJapan_WaveDataSns_1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battlefield-1943/05%2520-%2520BMUS_RadioJapan_WaveDataSns_1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8524922,
+      "track_number": 6,
+      "title": "BMUS_USCreditsLoop_WaveDataSns_1",
+      "runtime": 255,
+      "source_mp3": "https://vgmsite.com/soundtracks/battlefield-1943/mbhqkejp/06%20-%20BMUS_USCreditsLoop_WaveDataSns_1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battlefield-1943/06%2520-%2520BMUS_USCreditsLoop_WaveDataSns_1.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2244,
+    "filesize_mp3_bytes": 66144171,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}
