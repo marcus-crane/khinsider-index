@@ -205,10 +205,16 @@ def get_real_tracks(url):
     rlinks = rsoup.find_all('span', {'class': 'songDownloadLink'})
     return [link.parent['href'] for link in rlinks]
 
-with open("../index.json", "r") as file:
-    data = json.loads(file.read())
+letter = os.getenv("LETTER")
 
-links = list(data['entries'].values())
+if letter:
+    with open(f"../letters/{letter}.json", "r") as file:
+        data = json.loads(file.read())
+        links = list(data.values())
+else:
+    with open("../index.json", "r") as file:
+        data = json.loads(file.read())
+        links = list(data['entries'].values())
 
 links.sort()
 
@@ -220,9 +226,7 @@ with open("../failure.log", "r") as file:
     failures = file.read()
 
 for link in links:
-    slug = link.replace('/game-soundtracks/album/', '')
-    if letter and slug[0] != letter:
-        continue
+    slug = link.replace('/game-soundtracks/album/', '').replace('https://downloads.khinsider.com', '')
     if slug in processed_links or slug in failures: # We skip failures for now but will handle them when sync is complete
         # print(f"Skipping {slug}")
         continue
