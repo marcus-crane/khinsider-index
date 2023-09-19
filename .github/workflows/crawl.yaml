@@ -19,7 +19,23 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        letter: ['_special', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+        include:
+          - letter: '_special'
+            stagger: 5
+          - letter: 'a'
+            stagger: 10
+          - letter: 'b'
+            stagger: 15
+          - letter: 'c'
+            stagger: 20
+          - letter: 'd'
+            stagger: 25
+          - letter: 'e'
+            stagger: 30
+          - letter: 'f'
+            stagger: 35
+          - letter: 'g'
+            stagger: 40
     steps:
 
       - name: Checkout
@@ -42,6 +58,8 @@ jobs:
         working-directory: scripts
         env:
           LETTER: "${{ matrix.letter }}"
+      
+      - run: sleep ${{ matrix.stagger }}
 
       - name: Commit changes
         if: always()
