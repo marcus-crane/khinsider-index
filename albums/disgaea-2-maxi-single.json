@@ -1,0 +1,64 @@
+{
+  "title": "Makai Senki Disgaea 2 Portable Original Maxi Single",
+  "titles_alternative": [
+    "\u9b54\u754c\u6226\u8a18\u30c7\u30a3\u30b9\u30ac\u30a4\u30a22 PORTABLE \u30aa\u30ea\u30b8\u30ca\u30eb\u30de\u30ad\u30b7\u30b7\u30f3\u30b0\u30eb"
+  ],
+  "crawled_at": "2023-09-19T09:38:49.523280+00:00",
+  "slug": "disgaea-2-maxi-single",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/disgaea-2-maxi-single",
+  "platforms": {
+    "Linux": "https://downloads.khinsider.com/game-soundtracks/linux",
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "PSP": "https://downloads.khinsider.com/game-soundtracks/playstation-portable-psp",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/disgaea-2-maxi-single/BK.jpg"
+  ],
+  "year": 2009,
+  "catalog_number": "ULJS-00182 (Single)",
+  "date_added": "2021-01-22T00:00:00+00:00",
+  "developers": {
+    "Nippon Ichi Software": "https://downloads.khinsider.com/game-soundtracks/developer/nippon-ichi-software"
+  },
+  "publishers": {
+    "KOEI": "https://downloads.khinsider.com/game-soundtracks/publisher/koei",
+    "Nippon Ichi Software": "https://downloads.khinsider.com/game-soundtracks/publisher/nippon-ichi-software",
+    "NIS America": "https://downloads.khinsider.com/game-soundtracks/publisher/nis-america",
+    "NIS Europe": "https://downloads.khinsider.com/game-soundtracks/publisher/nis-europe",
+    "SCEA": "https://downloads.khinsider.com/game-soundtracks/publisher/scea"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 32117882,
+      "filesize_mp3_bytes": 8336179,
+      "track_number": 1,
+      "title": "Let's Dance at the Final Battle!",
+      "runtime": 245,
+      "source_mp3": "https://vgmsite.com/soundtracks/disgaea-2-maxi-single/jyqquuwkzf/01%20Let%27s%20Dance%20at%20the%20Final%20Battle%21.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/disgaea-2-maxi-single/jyqquuwkzf/01%20Let%27s%20Dance%20at%20the%20Final%20Battle%21.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/disgaea-2-maxi-single/01%2520Let%2527s%2520Dance%2520at%2520the%2520Final%2520Battle%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 16085155,
+      "filesize_mp3_bytes": 4991221,
+      "track_number": 2,
+      "title": "AkutareBlues",
+      "runtime": 153,
+      "source_mp3": "https://vgmsite.com/soundtracks/disgaea-2-maxi-single/ccvljrllns/02%20AkutareBlues.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/disgaea-2-maxi-single/ccvljrllns/02%20AkutareBlues.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/disgaea-2-maxi-single/02%2520AkutareBlues.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 398,
+    "filesize_mp3_bytes": 13327400,
+    "filesize_flac_bytes": 48203037,
+    "tracks": 2
+  }
+}
