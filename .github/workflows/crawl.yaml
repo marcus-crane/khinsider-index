@@ -52,7 +52,7 @@ jobs:
           git config --local user.name "Indexer Bot"
           git config pull.rebase false
 
-          git pull
+          git pull origin main
           git add .
           git commit -a -m "Index extras have been updated" || exit 0
       
