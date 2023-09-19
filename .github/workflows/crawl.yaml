@@ -9,6 +9,7 @@ on:
   #     - 'index.json'
   workflow_dispatch:
 
+
 env:
   PYTHONUNBUFFERED: 1 # ensure that python scripts live output instead of buffering
 
@@ -16,6 +17,9 @@ jobs:
   index-crawl:
     name: index-crawl
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        letter: [d, e, f, g, h, i]
     steps:
 
       - name: Checkout
@@ -36,6 +40,8 @@ jobs:
       
       - run: python scrape.py
         working-directory: scripts
+        env:
+          LETTER: "${{ matrix.letter }}"
 
       - name: Commit changes
         if: always()
