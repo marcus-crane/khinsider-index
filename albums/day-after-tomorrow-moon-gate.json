@@ -1,0 +1,63 @@
+{
+  "title": "Moon Gate / Day After Tomorrow",
+  "titles_alternative": [
+    "Tales of Symphonia"
+  ],
+  "crawled_at": "2023-09-19T09:30:08.248429+00:00",
+  "slug": "day-after-tomorrow-moon-gate",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/day-after-tomorrow-moon-gate",
+  "platforms": {
+    "GC": "https://downloads.khinsider.com/game-soundtracks/nintendo-gamecube"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/day-after-tomorrow-moon-gate/day%20after%20tomorrow%20-%20moon%20gate.jpg"
+  ],
+  "year": 2003,
+  "catalog_number": "AVCD-30502",
+  "date_added": "2007-09-28T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "avex trax": "https://downloads.khinsider.com/game-soundtracks/publisher/avex-trax"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8136949,
+      "track_number": 1,
+      "title": "Starry Heavens",
+      "runtime": 289,
+      "source_mp3": "https://vgmsite.com/soundtracks/day-after-tomorrow-moon-gate/qkyrpqdr/01%20Starry%20Heavens.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/day-after-tomorrow-moon-gate/01%2520Starry%2520Heavens.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7759462,
+      "track_number": 2,
+      "title": "Neverland",
+      "runtime": 285,
+      "source_mp3": "https://vgmsite.com/soundtracks/day-after-tomorrow-moon-gate/roahrwrm/02%20Neverland.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/day-after-tomorrow-moon-gate/02%2520Neverland.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8399093,
+      "track_number": 3,
+      "title": "These Days",
+      "runtime": 308,
+      "source_mp3": "https://vgmsite.com/soundtracks/day-after-tomorrow-moon-gate/riayymvr/03%20These%20Days.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/day-after-tomorrow-moon-gate/03%2520These%2520Days.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 882,
+    "filesize_mp3_bytes": 24295504,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

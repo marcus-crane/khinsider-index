@@ -1,0 +1,393 @@
+{
+  "title": "Music from Bomberman",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T09:26:12.904107+00:00",
+  "slug": "bomberman-music-from",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/bomberman-music-from",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes",
+    "TurboGrafx-16": "https://downloads.khinsider.com/game-soundtracks/turbografx-16"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/bomberman-music-from/00-image-scan-fhcf-1104.jpg"
+  ],
+  "year": 1990,
+  "catalog_number": "FHCF-1104",
+  "date_added": "2019-06-15T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Fun House": "https://downloads.khinsider.com/game-soundtracks/publisher/fun-house"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6647971,
+      "track_number": 1,
+      "title": "Bomberman (BGM#1)",
+      "runtime": 303,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomberman-music-from/sffdazgsde/01.%20Bomberman%20%28BGM%231%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomberman-music-from/01.%2520Bomberman%2520%2528BGM%25231%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4928307,
+      "track_number": 2,
+      "title": "Shake It Up (BGM#2 & #3)",
+      "runtime": 251,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomberman-music-from/mghqkpgfha/02.%20Shake%20It%20Up%20%28BGM%232%20%26%20%233%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomberman-music-from/02.%2520Shake%2520It%2520Up%2520%2528BGM%25232%2520%2526%2520%25233%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6144655,
+      "track_number": 3,
+      "title": "Bomber Attack (Title, Power Up & Battle)",
+      "runtime": 308,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomberman-music-from/ldzprnbgyk/03.%20Bomber%20Attack%20%28Title%2C%20Power%20Up%20%26%20Battle%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomberman-music-from/03.%2520Bomber%2520Attack%2520%2528Title%252C%2520Power%2520Up%2520%2526%2520Battle%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 293601,
+      "track_number": 4,
+      "title": "Title",
+      "runtime": 21,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomberman-music-from/yilzffcyfz/04.%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomberman-music-from/04.%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 262144,
+      "track_number": 5,
+      "title": "End Story",
+      "runtime": 18,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomberman-music-from/iqkipadrxr/05.%20End%20Story.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomberman-music-from/05.%2520End%2520Story.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 356515,
+      "track_number": 6,
+      "title": "Opening Demo",
+      "runtime": 28,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomberman-music-from/ithiicqtfn/06.%20Opening%20Demo.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomberman-music-from/06.%2520Opening%2520Demo.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 7,
+      "title": "Map Display",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomberman-music-from/zhilxpdjap/07.%20Map%20Display.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomberman-music-from/07.%2520Map%2520Display.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 8,
+      "title": "Stage Start",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomberman-music-from/qhrcwbxzya/08.%20Stage%20Start.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomberman-music-from/08.%2520Stage%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2317352,
+      "track_number": 9,
+      "title": "BGM1",
+      "runtime": 153,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomberman-music-from/lspcxxsshh/09.%20BGM1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomberman-music-from/09.%2520BGM1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2380267,
+      "track_number": 10,
+      "title": "BGM2",
+      "runtime": 144,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomberman-music-from/iszpmqotpa/10.%20BGM2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomberman-music-from/10.%2520BGM2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2191523,
+      "track_number": 11,
+      "title": "BGM3",
+      "runtime": 146,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomberman-music-from/uryybiksbr/11.%20BGM3.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomberman-music-from/11.%2520BGM3.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 996147,
+      "track_number": 12,
+      "title": "BGM Invincible",
+      "runtime": 65,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomberman-music-from/xndpuimzbh/12.%20BGM%20Invincible.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomberman-music-from/12.%2520BGM%2520Invincible.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1300234,
+      "track_number": 13,
+      "title": "BGM Final Boss",
+      "runtime": 102,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomberman-music-from/avlpswsbuw/13.%20BGM%20Final%20Boss.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomberman-music-from/13.%2520BGM%2520Final%2520Boss.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 14,
+      "title": "Player Out",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomberman-music-from/mfekrovklb/14.%20Player%20Out.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomberman-music-from/14.%2520Player%2520Out.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 178257,
+      "track_number": 15,
+      "title": "Game Over",
+      "runtime": 12,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomberman-music-from/zwlhveoucn/15.%20Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomberman-music-from/15.%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 16,
+      "title": "Stage Clear",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomberman-music-from/tzuqubfdfm/16.%20Stage%20Clear.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomberman-music-from/16.%2520Stage%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 660602,
+      "track_number": 17,
+      "title": "Communication VS Entire Defeat",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomberman-music-from/ozexwugeyp/17.%20Communication%20VS%20Entire%20Defeat.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomberman-music-from/17.%2520Communication%2520VS%2520Entire%2520Defeat.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 220200,
+      "track_number": 18,
+      "title": "Ending Demo",
+      "runtime": 19,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomberman-music-from/uuzodvskgh/18.%20Ending%20Demo.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomberman-music-from/18.%2520Ending%2520Demo.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 734003,
+      "track_number": 19,
+      "title": "Staff Roll",
+      "runtime": 54,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomberman-music-from/usqiybvjmi/19.%20Staff%20Roll.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomberman-music-from/19.%2520Staff%2520Roll.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 901775,
+      "track_number": 20,
+      "title": "VS Competition BGM",
+      "runtime": 60,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomberman-music-from/roghlqxsoh/20.%20VS%20Competition%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomberman-music-from/20.%2520VS%2520Competition%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 21,
+      "title": "VS Victory",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomberman-music-from/ljnnrasaqr/21.%20VS%20Victory.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomberman-music-from/21.%2520VS%2520Victory.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 429916,
+      "track_number": 22,
+      "title": "VS Championship",
+      "runtime": 30,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomberman-music-from/unlzqmtsvc/22.%20VS%20Championship.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomberman-music-from/22.%2520VS%2520Championship.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 23,
+      "title": "VS Draw",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomberman-music-from/ltdfzxyazk/23.%20VS%20Draw.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomberman-music-from/23.%2520VS%2520Draw.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 985661,
+      "track_number": 24,
+      "title": "Boss BGM",
+      "runtime": 66,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomberman-music-from/jrxvjptnia/24.%20Boss%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomberman-music-from/24.%2520Boss%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 25,
+      "title": "Final Area Start",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomberman-music-from/rscpzmmtnc/25.%20Final%20Area%20Start.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomberman-music-from/25.%2520Final%2520Area%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 26,
+      "title": "Communication VS Defeat",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomberman-music-from/cvufuygnvw/26.%20Communication%20VS%20Defeat.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomberman-music-from/26.%2520Communication%2520VS%2520Defeat.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 241172,
+      "track_number": 27,
+      "title": "Title",
+      "runtime": 20,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomberman-music-from/nuptmysftn/27.%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomberman-music-from/27.%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 28,
+      "title": "Game Start",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomberman-music-from/amcckulmob/28.%20Game%20Start.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomberman-music-from/28.%2520Game%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 398458,
+      "track_number": 29,
+      "title": "Normal BGM",
+      "runtime": 31,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomberman-music-from/jqxyjderlx/29.%20Normal%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomberman-music-from/29.%2520Normal%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 272629,
+      "track_number": 30,
+      "title": "Item Acquired BGM",
+      "runtime": 23,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomberman-music-from/ftgtjtwhxw/30.%20Item%20Acquired%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomberman-music-from/30.%2520Item%2520Acquired%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 335544,
+      "track_number": 31,
+      "title": "Invincible BGM",
+      "runtime": 27,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomberman-music-from/sbuagjxqaz/31.%20Invincible%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomberman-music-from/31.%2520Invincible%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 346030,
+      "track_number": 32,
+      "title": "Bonus BGM",
+      "runtime": 28,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomberman-music-from/wvrkthspln/32.%20Bonus%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomberman-music-from/32.%2520Bonus%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 178257,
+      "track_number": 33,
+      "title": "Ending",
+      "runtime": 14,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomberman-music-from/kwqyuwhaye/33.%20Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomberman-music-from/33.%2520Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 34,
+      "title": "Player Out",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomberman-music-from/wafvlqqceq/34.%20Player%20Out.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomberman-music-from/34.%2520Player%2520Out.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 35,
+      "title": "Game Over",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomberman-music-from/jzccmyddns/35.%20Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomberman-music-from/35.%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 36,
+      "title": "Stage Clear",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/bomberman-music-from/yczfxkysqk/36.%20Stage%20Clear.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bomberman-music-from/36.%2520Stage%2520Clear.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2047,
+    "filesize_mp3_bytes": 34540074,
+    "filesize_flac_bytes": 0,
+    "tracks": 36
+  }
+}
