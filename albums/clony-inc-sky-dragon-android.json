@@ -1,0 +1,82 @@
+{
+  "title": "clony,inc - Sky Dragon",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T09:25:44.243279+00:00",
+  "slug": "clony-inc-sky-dragon-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/clony-inc-sky-dragon-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/clony-inc-sky-dragon-android/Folder.jpg"
+  ],
+  "year": 2015,
+  "date_added": "2018-11-08T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 230686,
+      "title": "BGM Battle 1",
+      "runtime": 24,
+      "source_mp3": "https://vgmsite.com/soundtracks/clony-inc-sky-dragon-android/roikjqsw/BGM%20Battle%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/clony-inc-sky-dragon-android/BGM%2520Battle%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 304087,
+      "title": "BGM Battle 2",
+      "runtime": 30,
+      "source_mp3": "https://vgmsite.com/soundtracks/clony-inc-sky-dragon-android/fenmaanh/BGM%20Battle%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/clony-inc-sky-dragon-android/BGM%2520Battle%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 629145,
+      "title": "BGM Boss 1",
+      "runtime": 79,
+      "source_mp3": "https://vgmsite.com/soundtracks/clony-inc-sky-dragon-android/olzpbzav/BGM%20Boss%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/clony-inc-sky-dragon-android/BGM%2520Boss%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 513802,
+      "title": "BGM Boss 2",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/clony-inc-sky-dragon-android/pjkurpdh/BGM%20Boss%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/clony-inc-sky-dragon-android/BGM%2520Boss%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1719664,
+      "title": "BGM Quest",
+      "runtime": 215,
+      "source_mp3": "https://vgmsite.com/soundtracks/clony-inc-sky-dragon-android/vjdtbtpy/BGM%20Quest.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/clony-inc-sky-dragon-android/BGM%2520Quest.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 367001,
+      "title": "BGM Victory",
+      "runtime": 45,
+      "source_mp3": "https://vgmsite.com/soundtracks/clony-inc-sky-dragon-android/qfigxkvq/BGM%20Victory.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/clony-inc-sky-dragon-android/BGM%2520Victory.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 457,
+    "filesize_mp3_bytes": 3764385,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

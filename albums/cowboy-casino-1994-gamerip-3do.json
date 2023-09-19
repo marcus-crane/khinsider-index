@@ -1,0 +1,52 @@
+{
+  "title": "Cowboy Casino",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T09:27:30.356263+00:00",
+  "slug": "cowboy-casino-1994-gamerip-3do",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/cowboy-casino-1994-gamerip-3do",
+  "platforms": {
+    "3DO": "https://downloads.khinsider.com/game-soundtracks/3do"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/cowboy-casino-1994-gamerip-3do/Cover%201.png"
+  ],
+  "year": 1994,
+  "date_added": "2022-06-14T00:00:00+00:00",
+  "developers": {
+    "Intellimedia Sports": "https://downloads.khinsider.com/game-soundtracks/developer/intellimedia-sports"
+  },
+  "publishers": {
+    "IntelliPlay": "https://downloads.khinsider.com/game-soundtracks/publisher/intelliplay"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2998927,
+      "track_number": 1,
+      "title": "Annoying Piano",
+      "runtime": 71,
+      "source_mp3": "https://vgmsite.com/soundtracks/cowboy-casino-1994-gamerip-3do/uugydjuhij/1%20-%20Annoying%20Piano.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cowboy-casino-1994-gamerip-3do/1%2520-%2520Annoying%2520Piano.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2495610,
+      "track_number": 2,
+      "title": "Annoying Piano (Old)",
+      "runtime": 59,
+      "source_mp3": "https://vgmsite.com/soundtracks/cowboy-casino-1994-gamerip-3do/pgiwbbmviy/2%20-%20Annoying%20Piano%20%28Old%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cowboy-casino-1994-gamerip-3do/2%2520-%2520Annoying%2520Piano%2520%2528Old%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 130,
+    "filesize_mp3_bytes": 5494537,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}
