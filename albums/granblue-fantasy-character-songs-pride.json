@@ -1,0 +1,53 @@
+{
+  "title": "PRIDE ~GRANBLUE FANTASY~",
+  "titles_alternative": [
+    "Granblue Fantasy Character Songs - Pride"
+  ],
+  "crawled_at": "2023-09-19T09:39:31.454669+00:00",
+  "slug": "granblue-fantasy-character-songs-pride",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/granblue-fantasy-character-songs-pride",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/granblue-fantasy-character-songs-pride/00%20-%20obi.JPG"
+  ],
+  "year": 2018,
+  "catalog_number": "SVWC-70370",
+  "date_added": "2020-10-02T00:00:00+00:00",
+  "developers": {
+    "Cygames": "https://downloads.khinsider.com/game-soundtracks/developer/cygames"
+  },
+  "publishers": {},
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 39395000,
+      "filesize_mp3_bytes": 9017753,
+      "track_number": 1,
+      "title": "PRIDE",
+      "runtime": 279,
+      "source_mp3": "https://vgmsite.com/soundtracks/granblue-fantasy-character-songs-pride/bketbupssb/01.%20PRIDE.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/granblue-fantasy-character-songs-pride/bketbupssb/01.%20PRIDE.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/granblue-fantasy-character-songs-pride/01.%2520PRIDE.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 38923141,
+      "filesize_mp3_bytes": 8986296,
+      "track_number": 2,
+      "title": "PRIDE (instrumental)",
+      "runtime": 279,
+      "source_mp3": "https://vgmsite.com/soundtracks/granblue-fantasy-character-songs-pride/zhncbyjmgm/02.%20PRIDE%20%28instrumental%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/granblue-fantasy-character-songs-pride/zhncbyjmgm/02.%20PRIDE%20%28instrumental%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/granblue-fantasy-character-songs-pride/02.%2520PRIDE%2520%2528instrumental%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 558,
+    "filesize_mp3_bytes": 18004049,
+    "filesize_flac_bytes": 78318141,
+    "tracks": 2
+  }
+}
