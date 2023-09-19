@@ -1,0 +1,64 @@
+{
+  "title": "F-117A",
+  "titles_alternative": [
+    "F-117A Nighthawk Stealth Fighter 2.0"
+  ],
+  "crawled_at": "2023-09-19T09:41:12.439285+00:00",
+  "slug": "f-117a-original-game-rip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/f-117a-original-game-rip",
+  "platforms": {
+    "MS-DOS": "https://downloads.khinsider.com/game-soundtracks/ms-dos"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/f-117a-original-game-rip/00-box.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2006-11-20T00:00:00+00:00",
+  "developers": {
+    "MPS Labs": "https://downloads.khinsider.com/game-soundtracks/developer/mps-labs"
+  },
+  "publishers": {
+    "MicroProse": "https://downloads.khinsider.com/game-soundtracks/publisher/microprose"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 1,
+      "title": "mps logo",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/f-117a-original-game-rip/kbhadxyr/01%20-%20mps%20logo.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/f-117a-original-game-rip/01%2520-%2520mps%2520logo.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2065694,
+      "track_number": 2,
+      "title": "opening",
+      "runtime": 94,
+      "source_mp3": "https://vgmsite.com/soundtracks/f-117a-original-game-rip/lrcnmvsf/02%20-%20opening.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/f-117a-original-game-rip/02%2520-%2520opening.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 608174,
+      "track_number": 3,
+      "title": "leaving the hangar",
+      "runtime": 29,
+      "source_mp3": "https://vgmsite.com/soundtracks/f-117a-original-game-rip/sqwueuvz/03%20-%20leaving%20the%20hangar.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/f-117a-original-game-rip/03%2520-%2520leaving%2520the%2520hangar.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 131,
+    "filesize_mp3_bytes": 2810182,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

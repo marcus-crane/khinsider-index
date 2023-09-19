@@ -1,0 +1,68 @@
+{
+  "title": "F-1 Race",
+  "titles_alternative": [
+    "F1\u30ec\u30fc\u30b9"
+  ],
+  "crawled_at": "2023-09-19T09:40:45.726785+00:00",
+  "slug": "f-1-race-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/f-1-race-nes",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/f-1-race-nes/F-1%20Race.png"
+  ],
+  "year": 1984,
+  "date_added": "2022-06-22T00:00:00+00:00",
+  "developers": {
+    "HAL Laboratory": "https://downloads.khinsider.com/game-soundtracks/developer/hal-laboratory"
+  },
+  "publishers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1384120,
+      "filesize_mp3_bytes": 629145,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 29,
+      "source_mp3": "https://vgmsite.com/soundtracks/f-1-race-nes/lumrumfkay/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/f-1-race-nes/lumrumfkay/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/f-1-race-nes/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 188743,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 2,
+      "title": "Circuit Map",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/f-1-race-nes/nfbenpvyag/02%20Circuit%20Map.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/f-1-race-nes/nfbenpvyag/02%20Circuit%20Map.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/f-1-race-nes/02%2520Circuit%2520Map.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 482344,
+      "filesize_mp3_bytes": 220200,
+      "track_number": 3,
+      "title": "Game Over",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/f-1-race-nes/vdnktpdtjn/03%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/f-1-race-nes/vdnktpdtjn/03%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/f-1-race-nes/03%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 44,
+    "filesize_mp3_bytes": 933231,
+    "filesize_flac_bytes": 2055207,
+    "tracks": 3
+  }
+}
