@@ -1,0 +1,87 @@
+{
+  "title": "b",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T09:16:35.323760+00:00",
+  "slug": "b-windows-gamerip-2017",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/b-windows-gamerip-2017",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/b-windows-gamerip-2017/b_1.jpg"
+  ],
+  "year": 2017,
+  "date_added": "2023-07-06T00:00:00+00:00",
+  "developers": {
+    "u&i": "https://downloads.khinsider.com/game-soundtracks/developer/u-i"
+  },
+  "publishers": {
+    "u&i": "https://downloads.khinsider.com/game-soundtracks/publisher/u-i"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3145728,
+      "filesize_mp3_bytes": 901775,
+      "track_number": 1,
+      "title": "Active",
+      "runtime": 26,
+      "source_mp3": "https://vgmsite.com/soundtracks/b-windows-gamerip-2017/uekrbkagrq/1.%20Active.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/b-windows-gamerip-2017/uekrbkagrq/1.%20Active.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/b-windows-gamerip-2017/1.%2520Active.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 18402508,
+      "filesize_mp3_bytes": 5515509,
+      "track_number": 2,
+      "title": "Days In the Sun",
+      "runtime": 162,
+      "source_mp3": "https://vgmsite.com/soundtracks/b-windows-gamerip-2017/cnqrfzafog/2.%20Days%20In%20the%20Sun.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/b-windows-gamerip-2017/cnqrfzafog/2.%20Days%20In%20the%20Sun.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/b-windows-gamerip-2017/2.%2520Days%2520In%2520the%2520Sun.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8493465,
+      "filesize_mp3_bytes": 4183818,
+      "track_number": 3,
+      "title": "Forgive Forget",
+      "runtime": 141,
+      "source_mp3": "https://vgmsite.com/soundtracks/b-windows-gamerip-2017/ujkntghkvc/3.%20Forgive%20Forget.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/b-windows-gamerip-2017/ujkntghkvc/3.%20Forgive%20Forget.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/b-windows-gamerip-2017/3.%2520Forgive%2520Forget.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2369781,
+      "filesize_mp3_bytes": 1426063,
+      "track_number": 4,
+      "title": "From Night to Dawn",
+      "runtime": 60,
+      "source_mp3": "https://vgmsite.com/soundtracks/b-windows-gamerip-2017/gcjzlznztm/4.%20From%20Night%20to%20Dawn.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/b-windows-gamerip-2017/gcjzlznztm/4.%20From%20Night%20to%20Dawn.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/b-windows-gamerip-2017/4.%2520From%2520Night%2520to%2520Dawn.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 12834570,
+      "filesize_mp3_bytes": 4236247,
+      "track_number": 5,
+      "title": "Our World",
+      "runtime": 132,
+      "source_mp3": "https://vgmsite.com/soundtracks/b-windows-gamerip-2017/zswnejwlrf/5.%20Our%20World.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/b-windows-gamerip-2017/zswnejwlrf/5.%20Our%20World.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/b-windows-gamerip-2017/5.%2520Our%2520World.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 521,
+    "filesize_mp3_bytes": 16263412,
+    "filesize_flac_bytes": 45246052,
+    "tracks": 5
+  }
+}
