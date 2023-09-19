@@ -1,0 +1,64 @@
+{
+  "title": "D+VINE[LUV] Opening themesong CD",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T08:50:14.596097+00:00",
+  "slug": "d-vine-luv",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/d-vine-luv",
+  "platforms": {
+    "Dreamcast": "https://downloads.khinsider.com/game-soundtracks/sega-dreamcast"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/d-vine-luv/BK.jpg"
+  ],
+  "year": 2001,
+  "catalog_number": "T-46502M",
+  "date_added": "2020-04-06T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "OAKS": "https://downloads.khinsider.com/game-soundtracks/publisher/oaks"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 46630174,
+      "filesize_mp3_bytes": 14355005,
+      "track_number": 1,
+      "title": "resolution of soul (Long version)",
+      "runtime": 360,
+      "source_mp3": "https://vgmsite.com/soundtracks/d-vine-luv/aicgudprwd/01%20resolution%20of%20soul%20%28Long%20version%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/d-vine-luv/aicgudprwd/01%20resolution%20of%20soul%20%28Long%20version%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/d-vine-luv/01%2520resolution%2520of%2520soul%2520%2528Long%2520version%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 12572426,
+      "filesize_mp3_bytes": 5316280,
+      "track_number": 2,
+      "title": "resolution of soul (Short version)",
+      "runtime": 94,
+      "source_mp3": "https://vgmsite.com/soundtracks/d-vine-luv/rkeyzrehqb/02%20resolution%20of%20soul%20%28Short%20version%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/d-vine-luv/rkeyzrehqb/02%20resolution%20of%20soul%20%28Short%20version%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/d-vine-luv/02%2520resolution%2520of%2520soul%2520%2528Short%2520version%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 46063943,
+      "filesize_mp3_bytes": 14396948,
+      "track_number": 3,
+      "title": "resolution of soul (Karaoke version)",
+      "runtime": 358,
+      "source_mp3": "https://vgmsite.com/soundtracks/d-vine-luv/nrvumzxnbp/03%20resolution%20of%20soul%20%28Karaoke%20version%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/d-vine-luv/nrvumzxnbp/03%20resolution%20of%20soul%20%28Karaoke%20version%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/d-vine-luv/03%2520resolution%2520of%2520soul%2520%2528Karaoke%2520version%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 812,
+    "filesize_mp3_bytes": 34068233,
+    "filesize_flac_bytes": 105266543,
+    "tracks": 3
+  }
+}
