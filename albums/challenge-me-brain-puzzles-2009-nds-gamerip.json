@@ -1,0 +1,65 @@
+{
+  "title": "Challenge Me - Brain Puzzles",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T07:18:55.379086+00:00",
+  "slug": "challenge-me-brain-puzzles-2009-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/challenge-me-brain-puzzles-2009-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/challenge-me-brain-puzzles-2009-nds-gamerip/Challenge%20Me%20-%20Brain%20Puzzles.jpg"
+  ],
+  "year": 2009,
+  "date_added": "2020-06-03T00:00:00+00:00",
+  "developers": {
+    "TDK Core": "https://downloads.khinsider.com/game-soundtracks/developer/tdk-core"
+  },
+  "publishers": {
+    "Oxygen": "https://downloads.khinsider.com/game-soundtracks/publisher/oxygen"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6668943,
+      "filesize_mp3_bytes": 2348810,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 73,
+      "source_mp3": "https://vgmsite.com/soundtracks/challenge-me-brain-puzzles-2009-nds-gamerip/bnqnlwhpux/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/challenge-me-brain-puzzles-2009-nds-gamerip/bnqnlwhpux/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/challenge-me-brain-puzzles-2009-nds-gamerip/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7046430,
+      "filesize_mp3_bytes": 2464153,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 74,
+      "source_mp3": "https://vgmsite.com/soundtracks/challenge-me-brain-puzzles-2009-nds-gamerip/jijbgmqhyo/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/challenge-me-brain-puzzles-2009-nds-gamerip/jijbgmqhyo/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/challenge-me-brain-puzzles-2009-nds-gamerip/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5536481,
+      "filesize_mp3_bytes": 1855979,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 54,
+      "source_mp3": "https://vgmsite.com/soundtracks/challenge-me-brain-puzzles-2009-nds-gamerip/ytqefwvgld/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/challenge-me-brain-puzzles-2009-nds-gamerip/ytqefwvgld/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/challenge-me-brain-puzzles-2009-nds-gamerip/03.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 201,
+    "filesize_mp3_bytes": 6668942,
+    "filesize_flac_bytes": 19251854,
+    "tracks": 3
+  }
+}

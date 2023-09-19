@@ -1,0 +1,61 @@
+{
+  "title": "Cheetahmen 2",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T07:24:32.353329+00:00",
+  "slug": "cheetahmen-2-1993-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/cheetahmen-2-1993-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/cheetahmen-2-1993-nes/The%20Cheetahmen%20II.png"
+  ],
+  "year": 1993,
+  "date_added": "2021-08-04T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3323985,
+      "filesize_mp3_bytes": 1541406,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 68,
+      "source_mp3": "https://vgmsite.com/soundtracks/cheetahmen-2-1993-nes/imhfdjugfd/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/cheetahmen-2-1993-nes/imhfdjugfd/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cheetahmen-2-1993-nes/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 14166261,
+      "filesize_mp3_bytes": 7476346,
+      "track_number": 2,
+      "title": "Main Theme",
+      "runtime": 393,
+      "source_mp3": "https://vgmsite.com/soundtracks/cheetahmen-2-1993-nes/haihkrewqv/02%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/cheetahmen-2-1993-nes/haihkrewqv/02%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cheetahmen-2-1993-nes/02%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 524288,
+      "filesize_mp3_bytes": 471859,
+      "track_number": 3,
+      "title": "Death",
+      "runtime": 17,
+      "source_mp3": "https://vgmsite.com/soundtracks/cheetahmen-2-1993-nes/fzwmglvzyo/03%20Death.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/cheetahmen-2-1993-nes/fzwmglvzyo/03%20Death.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cheetahmen-2-1993-nes/03%2520Death.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 478,
+    "filesize_mp3_bytes": 9489611,
+    "filesize_flac_bytes": 18014534,
+    "tracks": 3
+  }
+}

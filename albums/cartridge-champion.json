@@ -1,0 +1,51 @@
+{
+  "title": "Cartridge Champion",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T07:02:31.919132+00:00",
+  "slug": "cartridge-champion",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/cartridge-champion",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/cartridge-champion/coverart.jpg"
+  ],
+  "year": 2012,
+  "date_added": "2015-11-18T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2243952,
+      "title": "01 Intro.mp3",
+      "runtime": 65,
+      "source_mp3": "https://vgmsite.com/soundtracks/cartridge-champion/dzndjljf/01%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cartridge-champion/01%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5892997,
+      "title": "03 Lucca's Number.mp3",
+      "runtime": 194,
+      "source_mp3": "https://vgmsite.com/soundtracks/cartridge-champion/usfwldjt/03%20Lucca%27s%20Number.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cartridge-champion/03%2520Lucca%2527s%2520Number.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4750049,
+      "title": "04 Buzz Buzz!.mp3",
+      "runtime": 162,
+      "source_mp3": "https://vgmsite.com/soundtracks/cartridge-champion/sjfpkldq/04%20Buzz%20Buzz%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cartridge-champion/04%2520Buzz%2520Buzz%2521.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 421,
+    "filesize_mp3_bytes": 12886998,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

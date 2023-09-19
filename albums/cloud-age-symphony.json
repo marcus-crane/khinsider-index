@@ -1,0 +1,71 @@
+{
+  "title": "Cloud Age Symphony / Shuntaro Okino",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T08:00:04.948024+00:00",
+  "slug": "cloud-age-symphony",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/cloud-age-symphony",
+  "platforms": {
+    "Anime": "https://downloads.khinsider.com/game-soundtracks/anime"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/cloud-age-symphony/Cloud%20Age%20Symphony.jpg"
+  ],
+  "year": 2003,
+  "catalog_number": "VICL-35484",
+  "date_added": "2006-11-18T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Victor": "https://downloads.khinsider.com/game-soundtracks/publisher/victor"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8640266,
+      "track_number": 1,
+      "title": "cloud age symphony",
+      "runtime": 360,
+      "source_mp3": "https://vgmsite.com/soundtracks/cloud-age-symphony/xfyvplmr/01%20-%20cloud%20age%20symphony.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cloud-age-symphony/01%2520-%2520cloud%2520age%2520symphony.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7486832,
+      "track_number": 2,
+      "title": "skywriting",
+      "runtime": 312,
+      "source_mp3": "https://vgmsite.com/soundtracks/cloud-age-symphony/ztevqcry/02%20-%20skywriting.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cloud-age-symphony/02%2520-%2520skywriting.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8640266,
+      "track_number": 3,
+      "title": "cloud age symphony [instrumental]",
+      "runtime": 360,
+      "source_mp3": "https://vgmsite.com/soundtracks/cloud-age-symphony/urnjacwm/03%20-%20cloud%20age%20symphony%20%5Binstrumental%5D.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cloud-age-symphony/03%2520-%2520cloud%2520age%2520symphony%2520%255Binstrumental%255D.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7392460,
+      "track_number": 4,
+      "title": "skywriting [instrumental]",
+      "runtime": 308,
+      "source_mp3": "https://vgmsite.com/soundtracks/cloud-age-symphony/mrclziwx/04%20-%20skywriting%20%5Binstrumental%5D.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cloud-age-symphony/04%2520-%2520skywriting%2520%255Binstrumental%255D.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1340,
+    "filesize_mp3_bytes": 32159824,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

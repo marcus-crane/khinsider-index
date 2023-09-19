@@ -1,0 +1,61 @@
+{
+  "title": "Castle Kingdoms",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T07:03:37.441373+00:00",
+  "slug": "castle-kingdoms-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/castle-kingdoms-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/castle-kingdoms-amiga/castle_kingdoms_01.jpg"
+  ],
+  "year": 1997,
+  "date_added": "2021-02-27T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1300234,
+      "filesize_mp3_bytes": 220200,
+      "track_number": 1,
+      "title": "Mutation",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/castle-kingdoms-amiga/hpdleqaohp/1.%20Mutation.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/castle-kingdoms-amiga/hpdleqaohp/1.%20Mutation.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/castle-kingdoms-amiga/1.%2520Mutation.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20352860,
+      "filesize_mp3_bytes": 3261071,
+      "track_number": 2,
+      "title": "Title",
+      "runtime": 115,
+      "source_mp3": "https://vgmsite.com/soundtracks/castle-kingdoms-amiga/qkmesrpmff/2.%20Title.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/castle-kingdoms-amiga/qkmesrpmff/2.%20Title.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/castle-kingdoms-amiga/2.%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1342177,
+      "filesize_mp3_bytes": 220200,
+      "track_number": 3,
+      "title": "Level",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/castle-kingdoms-amiga/zyhftxyqmi/3.%20Level.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/castle-kingdoms-amiga/zyhftxyqmi/3.%20Level.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/castle-kingdoms-amiga/3.%2520Level.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 131,
+    "filesize_mp3_bytes": 3701471,
+    "filesize_flac_bytes": 22995271,
+    "tracks": 3
+  }
+}

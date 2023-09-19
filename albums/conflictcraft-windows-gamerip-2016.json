@@ -1,0 +1,66 @@
+{
+  "title": "ConflictCraft",
+  "titles_alternative": [
+    "Conflict Craft"
+  ],
+  "crawled_at": "2023-09-19T08:21:08.223478+00:00",
+  "slug": "conflictcraft-windows-gamerip-2016",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/conflictcraft-windows-gamerip-2016",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/conflictcraft-windows-gamerip-2016/ConflictCraft.jpg"
+  ],
+  "year": 2016,
+  "date_added": "2023-03-13T00:00:00+00:00",
+  "developers": {
+    "Atomic Fabrik": "https://downloads.khinsider.com/game-soundtracks/developer/atomic-fabrik",
+    "Cristian Manolachi": "https://downloads.khinsider.com/game-soundtracks/developer/cristian-manolachi"
+  },
+  "publishers": {
+    "Atomic Fabrik": "https://downloads.khinsider.com/game-soundtracks/publisher/atomic-fabrik",
+    "Cristian Manolachi": "https://downloads.khinsider.com/game-soundtracks/publisher/cristian-manolachi"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1541406,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/conflictcraft-windows-gamerip-2016/skwyzvzdbl/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/conflictcraft-windows-gamerip-2016/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1740636,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 109,
+      "source_mp3": "https://vgmsite.com/soundtracks/conflictcraft-windows-gamerip-2016/ydstbpvabl/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/conflictcraft-windows-gamerip-2016/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1153433,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 72,
+      "source_mp3": "https://vgmsite.com/soundtracks/conflictcraft-windows-gamerip-2016/pbhnxnoveb/03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/conflictcraft-windows-gamerip-2016/03.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 277,
+    "filesize_mp3_bytes": 4435475,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

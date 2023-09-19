@@ -1,0 +1,50 @@
+{
+  "title": "Clever Kids - Creepy Crawlies",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T07:58:10.672862+00:00",
+  "slug": "clever-kids-creepy-crawlies-2010-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/clever-kids-creepy-crawlies-2010-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/clever-kids-creepy-crawlies-2010-nds-gamerip/Clever%20Kids%20-%20Creepy%20Crawlies.jpg"
+  ],
+  "year": 2010,
+  "date_added": "2020-06-03T00:00:00+00:00",
+  "developers": {
+    "Midas": "https://downloads.khinsider.com/game-soundtracks/developer/midas"
+  },
+  "publishers": {
+    "Midas": "https://downloads.khinsider.com/game-soundtracks/publisher/midas"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 482344,
+      "title": "Main",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/clever-kids-creepy-crawlies-2010-nds-gamerip/kpzyukdrrj/Main.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/clever-kids-creepy-crawlies-2010-nds-gamerip/Main.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 157286,
+      "title": "Title",
+      "runtime": 19,
+      "source_mp3": "https://vgmsite.com/soundtracks/clever-kids-creepy-crawlies-2010-nds-gamerip/zcayxpzwpu/Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/clever-kids-creepy-crawlies-2010-nds-gamerip/Title.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 83,
+    "filesize_mp3_bytes": 639630,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

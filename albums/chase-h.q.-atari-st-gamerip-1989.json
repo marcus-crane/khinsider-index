@@ -1,0 +1,85 @@
+{
+  "title": "Chase H.Q.",
+  "titles_alternative": [
+    "\u30bf\u30a4\u30c8\u30fc\u30c1\u30a7\u30a4\u30b9H.Q."
+  ],
+  "crawled_at": "2023-09-19T07:22:58.226844+00:00",
+  "slug": "chase-h.q.-atari-st-gamerip-1989",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/chase-h.q.-atari-st-gamerip-1989",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/chase-h.q.-atari-st-gamerip-1989/Chase%20HQ%20Atari%20ST%20Title%20Screen.png"
+  ],
+  "year": 1989,
+  "date_added": "2023-09-05T00:00:00+00:00",
+  "developers": {
+    "Taito Corporation": "https://downloads.khinsider.com/game-soundtracks/developer/taito-corporation",
+    "Teque Software Development": "https://downloads.khinsider.com/game-soundtracks/developer/teque-software-development"
+  },
+  "publishers": {
+    "Ocean Software": "https://downloads.khinsider.com/game-soundtracks/publisher/ocean-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 178257,
+      "track_number": 1,
+      "title": "Arrest",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/chase-h.q.-atari-st-gamerip-1989/irpijogkjz/01.%20Arrest.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chase-h.q.-atari-st-gamerip-1989/01.%2520Arrest.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 314572,
+      "track_number": 2,
+      "title": "Count Down",
+      "runtime": 13,
+      "source_mp3": "https://vgmsite.com/soundtracks/chase-h.q.-atari-st-gamerip-1989/ucxefhmmgl/02.%20Count%20Down.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chase-h.q.-atari-st-gamerip-1989/02.%2520Count%2520Down.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 807403,
+      "track_number": 3,
+      "title": "Los Angeles",
+      "runtime": 34,
+      "source_mp3": "https://vgmsite.com/soundtracks/chase-h.q.-atari-st-gamerip-1989/xtviaemszq/03.%20Los%20Angeles.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chase-h.q.-atari-st-gamerip-1989/03.%2520Los%2520Angeles.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 377487,
+      "track_number": 4,
+      "title": "Round Start",
+      "runtime": 16,
+      "source_mp3": "https://vgmsite.com/soundtracks/chase-h.q.-atari-st-gamerip-1989/hzcupwjkaq/04.%20Round%20Start.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chase-h.q.-atari-st-gamerip-1989/04.%2520Round%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1436549,
+      "track_number": 5,
+      "title": "This is Chase H.Q.!",
+      "runtime": 60,
+      "source_mp3": "https://vgmsite.com/soundtracks/chase-h.q.-atari-st-gamerip-1989/atipyytoqm/05.%20This%20is%20Chase%20H.Q.%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chase-h.q.-atari-st-gamerip-1989/05.%2520This%2520is%2520Chase%2520H.Q.%2521.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 130,
+    "filesize_mp3_bytes": 3114268,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "title": "Circus Charlie",
+  "titles_alternative": [
+    "\u30b5\u30fc\u30ab\u30b9\u30c1\u30e3\u30fc\u30ea\u30fc"
+  ],
+  "crawled_at": "2023-09-19T07:47:08.114360+00:00",
+  "slug": "circus-charlie-family-computer",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/circus-charlie-family-computer",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/circus-charlie-family-computer/CC.jpg"
+  ],
+  "year": 1986,
+  "date_added": "2022-03-28T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami"
+  },
+  "publishers": {
+    "Soft Pro": "https://downloads.khinsider.com/game-soundtracks/publisher/soft-pro"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2663383,
+      "filesize_mp3_bytes": 1006632,
+      "track_number": 1,
+      "title": "Jump Through the Wheel of Fire ~ Get on the Bend",
+      "runtime": 55,
+      "source_mp3": "https://vgmsite.com/soundtracks/circus-charlie-family-computer/sqoaqponkt/01%20Jump%20Through%20the%20Wheel%20of%20Fire%20~%20Get%20on%20the%20Bend.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/circus-charlie-family-computer/sqoaqponkt/01%20Jump%20Through%20the%20Wheel%20of%20Fire%20~%20Get%20on%20the%20Bend.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/circus-charlie-family-computer/01%2520Jump%2520Through%2520the%2520Wheel%2520of%2520Fire%2520~%2520Get%2520on%2520the%2520Bend.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3365928,
+      "filesize_mp3_bytes": 1384120,
+      "track_number": 2,
+      "title": "Ropewalking ~ Jump on the Jewel",
+      "runtime": 70,
+      "source_mp3": "https://vgmsite.com/soundtracks/circus-charlie-family-computer/wrzmtiicud/02%20Ropewalking%20~%20Jump%20on%20the%20Jewel.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/circus-charlie-family-computer/wrzmtiicud/02%20Ropewalking%20~%20Jump%20on%20the%20Jewel.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/circus-charlie-family-computer/02%2520Ropewalking%2520~%2520Jump%2520on%2520the%2520Jewel.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2778726,
+      "filesize_mp3_bytes": 1216348,
+      "track_number": 3,
+      "title": "Aerial Bar",
+      "runtime": 61,
+      "source_mp3": "https://vgmsite.com/soundtracks/circus-charlie-family-computer/tuckfsxcfw/03%20Aerial%20Bar.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/circus-charlie-family-computer/tuckfsxcfw/03%20Aerial%20Bar.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/circus-charlie-family-computer/03%2520Aerial%2520Bar.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 146800,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 4,
+      "title": "Miss",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/circus-charlie-family-computer/puzilxyplc/04%20Miss.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/circus-charlie-family-computer/puzilxyplc/04%20Miss.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/circus-charlie-family-computer/04%2520Miss.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 190,
+    "filesize_mp3_bytes": 3670014,
+    "filesize_flac_bytes": 8954837,
+    "tracks": 4
+  }
+}

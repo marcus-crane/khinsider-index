@@ -1,0 +1,44 @@
+{
+  "title": "Clash of Kings (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T07:56:22.752178+00:00",
+  "slug": "clash-of-kings-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/clash-of-kings-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/clash-of-kings-android-game-music/1.jpg"
+  ],
+  "year": 2015,
+  "date_added": "2016-06-25T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1059061,
+      "title": "m_city_new",
+      "runtime": 132,
+      "source_mp3": "https://vgmsite.com/soundtracks/clash-of-kings-android-game-music/ajkuszfv/m_city_new.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/clash-of-kings-android-game-music/m_city_new.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 943718,
+      "title": "m_field_new",
+      "runtime": 118,
+      "source_mp3": "https://vgmsite.com/soundtracks/clash-of-kings-android-game-music/kssfmcoc/m_field_new.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/clash-of-kings-android-game-music/m_field_new.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 250,
+    "filesize_mp3_bytes": 2002779,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

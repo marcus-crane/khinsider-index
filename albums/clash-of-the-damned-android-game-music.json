@@ -1,0 +1,52 @@
+{
+  "title": "Clash of the Damned (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T07:56:23.594843+00:00",
+  "slug": "clash-of-the-damned-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/clash-of-the-damned-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/clash-of-the-damned-android-game-music/1.jpg"
+  ],
+  "date_added": "2016-06-15T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 964689,
+      "title": "DarkBlood_fight2_f",
+      "runtime": 60,
+      "source_mp3": "https://vgmsite.com/soundtracks/clash-of-the-damned-android-game-music/xplgmvzo/DarkBlood_fight2_f.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/clash-of-the-damned-android-game-music/DarkBlood_fight2_f.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1121976,
+      "title": "DarkBlood_fight_f",
+      "runtime": 70,
+      "source_mp3": "https://vgmsite.com/soundtracks/clash-of-the-damned-android-game-music/gfulgpir/DarkBlood_fight_f.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/clash-of-the-damned-android-game-music/DarkBlood_fight_f.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1342177,
+      "title": "Dark_town_f",
+      "runtime": 84,
+      "source_mp3": "https://vgmsite.com/soundtracks/clash-of-the-damned-android-game-music/pbavigiz/Dark_town_f.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/clash-of-the-damned-android-game-music/Dark_town_f.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 214,
+    "filesize_mp3_bytes": 3428842,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

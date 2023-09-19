@@ -1,0 +1,61 @@
+{
+  "title": "Cogs OST",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T08:08:47.854636+00:00",
+  "slug": "cogs-ost-android-windows-gamerip-2009",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/cogs-ost-android-windows-gamerip-2009",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/cogs-ost-android-windows-gamerip-2009/cogs.jpg"
+  ],
+  "year": 2009,
+  "date_added": "2023-03-22T00:00:00+00:00",
+  "developers": {
+    "Lazy 8 Studios": "https://downloads.khinsider.com/game-soundtracks/developer/lazy-8-studios"
+  },
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 880803,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 27,
+      "source_mp3": "https://vgmsite.com/soundtracks/cogs-ost-android-windows-gamerip-2009/uaeypywydl/01.%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cogs-ost-android-windows-gamerip-2009/01.%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1069547,
+      "track_number": 2,
+      "title": "Time Mode",
+      "runtime": 33,
+      "source_mp3": "https://vgmsite.com/soundtracks/cogs-ost-android-windows-gamerip-2009/fqqkevxakd/02.%20Time%20Mode.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cogs-ost-android-windows-gamerip-2009/02.%2520Time%2520Mode.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 985661,
+      "track_number": 3,
+      "title": "Puzzle Mode",
+      "runtime": 31,
+      "source_mp3": "https://vgmsite.com/soundtracks/cogs-ost-android-windows-gamerip-2009/oroiwbedqy/03.%20Puzzle%20Mode.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cogs-ost-android-windows-gamerip-2009/03.%2520Puzzle%2520Mode.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 91,
+    "filesize_mp3_bytes": 2936011,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

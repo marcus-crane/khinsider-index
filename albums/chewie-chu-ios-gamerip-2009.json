@@ -1,0 +1,82 @@
+{
+  "title": "Chewie Chu",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T07:26:01.681373+00:00",
+  "slug": "chewie-chu-ios-gamerip-2009",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/chewie-chu-ios-gamerip-2009",
+  "platforms": {
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/chewie-chu-ios-gamerip-2009/images.jpeg"
+  ],
+  "year": 2009,
+  "date_added": "2023-09-06T00:00:00+00:00",
+  "developers": {
+    "LudiGames": "https://downloads.khinsider.com/game-soundtracks/developer/ludigames"
+  },
+  "publishers": {
+    "Gameloft": "https://downloads.khinsider.com/game-soundtracks/publisher/gameloft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3229614,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 202,
+      "source_mp3": "https://vgmsite.com/soundtracks/chewie-chu-ios-gamerip-2009/bfiljnveuy/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chewie-chu-ios-gamerip-2009/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2915041,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 182,
+      "source_mp3": "https://vgmsite.com/soundtracks/chewie-chu-ios-gamerip-2009/ajvkimmoxa/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chewie-chu-ios-gamerip-2009/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4917821,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 307,
+      "source_mp3": "https://vgmsite.com/soundtracks/chewie-chu-ios-gamerip-2009/erwsqbnvhu/03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chewie-chu-ios-gamerip-2009/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2883584,
+      "track_number": 4,
+      "title": "Menu",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/chewie-chu-ios-gamerip-2009/vgakrkhqrd/04.%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chewie-chu-ios-gamerip-2009/04.%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3135242,
+      "track_number": 5,
+      "title": "Test",
+      "runtime": 196,
+      "source_mp3": "https://vgmsite.com/soundtracks/chewie-chu-ios-gamerip-2009/etraunlbsj/05.%20Test.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chewie-chu-ios-gamerip-2009/05.%2520Test.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1067,
+    "filesize_mp3_bytes": 17081302,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

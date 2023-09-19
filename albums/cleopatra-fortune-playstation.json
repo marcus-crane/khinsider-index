@@ -1,0 +1,77 @@
+{
+  "title": "Cleopatra Fortune",
+  "titles_alternative": [
+    "\u30af\u30ec\u30aa\u30d1\u30c8\u30e9\u30d5\u30a9\u30fc\u30c1\u30e5\u30f3"
+  ],
+  "crawled_at": "2023-09-19T07:58:01.013764+00:00",
+  "slug": "cleopatra-fortune-playstation",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/cleopatra-fortune-playstation",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/cleopatra-fortune-playstation/C1.png"
+  ],
+  "year": 2001,
+  "date_added": "2019-02-15T00:00:00+00:00",
+  "developers": {
+    "Natsume": "https://downloads.khinsider.com/game-soundtracks/developer/natsume",
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/developer/taito"
+  },
+  "publishers": {
+    "Altron": "https://downloads.khinsider.com/game-soundtracks/publisher/altron",
+    "Midas": "https://downloads.khinsider.com/game-soundtracks/publisher/midas",
+    "Mud Duck": "https://downloads.khinsider.com/game-soundtracks/publisher/mud-duck"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 16179527,
+      "filesize_mp3_bytes": 7644119,
+      "title": "Track 01",
+      "runtime": 191,
+      "source_mp3": "https://vgmsite.com/soundtracks/cleopatra-fortune-playstation/jmebtxgc/Track%2001.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/cleopatra-fortune-playstation/jmebtxgc/Track%2001.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cleopatra-fortune-playstation/Track%252001.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11072962,
+      "filesize_mp3_bytes": 5567938,
+      "title": "Track 02",
+      "runtime": 139,
+      "source_mp3": "https://vgmsite.com/soundtracks/cleopatra-fortune-playstation/izhylbxc/Track%2002.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/cleopatra-fortune-playstation/izhylbxc/Track%2002.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cleopatra-fortune-playstation/Track%252002.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 16515072,
+      "filesize_mp3_bytes": 8084520,
+      "title": "Track 03",
+      "runtime": 202,
+      "source_mp3": "https://vgmsite.com/soundtracks/cleopatra-fortune-playstation/yzzkyxyj/Track%2003.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/cleopatra-fortune-playstation/yzzkyxyj/Track%2003.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cleopatra-fortune-playstation/Track%252003.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8661237,
+      "filesize_mp3_bytes": 4802478,
+      "title": "Track 04",
+      "runtime": 120,
+      "source_mp3": "https://vgmsite.com/soundtracks/cleopatra-fortune-playstation/kyeofqve/Track%2004.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/cleopatra-fortune-playstation/kyeofqve/Track%2004.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cleopatra-fortune-playstation/Track%252004.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 652,
+    "filesize_mp3_bytes": 26099055,
+    "filesize_flac_bytes": 52428798,
+    "tracks": 4
+  }
+}

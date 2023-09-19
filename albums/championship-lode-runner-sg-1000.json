@@ -1,0 +1,90 @@
+{
+  "title": "Championship Lode Runner (SG-1000)",
+  "titles_alternative": [
+    "\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u30b7\u30c3\u30d7\u30fb\u30ed\u30fc\u30c9\u30e9\u30f3\u30ca\u30fc"
+  ],
+  "crawled_at": "2023-09-19T07:20:09.843598+00:00",
+  "slug": "championship-lode-runner-sg-1000",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/championship-lode-runner-sg-1000",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/championship-lode-runner-sg-1000/Championship%20Lode%20Runner%20%28SG-1000%29.png"
+  ],
+  "year": 1985,
+  "date_added": "2020-07-01T00:00:00+00:00",
+  "developers": {
+    "Br\u00f8derbund Software": "https://downloads.khinsider.com/game-soundtracks/developer/br-derbund-software",
+    "Compile": "https://downloads.khinsider.com/game-soundtracks/developer/compile"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 692060,
+      "filesize_mp3_bytes": 220200,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/championship-lode-runner-sg-1000/serpcooxnx/01%20-%20Title.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/championship-lode-runner-sg-1000/serpcooxnx/01%20-%20Title.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/championship-lode-runner-sg-1000/01%2520-%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2443182,
+      "filesize_mp3_bytes": 975175,
+      "track_number": 2,
+      "title": "Main Theme",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/championship-lode-runner-sg-1000/suwnnfvfmp/02%20-%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/championship-lode-runner-sg-1000/suwnnfvfmp/02%20-%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/championship-lode-runner-sg-1000/02%2520-%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 136314,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 3,
+      "title": "Next Round",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/championship-lode-runner-sg-1000/ymrmqogxhe/03%20-%20Next%20Round.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/championship-lode-runner-sg-1000/ymrmqogxhe/03%20-%20Next%20Round.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/championship-lode-runner-sg-1000/03%2520-%2520Next%2520Round.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 31457,
+      "filesize_mp3_bytes": 10485,
+      "track_number": 4,
+      "title": "Death",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/championship-lode-runner-sg-1000/jkaxwvbgfz/04%20-%20Death.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/championship-lode-runner-sg-1000/jkaxwvbgfz/04%20-%20Death.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/championship-lode-runner-sg-1000/04%2520-%2520Death.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 104857,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 5,
+      "title": "Game Over",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/championship-lode-runner-sg-1000/xcuuzcyiox/05%20-%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/championship-lode-runner-sg-1000/xcuuzcyiox/05%20-%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/championship-lode-runner-sg-1000/05%2520-%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 64,
+    "filesize_mp3_bytes": 1289745,
+    "filesize_flac_bytes": 3407870,
+    "tracks": 5
+  }
+}

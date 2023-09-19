@@ -1,0 +1,39 @@
+{
+  "title": "Chuck Rock",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T07:44:21.569402+00:00",
+  "slug": "chuck-rock-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/chuck-rock-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/chuck-rock-master-system/ChuckRock-SMS.png"
+  ],
+  "year": 1991,
+  "date_added": "2018-04-14T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10747904,
+      "filesize_mp3_bytes": 7927234,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 198,
+      "source_mp3": "https://vgmsite.com/soundtracks/chuck-rock-master-system/uarcrkyj/01%20-%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/chuck-rock-master-system/uarcrkyj/01%20-%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chuck-rock-master-system/01%2520-%2520Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 198,
+    "filesize_mp3_bytes": 7927234,
+    "filesize_flac_bytes": 10747904,
+    "tracks": 1
+  }
+}

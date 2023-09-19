@@ -1,0 +1,34 @@
+{
+  "title": "Contra Medley",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T08:26:18.425292+00:00",
+  "slug": "contra-medley",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/contra-medley",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/contra-medley/coverart.jpg"
+  ],
+  "year": 2003,
+  "date_added": "2021-01-02T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 12656312,
+      "track_number": 1,
+      "title": "Contra Medley (Virt _ Jake Kaufman)",
+      "runtime": 451,
+      "source_mp3": "https://vgmsite.com/soundtracks/contra-medley/vjilioljga/01%20Contra%20Medley%20%28Virt%20_%20Jake%20Kaufman%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/contra-medley/01%2520Contra%2520Medley%2520%2528Virt%2520_%2520Jake%2520Kaufman%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 451,
+    "filesize_mp3_bytes": 12656312,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

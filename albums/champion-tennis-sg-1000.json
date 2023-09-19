@@ -1,0 +1,56 @@
+{
+  "title": "Champion Tennis (SG-1000)",
+  "titles_alternative": [
+    "\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u30c6\u30cb\u30b9"
+  ],
+  "crawled_at": "2023-09-19T07:19:31.275265+00:00",
+  "slug": "champion-tennis-sg-1000",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/champion-tennis-sg-1000",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/champion-tennis-sg-1000/Champion%20Tennis%20%28SG-1000%29.png"
+  ],
+  "year": 1983,
+  "date_added": "2020-07-01T00:00:00+00:00",
+  "developers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 503316,
+      "filesize_mp3_bytes": 188743,
+      "track_number": 1,
+      "title": "Windy (Match Start)",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/champion-tennis-sg-1000/pcvhhpybdj/01%20-%20Windy%20%28Match%20Start%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/champion-tennis-sg-1000/pcvhhpybdj/01%20-%20Windy%20%28Match%20Start%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/champion-tennis-sg-1000/01%2520-%2520Windy%2520%2528Match%2520Start%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 178257,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 2,
+      "title": "Match End",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/champion-tennis-sg-1000/hroxywndkc/02%20-%20Match%20End.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/champion-tennis-sg-1000/hroxywndkc/02%20-%20Match%20End.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/champion-tennis-sg-1000/02%2520-%2520Match%2520End.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 12,
+    "filesize_mp3_bytes": 251657,
+    "filesize_flac_bytes": 681573,
+    "tracks": 2
+  }
+}

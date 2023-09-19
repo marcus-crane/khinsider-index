@@ -1,0 +1,68 @@
+{
+  "title": "Castleville",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T07:13:08.235348+00:00",
+  "slug": "castleville",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/castleville",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/castleville/coverart.jpg"
+  ],
+  "date_added": "2015-02-21T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2610954,
+      "title": "Alastair's Kingdom",
+      "runtime": 110,
+      "source_mp3": "https://vgmsite.com/soundtracks/castleville/uhfifbua/Alastair%27s%20Kingdom.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/castleville/Alastair%2527s%2520Kingdom.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2013265,
+      "title": "Duke's Kingdom",
+      "runtime": 73,
+      "source_mp3": "https://vgmsite.com/soundtracks/castleville/htnymcqq/Duke%27s%20Kingdom.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/castleville/Duke%2527s%2520Kingdom.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2747269,
+      "title": "Raphael's Kingdom",
+      "runtime": 119,
+      "source_mp3": "https://vgmsite.com/soundtracks/castleville/tivvqzyc/Raphael%27s%20Kingdom.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/castleville/Raphael%2527s%2520Kingdom.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4718592,
+      "title": "Tom's Kingdom",
+      "runtime": 121,
+      "source_mp3": "https://vgmsite.com/soundtracks/castleville/yfscxlqv/Tom%27s%20Kingdom.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/castleville/Tom%2527s%2520Kingdom.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4362076,
+      "title": "Yvette's Kingdom",
+      "runtime": 110,
+      "source_mp3": "https://vgmsite.com/soundtracks/castleville/ysljpypi/Yvette%27s%20Kingdom.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/castleville/Yvette%2527s%2520Kingdom.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 533,
+    "filesize_mp3_bytes": 16452156,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

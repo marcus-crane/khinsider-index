@@ -1,0 +1,57 @@
+{
+  "title": "Cool Ball",
+  "titles_alternative": [
+    "Pop Up"
+  ],
+  "crawled_at": "2023-09-19T08:35:14.167872+00:00",
+  "slug": "cool-ball-gb",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/cool-ball-gb",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/cool-ball-gb/C1.jpg"
+  ],
+  "year": 1992,
+  "date_added": "2022-03-31T00:00:00+00:00",
+  "developers": {
+    "Bit Managers": "https://downloads.khinsider.com/game-soundtracks/developer/bit-managers"
+  },
+  "publishers": {
+    "Infogrames": "https://downloads.khinsider.com/game-soundtracks/publisher/infogrames",
+    "Takara": "https://downloads.khinsider.com/game-soundtracks/publisher/takara"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 40789606,
+      "filesize_mp3_bytes": 11104419,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 325,
+      "source_mp3": "https://vgmsite.com/soundtracks/cool-ball-gb/ofgmatkamx/01%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/cool-ball-gb/ofgmatkamx/01%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cool-ball-gb/01%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 398458,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 2,
+      "title": "Game Over",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/cool-ball-gb/wtcrcnkukc/02%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/cool-ball-gb/wtcrcnkukc/02%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cool-ball-gb/02%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 331,
+    "filesize_mp3_bytes": 11230248,
+    "filesize_flac_bytes": 41188064,
+    "tracks": 2
+  }
+}

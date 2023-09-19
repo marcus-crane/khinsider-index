@@ -1,0 +1,74 @@
+{
+  "title": "ClickBit",
+  "titles_alternative": [
+    "Click Bit"
+  ],
+  "crawled_at": "2023-09-19T07:58:20.751404+00:00",
+  "slug": "clickbit-windows-gamerip-2017",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/clickbit-windows-gamerip-2017",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/clickbit-windows-gamerip-2017/ClickBit.jpg"
+  ],
+  "year": 2017,
+  "date_added": "2023-03-13T00:00:00+00:00",
+  "developers": {
+    "NorthernLights Games": "https://downloads.khinsider.com/game-soundtracks/developer/northernlights-games"
+  },
+  "publishers": {
+    "NorthernLights Games": "https://downloads.khinsider.com/game-soundtracks/publisher/northernlights-games"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5242880,
+      "track_number": 1,
+      "title": "Gameplay Music1",
+      "runtime": 131,
+      "source_mp3": "https://vgmsite.com/soundtracks/clickbit-windows-gamerip-2017/hjorvtabtd/01.%20Gameplay%20Music1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/clickbit-windows-gamerip-2017/01.%2520Gameplay%2520Music1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5599395,
+      "track_number": 2,
+      "title": "Gameplay Music2",
+      "runtime": 140,
+      "source_mp3": "https://vgmsite.com/soundtracks/clickbit-windows-gamerip-2017/jfcdosdiwb/02.%20Gameplay%20Music2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/clickbit-windows-gamerip-2017/02.%2520Gameplay%2520Music2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4760535,
+      "track_number": 3,
+      "title": "Gameplay Music3",
+      "runtime": 119,
+      "source_mp3": "https://vgmsite.com/soundtracks/clickbit-windows-gamerip-2017/fqdsgweenu/03.%20Gameplay%20Music3.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/clickbit-windows-gamerip-2017/03.%2520Gameplay%2520Music3.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5389680,
+      "track_number": 4,
+      "title": "Menu Music",
+      "runtime": 135,
+      "source_mp3": "https://vgmsite.com/soundtracks/clickbit-windows-gamerip-2017/rsvpwctdtf/04.%20Menu%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/clickbit-windows-gamerip-2017/04.%2520Menu%2520Music.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 525,
+    "filesize_mp3_bytes": 20992490,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

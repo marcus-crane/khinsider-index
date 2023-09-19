@@ -1,0 +1,52 @@
+{
+  "title": "Claw Stars",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T07:57:13.760544+00:00",
+  "slug": "claw-stars-android-ios-mobile-gamerip-2021",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/claw-stars-android-ios-mobile-gamerip-2021",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios",
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/claw-stars-android-ios-mobile-gamerip-2021/icon.png"
+  ],
+  "year": 2021,
+  "date_added": "2023-03-10T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Appxplore (iCandy)": "https://downloads.khinsider.com/game-soundtracks/publisher/appxplore-icandy"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 870318,
+      "track_number": 1,
+      "title": "Attack",
+      "runtime": 25,
+      "source_mp3": "https://vgmsite.com/soundtracks/claw-stars-android-ios-mobile-gamerip-2021/dnfvhlssls/01.%20Attack.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/claw-stars-android-ios-mobile-gamerip-2021/01.%2520Attack.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4320133,
+      "track_number": 2,
+      "title": "Main",
+      "runtime": 126,
+      "source_mp3": "https://vgmsite.com/soundtracks/claw-stars-android-ios-mobile-gamerip-2021/hcqbmsvkcs/02.%20Main.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/claw-stars-android-ios-mobile-gamerip-2021/02.%2520Main.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 151,
+    "filesize_mp3_bytes": 5190451,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "title": "Checkmate (GBC)",
+  "titles_alternative": [
+    "\u30c1\u30a7\u30c3\u30af\u30e1\u30a4\u30c8"
+  ],
+  "crawled_at": "2023-09-19T07:23:55.616822+00:00",
+  "slug": "checkmate-1999-gbc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/checkmate-1999-gbc",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/checkmate-1999-gbc/Checkmate.jpg"
+  ],
+  "year": 1999,
+  "date_added": "2022-03-24T00:00:00+00:00",
+  "developers": {
+    "Altron": "https://downloads.khinsider.com/game-soundtracks/developer/altron"
+  },
+  "publishers": {
+    "Altron": "https://downloads.khinsider.com/game-soundtracks/publisher/altron"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9992929,
+      "filesize_mp3_bytes": 3649044,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/checkmate-1999-gbc/ibtpwbzhsc/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/checkmate-1999-gbc/ibtpwbzhsc/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/checkmate-1999-gbc/01%2520BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 94371,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 2,
+      "title": "Jingle #01",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/checkmate-1999-gbc/hduxszrzpe/02%20Jingle%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/checkmate-1999-gbc/hduxszrzpe/02%20Jingle%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/checkmate-1999-gbc/02%2520Jingle%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 136314,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 3,
+      "title": "Jingle #02",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/checkmate-1999-gbc/rqdrrfylzo/03%20Jingle%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/checkmate-1999-gbc/rqdrrfylzo/03%20Jingle%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/checkmate-1999-gbc/03%2520Jingle%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 220200,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 4,
+      "title": "Jingle #03",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/checkmate-1999-gbc/goeegshsyl/04%20Jingle%20%2303.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/checkmate-1999-gbc/goeegshsyl/04%20Jingle%20%2303.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/checkmate-1999-gbc/04%2520Jingle%2520%252303.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 191,
+    "filesize_mp3_bytes": 3827301,
+    "filesize_flac_bytes": 10443814,
+    "tracks": 4
+  }
+}

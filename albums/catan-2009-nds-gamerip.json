@@ -1,0 +1,82 @@
+{
+  "title": "Catan",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T07:13:57.431059+00:00",
+  "slug": "catan-2009-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/catan-2009-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/catan-2009-nds-gamerip/Catan.jpg"
+  ],
+  "year": 2009,
+  "date_added": "2020-06-03T00:00:00+00:00",
+  "developers": {
+    "USM": "https://downloads.khinsider.com/game-soundtracks/developer/usm"
+  },
+  "publishers": {
+    "USM": "https://downloads.khinsider.com/game-soundtracks/publisher/usm"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3900702,
+      "filesize_mp3_bytes": 1426063,
+      "title": "In Game0",
+      "runtime": 97,
+      "source_mp3": "https://vgmsite.com/soundtracks/catan-2009-nds-gamerip/qgldnwdbof/In%20Game0.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/catan-2009-nds-gamerip/qgldnwdbof/In%20Game0.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/catan-2009-nds-gamerip/In%2520Game0.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6396313,
+      "filesize_mp3_bytes": 2642411,
+      "title": "In Game1",
+      "runtime": 181,
+      "source_mp3": "https://vgmsite.com/soundtracks/catan-2009-nds-gamerip/xgeqfrvobn/In%20Game1.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/catan-2009-nds-gamerip/xgeqfrvobn/In%20Game1.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/catan-2009-nds-gamerip/In%2520Game1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2799697,
+      "filesize_mp3_bytes": 1310720,
+      "title": "In Game2",
+      "runtime": 88,
+      "source_mp3": "https://vgmsite.com/soundtracks/catan-2009-nds-gamerip/sxoqvthgxk/In%20Game2.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/catan-2009-nds-gamerip/sxoqvthgxk/In%20Game2.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/catan-2009-nds-gamerip/In%2520Game2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7790919,
+      "filesize_mp3_bytes": 2285895,
+      "title": "Intro",
+      "runtime": 151,
+      "source_mp3": "https://vgmsite.com/soundtracks/catan-2009-nds-gamerip/xkhjojozux/Intro.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/catan-2009-nds-gamerip/xkhjojozux/Intro.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/catan-2009-nds-gamerip/Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5861539,
+      "filesize_mp3_bytes": 1793064,
+      "title": "Menu",
+      "runtime": 121,
+      "source_mp3": "https://vgmsite.com/soundtracks/catan-2009-nds-gamerip/cfptdtxvmx/Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/catan-2009-nds-gamerip/cfptdtxvmx/Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/catan-2009-nds-gamerip/Menu.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 638,
+    "filesize_mp3_bytes": 9458153,
+    "filesize_flac_bytes": 26749170,
+    "tracks": 5
+  }
+}

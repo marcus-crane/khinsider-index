@@ -1,0 +1,72 @@
+{
+  "title": "Chuck Yeager's Fighter Combat (Unreleased)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T07:44:39.508943+00:00",
+  "slug": "chuck-yeager-s-fighter-combat-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/chuck-yeager-s-fighter-combat-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/chuck-yeager-s-fighter-combat-nes/Chuck%20Yeager%27s%20Fighter%20Combat.png"
+  ],
+  "year": 1993,
+  "date_added": "2018-06-11T00:00:00+00:00",
+  "developers": {
+    "EA": "https://downloads.khinsider.com/game-soundtracks/developer/ea"
+  },
+  "publishers": {
+    "EA": "https://downloads.khinsider.com/game-soundtracks/publisher/ea"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11450449,
+      "track_number": 1,
+      "title": "Title Screen & Menus",
+      "runtime": 318,
+      "source_mp3": "https://vgmsite.com/soundtracks/chuck-yeager-s-fighter-combat-nes/frumsdbm/01_Title%20Screen%20%26%20Menus.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chuck-yeager-s-fighter-combat-nes/01_Title%2520Screen%2520%2526%2520Menus.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2652897,
+      "track_number": 2,
+      "title": "Mission Briefing",
+      "runtime": 73,
+      "source_mp3": "https://vgmsite.com/soundtracks/chuck-yeager-s-fighter-combat-nes/siytljwv/02_Mission%20Briefing.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chuck-yeager-s-fighter-combat-nes/02_Mission%2520Briefing.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2852126,
+      "track_number": 3,
+      "title": "Good Job!",
+      "runtime": 81,
+      "source_mp3": "https://vgmsite.com/soundtracks/chuck-yeager-s-fighter-combat-nes/tiwgjmgt/03_Good%20Job%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chuck-yeager-s-fighter-combat-nes/03_Good%2520Job%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 167772,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/chuck-yeager-s-fighter-combat-nes/wpbwajlp/04_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chuck-yeager-s-fighter-combat-nes/04_Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 478,
+    "filesize_mp3_bytes": 17123244,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}
