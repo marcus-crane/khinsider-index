@@ -1,0 +1,56 @@
+{
+  "title": "Q*bert",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T21:01:50.481006+00:00",
+  "slug": "q-bert-android-ios-gamerip-2019",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/q-bert-android-ios-gamerip-2019",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/q-bert-android-ios-gamerip-2019/Qbert.png"
+  ],
+  "year": 2019,
+  "date_added": "2023-07-22T00:00:00+00:00",
+  "developers": {
+    "Hernan Zhou": "https://downloads.khinsider.com/game-soundtracks/developer/hernan-zhou",
+    "Jeremy Clarke": "https://downloads.khinsider.com/game-soundtracks/developer/jeremy-clarke",
+    "Robin Zaagsma": "https://downloads.khinsider.com/game-soundtracks/developer/robin-zaagsma"
+  },
+  "publishers": {
+    "Lucky Cat": "https://downloads.khinsider.com/game-soundtracks/publisher/lucky-cat",
+    "Sony Pictures Television": "https://downloads.khinsider.com/game-soundtracks/publisher/sony-pictures-television"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1845493,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 114,
+      "source_mp3": "https://vgmsite.com/soundtracks/q-bert-android-ios-gamerip-2019/mfitmypuax/01.%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/q-bert-android-ios-gamerip-2019/01.%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1530920,
+      "track_number": 2,
+      "title": "Boss Theme",
+      "runtime": 94,
+      "source_mp3": "https://vgmsite.com/soundtracks/q-bert-android-ios-gamerip-2019/zfwfiwxpmw/02.%20Boss%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/q-bert-android-ios-gamerip-2019/02.%2520Boss%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 208,
+    "filesize_mp3_bytes": 3376413,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Quantum Disco Brothers",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T21:06:40.368104+00:00",
+  "slug": "quantum-disco-brothers-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/quantum-disco-brothers-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/quantum-disco-brothers-nes/Quantum%20Disco%20Brothers%20%28NES%29.jpg"
+  ],
+  "date_added": "2022-06-01T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9112125,
+      "filesize_mp3_bytes": 4351590,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/quantum-disco-brothers-nes/hyfvphriny/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/quantum-disco-brothers-nes/hyfvphriny/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/quantum-disco-brothers-nes/01.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 180,
+    "filesize_mp3_bytes": 4351590,
+    "filesize_flac_bytes": 9112125,
+    "tracks": 1
+  }
+}

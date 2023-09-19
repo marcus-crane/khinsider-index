@@ -1,0 +1,111 @@
+{
+  "title": "Quartet",
+  "titles_alternative": [
+    "\u30ab\u30eb\u30c6\u30c3\u30c8"
+  ],
+  "crawled_at": "2023-09-19T21:08:02.053305+00:00",
+  "slug": "quartet-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/quartet-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/quartet-arcade/Q1.jpg"
+  ],
+  "year": 1986,
+  "date_added": "2022-05-23T00:00:00+00:00",
+  "developers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 702545,
+      "filesize_mp3_bytes": 251658,
+      "track_number": 1,
+      "title": "Miami Samba Machine",
+      "runtime": 12,
+      "source_mp3": "https://vgmsite.com/soundtracks/quartet-arcade/mbyyztswmp/01%20-%20Miami%20Samba%20Machine.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/quartet-arcade/mbyyztswmp/01%20-%20Miami%20Samba%20Machine.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/quartet-arcade/01%2520-%2520Miami%2520Samba%2520Machine.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11209277,
+      "filesize_mp3_bytes": 4320133,
+      "track_number": 2,
+      "title": "Quartet Theme",
+      "runtime": 197,
+      "source_mp3": "https://vgmsite.com/soundtracks/quartet-arcade/ziongfweuv/02%20-%20Quartet%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/quartet-arcade/ziongfweuv/02%20-%20Quartet%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/quartet-arcade/02%2520-%2520Quartet%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 367001,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 3,
+      "title": "Stage Clear",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/quartet-arcade/xyndhegmxs/03%20-%20Stage%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/quartet-arcade/xyndhegmxs/03%20-%20Stage%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/quartet-arcade/03%2520-%2520Stage%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7528775,
+      "filesize_mp3_bytes": 3135242,
+      "track_number": 4,
+      "title": "FM Funk",
+      "runtime": 145,
+      "source_mp3": "https://vgmsite.com/soundtracks/quartet-arcade/dxjmwoqqdb/04%20-%20FM%20Funk.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/quartet-arcade/dxjmwoqqdb/04%20-%20FM%20Funk.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/quartet-arcade/04%2520-%2520FM%2520Funk.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7497318,
+      "filesize_mp3_bytes": 3009413,
+      "track_number": 5,
+      "title": "Sky",
+      "runtime": 140,
+      "source_mp3": "https://vgmsite.com/soundtracks/quartet-arcade/gmedhagfae/05%20-%20Sky.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/quartet-arcade/gmedhagfae/05%20-%20Sky.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/quartet-arcade/05%2520-%2520Sky.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7843348,
+      "filesize_mp3_bytes": 2852126,
+      "track_number": 6,
+      "title": "OKI RAP",
+      "runtime": 130,
+      "source_mp3": "https://vgmsite.com/soundtracks/quartet-arcade/moggjtuntm/06%20-%20OKI%20RAP.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/quartet-arcade/moggjtuntm/06%20-%20OKI%20RAP.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/quartet-arcade/06%2520-%2520OKI%2520RAP.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 293601,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 7,
+      "title": "Game Over",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/quartet-arcade/nrfceffsjg/07%20-%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/quartet-arcade/nrfceffsjg/07%20-%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/quartet-arcade/07%2520-%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 635,
+    "filesize_mp3_bytes": 13788772,
+    "filesize_flac_bytes": 35441865,
+    "tracks": 7
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Quatra Command",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T21:08:45.951642+00:00",
+  "slug": "quatra-command-pc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/quatra-command-pc",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/quatra-command-pc/gr005b.gif"
+  ],
+  "year": 1994,
+  "date_added": "2021-02-07T00:00:00+00:00",
+  "developers": {
+    "Doe Entertainment Software": "https://downloads.khinsider.com/game-soundtracks/developer/doe-entertainment-software"
+  },
+  "publishers": {
+    "Geni U.S.": "https://downloads.khinsider.com/game-soundtracks/publisher/geni-u.s"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 933232,
+      "track_number": 1,
+      "title": "Main Menu",
+      "runtime": 39,
+      "source_mp3": "https://vgmsite.com/soundtracks/quatra-command-pc/sojyhlaxww/01%20Main%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/quatra-command-pc/01%2520Main%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 471859,
+      "track_number": 2,
+      "title": "In Game",
+      "runtime": 29,
+      "source_mp3": "https://vgmsite.com/soundtracks/quatra-command-pc/gjukthwbxw/02%20In%20Game.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/quatra-command-pc/02%2520In%2520Game.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 68,
+    "filesize_mp3_bytes": 1405091,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "title": "Quake Champions",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T21:05:00.826848+00:00",
+  "slug": "quake-champions",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/quake-champions",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/quake-champions/cover.jpg"
+  ],
+  "year": 2017,
+  "date_added": "2019-08-24T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 27577548,
+      "filesize_mp3_bytes": 4351590,
+      "track_number": 1,
+      "title": "Quake Champions",
+      "runtime": 126,
+      "source_mp3": "https://vgmsite.com/soundtracks/quake-champions/nktxqoemnx/01.%20Quake%20Champions.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/quake-champions/nktxqoemnx/01.%20Quake%20Champions.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/quake-champions/01.%2520Quake%2520Champions.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 25239224,
+      "filesize_mp3_bytes": 4383047,
+      "track_number": 2,
+      "title": "Menu",
+      "runtime": 134,
+      "source_mp3": "https://vgmsite.com/soundtracks/quake-champions/loxadzvayg/02.%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/quake-champions/loxadzvayg/02.%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/quake-champions/02.%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 80425779,
+      "filesize_mp3_bytes": 13400801,
+      "track_number": 3,
+      "title": "Goroth",
+      "runtime": 401,
+      "source_mp3": "https://vgmsite.com/soundtracks/quake-champions/trywiuwyeo/03.%20Goroth.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/quake-champions/trywiuwyeo/03.%20Goroth.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/quake-champions/03.%2520Goroth.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 71470940,
+      "filesize_mp3_bytes": 12027166,
+      "track_number": 4,
+      "title": "Cthalha",
+      "runtime": 387,
+      "source_mp3": "https://vgmsite.com/soundtracks/quake-champions/nkmtaccwrt/04.%20Cthalha.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/quake-champions/nkmtaccwrt/04.%20Cthalha.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/quake-champions/04.%2520Cthalha.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 80918609,
+      "filesize_mp3_bytes": 13767802,
+      "track_number": 5,
+      "title": "Volkerh",
+      "runtime": 430,
+      "source_mp3": "https://vgmsite.com/soundtracks/quake-champions/bkvfdxwfrc/05.%20Volkerh.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/quake-champions/bkvfdxwfrc/05.%20Volkerh.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/quake-champions/05.%2520Volkerh.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 88908759,
+      "filesize_mp3_bytes": 15718154,
+      "track_number": 6,
+      "title": "Ithagnal",
+      "runtime": 480,
+      "source_mp3": "https://vgmsite.com/soundtracks/quake-champions/tvsvduytlj/06.%20Ithagnal.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/quake-champions/tvsvduytlj/06.%20Ithagnal.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/quake-champions/06.%2520Ithagnal.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 21097349,
+      "filesize_mp3_bytes": 4120903,
+      "track_number": 7,
+      "title": "Training",
+      "runtime": 143,
+      "source_mp3": "https://vgmsite.com/soundtracks/quake-champions/yjmejdzvth/07.%20Training.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/quake-champions/yjmejdzvth/07.%20Training.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/quake-champions/07.%2520Training.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11733565,
+      "filesize_mp3_bytes": 2254438,
+      "track_number": 8,
+      "title": "Loss",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/quake-champions/ytzbpybcul/08.%20Loss.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/quake-champions/ytzbpybcul/08.%20Loss.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/quake-champions/08.%2520Loss.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2165,
+    "filesize_mp3_bytes": 70023901,
+    "filesize_flac_bytes": 407371773,
+    "tracks": 8
+  }
+}
