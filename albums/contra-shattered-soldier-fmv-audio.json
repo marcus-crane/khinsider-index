@@ -1,0 +1,85 @@
+{
+  "title": "Contra - Shattered Soldier FMV Audio",
+  "titles_alternative": [
+    "Shin Contra",
+    "\u771f\u9b42\u6597\u7f85"
+  ],
+  "crawled_at": "2023-09-19T08:24:52.149872+00:00",
+  "slug": "contra-shattered-soldier-fmv-audio",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/contra-shattered-soldier-fmv-audio",
+  "platforms": {
+    "PS2": "https://downloads.khinsider.com/game-soundtracks/playstation-2"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/contra-shattered-soldier-fmv-audio/Contra%20-%20Shattered%20Soldier%20FMV%20Audio.jpg"
+  ],
+  "year": 2002,
+  "date_added": "2006-11-18T00:00:00+00:00",
+  "developers": {
+    "KCE Tokyo": "https://downloads.khinsider.com/game-soundtracks/developer/kce-tokyo"
+  },
+  "publishers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3722444,
+      "track_number": 1,
+      "title": "opening",
+      "runtime": 124,
+      "source_mp3": "https://vgmsite.com/soundtracks/contra-shattered-soldier-fmv-audio/paqxxfza/01%20opening.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/contra-shattered-soldier-fmv-audio/01%2520opening.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 629145,
+      "track_number": 2,
+      "title": "omake",
+      "runtime": 41,
+      "source_mp3": "https://vgmsite.com/soundtracks/contra-shattered-soldier-fmv-audio/luwvatnd/02%20omake.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/contra-shattered-soldier-fmv-audio/02%2520omake.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 471859,
+      "track_number": 3,
+      "title": "ending i",
+      "runtime": 20,
+      "source_mp3": "https://vgmsite.com/soundtracks/contra-shattered-soldier-fmv-audio/gniatwow/03%20ending%20i.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/contra-shattered-soldier-fmv-audio/03%2520ending%2520i.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 566231,
+      "track_number": 4,
+      "title": "ending ii",
+      "runtime": 25,
+      "source_mp3": "https://vgmsite.com/soundtracks/contra-shattered-soldier-fmv-audio/qqochzwb/04%20ending%20ii.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/contra-shattered-soldier-fmv-audio/04%2520ending%2520ii.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 765460,
+      "track_number": 5,
+      "title": "ending iii",
+      "runtime": 29,
+      "source_mp3": "https://vgmsite.com/soundtracks/contra-shattered-soldier-fmv-audio/uewqbzeb/05%20ending%20iii.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/contra-shattered-soldier-fmv-audio/05%2520ending%2520iii.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 239,
+    "filesize_mp3_bytes": 6155139,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

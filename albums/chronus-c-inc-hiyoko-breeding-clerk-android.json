@@ -1,0 +1,46 @@
+{
+  "title": "Chronus C Inc - Hiyoko breeding clerk",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T07:43:46.798111+00:00",
+  "slug": "chronus-c-inc-hiyoko-breeding-clerk-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/chronus-c-inc-hiyoko-breeding-clerk-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/chronus-c-inc-hiyoko-breeding-clerk-android/screen-0.jpg"
+  ],
+  "year": 2006,
+  "date_added": "2018-11-08T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1310720,
+      "title": "BGM",
+      "runtime": 131,
+      "source_mp3": "https://vgmsite.com/soundtracks/chronus-c-inc-hiyoko-breeding-clerk-android/sssoxlzb/BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chronus-c-inc-hiyoko-breeding-clerk-android/BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 566231,
+      "title": "Warning",
+      "runtime": 56,
+      "source_mp3": "https://vgmsite.com/soundtracks/chronus-c-inc-hiyoko-breeding-clerk-android/lipcuwzt/Warning.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chronus-c-inc-hiyoko-breeding-clerk-android/Warning.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 187,
+    "filesize_mp3_bytes": 1876951,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

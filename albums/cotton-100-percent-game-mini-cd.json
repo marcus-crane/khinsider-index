@@ -1,0 +1,79 @@
+{
+  "title": "Cotton 100% Bonus CD",
+  "titles_alternative": [
+    "COTTON100% \u304a\u307e\u3051CD"
+  ],
+  "crawled_at": "2023-09-19T08:44:42.404354+00:00",
+  "slug": "cotton-100-percent-game-mini-cd",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/cotton-100-percent-game-mini-cd",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/cotton-100-percent-game-mini-cd/13916-39618caeda2e.jpg"
+  ],
+  "year": 1994,
+  "catalog_number": "DI-3",
+  "date_added": "2023-01-01T00:00:00+00:00",
+  "developers": {
+    "Success": "https://downloads.khinsider.com/game-soundtracks/developer/success"
+  },
+  "publishers": {
+    "DATAM POLYSTAR CO.": "https://downloads.khinsider.com/game-soundtracks/publisher/datam-polystar"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 25344081,
+      "filesize_mp3_bytes": 7717519,
+      "track_number": 1,
+      "title": "Dreaming Cotton Heart",
+      "runtime": 213,
+      "source_mp3": "https://vgmsite.com/soundtracks/cotton-100-percent-game-mini-cd/zwyrvwwdyj/01.%20Dreaming%20Cotton%20Heart.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/cotton-100-percent-game-mini-cd/zwyrvwwdyj/01.%20Dreaming%20Cotton%20Heart.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cotton-100-percent-game-mini-cd/01.%2520Dreaming%2520Cotton%2520Heart.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 15005122,
+      "filesize_mp3_bytes": 5347737,
+      "track_number": 2,
+      "title": "Cotton Ondo",
+      "runtime": 157,
+      "source_mp3": "https://vgmsite.com/soundtracks/cotton-100-percent-game-mini-cd/fhzdscbgzc/02.%20Cotton%20Ondo.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/cotton-100-percent-game-mini-cd/fhzdscbgzc/02.%20Cotton%20Ondo.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cotton-100-percent-game-mini-cd/02.%2520Cotton%2520Ondo.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 33250344,
+      "filesize_mp3_bytes": 13002342,
+      "track_number": 3,
+      "title": "Speech",
+      "runtime": 426,
+      "source_mp3": "https://vgmsite.com/soundtracks/cotton-100-percent-game-mini-cd/nhnlknuedr/03.%20Speech.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/cotton-100-percent-game-mini-cd/nhnlknuedr/03.%20Speech.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cotton-100-percent-game-mini-cd/03.%2520Speech.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 24735907,
+      "filesize_mp3_bytes": 7591690,
+      "track_number": 4,
+      "title": "Dreaming Cotton Heart (Piano Version)",
+      "runtime": 210,
+      "source_mp3": "https://vgmsite.com/soundtracks/cotton-100-percent-game-mini-cd/gkpzykmtqx/04.%20Dreaming%20Cotton%20Heart%20%28Piano%20Version%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/cotton-100-percent-game-mini-cd/gkpzykmtqx/04.%20Dreaming%20Cotton%20Heart%20%28Piano%20Version%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cotton-100-percent-game-mini-cd/04.%2520Dreaming%2520Cotton%2520Heart%2520%2528Piano%2520Version%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1006,
+    "filesize_mp3_bytes": 33659288,
+    "filesize_flac_bytes": 98335454,
+    "tracks": 4
+  }
+}

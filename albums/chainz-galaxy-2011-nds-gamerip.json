@@ -1,0 +1,68 @@
+{
+  "title": "Chainz Galaxy",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T07:18:44.876829+00:00",
+  "slug": "chainz-galaxy-2011-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/chainz-galaxy-2011-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/chainz-galaxy-2011-nds-gamerip/CG.jpg"
+  ],
+  "year": 2011,
+  "date_added": "2020-06-03T00:00:00+00:00",
+  "developers": {
+    "Avanquest": "https://downloads.khinsider.com/game-soundtracks/developer/avanquest"
+  },
+  "publishers": {
+    "Avanquest": "https://downloads.khinsider.com/game-soundtracks/publisher/avanquest"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1195376,
+      "title": "Arcade Mode",
+      "runtime": 77,
+      "source_mp3": "https://vgmsite.com/soundtracks/chainz-galaxy-2011-nds-gamerip/ohbcwmsdud/Arcade%20Mode.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chainz-galaxy-2011-nds-gamerip/Arcade%2520Mode.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2065694,
+      "title": "Classic Mode",
+      "runtime": 154,
+      "source_mp3": "https://vgmsite.com/soundtracks/chainz-galaxy-2011-nds-gamerip/hvdwhzgpon/Classic%20Mode.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chainz-galaxy-2011-nds-gamerip/Classic%2520Mode.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1782579,
+      "title": "Puzzle Strategy Mode",
+      "runtime": 131,
+      "source_mp3": "https://vgmsite.com/soundtracks/chainz-galaxy-2011-nds-gamerip/poemgzzvuk/Puzzle%20Strategy%20Mode.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chainz-galaxy-2011-nds-gamerip/Puzzle%2520Strategy%2520Mode.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1488977,
+      "title": "Title",
+      "runtime": 110,
+      "source_mp3": "https://vgmsite.com/soundtracks/chainz-galaxy-2011-nds-gamerip/gqodhdpjoj/Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chainz-galaxy-2011-nds-gamerip/Title.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 472,
+    "filesize_mp3_bytes": 6532626,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

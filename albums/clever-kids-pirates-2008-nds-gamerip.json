@@ -1,0 +1,41 @@
+{
+  "title": "Clever Kids - Pirates",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T07:58:12.369266+00:00",
+  "slug": "clever-kids-pirates-2008-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/clever-kids-pirates-2008-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/clever-kids-pirates-2008-nds-gamerip/Clever%20Kids%20-%20Pirates.jpg"
+  ],
+  "year": 2008,
+  "date_added": "2020-06-03T00:00:00+00:00",
+  "developers": {
+    "Midas": "https://downloads.khinsider.com/game-soundtracks/developer/midas"
+  },
+  "publishers": {
+    "Midas": "https://downloads.khinsider.com/game-soundtracks/publisher/midas"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 545259,
+      "title": "Main",
+      "runtime": 58,
+      "source_mp3": "https://vgmsite.com/soundtracks/clever-kids-pirates-2008-nds-gamerip/nskkzxaoky/Main.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/clever-kids-pirates-2008-nds-gamerip/Main.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 58,
+    "filesize_mp3_bytes": 545259,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

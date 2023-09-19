@@ -1,0 +1,52 @@
+{
+  "title": "Castle Master",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T07:03:38.504108+00:00",
+  "slug": "castle-master-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/castle-master-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/castle-master-amiga/castle_master_box.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2019-04-22T00:00:00+00:00",
+  "developers": {
+    "Incentive Software": "https://downloads.khinsider.com/game-soundtracks/developer/incentive-software"
+  },
+  "publishers": {
+    "Domark": "https://downloads.khinsider.com/game-soundtracks/publisher/domark"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8755609,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 309,
+      "source_mp3": "https://vgmsite.com/soundtracks/castle-master-amiga/eunkulml/01_Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/castle-master-amiga/01_Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4330618,
+      "track_number": 2,
+      "title": "Ending",
+      "runtime": 153,
+      "source_mp3": "https://vgmsite.com/soundtracks/castle-master-amiga/gtiepooe/02_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/castle-master-amiga/02_Ending.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 462,
+    "filesize_mp3_bytes": 13086227,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

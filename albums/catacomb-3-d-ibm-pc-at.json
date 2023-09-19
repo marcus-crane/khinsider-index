@@ -1,0 +1,49 @@
+{
+  "title": "Catacomb 3-D",
+  "titles_alternative": [
+    "Catacomb 3-D: A New Dimension",
+    "Catacomb 3-D: The Descent",
+    "Catacombs 3"
+  ],
+  "crawled_at": "2023-09-19T07:13:56.786573+00:00",
+  "slug": "catacomb-3-d-ibm-pc-at",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/catacomb-3-d-ibm-pc-at",
+  "platforms": {
+    "IBM PC": "https://downloads.khinsider.com/game-soundtracks/ibm-pc",
+    "IBM PC/AT": "https://downloads.khinsider.com/game-soundtracks/ibm-pc-at",
+    "MS-DOS": "https://downloads.khinsider.com/game-soundtracks/ms-dos"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/catacomb-3-d-ibm-pc-at/Catacomb%203-D.png"
+  ],
+  "year": 1991,
+  "date_added": "2022-03-28T00:00:00+00:00",
+  "developers": {
+    "Id Software": "https://downloads.khinsider.com/game-soundtracks/developer/id-software"
+  },
+  "publishers": {
+    "Softdisk": "https://downloads.khinsider.com/game-soundtracks/publisher/softdisk"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1593835,
+      "filesize_mp3_bytes": 985661,
+      "track_number": 1,
+      "title": "Too Hot to Handle",
+      "runtime": 42,
+      "source_mp3": "https://vgmsite.com/soundtracks/catacomb-3-d-ibm-pc-at/jmfjtgbocm/01%20Too%20Hot%20to%20Handle.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/catacomb-3-d-ibm-pc-at/jmfjtgbocm/01%20Too%20Hot%20to%20Handle.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/catacomb-3-d-ibm-pc-at/01%2520Too%2520Hot%2520to%2520Handle.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 42,
+    "filesize_mp3_bytes": 985661,
+    "filesize_flac_bytes": 1593835,
+    "tracks": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Cosmic Chasm (Vectrex)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T08:40:36.882271+00:00",
+  "slug": "cosmic-chasm-vectrex",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/cosmic-chasm-vectrex",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/cosmic-chasm-vectrex/Cosmic%20Chasm.png"
+  ],
+  "year": 1982,
+  "date_added": "2022-03-31T00:00:00+00:00",
+  "developers": {
+    "General Consumer Electronics": "https://downloads.khinsider.com/game-soundtracks/developer/general-consumer-electronics"
+  },
+  "publishers": {
+    "General Consumer Electronics": "https://downloads.khinsider.com/game-soundtracks/publisher/general-consumer-electronics"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 52428,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/cosmic-chasm-vectrex/ikgtzoxpsp/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/cosmic-chasm-vectrex/ikgtzoxpsp/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cosmic-chasm-vectrex/01%2520Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 3,
+    "filesize_mp3_bytes": 41943,
+    "filesize_flac_bytes": 52428,
+    "tracks": 1
+  }
+}

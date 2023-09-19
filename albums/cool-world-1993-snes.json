@@ -1,0 +1,98 @@
+{
+  "title": "Cool World",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T08:35:57.373045+00:00",
+  "slug": "cool-world-1993-snes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/cool-world-1993-snes",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/cool-world-1993-snes/Cool%20World%20SNES%20Cover.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2017-11-23T00:00:00+00:00",
+  "developers": {
+    "Painting by Numbers": "https://downloads.khinsider.com/game-soundtracks/developer/painting-by-numbers"
+  },
+  "publishers": {
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/publisher/ocean"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6941573,
+      "filesize_mp3_bytes": 6207569,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 155,
+      "source_mp3": "https://vgmsite.com/soundtracks/cool-world-1993-snes/lctcykwj/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/cool-world-1993-snes/lctcykwj/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cool-world-1993-snes/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 15414067,
+      "filesize_mp3_bytes": 9363783,
+      "track_number": 2,
+      "title": "Welcome to Cool World",
+      "runtime": 234,
+      "source_mp3": "https://vgmsite.com/soundtracks/cool-world-1993-snes/tqisvbta/02%20Welcome%20to%20Cool%20World.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/cool-world-1993-snes/tqisvbta/02%20Welcome%20to%20Cool%20World.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cool-world-1993-snes/02%2520Welcome%2520to%2520Cool%2520World.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5788139,
+      "filesize_mp3_bytes": 3921674,
+      "track_number": 3,
+      "title": "You've Been Notified",
+      "runtime": 98,
+      "source_mp3": "https://vgmsite.com/soundtracks/cool-world-1993-snes/mtbfnhpm/03%20You%27ve%20Been%20Notified.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/cool-world-1993-snes/mtbfnhpm/03%20You%27ve%20Been%20Notified.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cool-world-1993-snes/03%2520You%2527ve%2520Been%2520Notified.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9038725,
+      "filesize_mp3_bytes": 10286530,
+      "track_number": 4,
+      "title": "Car Ride",
+      "runtime": 257,
+      "source_mp3": "https://vgmsite.com/soundtracks/cool-world-1993-snes/sxpnycuw/04%20Car%20Ride.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/cool-world-1993-snes/sxpnycuw/04%20Car%20Ride.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cool-world-1993-snes/04%2520Car%2520Ride.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6417285,
+      "filesize_mp3_bytes": 6364856,
+      "track_number": 5,
+      "title": "Candy Land",
+      "runtime": 159,
+      "source_mp3": "https://vgmsite.com/soundtracks/cool-world-1993-snes/sgufdrxa/05%20Candy%20Land.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/cool-world-1993-snes/sgufdrxa/05%20Candy%20Land.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cool-world-1993-snes/05%2520Candy%2520Land.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11691622,
+      "filesize_mp3_bytes": 9363783,
+      "track_number": 6,
+      "title": "Slash Club",
+      "runtime": 234,
+      "source_mp3": "https://vgmsite.com/soundtracks/cool-world-1993-snes/idalhalf/06%20Slash%20Club.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/cool-world-1993-snes/idalhalf/06%20Slash%20Club.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cool-world-1993-snes/06%2520Slash%2520Club.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1137,
+    "filesize_mp3_bytes": 45508195,
+    "filesize_flac_bytes": 55291411,
+    "tracks": 6
+  }
+}

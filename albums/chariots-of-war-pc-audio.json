@@ -1,0 +1,93 @@
+{
+  "title": "Chariots of War",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T07:22:25.688677+00:00",
+  "slug": "chariots-of-war-pc-audio",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/chariots-of-war-pc-audio",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/chariots-of-war-pc-audio/Chariots%20of%20War%20PC%20Audio.jpg"
+  ],
+  "year": 2003,
+  "date_added": "2006-11-17T00:00:00+00:00",
+  "developers": {
+    "Paradox Interactive": "https://downloads.khinsider.com/game-soundtracks/developer/paradox-interactive",
+    "Slitherine Software": "https://downloads.khinsider.com/game-soundtracks/developer/slitherine-software"
+  },
+  "publishers": {
+    "Strategy First": "https://downloads.khinsider.com/game-soundtracks/publisher/strategy-first"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11555307,
+      "track_number": 1,
+      "title": "campaign",
+      "runtime": 609,
+      "source_mp3": "https://vgmsite.com/soundtracks/chariots-of-war-pc-audio/hfeefvtz/01%20campaign.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chariots-of-war-pc-audio/01%2520campaign.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1793064,
+      "track_number": 2,
+      "title": "deployment",
+      "runtime": 88,
+      "source_mp3": "https://vgmsite.com/soundtracks/chariots-of-war-pc-audio/bddexerf/02%20deployment.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chariots-of-war-pc-audio/02%2520deployment.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 618659,
+      "track_number": 3,
+      "title": "in battle",
+      "runtime": 30,
+      "source_mp3": "https://vgmsite.com/soundtracks/chariots-of-war-pc-audio/ocqnwbcn/03%20in%20battle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chariots-of-war-pc-audio/03%2520in%2520battle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2915041,
+      "track_number": 4,
+      "title": "front end",
+      "runtime": 150,
+      "source_mp3": "https://vgmsite.com/soundtracks/chariots-of-war-pc-audio/ecccrtju/04%20front%20end.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chariots-of-war-pc-audio/04%2520front%2520end.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1205862,
+      "track_number": 5,
+      "title": "battle won",
+      "runtime": 61,
+      "source_mp3": "https://vgmsite.com/soundtracks/chariots-of-war-pc-audio/xohxrmcs/05%20battle%20won.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chariots-of-war-pc-audio/05%2520battle%2520won.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3019898,
+      "track_number": 6,
+      "title": "battle lost",
+      "runtime": 141,
+      "source_mp3": "https://vgmsite.com/soundtracks/chariots-of-war-pc-audio/ulmlpsoq/06%20battle%20lost.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chariots-of-war-pc-audio/06%2520battle%2520lost.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1079,
+    "filesize_mp3_bytes": 21107831,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

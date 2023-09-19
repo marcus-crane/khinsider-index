@@ -1,0 +1,76 @@
+{
+  "title": "Chess Academys (Unlicensed)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T07:25:14.360035+00:00",
+  "slug": "chess-academys-1991-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/chess-academys-1991-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/chess-academys-1991-nes/Chess%20Academys.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2022-03-28T00:00:00+00:00",
+  "developers": {
+    "Sachen": "https://downloads.khinsider.com/game-soundtracks/developer/sachen"
+  },
+  "publishers": {
+    "Sachen": "https://downloads.khinsider.com/game-soundtracks/publisher/sachen"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3386900,
+      "filesize_mp3_bytes": 1237319,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 59,
+      "source_mp3": "https://vgmsite.com/soundtracks/chess-academys-1991-nes/vgkzfsfbgt/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/chess-academys-1991-nes/vgkzfsfbgt/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chess-academys-1991-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 167772,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/chess-academys-1991-nes/mxyljqwngd/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/chess-academys-1991-nes/mxyljqwngd/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chess-academys-1991-nes/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 178257,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/chess-academys-1991-nes/astmpoienc/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/chess-academys-1991-nes/astmpoienc/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chess-academys-1991-nes/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 807403,
+      "filesize_mp3_bytes": 262144,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 14,
+      "source_mp3": "https://vgmsite.com/soundtracks/chess-academys-1991-nes/iufrbfaltq/04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/chess-academys-1991-nes/iufrbfaltq/04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chess-academys-1991-nes/04.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 81,
+    "filesize_mp3_bytes": 1604319,
+    "filesize_flac_bytes": 4540332,
+    "tracks": 4
+  }
+}

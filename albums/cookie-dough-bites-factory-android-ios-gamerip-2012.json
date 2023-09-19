@@ -1,0 +1,61 @@
+{
+  "title": "Cookie Dough Bites Factory",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T08:27:30.067231+00:00",
+  "slug": "cookie-dough-bites-factory-android-ios-gamerip-2012",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/cookie-dough-bites-factory-android-ios-gamerip-2012",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/cookie-dough-bites-factory-android-ios-gamerip-2012/icon100.png"
+  ],
+  "year": 2012,
+  "date_added": "2022-07-29T00:00:00+00:00",
+  "developers": {
+    "Sunstorm Interactive": "https://downloads.khinsider.com/game-soundtracks/developer/sunstorm-interactive"
+  },
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 545259,
+      "track_number": 1,
+      "title": "Main Menu",
+      "runtime": 34,
+      "source_mp3": "https://vgmsite.com/soundtracks/cookie-dough-bites-factory-android-ios-gamerip-2012/ymnzvddbpv/01%20Main%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cookie-dough-bites-factory-android-ios-gamerip-2012/01%2520Main%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 408944,
+      "track_number": 2,
+      "title": "Factory",
+      "runtime": 26,
+      "source_mp3": "https://vgmsite.com/soundtracks/cookie-dough-bites-factory-android-ios-gamerip-2012/hiuskqmxzi/02%20Factory.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cookie-dough-bites-factory-android-ios-gamerip-2012/02%2520Factory.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 325058,
+      "track_number": 3,
+      "title": "High Score",
+      "runtime": 20,
+      "source_mp3": "https://vgmsite.com/soundtracks/cookie-dough-bites-factory-android-ios-gamerip-2012/gjcvnyqeta/03%20High%20Score.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cookie-dough-bites-factory-android-ios-gamerip-2012/03%2520High%2520Score.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 80,
+    "filesize_mp3_bytes": 1279261,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

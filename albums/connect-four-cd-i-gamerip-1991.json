@@ -1,0 +1,65 @@
+{
+  "title": "Connect Four",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T08:23:19.393691+00:00",
+  "slug": "connect-four-cd-i-gamerip-1991",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/connect-four-cd-i-gamerip-1991",
+  "platforms": {
+    "CD-i": "https://downloads.khinsider.com/game-soundtracks/cd-i"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/connect-four-cd-i-gamerip-1991/connectfour.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2022-08-21T00:00:00+00:00",
+  "developers": {
+    "Capitol Disc Interactive": "https://downloads.khinsider.com/game-soundtracks/developer/capitol-disc-interactive"
+  },
+  "publishers": {
+    "Philips Media": "https://downloads.khinsider.com/game-soundtracks/publisher/philips-media"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1006632,
+      "filesize_mp3_bytes": 293601,
+      "track_number": 1,
+      "title": "Capitol Logo",
+      "runtime": 12,
+      "source_mp3": "https://vgmsite.com/soundtracks/connect-four-cd-i-gamerip-1991/iqnhztvarp/01%20-%20Capitol%20Logo.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/connect-four-cd-i-gamerip-1991/iqnhztvarp/01%20-%20Capitol%20Logo.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/connect-four-cd-i-gamerip-1991/01%2520-%2520Capitol%2520Logo.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1740636,
+      "filesize_mp3_bytes": 545259,
+      "track_number": 2,
+      "title": "Title Screen",
+      "runtime": 22,
+      "source_mp3": "https://vgmsite.com/soundtracks/connect-four-cd-i-gamerip-1991/ewudgloohb/02%20-%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/connect-four-cd-i-gamerip-1991/ewudgloohb/02%20-%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/connect-four-cd-i-gamerip-1991/02%2520-%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3502243,
+      "filesize_mp3_bytes": 1153433,
+      "track_number": 3,
+      "title": "Credits",
+      "runtime": 47,
+      "source_mp3": "https://vgmsite.com/soundtracks/connect-four-cd-i-gamerip-1991/gindyqecxd/03%20-%20Credits.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/connect-four-cd-i-gamerip-1991/gindyqecxd/03%20-%20Credits.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/connect-four-cd-i-gamerip-1991/03%2520-%2520Credits.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 81,
+    "filesize_mp3_bytes": 1992293,
+    "filesize_flac_bytes": 6249511,
+    "tracks": 3
+  }
+}

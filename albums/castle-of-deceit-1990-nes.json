@@ -1,0 +1,76 @@
+{
+  "title": "Castle of Deceit",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T07:04:03.041592+00:00",
+  "slug": "castle-of-deceit-1990-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/castle-of-deceit-1990-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/castle-of-deceit-1990-nes/Castle%20of%20Deceit.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2022-03-28T00:00:00+00:00",
+  "developers": {
+    "Bunch Games": "https://downloads.khinsider.com/game-soundtracks/developer/bunch-games"
+  },
+  "publishers": {
+    "Bunch Games": "https://downloads.khinsider.com/game-soundtracks/publisher/bunch-games"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11188305,
+      "filesize_mp3_bytes": 3208642,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/castle-of-deceit-1990-nes/jteysbneym/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/castle-of-deceit-1990-nes/jteysbneym/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/castle-of-deceit-1990-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11450449,
+      "filesize_mp3_bytes": 3187671,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/castle-of-deceit-1990-nes/ctlccsradw/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/castle-of-deceit-1990-nes/ctlccsradw/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/castle-of-deceit-1990-nes/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11072962,
+      "filesize_mp3_bytes": 3103784,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/castle-of-deceit-1990-nes/gadubcccvu/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/castle-of-deceit-1990-nes/gadubcccvu/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/castle-of-deceit-1990-nes/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11177820,
+      "filesize_mp3_bytes": 3061841,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/castle-of-deceit-1990-nes/liduzbawid/04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/castle-of-deceit-1990-nes/liduzbawid/04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/castle-of-deceit-1990-nes/04.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 720,
+    "filesize_mp3_bytes": 12561938,
+    "filesize_flac_bytes": 44889536,
+    "tracks": 4
+  }
+}

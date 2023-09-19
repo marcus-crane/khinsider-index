@@ -1,0 +1,110 @@
+{
+  "title": "Chex Quest",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T07:26:03.154477+00:00",
+  "slug": "chex-quest",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/chex-quest",
+  "platforms": {
+    "MS-DOS": "https://downloads.khinsider.com/game-soundtracks/ms-dos"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/chex-quest/Chex%20Quest%20Cover.jpg"
+  ],
+  "year": 1996,
+  "date_added": "2020-01-26T00:00:00+00:00",
+  "developers": {
+    "Digital Caf\u00e9": "https://downloads.khinsider.com/game-soundtracks/developer/digital-caf"
+  },
+  "publishers": {
+    "General Mills": "https://downloads.khinsider.com/game-soundtracks/publisher/general-mills"
+  },
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 199229,
+      "track_number": 1,
+      "title": "Introduction",
+      "runtime": 12,
+      "source_mp3": "https://vgmsite.com/soundtracks/chex-quest/yyzmceoazs/01%20-%20Introduction.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chex-quest/01%2520-%2520Introduction.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3093299,
+      "track_number": 2,
+      "title": "Level 1",
+      "runtime": 193,
+      "source_mp3": "https://vgmsite.com/soundtracks/chex-quest/raibxixiaj/02%20-%20Level%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chex-quest/02%2520-%2520Level%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2202009,
+      "track_number": 3,
+      "title": "Level 2",
+      "runtime": 138,
+      "source_mp3": "https://vgmsite.com/soundtracks/chex-quest/mlryioxihr/03%20-%20Level%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chex-quest/03%2520-%2520Level%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3732930,
+      "track_number": 4,
+      "title": "Level 3",
+      "runtime": 233,
+      "source_mp3": "https://vgmsite.com/soundtracks/chex-quest/ilpbgwzxlo/04%20-%20Level%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chex-quest/04%2520-%2520Level%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1184890,
+      "track_number": 5,
+      "title": "Intermission",
+      "runtime": 74,
+      "source_mp3": "https://vgmsite.com/soundtracks/chex-quest/kbaoeojopa/05%20-%20Intermission.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chex-quest/05%2520-%2520Intermission.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3219128,
+      "track_number": 6,
+      "title": "Level 4",
+      "runtime": 201,
+      "source_mp3": "https://vgmsite.com/soundtracks/chex-quest/qowlnmphuk/06%20-%20Level%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chex-quest/06%2520-%2520Level%25204.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1950351,
+      "track_number": 7,
+      "title": "Level 5",
+      "runtime": 122,
+      "source_mp3": "https://vgmsite.com/soundtracks/chex-quest/jkvpxhcjhm/07%20-%20Level%205.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chex-quest/07%2520-%2520Level%25205.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1667235,
+      "track_number": 8,
+      "title": "Victory",
+      "runtime": 104,
+      "source_mp3": "https://vgmsite.com/soundtracks/chex-quest/qudbeetxxd/08%20-%20Victory.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chex-quest/08%2520-%2520Victory.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1077,
+    "filesize_mp3_bytes": 17249071,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

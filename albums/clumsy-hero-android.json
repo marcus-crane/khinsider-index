@@ -1,0 +1,67 @@
+{
+  "title": "Clumsy Hero",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T08:05:54.050715+00:00",
+  "slug": "clumsy-hero-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/clumsy-hero-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/clumsy-hero-android/1.png"
+  ],
+  "date_added": "2017-03-14T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 912261,
+      "track_number": 1,
+      "title": "bgm_title",
+      "runtime": 76,
+      "source_mp3": "https://vgmsite.com/soundtracks/clumsy-hero-android/eeqbwaew/01%20bgm_title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/clumsy-hero-android/01%2520bgm_title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 765460,
+      "track_number": 2,
+      "title": "bgm_village",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/clumsy-hero-android/dkokejfy/02%20bgm_village.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/clumsy-hero-android/02%2520bgm_village.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 713031,
+      "track_number": 3,
+      "title": "bgm_battle",
+      "runtime": 59,
+      "source_mp3": "https://vgmsite.com/soundtracks/clumsy-hero-android/zwulvhbf/03%20bgm_battle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/clumsy-hero-android/03%2520bgm_battle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 450887,
+      "track_number": 4,
+      "title": "bgm_boss",
+      "runtime": 38,
+      "source_mp3": "https://vgmsite.com/soundtracks/clumsy-hero-android/otgijmyr/04%20bgm_boss.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/clumsy-hero-android/04%2520bgm_boss.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 237,
+    "filesize_mp3_bytes": 2841639,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Chain - The Lost Footprints Mini Album",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T07:18:12.185723+00:00",
+  "slug": "chain-the-lost-footprints-mini-album",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/chain-the-lost-footprints-mini-album",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/chain-the-lost-footprints-mini-album/coverart.jpg"
+  ],
+  "year": 2001,
+  "date_added": "2017-06-11T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8640266,
+      "track_number": 1,
+      "title": "Chain",
+      "runtime": 258,
+      "source_mp3": "https://vgmsite.com/soundtracks/chain-the-lost-footprints-mini-album/dhasjpgp/01%20Chain.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chain-the-lost-footprints-mini-album/01%2520Chain.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8545894,
+      "track_number": 2,
+      "title": "Chain (Karaoke)",
+      "runtime": 255,
+      "source_mp3": "https://vgmsite.com/soundtracks/chain-the-lost-footprints-mini-album/okfuastg/02%20Chain%20%28Karaoke%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chain-the-lost-footprints-mini-album/02%2520Chain%2520%2528Karaoke%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 513,
+    "filesize_mp3_bytes": 17186160,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

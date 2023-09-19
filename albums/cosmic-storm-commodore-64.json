@@ -1,0 +1,112 @@
+{
+  "title": "Cosmic Storm",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T08:41:59.666080+00:00",
+  "slug": "cosmic-storm-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/cosmic-storm-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/cosmic-storm-commodore-64/CS.png"
+  ],
+  "year": 1990,
+  "date_added": "2017-05-30T00:00:00+00:00",
+  "developers": {
+    "Software Creations": "https://downloads.khinsider.com/game-soundtracks/developer/software-creations"
+  },
+  "publishers": {
+    "Virgin Mastertronic": "https://downloads.khinsider.com/game-soundtracks/publisher/virgin-mastertronic"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2327838,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 128,
+      "source_mp3": "https://vgmsite.com/soundtracks/cosmic-storm-commodore-64/pgsgmjmw/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cosmic-storm-commodore-64/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2369781,
+      "track_number": 2,
+      "title": "Stage BGM",
+      "runtime": 128,
+      "source_mp3": "https://vgmsite.com/soundtracks/cosmic-storm-commodore-64/nxofvmxf/02_Stage%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cosmic-storm-commodore-64/02_Stage%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2202009,
+      "track_number": 3,
+      "title": "Bonus Round",
+      "runtime": 120,
+      "source_mp3": "https://vgmsite.com/soundtracks/cosmic-storm-commodore-64/bhcjfdfc/03_Bonus%20Round.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cosmic-storm-commodore-64/03_Bonus%2520Round.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1237319,
+      "track_number": 4,
+      "title": "Unknown",
+      "runtime": 79,
+      "source_mp3": "https://vgmsite.com/soundtracks/cosmic-storm-commodore-64/tlizvega/04_Unknown.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cosmic-storm-commodore-64/04_Unknown.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4246732,
+      "track_number": 5,
+      "title": "Title Screen (SID Stereo)",
+      "runtime": 128,
+      "source_mp3": "https://vgmsite.com/soundtracks/cosmic-storm-commodore-64/mgmjnjla/05_Title%20Screen%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cosmic-storm-commodore-64/05_Title%2520Screen%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4309647,
+      "track_number": 6,
+      "title": "Stage BGM (SID Stereo)",
+      "runtime": 128,
+      "source_mp3": "https://vgmsite.com/soundtracks/cosmic-storm-commodore-64/ervozobj/06_Stage%20BGM%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cosmic-storm-commodore-64/06_Stage%2520BGM%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3837788,
+      "track_number": 7,
+      "title": "Bonus Round (SID Stereo)",
+      "runtime": 120,
+      "source_mp3": "https://vgmsite.com/soundtracks/cosmic-storm-commodore-64/lbdjreyf/07_Bonus%20Round%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cosmic-storm-commodore-64/07_Bonus%2520Round%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2264924,
+      "track_number": 8,
+      "title": "Unknown (SID Stereo)",
+      "runtime": 80,
+      "source_mp3": "https://vgmsite.com/soundtracks/cosmic-storm-commodore-64/ahkqaugi/08_Unknown%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cosmic-storm-commodore-64/08_Unknown%2520%2528SID%2520Stereo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 911,
+    "filesize_mp3_bytes": 22796038,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

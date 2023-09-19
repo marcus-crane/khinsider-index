@@ -1,0 +1,86 @@
+{
+  "title": "Choukousenki Kikaioh Drama Album",
+  "titles_alternative": [
+    "\u8d85\u92fc\u6226\u7d00\u30ad\u30ab\u30a4\u30aa\u30fc\u3000\u30c9\u30e9\u30de\u30a2\u30eb\u30d0\u30e0"
+  ],
+  "crawled_at": "2023-09-19T07:40:26.353256+00:00",
+  "slug": "choukousenki-kikaioh-drama-album",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/choukousenki-kikaioh-drama-album",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade",
+    "Dreamcast": "https://downloads.khinsider.com/game-soundtracks/sega-dreamcast"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/choukousenki-kikaioh-drama-album/coverart.jpg"
+  ],
+  "year": 1999,
+  "catalog_number": "CPCA-1018",
+  "date_added": "2020-10-20T00:00:00+00:00",
+  "developers": {
+    "Capcom": "https://downloads.khinsider.com/game-soundtracks/developer/capcom"
+  },
+  "publishers": {
+    "Suleputer": "https://downloads.khinsider.com/game-soundtracks/publisher/suleputer"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 14554234,
+      "track_number": 1,
+      "title": "Dai 1 Wa",
+      "runtime": 604,
+      "source_mp3": "https://vgmsite.com/soundtracks/choukousenki-kikaioh-drama-album/ziyroulhcd/01%20-%20Dai%201%20Wa.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/choukousenki-kikaioh-drama-album/01%2520-%2520Dai%25201%2520Wa.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 14543749,
+      "track_number": 2,
+      "title": "Dai 2 Wa",
+      "runtime": 604,
+      "source_mp3": "https://vgmsite.com/soundtracks/choukousenki-kikaioh-drama-album/dhkrzvgyss/02%20-%20Dai%202%20Wa.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/choukousenki-kikaioh-drama-album/02%2520-%2520Dai%25202%2520Wa.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 14575206,
+      "track_number": 3,
+      "title": "Dai 3 Wa",
+      "runtime": 605,
+      "source_mp3": "https://vgmsite.com/soundtracks/choukousenki-kikaioh-drama-album/cafzvufggg/03%20-%20Dai%203%20Wa.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/choukousenki-kikaioh-drama-album/03%2520-%2520Dai%25203%2520Wa.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 18790481,
+      "track_number": 4,
+      "title": "Dai 4 Wa",
+      "runtime": 781,
+      "source_mp3": "https://vgmsite.com/soundtracks/choukousenki-kikaioh-drama-album/wbssxysmdj/04%20-%20Dai%204%20Wa.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/choukousenki-kikaioh-drama-album/04%2520-%2520Dai%25204%2520Wa.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 15309209,
+      "track_number": 5,
+      "title": "Porin no Love Love Room",
+      "runtime": 636,
+      "source_mp3": "https://vgmsite.com/soundtracks/choukousenki-kikaioh-drama-album/nphosbimde/05%20-%20Porin%20no%20Love%20Love%20Room.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/choukousenki-kikaioh-drama-album/05%2520-%2520Porin%2520no%2520Love%2520Love%2520Room.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 3230,
+    "filesize_mp3_bytes": 77772879,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Chiller",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T07:32:36.530556+00:00",
+  "slug": "chiller-1990-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/chiller-1990-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/chiller-1990-nes/Chiller.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2022-03-28T00:00:00+00:00",
+  "developers": {
+    "Exidy": "https://downloads.khinsider.com/game-soundtracks/developer/exidy"
+  },
+  "publishers": {
+    "American Game Cartridges": "https://downloads.khinsider.com/game-soundtracks/publisher/american-game-cartridges"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5693767,
+      "filesize_mp3_bytes": 4771020,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/chiller-1990-nes/vufoiqjyvs/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/chiller-1990-nes/vufoiqjyvs/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chiller-1990-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3753902,
+      "filesize_mp3_bytes": 4236247,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/chiller-1990-nes/eihprjzrnn/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/chiller-1990-nes/eihprjzrnn/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chiller-1990-nes/02.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 360,
+    "filesize_mp3_bytes": 9007267,
+    "filesize_flac_bytes": 9447669,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Cosmic Tunnels",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T08:42:01.690128+00:00",
+  "slug": "cosmic-tunnels-atari-8-bit",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/cosmic-tunnels-atari-8-bit",
+  "platforms": {
+    "Atari 8-Bit": "https://downloads.khinsider.com/game-soundtracks/atari-8bit"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/cosmic-tunnels-atari-8-bit/Cosmic%20Tunnels.jpg"
+  ],
+  "year": 1983,
+  "date_added": "2017-11-13T00:00:00+00:00",
+  "developers": {
+    "Datamost": "https://downloads.khinsider.com/game-soundtracks/developer/datamost"
+  },
+  "publishers": {
+    "Datamost": "https://downloads.khinsider.com/game-soundtracks/publisher/datamost"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1929379,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 92,
+      "source_mp3": "https://vgmsite.com/soundtracks/cosmic-tunnels-atari-8-bit/rbviocig/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cosmic-tunnels-atari-8-bit/01_Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 92,
+    "filesize_mp3_bytes": 1929379,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Competition! SD Wars",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T08:18:28.934029+00:00",
+  "slug": "competition-sd-wars-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/competition-sd-wars-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/competition-sd-wars-android/1.jpg"
+  ],
+  "date_added": "2017-07-21T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 828375,
+      "title": "bgm_01",
+      "runtime": 36,
+      "source_mp3": "https://vgmsite.com/soundtracks/competition-sd-wars-android/tukeanfu/bgm_01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/competition-sd-wars-android/bgm_01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 608174,
+      "title": "bgm_02",
+      "runtime": 29,
+      "source_mp3": "https://vgmsite.com/soundtracks/competition-sd-wars-android/nlpagpyd/bgm_02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/competition-sd-wars-android/bgm_02.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 65,
+    "filesize_mp3_bytes": 1436549,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

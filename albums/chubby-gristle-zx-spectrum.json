@@ -1,0 +1,38 @@
+{
+  "title": "Chubby Gristle",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T07:44:06.059650+00:00",
+  "slug": "chubby-gristle-zx-spectrum",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/chubby-gristle-zx-spectrum",
+  "platforms": {
+    "Spectrum": "https://downloads.khinsider.com/game-soundtracks/spectrum"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/chubby-gristle-zx-spectrum/Chubby%20Gristle%20%28Spectrum%29%20%28gamerip%29%20%281988%29.jpg"
+  ],
+  "year": 1988,
+  "date_added": "2016-03-06T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3586129,
+      "track_number": 1,
+      "title": "Title Theme (AY)",
+      "runtime": 136,
+      "source_mp3": "https://vgmsite.com/soundtracks/chubby-gristle-zx-spectrum/cdkwoxxv/01_Title%20Theme%20%28AY%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chubby-gristle-zx-spectrum/01_Title%2520Theme%2520%2528AY%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 136,
+    "filesize_mp3_bytes": 3586129,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

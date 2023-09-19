@@ -1,0 +1,91 @@
+{
+  "title": "Counter Action",
+  "titles_alternative": [
+    "\u041f\u0440\u043e\u0442\u0438\u0432\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435"
+  ],
+  "crawled_at": "2023-09-19T08:45:28.575138+00:00",
+  "slug": "counter-action-windows-gamerip-1997",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/counter-action-windows-gamerip-1997",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/counter-action-windows-gamerip-1997/counter-action-dos-front-cover.jpg"
+  ],
+  "year": 1997,
+  "date_added": "2023-07-06T00:00:00+00:00",
+  "developers": {
+    "Nashi Igry": "https://downloads.khinsider.com/game-soundtracks/developer/nashi-igry"
+  },
+  "publishers": {
+    "Doka Media": "https://downloads.khinsider.com/game-soundtracks/publisher/doka-media",
+    "Mindscape": "https://downloads.khinsider.com/game-soundtracks/publisher/mindscape",
+    "Strategic Simulations": "https://downloads.khinsider.com/game-soundtracks/publisher/strategic-simulations"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2233466,
+      "filesize_mp3_bytes": 1017118,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 56,
+      "source_mp3": "https://vgmsite.com/soundtracks/counter-action-windows-gamerip-1997/fgvnvfawxn/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/counter-action-windows-gamerip-1997/fgvnvfawxn/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/counter-action-windows-gamerip-1997/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3177185,
+      "filesize_mp3_bytes": 1163919,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/counter-action-windows-gamerip-1997/kxpapobcra/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/counter-action-windows-gamerip-1997/kxpapobcra/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/counter-action-windows-gamerip-1997/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5347737,
+      "filesize_mp3_bytes": 1793064,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 101,
+      "source_mp3": "https://vgmsite.com/soundtracks/counter-action-windows-gamerip-1997/wtvrkbgqep/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/counter-action-windows-gamerip-1997/wtvrkbgqep/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/counter-action-windows-gamerip-1997/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3365928,
+      "filesize_mp3_bytes": 1373634,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 77,
+      "source_mp3": "https://vgmsite.com/soundtracks/counter-action-windows-gamerip-1997/sssvsswqpg/04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/counter-action-windows-gamerip-1997/sssvsswqpg/04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/counter-action-windows-gamerip-1997/04.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4854906,
+      "filesize_mp3_bytes": 1698693,
+      "track_number": 5,
+      "title": "Track 5",
+      "runtime": 77,
+      "source_mp3": "https://vgmsite.com/soundtracks/counter-action-windows-gamerip-1997/kaenstrduj/05.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/counter-action-windows-gamerip-1997/kaenstrduj/05.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/counter-action-windows-gamerip-1997/05.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 375,
+    "filesize_mp3_bytes": 7046428,
+    "filesize_flac_bytes": 18979222,
+    "tracks": 5
+  }
+}

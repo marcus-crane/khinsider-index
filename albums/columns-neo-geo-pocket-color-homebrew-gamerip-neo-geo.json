@@ -1,0 +1,50 @@
+{
+  "title": "Columns (Neo Geo Pocket Color) (Homebrew)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T08:10:41.827636+00:00",
+  "slug": "columns-neo-geo-pocket-color-homebrew-gamerip-neo-geo",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/columns-neo-geo-pocket-color-homebrew-gamerip-neo-geo",
+  "platforms": {
+    "Neo Geo": "https://downloads.khinsider.com/game-soundtracks/neo-geo"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/columns-neo-geo-pocket-color-homebrew-gamerip-neo-geo/Columns%20%28Neo%20Geo%20Pocket%20Color%29%20Startup%20Screen.png"
+  ],
+  "year": 2007,
+  "date_added": "2022-06-17T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 45749370,
+      "filesize_mp3_bytes": 6155141,
+      "track_number": 1,
+      "title": "Title Screen & Main Menu",
+      "runtime": 239,
+      "source_mp3": "https://vgmsite.com/soundtracks/columns-neo-geo-pocket-color-homebrew-gamerip-neo-geo/rikzqnnhtm/01.%20Title%20Screen%20%26%20Main%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/columns-neo-geo-pocket-color-homebrew-gamerip-neo-geo/rikzqnnhtm/01.%20Title%20Screen%20%26%20Main%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/columns-neo-geo-pocket-color-homebrew-gamerip-neo-geo/01.%2520Title%2520Screen%2520%2526%2520Main%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 168023818,
+      "filesize_mp3_bytes": 22135439,
+      "track_number": 2,
+      "title": "Main Theme",
+      "runtime": 877,
+      "source_mp3": "https://vgmsite.com/soundtracks/columns-neo-geo-pocket-color-homebrew-gamerip-neo-geo/mrgaujntxj/02.%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/columns-neo-geo-pocket-color-homebrew-gamerip-neo-geo/mrgaujntxj/02.%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/columns-neo-geo-pocket-color-homebrew-gamerip-neo-geo/02.%2520Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1116,
+    "filesize_mp3_bytes": 28290580,
+    "filesize_flac_bytes": 213773188,
+    "tracks": 2
+  }
+}

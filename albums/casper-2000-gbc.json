@@ -1,0 +1,66 @@
+{
+  "title": "Casper (GBC)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T07:02:54.929169+00:00",
+  "slug": "casper-2000-gbc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/casper-2000-gbc",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/casper-2000-gbc/C3.png"
+  ],
+  "year": 2000,
+  "date_added": "2022-03-24T00:00:00+00:00",
+  "developers": {
+    "Funcom Oslo A/S": "https://downloads.khinsider.com/game-soundtracks/developer/funcom-oslo-a-s",
+    "G3 Interactive": "https://downloads.khinsider.com/game-soundtracks/developer/g3-interactive"
+  },
+  "publishers": {
+    "Interplay": "https://downloads.khinsider.com/game-soundtracks/publisher/interplay"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10034872,
+      "filesize_mp3_bytes": 4267704,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/casper-2000-gbc/xibaaycbii/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/casper-2000-gbc/xibaaycbii/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/casper-2000-gbc/01%2520BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10789847,
+      "filesize_mp3_bytes": 3743416,
+      "track_number": 2,
+      "title": "BGM #02",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/casper-2000-gbc/parfxpcxvd/02%20BGM%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/casper-2000-gbc/parfxpcxvd/02%20BGM%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/casper-2000-gbc/02%2520BGM%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9783214,
+      "filesize_mp3_bytes": 3837788,
+      "track_number": 3,
+      "title": "BGM #03",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/casper-2000-gbc/bhpgmrhfzo/03%20BGM%20%2303.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/casper-2000-gbc/bhpgmrhfzo/03%20BGM%20%2303.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/casper-2000-gbc/03%2520BGM%2520%252303.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 540,
+    "filesize_mp3_bytes": 11848908,
+    "filesize_flac_bytes": 30607933,
+    "tracks": 3
+  }
+}

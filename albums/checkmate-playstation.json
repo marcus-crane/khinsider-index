@@ -1,0 +1,78 @@
+{
+  "title": "Checkmate",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T07:23:56.844718+00:00",
+  "slug": "checkmate-playstation",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/checkmate-playstation",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/checkmate-playstation/coverart.jpg"
+  ],
+  "year": 2001,
+  "date_added": "2019-06-18T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7728005,
+      "track_number": 1,
+      "title": "Inspire",
+      "runtime": 192,
+      "source_mp3": "https://vgmsite.com/soundtracks/checkmate-playstation/vsfaulrbrp/01%20-%20Inspire.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/checkmate-playstation/01%2520-%2520Inspire.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8577351,
+      "track_number": 2,
+      "title": "Hope",
+      "runtime": 213,
+      "source_mp3": "https://vgmsite.com/soundtracks/checkmate-playstation/kapbqtvbta/02%20-%20Hope.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/checkmate-playstation/02%2520-%2520Hope.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 13128171,
+      "track_number": 3,
+      "title": "Calm",
+      "runtime": 327,
+      "source_mp3": "https://vgmsite.com/soundtracks/checkmate-playstation/hqgzhzobxq/03%20-%20Calm.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/checkmate-playstation/03%2520-%2520Calm.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 12142510,
+      "track_number": 4,
+      "title": "Brisk",
+      "runtime": 302,
+      "source_mp3": "https://vgmsite.com/soundtracks/checkmate-playstation/dirncjququ/04%20-%20Brisk.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/checkmate-playstation/04%2520-%2520Brisk.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8409579,
+      "track_number": 5,
+      "title": "Competition",
+      "runtime": 209,
+      "source_mp3": "https://vgmsite.com/soundtracks/checkmate-playstation/nrqdjaogxn/05%20-%20Competition.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/checkmate-playstation/05%2520-%2520Competition.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1243,
+    "filesize_mp3_bytes": 49985616,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

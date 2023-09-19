@@ -1,0 +1,93 @@
+{
+  "title": "Chocolatier",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T07:37:30.229504+00:00",
+  "slug": "chocolatier-2010-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/chocolatier-2010-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/chocolatier-2010-nds-gamerip/Chocolatier.jpg"
+  ],
+  "year": 2010,
+  "date_added": "2020-06-03T00:00:00+00:00",
+  "developers": {
+    "Big Splash": "https://downloads.khinsider.com/game-soundtracks/developer/big-splash",
+    "Zoo": "https://downloads.khinsider.com/game-soundtracks/developer/zoo"
+  },
+  "publishers": {
+    "Zoo": "https://downloads.khinsider.com/game-soundtracks/publisher/zoo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1080033,
+      "filesize_mp3_bytes": 419430,
+      "title": "Gameplay1",
+      "runtime": 36,
+      "source_mp3": "https://vgmsite.com/soundtracks/chocolatier-2010-nds-gamerip/rtenmdmkmw/Gameplay1.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/chocolatier-2010-nds-gamerip/rtenmdmkmw/Gameplay1.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chocolatier-2010-nds-gamerip/Gameplay1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 870318,
+      "filesize_mp3_bytes": 346030,
+      "title": "Gameplay2",
+      "runtime": 26,
+      "source_mp3": "https://vgmsite.com/soundtracks/chocolatier-2010-nds-gamerip/iedqfxmdkp/Gameplay2.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/chocolatier-2010-nds-gamerip/iedqfxmdkp/Gameplay2.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chocolatier-2010-nds-gamerip/Gameplay2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 534773,
+      "filesize_mp3_bytes": 209715,
+      "title": "Gameplay3",
+      "runtime": 18,
+      "source_mp3": "https://vgmsite.com/soundtracks/chocolatier-2010-nds-gamerip/mdotapwsmv/Gameplay3.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/chocolatier-2010-nds-gamerip/mdotapwsmv/Gameplay3.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chocolatier-2010-nds-gamerip/Gameplay3.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1121976,
+      "filesize_mp3_bytes": 450887,
+      "title": "Menu",
+      "runtime": 37,
+      "source_mp3": "https://vgmsite.com/soundtracks/chocolatier-2010-nds-gamerip/ufufyognhk/Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/chocolatier-2010-nds-gamerip/ufufyognhk/Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chocolatier-2010-nds-gamerip/Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2778726,
+      "filesize_mp3_bytes": 1153433,
+      "title": "Mini Game",
+      "runtime": 87,
+      "source_mp3": "https://vgmsite.com/soundtracks/chocolatier-2010-nds-gamerip/prbipgjtlj/Mini%20Game.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/chocolatier-2010-nds-gamerip/prbipgjtlj/Mini%20Game.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chocolatier-2010-nds-gamerip/Mini%2520Game.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 251658,
+      "filesize_mp3_bytes": 104857,
+      "title": "Story Loop",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/chocolatier-2010-nds-gamerip/xiuyzgvtot/Story%20Loop.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/chocolatier-2010-nds-gamerip/xiuyzgvtot/Story%20Loop.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chocolatier-2010-nds-gamerip/Story%2520Loop.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 214,
+    "filesize_mp3_bytes": 2684352,
+    "filesize_flac_bytes": 6637484,
+    "tracks": 6
+  }
+}
