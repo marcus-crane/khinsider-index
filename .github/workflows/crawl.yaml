@@ -9,7 +9,6 @@ on:
   #     - 'index.json'
   workflow_dispatch:
 
-
 env:
   PYTHONUNBUFFERED: 1 # ensure that python scripts live output instead of buffering
 
@@ -17,66 +16,6 @@ jobs:
   index-crawl:
     name: index-crawl
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        include:
-          # At this point I'm just taking the piss but we stagger each job cancellation to avoid
-          # git pushes being blocked by each other. I have absolutely no idea if this will work
-          # but it's funny enough to try.
-          - letter: '_special'
-            stagger: 5
-          - letter: 'a'
-            stagger: 10
-          - letter: 'b'
-            stagger: 15
-          - letter: 'c'
-            stagger: 20
-          - letter: 'd'
-            stagger: 25
-          - letter: 'e'
-            stagger: 30
-          - letter: 'f'
-            stagger: 35
-          - letter: 'g'
-            stagger: 40
-          - letter: 'h'
-            stagger: 45
-          - letter: 'i'
-            stagger: 50
-          - letter: 'j'
-            stagger: 55
-          - letter: 'k'
-            stagger: 60
-          - letter: 'l'
-            stagger: 65
-          - letter: 'm'
-            stagger: 70
-          - letter: 'n'
-            stagger: 75
-          - letter: 'o'
-            stagger: 80
-          - letter: 'p'
-            stagger: 85
-          - letter: 'q'
-            stagger: 90
-          - letter: 'r'
-            stagger: 95
-          - letter: 's'
-            stagger: 100
-          - letter: 't'
-            stagger: 105
-          - letter: 'u'
-            stagger: 110
-          - letter: 'v'
-            stagger: 115
-          - letter: 'w'
-            stagger: 120
-          - letter: 'x'
-            stagger: 125
-          - letter: 'y'
-            stagger: 130
-          - letter: 'z'
-            stagger: 135
     steps:
 
       - name: Checkout
@@ -97,13 +36,6 @@ jobs:
       
       - run: python scrape.py
         working-directory: scripts
-        env:
-          LETTER: "${{ matrix.letter }}"
-      
-      # You can take up to 5 minutes to cancel before Github forces a kill
-      # https://docs.github.com/en/actions/managing-workflow-runs/canceling-a-workflow#steps-github-takes-to-cancel-a-workflow-run
-      - run: sleep ${{ matrix.stagger }}
-        if: always()
 
       - name: Commit changes
         if: always()
@@ -114,8 +46,7 @@ jobs:
           git config --local user.name "Indexer Bot"
           git config pull.rebase false
 
-          git fetch --no-tags
-          git pull origin main
+          git pull
           git add .
           git commit -a -m "Index extras have been updated" || exit 0
       
