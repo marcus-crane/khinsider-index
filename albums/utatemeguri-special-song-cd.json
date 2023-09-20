@@ -1,0 +1,55 @@
+{
+  "title": "Utatemeguri Special Song CD",
+  "titles_alternative": [
+    "\u3046\u305f\u3066\u3081\u3050\u308a Special Song CD"
+  ],
+  "crawled_at": "2023-09-20T01:00:11.100783+00:00",
+  "slug": "utatemeguri-special-song-cd",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/utatemeguri-special-song-cd",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/utatemeguri-special-song-cd/FSP-1002_01.jpg"
+  ],
+  "year": 2010,
+  "catalog_number": "FSP-1002",
+  "date_added": "2020-04-27T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "FLAT": "https://downloads.khinsider.com/game-soundtracks/publisher/flat"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 35798384,
+      "filesize_mp3_bytes": 8315207,
+      "track_number": 1,
+      "title": "Causal Chain",
+      "runtime": 257,
+      "source_mp3": "https://vgmsite.com/soundtracks/utatemeguri-special-song-cd/jhamerpsxz/01%20-%20Causal%20Chain.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/utatemeguri-special-song-cd/jhamerpsxz/01%20-%20Causal%20Chain.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/utatemeguri-special-song-cd/01%2520-%2520Causal%2520Chain.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 39027998,
+      "filesize_mp3_bytes": 10003415,
+      "track_number": 2,
+      "title": "Start line",
+      "runtime": 293,
+      "source_mp3": "https://vgmsite.com/soundtracks/utatemeguri-special-song-cd/psprstlgte/02%20-%20Start%20line.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/utatemeguri-special-song-cd/psprstlgte/02%20-%20Start%20line.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/utatemeguri-special-song-cd/02%2520-%2520Start%2520line.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 550,
+    "filesize_mp3_bytes": 18318622,
+    "filesize_flac_bytes": 74826382,
+    "tracks": 2
+  }
+}

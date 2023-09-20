@@ -1,0 +1,34 @@
+{
+  "title": "Unison League (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-20T00:36:58.372733+00:00",
+  "slug": "unison-league-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/unison-league-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/unison-league-android-game-music/Unison%20League.jpg"
+  ],
+  "date_added": "2016-06-25T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1006632,
+      "title": "Unison League - Title",
+      "runtime": 100,
+      "source_mp3": "https://vgmsite.com/soundtracks/unison-league-android-game-music/uzbcmkxc/Unison%20League%20-%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/unison-league-android-game-music/Unison%2520League%2520-%2520Title.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 100,
+    "filesize_mp3_bytes": 1006632,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

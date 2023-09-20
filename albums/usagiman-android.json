@@ -1,0 +1,117 @@
+{
+  "title": "UsagiMan",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-20T00:58:36.170991+00:00",
+  "slug": "usagiman-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/usagiman-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/usagiman-android/1.png"
+  ],
+  "date_added": "2018-03-06T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 262144,
+      "track_number": 1,
+      "title": "bgm_title",
+      "runtime": 32,
+      "source_mp3": "https://vgmsite.com/soundtracks/usagiman-android/wepfkgbh/1%20bgm_title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/usagiman-android/1%2520bgm_title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1153433,
+      "track_number": 2,
+      "title": "bgm_map_0",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/usagiman-android/izfxcgwf/2%20bgm_map_0.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/usagiman-android/2%2520bgm_map_0.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 765460,
+      "track_number": 3,
+      "title": "bgm_map_1",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/usagiman-android/jsxwlvsh/3%20bgm_map_1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/usagiman-android/3%2520bgm_map_1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 807403,
+      "track_number": 4,
+      "title": "bgm_map_2",
+      "runtime": 67,
+      "source_mp3": "https://vgmsite.com/soundtracks/usagiman-android/pktywabm/4%20bgm_map_2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/usagiman-android/4%2520bgm_map_2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 786432,
+      "track_number": 5,
+      "title": "bgm_map_3",
+      "runtime": 98,
+      "source_mp3": "https://vgmsite.com/soundtracks/usagiman-android/edpghdma/5%20bgm_map_3.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/usagiman-android/5%2520bgm_map_3.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 650117,
+      "track_number": 6,
+      "title": "bgm_map_4",
+      "runtime": 54,
+      "source_mp3": "https://vgmsite.com/soundtracks/usagiman-android/tsdsasfe/6%20bgm_map_4.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/usagiman-android/6%2520bgm_map_4.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 387973,
+      "track_number": 7,
+      "title": "bgm_map_5",
+      "runtime": 32,
+      "source_mp3": "https://vgmsite.com/soundtracks/usagiman-android/zewkpsnr/7%20bgm_map_5.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/usagiman-android/7%2520bgm_map_5.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 8,
+      "title": "tiun",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/usagiman-android/ztsbxarc/8%20tiun.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/usagiman-android/8%2520tiun.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 629145,
+      "track_number": 9,
+      "title": "bgm_boss",
+      "runtime": 52,
+      "source_mp3": "https://vgmsite.com/soundtracks/usagiman-android/tvjqnyrp/9%20bgm_boss.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/usagiman-android/9%2520bgm_boss.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 497,
+    "filesize_mp3_bytes": 5536478,
+    "filesize_flac_bytes": 0,
+    "tracks": 9
+  }
+}
