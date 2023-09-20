@@ -1,0 +1,102 @@
+{
+  "title": "Xenopew",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-20T14:35:48.154797+00:00",
+  "slug": "xenopew-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/xenopew-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/xenopew-amiga/Xenopew.png"
+  ],
+  "year": 2015,
+  "date_added": "2019-04-01T00:00:00+00:00",
+  "developers": {
+    "Lemming880": "https://downloads.khinsider.com/game-soundtracks/developer/lemming880"
+  },
+  "publishers": {
+    "Lemming880": "https://downloads.khinsider.com/game-soundtracks/publisher/lemming880"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6364856,
+      "track_number": 1,
+      "title": "Abandon Cracktro (Intro)",
+      "runtime": 197,
+      "source_mp3": "https://vgmsite.com/soundtracks/xenopew-amiga/bjcmxcug/01_Abandon%20Cracktro%20%28Intro%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xenopew-amiga/01_Abandon%2520Cracktro%2520%2528Intro%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5934940,
+      "track_number": 2,
+      "title": "Citrocity (Stage 1)",
+      "runtime": 187,
+      "source_mp3": "https://vgmsite.com/soundtracks/xenopew-amiga/ftgbvpqk/02_Citrocity%20%28Stage%201%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xenopew-amiga/02_Citrocity%2520%2528Stage%25201%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3512729,
+      "track_number": 3,
+      "title": "M-PuLsE (Stage 2)",
+      "runtime": 109,
+      "source_mp3": "https://vgmsite.com/soundtracks/xenopew-amiga/ucbjrzpo/03_M-PuLsE%20%28Stage%202%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xenopew-amiga/03_M-PuLsE%2520%2528Stage%25202%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6889144,
+      "track_number": 4,
+      "title": "Flybass (Stage 3)",
+      "runtime": 225,
+      "source_mp3": "https://vgmsite.com/soundtracks/xenopew-amiga/fkgcjljg/04_Flybass%20%28Stage%203%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xenopew-amiga/04_Flybass%2520%2528Stage%25203%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10905190,
+      "track_number": 5,
+      "title": "Data Pheed 2 (Stage 4)",
+      "runtime": 357,
+      "source_mp3": "https://vgmsite.com/soundtracks/xenopew-amiga/jaedjbti/05_Data%20Pheed%202%20%28Stage%204%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xenopew-amiga/05_Data%2520Pheed%25202%2520%2528Stage%25204%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4257218,
+      "track_number": 6,
+      "title": "Acid Chicken in Space (Stage 5)",
+      "runtime": 135,
+      "source_mp3": "https://vgmsite.com/soundtracks/xenopew-amiga/wkviwzps/06_Acid%20Chicken%20in%20Space%20%28Stage%205%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xenopew-amiga/06_Acid%2520Chicken%2520in%2520Space%2520%2528Stage%25205%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5651824,
+      "track_number": 7,
+      "title": "Shivan Dragon (Outro)",
+      "runtime": 171,
+      "source_mp3": "https://vgmsite.com/soundtracks/xenopew-amiga/uikyueia/07_Shivan%20Dragon%20%28Outro%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xenopew-amiga/07_Shivan%2520Dragon%2520%2528Outro%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1381,
+    "filesize_mp3_bytes": 43515901,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

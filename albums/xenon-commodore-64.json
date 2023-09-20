@@ -1,0 +1,92 @@
+{
+  "title": "Xenon",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-20T14:35:05.419843+00:00",
+  "slug": "xenon-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/xenon-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/xenon-commodore-64/X1.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2019-06-17T00:00:00+00:00",
+  "developers": {
+    "The Bitmap Brothers": "https://downloads.khinsider.com/game-soundtracks/developer/the-bitmap-brothers"
+  },
+  "publishers": {
+    "Melbourne House": "https://downloads.khinsider.com/game-soundtracks/publisher/melbourne-house"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4781506,
+      "track_number": 1,
+      "title": "Title Screen  Stage 2 and 4",
+      "runtime": 247,
+      "source_mp3": "https://vgmsite.com/soundtracks/xenon-commodore-64/rwawmdmwrc/01_Title%20Screen%20%20Stage%202%20and%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xenon-commodore-64/01_Title%2520Screen%2520%2520Stage%25202%2520and%25204.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2789212,
+      "track_number": 2,
+      "title": "Stage 1 and 3",
+      "runtime": 145,
+      "source_mp3": "https://vgmsite.com/soundtracks/xenon-commodore-64/myupfzxfps/02_Stage%201%20and%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xenon-commodore-64/02_Stage%25201%2520and%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1279262,
+      "track_number": 3,
+      "title": "Boss Theme",
+      "runtime": 68,
+      "source_mp3": "https://vgmsite.com/soundtracks/xenon-commodore-64/hkofqtsmfy/03_Boss%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xenon-commodore-64/03_Boss%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8472494,
+      "track_number": 4,
+      "title": "Title Screen  Stage 2 and 4 (SID Stereo)",
+      "runtime": 247,
+      "source_mp3": "https://vgmsite.com/soundtracks/xenon-commodore-64/riwniyljfy/04_Title%20Screen%20%20Stage%202%20and%204%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xenon-commodore-64/04_Title%2520Screen%2520%2520Stage%25202%2520and%25204%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4708106,
+      "track_number": 5,
+      "title": "Stage 1 and 3 (SID Stereo)",
+      "runtime": 144,
+      "source_mp3": "https://vgmsite.com/soundtracks/xenon-commodore-64/zasznpwxws/05_Stage%201%20and%203%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xenon-commodore-64/05_Stage%25201%2520and%25203%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2264924,
+      "track_number": 6,
+      "title": "Boss Theme (SID Stereo)",
+      "runtime": 68,
+      "source_mp3": "https://vgmsite.com/soundtracks/xenon-commodore-64/xqgcaijykn/06_Boss%20Theme%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xenon-commodore-64/06_Boss%2520Theme%2520%2528SID%2520Stereo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 919,
+    "filesize_mp3_bytes": 24295504,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

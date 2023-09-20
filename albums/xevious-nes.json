@@ -1,0 +1,58 @@
+{
+  "title": "Xevious",
+  "titles_alternative": [
+    "Xevious: The Avenger",
+    "\u30bc\u30d3\u30a6\u30b9"
+  ],
+  "crawled_at": "2023-09-20T14:39:06.513360+00:00",
+  "slug": "xevious-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/xevious-nes",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/xevious-nes/X1.jpg"
+  ],
+  "year": 1984,
+  "date_added": "2022-06-06T00:00:00+00:00",
+  "developers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/developer/namco"
+  },
+  "publishers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/publisher/namco"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 293601,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 1,
+      "title": "Game Start",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/xevious-nes/oydyhbadqz/01%20Game%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/xevious-nes/oydyhbadqz/01%20Game%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xevious-nes/01%2520Game%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 597688,
+      "filesize_mp3_bytes": 314572,
+      "track_number": 2,
+      "title": "BGM",
+      "runtime": 16,
+      "source_mp3": "https://vgmsite.com/soundtracks/xevious-nes/fmpxfrqbte/02%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/xevious-nes/fmpxfrqbte/02%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xevious-nes/02%2520BGM.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 22,
+    "filesize_mp3_bytes": 429915,
+    "filesize_flac_bytes": 891289,
+    "tracks": 2
+  }
+}

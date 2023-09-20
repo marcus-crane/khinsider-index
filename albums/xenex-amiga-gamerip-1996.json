@@ -1,0 +1,52 @@
+{
+  "title": "Xenex",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-20T14:24:20.407479+00:00",
+  "slug": "xenex-amiga-gamerip-1996",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/xenex-amiga-gamerip-1996",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/xenex-amiga-gamerip-1996/mark-sheeky-xenex.jpg"
+  ],
+  "year": 1996,
+  "date_added": "2022-07-27T00:00:00+00:00",
+  "developers": {
+    "Scorpius": "https://downloads.khinsider.com/game-soundtracks/developer/scorpius"
+  },
+  "publishers": {
+    "Scorpius": "https://downloads.khinsider.com/game-soundtracks/publisher/scorpius"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6627000,
+      "filesize_mp3_bytes": 2422210,
+      "title": "Hiscore",
+      "runtime": 72,
+      "source_mp3": "https://vgmsite.com/soundtracks/xenex-amiga-gamerip-1996/avuwzljvqr/Hiscore.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/xenex-amiga-gamerip-1996/avuwzljvqr/Hiscore.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xenex-amiga-gamerip-1996/Hiscore.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20289945,
+      "filesize_mp3_bytes": 7434403,
+      "title": "Xenex",
+      "runtime": 221,
+      "source_mp3": "https://vgmsite.com/soundtracks/xenex-amiga-gamerip-1996/rnoxcvfxvz/Xenex.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/xenex-amiga-gamerip-1996/rnoxcvfxvz/Xenex.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xenex-amiga-gamerip-1996/Xenex.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 293,
+    "filesize_mp3_bytes": 9856613,
+    "filesize_flac_bytes": 26916945,
+    "tracks": 2
+  }
+}

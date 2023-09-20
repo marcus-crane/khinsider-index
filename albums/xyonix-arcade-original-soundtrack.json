@@ -1,0 +1,84 @@
+{
+  "title": "Xyonix",
+  "titles_alternative": [
+    "\uc790\uc774\uc624\ub2c9\uc2a4"
+  ],
+  "crawled_at": "2023-09-20T14:42:47.834838+00:00",
+  "slug": "xyonix-arcade-original-soundtrack",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/xyonix-arcade-original-soundtrack",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/xyonix-arcade-original-soundtrack/Xyonix%20%28Arcade%29.png"
+  ],
+  "year": 1989,
+  "date_added": "2021-12-19T00:00:00+00:00",
+  "developers": {
+    "PhilKo": "https://downloads.khinsider.com/game-soundtracks/developer/philko"
+  },
+  "publishers": {
+    "PhilKo": "https://downloads.khinsider.com/game-soundtracks/publisher/philko"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1866465,
+      "track_number": 1,
+      "title": "Stage Music 1",
+      "runtime": 117,
+      "source_mp3": "https://vgmsite.com/soundtracks/xyonix-arcade-original-soundtrack/qiwwfclvlq/1.%20Stage%20Music%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xyonix-arcade-original-soundtrack/1.%2520Stage%2520Music%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2589982,
+      "track_number": 2,
+      "title": "Stage Music 2",
+      "runtime": 162,
+      "source_mp3": "https://vgmsite.com/soundtracks/xyonix-arcade-original-soundtrack/stdfiiiqcu/2.%20Stage%20Music%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xyonix-arcade-original-soundtrack/2.%2520Stage%2520Music%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2191523,
+      "track_number": 3,
+      "title": "Stage Music 3",
+      "runtime": 137,
+      "source_mp3": "https://vgmsite.com/soundtracks/xyonix-arcade-original-soundtrack/fwdwbkeduk/3.%20Stage%20Music%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xyonix-arcade-original-soundtrack/3.%2520Stage%2520Music%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2306867,
+      "track_number": 4,
+      "title": "Stage Music 4",
+      "runtime": 144,
+      "source_mp3": "https://vgmsite.com/soundtracks/xyonix-arcade-original-soundtrack/otvkttgeot/4.%20Stage%20Music%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xyonix-arcade-original-soundtrack/4.%2520Stage%2520Music%25204.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 817889,
+      "track_number": 5,
+      "title": "Other Music",
+      "runtime": 51,
+      "source_mp3": "https://vgmsite.com/soundtracks/xyonix-arcade-original-soundtrack/cogcnddonb/5.%20Other%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xyonix-arcade-original-soundtrack/5.%2520Other%2520Music.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 611,
+    "filesize_mp3_bytes": 9772726,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "title": "XBand Modem",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-20T14:19:56.117882+00:00",
+  "slug": "xband-modem-1995-snes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/xband-modem-1995-snes",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/xband-modem-1995-snes/XBand%20Modem.jpg"
+  ],
+  "year": 1995,
+  "date_added": "2019-08-29T00:00:00+00:00",
+  "developers": {
+    "Catapult": "https://downloads.khinsider.com/game-soundtracks/developer/catapult"
+  },
+  "publishers": {
+    "Catapult": "https://downloads.khinsider.com/game-soundtracks/publisher/catapult"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 42299555,
+      "filesize_mp3_bytes": 17584619,
+      "track_number": 1,
+      "title": "Song 1",
+      "runtime": 550,
+      "source_mp3": "https://vgmsite.com/soundtracks/xband-modem-1995-snes/imgrlqfbig/01%20Song%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/xband-modem-1995-snes/imgrlqfbig/01%20Song%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xband-modem-1995-snes/01%2520Song%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 33627832,
+      "filesize_mp3_bytes": 15141437,
+      "track_number": 2,
+      "title": "Song 2",
+      "runtime": 492,
+      "source_mp3": "https://vgmsite.com/soundtracks/xband-modem-1995-snes/atxffqfwnz/02%20Song%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/xband-modem-1995-snes/atxffqfwnz/02%20Song%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xband-modem-1995-snes/02%2520Song%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 34686894,
+      "filesize_mp3_bytes": 13201571,
+      "track_number": 3,
+      "title": "Song 3",
+      "runtime": 420,
+      "source_mp3": "https://vgmsite.com/soundtracks/xband-modem-1995-snes/eozucxibwq/03%20Song%203.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/xband-modem-1995-snes/eozucxibwq/03%20Song%203.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xband-modem-1995-snes/03%2520Song%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 29077012,
+      "filesize_mp3_bytes": 14459863,
+      "track_number": 4,
+      "title": "Song 4",
+      "runtime": 501,
+      "source_mp3": "https://vgmsite.com/soundtracks/xband-modem-1995-snes/sliepxactf/04%20Song%204.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/xband-modem-1995-snes/sliepxactf/04%20Song%204.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xband-modem-1995-snes/04%2520Song%25204.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1963,
+    "filesize_mp3_bytes": 60387490,
+    "filesize_flac_bytes": 139691293,
+    "tracks": 4
+  }
+}
