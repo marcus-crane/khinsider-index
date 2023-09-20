@@ -1,0 +1,82 @@
+{
+  "title": "ZombieCarz",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-20T21:40:37.354446+00:00",
+  "slug": "zombiecarz-windows-gamerip-2016",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/zombiecarz-windows-gamerip-2016",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/zombiecarz-windows-gamerip-2016/Cover.jpg"
+  ],
+  "year": 2016,
+  "date_added": "2023-01-28T00:00:00+00:00",
+  "developers": {
+    "ZombeTeamz": "https://downloads.khinsider.com/game-soundtracks/developer/zombeteamz"
+  },
+  "publishers": {
+    "ZombeTeamz": "https://downloads.khinsider.com/game-soundtracks/publisher/zombeteamz"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3334471,
+      "track_number": 1,
+      "title": "City2 New",
+      "runtime": 99,
+      "source_mp3": "https://vgmsite.com/soundtracks/zombiecarz-windows-gamerip-2016/mbprkivfzy/01.%20City2%20New.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zombiecarz-windows-gamerip-2016/01.%2520City2%2520New.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 335544,
+      "track_number": 2,
+      "title": "Lose",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/zombiecarz-windows-gamerip-2016/usvhmhpscx/02.%20Lose.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zombiecarz-windows-gamerip-2016/02.%2520Lose.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2621440,
+      "track_number": 3,
+      "title": "Menu",
+      "runtime": 88,
+      "source_mp3": "https://vgmsite.com/soundtracks/zombiecarz-windows-gamerip-2016/gnwbulynjb/03.%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zombiecarz-windows-gamerip-2016/03.%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 566231,
+      "track_number": 4,
+      "title": "Win",
+      "runtime": 19,
+      "source_mp3": "https://vgmsite.com/soundtracks/zombiecarz-windows-gamerip-2016/glyokdpqvg/04.%20Win.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zombiecarz-windows-gamerip-2016/04.%2520Win.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2694840,
+      "track_number": 5,
+      "title": "Winter",
+      "runtime": 88,
+      "source_mp3": "https://vgmsite.com/soundtracks/zombiecarz-windows-gamerip-2016/gyyeyufpvq/05.%20Winter.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zombiecarz-windows-gamerip-2016/05.%2520Winter.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 305,
+    "filesize_mp3_bytes": 9552526,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

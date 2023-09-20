@@ -1,0 +1,33 @@
+{
+  "title": "Zephyr",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-20T21:25:56.556036+00:00",
+  "slug": "zephyr-1994",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/zephyr-1994",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/zephyr-1994/Zephyr%20Dos%201994%20render%20cover.jpg"
+  ],
+  "year": 1994,
+  "date_added": "2020-09-13T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3428843,
+      "title": "Map 1",
+      "runtime": 143,
+      "source_mp3": "https://vgmsite.com/soundtracks/zephyr-1994/qedxgbtdzm/Map%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zephyr-1994/Map%25201.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 143,
+    "filesize_mp3_bytes": 3428843,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

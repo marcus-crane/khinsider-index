@@ -1,0 +1,85 @@
+{
+  "title": "Zgirls (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-20T21:32:32.635754+00:00",
+  "slug": "zgirls-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/zgirls-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/zgirls-android-game-music/1.jpg"
+  ],
+  "date_added": "2017-11-24T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1384120,
+      "track_number": 1,
+      "title": "date_bgm1",
+      "runtime": 59,
+      "source_mp3": "https://vgmsite.com/soundtracks/zgirls-android-game-music/acszjati/1%20date_bgm1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zgirls-android-game-music/1%2520date_bgm1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1310720,
+      "track_number": 2,
+      "title": "date_bgm2",
+      "runtime": 58,
+      "source_mp3": "https://vgmsite.com/soundtracks/zgirls-android-game-music/gjqawthg/2%20date_bgm2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zgirls-android-game-music/2%2520date_bgm2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1436549,
+      "track_number": 3,
+      "title": "city",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/zgirls-android-game-music/cpgurpvh/3%20city.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zgirls-android-game-music/3%2520city.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1237319,
+      "track_number": 4,
+      "title": "field",
+      "runtime": 89,
+      "source_mp3": "https://vgmsite.com/soundtracks/zgirls-android-game-music/lhmehrmz/4%20field.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zgirls-android-game-music/4%2520field.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 230686,
+      "track_number": 5,
+      "title": "cargo_batlle_bg",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/zgirls-android-game-music/tsvmvtbb/5%20cargo_batlle_bg.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zgirls-android-game-music/5%2520cargo_batlle_bg.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 996147,
+      "track_number": 6,
+      "title": "voices merged",
+      "runtime": 41,
+      "source_mp3": "https://vgmsite.com/soundtracks/zgirls-android-game-music/mubypcdz/6%20voices%20merged.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zgirls-android-game-music/6%2520voices%2520merged.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 353,
+    "filesize_mp3_bytes": 6595541,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "title": "Zig Zag Go For Gold",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-20T21:33:16.584983+00:00",
+  "slug": "zig-zag-go-for-gold-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/zig-zag-go-for-gold-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/zig-zag-go-for-gold-commodore-64/coverart.jpg"
+  ],
+  "year": 1987,
+  "date_added": "2016-06-17T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5337251,
+      "track_number": 1,
+      "title": "Title Screen Go For Gold",
+      "runtime": 237,
+      "source_mp3": "https://vgmsite.com/soundtracks/zig-zag-go-for-gold-commodore-64/mzkccfwd/01_Title%20Screen%20Go%20For%20Gold.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zig-zag-go-for-gold-commodore-64/01_Title%2520Screen%2520Go%2520For%2520Gold.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4498391,
+      "track_number": 2,
+      "title": "In-Game BGM",
+      "runtime": 201,
+      "source_mp3": "https://vgmsite.com/soundtracks/zig-zag-go-for-gold-commodore-64/cttosxoi/02_In-Game%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zig-zag-go-for-gold-commodore-64/02_In-Game%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8881438,
+      "track_number": 3,
+      "title": "Title Screen Go For Gold (SID Stereo)",
+      "runtime": 236,
+      "source_mp3": "https://vgmsite.com/soundtracks/zig-zag-go-for-gold-commodore-64/rlzxpfva/03_Title%20Screen%20Go%20For%20Gold%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zig-zag-go-for-gold-commodore-64/03_Title%2520Screen%2520Go%2520For%2520Gold%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7182745,
+      "track_number": 4,
+      "title": "In-Game BGM (SID Stereo)",
+      "runtime": 201,
+      "source_mp3": "https://vgmsite.com/soundtracks/zig-zag-go-for-gold-commodore-64/dokxsdqj/04_In-Game%20BGM%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zig-zag-go-for-gold-commodore-64/04_In-Game%2520BGM%2520%2528SID%2520Stereo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 875,
+    "filesize_mp3_bytes": 25899825,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

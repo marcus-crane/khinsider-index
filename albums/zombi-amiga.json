@@ -1,0 +1,50 @@
+{
+  "title": "Zombi",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-20T21:35:57.213015+00:00",
+  "slug": "zombi-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/zombi-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/zombi-amiga/Zombi%20%28Amiga%29.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2019-05-20T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Ubisoft": "https://downloads.khinsider.com/game-soundtracks/publisher/ubisoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4655677,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 152,
+      "source_mp3": "https://vgmsite.com/soundtracks/zombi-amiga/pdvhgcon/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zombi-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5075107,
+      "track_number": 2,
+      "title": "Ending",
+      "runtime": 184,
+      "source_mp3": "https://vgmsite.com/soundtracks/zombi-amiga/zeifixnb/02_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zombi-amiga/02_Ending.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 336,
+    "filesize_mp3_bytes": 9730784,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

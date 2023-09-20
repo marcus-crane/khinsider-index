@@ -1,0 +1,88 @@
+{
+  "title": "Zombie Riot",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-20T21:40:20.207072+00:00",
+  "slug": "zombie-riot-2009-gamerip-pc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/zombie-riot-2009-gamerip-pc",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/zombie-riot-2009-gamerip-pc/zr_1.jpg"
+  ],
+  "year": 2009,
+  "date_added": "2022-05-15T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 891289,
+      "track_number": 1,
+      "title": "Menu Theme",
+      "runtime": 55,
+      "source_mp3": "https://vgmsite.com/soundtracks/zombie-riot-2009-gamerip-pc/cqgnbfefig/1.%20Menu%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zombie-riot-2009-gamerip-pc/1.%2520Menu%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1268776,
+      "track_number": 2,
+      "title": "In-Game Theme",
+      "runtime": 63,
+      "source_mp3": "https://vgmsite.com/soundtracks/zombie-riot-2009-gamerip-pc/lerxwqsqkg/2.%20In-Game%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zombie-riot-2009-gamerip-pc/2.%2520In-Game%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1740636,
+      "track_number": 3,
+      "title": "Boss Theme",
+      "runtime": 108,
+      "source_mp3": "https://vgmsite.com/soundtracks/zombie-riot-2009-gamerip-pc/spgekbkamn/3.%20Boss%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zombie-riot-2009-gamerip-pc/3.%2520Boss%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 4,
+      "title": "Game Over Theme",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/zombie-riot-2009-gamerip-pc/zxhzdyupgv/4.%20Game%20Over%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zombie-riot-2009-gamerip-pc/4.%2520Game%2520Over%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2673868,
+      "track_number": 5,
+      "title": "Final Time Theme",
+      "runtime": 166,
+      "source_mp3": "https://vgmsite.com/soundtracks/zombie-riot-2009-gamerip-pc/vxqzyvelcz/5.%20Final%20Time%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zombie-riot-2009-gamerip-pc/5.%2520Final%2520Time%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1237319,
+      "track_number": 6,
+      "title": "Mission Completed Theme",
+      "runtime": 77,
+      "source_mp3": "https://vgmsite.com/soundtracks/zombie-riot-2009-gamerip-pc/pjrxtmiamk/6.%20Mission%20Completed%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zombie-riot-2009-gamerip-pc/6.%2520Mission%2520Completed%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 476,
+    "filesize_mp3_bytes": 7937717,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

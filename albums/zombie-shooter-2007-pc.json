@@ -1,0 +1,70 @@
+{
+  "title": "Zombie Shooter",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-20T21:40:27.994894+00:00",
+  "slug": "zombie-shooter-2007-pc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/zombie-shooter-2007-pc",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/zombie-shooter-2007-pc/Zombie_shooter.jpg"
+  ],
+  "year": 2007,
+  "date_added": "2019-11-22T00:00:00+00:00",
+  "developers": {
+    "Sigma Team": "https://downloads.khinsider.com/game-soundtracks/developer/sigma-team"
+  },
+  "publishers": {
+    "1C Company": "https://downloads.khinsider.com/game-soundtracks/publisher/1c-company",
+    "Sigma Team": "https://downloads.khinsider.com/game-soundtracks/publisher/sigma-team"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1835008,
+      "title": "Ambient",
+      "runtime": 59,
+      "source_mp3": "https://vgmsite.com/soundtracks/zombie-shooter-2007-pc/mytaolsjbo/Ambient.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zombie-shooter-2007-pc/Ambient.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2369781,
+      "title": "Menu Music",
+      "runtime": 75,
+      "source_mp3": "https://vgmsite.com/soundtracks/zombie-shooter-2007-pc/kxmbjnlyzs/Menu%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zombie-shooter-2007-pc/Menu%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3418357,
+      "title": "Music 1",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/zombie-shooter-2007-pc/tulidogdkz/Music%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zombie-shooter-2007-pc/Music%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2936012,
+      "title": "Music 2",
+      "runtime": 160,
+      "source_mp3": "https://vgmsite.com/soundtracks/zombie-shooter-2007-pc/sfoduyukse/Music%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zombie-shooter-2007-pc/Music%25202.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 390,
+    "filesize_mp3_bytes": 10559158,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

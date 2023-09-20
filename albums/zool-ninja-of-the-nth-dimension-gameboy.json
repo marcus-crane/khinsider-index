@@ -1,0 +1,45 @@
+{
+  "title": "Zool: Ninja of the Nth Dimension",
+  "titles_alternative": [
+    "Zool no Yume Bouken",
+    "\u30ba\u30fc\u30eb\u306e\u3086\u3081\u307c\u3046\u3051\u3093"
+  ],
+  "crawled_at": "2023-09-20T21:44:49.134075+00:00",
+  "slug": "zool-ninja-of-the-nth-dimension-gameboy",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/zool-ninja-of-the-nth-dimension-gameboy",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/zool-ninja-of-the-nth-dimension-gameboy/G3.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2017-03-25T00:00:00+00:00",
+  "developers": {
+    "Gremlin Graphics Software": "https://downloads.khinsider.com/game-soundtracks/developer/gremlin-graphics-software"
+  },
+  "publishers": {
+    "GameTek": "https://downloads.khinsider.com/game-soundtracks/publisher/gametek"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5934940,
+      "track_number": 1,
+      "title": "In-Game",
+      "runtime": 167,
+      "source_mp3": "https://vgmsite.com/soundtracks/zool-ninja-of-the-nth-dimension-gameboy/kvowqpnn/01_In-Game.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zool-ninja-of-the-nth-dimension-gameboy/01_In-Game.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 167,
+    "filesize_mp3_bytes": 5934940,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

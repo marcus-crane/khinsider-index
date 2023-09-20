@@ -1,0 +1,34 @@
+{
+  "title": "Zenonia 1 (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-20T21:24:47.592530+00:00",
+  "slug": "zenonia-1-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/zenonia-1-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/zenonia-1-android-game-music/Zenonia.jpg"
+  ],
+  "date_added": "2016-06-01T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4697620,
+      "title": "Zenonia 1 (about 15 very short songs)",
+      "runtime": 251,
+      "source_mp3": "https://vgmsite.com/soundtracks/zenonia-1-android-game-music/erigwucp/Zenonia%201%20%28about%2015%20very%20short%20songs%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zenonia-1-android-game-music/Zenonia%25201%2520%2528about%252015%2520very%2520short%2520songs%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 251,
+    "filesize_mp3_bytes": 4697620,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

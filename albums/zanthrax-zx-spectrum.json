@@ -1,0 +1,52 @@
+{
+  "title": "Zanthrax",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-20T21:18:04.016755+00:00",
+  "slug": "zanthrax-zx-spectrum",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/zanthrax-zx-spectrum",
+  "platforms": {
+    "Spectrum": "https://downloads.khinsider.com/game-soundtracks/spectrum"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/zanthrax-zx-spectrum/Zanthrax.png"
+  ],
+  "year": 1989,
+  "date_added": "2016-07-03T00:00:00+00:00",
+  "developers": {
+    "W.A.S.P.": "https://downloads.khinsider.com/game-soundtracks/developer/w.a.s.p"
+  },
+  "publishers": {
+    "Crash": "https://downloads.khinsider.com/game-soundtracks/publisher/crash"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 1,
+      "title": "Zanthrax Speech",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/zanthrax-zx-spectrum/oifzoncu/01_Zanthrax%20Speech.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zanthrax-zx-spectrum/01_Zanthrax%2520Speech.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2139095,
+      "track_number": 2,
+      "title": "Title Screen",
+      "runtime": 82,
+      "source_mp3": "https://vgmsite.com/soundtracks/zanthrax-zx-spectrum/lbjwoprb/02_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zanthrax-zx-spectrum/02_Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 85,
+    "filesize_mp3_bytes": 2181038,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

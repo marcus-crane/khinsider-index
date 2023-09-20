@@ -1,0 +1,60 @@
+{
+  "title": "Zombi",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-20T21:35:58.428788+00:00",
+  "slug": "zombi-atari-st",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/zombi-atari-st",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/zombi-atari-st/Zombi%20%28Atari%20ST%29.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2016-06-29T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Ubisoft": "https://downloads.khinsider.com/game-soundtracks/publisher/ubisoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5064622,
+      "track_number": 1,
+      "title": "Loading Music",
+      "runtime": 192,
+      "source_mp3": "https://vgmsite.com/soundtracks/zombi-atari-st/cqldlmzi/01_Loading%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zombi-atari-st/01_Loading%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6197084,
+      "track_number": 2,
+      "title": "In-Game BGM",
+      "runtime": 231,
+      "source_mp3": "https://vgmsite.com/soundtracks/zombi-atari-st/ewxwojny/02_In-Game%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zombi-atari-st/02_In-Game%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 3,
+      "title": "Unknown",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/zombi-atari-st/ntomuozh/03_Unknown.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zombi-atari-st/03_Unknown.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 427,
+    "filesize_mp3_bytes": 11377049,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Zombies Ate My Phone",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-20T21:40:52.138388+00:00",
+  "slug": "zombies-ate-my-phone-2011-gamerip-pc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/zombies-ate-my-phone-2011-gamerip-pc",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/zombies-ate-my-phone-2011-gamerip-pc/zamp_1.jpg"
+  ],
+  "year": 2011,
+  "date_added": "2022-05-15T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1059061,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 66,
+      "source_mp3": "https://vgmsite.com/soundtracks/zombies-ate-my-phone-2011-gamerip-pc/ootjjxrvzz/1.%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zombies-ate-my-phone-2011-gamerip-pc/1.%2520Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 66,
+    "filesize_mp3_bytes": 1059061,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}
