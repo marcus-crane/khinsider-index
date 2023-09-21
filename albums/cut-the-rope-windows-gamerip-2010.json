@@ -1,0 +1,64 @@
+{
+  "title": "Cut The Rope",
+  "titles_alternative": [
+    "Cut The Rope (Windows 8 Version)"
+  ],
+  "crawled_at": "2023-09-21T11:06:18.261533+00:00",
+  "slug": "cut-the-rope-windows-gamerip-2010",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/cut-the-rope-windows-gamerip-2010",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/cut-the-rope-windows-gamerip-2010/banner1_big.png"
+  ],
+  "year": 2010,
+  "date_added": "2023-05-31T00:00:00+00:00",
+  "developers": {
+    "ZeptoLab": "https://downloads.khinsider.com/game-soundtracks/developer/zeptolab"
+  },
+  "publishers": {
+    "ZeptoLab": "https://downloads.khinsider.com/game-soundtracks/publisher/zeptolab"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1027604,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/cut-the-rope-windows-gamerip-2010/nmvpmnrnoj/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cut-the-rope-windows-gamerip-2010/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3019898,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 99,
+      "source_mp3": "https://vgmsite.com/soundtracks/cut-the-rope-windows-gamerip-2010/pnwqtzxdoi/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cut-the-rope-windows-gamerip-2010/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1646264,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 54,
+      "source_mp3": "https://vgmsite.com/soundtracks/cut-the-rope-windows-gamerip-2010/ttfjrgxrcw/03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cut-the-rope-windows-gamerip-2010/03.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 217,
+    "filesize_mp3_bytes": 5693766,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "title": "Cyberblast",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T11:09:38.723131+00:00",
+  "slug": "cyberblast-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/cyberblast-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/cyberblast-amiga/Cyberblast.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2015-10-24T00:00:00+00:00",
+  "developers": {
+    "Innerprise": "https://downloads.khinsider.com/game-soundtracks/developer/innerprise"
+  },
+  "publishers": {
+    "Innerprise": "https://downloads.khinsider.com/game-soundtracks/publisher/innerprise"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1876951,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 65,
+      "source_mp3": "https://vgmsite.com/soundtracks/cyberblast-amiga/jowycnra/01_Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cyberblast-amiga/01_Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6123683,
+      "track_number": 2,
+      "title": "Title Screen",
+      "runtime": 196,
+      "source_mp3": "https://vgmsite.com/soundtracks/cyberblast-amiga/tbjvvgmr/02_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cyberblast-amiga/02_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2055208,
+      "track_number": 3,
+      "title": "High Score",
+      "runtime": 72,
+      "source_mp3": "https://vgmsite.com/soundtracks/cyberblast-amiga/ohuyyomj/03_High%20Score.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cyberblast-amiga/03_High%2520Score.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 333,
+    "filesize_mp3_bytes": 10055842,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

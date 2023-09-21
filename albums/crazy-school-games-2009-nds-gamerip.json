@@ -1,0 +1,42 @@
+{
+  "title": "Crazy School Games",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T10:39:32.869787+00:00",
+  "slug": "crazy-school-games-2009-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/crazy-school-games-2009-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/crazy-school-games-2009-nds-gamerip/C1.jpg"
+  ],
+  "year": 2009,
+  "date_added": "2020-06-03T00:00:00+00:00",
+  "developers": {
+    "Cranberry": "https://downloads.khinsider.com/game-soundtracks/developer/cranberry"
+  },
+  "publishers": {
+    "dtp": "https://downloads.khinsider.com/game-soundtracks/publisher/dtp"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9384755,
+      "filesize_mp3_bytes": 2621440,
+      "title": "Title Track",
+      "runtime": 92,
+      "source_mp3": "https://vgmsite.com/soundtracks/crazy-school-games-2009-nds-gamerip/nsflsejnmu/Title%20Track.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/crazy-school-games-2009-nds-gamerip/nsflsejnmu/Title%20Track.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/crazy-school-games-2009-nds-gamerip/Title%2520Track.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 92,
+    "filesize_mp3_bytes": 2621440,
+    "filesize_flac_bytes": 9384755,
+    "tracks": 1
+  }
+}

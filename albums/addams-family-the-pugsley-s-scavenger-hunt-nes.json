@@ -1,0 +1,66 @@
+{
+  "title": "The Addams Family: Pugsley's Scavenger Hunt",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T10:09:32.519414+00:00",
+  "slug": "addams-family-the-pugsley-s-scavenger-hunt-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/addams-family-the-pugsley-s-scavenger-hunt-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/addams-family-the-pugsley-s-scavenger-hunt-nes/Addams%20Family%2C%20The%20-%20Pugsley%27s%20Scavenger%20Hunt.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2022-03-14T00:00:00+00:00",
+  "developers": {
+    "Enigma Variations": "https://downloads.khinsider.com/game-soundtracks/developer/enigma-variations",
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/developer/ocean"
+  },
+  "publishers": {
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/publisher/ocean"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1321205,
+      "filesize_mp3_bytes": 681574,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 29,
+      "source_mp3": "https://vgmsite.com/soundtracks/addams-family-the-pugsley-s-scavenger-hunt-nes/wxsudofcer/01%20Title.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/addams-family-the-pugsley-s-scavenger-hunt-nes/wxsudofcer/01%20Title.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/addams-family-the-pugsley-s-scavenger-hunt-nes/01%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 220200,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/addams-family-the-pugsley-s-scavenger-hunt-nes/jhmbvyuvmg/02%20Track%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/addams-family-the-pugsley-s-scavenger-hunt-nes/jhmbvyuvmg/02%20Track%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/addams-family-the-pugsley-s-scavenger-hunt-nes/02%2520Track%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1247805,
+      "filesize_mp3_bytes": 513802,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 25,
+      "source_mp3": "https://vgmsite.com/soundtracks/addams-family-the-pugsley-s-scavenger-hunt-nes/uwkuxcloeh/03%20Track%203.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/addams-family-the-pugsley-s-scavenger-hunt-nes/uwkuxcloeh/03%20Track%203.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/addams-family-the-pugsley-s-scavenger-hunt-nes/03%2520Track%25203.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 59,
+    "filesize_mp3_bytes": 1279262,
+    "filesize_flac_bytes": 2789210,
+    "tracks": 3
+  }
+}

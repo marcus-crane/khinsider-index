@@ -1,0 +1,36 @@
+{
+  "title": "Crown Four Kingdoms",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T10:49:54.713211+00:00",
+  "slug": "crown-four-kingdoms-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/crown-four-kingdoms-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/crown-four-kingdoms-android/screen-0.jpg"
+  ],
+  "date_added": "2019-03-02T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2799697,
+      "title": "bgm099",
+      "runtime": 70,
+      "source_mp3": "https://vgmsite.com/soundtracks/crown-four-kingdoms-android/scgkhnlf/bgm099.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/crown-four-kingdoms-android/bgm099.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 70,
+    "filesize_mp3_bytes": 2799697,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

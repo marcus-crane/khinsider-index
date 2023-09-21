@@ -1,0 +1,44 @@
+{
+  "title": "The Amazing Spider-Man",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T10:13:52.027669+00:00",
+  "slug": "amazing-spider-man-the-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/amazing-spider-man-the-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/amazing-spider-man-the-amiga/coverart.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2023-05-23T00:00:00+00:00",
+  "developers": {
+    "Oxford Digital Enterprises Ltd.": "https://downloads.khinsider.com/game-soundtracks/developer/oxford-digital-enterprises"
+  },
+  "publishers": {
+    "Empire": "https://downloads.khinsider.com/game-soundtracks/publisher/empire",
+    "MicroProse": "https://downloads.khinsider.com/game-soundtracks/publisher/microprose",
+    "Paragon Software": "https://downloads.khinsider.com/game-soundtracks/publisher/paragon-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2443182,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 151,
+      "source_mp3": "https://vgmsite.com/soundtracks/amazing-spider-man-the-amiga/wtkngkocwa/01.%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/amazing-spider-man-the-amiga/01.%2520Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 151,
+    "filesize_mp3_bytes": 2443182,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

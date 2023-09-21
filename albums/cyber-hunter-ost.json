@@ -1,0 +1,42 @@
+{
+  "title": "Cyber Hunter OST",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T11:08:08.802514+00:00",
+  "slug": "cyber-hunter-ost",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/cyber-hunter-ost",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/cyber-hunter-ost/coverart.jpg"
+  ],
+  "year": 2019,
+  "date_added": "2020-12-26T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3418357,
+      "title": "Cyber Hunter OST (Driving Theme 8)",
+      "runtime": 102,
+      "source_mp3": "https://vgmsite.com/soundtracks/cyber-hunter-ost/euotrgtecg/Cyber%20Hunter%20OST%20%28Driving%20Theme%208%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cyber-hunter-ost/Cyber%2520Hunter%2520OST%2520%2528Driving%2520Theme%25208%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10171187,
+      "title": "Cyber Hunter OST (Port Theme)",
+      "runtime": 313,
+      "source_mp3": "https://vgmsite.com/soundtracks/cyber-hunter-ost/evfoaiennj/Cyber%20Hunter%20OST%20%28Port%20Theme%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cyber-hunter-ost/Cyber%2520Hunter%2520OST%2520%2528Port%2520Theme%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 415,
+    "filesize_mp3_bytes": 13589544,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

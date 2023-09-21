@@ -1,0 +1,87 @@
+{
+  "title": "Crime Busters",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T10:41:27.894071+00:00",
+  "slug": "crime-busters-1989-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/crime-busters-1989-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/crime-busters-1989-nes/Crime%20Busters.png"
+  ],
+  "year": 1989,
+  "date_added": "2022-04-04T00:00:00+00:00",
+  "developers": {
+    "BIT": "https://downloads.khinsider.com/game-soundtracks/developer/bit"
+  },
+  "publishers": {
+    "BIT": "https://downloads.khinsider.com/game-soundtracks/publisher/bit"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 765460,
+      "filesize_mp3_bytes": 304087,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 14,
+      "source_mp3": "https://vgmsite.com/soundtracks/crime-busters-1989-nes/wlltkljpsj/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/crime-busters-1989-nes/wlltkljpsj/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/crime-busters-1989-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10317987,
+      "filesize_mp3_bytes": 3774873,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/crime-busters-1989-nes/qearhkqecx/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/crime-busters-1989-nes/qearhkqecx/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/crime-busters-1989-nes/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9940500,
+      "filesize_mp3_bytes": 3701473,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/crime-busters-1989-nes/spuicdtegh/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/crime-busters-1989-nes/spuicdtegh/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/crime-busters-1989-nes/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 408944,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/crime-busters-1989-nes/jlbqqtjksr/04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/crime-busters-1989-nes/jlbqqtjksr/04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/crime-busters-1989-nes/04.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10349445,
+      "filesize_mp3_bytes": 3386900,
+      "track_number": 5,
+      "title": "Track 5",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/crime-busters-1989-nes/uaowukodlh/05.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/crime-busters-1989-nes/uaowukodlh/05.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/crime-busters-1989-nes/05.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 561,
+    "filesize_mp3_bytes": 11303647,
+    "filesize_flac_bytes": 31782336,
+    "tracks": 5
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "title": "The 7th Guest - The Music",
+  "titles_alternative": [
+    "The 7th Guest - CD-i Sampler Disc",
+    "The 7th Guest - La Musique"
+  ],
+  "crawled_at": "2023-09-21T10:08:39.464927+00:00",
+  "slug": "7th-guest-cdi-sampler",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/7th-guest-cdi-sampler",
+  "platforms": {
+    "CD-i": "https://downloads.khinsider.com/game-soundtracks/cd-i",
+    "MS-DOS": "https://downloads.khinsider.com/game-soundtracks/ms-dos",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/7th-guest-cdi-sampler/7626-1206495290.jpg"
+  ],
+  "year": 1993,
+  "catalog_number": "812-0125",
+  "date_added": "2006-11-10T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Philips Interactive Media": "https://downloads.khinsider.com/game-soundtracks/publisher/philips-interactive-media"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10821304,
+      "track_number": 1,
+      "title": "chapel pain-the game-dolls of doom",
+      "runtime": 451,
+      "source_mp3": "https://vgmsite.com/soundtracks/7th-guest-cdi-sampler/kpxeatvy/01-chapel%20pain-the%20game-dolls%20of%20doom.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/7th-guest-cdi-sampler/01-chapel%2520pain-the%2520game-dolls%2520of%2520doom.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8545894,
+      "track_number": 2,
+      "title": "coffin game-ghost of didley-miscellaneous scary",
+      "runtime": 356,
+      "source_mp3": "https://vgmsite.com/soundtracks/7th-guest-cdi-sampler/vlwnqbng/02-coffin%20game-ghost%20of%20didley-miscellaneous%20scary.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/7th-guest-cdi-sampler/02-coffin%2520game-ghost%2520of%2520didley-miscellaneous%2520scary.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3628072,
+      "track_number": 3,
+      "title": "bedspread-all the guests",
+      "runtime": 151,
+      "source_mp3": "https://vgmsite.com/soundtracks/7th-guest-cdi-sampler/vvmqlezs/03-bedspread-all%20the%20guests.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/7th-guest-cdi-sampler/03-bedspread-all%2520the%2520guests.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4655677,
+      "track_number": 4,
+      "title": "downstairs puzzles-doorbell",
+      "runtime": 194,
+      "source_mp3": "https://vgmsite.com/soundtracks/7th-guest-cdi-sampler/ejmjvesm/04-downstairs%20puzzles-doorbell.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/7th-guest-cdi-sampler/04-downstairs%2520puzzles-doorbell.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2139095,
+      "track_number": 5,
+      "title": "piano fight-we're the ghosts",
+      "runtime": 89,
+      "source_mp3": "https://vgmsite.com/soundtracks/7th-guest-cdi-sampler/hzkerhsc/05-piano%20fight-we%27re%20the%20ghosts.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/7th-guest-cdi-sampler/05-piano%2520fight-we%2527re%2520the%2520ghosts.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3911188,
+      "track_number": 6,
+      "title": "short intro-foyer entrances",
+      "runtime": 163,
+      "source_mp3": "https://vgmsite.com/soundtracks/7th-guest-cdi-sampler/yynmpxbi/06-short%20intro-foyer%20entrances.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/7th-guest-cdi-sampler/06-short%2520intro-foyer%2520entrances.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5882511,
+      "track_number": 7,
+      "title": "skeletons in my closet",
+      "runtime": 245,
+      "source_mp3": "https://vgmsite.com/soundtracks/7th-guest-cdi-sampler/zdnkjkab/07-skeletons%20in%20my%20closet.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/7th-guest-cdi-sampler/07-skeletons%2520in%2520my%2520closet.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1649,
+    "filesize_mp3_bytes": 39583741,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

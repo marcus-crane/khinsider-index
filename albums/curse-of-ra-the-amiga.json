@@ -1,0 +1,82 @@
+{
+  "title": "The Curse of Ra",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T11:03:28.950122+00:00",
+  "slug": "curse-of-ra-the-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/curse-of-ra-the-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/curse-of-ra-the-amiga/Curse%20of%20Ra%2C%20The%20%28Amiga%29.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2019-05-13T00:00:00+00:00",
+  "developers": {
+    "Cybestyle": "https://downloads.khinsider.com/game-soundtracks/developer/cybestyle"
+  },
+  "publishers": {
+    "Rainbow Arts": "https://downloads.khinsider.com/game-soundtracks/publisher/rainbow-arts"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6018826,
+      "track_number": 1,
+      "title": "Cyberstyle Logo",
+      "runtime": 164,
+      "source_mp3": "https://vgmsite.com/soundtracks/curse-of-ra-the-amiga/tfkmiwiw/01_Cyberstyle%20Logo.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/curse-of-ra-the-amiga/01_Cyberstyle%2520Logo.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5505024,
+      "track_number": 2,
+      "title": "Title Screen",
+      "runtime": 197,
+      "source_mp3": "https://vgmsite.com/soundtracks/curse-of-ra-the-amiga/nnhixmxm/02_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/curse-of-ra-the-amiga/02_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7266631,
+      "track_number": 3,
+      "title": "In-Game BGM",
+      "runtime": 255,
+      "source_mp3": "https://vgmsite.com/soundtracks/curse-of-ra-the-amiga/bqiwguhs/03_In-Game%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/curse-of-ra-the-amiga/03_In-Game%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2589982,
+      "track_number": 4,
+      "title": "Shop",
+      "runtime": 95,
+      "source_mp3": "https://vgmsite.com/soundtracks/curse-of-ra-the-amiga/lvkuklhi/04_Shop.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/curse-of-ra-the-amiga/04_Shop.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 5,
+      "title": "Name Entry",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/curse-of-ra-the-amiga/jwsgmeeh/05_Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/curse-of-ra-the-amiga/05_Name%2520Entry.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 717,
+    "filesize_mp3_bytes": 21527263,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

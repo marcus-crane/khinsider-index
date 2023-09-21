@@ -1,0 +1,54 @@
+{
+  "title": "ADT Pilot 01",
+  "titles_alternative": [
+    "\u5f02\u7ef4\u72af\u9a7e\u9a76\u545801\u53f7"
+  ],
+  "crawled_at": "2023-09-21T10:09:39.202969+00:00",
+  "slug": "adt-pilot-01-windows-gamerip-2023",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/adt-pilot-01-windows-gamerip-2023",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/adt-pilot-01-windows-gamerip-2023/ADT%20Pilot%2001%20Cover.png"
+  ],
+  "year": 2023,
+  "date_added": "2023-09-21T00:00:00+00:00",
+  "developers": {
+    "Renis": "https://downloads.khinsider.com/game-soundtracks/developer/renis"
+  },
+  "publishers": {
+    "Renis": "https://downloads.khinsider.com/game-soundtracks/publisher/renis"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1447034,
+      "track_number": 1,
+      "title": "God",
+      "runtime": 77,
+      "source_mp3": "https://vgmsite.com/soundtracks/adt-pilot-01-windows-gamerip-2023/inwokoxiir/01.%20God.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/adt-pilot-01-windows-gamerip-2023/01.%2520God.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1101004,
+      "track_number": 2,
+      "title": "Submarine",
+      "runtime": 45,
+      "source_mp3": "https://vgmsite.com/soundtracks/adt-pilot-01-windows-gamerip-2023/agterdfsyi/02.%20Submarine.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/adt-pilot-01-windows-gamerip-2023/02.%2520Submarine.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 122,
+    "filesize_mp3_bytes": 2548038,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "The Bigs 2",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T10:19:21.154460+00:00",
+  "slug": "bigs-2-the-2009-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/bigs-2-the-2009-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/bigs-2-the-2009-nds-gamerip/Bigs%202%2C%20The%20%28DS%29%20%28gamerip%29%20%282009%29.jpg"
+  ],
+  "year": 2009,
+  "date_added": "2020-06-02T00:00:00+00:00",
+  "developers": {
+    "Blue Castle": "https://downloads.khinsider.com/game-soundtracks/developer/blue-castle"
+  },
+  "publishers": {
+    "2K Sports": "https://downloads.khinsider.com/game-soundtracks/publisher/2k-sports"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11041505,
+      "filesize_mp3_bytes": 3649044,
+      "title": "Batting Mini Game June 2006",
+      "runtime": 95,
+      "source_mp3": "https://vgmsite.com/soundtracks/bigs-2-the-2009-nds-gamerip/rrpseffmhf/Batting%20Mini%20Game%20June%202006.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bigs-2-the-2009-nds-gamerip/rrpseffmhf/Batting%20Mini%20Game%20June%202006.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bigs-2-the-2009-nds-gamerip/Batting%2520Mini%2520Game%2520June%25202006.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2275409,
+      "filesize_mp3_bytes": 681574,
+      "title": "Sonic Trip Final 31lp",
+      "runtime": 19,
+      "source_mp3": "https://vgmsite.com/soundtracks/bigs-2-the-2009-nds-gamerip/tvyrvgyqpe/Sonic%20Trip%20Final%2031lp.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bigs-2-the-2009-nds-gamerip/tvyrvgyqpe/Sonic%20Trip%20Final%2031lp.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bigs-2-the-2009-nds-gamerip/Sonic%2520Trip%2520Final%252031lp.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 114,
+    "filesize_mp3_bytes": 4330618,
+    "filesize_flac_bytes": 13316914,
+    "tracks": 2
+  }
+}

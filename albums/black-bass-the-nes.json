@@ -1,0 +1,95 @@
+{
+  "title": "The Black Bass",
+  "titles_alternative": [
+    "\u30b6\u30fb\u30d6\u30e9\u30c3\u30af\u30d0\u30b9"
+  ],
+  "crawled_at": "2023-09-21T10:19:39.478791+00:00",
+  "slug": "black-bass-the-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/black-bass-the-nes",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/black-bass-the-nes/Black%20Bass%2C%20The%20%28NES%29.jpg"
+  ],
+  "year": 1987,
+  "date_added": "2019-09-02T00:00:00+00:00",
+  "developers": {
+    "Another": "https://downloads.khinsider.com/game-soundtracks/developer/another"
+  },
+  "publishers": {
+    "Hot-B": "https://downloads.khinsider.com/game-soundtracks/publisher/hot-b"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 293601,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 15,
+      "source_mp3": "https://vgmsite.com/soundtracks/black-bass-the-nes/czzvceyive/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/black-bass-the-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2380267,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/black-bass-the-nes/mxyvyvrzgj/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/black-bass-the-nes/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2569011,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/black-bass-the-nes/ikvofzsykz/03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/black-bass-the-nes/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/black-bass-the-nes/gzhkbflrlk/04.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/black-bass-the-nes/04.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 5,
+      "title": "Track 5",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/black-bass-the-nes/rhiymchquv/05.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/black-bass-the-nes/05.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 6,
+      "title": "Track 6",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/black-bass-the-nes/tcsmayyoyu/06.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/black-bass-the-nes/06.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 387,
+    "filesize_mp3_bytes": 5442107,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

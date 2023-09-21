@@ -1,0 +1,68 @@
+{
+  "title": "Te wo Tsunaide/Yuuiro",
+  "titles_alternative": [
+    "\u624b\u3092\u3064\u306a\u3044\u3067/\u3086\u3046\u3044\u308d",
+    "Akatoki! Theme Song & Ending Song",
+    "PC\u300e\u3042\u304b\u3068\u304d\u3063\uff01\uff5e\u5922\u3053\u305d\u307e\u3055\u308c\u604b\u306e\u9b54\u7832\uff5e\u300f\u4e3b\u984c\u6b4c\u30fbED\u66f2"
+  ],
+  "crawled_at": "2023-09-21T10:11:51.871125+00:00",
+  "slug": "akatoki-theme-song-ending-song",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/akatoki-theme-song-ending-song",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/akatoki-theme-song-ending-song/DLRD-2014_01.jpg"
+  ],
+  "year": 2011,
+  "catalog_number": "DLRD-2014",
+  "date_added": "2020-04-01T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Rock'n'Banana": "https://downloads.khinsider.com/game-soundtracks/publisher/rock-n-banana"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 33376174,
+      "filesize_mp3_bytes": 7665090,
+      "track_number": 1,
+      "title": "Te O Tsunaide",
+      "runtime": 234,
+      "source_mp3": "https://vgmsite.com/soundtracks/akatoki-theme-song-ending-song/tylrntkvzr/01%20-%20Te%20O%20Tsunaide.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/akatoki-theme-song-ending-song/tylrntkvzr/01%20-%20Te%20O%20Tsunaide.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/akatoki-theme-song-ending-song/01%2520-%2520Te%2520O%2520Tsunaide.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 33135001,
+      "filesize_mp3_bytes": 8734638,
+      "track_number": 2,
+      "title": "Yuuiro",
+      "runtime": 253,
+      "source_mp3": "https://vgmsite.com/soundtracks/akatoki-theme-song-ending-song/wqppifjuiw/02%20-%20Yuuiro.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/akatoki-theme-song-ending-song/wqppifjuiw/02%20-%20Yuuiro.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/akatoki-theme-song-ending-song/02%2520-%2520Yuuiro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 29569843,
+      "filesize_mp3_bytes": 7612661,
+      "track_number": 3,
+      "title": "Fly Away,so Blue -Akatoki Remix-",
+      "runtime": 226,
+      "source_mp3": "https://vgmsite.com/soundtracks/akatoki-theme-song-ending-song/wlisjgcgio/03%20-%20Fly%20Away%2Cso%20Blue%20-Akatoki%20Remix-.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/akatoki-theme-song-ending-song/wlisjgcgio/03%20-%20Fly%20Away%2Cso%20Blue%20-Akatoki%20Remix-.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/akatoki-theme-song-ending-song/03%2520-%2520Fly%2520Away%252Cso%2520Blue%2520-Akatoki%2520Remix-.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 713,
+    "filesize_mp3_bytes": 24012389,
+    "filesize_flac_bytes": 96081018,
+    "tracks": 3
+  }
+}

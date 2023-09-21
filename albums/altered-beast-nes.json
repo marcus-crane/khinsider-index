@@ -1,0 +1,107 @@
+{
+  "title": "Juuouki",
+  "titles_alternative": [
+    "Altered Beast (Japan-Only)",
+    "\u7363\u738b\u8a18"
+  ],
+  "crawled_at": "2023-09-21T10:12:18.737330+00:00",
+  "slug": "altered-beast-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/altered-beast-nes",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/altered-beast-nes/J1.png"
+  ],
+  "year": 1990,
+  "date_added": "2021-10-25T00:00:00+00:00",
+  "developers": {
+    "EIM": "https://downloads.khinsider.com/game-soundtracks/developer/eim",
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Asmik": "https://downloads.khinsider.com/game-soundtracks/publisher/asmik"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3900702,
+      "track_number": 1,
+      "title": "Stage 1 & 5",
+      "runtime": 244,
+      "source_mp3": "https://vgmsite.com/soundtracks/altered-beast-nes/qjdlfsacbx/01%20Stage%201%20%26%205.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/altered-beast-nes/01%2520Stage%25201%2520%2526%25205.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2191523,
+      "track_number": 2,
+      "title": "Stage 2 & 7",
+      "runtime": 137,
+      "source_mp3": "https://vgmsite.com/soundtracks/altered-beast-nes/bzexzvujys/02%20Stage%202%20%26%207.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/altered-beast-nes/02%2520Stage%25202%2520%2526%25207.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3313500,
+      "track_number": 3,
+      "title": "Stage 3 & 6",
+      "runtime": 207,
+      "source_mp3": "https://vgmsite.com/soundtracks/altered-beast-nes/jlducqzuaj/03%20Stage%203%20%26%206.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/altered-beast-nes/03%2520Stage%25203%2520%2526%25206.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2537553,
+      "track_number": 4,
+      "title": "Stage 4 & 8",
+      "runtime": 158,
+      "source_mp3": "https://vgmsite.com/soundtracks/altered-beast-nes/acubepkbyp/04%20Stage%204%20%26%208.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/altered-beast-nes/04%2520Stage%25204%2520%2526%25208.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3470786,
+      "track_number": 5,
+      "title": "Beast Power",
+      "runtime": 217,
+      "source_mp3": "https://vgmsite.com/soundtracks/altered-beast-nes/fctnhykaft/05%20Beast%20Power.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/altered-beast-nes/05%2520Beast%2520Power.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1709178,
+      "track_number": 6,
+      "title": "Boss",
+      "runtime": 107,
+      "source_mp3": "https://vgmsite.com/soundtracks/altered-beast-nes/nxevwoseco/06%20Boss.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/altered-beast-nes/06%2520Boss.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2516582,
+      "track_number": 7,
+      "title": "Ending - Staff",
+      "runtime": 157,
+      "source_mp3": "https://vgmsite.com/soundtracks/altered-beast-nes/bjaprfdkbv/07%20Ending%20-%20Staff.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/altered-beast-nes/07%2520Ending%2520-%2520Staff.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1227,
+    "filesize_mp3_bytes": 19639824,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

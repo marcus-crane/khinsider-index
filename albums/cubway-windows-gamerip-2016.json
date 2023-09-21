@@ -1,0 +1,82 @@
+{
+  "title": "Cubway",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T11:00:32.760988+00:00",
+  "slug": "cubway-windows-gamerip-2016",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/cubway-windows-gamerip-2016",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/cubway-windows-gamerip-2016/Cubway.jpg"
+  ],
+  "year": 2016,
+  "date_added": "2023-03-13T00:00:00+00:00",
+  "developers": {
+    "Armnomads LLC": "https://downloads.khinsider.com/game-soundtracks/developer/armnomads-llc"
+  },
+  "publishers": {
+    "Armnomads LLC": "https://downloads.khinsider.com/game-soundtracks/publisher/armnomads-llc"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7560232,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 189,
+      "source_mp3": "https://vgmsite.com/soundtracks/cubway-windows-gamerip-2016/ktsaskitwx/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cubway-windows-gamerip-2016/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10171187,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 254,
+      "source_mp3": "https://vgmsite.com/soundtracks/cubway-windows-gamerip-2016/wxhacmdufb/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cubway-windows-gamerip-2016/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11146362,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 279,
+      "source_mp3": "https://vgmsite.com/soundtracks/cubway-windows-gamerip-2016/zvtwbzxhsq/03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cubway-windows-gamerip-2016/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 18842910,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 471,
+      "source_mp3": "https://vgmsite.com/soundtracks/cubway-windows-gamerip-2016/suqhivlncw/04.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cubway-windows-gamerip-2016/04.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 943718,
+      "track_number": 5,
+      "title": "AmbientLoop",
+      "runtime": 24,
+      "source_mp3": "https://vgmsite.com/soundtracks/cubway-windows-gamerip-2016/zevpexxple/05.%20AmbientLoop.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cubway-windows-gamerip-2016/05.%2520AmbientLoop.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1217,
+    "filesize_mp3_bytes": 48664409,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

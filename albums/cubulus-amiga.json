@@ -1,0 +1,102 @@
+{
+  "title": "Cubulus",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T11:00:30.802624+00:00",
+  "slug": "cubulus-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/cubulus-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/cubulus-amiga/Cubulus.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2017-10-31T00:00:00+00:00",
+  "developers": {
+    "Software 2000": "https://downloads.khinsider.com/game-soundtracks/developer/software-2000"
+  },
+  "publishers": {
+    "Software 2000": "https://downloads.khinsider.com/game-soundtracks/publisher/software-2000"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9059696,
+      "track_number": 1,
+      "title": "Moongazer",
+      "runtime": 328,
+      "source_mp3": "https://vgmsite.com/soundtracks/cubulus-amiga/nfxfcwjy/01_Moongazer.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cubulus-amiga/01_Moongazer.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4571791,
+      "track_number": 2,
+      "title": "Laidback 1",
+      "runtime": 160,
+      "source_mp3": "https://vgmsite.com/soundtracks/cubulus-amiga/wibyugny/02_Laidback%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cubulus-amiga/02_Laidback%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4896849,
+      "track_number": 3,
+      "title": "Laidback 2",
+      "runtime": 179,
+      "source_mp3": "https://vgmsite.com/soundtracks/cubulus-amiga/zztjqgzn/03_Laidback%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cubulus-amiga/03_Laidback%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5001707,
+      "track_number": 4,
+      "title": "Laidback 3",
+      "runtime": 182,
+      "source_mp3": "https://vgmsite.com/soundtracks/cubulus-amiga/aszfuokm/04_Laidback%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cubulus-amiga/04_Laidback%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7319060,
+      "track_number": 5,
+      "title": "Laidback 4",
+      "runtime": 256,
+      "source_mp3": "https://vgmsite.com/soundtracks/cubulus-amiga/vmlbjkcq/05_Laidback%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cubulus-amiga/05_Laidback%25204.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6144655,
+      "track_number": 6,
+      "title": "Laidback 5",
+      "runtime": 206,
+      "source_mp3": "https://vgmsite.com/soundtracks/cubulus-amiga/zmnmzfrc/06_Laidback%205.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cubulus-amiga/06_Laidback%25205.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4204789,
+      "track_number": 7,
+      "title": "Software 2000",
+      "runtime": 139,
+      "source_mp3": "https://vgmsite.com/soundtracks/cubulus-amiga/gshpieiw/07_Software%202000.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cubulus-amiga/07_Software%25202000.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1450,
+    "filesize_mp3_bytes": 41198547,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

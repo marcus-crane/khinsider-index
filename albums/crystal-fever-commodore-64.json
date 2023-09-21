@@ -1,0 +1,112 @@
+{
+  "title": "Crystal Fever",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T10:58:10.536976+00:00",
+  "slug": "crystal-fever-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/crystal-fever-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/crystal-fever-commodore-64/Crystal%20Fever.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2019-05-13T00:00:00+00:00",
+  "developers": {
+    "CP Verlag": "https://downloads.khinsider.com/game-soundtracks/developer/cp-verlag"
+  },
+  "publishers": {
+    "CP Verlag": "https://downloads.khinsider.com/game-soundtracks/publisher/cp-verlag"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4896849,
+      "track_number": 1,
+      "title": "Main Menu",
+      "runtime": 239,
+      "source_mp3": "https://vgmsite.com/soundtracks/crystal-fever-commodore-64/kidlglhs/01_Main%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/crystal-fever-commodore-64/01_Main%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1048576,
+      "track_number": 2,
+      "title": "Loading Theme",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/crystal-fever-commodore-64/dpdkhuoz/02_Loading%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/crystal-fever-commodore-64/02_Loading%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2002780,
+      "track_number": 3,
+      "title": "High Score",
+      "runtime": 99,
+      "source_mp3": "https://vgmsite.com/soundtracks/crystal-fever-commodore-64/dqwvtylp/03_High%20Score.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/crystal-fever-commodore-64/03_High%2520Score.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4823449,
+      "track_number": 4,
+      "title": "Unknown",
+      "runtime": 252,
+      "source_mp3": "https://vgmsite.com/soundtracks/crystal-fever-commodore-64/wpsnbrfu/04_Unknown.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/crystal-fever-commodore-64/04_Unknown.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8482979,
+      "track_number": 5,
+      "title": "Main Menu (SID Stereo)",
+      "runtime": 239,
+      "source_mp3": "https://vgmsite.com/soundtracks/crystal-fever-commodore-64/tdtqvudc/05_Main%20Menu%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/crystal-fever-commodore-64/05_Main%2520Menu%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1751121,
+      "track_number": 6,
+      "title": "Loading Theme (SID Stereo)",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/crystal-fever-commodore-64/dwedteyx/06_Loading%20Theme%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/crystal-fever-commodore-64/06_Loading%2520Theme%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3250585,
+      "track_number": 7,
+      "title": "High Score (SID Stereo)",
+      "runtime": 99,
+      "source_mp3": "https://vgmsite.com/soundtracks/crystal-fever-commodore-64/pkwqmubb/07_High%20Score%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/crystal-fever-commodore-64/07_High%2520Score%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8787066,
+      "track_number": 8,
+      "title": "Unknown (SID Stereo)",
+      "runtime": 251,
+      "source_mp3": "https://vgmsite.com/soundtracks/crystal-fever-commodore-64/qypncjvi/08_Unknown%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/crystal-fever-commodore-64/08_Unknown%2520%2528SID%2520Stereo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1275,
+    "filesize_mp3_bytes": 35043405,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

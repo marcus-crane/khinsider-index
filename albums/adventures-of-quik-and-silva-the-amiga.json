@@ -1,0 +1,92 @@
+{
+  "title": "The Adventures of Quik and Silva",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T10:10:49.959478+00:00",
+  "slug": "adventures-of-quik-and-silva-the-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/adventures-of-quik-and-silva-the-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/adventures-of-quik-and-silva-the-amiga/Adventures%20of%20Quik%20and%20Silva%2C%20The%20%28Amiga%29.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2016-03-04T00:00:00+00:00",
+  "developers": {
+    "New Bits on the RAM": "https://downloads.khinsider.com/game-soundtracks/developer/new-bits-on-the-ram"
+  },
+  "publishers": {
+    "New Bits on the RAM": "https://downloads.khinsider.com/game-soundtracks/publisher/new-bits-on-the-ram"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10475274,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 351,
+      "source_mp3": "https://vgmsite.com/soundtracks/adventures-of-quik-and-silva-the-amiga/hypbydzj/01_Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/adventures-of-quik-and-silva-the-amiga/01_Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4666163,
+      "track_number": 2,
+      "title": "BGM #1",
+      "runtime": 163,
+      "source_mp3": "https://vgmsite.com/soundtracks/adventures-of-quik-and-silva-the-amiga/uomzkbtc/02_BGM%20%231.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/adventures-of-quik-and-silva-the-amiga/02_BGM%2520%25231.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5200936,
+      "track_number": 3,
+      "title": "BGM #2",
+      "runtime": 185,
+      "source_mp3": "https://vgmsite.com/soundtracks/adventures-of-quik-and-silva-the-amiga/egspmliz/03_BGM%20%232.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/adventures-of-quik-and-silva-the-amiga/03_BGM%2520%25232.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3837788,
+      "track_number": 4,
+      "title": "BGM #3",
+      "runtime": 123,
+      "source_mp3": "https://vgmsite.com/soundtracks/adventures-of-quik-and-silva-the-amiga/wstuygid/04_BGM%20%233.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/adventures-of-quik-and-silva-the-amiga/04_BGM%2520%25233.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9007267,
+      "track_number": 5,
+      "title": "Ending",
+      "runtime": 300,
+      "source_mp3": "https://vgmsite.com/soundtracks/adventures-of-quik-and-silva-the-amiga/swjknxbg/05_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/adventures-of-quik-and-silva-the-amiga/05_Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 513802,
+      "track_number": 6,
+      "title": "Unknown",
+      "runtime": 19,
+      "source_mp3": "https://vgmsite.com/soundtracks/adventures-of-quik-and-silva-the-amiga/dyhydngj/06_Unknown.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/adventures-of-quik-and-silva-the-amiga/06_Unknown.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1141,
+    "filesize_mp3_bytes": 33701230,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

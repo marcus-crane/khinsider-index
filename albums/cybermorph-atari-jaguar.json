@@ -1,0 +1,50 @@
+{
+  "title": "Cybermorph",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T11:10:18.761632+00:00",
+  "slug": "cybermorph-atari-jaguar",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/cybermorph-atari-jaguar",
+  "platforms": {
+    "Atari Jaguar": "https://downloads.khinsider.com/game-soundtracks/atari-jaguar"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/cybermorph-atari-jaguar/Cybermorph%20Atari%20Jaguar%20full%20cover.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2020-09-27T00:00:00+00:00",
+  "developers": {
+    "Attention to Detail": "https://downloads.khinsider.com/game-soundtracks/developer/attention-to-detail"
+  },
+  "publishers": {
+    "Atari": "https://downloads.khinsider.com/game-soundtracks/publisher/atari"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3953131,
+      "title": "Intro Theme",
+      "runtime": 87,
+      "source_mp3": "https://vgmsite.com/soundtracks/cybermorph-atari-jaguar/dsnntlsxsr/Intro%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cybermorph-atari-jaguar/Intro%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 262144,
+      "title": "Victory",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/cybermorph-atari-jaguar/dbofmyedua/Victory.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cybermorph-atari-jaguar/Victory.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 98,
+    "filesize_mp3_bytes": 4215275,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

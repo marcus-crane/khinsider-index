@@ -1,0 +1,70 @@
+{
+  "title": "Custer's Revenge",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T11:03:50.648325+00:00",
+  "slug": "custers-revenge-gamerip-1982",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/custers-revenge-gamerip-1982",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/custers-revenge-gamerip-1982/CR.png"
+  ],
+  "year": 1982,
+  "date_added": "2023-06-28T00:00:00+00:00",
+  "developers": {
+    "JHM": "https://downloads.khinsider.com/game-soundtracks/developer/jhm"
+  },
+  "publishers": {
+    "American Multiple Industries": "https://downloads.khinsider.com/game-soundtracks/publisher/american-multiple-industries"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 272629,
+      "track_number": 1,
+      "title": "Game Over",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/custers-revenge-gamerip-1982/pbxfspever/01.%20Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/custers-revenge-gamerip-1982/01.%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 471859,
+      "track_number": 2,
+      "title": "Game Start",
+      "runtime": 12,
+      "source_mp3": "https://vgmsite.com/soundtracks/custers-revenge-gamerip-1982/nzpdnygbyq/02.%20Game%20Start.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/custers-revenge-gamerip-1982/02.%2520Game%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 723517,
+      "track_number": 3,
+      "title": "Gameplay Loop",
+      "runtime": 18,
+      "source_mp3": "https://vgmsite.com/soundtracks/custers-revenge-gamerip-1982/shqnauvoxa/03.%20Gameplay%20Loop.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/custers-revenge-gamerip-1982/03.%2520Gameplay%2520Loop.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 4,
+      "title": "Score",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/custers-revenge-gamerip-1982/blcsfvetbf/04.%20Score.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/custers-revenge-gamerip-1982/04.%2520Score.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 39,
+    "filesize_mp3_bytes": 1541405,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "title": "Crazy Bus",
+  "titles_alternative": [
+    "Crazy Bus"
+  ],
+  "crawled_at": "2023-09-21T10:39:53.882428+00:00",
+  "slug": "crazybus-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/crazybus-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/crazybus-genesis/crazybus.jpg"
+  ],
+  "year": 2004,
+  "date_added": "2018-07-11T00:00:00+00:00",
+  "developers": {
+    "Tom Scripts": "https://downloads.khinsider.com/game-soundtracks/developer/tom-scripts"
+  },
+  "publishers": {
+    "Devster Specialties": "https://downloads.khinsider.com/game-soundtracks/publisher/devster-specialties"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4592762,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 154,
+      "source_mp3": "https://vgmsite.com/soundtracks/crazybus-genesis/nzvfcrgw/01%20-%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/crazybus-genesis/01%2520-%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1216348,
+      "track_number": 2,
+      "title": "Bus Selection Screen",
+      "runtime": 43,
+      "source_mp3": "https://vgmsite.com/soundtracks/crazybus-genesis/cskknqvx/02%20-%20Bus%20Selection%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/crazybus-genesis/02%2520-%2520Bus%2520Selection%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 3,
+      "title": "Get Ready",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/crazybus-genesis/kurwilhv/03%20-%20Get%20Ready.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/crazybus-genesis/03%2520-%2520Get%2520Ready.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 272629,
+      "track_number": 4,
+      "title": "Engine Off",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/crazybus-genesis/tsqbvcrl/04%20-%20Engine%20Off.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/crazybus-genesis/04%2520-%2520Engine%2520Off.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 419430,
+      "track_number": 5,
+      "title": "Engine On",
+      "runtime": 13,
+      "source_mp3": "https://vgmsite.com/soundtracks/crazybus-genesis/zifidkpj/05%20-%20Engine%20On.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/crazybus-genesis/05%2520-%2520Engine%2520On.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 230686,
+      "track_number": 6,
+      "title": "Horn With Engine Off",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/crazybus-genesis/qbmpriyu/06%20-%20Horn%20With%20Engine%20Off.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/crazybus-genesis/06%2520-%2520Horn%2520With%2520Engine%2520Off.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 304087,
+      "track_number": 7,
+      "title": "Horn With Engine On",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/crazybus-genesis/dprembox/07%20-%20Horn%20With%20Engine%20On.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/crazybus-genesis/07%2520-%2520Horn%2520With%2520Engine%2520On.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 408944,
+      "track_number": 8,
+      "title": "Fan Made Tune (In-Game)",
+      "runtime": 13,
+      "source_mp3": "https://vgmsite.com/soundtracks/crazybus-genesis/zjneikim/08%20-%20Fan%20Made%20Tune%20%28In-Game%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/crazybus-genesis/08%2520-%2520Fan%2520Made%2520Tune%2520%2528In-Game%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 255,
+    "filesize_mp3_bytes": 7497314,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

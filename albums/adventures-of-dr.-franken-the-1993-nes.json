@@ -1,0 +1,54 @@
+{
+  "title": "The Adventures of Dr. Franken (Prototype)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T10:10:29.834182+00:00",
+  "slug": "adventures-of-dr.-franken-the-1993-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/adventures-of-dr.-franken-the-1993-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/adventures-of-dr.-franken-the-1993-nes/The%20Adventures%20of%20Dr.%20Franken%20%28NES%29%20%28gamerip%29%20%281993%29.png"
+  ],
+  "year": 1993,
+  "date_added": "2022-03-14T00:00:00+00:00",
+  "developers": {
+    "Motivetime": "https://downloads.khinsider.com/game-soundtracks/developer/motivetime"
+  },
+  "publishers": {
+    "Motivetime": "https://downloads.khinsider.com/game-soundtracks/publisher/motivetime"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9877585,
+      "filesize_mp3_bytes": 3187671,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/adventures-of-dr.-franken-the-1993-nes/vhmymdwhgk/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/adventures-of-dr.-franken-the-1993-nes/vhmymdwhgk/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/adventures-of-dr.-franken-the-1993-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9552527,
+      "filesize_mp3_bytes": 3365928,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/adventures-of-dr.-franken-the-1993-nes/eponghzfyn/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/adventures-of-dr.-franken-the-1993-nes/eponghzfyn/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/adventures-of-dr.-franken-the-1993-nes/02.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 360,
+    "filesize_mp3_bytes": 6553599,
+    "filesize_flac_bytes": 19430112,
+    "tracks": 2
+  }
+}

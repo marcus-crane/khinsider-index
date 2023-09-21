@@ -1,0 +1,54 @@
+{
+  "title": "Curious Buddies - Peek-a-Boo",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T11:02:58.752633+00:00",
+  "slug": "curious-buddies-peek-a-boo-flash",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/curious-buddies-peek-a-boo-flash",
+  "platforms": {
+    "Online": "https://downloads.khinsider.com/game-soundtracks/online"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/curious-buddies-peek-a-boo-flash/Art.png"
+  ],
+  "date_added": "2022-01-27T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 325058,
+      "title": "Game 1",
+      "runtime": 34,
+      "source_mp3": "https://vgmsite.com/soundtracks/curious-buddies-peek-a-boo-flash/tppfdwfgpe/Game%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/curious-buddies-peek-a-boo-flash/Game%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 335544,
+      "title": "Game 2",
+      "runtime": 37,
+      "source_mp3": "https://vgmsite.com/soundtracks/curious-buddies-peek-a-boo-flash/hulflbvqnk/Game%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/curious-buddies-peek-a-boo-flash/Game%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 272629,
+      "title": "Title",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/curious-buddies-peek-a-boo-flash/jltynelwbk/Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/curious-buddies-peek-a-boo-flash/Title.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 75,
+    "filesize_mp3_bytes": 933231,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

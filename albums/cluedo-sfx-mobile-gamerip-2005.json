@@ -1,0 +1,45 @@
+{
+  "title": "Cluedo SFX",
+  "titles_alternative": [
+    "Clue FX"
+  ],
+  "crawled_at": "2023-09-21T10:23:22.871024+00:00",
+  "slug": "cluedo-sfx-mobile-gamerip-2005",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/cluedo-sfx-mobile-gamerip-2005",
+  "platforms": {
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/cluedo-sfx-mobile-gamerip-2005/title.png"
+  ],
+  "year": 2005,
+  "date_added": "2023-09-20T00:00:00+00:00",
+  "developers": {
+    "8Bit Games": "https://downloads.khinsider.com/game-soundtracks/developer/8bit-games"
+  },
+  "publishers": {
+    "iFone": "https://downloads.khinsider.com/game-soundtracks/publisher/ifone"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1509949,
+      "filesize_mp3_bytes": 524288,
+      "track_number": 1,
+      "title": "Tune",
+      "runtime": 18,
+      "source_mp3": "https://vgmsite.com/soundtracks/cluedo-sfx-mobile-gamerip-2005/dvfrjvfdok/01.%20Tune.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/cluedo-sfx-mobile-gamerip-2005/dvfrjvfdok/01.%20Tune.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cluedo-sfx-mobile-gamerip-2005/01.%2520Tune.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 18,
+    "filesize_mp3_bytes": 524288,
+    "filesize_flac_bytes": 1509949,
+    "tracks": 1
+  }
+}

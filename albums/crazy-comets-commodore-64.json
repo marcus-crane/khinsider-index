@@ -1,0 +1,52 @@
+{
+  "title": "Crazy Comets",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T10:39:05.033574+00:00",
+  "slug": "crazy-comets-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/crazy-comets-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/crazy-comets-commodore-64/C1.jpg"
+  ],
+  "year": 1985,
+  "date_added": "2015-10-30T00:00:00+00:00",
+  "developers": {
+    "Martech": "https://downloads.khinsider.com/game-soundtracks/developer/martech"
+  },
+  "publishers": {
+    "Martech": "https://downloads.khinsider.com/game-soundtracks/publisher/martech"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5662310,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 278,
+      "source_mp3": "https://vgmsite.com/soundtracks/crazy-comets-commodore-64/wparshqm/01_Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/crazy-comets-commodore-64/01_Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1300234,
+      "track_number": 2,
+      "title": "High Score",
+      "runtime": 67,
+      "source_mp3": "https://vgmsite.com/soundtracks/crazy-comets-commodore-64/fpbkzfkn/02_High%20Score.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/crazy-comets-commodore-64/02_High%2520Score.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 345,
+    "filesize_mp3_bytes": 6962544,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

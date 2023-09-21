@@ -1,0 +1,62 @@
+{
+  "title": "The Adventures of Lex & Grim",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T10:10:46.341582+00:00",
+  "slug": "adventures-of-lex-grim-the-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/adventures-of-lex-grim-the-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/adventures-of-lex-grim-the-nes/The%20Adventures%20of%20Lex%20and%20Grim.png"
+  ],
+  "date_added": "2022-03-14T00:00:00+00:00",
+  "developers": {
+    "PD": "https://downloads.khinsider.com/game-soundtracks/developer/pd"
+  },
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9500098,
+      "filesize_mp3_bytes": 3690987,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/adventures-of-lex-grim-the-nes/szkqelwoou/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/adventures-of-lex-grim-the-nes/szkqelwoou/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/adventures-of-lex-grim-the-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9804185,
+      "filesize_mp3_bytes": 2946498,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/adventures-of-lex-grim-the-nes/lwhsquocof/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/adventures-of-lex-grim-the-nes/lwhsquocof/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/adventures-of-lex-grim-the-nes/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11240734,
+      "filesize_mp3_bytes": 2736783,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/adventures-of-lex-grim-the-nes/bzctbegerx/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/adventures-of-lex-grim-the-nes/bzctbegerx/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/adventures-of-lex-grim-the-nes/03.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 540,
+    "filesize_mp3_bytes": 9374268,
+    "filesize_flac_bytes": 30545017,
+    "tracks": 3
+  }
+}

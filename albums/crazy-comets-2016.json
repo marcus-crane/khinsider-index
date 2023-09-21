@@ -1,0 +1,66 @@
+{
+  "title": "Crazy Comets Original Soundtrack Recording",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T10:39:03.903075+00:00",
+  "slug": "crazy-comets-2016",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/crazy-comets-2016",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios",
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/crazy-comets-2016/cover.jpg"
+  ],
+  "year": 2016,
+  "catalog_number": null,
+  "date_added": "2020-05-31T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Electric Cafe": "https://downloads.khinsider.com/game-soundtracks/publisher/electric-cafe"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 28573696,
+      "filesize_mp3_bytes": 10548674,
+      "track_number": 1,
+      "title": "Crazy Comets Theme",
+      "runtime": 257,
+      "source_mp3": "https://vgmsite.com/soundtracks/crazy-comets-2016/nabcrbduur/01%20Crazy%20Comets%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/crazy-comets-2016/nabcrbduur/01%20Crazy%20Comets%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/crazy-comets-2016/01%2520Crazy%2520Comets%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 46661632,
+      "filesize_mp3_bytes": 14889779,
+      "track_number": 2,
+      "title": "Cosmic Plains",
+      "runtime": 363,
+      "source_mp3": "https://vgmsite.com/soundtracks/crazy-comets-2016/yeiynyhgnq/02%20Cosmic%20Plains.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/crazy-comets-2016/yeiynyhgnq/02%20Cosmic%20Plains.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/crazy-comets-2016/02%2520Cosmic%2520Plains.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 14260633,
+      "filesize_mp3_bytes": 7969177,
+      "track_number": 3,
+      "title": "Space Rumba",
+      "runtime": 192,
+      "source_mp3": "https://vgmsite.com/soundtracks/crazy-comets-2016/pnckmchudj/03%20Space%20Rumba.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/crazy-comets-2016/pnckmchudj/03%20Space%20Rumba.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/crazy-comets-2016/03%2520Space%2520Rumba.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 812,
+    "filesize_mp3_bytes": 33407630,
+    "filesize_flac_bytes": 89495961,
+    "tracks": 3
+  }
+}

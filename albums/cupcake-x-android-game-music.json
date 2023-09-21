@@ -1,0 +1,44 @@
+{
+  "title": "Cupcake X (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T11:02:12.257207+00:00",
+  "slug": "cupcake-x-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/cupcake-x-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/cupcake-x-android-game-music/1.png"
+  ],
+  "year": 2013,
+  "date_added": "2016-06-04T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 933232,
+      "title": "bgm",
+      "runtime": 32,
+      "source_mp3": "https://vgmsite.com/soundtracks/cupcake-x-android-game-music/vyeolleg/bgm.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cupcake-x-android-game-music/bgm.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 775946,
+      "title": "bgm_fast",
+      "runtime": 26,
+      "source_mp3": "https://vgmsite.com/soundtracks/cupcake-x-android-game-music/zgnflman/bgm_fast.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cupcake-x-android-game-music/bgm_fast.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 58,
+    "filesize_mp3_bytes": 1709178,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

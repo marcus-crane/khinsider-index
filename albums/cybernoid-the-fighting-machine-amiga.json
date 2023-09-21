@@ -1,0 +1,39 @@
+{
+  "title": "Cybernoid - The Fighting Machine",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T11:10:23.501701+00:00",
+  "slug": "cybernoid-the-fighting-machine-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/cybernoid-the-fighting-machine-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/cybernoid-the-fighting-machine-amiga/Front%C2%A0Cover.jpg"
+  ],
+  "year": 1988,
+  "date_added": "2021-03-18T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 27787264,
+      "filesize_mp3_bytes": 7046430,
+      "track_number": 1,
+      "title": "Palladin (Intro)",
+      "runtime": 332,
+      "source_mp3": "https://vgmsite.com/soundtracks/cybernoid-the-fighting-machine-amiga/wjalaqywlb/1%20-%20Palladin%20%28Intro%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/cybernoid-the-fighting-machine-amiga/wjalaqywlb/1%20-%20Palladin%20%28Intro%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cybernoid-the-fighting-machine-amiga/1%2520-%2520Palladin%2520%2528Intro%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 332,
+    "filesize_mp3_bytes": 7046430,
+    "filesize_flac_bytes": 27787264,
+    "tracks": 1
+  }
+}

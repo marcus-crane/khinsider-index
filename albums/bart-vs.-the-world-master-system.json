@@ -1,0 +1,58 @@
+{
+  "title": "The Simpsons - Bart vs. The World",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T10:18:22.154714+00:00",
+  "slug": "bart-vs.-the-world-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/bart-vs.-the-world-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/bart-vs.-the-world-master-system/Bart%20vs.%20The%20World.png"
+  ],
+  "year": 1993,
+  "date_added": "2020-07-03T00:00:00+00:00",
+  "developers": {
+    "Arc Developments": "https://downloads.khinsider.com/game-soundtracks/developer/arc-developments",
+    "Imagineering": "https://downloads.khinsider.com/game-soundtracks/developer/imagineering"
+  },
+  "publishers": {
+    "Acclaim Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/acclaim-entertainment",
+    "Acclaim Japan": "https://downloads.khinsider.com/game-soundtracks/publisher/acclaim-japan",
+    "Virgin Group": "https://downloads.khinsider.com/game-soundtracks/publisher/virgin-group",
+    "Virgin Interactive": "https://downloads.khinsider.com/game-soundtracks/publisher/virgin-interactive"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1027604,
+      "filesize_mp3_bytes": 482344,
+      "track_number": 1,
+      "title": "BGM 1",
+      "runtime": 22,
+      "source_mp3": "https://vgmsite.com/soundtracks/bart-vs.-the-world-master-system/dmdsnwvjdu/01%20-%20BGM%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bart-vs.-the-world-master-system/dmdsnwvjdu/01%20-%20BGM%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bart-vs.-the-world-master-system/01%2520-%2520BGM%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3114270,
+      "filesize_mp3_bytes": 1321205,
+      "track_number": 2,
+      "title": "BGM 2",
+      "runtime": 65,
+      "source_mp3": "https://vgmsite.com/soundtracks/bart-vs.-the-world-master-system/yvmvpttxlf/02%20-%20BGM%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bart-vs.-the-world-master-system/yvmvpttxlf/02%20-%20BGM%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bart-vs.-the-world-master-system/02%2520-%2520BGM%25202.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 87,
+    "filesize_mp3_bytes": 1803549,
+    "filesize_flac_bytes": 4141874,
+    "tracks": 2
+  }
+}

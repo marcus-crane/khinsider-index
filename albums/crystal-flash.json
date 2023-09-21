@@ -1,0 +1,99 @@
+{
+  "title": "Crystal Flash EP",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T10:58:12.758886+00:00",
+  "slug": "crystal-flash",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/crystal-flash",
+  "platforms": {
+    "GC": "https://downloads.khinsider.com/game-soundtracks/nintendo-gamecube",
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes",
+    "Wii": "https://downloads.khinsider.com/game-soundtracks/nintendo-wii"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/crystal-flash/cover.jpg"
+  ],
+  "year": 2011,
+  "catalog_number": null,
+  "date_added": "2021-03-29T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Theophany (Bandcamp)": "https://downloads.khinsider.com/game-soundtracks/publisher/theophany-bandcamp"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 46598717,
+      "filesize_mp3_bytes": 8640266,
+      "track_number": 1,
+      "title": "Space Dive",
+      "runtime": 249,
+      "source_mp3": "https://vgmsite.com/soundtracks/crystal-flash/jyllooadxk/01%20Space%20Dive.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/crystal-flash/jyllooadxk/01%20Space%20Dive.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/crystal-flash/01%2520Space%2520Dive.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 48653926,
+      "filesize_mp3_bytes": 8283750,
+      "track_number": 2,
+      "title": "Ethereal",
+      "runtime": 265,
+      "source_mp3": "https://vgmsite.com/soundtracks/crystal-flash/vbayemkxzn/02%20Ethereal.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/crystal-flash/vbayemkxzn/02%20Ethereal.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/crystal-flash/02%2520Ethereal.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 50761564,
+      "filesize_mp3_bytes": 8671723,
+      "track_number": 3,
+      "title": "Orpheon",
+      "runtime": 283,
+      "source_mp3": "https://vgmsite.com/soundtracks/crystal-flash/wjrepcpjnm/03%20Orpheon.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/crystal-flash/wjrepcpjnm/03%20Orpheon.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/crystal-flash/03%2520Orpheon.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 28049408,
+      "filesize_mp3_bytes": 9646899,
+      "track_number": 4,
+      "title": "Avien",
+      "runtime": 309,
+      "source_mp3": "https://vgmsite.com/soundtracks/crystal-flash/xtbrzvqxud/04%20Avien.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/crystal-flash/xtbrzvqxud/04%20Avien.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/crystal-flash/04%2520Avien.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11303649,
+      "filesize_mp3_bytes": 1855979,
+      "track_number": 5,
+      "title": "Avien II (Outro)",
+      "runtime": 62,
+      "source_mp3": "https://vgmsite.com/soundtracks/crystal-flash/fbkyhkgagd/05%20Avien%20II%20%28Outro%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/crystal-flash/fbkyhkgagd/05%20Avien%20II%20%28Outro%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/crystal-flash/05%2520Avien%2520II%2520%2528Outro%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 28416409,
+      "filesize_mp3_bytes": 9825157,
+      "track_number": 6,
+      "title": "Alone in the Universe",
+      "runtime": 313,
+      "source_mp3": "https://vgmsite.com/soundtracks/crystal-flash/qvvaguctok/06%20Alone%20in%20the%20Universe.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/crystal-flash/qvvaguctok/06%20Alone%20in%20the%20Universe.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/crystal-flash/06%2520Alone%2520in%2520the%2520Universe.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1481,
+    "filesize_mp3_bytes": 46923774,
+    "filesize_flac_bytes": 213783673,
+    "tracks": 6
+  }
+}

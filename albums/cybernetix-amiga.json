@@ -1,0 +1,54 @@
+{
+  "title": "Cybernetix",
+  "titles_alternative": [
+    "Cybernetix: The First Battle"
+  ],
+  "crawled_at": "2023-09-21T11:10:20.159115+00:00",
+  "slug": "cybernetix-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/cybernetix-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/cybernetix-amiga/Cybernetix.png"
+  ],
+  "year": 1992,
+  "date_added": "2018-03-02T00:00:00+00:00",
+  "developers": {
+    "Future Publishing": "https://downloads.khinsider.com/game-soundtracks/developer/future-publishing"
+  },
+  "publishers": {
+    "Future Publishing": "https://downloads.khinsider.com/game-soundtracks/publisher/future-publishing"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5704253,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 206,
+      "source_mp3": "https://vgmsite.com/soundtracks/cybernetix-amiga/mopgyciw/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cybernetix-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8818524,
+      "track_number": 2,
+      "title": "High Score",
+      "runtime": 323,
+      "source_mp3": "https://vgmsite.com/soundtracks/cybernetix-amiga/xqzmtncz/02_High%20Score.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cybernetix-amiga/02_High%2520Score.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 529,
+    "filesize_mp3_bytes": 14522777,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

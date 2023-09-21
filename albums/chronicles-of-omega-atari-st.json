@@ -1,0 +1,82 @@
+{
+  "title": "The Chronicles of Omega",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T10:22:41.516310+00:00",
+  "slug": "chronicles-of-omega-atari-st",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/chronicles-of-omega-atari-st",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/chronicles-of-omega-atari-st/Chronicles%20of%20Omega%20%28Atari%20ST%29.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2016-06-30T00:00:00+00:00",
+  "developers": {
+    "Arc Software": "https://downloads.khinsider.com/game-soundtracks/developer/arc-software"
+  },
+  "publishers": {
+    "Arc Software": "https://downloads.khinsider.com/game-soundtracks/publisher/arc-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3198156,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 129,
+      "source_mp3": "https://vgmsite.com/soundtracks/chronicles-of-omega-atari-st/eoowiyhy/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chronicles-of-omega-atari-st/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 849346,
+      "track_number": 2,
+      "title": "Map Theme",
+      "runtime": 36,
+      "source_mp3": "https://vgmsite.com/soundtracks/chronicles-of-omega-atari-st/bphxnfru/02_Map%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chronicles-of-omega-atari-st/02_Map%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2841640,
+      "track_number": 3,
+      "title": "In-Game BGM",
+      "runtime": 113,
+      "source_mp3": "https://vgmsite.com/soundtracks/chronicles-of-omega-atari-st/opfspbmy/03_In-Game%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chronicles-of-omega-atari-st/03_In-Game%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1310720,
+      "track_number": 4,
+      "title": "Shop Theme",
+      "runtime": 55,
+      "source_mp3": "https://vgmsite.com/soundtracks/chronicles-of-omega-atari-st/yqxisqjk/04_Shop%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chronicles-of-omega-atari-st/04_Shop%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 587202,
+      "track_number": 5,
+      "title": "Unknown",
+      "runtime": 19,
+      "source_mp3": "https://vgmsite.com/soundtracks/chronicles-of-omega-atari-st/neumphnh/05_Unknown.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chronicles-of-omega-atari-st/05_Unknown.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 352,
+    "filesize_mp3_bytes": 8787064,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}
