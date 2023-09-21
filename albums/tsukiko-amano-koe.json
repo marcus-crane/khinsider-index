@@ -1,0 +1,53 @@
+{
+  "title": "Voice / Tsukiko Amano",
+  "titles_alternative": [
+    "\u8072 / \u5929\u91ce\u6708\u5b50"
+  ],
+  "crawled_at": "2023-09-21T00:04:25.765839+00:00",
+  "slug": "tsukiko-amano-koe",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tsukiko-amano-koe",
+  "platforms": {
+    "PS2": "https://downloads.khinsider.com/game-soundtracks/playstation-2"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tsukiko-amano-koe/Tsukiko%20Amano%20-%20Koe.jpg"
+  ],
+  "year": 2005,
+  "catalog_number": "PCCA-70119",
+  "date_added": "2006-11-25T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Pony Canyon": "https://downloads.khinsider.com/game-soundtracks/publisher/pony-canyon"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9552527,
+      "track_number": 1,
+      "title": "koe",
+      "runtime": 334,
+      "source_mp3": "https://vgmsite.com/soundtracks/tsukiko-amano-koe/jnwuysca/01%20koe.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tsukiko-amano-koe/01%2520koe.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7916748,
+      "track_number": 2,
+      "title": "moe",
+      "runtime": 260,
+      "source_mp3": "https://vgmsite.com/soundtracks/tsukiko-amano-koe/qmcphgji/02%20moe.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tsukiko-amano-koe/02%2520moe.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 594,
+    "filesize_mp3_bytes": 17469275,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

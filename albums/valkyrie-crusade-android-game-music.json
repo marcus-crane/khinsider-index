@@ -1,0 +1,34 @@
+{
+  "title": "Valkyrie Crusade (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T00:13:46.859905+00:00",
+  "slug": "valkyrie-crusade-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/valkyrie-crusade-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/valkyrie-crusade-android-game-music/1.jpg"
+  ],
+  "date_added": "2016-06-04T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3019898,
+      "title": "Valkyrie Crusade",
+      "runtime": 125,
+      "source_mp3": "https://vgmsite.com/soundtracks/valkyrie-crusade-android-game-music/iekudoge/Valkyrie%20Crusade.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/valkyrie-crusade-android-game-music/Valkyrie%2520Crusade.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 125,
+    "filesize_mp3_bytes": 3019898,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

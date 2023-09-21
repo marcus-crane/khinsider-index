@@ -1,0 +1,57 @@
+{
+  "title": "Vulgus",
+  "titles_alternative": [
+    "\u30d0\u30eb\u30ac\u30b9"
+  ],
+  "crawled_at": "2023-09-21T01:00:42.742261+00:00",
+  "slug": "vulgus-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/vulgus-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/vulgus-arcade/V1.jpg"
+  ],
+  "year": 1984,
+  "date_added": "2022-06-27T00:00:00+00:00",
+  "developers": {
+    "Capcom": "https://downloads.khinsider.com/game-soundtracks/developer/capcom"
+  },
+  "publishers": {
+    "Capcom": "https://downloads.khinsider.com/game-soundtracks/publisher/capcom",
+    "SNK": "https://downloads.khinsider.com/game-soundtracks/publisher/snk"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20971,
+      "filesize_mp3_bytes": 10485,
+      "track_number": 1,
+      "title": "Credit",
+      "runtime": 0,
+      "source_mp3": "https://vgmsite.com/soundtracks/vulgus-arcade/vocjxuywco/01%20Credit.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/vulgus-arcade/vocjxuywco/01%20Credit.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vulgus-arcade/01%2520Credit.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1541406,
+      "filesize_mp3_bytes": 765460,
+      "track_number": 2,
+      "title": "Main BGM",
+      "runtime": 36,
+      "source_mp3": "https://vgmsite.com/soundtracks/vulgus-arcade/zptortkule/02%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/vulgus-arcade/zptortkule/02%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vulgus-arcade/02%2520Main%2520BGM.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 36,
+    "filesize_mp3_bytes": 775945,
+    "filesize_flac_bytes": 1562377,
+    "tracks": 2
+  }
+}

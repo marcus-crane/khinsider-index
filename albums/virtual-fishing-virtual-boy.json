@@ -1,0 +1,64 @@
+{
+  "title": "Virtual Fishing",
+  "titles_alternative": [
+    "\u30d0\u30fc\u30c1\u30e3\u30eb\u30d5\u30a3\u30c3\u30b7\u30f3\u30b0"
+  ],
+  "crawled_at": "2023-09-21T00:51:11.051023+00:00",
+  "slug": "virtual-fishing-virtual-boy",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/virtual-fishing-virtual-boy",
+  "platforms": {
+    "Virtual Boy": "https://downloads.khinsider.com/game-soundtracks/virtual-boy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/virtual-fishing-virtual-boy/Virtual%20Fishing.jpg"
+  ],
+  "year": 1995,
+  "date_added": "2020-10-04T00:00:00+00:00",
+  "developers": {
+    "Locomotive": "https://downloads.khinsider.com/game-soundtracks/developer/locomotive"
+  },
+  "publishers": {
+    "Pack-In-Video": "https://downloads.khinsider.com/game-soundtracks/publisher/pack-in-video"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 293601,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 32,
+      "source_mp3": "https://vgmsite.com/soundtracks/virtual-fishing-virtual-boy/vgpctkbyfz/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/virtual-fishing-virtual-boy/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 230686,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 25,
+      "source_mp3": "https://vgmsite.com/soundtracks/virtual-fishing-virtual-boy/rtkydlyrzs/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/virtual-fishing-virtual-boy/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 304087,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 33,
+      "source_mp3": "https://vgmsite.com/soundtracks/virtual-fishing-virtual-boy/dzrcssgyin/03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/virtual-fishing-virtual-boy/03.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 90,
+    "filesize_mp3_bytes": 828374,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

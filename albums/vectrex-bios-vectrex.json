@@ -1,0 +1,41 @@
+{
+  "title": "Vectrex BIOS (Vectrex)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T00:29:31.426982+00:00",
+  "slug": "vectrex-bios-vectrex",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/vectrex-bios-vectrex",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/vectrex-bios-vectrex/Vectrex%20BIOS.png"
+  ],
+  "year": 1982,
+  "date_added": "2022-06-25T00:00:00+00:00",
+  "developers": {
+    "Smith Engineering": "https://downloads.khinsider.com/game-soundtracks/developer/smith-engineering"
+  },
+  "publishers": {
+    "General Consumer Electronics": "https://downloads.khinsider.com/game-soundtracks/publisher/general-consumer-electronics"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 83886,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 1,
+      "title": "Startup Jingle",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/vectrex-bios-vectrex/wofmdzogzs/01%20Startup%20Jingle.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/vectrex-bios-vectrex/wofmdzogzs/01%20Startup%20Jingle.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vectrex-bios-vectrex/01%2520Startup%2520Jingle.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2,
+    "filesize_mp3_bytes": 20971,
+    "filesize_flac_bytes": 83886,
+    "tracks": 1
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "title": "Vindicators (Unlicensed)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T00:41:52.660978+00:00",
+  "slug": "vindicators-1988-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/vindicators-1988-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/vindicators-1988-nes/Vindicators%20%281988%29%20%28NES%29.jpg"
+  ],
+  "year": 1988,
+  "date_added": "2022-06-27T00:00:00+00:00",
+  "developers": {
+    "Atari Games": "https://downloads.khinsider.com/game-soundtracks/developer/atari-games",
+    "Tengen": "https://downloads.khinsider.com/game-soundtracks/developer/tengen"
+  },
+  "publishers": {
+    "Tengen": "https://downloads.khinsider.com/game-soundtracks/publisher/tengen"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1866465,
+      "filesize_mp3_bytes": 639631,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 32,
+      "source_mp3": "https://vgmsite.com/soundtracks/vindicators-1988-nes/frofuvugsa/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/vindicators-1988-nes/frofuvugsa/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vindicators-1988-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11072962,
+      "filesize_mp3_bytes": 3481272,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/vindicators-1988-nes/jlvfazqhrx/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/vindicators-1988-nes/jlvfazqhrx/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vindicators-1988-nes/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8912896,
+      "filesize_mp3_bytes": 3502243,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/vindicators-1988-nes/cbrwrwignm/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/vindicators-1988-nes/cbrwrwignm/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vindicators-1988-nes/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10286530,
+      "filesize_mp3_bytes": 3848273,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/vindicators-1988-nes/folhedbvte/04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/vindicators-1988-nes/folhedbvte/04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vindicators-1988-nes/04.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9604956,
+      "filesize_mp3_bytes": 4550819,
+      "track_number": 5,
+      "title": "Track 5",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/vindicators-1988-nes/eooizlcrfe/05.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/vindicators-1988-nes/eooizlcrfe/05.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vindicators-1988-nes/05.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1342177,
+      "filesize_mp3_bytes": 429916,
+      "track_number": 6,
+      "title": "Track 6",
+      "runtime": 22,
+      "source_mp3": "https://vgmsite.com/soundtracks/vindicators-1988-nes/scsitnuyez/06.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/vindicators-1988-nes/scsitnuyez/06.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vindicators-1988-nes/06.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3051356,
+      "filesize_mp3_bytes": 1027604,
+      "track_number": 7,
+      "title": "Track 7",
+      "runtime": 52,
+      "source_mp3": "https://vgmsite.com/soundtracks/vindicators-1988-nes/agfdfadonq/07.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/vindicators-1988-nes/agfdfadonq/07.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vindicators-1988-nes/07.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 826,
+    "filesize_mp3_bytes": 17479758,
+    "filesize_flac_bytes": 46137342,
+    "tracks": 7
+  }
+}

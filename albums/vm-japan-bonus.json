@@ -1,0 +1,74 @@
+{
+  "title": "VM Japan Bonus",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T00:55:19.891852+00:00",
+  "slug": "vm-japan-bonus",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/vm-japan-bonus",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/vm-japan-bonus/VM%20Japan%20Bonus.jpg"
+  ],
+  "year": 2002,
+  "date_added": "2022-07-28T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7077888,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 299,
+      "source_mp3": "https://vgmsite.com/soundtracks/vm-japan-bonus/khaegcidec/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vm-japan-bonus/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4529848,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 202,
+      "source_mp3": "https://vgmsite.com/soundtracks/vm-japan-bonus/qdhedrachh/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vm-japan-bonus/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9835642,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 374,
+      "source_mp3": "https://vgmsite.com/soundtracks/vm-japan-bonus/qedcoonfqg/03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vm-japan-bonus/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11565793,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 428,
+      "source_mp3": "https://vgmsite.com/soundtracks/vm-japan-bonus/paahozjtua/04.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vm-japan-bonus/04.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5410652,
+      "track_number": 5,
+      "title": "Track 5",
+      "runtime": 197,
+      "source_mp3": "https://vgmsite.com/soundtracks/vm-japan-bonus/ertxwhyach/05.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vm-japan-bonus/05.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1500,
+    "filesize_mp3_bytes": 38419823,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

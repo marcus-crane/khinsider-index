@@ -1,0 +1,89 @@
+{
+  "title": "Victorious Nine",
+  "titles_alternative": [
+    "\u30d3\u30af\u30c8\u30ea\u30a2\u30b9\u30ca\u30a4\u30f3"
+  ],
+  "crawled_at": "2023-09-21T00:37:27.424026+00:00",
+  "slug": "victorious-nine-nec-pc-88",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/victorious-nine-nec-pc-88",
+  "platforms": {
+    "PC-88": "https://downloads.khinsider.com/game-soundtracks/pc-8801"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/victorious-nine-nec-pc-88/Victorious%20Nine.png"
+  ],
+  "year": 1985,
+  "date_added": "2022-06-27T00:00:00+00:00",
+  "developers": {
+    "Nidecom Soft": "https://downloads.khinsider.com/game-soundtracks/developer/nidecom-soft"
+  },
+  "publishers": {
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/publisher/taito"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1709178,
+      "filesize_mp3_bytes": 629145,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 33,
+      "source_mp3": "https://vgmsite.com/soundtracks/victorious-nine-nec-pc-88/rufhraagsb/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/victorious-nine-nec-pc-88/rufhraagsb/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/victorious-nine-nec-pc-88/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1688207,
+      "filesize_mp3_bytes": 681574,
+      "track_number": 2,
+      "title": "Top Inning",
+      "runtime": 37,
+      "source_mp3": "https://vgmsite.com/soundtracks/victorious-nine-nec-pc-88/qoncznzgps/02%20Top%20Inning.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/victorious-nine-nec-pc-88/qoncznzgps/02%20Top%20Inning.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/victorious-nine-nec-pc-88/02%2520Top%2520Inning.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2348810,
+      "filesize_mp3_bytes": 849346,
+      "track_number": 3,
+      "title": "Bottom Inning",
+      "runtime": 47,
+      "source_mp3": "https://vgmsite.com/soundtracks/victorious-nine-nec-pc-88/fnrdbvlccx/03%20Bottom%20Inning.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/victorious-nine-nec-pc-88/fnrdbvlccx/03%20Bottom%20Inning.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/victorious-nine-nec-pc-88/03%2520Bottom%2520Inning.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 608174,
+      "filesize_mp3_bytes": 262144,
+      "track_number": 4,
+      "title": "Home Run",
+      "runtime": 12,
+      "source_mp3": "https://vgmsite.com/soundtracks/victorious-nine-nec-pc-88/vlazshwazu/04%20Home%20Run.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/victorious-nine-nec-pc-88/vlazshwazu/04%20Home%20Run.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/victorious-nine-nec-pc-88/04%2520Home%2520Run.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 136314,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 5,
+      "title": "Unknown",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/victorious-nine-nec-pc-88/nwwcabawzh/05%20Unknown.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/victorious-nine-nec-pc-88/nwwcabawzh/05%20Unknown.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/victorious-nine-nec-pc-88/05%2520Unknown.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 132,
+    "filesize_mp3_bytes": 2485123,
+    "filesize_flac_bytes": 6490683,
+    "tracks": 5
+  }
+}

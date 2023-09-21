@@ -1,0 +1,52 @@
+{
+  "title": "Vyrus",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T01:05:26.949332+00:00",
+  "slug": "vyrus-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/vyrus-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/vyrus-amiga/Vyrus.png"
+  ],
+  "year": 1991,
+  "date_added": "2019-06-03T00:00:00+00:00",
+  "developers": {
+    "Epilogue": "https://downloads.khinsider.com/game-soundtracks/developer/epilogue"
+  },
+  "publishers": {
+    "Amiga Fun": "https://downloads.khinsider.com/game-soundtracks/publisher/amiga-fun"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9395240,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 335,
+      "source_mp3": "https://vgmsite.com/soundtracks/vyrus-amiga/qogbccyevm/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vyrus-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6773800,
+      "track_number": 2,
+      "title": "In-Game BGM",
+      "runtime": 202,
+      "source_mp3": "https://vgmsite.com/soundtracks/vyrus-amiga/cqtdencoxc/02_In-Game%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vyrus-amiga/02_In-Game%2520BGM.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 537,
+    "filesize_mp3_bytes": 16169040,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

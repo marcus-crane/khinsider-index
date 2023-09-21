@@ -1,0 +1,54 @@
+{
+  "title": "Vanguard 2",
+  "titles_alternative": [
+    "\u30f4\u30a1\u30f3\u30ac\u30fc\u30c9II"
+  ],
+  "crawled_at": "2023-09-21T00:25:37.895290+00:00",
+  "slug": "vanguard-2-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/vanguard-2-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/vanguard-2-arcade/V1.jpg"
+  ],
+  "year": 1984,
+  "date_added": "2016-06-22T00:00:00+00:00",
+  "developers": {
+    "SNK": "https://downloads.khinsider.com/game-soundtracks/developer/snk"
+  },
+  "publishers": {
+    "SNK": "https://downloads.khinsider.com/game-soundtracks/publisher/snk"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 870318,
+      "track_number": 1,
+      "title": "In-Game BGM",
+      "runtime": 26,
+      "source_mp3": "https://vgmsite.com/soundtracks/vanguard-2-arcade/jzrbifir/01_In-Game%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vanguard-2-arcade/01_In-Game%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 2,
+      "title": "Stage Clear",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/vanguard-2-arcade/bptikyps/02_Stage%20Clear.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vanguard-2-arcade/02_Stage%2520Clear.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 27,
+    "filesize_mp3_bytes": 912261,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

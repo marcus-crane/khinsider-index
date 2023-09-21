@@ -1,0 +1,76 @@
+{
+  "title": "Viking Invasion (DSiWare)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T00:41:21.705788+00:00",
+  "slug": "viking-invasion-dsiware-2009-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/viking-invasion-dsiware-2009-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/viking-invasion-dsiware-2009-nds-gamerip/Viking%20Invasion.png"
+  ],
+  "year": 2009,
+  "date_added": "2020-06-25T00:00:00+00:00",
+  "developers": {
+    "BiP Media": "https://downloads.khinsider.com/game-soundtracks/developer/bip-media"
+  },
+  "publishers": {
+    "BiP Media": "https://downloads.khinsider.com/game-soundtracks/publisher/bip-media"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2810183,
+      "filesize_mp3_bytes": 1017118,
+      "track_number": 1,
+      "title": "Theme Animatic",
+      "runtime": 31,
+      "source_mp3": "https://vgmsite.com/soundtracks/viking-invasion-dsiware-2009-nds-gamerip/vwxmqmqtcq/01%20-%20Theme%20Animatic.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/viking-invasion-dsiware-2009-nds-gamerip/vwxmqmqtcq/01%20-%20Theme%20Animatic.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/viking-invasion-dsiware-2009-nds-gamerip/01%2520-%2520Theme%2520Animatic.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7161774,
+      "filesize_mp3_bytes": 2736783,
+      "track_number": 2,
+      "title": "Theme In Game",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/viking-invasion-dsiware-2009-nds-gamerip/xvhtytpiax/02%20-%20Theme%20In%20Game.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/viking-invasion-dsiware-2009-nds-gamerip/xvhtytpiax/02%20-%20Theme%20In%20Game.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/viking-invasion-dsiware-2009-nds-gamerip/02%2520-%2520Theme%2520In%2520Game.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3617587,
+      "filesize_mp3_bytes": 1069547,
+      "track_number": 3,
+      "title": "Theme Intro",
+      "runtime": 34,
+      "source_mp3": "https://vgmsite.com/soundtracks/viking-invasion-dsiware-2009-nds-gamerip/ajfahwlucb/03%20-%20Theme%20Intro.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/viking-invasion-dsiware-2009-nds-gamerip/ajfahwlucb/03%20-%20Theme%20Intro.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/viking-invasion-dsiware-2009-nds-gamerip/03%2520-%2520Theme%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5295308,
+      "filesize_mp3_bytes": 1572864,
+      "track_number": 4,
+      "title": "Theme Menu",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/viking-invasion-dsiware-2009-nds-gamerip/qhrfwlvito/04%20-%20Theme%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/viking-invasion-dsiware-2009-nds-gamerip/qhrfwlvito/04%20-%20Theme%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/viking-invasion-dsiware-2009-nds-gamerip/04%2520-%2520Theme%2520Menu.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 209,
+    "filesize_mp3_bytes": 6396312,
+    "filesize_flac_bytes": 18884852,
+    "tracks": 4
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "title": "Vancouver 2010",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T00:24:11.655367+00:00",
+  "slug": "vancouver-2010-ps3-xbox-360",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/vancouver-2010-ps3-xbox-360",
+  "platforms": {
+    "PS3": "https://downloads.khinsider.com/game-soundtracks/playstation-3",
+    "Xbox 360": "https://downloads.khinsider.com/game-soundtracks/xbox-360"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/vancouver-2010-ps3-xbox-360/Vancouver%202010%20%28PS3%2C%20Xbox%20360%29.jpg"
+  ],
+  "year": 2009,
+  "date_added": "2021-09-07T00:00:00+00:00",
+  "developers": {
+    "Eurocom": "https://downloads.khinsider.com/game-soundtracks/developer/eurocom"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1541406,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 38,
+      "source_mp3": "https://vgmsite.com/soundtracks/vancouver-2010-ps3-xbox-360/dromrziuga/01.%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vancouver-2010-ps3-xbox-360/01.%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10412359,
+      "track_number": 2,
+      "title": "Main Menu",
+      "runtime": 260,
+      "source_mp3": "https://vgmsite.com/soundtracks/vancouver-2010-ps3-xbox-360/mpvugoqvjd/02.%20Main%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vancouver-2010-ps3-xbox-360/02.%2520Main%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8849981,
+      "track_number": 3,
+      "title": "Training, Olympic Mode, Challenges, Leaderboard, Credits",
+      "runtime": 221,
+      "source_mp3": "https://vgmsite.com/soundtracks/vancouver-2010-ps3-xbox-360/fqnihevkam/03.%20Training%2C%20Olympic%20Mode%2C%20Challenges%2C%20Leaderboard%2C%20Credits.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vancouver-2010-ps3-xbox-360/03.%2520Training%252C%2520Olympic%2520Mode%252C%2520Challenges%252C%2520Leaderboard%252C%2520Credits.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9143582,
+      "track_number": 4,
+      "title": "Options",
+      "runtime": 229,
+      "source_mp3": "https://vgmsite.com/soundtracks/vancouver-2010-ps3-xbox-360/kccpdxssby/04.%20Options.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vancouver-2010-ps3-xbox-360/04.%2520Options.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 748,
+    "filesize_mp3_bytes": 29947328,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

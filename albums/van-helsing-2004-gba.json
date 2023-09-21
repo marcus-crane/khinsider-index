@@ -1,0 +1,88 @@
+{
+  "title": "Van Helsing",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T00:24:01.130400+00:00",
+  "slug": "van-helsing-2004-gba",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/van-helsing-2004-gba",
+  "platforms": {
+    "GBA": "https://downloads.khinsider.com/game-soundtracks/gameboy-advance"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/van-helsing-2004-gba/Van%20Helsing%20%28GBA%29%20%28gamerip%29%20%282004%29.jpg"
+  ],
+  "year": 2004,
+  "date_added": "2021-08-26T00:00:00+00:00",
+  "developers": {
+    "Saffire": "https://downloads.khinsider.com/game-soundtracks/developer/saffire"
+  },
+  "publishers": {
+    "Sierra": "https://downloads.khinsider.com/game-soundtracks/publisher/sierra",
+    "Vivendi Universal": "https://downloads.khinsider.com/game-soundtracks/publisher/vivendi-universal"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10013900,
+      "filesize_mp3_bytes": 4404019,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 132,
+      "source_mp3": "https://vgmsite.com/soundtracks/van-helsing-2004-gba/eyqfcobgce/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/van-helsing-2004-gba/eyqfcobgce/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/van-helsing-2004-gba/01%2520BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9898557,
+      "filesize_mp3_bytes": 3575644,
+      "track_number": 2,
+      "title": "BGM #02",
+      "runtime": 128,
+      "source_mp3": "https://vgmsite.com/soundtracks/van-helsing-2004-gba/ymytvzkkom/02%20BGM%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/van-helsing-2004-gba/ymytvzkkom/02%20BGM%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/van-helsing-2004-gba/02%2520BGM%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10968104,
+      "filesize_mp3_bytes": 3617587,
+      "track_number": 3,
+      "title": "BGM #03",
+      "runtime": 133,
+      "source_mp3": "https://vgmsite.com/soundtracks/van-helsing-2004-gba/kmfvumpewp/03%20BGM%20%2303.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/van-helsing-2004-gba/kmfvumpewp/03%20BGM%20%2303.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/van-helsing-2004-gba/03%2520BGM%2520%252303.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10999562,
+      "filesize_mp3_bytes": 3344957,
+      "track_number": 4,
+      "title": "BGM #04",
+      "runtime": 129,
+      "source_mp3": "https://vgmsite.com/soundtracks/van-helsing-2004-gba/jtfoxemcdc/04%20BGM%20%2304.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/van-helsing-2004-gba/jtfoxemcdc/04%20BGM%20%2304.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/van-helsing-2004-gba/04%2520BGM%2520%252304.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11974737,
+      "filesize_mp3_bytes": 4666163,
+      "track_number": 5,
+      "title": "BGM #05",
+      "runtime": 150,
+      "source_mp3": "https://vgmsite.com/soundtracks/van-helsing-2004-gba/iyhjjznacy/05%20BGM%20%2305.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/van-helsing-2004-gba/iyhjjznacy/05%20BGM%20%2305.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/van-helsing-2004-gba/05%2520BGM%2520%252305.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 672,
+    "filesize_mp3_bytes": 19608370,
+    "filesize_flac_bytes": 53854860,
+    "tracks": 5
+  }
+}

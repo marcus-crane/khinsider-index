@@ -1,0 +1,47 @@
+{
+  "title": "VR Golf '97",
+  "titles_alternative": [
+    "Actua Golf",
+    "\u30a2\u30af\u30c1\u30e3\u30fc\u30b4\u30eb\u30d5"
+  ],
+  "crawled_at": "2023-09-21T00:58:55.031709+00:00",
+  "slug": "vr-golf-97-1996-saturn-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/vr-golf-97-1996-saturn-gamerip",
+  "platforms": {
+    "Saturn": "https://downloads.khinsider.com/game-soundtracks/sega-saturn"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/vr-golf-97-1996-saturn-gamerip/VR%20Golf%20%2797.jpg"
+  ],
+  "year": 1996,
+  "date_added": "2020-05-22T00:00:00+00:00",
+  "developers": {
+    "Gremlin": "https://downloads.khinsider.com/game-soundtracks/developer/gremlin"
+  },
+  "publishers": {
+    "Gremlin": "https://downloads.khinsider.com/game-soundtracks/publisher/gremlin",
+    "Interplay": "https://downloads.khinsider.com/game-soundtracks/publisher/interplay",
+    "Naxat": "https://downloads.khinsider.com/game-soundtracks/publisher/naxat"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8745123,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 336,
+      "source_mp3": "https://vgmsite.com/soundtracks/vr-golf-97-1996-saturn-gamerip/musxomnzkh/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vr-golf-97-1996-saturn-gamerip/01.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 336,
+    "filesize_mp3_bytes": 8745123,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}
