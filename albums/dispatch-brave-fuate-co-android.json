@@ -1,0 +1,68 @@
+{
+  "title": "Dispatch Brave (fuate Co)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T17:10:06.129990+00:00",
+  "slug": "dispatch-brave-fuate-co-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dispatch-brave-fuate-co-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dispatch-brave-fuate-co-android/screen-0.jpg"
+  ],
+  "year": 2006,
+  "date_added": "2018-03-06T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2243952,
+      "track_number": 1,
+      "title": "bgm_title",
+      "runtime": 140,
+      "source_mp3": "https://vgmsite.com/soundtracks/dispatch-brave-fuate-co-android/nvlftwlj/1%20bgm_title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dispatch-brave-fuate-co-android/1%2520bgm_title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1415577,
+      "track_number": 2,
+      "title": "bgm",
+      "runtime": 89,
+      "source_mp3": "https://vgmsite.com/soundtracks/dispatch-brave-fuate-co-android/qcwwjtib/2%20bgm.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dispatch-brave-fuate-co-android/2%2520bgm.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2621440,
+      "track_number": 3,
+      "title": "bgm_harem",
+      "runtime": 164,
+      "source_mp3": "https://vgmsite.com/soundtracks/dispatch-brave-fuate-co-android/owmwgogx/3%20bgm_harem.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dispatch-brave-fuate-co-android/3%2520bgm_harem.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1793064,
+      "track_number": 4,
+      "title": "bgm_end",
+      "runtime": 112,
+      "source_mp3": "https://vgmsite.com/soundtracks/dispatch-brave-fuate-co-android/nvgtvpkv/4%20bgm_end.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dispatch-brave-fuate-co-android/4%2520bgm_end.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 505,
+    "filesize_mp3_bytes": 8074033,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

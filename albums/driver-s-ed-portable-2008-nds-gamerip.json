@@ -1,0 +1,65 @@
+{
+  "title": "Driver's Ed Portable",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T19:23:19.678678+00:00",
+  "slug": "driver-s-ed-portable-2008-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/driver-s-ed-portable-2008-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/driver-s-ed-portable-2008-nds-gamerip/Driver%27s%20Ed%20Portable.jpg"
+  ],
+  "year": 2008,
+  "date_added": "2020-06-04T00:00:00+00:00",
+  "developers": {
+    "Trine": "https://downloads.khinsider.com/game-soundtracks/developer/trine"
+  },
+  "publishers": {
+    "DreamCatcher": "https://downloads.khinsider.com/game-soundtracks/publisher/dreamcatcher"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 18161336,
+      "filesize_mp3_bytes": 4928307,
+      "track_number": 1,
+      "title": "Mariokart",
+      "runtime": 198,
+      "source_mp3": "https://vgmsite.com/soundtracks/driver-s-ed-portable-2008-nds-gamerip/ikochvlumo/01%20-%20Mariokart.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/driver-s-ed-portable-2008-nds-gamerip/ikochvlumo/01%20-%20Mariokart.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/driver-s-ed-portable-2008-nds-gamerip/01%2520-%2520Mariokart.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4760535,
+      "filesize_mp3_bytes": 1960837,
+      "track_number": 2,
+      "title": "Test",
+      "runtime": 83,
+      "source_mp3": "https://vgmsite.com/soundtracks/driver-s-ed-portable-2008-nds-gamerip/tjfyuhxgxu/02%20-%20Test.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/driver-s-ed-portable-2008-nds-gamerip/tjfyuhxgxu/02%20-%20Test.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/driver-s-ed-portable-2008-nds-gamerip/02%2520-%2520Test.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 503316,
+      "filesize_mp3_bytes": 335544,
+      "track_number": 3,
+      "title": "Pause",
+      "runtime": 15,
+      "source_mp3": "https://vgmsite.com/soundtracks/driver-s-ed-portable-2008-nds-gamerip/rigrnvmfad/03%20-%20Pause.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/driver-s-ed-portable-2008-nds-gamerip/rigrnvmfad/03%20-%20Pause.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/driver-s-ed-portable-2008-nds-gamerip/03%2520-%2520Pause.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 296,
+    "filesize_mp3_bytes": 7224688,
+    "filesize_flac_bytes": 23425187,
+    "tracks": 3
+  }
+}

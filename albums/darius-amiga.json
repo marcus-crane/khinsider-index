@@ -1,0 +1,82 @@
+{
+  "title": "Darius+",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T14:44:23.604419+00:00",
+  "slug": "darius-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/darius-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/darius-amiga/D1.png"
+  ],
+  "year": 1989,
+  "date_added": "2019-03-25T00:00:00+00:00",
+  "developers": {
+    "Softek": "https://downloads.khinsider.com/game-soundtracks/developer/softek"
+  },
+  "publishers": {
+    "The Edge": "https://downloads.khinsider.com/game-soundtracks/publisher/the-edge"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7748976,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 307,
+      "source_mp3": "https://vgmsite.com/soundtracks/darius-amiga/lcarucah/01_Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/darius-amiga/01_Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3512729,
+      "track_number": 2,
+      "title": "Captain Neo (Main BGM)",
+      "runtime": 114,
+      "source_mp3": "https://vgmsite.com/soundtracks/darius-amiga/mveaaahh/02_Captain%20Neo%20%28Main%20BGM%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/darius-amiga/02_Captain%2520Neo%2520%2528Main%2520BGM%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1080033,
+      "track_number": 3,
+      "title": "Chaos (Boss Theme)",
+      "runtime": 32,
+      "source_mp3": "https://vgmsite.com/soundtracks/darius-amiga/xnchzuok/03_Chaos%20%28Boss%20Theme%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/darius-amiga/03_Chaos%2520%2528Boss%2520Theme%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3837788,
+      "track_number": 4,
+      "title": "Boss 1 (Zone Select)",
+      "runtime": 108,
+      "source_mp3": "https://vgmsite.com/soundtracks/darius-amiga/xzaborxz/04_Boss%201%20%28Zone%20Select%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/darius-amiga/04_Boss%25201%2520%2528Zone%2520Select%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2527068,
+      "track_number": 5,
+      "title": "Boss 2 (Unknown)",
+      "runtime": 79,
+      "source_mp3": "https://vgmsite.com/soundtracks/darius-amiga/pubfpzlu/05_Boss%202%20%28Unknown%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/darius-amiga/05_Boss%25202%2520%2528Unknown%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 640,
+    "filesize_mp3_bytes": 18706594,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

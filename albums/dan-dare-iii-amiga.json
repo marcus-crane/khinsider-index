@@ -1,0 +1,84 @@
+{
+  "title": "Dan Dare III",
+  "titles_alternative": [
+    "Dan Dare 3: The Escape"
+  ],
+  "crawled_at": "2023-09-21T14:16:51.873957+00:00",
+  "slug": "dan-dare-iii-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dan-dare-iii-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dan-dare-iii-amiga/Dan%20Dare%20III.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2019-05-20T00:00:00+00:00",
+  "developers": {
+    "Probe": "https://downloads.khinsider.com/game-soundtracks/developer/probe"
+  },
+  "publishers": {
+    "Virgin": "https://downloads.khinsider.com/game-soundtracks/publisher/virgin"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6952058,
+      "track_number": 1,
+      "title": "Opening",
+      "runtime": 235,
+      "source_mp3": "https://vgmsite.com/soundtracks/dan-dare-iii-amiga/zkwxwodf/01_Opening.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dan-dare-iii-amiga/01_Opening.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7119831,
+      "track_number": 2,
+      "title": "Main BGM",
+      "runtime": 235,
+      "source_mp3": "https://vgmsite.com/soundtracks/dan-dare-iii-amiga/nsnmcndr/02_Main%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dan-dare-iii-amiga/02_Main%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2306867,
+      "track_number": 3,
+      "title": "Pod to Next Level",
+      "runtime": 78,
+      "source_mp3": "https://vgmsite.com/soundtracks/dan-dare-iii-amiga/prpzyssn/03_Pod%20to%20Next%20Level.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dan-dare-iii-amiga/03_Pod%2520to%2520Next%2520Level.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1803550,
+      "track_number": 4,
+      "title": "Name Entry",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/dan-dare-iii-amiga/mrrtshrh/04_Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dan-dare-iii-amiga/04_Name%2520Entry.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2474639,
+      "track_number": 5,
+      "title": "Ending",
+      "runtime": 83,
+      "source_mp3": "https://vgmsite.com/soundtracks/dan-dare-iii-amiga/qqtklvvv/05_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dan-dare-iii-amiga/05_Ending.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 695,
+    "filesize_mp3_bytes": 20656945,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

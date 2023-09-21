@@ -1,0 +1,54 @@
+{
+  "title": "Dragon - The Bruce Lee Story",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T19:07:25.390435+00:00",
+  "slug": "dragon-the-bruce-lee-story-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dragon-the-bruce-lee-story-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dragon-the-bruce-lee-story-master-system/Dragon-SMS.png"
+  ],
+  "year": 1993,
+  "date_added": "2018-01-21T00:00:00+00:00",
+  "developers": {
+    "Virgin Games (EU)": "https://downloads.khinsider.com/game-soundtracks/developer/virgin-games-eu"
+  },
+  "publishers": {
+    "Virgin Games (EU)": "https://downloads.khinsider.com/game-soundtracks/publisher/virgin-games-eu"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9636413,
+      "filesize_mp3_bytes": 8241807,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 206,
+      "source_mp3": "https://vgmsite.com/soundtracks/dragon-the-bruce-lee-story-master-system/azkucojk/1%20Title.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dragon-the-bruce-lee-story-master-system/azkucojk/1%20Title.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dragon-the-bruce-lee-story-master-system/1%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3491758,
+      "filesize_mp3_bytes": 3219128,
+      "track_number": 2,
+      "title": "Credits",
+      "runtime": 80,
+      "source_mp3": "https://vgmsite.com/soundtracks/dragon-the-bruce-lee-story-master-system/ysmcrfwe/2%20Credits.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dragon-the-bruce-lee-story-master-system/ysmcrfwe/2%20Credits.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dragon-the-bruce-lee-story-master-system/2%2520Credits.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 286,
+    "filesize_mp3_bytes": 11460935,
+    "filesize_flac_bytes": 13128171,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "title": "Diner (Williams Pinball)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T16:43:17.013387+00:00",
+  "slug": "diner-williams-pinball-soundtrack",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/diner-williams-pinball-soundtrack",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/diner-williams-pinball-soundtrack/681f1.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2020-05-10T00:00:00+00:00",
+  "developers": {
+    "Williams": "https://downloads.khinsider.com/game-soundtracks/developer/williams"
+  },
+  "publishers": {
+    "Williams": "https://downloads.khinsider.com/game-soundtracks/publisher/williams"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2086666,
+      "track_number": 1,
+      "title": "Multiball",
+      "runtime": 52,
+      "source_mp3": "https://vgmsite.com/soundtracks/diner-williams-pinball-soundtrack/jvdqyaxshh/01%20Multiball.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/diner-williams-pinball-soundtrack/01%2520Multiball.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2013265,
+      "track_number": 2,
+      "title": "Game Over",
+      "runtime": 50,
+      "source_mp3": "https://vgmsite.com/soundtracks/diner-williams-pinball-soundtrack/pwvbyyxcgc/02%20Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/diner-williams-pinball-soundtrack/02%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2558525,
+      "track_number": 3,
+      "title": "Dine Time",
+      "runtime": 63,
+      "source_mp3": "https://vgmsite.com/soundtracks/diner-williams-pinball-soundtrack/xgphlcwuza/03%20Dine%20Time.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/diner-williams-pinball-soundtrack/03%2520Dine%2520Time.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2894069,
+      "track_number": 4,
+      "title": "Main Theme",
+      "runtime": 72,
+      "source_mp3": "https://vgmsite.com/soundtracks/diner-williams-pinball-soundtrack/xeghphzujm/04%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/diner-williams-pinball-soundtrack/04%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2002780,
+      "track_number": 5,
+      "title": "Main Theme 2",
+      "runtime": 50,
+      "source_mp3": "https://vgmsite.com/soundtracks/diner-williams-pinball-soundtrack/hgwnjohlzz/05%20Main%20Theme%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/diner-williams-pinball-soundtrack/05%2520Main%2520Theme%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 618659,
+      "track_number": 6,
+      "title": "Lounge Intro",
+      "runtime": 15,
+      "source_mp3": "https://vgmsite.com/soundtracks/diner-williams-pinball-soundtrack/gvsntpfqgh/06%20Lounge%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/diner-williams-pinball-soundtrack/06%2520Lounge%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1205862,
+      "track_number": 7,
+      "title": "Prelaunch",
+      "runtime": 30,
+      "source_mp3": "https://vgmsite.com/soundtracks/diner-williams-pinball-soundtrack/gfmzmosjdp/07%20Prelaunch.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/diner-williams-pinball-soundtrack/07%2520Prelaunch.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 332,
+    "filesize_mp3_bytes": 13379826,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

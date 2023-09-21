@@ -1,0 +1,234 @@
+{
+  "title": "Duck Hunt",
+  "titles_alternative": [
+    "\u30c0\u30c3\u30af\u30cf\u30f3\u30c8"
+  ],
+  "crawled_at": "2023-09-21T19:27:15.803169+00:00",
+  "slug": "duck-hunt",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/duck-hunt",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/duck-hunt/Duck%20Hunt%20Cover.jpg"
+  ],
+  "year": 1984,
+  "date_added": "2022-10-24T00:00:00+00:00",
+  "developers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/developer/nintendo"
+  },
+  "publishers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 199229,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/duck-hunt/knqjnucrsl/01%20-%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/duck-hunt/01%2520-%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 262144,
+      "track_number": 2,
+      "title": "Duck Hunt Intro",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/duck-hunt/kgmfgzxceh/02%20-%20Duck%20Hunt%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/duck-hunt/02%2520-%2520Duck%2520Hunt%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 230686,
+      "track_number": 3,
+      "title": "Clay Shooting Intro",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/duck-hunt/ypudvpbuhs/03%20-%20Clay%20Shooting%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/duck-hunt/03%2520-%2520Clay%2520Shooting%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 4,
+      "title": "Got Duck(s)",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/duck-hunt/azvlmbuhyc/04%20-%20Got%20Duck%28s%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/duck-hunt/04%2520-%2520Got%2520Duck%2528s%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 178257,
+      "track_number": 5,
+      "title": "Round Clear",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/duck-hunt/yspthabdpm/05%20-%20Round%20Clear.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/duck-hunt/05%2520-%2520Round%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 6,
+      "title": "Perfect",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/duck-hunt/jvuhcvrixh/06%20-%20Perfect.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/duck-hunt/06%2520-%2520Perfect.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 7,
+      "title": "You Failed",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/duck-hunt/khgigldbaq/07%20-%20You%20Failed.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/duck-hunt/07%2520-%2520You%2520Failed.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 178257,
+      "track_number": 8,
+      "title": "Game Over",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/duck-hunt/xdmwytktmd/08%20-%20Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/duck-hunt/08%2520-%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 99,
+      "title": "Bark! (SFX)",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/duck-hunt/lwblfifkqo/99%20-%20Bark%21%20%28SFX%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/duck-hunt/99%2520-%2520Bark%2521%2520%2528SFX%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 99,
+      "title": "Clay Shooting Whistle (SFX)",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/duck-hunt/jmaufotjbg/99%20-%20Clay%20Shooting%20Whistle%20%28SFX%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/duck-hunt/99%2520-%2520Clay%2520Shooting%2520Whistle%2520%2528SFX%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 99,
+      "title": "Counting Hits (SFX)",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/duck-hunt/kjfbwhdqco/99%20-%20Counting%20Hits%20%28SFX%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/duck-hunt/99%2520-%2520Counting%2520Hits%2520%2528SFX%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 99,
+      "title": "Dead Duck Falls (SFX)",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/duck-hunt/izlexlmrix/99%20-%20Dead%20Duck%20Falls%20%28SFX%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/duck-hunt/99%2520-%2520Dead%2520Duck%2520Falls%2520%2528SFX%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 99,
+      "title": "Dead Duck Lands (SFX)",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/duck-hunt/isevlklhtx/99%20-%20Dead%20Duck%20Lands%20%28SFX%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/duck-hunt/99%2520-%2520Dead%2520Duck%2520Lands%2520%2528SFX%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 99,
+      "title": "Disc Hit (SFX)",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/duck-hunt/irnyswzcbe/99%20-%20Disc%20Hit%20%28SFX%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/duck-hunt/99%2520-%2520Disc%2520Hit%2520%2528SFX%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 99,
+      "title": "Duck Flapping (SFX)",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/duck-hunt/arupsgmmfn/99%20-%20Duck%20Flapping%20%28SFX%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/duck-hunt/99%2520-%2520Duck%2520Flapping%2520%2528SFX%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 262144,
+      "track_number": 99,
+      "title": "Flying Disc (SFX)",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/duck-hunt/xieqckimqw/99%20-%20Flying%20Disc%20%28SFX%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/duck-hunt/99%2520-%2520Flying%2520Disc%2520%2528SFX%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 99,
+      "title": "Gunshot (SFX)",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/duck-hunt/rfcoajlvdc/99%20-%20Gunshot%20%28SFX%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/duck-hunt/99%2520-%2520Gunshot%2520%2528SFX%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 99,
+      "title": "Laugh (SFX)",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/duck-hunt/dbvurkqvjz/99%20-%20Laugh%20%28SFX%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/duck-hunt/99%2520-%2520Laugh%2520%2528SFX%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 99,
+      "title": "Pause (SFX)",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/duck-hunt/oxvghdeofk/99%20-%20Pause%20%28SFX%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/duck-hunt/99%2520-%2520Pause%2520%2528SFX%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 99,
+      "title": "Quack! (SFX)",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/duck-hunt/lctsktgcib/99%20-%20Quack%21%20%28SFX%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/duck-hunt/99%2520-%2520Quack%2521%2520%2528SFX%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 54,
+    "filesize_mp3_bytes": 2338313,
+    "filesize_flac_bytes": 0,
+    "tracks": 20
+  }
+}

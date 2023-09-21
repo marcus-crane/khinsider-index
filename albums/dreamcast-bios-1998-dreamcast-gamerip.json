@@ -1,0 +1,56 @@
+{
+  "title": "Dreamcast BIOS",
+  "titles_alternative": [
+    "\u30c9\u30ea\u30fc\u30e0\u30ad\u30e3\u30b9\u30c8"
+  ],
+  "crawled_at": "2023-09-21T19:17:48.065324+00:00",
+  "slug": "dreamcast-bios-1998-dreamcast-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dreamcast-bios-1998-dreamcast-gamerip",
+  "platforms": {
+    "Dreamcast": "https://downloads.khinsider.com/game-soundtracks/sega-dreamcast"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dreamcast-bios-1998-dreamcast-gamerip/IMG_2351.png"
+  ],
+  "year": 1998,
+  "date_added": "2020-05-06T00:00:00+00:00",
+  "developers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 775946,
+      "filesize_mp3_bytes": 272629,
+      "track_number": 1,
+      "title": "Dreamcast startup [1A95C0-1FF8BF]",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/dreamcast-bios-1998-dreamcast-gamerip/uiayluxxup/01%20Dreamcast%20startup%20%5B1A95C0-1FF8BF%5D.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dreamcast-bios-1998-dreamcast-gamerip/uiayluxxup/01%20Dreamcast%20startup%20%5B1A95C0-1FF8BF%5D.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dreamcast-bios-1998-dreamcast-gamerip/01%2520Dreamcast%2520startup%2520%255B1A95C0-1FF8BF%255D.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1017118,
+      "filesize_mp3_bytes": 272629,
+      "track_number": 2,
+      "title": "Dreamcast Katana Dev.Box startup [1A95C0-1FF93F]",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/dreamcast-bios-1998-dreamcast-gamerip/ehgvtrzoig/02%20Dreamcast%20Katana%20Dev.Box%20startup%20%5B1A95C0-1FF93F%5D.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dreamcast-bios-1998-dreamcast-gamerip/ehgvtrzoig/02%20Dreamcast%20Katana%20Dev.Box%20startup%20%5B1A95C0-1FF93F%5D.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dreamcast-bios-1998-dreamcast-gamerip/02%2520Dreamcast%2520Katana%2520Dev.Box%2520startup%2520%255B1A95C0-1FF93F%255D.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 16,
+    "filesize_mp3_bytes": 545258,
+    "filesize_flac_bytes": 1793064,
+    "tracks": 2
+  }
+}

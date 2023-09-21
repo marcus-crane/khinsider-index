@@ -1,0 +1,50 @@
+{
+  "title": "Duplo",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T19:42:26.229677+00:00",
+  "slug": "duplo-2010",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/duplo-2010",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/duplo-2010/_preview.jpg"
+  ],
+  "year": 2010,
+  "date_added": "2023-07-28T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Unproductive Fun Time": "https://downloads.khinsider.com/game-soundtracks/publisher/unproductive-fun-time"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2443182,
+      "track_number": 1,
+      "title": "Close Call",
+      "runtime": 118,
+      "source_mp3": "https://vgmsite.com/soundtracks/duplo-2010/fsvkkboocj/01.%20Close%20Call.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/duplo-2010/01.%2520Close%2520Call.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1719664,
+      "track_number": 2,
+      "title": "Something Fishy",
+      "runtime": 84,
+      "source_mp3": "https://vgmsite.com/soundtracks/duplo-2010/rstlriolbr/02.%20Something%20Fishy.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/duplo-2010/02.%2520Something%2520Fishy.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 202,
+    "filesize_mp3_bytes": 4162846,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

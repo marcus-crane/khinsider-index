@@ -1,0 +1,87 @@
+{
+  "title": "Domino Man (Midway MCR)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T17:36:34.923379+00:00",
+  "slug": "domino-man-midway-mcr-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/domino-man-midway-mcr-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/domino-man-midway-mcr-arcade/DM.jpg"
+  ],
+  "year": 1982,
+  "date_added": "2022-04-07T00:00:00+00:00",
+  "developers": {
+    "Marvin Glass and Associates": "https://downloads.khinsider.com/game-soundtracks/developer/marvin-glass-and-associates"
+  },
+  "publishers": {
+    "Bally Midway": "https://downloads.khinsider.com/game-soundtracks/publisher/bally-midway"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 52428,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 1,
+      "title": "Coin",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/domino-man-midway-mcr-arcade/fbtmfrludo/01%20Coin.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/domino-man-midway-mcr-arcade/fbtmfrludo/01%20Coin.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/domino-man-midway-mcr-arcade/01%2520Coin.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2852126,
+      "filesize_mp3_bytes": 1730150,
+      "track_number": 2,
+      "title": "Main Theme",
+      "runtime": 89,
+      "source_mp3": "https://vgmsite.com/soundtracks/domino-man-midway-mcr-arcade/iddfnedaur/02%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/domino-man-midway-mcr-arcade/iddfnedaur/02%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/domino-man-midway-mcr-arcade/02%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 83886,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 3,
+      "title": "Bow",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/domino-man-midway-mcr-arcade/ulhlgrnjmw/03%20Bow.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/domino-man-midway-mcr-arcade/ulhlgrnjmw/03%20Bow.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/domino-man-midway-mcr-arcade/03%2520Bow.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 73400,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 4,
+      "title": "Miss",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/domino-man-midway-mcr-arcade/macrwtikgz/04%20Miss.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/domino-man-midway-mcr-arcade/macrwtikgz/04%20Miss.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/domino-man-midway-mcr-arcade/04%2520Miss.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 346030,
+      "filesize_mp3_bytes": 188743,
+      "track_number": 5,
+      "title": "Intermission",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/domino-man-midway-mcr-arcade/mrhtgqxnyd/05%20Intermission.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/domino-man-midway-mcr-arcade/mrhtgqxnyd/05%20Intermission.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/domino-man-midway-mcr-arcade/05%2520Intermission.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 112,
+    "filesize_mp3_bytes": 2086664,
+    "filesize_flac_bytes": 3407870,
+    "tracks": 5
+  }
+}

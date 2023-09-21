@@ -1,0 +1,47 @@
+{
+  "title": "Duck Maze (Unlicensed)",
+  "titles_alternative": [
+    "\u919c\u5c0f\u9d28"
+  ],
+  "crawled_at": "2023-09-21T19:27:37.472337+00:00",
+  "slug": "duck-maze-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/duck-maze-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/duck-maze-nes/Duck%20Maze.png"
+  ],
+  "year": 1987,
+  "date_added": "2022-06-13T00:00:00+00:00",
+  "developers": {
+    "Bit Corporation": "https://downloads.khinsider.com/game-soundtracks/developer/bit-corporation"
+  },
+  "publishers": {
+    "Bit Corporation": "https://downloads.khinsider.com/game-soundtracks/publisher/bit-corporation",
+    "Dismac": "https://downloads.khinsider.com/game-soundtracks/publisher/dismac",
+    "HES Interactive": "https://downloads.khinsider.com/game-soundtracks/publisher/hes-interactive"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5945425,
+      "filesize_mp3_bytes": 2327838,
+      "track_number": 1,
+      "title": "Main BGM",
+      "runtime": 112,
+      "source_mp3": "https://vgmsite.com/soundtracks/duck-maze-nes/ufrinqovke/01%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/duck-maze-nes/ufrinqovke/01%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/duck-maze-nes/01%2520Main%2520BGM.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 112,
+    "filesize_mp3_bytes": 2327838,
+    "filesize_flac_bytes": 5945425,
+    "tracks": 1
+  }
+}

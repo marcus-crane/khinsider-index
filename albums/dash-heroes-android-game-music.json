@@ -1,0 +1,75 @@
+{
+  "title": "Dash Heroes (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T15:02:20.476201+00:00",
+  "slug": "dash-heroes-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dash-heroes-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dash-heroes-android-game-music/1.jpg"
+  ],
+  "date_added": "2017-11-24T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 440401,
+      "track_number": 1,
+      "title": "op",
+      "runtime": 72,
+      "source_mp3": "https://vgmsite.com/soundtracks/dash-heroes-android-game-music/qxdbvcoi/1%20op.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dash-heroes-android-game-music/1%2520op.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 964689,
+      "track_number": 2,
+      "title": "main_bgm",
+      "runtime": 242,
+      "source_mp3": "https://vgmsite.com/soundtracks/dash-heroes-android-game-music/dfiweckm/2%20main_bgm.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dash-heroes-android-game-music/2%2520main_bgm.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 702545,
+      "track_number": 3,
+      "title": "battle_bgm",
+      "runtime": 174,
+      "source_mp3": "https://vgmsite.com/soundtracks/dash-heroes-android-game-music/vcvjoktz/3%20battle_bgm.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dash-heroes-android-game-music/3%2520battle_bgm.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 188743,
+      "track_number": 4,
+      "title": "battle_result",
+      "runtime": 47,
+      "source_mp3": "https://vgmsite.com/soundtracks/dash-heroes-android-game-music/epjrenal/4%20battle_result.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dash-heroes-android-game-music/4%2520battle_result.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 304087,
+      "track_number": 5,
+      "title": "battle_result_time",
+      "runtime": 76,
+      "source_mp3": "https://vgmsite.com/soundtracks/dash-heroes-android-game-music/lpcwocns/5%20battle_result_time.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dash-heroes-android-game-music/5%2520battle_result_time.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 611,
+    "filesize_mp3_bytes": 2600465,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

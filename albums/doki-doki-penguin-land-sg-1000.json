@@ -1,0 +1,89 @@
+{
+  "title": "Doki Doki Penguin Land (SG-1000)",
+  "titles_alternative": [
+    "\u3069\u304d\u3069\u304d\u30da\u30f3\u30ae\u30f3\u30e9\u30f3\u30c9"
+  ],
+  "crawled_at": "2023-09-21T17:31:25.307976+00:00",
+  "slug": "doki-doki-penguin-land-sg-1000",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/doki-doki-penguin-land-sg-1000",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/doki-doki-penguin-land-sg-1000/Doki%20Doki%20Penguin%20Land%20%28SG-1000%29.png"
+  ],
+  "year": 1985,
+  "date_added": "2020-07-01T00:00:00+00:00",
+  "developers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 650117,
+      "filesize_mp3_bytes": 251658,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 12,
+      "source_mp3": "https://vgmsite.com/soundtracks/doki-doki-penguin-land-sg-1000/unmurvffgx/01%20-%20Title.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/doki-doki-penguin-land-sg-1000/unmurvffgx/01%20-%20Title.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/doki-doki-penguin-land-sg-1000/01%2520-%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2925527,
+      "filesize_mp3_bytes": 1226833,
+      "track_number": 2,
+      "title": "Start - Main BGM",
+      "runtime": 61,
+      "source_mp3": "https://vgmsite.com/soundtracks/doki-doki-penguin-land-sg-1000/hpfkjrukch/02%20-%20Start%20-%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/doki-doki-penguin-land-sg-1000/hpfkjrukch/02%20-%20Start%20-%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/doki-doki-penguin-land-sg-1000/02%2520-%2520Start%2520-%2520Main%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 62914,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 3,
+      "title": "Round Clear",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/doki-doki-penguin-land-sg-1000/fayxponrhd/03%20-%20Round%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/doki-doki-penguin-land-sg-1000/fayxponrhd/03%20-%20Round%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/doki-doki-penguin-land-sg-1000/03%2520-%2520Round%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 241172,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/doki-doki-penguin-land-sg-1000/qgdhbhwpov/04%20-%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/doki-doki-penguin-land-sg-1000/qgdhbhwpov/04%20-%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/doki-doki-penguin-land-sg-1000/04%2520-%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2757754,
+      "filesize_mp3_bytes": 1174405,
+      "track_number": 5,
+      "title": "Main BGM",
+      "runtime": 58,
+      "source_mp3": "https://vgmsite.com/soundtracks/doki-doki-penguin-land-sg-1000/sblhdompmf/05%20-%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/doki-doki-penguin-land-sg-1000/sblhdompmf/05%20-%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/doki-doki-penguin-land-sg-1000/05%2520-%2520Main%2520BGM.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 136,
+    "filesize_mp3_bytes": 2757753,
+    "filesize_flac_bytes": 6637484,
+    "tracks": 5
+  }
+}

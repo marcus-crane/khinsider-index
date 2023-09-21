@@ -1,0 +1,54 @@
+{
+  "title": "Dizzy Down the Rapids (ZX Spectrum 128)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T17:13:33.873309+00:00",
+  "slug": "dizzy-down-the-rapids-zx-spectrum-128",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dizzy-down-the-rapids-zx-spectrum-128",
+  "platforms": {
+    "Spectrum": "https://downloads.khinsider.com/game-soundtracks/spectrum"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dizzy-down-the-rapids-zx-spectrum-128/Dizzy%20Down%20the%20Rapids.png"
+  ],
+  "year": 1991,
+  "date_added": "2022-04-07T00:00:00+00:00",
+  "developers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/developer/codemasters"
+  },
+  "publishers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/publisher/codemasters"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 12666798,
+      "filesize_mp3_bytes": 6259998,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 278,
+      "source_mp3": "https://vgmsite.com/soundtracks/dizzy-down-the-rapids-zx-spectrum-128/luwallzcfx/01%20Title.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dizzy-down-the-rapids-zx-spectrum-128/luwallzcfx/01%20Title.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dizzy-down-the-rapids-zx-spectrum-128/01%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 167772,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 2,
+      "title": "Start ~ Game Over",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/dizzy-down-the-rapids-zx-spectrum-128/mjvmubqefs/02%20Start%20~%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dizzy-down-the-rapids-zx-spectrum-128/mjvmubqefs/02%20Start%20~%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dizzy-down-the-rapids-zx-spectrum-128/02%2520Start%2520~%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 283,
+    "filesize_mp3_bytes": 6354369,
+    "filesize_flac_bytes": 12834570,
+    "tracks": 2
+  }
+}

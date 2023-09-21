@@ -1,0 +1,101 @@
+{
+  "title": "Dragon Crystal",
+  "titles_alternative": [
+    "Dragon Crystal: Tsurani no Meikyu",
+    "\u30c9\u30e9\u30b4\u30f3\u30af\u30ea\u30b9\u30bf\u30eb \u2015\u30c4\u30e9\u30cb\u306e\u8ff7\u5bae\u2015"
+  ],
+  "crawled_at": "2023-09-21T18:47:23.236434+00:00",
+  "slug": "dragon-crystal-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dragon-crystal-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dragon-crystal-master-system/DragonCrystal-SMS.png"
+  ],
+  "year": 1991,
+  "date_added": "2018-01-21T00:00:00+00:00",
+  "developers": {
+    "Sanritsu": "https://downloads.khinsider.com/game-soundtracks/developer/sanritsu"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2034237,
+      "filesize_mp3_bytes": 1551892,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 39,
+      "source_mp3": "https://vgmsite.com/soundtracks/dragon-crystal-master-system/nponzlva/1%20-%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dragon-crystal-master-system/nponzlva/1%20-%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dragon-crystal-master-system/1%2520-%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5662310,
+      "filesize_mp3_bytes": 4246732,
+      "track_number": 2,
+      "title": "Levels 1 to 10",
+      "runtime": 106,
+      "source_mp3": "https://vgmsite.com/soundtracks/dragon-crystal-master-system/cqusxqcw/2%20-%20Levels%201%20to%2010.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dragon-crystal-master-system/cqusxqcw/2%20-%20Levels%201%20to%2010.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dragon-crystal-master-system/2%2520-%2520Levels%25201%2520to%252010.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7486832,
+      "filesize_mp3_bytes": 5525995,
+      "track_number": 3,
+      "title": "Levels 11 to 20",
+      "runtime": 138,
+      "source_mp3": "https://vgmsite.com/soundtracks/dragon-crystal-master-system/xheplzar/3%20-%20Levels%2011%20to%2020.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dragon-crystal-master-system/xheplzar/3%20-%20Levels%2011%20to%2020.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dragon-crystal-master-system/3%2520-%2520Levels%252011%2520to%252020.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6102712,
+      "filesize_mp3_bytes": 5012193,
+      "track_number": 4,
+      "title": "Levels 21 to 30",
+      "runtime": 125,
+      "source_mp3": "https://vgmsite.com/soundtracks/dragon-crystal-master-system/jhvciwmp/4%20-%20Levels%2021%20to%2030.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dragon-crystal-master-system/jhvciwmp/4%20-%20Levels%2021%20to%2030.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dragon-crystal-master-system/4%2520-%2520Levels%252021%2520to%252030.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2369781,
+      "filesize_mp3_bytes": 1793064,
+      "track_number": 5,
+      "title": "Ending",
+      "runtime": 45,
+      "source_mp3": "https://vgmsite.com/soundtracks/dragon-crystal-master-system/xzkvvced/5%20-%20Ending.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dragon-crystal-master-system/xzkvvced/5%20-%20Ending.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dragon-crystal-master-system/5%2520-%2520Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 136314,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 6,
+      "title": "Game Over",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/dragon-crystal-master-system/ngtvaafk/6%20-%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dragon-crystal-master-system/ngtvaafk/6%20-%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dragon-crystal-master-system/6%2520-%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 455,
+    "filesize_mp3_bytes": 18213762,
+    "filesize_flac_bytes": 23792186,
+    "tracks": 6
+  }
+}

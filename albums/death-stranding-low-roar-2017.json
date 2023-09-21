@@ -1,0 +1,53 @@
+{
+  "title": "Death Stranding (Low Roar)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T15:38:13.100687+00:00",
+  "slug": "death-stranding-low-roar-2017",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/death-stranding-low-roar-2017",
+  "platforms": {
+    "PS4": "https://downloads.khinsider.com/game-soundtracks/playstation-4"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/death-stranding-low-roar-2017/cover.jpg"
+  ],
+  "year": 2017,
+  "catalog_number": "MOND-102",
+  "date_added": "2021-01-18T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Mondo": "https://downloads.khinsider.com/game-soundtracks/publisher/mondo"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 40506490,
+      "filesize_mp3_bytes": 11932794,
+      "track_number": 1,
+      "title": "I'll Keep Coming",
+      "runtime": 352,
+      "source_mp3": "https://vgmsite.com/soundtracks/death-stranding-low-roar-2017/pncxcshifs/01.%20I%27ll%20Keep%20Coming.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/death-stranding-low-roar-2017/pncxcshifs/01.%20I%27ll%20Keep%20Coming.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/death-stranding-low-roar-2017/01.%2520I%2527ll%2520Keep%2520Coming.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 31362908,
+      "filesize_mp3_bytes": 9143582,
+      "track_number": 2,
+      "title": "Easy Way Out",
+      "runtime": 289,
+      "source_mp3": "https://vgmsite.com/soundtracks/death-stranding-low-roar-2017/wsmzuinsre/02.%20Easy%20Way%20Out.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/death-stranding-low-roar-2017/wsmzuinsre/02.%20Easy%20Way%20Out.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/death-stranding-low-roar-2017/02.%2520Easy%2520Way%2520Out.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 641,
+    "filesize_mp3_bytes": 21076376,
+    "filesize_flac_bytes": 71869398,
+    "tracks": 2
+  }
+}

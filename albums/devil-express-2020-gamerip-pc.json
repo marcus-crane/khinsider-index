@@ -1,0 +1,73 @@
+{
+  "title": "Devil Express",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T16:20:59.326294+00:00",
+  "slug": "devil-express-2020-gamerip-pc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/devil-express-2020-gamerip-pc",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/devil-express-2020-gamerip-pc/cover1.png"
+  ],
+  "year": 2020,
+  "date_added": "2022-05-17T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1195376,
+      "title": "Amb Outsideamb",
+      "runtime": 41,
+      "source_mp3": "https://vgmsite.com/soundtracks/devil-express-2020-gamerip-pc/bpjdrnkrlu/Amb%20Outsideamb.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/devil-express-2020-gamerip-pc/Amb%2520Outsideamb.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2652897,
+      "title": "Jello Helicopter",
+      "runtime": 87,
+      "source_mp3": "https://vgmsite.com/soundtracks/devil-express-2020-gamerip-pc/sewzoebgst/Jello%20Helicopter.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/devil-express-2020-gamerip-pc/Jello%2520Helicopter.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3103784,
+      "title": "Warewolf Dance",
+      "runtime": 105,
+      "source_mp3": "https://vgmsite.com/soundtracks/devil-express-2020-gamerip-pc/vovffdvpgc/Warewolf%20Dance.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/devil-express-2020-gamerip-pc/Warewolf%2520Dance.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6889144,
+      "title": "Warewolf Ending",
+      "runtime": 229,
+      "source_mp3": "https://vgmsite.com/soundtracks/devil-express-2020-gamerip-pc/vprjdpubjr/Warewolf%20Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/devil-express-2020-gamerip-pc/Warewolf%2520Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 744488,
+      "title": "Worf Opening",
+      "runtime": 27,
+      "source_mp3": "https://vgmsite.com/soundtracks/devil-express-2020-gamerip-pc/hhqetedjlc/Worf%20Opening.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/devil-express-2020-gamerip-pc/Worf%2520Opening.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 489,
+    "filesize_mp3_bytes": 14585689,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

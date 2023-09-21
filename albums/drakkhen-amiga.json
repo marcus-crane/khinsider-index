@@ -1,0 +1,64 @@
+{
+  "title": "Drakkhen",
+  "titles_alternative": [
+    "\u30c9\u30e9\u30c3\u30b1\u30f3"
+  ],
+  "crawled_at": "2023-09-21T19:12:07.404046+00:00",
+  "slug": "drakkhen-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/drakkhen-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/drakkhen-amiga/16240357-drakkhen-amiga-loading-screen.png"
+  ],
+  "year": 1990,
+  "date_added": "2015-12-21T00:00:00+00:00",
+  "developers": {
+    "Infogrames": "https://downloads.khinsider.com/game-soundtracks/developer/infogrames"
+  },
+  "publishers": {
+    "Infogrames": "https://downloads.khinsider.com/game-soundtracks/publisher/infogrames"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1048576,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 39,
+      "source_mp3": "https://vgmsite.com/soundtracks/drakkhen-amiga/auqsqccq/01_Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/drakkhen-amiga/01_Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4414504,
+      "track_number": 2,
+      "title": "Character Creation",
+      "runtime": 146,
+      "source_mp3": "https://vgmsite.com/soundtracks/drakkhen-amiga/iichired/02_Character%20Creation.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/drakkhen-amiga/02_Character%2520Creation.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2956984,
+      "track_number": 3,
+      "title": "Ending",
+      "runtime": 109,
+      "source_mp3": "https://vgmsite.com/soundtracks/drakkhen-amiga/kwlchezc/03_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/drakkhen-amiga/03_Ending.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 294,
+    "filesize_mp3_bytes": 8420064,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

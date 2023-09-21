@@ -1,0 +1,45 @@
+{
+  "title": "Dark Castle",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T14:47:53.392284+00:00",
+  "slug": "dark-castle-genesis-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dark-castle-genesis-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dark-castle-genesis-genesis/D1.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2020-03-04T00:00:00+00:00",
+  "developers": {
+    "Artech": "https://downloads.khinsider.com/game-soundtracks/developer/artech",
+    "Silicon Beach": "https://downloads.khinsider.com/game-soundtracks/developer/silicon-beach",
+    "Three-Sixty Pacific": "https://downloads.khinsider.com/game-soundtracks/developer/three-sixty-pacific"
+  },
+  "publishers": {
+    "EA": "https://downloads.khinsider.com/game-soundtracks/publisher/ea"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 33522974,
+      "filesize_mp3_bytes": 13883146,
+      "track_number": 1,
+      "title": "Toccata and Fugue in D minor",
+      "runtime": 767,
+      "source_mp3": "https://vgmsite.com/soundtracks/dark-castle-genesis-genesis/vtvrancpol/01%20-%20Toccata%20and%20Fugue%20in%20D%20minor.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dark-castle-genesis-genesis/vtvrancpol/01%20-%20Toccata%20and%20Fugue%20in%20D%20minor.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dark-castle-genesis-genesis/01%2520-%2520Toccata%2520and%2520Fugue%2520in%2520D%2520minor.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 767,
+    "filesize_mp3_bytes": 13883146,
+    "filesize_flac_bytes": 33522974,
+    "tracks": 1
+  }
+}

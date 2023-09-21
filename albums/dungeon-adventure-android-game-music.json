@@ -1,0 +1,44 @@
+{
+  "title": "Dungeon & Adventure (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T19:34:05.175985+00:00",
+  "slug": "dungeon-adventure-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dungeon-adventure-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dungeon-adventure-android-game-music/1.jpeg"
+  ],
+  "year": 2007,
+  "date_added": "2016-06-04T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6637486,
+      "title": "musicDungeon",
+      "runtime": 249,
+      "source_mp3": "https://vgmsite.com/soundtracks/dungeon-adventure-android-game-music/jxqzhtjd/musicDungeon.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dungeon-adventure-android-game-music/musicDungeon.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4424990,
+      "title": "musicMain",
+      "runtime": 166,
+      "source_mp3": "https://vgmsite.com/soundtracks/dungeon-adventure-android-game-music/frxuxbxz/musicMain.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dungeon-adventure-android-game-music/musicMain.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 415,
+    "filesize_mp3_bytes": 11062476,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

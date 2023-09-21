@@ -1,0 +1,95 @@
+{
+  "title": "Daisenpu Custom (PC Engine CD)",
+  "titles_alternative": [
+    "Twin Hawk",
+    "\u5927\u65cb\u98a8\u30ab\u30b9\u30bf\u30e0"
+  ],
+  "crawled_at": "2023-09-21T14:14:06.712154+00:00",
+  "slug": "daisenpu-custom-twin-hawk-turbografx-16",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/daisenpu-custom-twin-hawk-turbografx-16",
+  "platforms": {
+    "TurboGrafx-16": "https://downloads.khinsider.com/game-soundtracks/turbografx-16"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/daisenpu-custom-twin-hawk-turbografx-16/C.png"
+  ],
+  "year": 1991,
+  "date_added": "2016-08-28T00:00:00+00:00",
+  "developers": {
+    "Toaplan": "https://downloads.khinsider.com/game-soundtracks/developer/toaplan"
+  },
+  "publishers": {
+    "NEC": "https://downloads.khinsider.com/game-soundtracks/publisher/nec"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 513802,
+      "track_number": 1,
+      "title": "Opening",
+      "runtime": 21,
+      "source_mp3": "https://vgmsite.com/soundtracks/daisenpu-custom-twin-hawk-turbografx-16/foyphvaf/01-Opening.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/daisenpu-custom-twin-hawk-turbografx-16/01-Opening.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10160701,
+      "track_number": 2,
+      "title": "Ingame 1",
+      "runtime": 423,
+      "source_mp3": "https://vgmsite.com/soundtracks/daisenpu-custom-twin-hawk-turbografx-16/gufbnsfk/02-Ingame%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/daisenpu-custom-twin-hawk-turbografx-16/02-Ingame%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10202644,
+      "track_number": 3,
+      "title": "Ingame 2",
+      "runtime": 425,
+      "source_mp3": "https://vgmsite.com/soundtracks/daisenpu-custom-twin-hawk-turbografx-16/qazhnfpr/03-Ingame%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/daisenpu-custom-twin-hawk-turbografx-16/03-Ingame%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10391388,
+      "track_number": 4,
+      "title": "Ingame 3",
+      "runtime": 433,
+      "source_mp3": "https://vgmsite.com/soundtracks/daisenpu-custom-twin-hawk-turbografx-16/fzjbqium/04-Ingame%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/daisenpu-custom-twin-hawk-turbografx-16/04-Ingame%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10601103,
+      "track_number": 5,
+      "title": "Ingame 4",
+      "runtime": 442,
+      "source_mp3": "https://vgmsite.com/soundtracks/daisenpu-custom-twin-hawk-turbografx-16/irmhquwy/05-Ingame%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/daisenpu-custom-twin-hawk-turbografx-16/05-Ingame%25204.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 188743,
+      "track_number": 6,
+      "title": "Game Over",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/daisenpu-custom-twin-hawk-turbografx-16/czrikhaa/06-Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/daisenpu-custom-twin-hawk-turbografx-16/06-Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1752,
+    "filesize_mp3_bytes": 42058381,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

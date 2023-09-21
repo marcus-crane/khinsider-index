@@ -1,0 +1,85 @@
+{
+  "title": "Eberouge Densetsu",
+  "titles_alternative": [
+    "\u30a8\u30fc\u30d9\u30eb\u30fc\u30b8\u30e5\u4f1d\u8aac",
+    "Eberouge Legend"
+  ],
+  "crawled_at": "2023-09-21T20:00:10.851884+00:00",
+  "slug": "eberouge-legend",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/eberouge-legend",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation",
+    "Saturn": "https://downloads.khinsider.com/game-soundtracks/sega-saturn"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/eberouge-legend/7005-1203184144.jpg"
+  ],
+  "year": 1996,
+  "catalog_number": "KICA-10001",
+  "date_added": "2022-07-22T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Fujitsu Limited": "https://downloads.khinsider.com/game-soundtracks/publisher/fujitsu-limited"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4823449,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 301,
+      "source_mp3": "https://vgmsite.com/soundtracks/eberouge-legend/pjtoutjcaz/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/eberouge-legend/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5263851,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 329,
+      "source_mp3": "https://vgmsite.com/soundtracks/eberouge-legend/jvhclvhyve/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/eberouge-legend/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4729077,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 295,
+      "source_mp3": "https://vgmsite.com/soundtracks/eberouge-legend/evhoqxlkzf/03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/eberouge-legend/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 16515072,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 1032,
+      "source_mp3": "https://vgmsite.com/soundtracks/eberouge-legend/jczvxwuhyh/04.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/eberouge-legend/04.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 15927869,
+      "track_number": 5,
+      "title": "Track 5",
+      "runtime": 995,
+      "source_mp3": "https://vgmsite.com/soundtracks/eberouge-legend/ypeppotduc/05.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/eberouge-legend/05.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2952,
+    "filesize_mp3_bytes": 47259318,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

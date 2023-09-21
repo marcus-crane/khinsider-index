@@ -1,0 +1,52 @@
+{
+  "title": "Dizasterblaster",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T17:13:32.253096+00:00",
+  "slug": "dizasterblaster-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dizasterblaster-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dizasterblaster-commodore-64/Dizasterblaster.jpg"
+  ],
+  "year": 1984,
+  "date_added": "2016-02-07T00:00:00+00:00",
+  "developers": {
+    "Alternative Software": "https://downloads.khinsider.com/game-soundtracks/developer/alternative-software"
+  },
+  "publishers": {
+    "Alternative Software": "https://downloads.khinsider.com/game-soundtracks/publisher/alternative-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3282042,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 130,
+      "source_mp3": "https://vgmsite.com/soundtracks/dizasterblaster-commodore-64/rxzbtgxl/01_Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dizasterblaster-commodore-64/01_Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5463080,
+      "track_number": 2,
+      "title": "Main Theme (SID Stereo)",
+      "runtime": 139,
+      "source_mp3": "https://vgmsite.com/soundtracks/dizasterblaster-commodore-64/vhnibgwz/02_Main%20Theme%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dizasterblaster-commodore-64/02_Main%2520Theme%2520%2528SID%2520Stereo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 269,
+    "filesize_mp3_bytes": 8745122,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

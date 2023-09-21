@@ -1,0 +1,45 @@
+{
+  "title": "Dirty Racing",
+  "titles_alternative": [
+    "\u30c0\u30fc\u30c6\u30a3\u30fb\u30ec\u30fc\u30b7\u30f3\u30b0"
+  ],
+  "crawled_at": "2023-09-21T16:50:11.902880+00:00",
+  "slug": "dirty-racing-1993-gb",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dirty-racing-1993-gb",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dirty-racing-1993-gb/Dirty%20Racing.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2022-04-04T00:00:00+00:00",
+  "developers": {
+    "Gremlin": "https://downloads.khinsider.com/game-soundtracks/developer/gremlin"
+  },
+  "publishers": {
+    "Jaleco": "https://downloads.khinsider.com/game-soundtracks/publisher/jaleco"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 18863882,
+      "filesize_mp3_bytes": 6354370,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/dirty-racing-1993-gb/zjiuqfvnlv/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dirty-racing-1993-gb/zjiuqfvnlv/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dirty-racing-1993-gb/01%2520BGM%2520%252301.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 180,
+    "filesize_mp3_bytes": 6354370,
+    "filesize_flac_bytes": 18863882,
+    "tracks": 1
+  }
+}

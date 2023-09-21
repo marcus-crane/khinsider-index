@@ -1,0 +1,45 @@
+{
+  "title": "DragonutZ - Tiny Warrior",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T19:11:10.365340+00:00",
+  "slug": "dragonutz-tiny-warrior-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dragonutz-tiny-warrior-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dragonutz-tiny-warrior-android/1.png"
+  ],
+  "date_added": "2017-03-14T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2453667,
+      "title": "CoolMusic",
+      "runtime": 153,
+      "source_mp3": "https://vgmsite.com/soundtracks/dragonutz-tiny-warrior-android/xirfoitd/CoolMusic.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dragonutz-tiny-warrior-android/CoolMusic.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 660602,
+      "title": "DST-Everstar",
+      "runtime": 55,
+      "source_mp3": "https://vgmsite.com/soundtracks/dragonutz-tiny-warrior-android/pjawtcee/DST-Everstar.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dragonutz-tiny-warrior-android/DST-Everstar.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 208,
+    "filesize_mp3_bytes": 3114269,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "title": "Deer Drive",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T15:45:19.353339+00:00",
+  "slug": "deer-drive-2010-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/deer-drive-2010-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/deer-drive-2010-nds-gamerip/Deer%20Drive.jpg"
+  ],
+  "year": 2010,
+  "date_added": "2020-06-04T00:00:00+00:00",
+  "developers": {
+    "Mastiff": "https://downloads.khinsider.com/game-soundtracks/developer/mastiff"
+  },
+  "publishers": {
+    "Mastiff": "https://downloads.khinsider.com/game-soundtracks/publisher/mastiff"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 209715,
+      "filesize_mp3_bytes": 73400,
+      "title": "BGM Complete",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/deer-drive-2010-nds-gamerip/wrpwsszsjc/BGM%20Complete.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/deer-drive-2010-nds-gamerip/wrpwsszsjc/BGM%20Complete.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/deer-drive-2010-nds-gamerip/BGM%2520Complete.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6322913,
+      "filesize_mp3_bytes": 2160066,
+      "title": "BGM Menu",
+      "runtime": 65,
+      "source_mp3": "https://vgmsite.com/soundtracks/deer-drive-2010-nds-gamerip/dejcovfkpy/BGM%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/deer-drive-2010-nds-gamerip/dejcovfkpy/BGM%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/deer-drive-2010-nds-gamerip/BGM%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 230686,
+      "filesize_mp3_bytes": 83886,
+      "title": "BGM Missionfail",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/deer-drive-2010-nds-gamerip/mjvphgdlma/BGM%20Missionfail.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/deer-drive-2010-nds-gamerip/mjvphgdlma/BGM%20Missionfail.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/deer-drive-2010-nds-gamerip/BGM%2520Missionfail.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 70,
+    "filesize_mp3_bytes": 2317352,
+    "filesize_flac_bytes": 6763314,
+    "tracks": 3
+  }
+}

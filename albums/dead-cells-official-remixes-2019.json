@@ -1,0 +1,83 @@
+{
+  "title": "Dead Cells Official Remixes",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T15:17:13.651276+00:00",
+  "slug": "dead-cells-official-remixes-2019",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dead-cells-official-remixes-2019",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios",
+    "Linux": "https://downloads.khinsider.com/game-soundtracks/linux",
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "PS4": "https://downloads.khinsider.com/game-soundtracks/playstation-4",
+    "Switch": "https://downloads.khinsider.com/game-soundtracks/nintendo-switch",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows",
+    "Xbox One": "https://downloads.khinsider.com/game-soundtracks/xbox-one"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dead-cells-official-remixes-2019/cover.jpg"
+  ],
+  "year": 2019,
+  "date_added": "2022-10-11T00:00:00+00:00",
+  "developers": {
+    "Yoann Laulan": "https://downloads.khinsider.com/game-soundtracks/developer/yoann-laulan"
+  },
+  "publishers": {
+    "Motion Twin": "https://downloads.khinsider.com/game-soundtracks/publisher/motion-twin"
+  },
+  "genres": {
+    "Remix": "https://downloads.khinsider.com/game-soundtracks/remixes"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 29097984,
+      "filesize_mp3_bytes": 9583984,
+      "track_number": 1,
+      "title": "Dance Cells",
+      "runtime": 304,
+      "source_mp3": "https://vgmsite.com/soundtracks/dead-cells-official-remixes-2019/ejppsqmyae/01.%20Dance%20Cells.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dead-cells-official-remixes-2019/ejppsqmyae/01.%20Dance%20Cells.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dead-cells-official-remixes-2019/01.%2520Dance%2520Cells.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 37906022,
+      "filesize_mp3_bytes": 10684989,
+      "track_number": 2,
+      "title": "Neon Promenade 1997",
+      "runtime": 320,
+      "source_mp3": "https://vgmsite.com/soundtracks/dead-cells-official-remixes-2019/xygqczialq/02.%20Neon%20Promenade%201997.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dead-cells-official-remixes-2019/xygqczialq/02.%20Neon%20Promenade%201997.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dead-cells-official-remixes-2019/02.%2520Neon%2520Promenade%25201997.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 21621637,
+      "filesize_mp3_bytes": 5484052,
+      "track_number": 3,
+      "title": "Trap Shop",
+      "runtime": 188,
+      "source_mp3": "https://vgmsite.com/soundtracks/dead-cells-official-remixes-2019/dzkdznhizt/03.%20Trap%20Shop.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dead-cells-official-remixes-2019/dzkdznhizt/03.%20Trap%20Shop.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dead-cells-official-remixes-2019/03.%2520Trap%2520Shop.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 36794531,
+      "filesize_mp3_bytes": 11838423,
+      "track_number": 4,
+      "title": "Les Remparts",
+      "runtime": 368,
+      "source_mp3": "https://vgmsite.com/soundtracks/dead-cells-official-remixes-2019/redwgovynp/04.%20Les%20Remparts.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dead-cells-official-remixes-2019/redwgovynp/04.%20Les%20Remparts.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dead-cells-official-remixes-2019/04.%2520Les%2520Remparts.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1180,
+    "filesize_mp3_bytes": 37591448,
+    "filesize_flac_bytes": 125420174,
+    "tracks": 4
+  }
+}

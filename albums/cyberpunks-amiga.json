@@ -1,0 +1,122 @@
+{
+  "title": "Cyberpunks",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T14:07:36.325826+00:00",
+  "slug": "cyberpunks-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/cyberpunks-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/cyberpunks-amiga/C1.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2019-05-20T00:00:00+00:00",
+  "developers": {
+    "Mutation": "https://downloads.khinsider.com/game-soundtracks/developer/mutation"
+  },
+  "publishers": {
+    "Core Design": "https://downloads.khinsider.com/game-soundtracks/publisher/core-design"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5588910,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 193,
+      "source_mp3": "https://vgmsite.com/soundtracks/cyberpunks-amiga/smhjgtqc/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cyberpunks-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 891289,
+      "track_number": 2,
+      "title": "Mission Briefing",
+      "runtime": 32,
+      "source_mp3": "https://vgmsite.com/soundtracks/cyberpunks-amiga/jiwlhfmk/02_Mission%20Briefing.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cyberpunks-amiga/02_Mission%2520Briefing.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6259998,
+      "track_number": 3,
+      "title": "Level 1",
+      "runtime": 217,
+      "source_mp3": "https://vgmsite.com/soundtracks/cyberpunks-amiga/lekulxzy/03_Level%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cyberpunks-amiga/03_Level%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6480199,
+      "track_number": 4,
+      "title": "Level 2",
+      "runtime": 202,
+      "source_mp3": "https://vgmsite.com/soundtracks/cyberpunks-amiga/ypyzutsr/04_Level%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cyberpunks-amiga/04_Level%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3785359,
+      "track_number": 5,
+      "title": "Level 3",
+      "runtime": 133,
+      "source_mp3": "https://vgmsite.com/soundtracks/cyberpunks-amiga/qhczihid/05_Level%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cyberpunks-amiga/05_Level%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5463080,
+      "track_number": 6,
+      "title": "Level 4",
+      "runtime": 187,
+      "source_mp3": "https://vgmsite.com/soundtracks/cyberpunks-amiga/tjnwknkb/06_Level%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cyberpunks-amiga/06_Level%25204.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6071255,
+      "track_number": 7,
+      "title": "Level 5",
+      "runtime": 209,
+      "source_mp3": "https://vgmsite.com/soundtracks/cyberpunks-amiga/jfihrbpx/07_Level%205.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cyberpunks-amiga/07_Level%25205.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2348810,
+      "track_number": 8,
+      "title": "Boss Theme",
+      "runtime": 79,
+      "source_mp3": "https://vgmsite.com/soundtracks/cyberpunks-amiga/sjssjjxy/08_Boss%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cyberpunks-amiga/08_Boss%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 230686,
+      "track_number": 9,
+      "title": "Game Over",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/cyberpunks-amiga/srughfxv/09_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cyberpunks-amiga/09_Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1261,
+    "filesize_mp3_bytes": 37119586,
+    "filesize_flac_bytes": 0,
+    "tracks": 9
+  }
+}

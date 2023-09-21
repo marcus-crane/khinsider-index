@@ -1,0 +1,48 @@
+{
+  "title": "Dead Chronicles",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T15:17:46.610318+00:00",
+  "slug": "dead-chronicles-2018-gamerip-pc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dead-chronicles-2018-gamerip-pc",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dead-chronicles-2018-gamerip-pc/dc_1.png"
+  ],
+  "year": 2018,
+  "date_added": "2022-05-15T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4037017,
+      "track_number": 1,
+      "title": "Menu Theme",
+      "runtime": 252,
+      "source_mp3": "https://vgmsite.com/soundtracks/dead-chronicles-2018-gamerip-pc/agjooqvqrn/1.%20Menu%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dead-chronicles-2018-gamerip-pc/1.%2520Menu%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3334471,
+      "track_number": 2,
+      "title": "In-Game Theme",
+      "runtime": 208,
+      "source_mp3": "https://vgmsite.com/soundtracks/dead-chronicles-2018-gamerip-pc/xxybauegts/2.%20In-Game%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dead-chronicles-2018-gamerip-pc/2.%2520In-Game%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 460,
+    "filesize_mp3_bytes": 7371488,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

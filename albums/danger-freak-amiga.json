@@ -1,0 +1,82 @@
+{
+  "title": "Danger Freak",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T14:41:14.096246+00:00",
+  "slug": "danger-freak-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/danger-freak-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/danger-freak-amiga/D1.png"
+  ],
+  "year": 1989,
+  "date_added": "2018-01-30T00:00:00+00:00",
+  "developers": {
+    "Rainbow Arts": "https://downloads.khinsider.com/game-soundtracks/developer/rainbow-arts"
+  },
+  "publishers": {
+    "Rainbow Arts": "https://downloads.khinsider.com/game-soundtracks/publisher/rainbow-arts"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6427770,
+      "track_number": 1,
+      "title": "Intro  Bike Race",
+      "runtime": 218,
+      "source_mp3": "https://vgmsite.com/soundtracks/danger-freak-amiga/oepiuylp/01_Intro%20%20Bike%20Race.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/danger-freak-amiga/01_Intro%2520%2520Bike%2520Race.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 346030,
+      "track_number": 2,
+      "title": "Name Entry",
+      "runtime": 12,
+      "source_mp3": "https://vgmsite.com/soundtracks/danger-freak-amiga/cnarpoyz/02_Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/danger-freak-amiga/02_Name%2520Entry.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5064622,
+      "track_number": 3,
+      "title": "On a Highway to Hell",
+      "runtime": 155,
+      "source_mp3": "https://vgmsite.com/soundtracks/danger-freak-amiga/fywugpns/03_On%20a%20Highway%20to%20Hell.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/danger-freak-amiga/03_On%2520a%2520Highway%2520to%2520Hell.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4477419,
+      "track_number": 4,
+      "title": "Jet Bikers and Shark Hunters",
+      "runtime": 143,
+      "source_mp3": "https://vgmsite.com/soundtracks/danger-freak-amiga/dwkeules/04_Jet%20Bikers%20and%20Shark%20Hunters.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/danger-freak-amiga/04_Jet%2520Bikers%2520and%2520Shark%2520Hunters.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1709178,
+      "track_number": 5,
+      "title": "Yellow Submarine",
+      "runtime": 59,
+      "source_mp3": "https://vgmsite.com/soundtracks/danger-freak-amiga/qcmwqlif/05_Yellow%20Submarine.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/danger-freak-amiga/05_Yellow%2520Submarine.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 587,
+    "filesize_mp3_bytes": 18025019,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

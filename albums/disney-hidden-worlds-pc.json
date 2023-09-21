@@ -1,0 +1,88 @@
+{
+  "title": "Disney Hidden Worlds",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T17:01:49.547478+00:00",
+  "slug": "disney-hidden-worlds-pc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/disney-hidden-worlds-pc",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/disney-hidden-worlds-pc/coverart.jpg"
+  ],
+  "year": 2014,
+  "date_added": "2022-03-25T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2642411,
+      "track_number": 1,
+      "title": "World Select",
+      "runtime": 73,
+      "source_mp3": "https://vgmsite.com/soundtracks/disney-hidden-worlds-pc/yxzqnqffbn/01%20-%20World%20Select.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/disney-hidden-worlds-pc/01%2520-%2520World%2520Select.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1793064,
+      "track_number": 2,
+      "title": "Inkling Island",
+      "runtime": 44,
+      "source_mp3": "https://vgmsite.com/soundtracks/disney-hidden-worlds-pc/akctjrduld/02%20-%20Inkling%20Island.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/disney-hidden-worlds-pc/02%2520-%2520Inkling%2520Island.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2705326,
+      "track_number": 3,
+      "title": "Beauty and the Beast",
+      "runtime": 78,
+      "source_mp3": "https://vgmsite.com/soundtracks/disney-hidden-worlds-pc/dzwaaqvvit/03%20-%20Beauty%20and%20the%20Beast.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/disney-hidden-worlds-pc/03%2520-%2520Beauty%2520and%2520the%2520Beast.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3995074,
+      "track_number": 4,
+      "title": "Tangled",
+      "runtime": 121,
+      "source_mp3": "https://vgmsite.com/soundtracks/disney-hidden-worlds-pc/gqqzkjqjra/04%20-%20Tangled.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/disney-hidden-worlds-pc/04%2520-%2520Tangled.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1824522,
+      "track_number": 5,
+      "title": "Aladdin",
+      "runtime": 54,
+      "source_mp3": "https://vgmsite.com/soundtracks/disney-hidden-worlds-pc/rrdjbipcyl/05%20-%20Aladdin.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/disney-hidden-worlds-pc/05%2520-%2520Aladdin.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2202009,
+      "track_number": 6,
+      "title": "The Little Mermaid",
+      "runtime": 68,
+      "source_mp3": "https://vgmsite.com/soundtracks/disney-hidden-worlds-pc/jcdkesbgba/06%20-%20The%20Little%20Mermaid.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/disney-hidden-worlds-pc/06%2520-%2520The%2520Little%2520Mermaid.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 438,
+    "filesize_mp3_bytes": 15162406,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "title": "Darwinia Soundtrack",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T15:02:07.601626+00:00",
+  "slug": "darwinia",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/darwinia",
+  "platforms": {
+    "Linux": "https://downloads.khinsider.com/game-soundtracks/linux",
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows",
+    "Xbox 360": "https://downloads.khinsider.com/game-soundtracks/xbox-360"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/darwinia/cover.jpg"
+  ],
+  "year": 2005,
+  "catalog_number": null,
+  "date_added": "2023-05-26T00:00:00+00:00",
+  "developers": {
+    "Introversion Software": "https://downloads.khinsider.com/game-soundtracks/developer/introversion-software"
+  },
+  "publishers": {
+    "Introversion Software": "https://downloads.khinsider.com/game-soundtracks/publisher/introversion-software"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7927234,
+      "track_number": 1,
+      "title": "Visitors From Dreams",
+      "runtime": 330,
+      "source_mp3": "https://vgmsite.com/soundtracks/darwinia/swfdzhyein/01%20Visitors%20From%20Dreams.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/darwinia/01%2520Visitors%2520From%2520Dreams.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8315207,
+      "track_number": 2,
+      "title": "Excuses",
+      "runtime": 347,
+      "source_mp3": "https://vgmsite.com/soundtracks/darwinia/ttbzxsdvxw/02%20Excuses.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/darwinia/02%2520Excuses.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5347737,
+      "track_number": 3,
+      "title": "Schroeder's Failure",
+      "runtime": 223,
+      "source_mp3": "https://vgmsite.com/soundtracks/darwinia/olcxeihoue/03%20Schroeder%27s%20Failure.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/darwinia/03%2520Schroeder%2527s%2520Failure.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5190451,
+      "track_number": 4,
+      "title": "Pain Fade Down",
+      "runtime": 216,
+      "source_mp3": "https://vgmsite.com/soundtracks/darwinia/qamatwnaad/04%20Pain%20Fade%20Down.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/darwinia/04%2520Pain%2520Fade%2520Down.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5316280,
+      "track_number": 5,
+      "title": "Impact Of Silence",
+      "runtime": 221,
+      "source_mp3": "https://vgmsite.com/soundtracks/darwinia/dnurveiojm/05%20Impact%20Of%20Silence.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/darwinia/05%2520Impact%2520Of%2520Silence.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6689914,
+      "track_number": 6,
+      "title": "Faces Of A Fashion",
+      "runtime": 279,
+      "source_mp3": "https://vgmsite.com/soundtracks/darwinia/jhbunbgfxo/06%20Faces%20Of%20A%20Fashion.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/darwinia/06%2520Faces%2520Of%2520A%2520Fashion.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1616,
+    "filesize_mp3_bytes": 38786823,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

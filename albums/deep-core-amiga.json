@@ -1,0 +1,82 @@
+{
+  "title": "Deep Core",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T15:43:39.405613+00:00",
+  "slug": "deep-core-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/deep-core-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/deep-core-amiga/DC.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2016-02-14T00:00:00+00:00",
+  "developers": {
+    "Dynafield Systems": "https://downloads.khinsider.com/game-soundtracks/developer/dynafield-systems"
+  },
+  "publishers": {
+    "I.C.E.": "https://downloads.khinsider.com/game-soundtracks/publisher/i.c.e"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3512729,
+      "track_number": 1,
+      "title": "Intro Part 1",
+      "runtime": 128,
+      "source_mp3": "https://vgmsite.com/soundtracks/deep-core-amiga/eokenlvu/01_Intro%20Part%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/deep-core-amiga/01_Intro%2520Part%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1845493,
+      "track_number": 2,
+      "title": "Intro Part 2",
+      "runtime": 68,
+      "source_mp3": "https://vgmsite.com/soundtracks/deep-core-amiga/cawtajkh/02_Intro%20Part%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/deep-core-amiga/02_Intro%2520Part%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3460300,
+      "track_number": 3,
+      "title": "Title Screen",
+      "runtime": 119,
+      "source_mp3": "https://vgmsite.com/soundtracks/deep-core-amiga/cwtnvijw/03_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/deep-core-amiga/03_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2369781,
+      "track_number": 4,
+      "title": "Ending",
+      "runtime": 84,
+      "source_mp3": "https://vgmsite.com/soundtracks/deep-core-amiga/tnxntkgt/04_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/deep-core-amiga/04_Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5934940,
+      "track_number": 5,
+      "title": "Alternate Title",
+      "runtime": 176,
+      "source_mp3": "https://vgmsite.com/soundtracks/deep-core-amiga/eqluojtf/05_Alternate%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/deep-core-amiga/05_Alternate%2520Title.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 575,
+    "filesize_mp3_bytes": 17123243,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

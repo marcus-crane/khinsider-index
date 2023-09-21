@@ -1,0 +1,70 @@
+{
+  "title": "Duke Dashington (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T19:30:15.528005+00:00",
+  "slug": "duke-dashington-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/duke-dashington-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/duke-dashington-android-game-music/1.png"
+  ],
+  "date_added": "2016-06-25T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7927234,
+      "title": "Duke Dashington (merged)",
+      "runtime": 330,
+      "source_mp3": "https://vgmsite.com/soundtracks/duke-dashington-android-game-music/vxnaunal/Duke%20Dashington%20%28merged%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/duke-dashington-android-game-music/Duke%2520Dashington%2520%2528merged%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1205862,
+      "title": "sound-491",
+      "runtime": 91,
+      "source_mp3": "https://vgmsite.com/soundtracks/duke-dashington-android-game-music/djpfimwe/sound-491.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/duke-dashington-android-game-music/sound-491.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 796917,
+      "title": "sound-528",
+      "runtime": 58,
+      "source_mp3": "https://vgmsite.com/soundtracks/duke-dashington-android-game-music/nliohniq/sound-528.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/duke-dashington-android-game-music/sound-528.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1310720,
+      "title": "sound-697",
+      "runtime": 95,
+      "source_mp3": "https://vgmsite.com/soundtracks/duke-dashington-android-game-music/yyqscywt/sound-697.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/duke-dashington-android-game-music/sound-697.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1195376,
+      "title": "sound-838",
+      "runtime": 86,
+      "source_mp3": "https://vgmsite.com/soundtracks/duke-dashington-android-game-music/owgxmlre/sound-838.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/duke-dashington-android-game-music/sound-838.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 660,
+    "filesize_mp3_bytes": 12436109,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "title": "Dancing Blocks (Unlicensed)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T14:36:54.689735+00:00",
+  "slug": "dancing-blocks-1990-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dancing-blocks-1990-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dancing-blocks-1990-nes/Dancing%20Blocks.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2022-04-04T00:00:00+00:00",
+  "developers": {
+    "Sachen": "https://downloads.khinsider.com/game-soundtracks/developer/sachen",
+    "Thin Chen": "https://downloads.khinsider.com/game-soundtracks/developer/thin-chen"
+  },
+  "publishers": {
+    "Sachen": "https://downloads.khinsider.com/game-soundtracks/publisher/sachen",
+    "Thin Chen": "https://downloads.khinsider.com/game-soundtracks/publisher/thin-chen"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9741271,
+      "filesize_mp3_bytes": 4634705,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/dancing-blocks-1990-nes/hvbavgzwgc/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dancing-blocks-1990-nes/hvbavgzwgc/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dancing-blocks-1990-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 104857,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/dancing-blocks-1990-nes/awujlvpurm/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dancing-blocks-1990-nes/awujlvpurm/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dancing-blocks-1990-nes/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 178257,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/dancing-blocks-1990-nes/bpaqpgazvc/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dancing-blocks-1990-nes/bpaqpgazvc/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dancing-blocks-1990-nes/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 167772,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/dancing-blocks-1990-nes/bafpphbusx/04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dancing-blocks-1990-nes/bafpphbusx/04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dancing-blocks-1990-nes/04.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 191,
+    "filesize_mp3_bytes": 4781504,
+    "filesize_flac_bytes": 10192157,
+    "tracks": 4
+  }
+}

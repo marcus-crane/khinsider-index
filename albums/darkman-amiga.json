@@ -1,0 +1,62 @@
+{
+  "title": "Darkman",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T14:59:02.592267+00:00",
+  "slug": "darkman-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/darkman-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/darkman-amiga/Darkman.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2017-11-12T00:00:00+00:00",
+  "developers": {
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/developer/ocean"
+  },
+  "publishers": {
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/publisher/ocean"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4173332,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 151,
+      "source_mp3": "https://vgmsite.com/soundtracks/darkman-amiga/qxsqjxoh/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/darkman-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1635778,
+      "track_number": 2,
+      "title": "Stage Intro",
+      "runtime": 58,
+      "source_mp3": "https://vgmsite.com/soundtracks/darkman-amiga/vmubtxjm/02_Stage%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/darkman-amiga/02_Stage%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 398458,
+      "track_number": 3,
+      "title": "Game Over",
+      "runtime": 15,
+      "source_mp3": "https://vgmsite.com/soundtracks/darkman-amiga/djkfsmdl/03_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/darkman-amiga/03_Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 224,
+    "filesize_mp3_bytes": 6207568,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

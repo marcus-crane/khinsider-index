@@ -1,0 +1,42 @@
+{
+  "title": "Deltarune - MEGALOVANIA",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T15:49:19.286584+00:00",
+  "slug": "deltarune-megalovania-2018",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/deltarune-megalovania-2018",
+  "platforms": {
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "PS4": "https://downloads.khinsider.com/game-soundtracks/playstation-4",
+    "Switch": "https://downloads.khinsider.com/game-soundtracks/nintendo-switch",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/deltarune-megalovania-2018/Cover.jpg"
+  ],
+  "year": 2018,
+  "date_added": "2023-08-09T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "DanFourts": "https://downloads.khinsider.com/game-soundtracks/publisher/danfourts"
+  },
+  "genres": {
+    "Remix": "https://downloads.khinsider.com/game-soundtracks/remixes"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2831155,
+      "title": "Deltarune - MEGALOVANIA",
+      "runtime": 184,
+      "source_mp3": "https://vgmsite.com/soundtracks/deltarune-megalovania-2018/kcmapfvmki/Deltarune%20-%20MEGALOVANIA.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/deltarune-megalovania-2018/Deltarune%2520-%2520MEGALOVANIA.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 184,
+    "filesize_mp3_bytes": 2831155,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

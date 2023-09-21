@@ -1,0 +1,38 @@
+{
+  "title": "Destructo Truck",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T16:11:59.386077+00:00",
+  "slug": "destructo-truck-2010-gamerip-pc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/destructo-truck-2010-gamerip-pc",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/destructo-truck-2010-gamerip-pc/dt_1.jpg"
+  ],
+  "year": 2010,
+  "date_added": "2022-05-15T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2181038,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 135,
+      "source_mp3": "https://vgmsite.com/soundtracks/destructo-truck-2010-gamerip-pc/lourjixgtq/1.%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/destructo-truck-2010-gamerip-pc/1.%2520Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 135,
+    "filesize_mp3_bytes": 2181038,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

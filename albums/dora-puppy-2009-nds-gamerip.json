@@ -1,0 +1,78 @@
+{
+  "title": "Dora Puppy",
+  "titles_alternative": [
+    "Dora the Explorer - Dora Puppy"
+  ],
+  "crawled_at": "2023-09-21T18:01:57.554386+00:00",
+  "slug": "dora-puppy-2009-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dora-puppy-2009-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dora-puppy-2009-nds-gamerip/Dora%20Puppy.jpg"
+  ],
+  "year": 2009,
+  "date_added": "2020-06-04T00:00:00+00:00",
+  "developers": {
+    "Black Lantern": "https://downloads.khinsider.com/game-soundtracks/developer/black-lantern"
+  },
+  "publishers": {
+    "2K Play": "https://downloads.khinsider.com/game-soundtracks/publisher/2k-play"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11429478,
+      "filesize_mp3_bytes": 4131389,
+      "track_number": 1,
+      "title": "Main Menu",
+      "runtime": 178,
+      "source_mp3": "https://vgmsite.com/soundtracks/dora-puppy-2009-nds-gamerip/qopezmdfkg/01%20-%20Main%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dora-puppy-2009-nds-gamerip/qopezmdfkg/01%20-%20Main%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dora-puppy-2009-nds-gamerip/01%2520-%2520Main%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6280970,
+      "filesize_mp3_bytes": 2317352,
+      "track_number": 2,
+      "title": "Gameplay",
+      "runtime": 98,
+      "source_mp3": "https://vgmsite.com/soundtracks/dora-puppy-2009-nds-gamerip/zgiqcmwxut/02%20-%20Gameplay.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dora-puppy-2009-nds-gamerip/zgiqcmwxut/02%20-%20Gameplay.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dora-puppy-2009-nds-gamerip/02%2520-%2520Gameplay.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9877585,
+      "filesize_mp3_bytes": 3313500,
+      "track_number": 3,
+      "title": "Store",
+      "runtime": 139,
+      "source_mp3": "https://vgmsite.com/soundtracks/dora-puppy-2009-nds-gamerip/yhtnhgelzk/03%20-%20Store.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dora-puppy-2009-nds-gamerip/yhtnhgelzk/03%20-%20Store.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dora-puppy-2009-nds-gamerip/03%2520-%2520Store.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11785994,
+      "filesize_mp3_bytes": 4424990,
+      "track_number": 4,
+      "title": "Tutorial",
+      "runtime": 132,
+      "source_mp3": "https://vgmsite.com/soundtracks/dora-puppy-2009-nds-gamerip/xiupojglbc/04%20-%20Tutorial.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dora-puppy-2009-nds-gamerip/xiupojglbc/04%20-%20Tutorial.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dora-puppy-2009-nds-gamerip/04%2520-%2520Tutorial.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 547,
+    "filesize_mp3_bytes": 14187231,
+    "filesize_flac_bytes": 39374027,
+    "tracks": 4
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Deck Heroes (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T15:42:39.066449+00:00",
+  "slug": "deck-heroes-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/deck-heroes-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/deck-heroes-android-game-music/1.jpg"
+  ],
+  "date_added": "2016-06-25T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 765460,
+      "title": "Deck Heroes",
+      "runtime": 95,
+      "source_mp3": "https://vgmsite.com/soundtracks/deck-heroes-android-game-music/ytjeucqu/Deck%20Heroes.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/deck-heroes-android-game-music/Deck%2520Heroes.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 95,
+    "filesize_mp3_bytes": 765460,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Devil Daggers",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T16:20:50.699927+00:00",
+  "slug": "devil-daggers",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/devil-daggers",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/devil-daggers/AlbumArtwork.png"
+  ],
+  "year": 2016,
+  "date_added": "2017-03-12T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6165626,
+      "title": "I",
+      "runtime": 154,
+      "source_mp3": "https://vgmsite.com/soundtracks/devil-daggers/fzthhqqw/I.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/devil-daggers/I.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5641338,
+      "title": "II",
+      "runtime": 141,
+      "source_mp3": "https://vgmsite.com/soundtracks/devil-daggers/tarhdpvo/II.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/devil-daggers/II.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8388608,
+      "title": "III",
+      "runtime": 210,
+      "source_mp3": "https://vgmsite.com/soundtracks/devil-daggers/hfdklpjp/III.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/devil-daggers/III.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11702108,
+      "title": "IV",
+      "runtime": 292,
+      "source_mp3": "https://vgmsite.com/soundtracks/devil-daggers/icfqkuii/IV.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/devil-daggers/IV.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 797,
+    "filesize_mp3_bytes": 31897680,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

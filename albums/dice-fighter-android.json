@@ -1,0 +1,54 @@
+{
+  "title": "Dice Fighter",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T16:26:28.922103+00:00",
+  "slug": "dice-fighter-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dice-fighter-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dice-fighter-android/1.jpg"
+  ],
+  "date_added": "2017-03-14T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 314572,
+      "title": "BGM_battle",
+      "runtime": 44,
+      "source_mp3": "https://vgmsite.com/soundtracks/dice-fighter-android/wevisjsu/BGM_battle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dice-fighter-android/BGM_battle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 325058,
+      "title": "BGM_explore",
+      "runtime": 46,
+      "source_mp3": "https://vgmsite.com/soundtracks/dice-fighter-android/xngdvvny/BGM_explore.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dice-fighter-android/BGM_explore.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 513802,
+      "title": "BGM_main",
+      "runtime": 86,
+      "source_mp3": "https://vgmsite.com/soundtracks/dice-fighter-android/akbdegyq/BGM_main.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dice-fighter-android/BGM_main.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 176,
+    "filesize_mp3_bytes": 1153432,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

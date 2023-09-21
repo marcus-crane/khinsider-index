@@ -1,0 +1,97 @@
+{
+  "title": "Dudes With Attitude",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T19:28:53.843202+00:00",
+  "slug": "dudes-with-attitude-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dudes-with-attitude-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dudes-with-attitude-nes/Title%20screen.png"
+  ],
+  "date_added": "2021-11-01T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 671088,
+      "track_number": 1,
+      "title": "Title Theme",
+      "runtime": 44,
+      "source_mp3": "https://vgmsite.com/soundtracks/dudes-with-attitude-nes/pznnebyaqr/01%20-%20Title%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dudes-with-attitude-nes/01%2520-%2520Title%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 209715,
+      "track_number": 2,
+      "title": "Menu",
+      "runtime": 18,
+      "source_mp3": "https://vgmsite.com/soundtracks/dudes-with-attitude-nes/qjvuhklnuh/02%20-%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dudes-with-attitude-nes/02%2520-%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 702545,
+      "track_number": 3,
+      "title": "Map Screen 1",
+      "runtime": 53,
+      "source_mp3": "https://vgmsite.com/soundtracks/dudes-with-attitude-nes/tnhncbljkz/03%20-%20Map%20Screen%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dudes-with-attitude-nes/03%2520-%2520Map%2520Screen%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 492830,
+      "track_number": 4,
+      "title": "Map Screen 2",
+      "runtime": 36,
+      "source_mp3": "https://vgmsite.com/soundtracks/dudes-with-attitude-nes/rocyzzdpfg/04%20-%20Map%20Screen%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dudes-with-attitude-nes/04%2520-%2520Map%2520Screen%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 513802,
+      "track_number": 5,
+      "title": "Map Screen 3",
+      "runtime": 36,
+      "source_mp3": "https://vgmsite.com/soundtracks/dudes-with-attitude-nes/zlxllvwnzm/05%20-%20Map%20Screen%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dudes-with-attitude-nes/05%2520-%2520Map%2520Screen%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 293601,
+      "track_number": 6,
+      "title": "Map Screen 4",
+      "runtime": 25,
+      "source_mp3": "https://vgmsite.com/soundtracks/dudes-with-attitude-nes/uozrvzideb/06%20-%20Map%20Screen%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dudes-with-attitude-nes/06%2520-%2520Map%2520Screen%25204.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 7,
+      "title": "Life Lost",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/dudes-with-attitude-nes/nejjzcqlyp/07%20-%20Life%20Lost.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dudes-with-attitude-nes/07%2520-%2520Life%2520Lost.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 219,
+    "filesize_mp3_bytes": 2977952,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

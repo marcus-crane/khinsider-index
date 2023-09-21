@@ -1,0 +1,48 @@
+{
+  "title": "Dokodemo Honya-San OST",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T17:34:18.073730+00:00",
+  "slug": "dokodemo-honya-san-ost",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dokodemo-honya-san-ost",
+  "platforms": {
+    "3DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-3ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dokodemo-honya-san-ost/cover.png"
+  ],
+  "year": 2012,
+  "date_added": "2021-03-18T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 461373,
+      "filesize_mp3_bytes": 167772,
+      "track_number": 1,
+      "title": "Home Menu Banner",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/dokodemo-honya-san-ost/tzgovitebb/1.%20Home%20Menu%20Banner.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dokodemo-honya-san-ost/tzgovitebb/1.%20Home%20Menu%20Banner.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dokodemo-honya-san-ost/1.%2520Home%2520Menu%2520Banner.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7895777,
+      "filesize_mp3_bytes": 2631925,
+      "track_number": 2,
+      "title": "Main Theme",
+      "runtime": 78,
+      "source_mp3": "https://vgmsite.com/soundtracks/dokodemo-honya-san-ost/pwydkkazsq/2.%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dokodemo-honya-san-ost/pwydkkazsq/2.%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dokodemo-honya-san-ost/2.%2520Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 81,
+    "filesize_mp3_bytes": 2799697,
+    "filesize_flac_bytes": 8357150,
+    "tracks": 2
+  }
+}

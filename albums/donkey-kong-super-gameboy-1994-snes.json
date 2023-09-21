@@ -1,0 +1,102 @@
+{
+  "title": "Donkey Kong",
+  "titles_alternative": [
+    "Game Boy Donkey Kong",
+    "Donkey Kong '94"
+  ],
+  "crawled_at": "2023-09-21T17:50:29.725934+00:00",
+  "slug": "donkey-kong-super-gameboy-1994-snes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/donkey-kong-super-gameboy-1994-snes",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/donkey-kong-super-gameboy-1994-snes/Donkey%20Kong%20%2794%20%28US%29.png"
+  ],
+  "year": 1994,
+  "date_added": "2019-08-06T00:00:00+00:00",
+  "developers": {
+    "Nintendo EAD": "https://downloads.khinsider.com/game-soundtracks/developer/nintendo-ead",
+    "Pax Softnica": "https://downloads.khinsider.com/game-soundtracks/developer/pax-softnica"
+  },
+  "publishers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10066329,
+      "filesize_mp3_bytes": 3942645,
+      "track_number": 1,
+      "title": "Ending",
+      "runtime": 137,
+      "source_mp3": "https://vgmsite.com/soundtracks/donkey-kong-super-gameboy-1994-snes/ejzcgsfhcd/01%20Ending.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/donkey-kong-super-gameboy-1994-snes/ejzcgsfhcd/01%20Ending.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/donkey-kong-super-gameboy-1994-snes/01%2520Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20971,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 2,
+      "title": "Help! 1",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/donkey-kong-super-gameboy-1994-snes/omyjyhpiau/02%20Help%21%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/donkey-kong-super-gameboy-1994-snes/omyjyhpiau/02%20Help%21%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/donkey-kong-super-gameboy-1994-snes/02%2520Help%2521%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20971,
+      "filesize_mp3_bytes": 10485,
+      "track_number": 3,
+      "title": "Help! 2",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/donkey-kong-super-gameboy-1994-snes/qhwztvlarx/03%20Help%21%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/donkey-kong-super-gameboy-1994-snes/qhwztvlarx/03%20Help%21%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/donkey-kong-super-gameboy-1994-snes/03%2520Help%2521%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 31457,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 4,
+      "title": "Help! 3",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/donkey-kong-super-gameboy-1994-snes/tmcxnfjupq/04%20Help%21%203.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/donkey-kong-super-gameboy-1994-snes/tmcxnfjupq/04%20Help%21%203.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/donkey-kong-super-gameboy-1994-snes/04%2520Help%2521%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 31457,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 5,
+      "title": "Help! 4",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/donkey-kong-super-gameboy-1994-snes/eyrkdkyqoo/05%20Help%21%204.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/donkey-kong-super-gameboy-1994-snes/eyrkdkyqoo/05%20Help%21%204.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/donkey-kong-super-gameboy-1994-snes/05%2520Help%2521%25204.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20971,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 6,
+      "title": "Help! 5",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/donkey-kong-super-gameboy-1994-snes/mpvspeansh/06%20Help%21%205.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/donkey-kong-super-gameboy-1994-snes/mpvspeansh/06%20Help%21%205.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/donkey-kong-super-gameboy-1994-snes/06%2520Help%2521%25205.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 151,
+    "filesize_mp3_bytes": 4047500,
+    "filesize_flac_bytes": 10192156,
+    "tracks": 6
+  }
+}

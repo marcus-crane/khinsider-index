@@ -1,0 +1,106 @@
+{
+  "title": "Dr. Chaos",
+  "titles_alternative": [
+    "Dr. Chaos: Hell's Gate",
+    "\u30c9\u30af\u30bf\u30fc\u30fb\u30ab\u30aa\u30b9 \u5730\u7344\u306e\u6249"
+  ],
+  "crawled_at": "2023-09-21T18:20:16.401524+00:00",
+  "slug": "dr.-chaos",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dr.-chaos",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dr.-chaos/Dr.%20Chaos%20Cover.jpg"
+  ],
+  "year": 1987,
+  "date_added": "2015-01-28T00:00:00+00:00",
+  "developers": {
+    "Marionette": "https://downloads.khinsider.com/game-soundtracks/developer/marionette",
+    "SRS": "https://downloads.khinsider.com/game-soundtracks/developer/srs"
+  },
+  "publishers": {
+    "FCI": "https://downloads.khinsider.com/game-soundtracks/publisher/fci"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2694840,
+      "track_number": 1,
+      "title": "Dr Chaos - Title",
+      "runtime": 144,
+      "source_mp3": "https://vgmsite.com/soundtracks/dr.-chaos/vlxwdyhn/01%20-%20Dr%20Chaos%20-%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dr.-chaos/01%2520-%2520Dr%2520Chaos%2520-%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2569011,
+      "track_number": 2,
+      "title": "House of Chaos",
+      "runtime": 119,
+      "source_mp3": "https://vgmsite.com/soundtracks/dr.-chaos/hetixijx/02%20-%20House%20of%20Chaos.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dr.-chaos/02%2520-%2520House%2520of%2520Chaos.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1803550,
+      "track_number": 3,
+      "title": "Rooms",
+      "runtime": 115,
+      "source_mp3": "https://vgmsite.com/soundtracks/dr.-chaos/wewxkpux/03%20-%20Rooms.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dr.-chaos/03%2520-%2520Rooms.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1488977,
+      "track_number": 4,
+      "title": "Warp Zone",
+      "runtime": 81,
+      "source_mp3": "https://vgmsite.com/soundtracks/dr.-chaos/royivdra/04%20-%20Warp%20Zone.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dr.-chaos/04%2520-%2520Warp%2520Zone.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1918894,
+      "track_number": 5,
+      "title": "Warp Zone Boss",
+      "runtime": 102,
+      "source_mp3": "https://vgmsite.com/soundtracks/dr.-chaos/xxnfknwm/05%20-%20Warp%20Zone%20Boss.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dr.-chaos/05%2520-%2520Warp%2520Zone%2520Boss.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 461373,
+      "track_number": 6,
+      "title": "Ending",
+      "runtime": 27,
+      "source_mp3": "https://vgmsite.com/soundtracks/dr.-chaos/knbaimeh/06%20-%20Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dr.-chaos/06%2520-%2520Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2044723,
+      "track_number": 7,
+      "title": "Credits",
+      "runtime": 118,
+      "source_mp3": "https://vgmsite.com/soundtracks/dr.-chaos/czxduary/07%20-%20Credits.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dr.-chaos/07%2520-%2520Credits.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 706,
+    "filesize_mp3_bytes": 12981368,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

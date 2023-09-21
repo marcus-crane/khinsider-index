@@ -1,0 +1,43 @@
+{
+  "title": "Easy Piano - Play & Compose",
+  "titles_alternative": [
+    "Easy Piano - Learn",
+    "Play & Compose"
+  ],
+  "crawled_at": "2023-09-21T19:59:33.216853+00:00",
+  "slug": "easy-piano-play-compose-2009-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/easy-piano-play-compose-2009-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/easy-piano-play-compose-2009-nds-gamerip/Easy%20Piano%20-%20Play%20%26%20Compose.jpg"
+  ],
+  "year": 2009,
+  "date_added": "2020-06-05T00:00:00+00:00",
+  "developers": {
+    "Bandai Namco": "https://downloads.khinsider.com/game-soundtracks/developer/bandai-namco"
+  },
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2275409,
+      "filesize_mp3_bytes": 576716,
+      "title": "Theme",
+      "runtime": 60,
+      "source_mp3": "https://vgmsite.com/soundtracks/easy-piano-play-compose-2009-nds-gamerip/qqtrmdvuey/Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/easy-piano-play-compose-2009-nds-gamerip/qqtrmdvuey/Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/easy-piano-play-compose-2009-nds-gamerip/Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 60,
+    "filesize_mp3_bytes": 576716,
+    "filesize_flac_bytes": 2275409,
+    "tracks": 1
+  }
+}

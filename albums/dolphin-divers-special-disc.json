@@ -1,0 +1,66 @@
+{
+  "title": "Dolphin Divers Special Disc",
+  "titles_alternative": [
+    "Dolphin Divers \u4e88\u7d04\u30ad\u30e3\u30f3\u30da\u30fc\u30f3\u7279\u5178CD"
+  ],
+  "crawled_at": "2023-09-21T17:35:23.273663+00:00",
+  "slug": "dolphin-divers-special-disc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dolphin-divers-special-disc",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dolphin-divers-special-disc/coverart.jpg"
+  ],
+  "year": 2012,
+  "catalog_number": "AXL-0040",
+  "date_added": "2020-04-06T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "AXL": "https://downloads.khinsider.com/game-soundtracks/publisher/axl"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 31478251,
+      "filesize_mp3_bytes": 8975810,
+      "track_number": 1,
+      "title": "Eroiko",
+      "runtime": 251,
+      "source_mp3": "https://vgmsite.com/soundtracks/dolphin-divers-special-disc/wgaowmpllj/01%20-%20Eroiko.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dolphin-divers-special-disc/wgaowmpllj/01%20-%20Eroiko.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dolphin-divers-special-disc/01%2520-%2520Eroiko.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 12509511,
+      "filesize_mp3_bytes": 3911188,
+      "track_number": 2,
+      "title": "Eroiko (short)",
+      "runtime": 102,
+      "source_mp3": "https://vgmsite.com/soundtracks/dolphin-divers-special-disc/fbogdpxlgf/02%20-%20Eroiko%20%28short%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dolphin-divers-special-disc/fbogdpxlgf/02%20-%20Eroiko%20%28short%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dolphin-divers-special-disc/02%2520-%2520Eroiko%2520%2528short%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 31090278,
+      "filesize_mp3_bytes": 9070182,
+      "track_number": 3,
+      "title": "Eroiko (instrumental)",
+      "runtime": 249,
+      "source_mp3": "https://vgmsite.com/soundtracks/dolphin-divers-special-disc/evoirharog/03%20-%20Eroiko%20%28instrumental%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dolphin-divers-special-disc/evoirharog/03%20-%20Eroiko%20%28instrumental%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dolphin-divers-special-disc/03%2520-%2520Eroiko%2520%2528instrumental%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 602,
+    "filesize_mp3_bytes": 21957180,
+    "filesize_flac_bytes": 75078040,
+    "tracks": 3
+  }
+}

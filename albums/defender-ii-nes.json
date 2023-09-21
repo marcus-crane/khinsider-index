@@ -1,0 +1,69 @@
+{
+  "title": "Defender II",
+  "titles_alternative": [
+    "Stargate",
+    "\u30b9\u30bf\u30fc\u30fb\u30b2\u30a4\u30c8"
+  ],
+  "crawled_at": "2023-09-21T15:46:21.686749+00:00",
+  "slug": "defender-ii-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/defender-ii-nes",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/defender-ii-nes/Defender%20II.png"
+  ],
+  "year": 1987,
+  "date_added": "2022-06-25T00:00:00+00:00",
+  "developers": {
+    "HAL Laboratory": "https://downloads.khinsider.com/game-soundtracks/developer/hal-laboratory"
+  },
+  "publishers": {
+    "HAL Laboratory": "https://downloads.khinsider.com/game-soundtracks/publisher/hal-laboratory"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 891289,
+      "filesize_mp3_bytes": 314572,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 17,
+      "source_mp3": "https://vgmsite.com/soundtracks/defender-ii-nes/dwkjjtfmnb/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/defender-ii-nes/dwkjjtfmnb/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/defender-ii-nes/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 398458,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 2,
+      "title": "Game Start",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/defender-ii-nes/wmbtohazxz/02%20Game%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/defender-ii-nes/wmbtohazxz/02%20Game%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/defender-ii-nes/02%2520Game%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 272629,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 3,
+      "title": "Round Clear",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/defender-ii-nes/vlxtoawigp/03%20Round%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/defender-ii-nes/vlxtoawigp/03%20Round%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/defender-ii-nes/03%2520Round%2520Clear.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 31,
+    "filesize_mp3_bytes": 545258,
+    "filesize_flac_bytes": 1562376,
+    "tracks": 3
+  }
+}

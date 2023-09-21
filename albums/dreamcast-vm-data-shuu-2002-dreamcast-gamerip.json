@@ -1,0 +1,44 @@
+{
+  "title": "Dreamcast VM Data Shuu",
+  "titles_alternative": [
+    "\u30c9\u30ea\u30fc\u30e0\u30ad\u30e3\u30b9\u30c8\uff36\uff2d\u30c7\u30fc\u30bf\u96c6"
+  ],
+  "crawled_at": "2023-09-21T19:17:51.082764+00:00",
+  "slug": "dreamcast-vm-data-shuu-2002-dreamcast-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dreamcast-vm-data-shuu-2002-dreamcast-gamerip",
+  "platforms": {
+    "Dreamcast": "https://downloads.khinsider.com/game-soundtracks/sega-dreamcast"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dreamcast-vm-data-shuu-2002-dreamcast-gamerip/Dreamcast%20VM%20Data%20Shuu.jpg"
+  ],
+  "year": 2002,
+  "date_added": "2020-05-06T00:00:00+00:00",
+  "developers": {
+    "Enterbrain": "https://downloads.khinsider.com/game-soundtracks/developer/enterbrain"
+  },
+  "publishers": {
+    "Enterbrain": "https://downloads.khinsider.com/game-soundtracks/publisher/enterbrain"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 18685624,
+      "filesize_mp3_bytes": 5599395,
+      "title": "BGM01",
+      "runtime": 154,
+      "source_mp3": "https://vgmsite.com/soundtracks/dreamcast-vm-data-shuu-2002-dreamcast-gamerip/dgsviltlcd/BGM01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dreamcast-vm-data-shuu-2002-dreamcast-gamerip/dgsviltlcd/BGM01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dreamcast-vm-data-shuu-2002-dreamcast-gamerip/BGM01.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 154,
+    "filesize_mp3_bytes": 5599395,
+    "filesize_flac_bytes": 18685624,
+    "tracks": 1
+  }
+}

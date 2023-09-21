@@ -1,0 +1,54 @@
+{
+  "title": "Dead Zed",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T15:30:47.897768+00:00",
+  "slug": "dead-zed-2019-gamerip-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dead-zed-2019-gamerip-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios",
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dead-zed-2019-gamerip-android/dz_3.png"
+  ],
+  "year": 2019,
+  "date_added": "2022-05-15T00:00:00+00:00",
+  "developers": {
+    "Not Doppler": "https://downloads.khinsider.com/game-soundtracks/developer/not-doppler"
+  },
+  "publishers": {
+    "Not Doppler": "https://downloads.khinsider.com/game-soundtracks/publisher/not-doppler"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1017118,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 63,
+      "source_mp3": "https://vgmsite.com/soundtracks/dead-zed-2019-gamerip-android/jwxztczpbx/1.%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dead-zed-2019-gamerip-android/1.%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2516582,
+      "track_number": 2,
+      "title": "DZ 2 - Main Theme",
+      "runtime": 157,
+      "source_mp3": "https://vgmsite.com/soundtracks/dead-zed-2019-gamerip-android/iitxnlrblj/2.%20DZ%202%20-%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dead-zed-2019-gamerip-android/2.%2520DZ%25202%2520-%2520Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 220,
+    "filesize_mp3_bytes": 3533700,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

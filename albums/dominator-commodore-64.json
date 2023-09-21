@@ -1,0 +1,92 @@
+{
+  "title": "Dominator",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T17:36:23.281685+00:00",
+  "slug": "dominator-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dominator-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dominator-commodore-64/D1.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2015-11-09T00:00:00+00:00",
+  "developers": {
+    "System 3 Software": "https://downloads.khinsider.com/game-soundtracks/developer/system-3-software"
+  },
+  "publishers": {
+    "System 3 Software": "https://downloads.khinsider.com/game-soundtracks/publisher/system-3-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4110417,
+      "track_number": 1,
+      "title": "Loading Tune",
+      "runtime": 217,
+      "source_mp3": "https://vgmsite.com/soundtracks/dominator-commodore-64/prkvtown/01_Loading%20Tune.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dominator-commodore-64/01_Loading%2520Tune.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8545894,
+      "track_number": 2,
+      "title": "Title Screen",
+      "runtime": 345,
+      "source_mp3": "https://vgmsite.com/soundtracks/dominator-commodore-64/dhpwswpe/02_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dominator-commodore-64/02_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 901775,
+      "track_number": 3,
+      "title": "Stage Clear!",
+      "runtime": 49,
+      "source_mp3": "https://vgmsite.com/soundtracks/dominator-commodore-64/sieixwuq/03_Stage%20Clear%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dominator-commodore-64/03_Stage%2520Clear%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 167772,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/dominator-commodore-64/bwaofpco/04_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dominator-commodore-64/04_Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5389680,
+      "track_number": 5,
+      "title": "Dominator Demo Tune #1",
+      "runtime": 232,
+      "source_mp3": "https://vgmsite.com/soundtracks/dominator-commodore-64/ueczzphv/05_Dominator%20Demo%20Tune%20%231.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dominator-commodore-64/05_Dominator%2520Demo%2520Tune%2520%25231.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4204789,
+      "track_number": 6,
+      "title": "Dominator Demo Tune #2",
+      "runtime": 175,
+      "source_mp3": "https://vgmsite.com/soundtracks/dominator-commodore-64/eybnfsji/06_Dominator%20Demo%20Tune%20%232.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dominator-commodore-64/06_Dominator%2520Demo%2520Tune%2520%25232.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1026,
+    "filesize_mp3_bytes": 23320327,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "title": "Drakengard",
+  "titles_alternative": [
+    "Drakengard Java"
+  ],
+  "crawled_at": "2023-09-21T19:12:05.465943+00:00",
+  "slug": "drakengard-mobile-gamerip-2004",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/drakengard-mobile-gamerip-2004",
+  "platforms": {
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/drakengard-mobile-gamerip-2004/Drakengard%20Java.png"
+  ],
+  "year": 2004,
+  "date_added": "2023-08-23T00:00:00+00:00",
+  "developers": {
+    "Macrospace": "https://downloads.khinsider.com/game-soundtracks/developer/macrospace"
+  },
+  "publishers": {
+    "Square Enix": "https://downloads.khinsider.com/game-soundtracks/publisher/square-enix"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1080033,
+      "track_number": 1,
+      "title": "Menu Select",
+      "runtime": 27,
+      "source_mp3": "https://vgmsite.com/soundtracks/drakengard-mobile-gamerip-2004/mcpbucgnvo/01.%20Menu%20Select.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/drakengard-mobile-gamerip-2004/01.%2520Menu%2520Select.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4173332,
+      "track_number": 2,
+      "title": "Stage Act ~ On the Ground",
+      "runtime": 104,
+      "source_mp3": "https://vgmsite.com/soundtracks/drakengard-mobile-gamerip-2004/svwpaungdb/02.%20Stage%20Act%20~%20On%20the%20Ground.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/drakengard-mobile-gamerip-2004/02.%2520Stage%2520Act%2520~%2520On%2520the%2520Ground.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5651824,
+      "track_number": 3,
+      "title": "Boss Theme",
+      "runtime": 141,
+      "source_mp3": "https://vgmsite.com/soundtracks/drakengard-mobile-gamerip-2004/mhsnasfsne/03.%20Boss%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/drakengard-mobile-gamerip-2004/03.%2520Boss%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1635778,
+      "track_number": 4,
+      "title": "Results Screen",
+      "runtime": 41,
+      "source_mp3": "https://vgmsite.com/soundtracks/drakengard-mobile-gamerip-2004/oiyjioacei/04.%20Results%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/drakengard-mobile-gamerip-2004/04.%2520Results%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4508876,
+      "track_number": 5,
+      "title": "Stage Act ~ In the Sky",
+      "runtime": 113,
+      "source_mp3": "https://vgmsite.com/soundtracks/drakengard-mobile-gamerip-2004/tbihwvdbay/05.%20Stage%20Act%20~%20In%20the%20Sky.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/drakengard-mobile-gamerip-2004/05.%2520Stage%2520Act%2520~%2520In%2520the%2520Sky.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 426,
+    "filesize_mp3_bytes": 17049843,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

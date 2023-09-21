@@ -1,0 +1,94 @@
+{
+  "title": "Darkmere",
+  "titles_alternative": [
+    "Darkmere: The Nightmare's Begun"
+  ],
+  "crawled_at": "2023-09-21T14:59:13.408178+00:00",
+  "slug": "darkmere-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/darkmere-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/darkmere-amiga/D1.png"
+  ],
+  "year": 1994,
+  "date_added": "2019-05-06T00:00:00+00:00",
+  "developers": {
+    "Zero Hour": "https://downloads.khinsider.com/game-soundtracks/developer/zero-hour"
+  },
+  "publishers": {
+    "Core Design": "https://downloads.khinsider.com/game-soundtracks/publisher/core-design"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4456448,
+      "track_number": 1,
+      "title": "Opening",
+      "runtime": 163,
+      "source_mp3": "https://vgmsite.com/soundtracks/darkmere-amiga/jcacytal/01_Opening.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/darkmere-amiga/01_Opening.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1436549,
+      "track_number": 2,
+      "title": "Village Intro",
+      "runtime": 52,
+      "source_mp3": "https://vgmsite.com/soundtracks/darkmere-amiga/pyouyvnf/02_Village%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/darkmere-amiga/02_Village%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1195376,
+      "track_number": 3,
+      "title": "Forest Intro",
+      "runtime": 43,
+      "source_mp3": "https://vgmsite.com/soundtracks/darkmere-amiga/tqjyebcc/03_Forest%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/darkmere-amiga/03_Forest%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1342177,
+      "track_number": 4,
+      "title": "Orcs Intro",
+      "runtime": 49,
+      "source_mp3": "https://vgmsite.com/soundtracks/darkmere-amiga/giqzjykq/04_Orcs%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/darkmere-amiga/04_Orcs%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3869245,
+      "track_number": 5,
+      "title": "Ending",
+      "runtime": 145,
+      "source_mp3": "https://vgmsite.com/soundtracks/darkmere-amiga/snzzjtnt/05_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/darkmere-amiga/05_Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2915041,
+      "track_number": 6,
+      "title": "Game Over",
+      "runtime": 110,
+      "source_mp3": "https://vgmsite.com/soundtracks/darkmere-amiga/afyixjtp/06_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/darkmere-amiga/06_Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 562,
+    "filesize_mp3_bytes": 15214836,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "title": "DEFCON - Fear - Madness - Loss",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T15:46:01.384562+00:00",
+  "slug": "defcon-soundtrack",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/defcon-soundtrack",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/defcon-soundtrack/cover.jpg"
+  ],
+  "year": 2006,
+  "catalog_number": null,
+  "date_added": "2020-06-27T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Introversion": "https://downloads.khinsider.com/game-soundtracks/publisher/introversion"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 32830914,
+      "filesize_mp3_bytes": 17469276,
+      "track_number": 1,
+      "title": "Fear",
+      "runtime": 563,
+      "source_mp3": "https://vgmsite.com/soundtracks/defcon-soundtrack/opvfuhnlat/01%20-%20Fear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/defcon-soundtrack/opvfuhnlat/01%20-%20Fear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/defcon-soundtrack/01%2520-%2520Fear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 31677480,
+      "filesize_mp3_bytes": 17794334,
+      "track_number": 2,
+      "title": "Madness",
+      "runtime": 588,
+      "source_mp3": "https://vgmsite.com/soundtracks/defcon-soundtrack/fvahavgszq/02%20-%20Madness.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/defcon-soundtrack/fvahavgszq/02%20-%20Madness.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/defcon-soundtrack/02%2520-%2520Madness.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 54693724,
+      "filesize_mp3_bytes": 26434600,
+      "track_number": 3,
+      "title": "Loss",
+      "runtime": 826,
+      "source_mp3": "https://vgmsite.com/soundtracks/defcon-soundtrack/dcgbijgzws/03%20-%20Loss.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/defcon-soundtrack/dcgbijgzws/03%20-%20Loss.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/defcon-soundtrack/03%2520-%2520Loss.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1977,
+    "filesize_mp3_bytes": 61698210,
+    "filesize_flac_bytes": 119202118,
+    "tracks": 3
+  }
+}

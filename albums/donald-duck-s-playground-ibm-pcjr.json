@@ -1,0 +1,74 @@
+{
+  "title": "Donald Duck's Playground (IBM PCjr)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T17:39:42.197410+00:00",
+  "slug": "donald-duck-s-playground-ibm-pcjr",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/donald-duck-s-playground-ibm-pcjr",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/donald-duck-s-playground-ibm-pcjr/Donald%20Duck%27s%20Playground.png"
+  ],
+  "year": 1986,
+  "date_added": "2022-04-07T00:00:00+00:00",
+  "developers": {
+    "Sierra On-Line": "https://downloads.khinsider.com/game-soundtracks/developer/sierra-on-line"
+  },
+  "publishers": {
+    "Sierra On-Line": "https://downloads.khinsider.com/game-soundtracks/publisher/sierra-on-line"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3009413,
+      "filesize_mp3_bytes": 975175,
+      "track_number": 1,
+      "title": "The Playground",
+      "runtime": 52,
+      "source_mp3": "https://vgmsite.com/soundtracks/donald-duck-s-playground-ibm-pcjr/icjtbckwsd/01%20The%20Playground.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/donald-duck-s-playground-ibm-pcjr/icjtbckwsd/01%20The%20Playground.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/donald-duck-s-playground-ibm-pcjr/01%2520The%2520Playground.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4697620,
+      "filesize_mp3_bytes": 1572864,
+      "track_number": 2,
+      "title": "Main Street",
+      "runtime": 80,
+      "source_mp3": "https://vgmsite.com/soundtracks/donald-duck-s-playground-ibm-pcjr/nyvneasqlc/02%20Main%20Street.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/donald-duck-s-playground-ibm-pcjr/nyvneasqlc/02%20Main%20Street.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/donald-duck-s-playground-ibm-pcjr/02%2520Main%2520Street.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1384120,
+      "filesize_mp3_bytes": 587202,
+      "track_number": 3,
+      "title": "On the Job",
+      "runtime": 36,
+      "source_mp3": "https://vgmsite.com/soundtracks/donald-duck-s-playground-ibm-pcjr/qobtrdjzwl/03%20On%20the%20Job.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/donald-duck-s-playground-ibm-pcjr/qobtrdjzwl/03%20On%20the%20Job.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/donald-duck-s-playground-ibm-pcjr/03%2520On%2520the%2520Job.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 304087,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 4,
+      "title": "Store",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/donald-duck-s-playground-ibm-pcjr/scnbcegmmo/04%20Store.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/donald-duck-s-playground-ibm-pcjr/scnbcegmmo/04%20Store.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/donald-duck-s-playground-ibm-pcjr/04%2520Store.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 173,
+    "filesize_mp3_bytes": 3229612,
+    "filesize_flac_bytes": 9395240,
+    "tracks": 4
+  }
+}

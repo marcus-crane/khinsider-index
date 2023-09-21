@@ -1,0 +1,92 @@
+{
+  "title": "Dynamic Duo",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T19:48:38.384852+00:00",
+  "slug": "dynamic-duo-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dynamic-duo-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dynamic-duo-commodore-64/D1.png"
+  ],
+  "year": 1989,
+  "date_added": "2016-03-22T00:00:00+00:00",
+  "developers": {
+    "Probe": "https://downloads.khinsider.com/game-soundtracks/developer/probe"
+  },
+  "publishers": {
+    "Firebird": "https://downloads.khinsider.com/game-soundtracks/publisher/firebird"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2474639,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 122,
+      "source_mp3": "https://vgmsite.com/soundtracks/dynamic-duo-commodore-64/enspvyza/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dynamic-duo-commodore-64/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1132462,
+      "track_number": 2,
+      "title": "BGM #1",
+      "runtime": 57,
+      "source_mp3": "https://vgmsite.com/soundtracks/dynamic-duo-commodore-64/nsmfwkom/02_BGM%20%231.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dynamic-duo-commodore-64/02_BGM%2520%25231.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1447034,
+      "track_number": 3,
+      "title": "BGM #2",
+      "runtime": 81,
+      "source_mp3": "https://vgmsite.com/soundtracks/dynamic-duo-commodore-64/bzuuukch/03_BGM%20%232.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dynamic-duo-commodore-64/03_BGM%2520%25232.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4624220,
+      "track_number": 4,
+      "title": "Title Screen (SID Stereo)",
+      "runtime": 131,
+      "source_mp3": "https://vgmsite.com/soundtracks/dynamic-duo-commodore-64/apacwjjo/04_Title%20Screen%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dynamic-duo-commodore-64/04_Title%2520Screen%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2348810,
+      "track_number": 5,
+      "title": "BGM #1 (SID Stereo)",
+      "runtime": 67,
+      "source_mp3": "https://vgmsite.com/soundtracks/dynamic-duo-commodore-64/dkulbikm/05_BGM%20%231%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dynamic-duo-commodore-64/05_BGM%2520%25231%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2862612,
+      "track_number": 6,
+      "title": "BGM #2 (SID Stereo)",
+      "runtime": 90,
+      "source_mp3": "https://vgmsite.com/soundtracks/dynamic-duo-commodore-64/yqmfeazn/06_BGM%20%232%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dynamic-duo-commodore-64/06_BGM%2520%25232%2520%2528SID%2520Stereo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 548,
+    "filesize_mp3_bytes": 14889777,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

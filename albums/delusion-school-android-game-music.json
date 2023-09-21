@@ -1,0 +1,95 @@
+{
+  "title": "Delusion school (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T15:49:45.605483+00:00",
+  "slug": "delusion-school-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/delusion-school-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/delusion-school-android-game-music/1.jpg"
+  ],
+  "date_added": "2016-10-27T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 597688,
+      "track_number": 1,
+      "title": "main",
+      "runtime": 75,
+      "source_mp3": "https://vgmsite.com/soundtracks/delusion-school-android-game-music/dovsdzht/1%20main.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/delusion-school-android-game-music/1%2520main.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1289748,
+      "track_number": 2,
+      "title": "op",
+      "runtime": 161,
+      "source_mp3": "https://vgmsite.com/soundtracks/delusion-school-android-game-music/bqeagwmk/2%20op.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/delusion-school-android-game-music/2%2520op.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 660602,
+      "track_number": 3,
+      "title": "event",
+      "runtime": 82,
+      "source_mp3": "https://vgmsite.com/soundtracks/delusion-school-android-game-music/fvcjtucb/3%20event.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/delusion-school-android-game-music/3%2520event.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 545259,
+      "track_number": 4,
+      "title": "loading",
+      "runtime": 68,
+      "source_mp3": "https://vgmsite.com/soundtracks/delusion-school-android-game-music/kllwhdst/4%20loading.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/delusion-school-android-game-music/4%2520loading.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 513802,
+      "track_number": 5,
+      "title": "map",
+      "runtime": 65,
+      "source_mp3": "https://vgmsite.com/soundtracks/delusion-school-android-game-music/wdfqqfbm/5%20map.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/delusion-school-android-game-music/5%2520map.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 943718,
+      "track_number": 6,
+      "title": "fever",
+      "runtime": 119,
+      "source_mp3": "https://vgmsite.com/soundtracks/delusion-school-android-game-music/lsnamooe/6%20fever.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/delusion-school-android-game-music/6%2520fever.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 775946,
+      "track_number": 7,
+      "title": "battle",
+      "runtime": 98,
+      "source_mp3": "https://vgmsite.com/soundtracks/delusion-school-android-game-music/abjcofam/7%20battle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/delusion-school-android-game-music/7%2520battle.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 668,
+    "filesize_mp3_bytes": 5326763,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

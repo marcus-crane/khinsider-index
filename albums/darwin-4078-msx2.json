@@ -1,0 +1,68 @@
+{
+  "title": "Darwin 4078",
+  "titles_alternative": [
+    "\u30c0\u30fc\u30a6\u30a3\u30f34078"
+  ],
+  "crawled_at": "2023-09-21T15:01:53.723042+00:00",
+  "slug": "darwin-4078-msx2",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/darwin-4078-msx2",
+  "platforms": {
+    "MSX2": "https://downloads.khinsider.com/game-soundtracks/msx2"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/darwin-4078-msx2/D1.jpg"
+  ],
+  "year": 1987,
+  "date_added": "2022-04-04T00:00:00+00:00",
+  "developers": {
+    "Data East": "https://downloads.khinsider.com/game-soundtracks/developer/data-east",
+    "Hudson": "https://downloads.khinsider.com/game-soundtracks/developer/hudson"
+  },
+  "publishers": {
+    "Hudson": "https://downloads.khinsider.com/game-soundtracks/publisher/hudson"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 199229,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 1,
+      "title": "Start",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/darwin-4078-msx2/zaizehsrfr/01%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/darwin-4078-msx2/zaizehsrfr/01%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/darwin-4078-msx2/01%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6228541,
+      "filesize_mp3_bytes": 2222981,
+      "track_number": 2,
+      "title": "Main BGM",
+      "runtime": 113,
+      "source_mp3": "https://vgmsite.com/soundtracks/darwin-4078-msx2/kpgcduhmra/02%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/darwin-4078-msx2/kpgcduhmra/02%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/darwin-4078-msx2/02%2520Main%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 346030,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 3,
+      "title": "Game Over",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/darwin-4078-msx2/wgqpudiohs/03%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/darwin-4078-msx2/wgqpudiohs/03%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/darwin-4078-msx2/03%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 125,
+    "filesize_mp3_bytes": 2464153,
+    "filesize_flac_bytes": 6773800,
+    "tracks": 3
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "title": "Dungeon Hack",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T19:36:51.430887+00:00",
+  "slug": "dungeon-hack-ibm-pc-at",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dungeon-hack-ibm-pc-at",
+  "platforms": {
+    "IBM PC/AT": "https://downloads.khinsider.com/game-soundtracks/ibm-pc-at"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dungeon-hack-ibm-pc-at/Dungeon%20Hack.png"
+  ],
+  "year": 1993,
+  "date_added": "2022-04-14T00:00:00+00:00",
+  "developers": {
+    "DreamForge Intertainment": "https://downloads.khinsider.com/game-soundtracks/developer/dreamforge-intertainment"
+  },
+  "publishers": {
+    "Strategic Simulations": "https://downloads.khinsider.com/game-soundtracks/publisher/strategic-simulations"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8661237,
+      "filesize_mp3_bytes": 3303014,
+      "track_number": 1,
+      "title": "Scene One",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/dungeon-hack-ibm-pc-at/jpbpnvcwea/01%20Scene%20One.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dungeon-hack-ibm-pc-at/jpbpnvcwea/01%20Scene%20One.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dungeon-hack-ibm-pc-at/01%2520Scene%2520One.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4173332,
+      "filesize_mp3_bytes": 2673868,
+      "track_number": 2,
+      "title": "Scene Two",
+      "runtime": 107,
+      "source_mp3": "https://vgmsite.com/soundtracks/dungeon-hack-ibm-pc-at/tsnhoanawy/02%20Scene%20Two.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dungeon-hack-ibm-pc-at/tsnhoanawy/02%20Scene%20Two.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dungeon-hack-ibm-pc-at/02%2520Scene%2520Two.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2422210,
+      "filesize_mp3_bytes": 1059061,
+      "track_number": 3,
+      "title": "End",
+      "runtime": 58,
+      "source_mp3": "https://vgmsite.com/soundtracks/dungeon-hack-ibm-pc-at/rruyjluadg/03%20End.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dungeon-hack-ibm-pc-at/rruyjluadg/03%20End.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dungeon-hack-ibm-pc-at/03%2520End.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 345,
+    "filesize_mp3_bytes": 7035943,
+    "filesize_flac_bytes": 15256779,
+    "tracks": 3
+  }
+}

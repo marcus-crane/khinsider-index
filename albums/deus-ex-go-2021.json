@@ -1,0 +1,79 @@
+{
+  "title": "Deus Ex Go",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T16:15:13.774628+00:00",
+  "slug": "deus-ex-go-2021",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/deus-ex-go-2021",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/deus-ex-go-2021/coverart.jpg"
+  ],
+  "year": 2021,
+  "date_added": "2022-08-31T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4152360,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 255,
+      "source_mp3": "https://vgmsite.com/soundtracks/deus-ex-go-2021/vilgkrcegp/01%20-%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/deus-ex-go-2021/01%2520-%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4047503,
+      "track_number": 2,
+      "title": "Silent Approach",
+      "runtime": 249,
+      "source_mp3": "https://vgmsite.com/soundtracks/deus-ex-go-2021/kehjhauxws/02%20-%20Silent%20Approach.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/deus-ex-go-2021/02%2520-%2520Silent%2520Approach.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4582277,
+      "track_number": 3,
+      "title": "Stay Behind",
+      "runtime": 282,
+      "source_mp3": "https://vgmsite.com/soundtracks/deus-ex-go-2021/kpjwgrxbee/03%20-%20Stay%20Behind.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/deus-ex-go-2021/03%2520-%2520Stay%2520Behind.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6039797,
+      "track_number": 4,
+      "title": "Red Alert",
+      "runtime": 249,
+      "source_mp3": "https://vgmsite.com/soundtracks/deus-ex-go-2021/ypgkkfhywz/04%20-%20Red%20Alert.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/deus-ex-go-2021/04%2520-%2520Red%2520Alert.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2285895,
+      "track_number": 5,
+      "title": "Editor",
+      "runtime": 138,
+      "source_mp3": "https://vgmsite.com/soundtracks/deus-ex-go-2021/usaskzgzux/05%20-%20Editor.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/deus-ex-go-2021/05%2520-%2520Editor.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1173,
+    "filesize_mp3_bytes": 21107832,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

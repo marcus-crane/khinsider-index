@@ -1,0 +1,58 @@
+{
+  "title": "Dead of Night",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T15:20:22.555860+00:00",
+  "slug": "dead-of-night-2007-gamerip-pc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dead-of-night-2007-gamerip-pc",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dead-of-night-2007-gamerip-pc/zombiesvshalloweengame2.png"
+  ],
+  "year": 2007,
+  "date_added": "2022-05-15T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1237319,
+      "track_number": 1,
+      "title": "Menu Theme",
+      "runtime": 77,
+      "source_mp3": "https://vgmsite.com/soundtracks/dead-of-night-2007-gamerip-pc/dbyobzauwr/1.%20Menu%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dead-of-night-2007-gamerip-pc/1.%2520Menu%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1237319,
+      "track_number": 2,
+      "title": "In-Game Theme",
+      "runtime": 77,
+      "source_mp3": "https://vgmsite.com/soundtracks/dead-of-night-2007-gamerip-pc/yhfrmxswlz/2.%20In-Game%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dead-of-night-2007-gamerip-pc/2.%2520In-Game%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1237319,
+      "track_number": 3,
+      "title": "Fight Theme",
+      "runtime": 77,
+      "source_mp3": "https://vgmsite.com/soundtracks/dead-of-night-2007-gamerip-pc/vcgtwudeox/3.%20Fight%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dead-of-night-2007-gamerip-pc/3.%2520Fight%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 231,
+    "filesize_mp3_bytes": 3711957,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

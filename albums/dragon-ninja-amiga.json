@@ -1,0 +1,77 @@
+{
+  "title": "Dragon Ninja",
+  "titles_alternative": [
+    "Bad Dudes Vs. DragonNinja",
+    "\u30c9\u30e9\u30b4\u30f3\u30cb\u30f3\u30b8\u30e3"
+  ],
+  "crawled_at": "2023-09-21T18:54:43.434388+00:00",
+  "slug": "dragon-ninja-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dragon-ninja-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dragon-ninja-amiga/Dragon%20Ninja.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2017-08-07T00:00:00+00:00",
+  "developers": {
+    "Data East": "https://downloads.khinsider.com/game-soundtracks/developer/data-east"
+  },
+  "publishers": {
+    "Data East": "https://downloads.khinsider.com/game-soundtracks/publisher/data-east",
+    "Imagine": "https://downloads.khinsider.com/game-soundtracks/publisher/imagine",
+    "The Hit Squad": "https://downloads.khinsider.com/game-soundtracks/publisher/the-hit-squad"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5725224,
+      "track_number": 1,
+      "title": "Odd Stages",
+      "runtime": 157,
+      "source_mp3": "https://vgmsite.com/soundtracks/dragon-ninja-amiga/zllsscyn/01_Odd%20Stages.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dragon-ninja-amiga/01_Odd%2520Stages.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4991221,
+      "track_number": 2,
+      "title": "Even Stages",
+      "runtime": 151,
+      "source_mp3": "https://vgmsite.com/soundtracks/dragon-ninja-amiga/otyymuzw/02_Even%20Stages.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dragon-ninja-amiga/02_Even%2520Stages.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1457520,
+      "track_number": 3,
+      "title": "Boss Theme",
+      "runtime": 47,
+      "source_mp3": "https://vgmsite.com/soundtracks/dragon-ninja-amiga/ihwyysqr/03_Boss%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dragon-ninja-amiga/03_Boss%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 157286,
+      "track_number": 4,
+      "title": "Stage Clear",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/dragon-ninja-amiga/qvgcokhu/04_Stage%20Clear.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dragon-ninja-amiga/04_Stage%2520Clear.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 361,
+    "filesize_mp3_bytes": 12331251,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

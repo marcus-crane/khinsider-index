@@ -1,0 +1,63 @@
+{
+  "title": "Diamond Mine deluxe",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T16:26:13.947600+00:00",
+  "slug": "diamond-mine-deluxe-windows-gamerip-2001",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/diamond-mine-deluxe-windows-gamerip-2001",
+  "platforms": {
+    "Online": "https://downloads.khinsider.com/game-soundtracks/online",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/diamond-mine-deluxe-windows-gamerip-2001/diamond%20mine.png"
+  ],
+  "year": 2001,
+  "date_added": "2023-04-10T00:00:00+00:00",
+  "developers": {
+    "PopCap Games": "https://downloads.khinsider.com/game-soundtracks/developer/popcap-games"
+  },
+  "publishers": {
+    "PopCap Games": "https://downloads.khinsider.com/game-soundtracks/publisher/popcap-games"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3837788,
+      "track_number": 1,
+      "title": "Autonomus",
+      "runtime": 240,
+      "source_mp3": "https://vgmsite.com/soundtracks/diamond-mine-deluxe-windows-gamerip-2001/httreqxiop/01.%20Autonomus.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/diamond-mine-deluxe-windows-gamerip-2001/01.%2520Autonomus.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7570718,
+      "track_number": 2,
+      "title": "Datajack",
+      "runtime": 473,
+      "source_mp3": "https://vgmsite.com/soundtracks/diamond-mine-deluxe-windows-gamerip-2001/glrrskscbr/02.%20Datajack.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/diamond-mine-deluxe-windows-gamerip-2001/02.%2520Datajack.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 13925089,
+      "track_number": 3,
+      "title": "Network",
+      "runtime": 870,
+      "source_mp3": "https://vgmsite.com/soundtracks/diamond-mine-deluxe-windows-gamerip-2001/kauejdzkhp/03.%20Network.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/diamond-mine-deluxe-windows-gamerip-2001/03.%2520Network.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1583,
+    "filesize_mp3_bytes": 25333595,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "title": "Dragon Crystal",
+  "titles_alternative": [
+    "Dragon Crystal: Tsurani no Meikyu",
+    "\u30c9\u30e9\u30b4\u30f3\u30af\u30ea\u30b9\u30bf\u30eb \u2015\u30c4\u30e9\u30cb\u306e\u8ff7\u5bae\u2015"
+  ],
+  "crawled_at": "2023-09-21T18:47:21.067462+00:00",
+  "slug": "dragon-crystal-game-gear",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dragon-crystal-game-gear",
+  "platforms": {
+    "Game Gear": "https://downloads.khinsider.com/game-soundtracks/sega-game-gear"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dragon-crystal-game-gear/Dragon%20Crystal%20%28GG%29.png"
+  ],
+  "year": 1991,
+  "date_added": "2020-07-07T00:00:00+00:00",
+  "developers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1625292,
+      "filesize_mp3_bytes": 681574,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 34,
+      "source_mp3": "https://vgmsite.com/soundtracks/dragon-crystal-game-gear/iclebitiax/01%20-%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dragon-crystal-game-gear/iclebitiax/01%20-%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dragon-crystal-game-gear/01%2520-%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6994001,
+      "filesize_mp3_bytes": 2757754,
+      "track_number": 2,
+      "title": "Levels 1 to 10",
+      "runtime": 133,
+      "source_mp3": "https://vgmsite.com/soundtracks/dragon-crystal-game-gear/nwkgfvblph/02%20-%20Levels%201%20to%2010.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dragon-crystal-game-gear/nwkgfvblph/02%20-%20Levels%201%20to%2010.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dragon-crystal-game-gear/02%2520-%2520Levels%25201%2520to%252010.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5955911,
+      "filesize_mp3_bytes": 2799697,
+      "track_number": 3,
+      "title": "Levels 11 to 20",
+      "runtime": 125,
+      "source_mp3": "https://vgmsite.com/soundtracks/dragon-crystal-game-gear/uzukxoqakg/03%20-%20Levels%2011%20to%2020.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dragon-crystal-game-gear/uzukxoqakg/03%20-%20Levels%2011%20to%2020.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dragon-crystal-game-gear/03%2520-%2520Levels%252011%2520to%252020.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5316280,
+      "filesize_mp3_bytes": 2464153,
+      "track_number": 4,
+      "title": "Levels 21 to 30",
+      "runtime": 125,
+      "source_mp3": "https://vgmsite.com/soundtracks/dragon-crystal-game-gear/fcojyhadyd/04%20-%20Levels%2021%20to%2030.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dragon-crystal-game-gear/fcojyhadyd/04%20-%20Levels%2021%20to%2030.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dragon-crystal-game-gear/04%2520-%2520Levels%252021%2520to%252030.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1950351,
+      "filesize_mp3_bytes": 1069547,
+      "track_number": 5,
+      "title": "Ending",
+      "runtime": 47,
+      "source_mp3": "https://vgmsite.com/soundtracks/dragon-crystal-game-gear/jtvhixamvn/05%20-%20Ending.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dragon-crystal-game-gear/jtvhixamvn/05%20-%20Ending.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dragon-crystal-game-gear/05%2520-%2520Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 241172,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 6,
+      "title": "Game Over",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/dragon-crystal-game-gear/kixqbwmxkk/06%20-%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dragon-crystal-game-gear/kixqbwmxkk/06%20-%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dragon-crystal-game-gear/06%2520-%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 469,
+    "filesize_mp3_bytes": 9888068,
+    "filesize_flac_bytes": 22083007,
+    "tracks": 6
+  }
+}

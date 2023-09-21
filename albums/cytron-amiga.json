@@ -1,0 +1,62 @@
+{
+  "title": "Cytron",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T14:09:20.725677+00:00",
+  "slug": "cytron-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/cytron-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/cytron-amiga/C1.jpg"
+  ],
+  "year": 1992,
+  "date_added": "2017-07-13T00:00:00+00:00",
+  "developers": {
+    "Lunatic": "https://downloads.khinsider.com/game-soundtracks/developer/lunatic"
+  },
+  "publishers": {
+    "Psygnosis": "https://downloads.khinsider.com/game-soundtracks/publisher/psygnosis"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4687134,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 162,
+      "source_mp3": "https://vgmsite.com/soundtracks/cytron-amiga/iuypkdys/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cytron-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4120903,
+      "track_number": 2,
+      "title": "Ending",
+      "runtime": 140,
+      "source_mp3": "https://vgmsite.com/soundtracks/cytron-amiga/lhlivixr/02_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cytron-amiga/02_Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2401239,
+      "track_number": 3,
+      "title": "High Score",
+      "runtime": 91,
+      "source_mp3": "https://vgmsite.com/soundtracks/cytron-amiga/eelbxncr/03_High%20Score.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cytron-amiga/03_High%2520Score.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 393,
+    "filesize_mp3_bytes": 11209276,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

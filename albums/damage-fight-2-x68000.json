@@ -1,0 +1,38 @@
+{
+  "title": "Damage Fight 2",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T14:15:59.031016+00:00",
+  "slug": "damage-fight-2-x68000",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/damage-fight-2-x68000",
+  "platforms": {
+    "X68000": "https://downloads.khinsider.com/game-soundtracks/x68000"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/damage-fight-2-x68000/Damage%20Fight%202%20%28X68000%29%20%28gamerip%29%20%281991%29.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2019-05-27T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8357150,
+      "track_number": 1,
+      "title": "In-Game BGM",
+      "runtime": 262,
+      "source_mp3": "https://vgmsite.com/soundtracks/damage-fight-2-x68000/eamjuuhglf/01_In-Game%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/damage-fight-2-x68000/01_In-Game%2520BGM.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 262,
+    "filesize_mp3_bytes": 8357150,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

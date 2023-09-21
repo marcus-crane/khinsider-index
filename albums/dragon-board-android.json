@@ -1,0 +1,54 @@
+{
+  "title": "Dragon Board",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T18:46:00.483299+00:00",
+  "slug": "dragon-board-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dragon-board-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dragon-board-android/1.jpeg"
+  ],
+  "date_added": "2017-03-14T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1688207,
+      "title": "battle",
+      "runtime": 85,
+      "source_mp3": "https://vgmsite.com/soundtracks/dragon-board-android/lseytafj/battle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dragon-board-android/battle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1321205,
+      "title": "battle-boss",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/dragon-board-android/bzzpfudr/battle-boss.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dragon-board-android/battle-boss.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1163919,
+      "title": "ui",
+      "runtime": 56,
+      "source_mp3": "https://vgmsite.com/soundtracks/dragon-board-android/ydzhxbvy/ui.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dragon-board-android/ui.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 205,
+    "filesize_mp3_bytes": 4173331,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

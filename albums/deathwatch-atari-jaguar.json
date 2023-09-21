@@ -1,0 +1,41 @@
+{
+  "title": "Deathwatch (Unreleased)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T15:40:50.892622+00:00",
+  "slug": "deathwatch-atari-jaguar",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/deathwatch-atari-jaguar",
+  "platforms": {
+    "Atari Jaguar": "https://downloads.khinsider.com/game-soundtracks/atari-jaguar"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/deathwatch-atari-jaguar/Deathwatch%20%28Atari%20Jaguar%29.jpg"
+  ],
+  "year": 2018,
+  "date_added": "2020-09-27T00:00:00+00:00",
+  "developers": {
+    "Data Design Interactive": "https://downloads.khinsider.com/game-soundtracks/developer/data-design-interactive"
+  },
+  "publishers": {
+    "Atari Corporation": "https://downloads.khinsider.com/game-soundtracks/publisher/atari-corporation"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4424990,
+      "title": "Deathwatch Theme",
+      "runtime": 110,
+      "source_mp3": "https://vgmsite.com/soundtracks/deathwatch-atari-jaguar/gcqkfgyvwf/Deathwatch%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/deathwatch-atari-jaguar/Deathwatch%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 110,
+    "filesize_mp3_bytes": 4424990,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Disc Station (FM)",
+  "titles_alternative": [
+    "\u30c7\u30a3\u30b9\u30af\u30b9\u30c6\u30fc\u30b7\u30e7\u30f3"
+  ],
+  "crawled_at": "2023-09-21T16:51:02.718774+00:00",
+  "slug": "disc-station-fm",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/disc-station-fm",
+  "platforms": {
+    "MSX2": "https://downloads.khinsider.com/game-soundtracks/msx2"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/disc-station-fm/Disc%20Station%20%28FM%29.png"
+  ],
+  "date_added": "2022-04-07T00:00:00+00:00",
+  "developers": {
+    "Compile": "https://downloads.khinsider.com/game-soundtracks/developer/compile"
+  },
+  "publishers": {
+    "Compile": "https://downloads.khinsider.com/game-soundtracks/publisher/compile"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2222981,
+      "filesize_mp3_bytes": 954204,
+      "title": "Disc Station - 01 - Title Screen (FM)",
+      "runtime": 44,
+      "source_mp3": "https://vgmsite.com/soundtracks/disc-station-fm/ajaffoqdnc/Disc%20Station%20-%2001%20-%20Title%20Screen%20%28FM%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/disc-station-fm/ajaffoqdnc/Disc%20Station%20-%2001%20-%20Title%20Screen%20%28FM%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/disc-station-fm/Disc%2520Station%2520-%252001%2520-%2520Title%2520Screen%2520%2528FM%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4613734,
+      "filesize_mp3_bytes": 2254438,
+      "title": "Disc Station - 02 - Menu (FM)",
+      "runtime": 102,
+      "source_mp3": "https://vgmsite.com/soundtracks/disc-station-fm/riczmotzhh/Disc%20Station%20-%2002%20-%20Menu%20%28FM%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/disc-station-fm/riczmotzhh/Disc%20Station%20-%2002%20-%20Menu%20%28FM%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/disc-station-fm/Disc%2520Station%2520-%252002%2520-%2520Menu%2520%2528FM%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 146,
+    "filesize_mp3_bytes": 3208642,
+    "filesize_flac_bytes": 6836715,
+    "tracks": 2
+  }
+}

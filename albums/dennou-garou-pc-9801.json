@@ -1,0 +1,94 @@
+{
+  "title": "Dennou Garou",
+  "titles_alternative": [
+    "\u96fb\u8133\u753b\u5eca"
+  ],
+  "crawled_at": "2023-09-21T15:56:05.980776+00:00",
+  "slug": "dennou-garou-pc-9801",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dennou-garou-pc-9801",
+  "platforms": {
+    "PC-98": "https://downloads.khinsider.com/game-soundtracks/pc-9801"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dennou-garou-pc-9801/Dennou%20Garou%20%28PC-9801%29.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2018-03-07T00:00:00+00:00",
+  "developers": {
+    "Apple Pie": "https://downloads.khinsider.com/game-soundtracks/developer/apple-pie"
+  },
+  "publishers": {
+    "Apple Pie": "https://downloads.khinsider.com/game-soundtracks/publisher/apple-pie"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5515509,
+      "track_number": 1,
+      "title": "BGM1",
+      "runtime": 190,
+      "source_mp3": "https://vgmsite.com/soundtracks/dennou-garou-pc-9801/mksodrbu/01_BGM1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dennou-garou-pc-9801/01_BGM1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2736783,
+      "track_number": 2,
+      "title": "BGM2",
+      "runtime": 94,
+      "source_mp3": "https://vgmsite.com/soundtracks/dennou-garou-pc-9801/nagsaahc/02_BGM2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dennou-garou-pc-9801/02_BGM2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2086666,
+      "track_number": 3,
+      "title": "BGM5",
+      "runtime": 71,
+      "source_mp3": "https://vgmsite.com/soundtracks/dennou-garou-pc-9801/kosejnwg/03_BGM5.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dennou-garou-pc-9801/03_BGM5.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5138022,
+      "track_number": 4,
+      "title": "BGM6",
+      "runtime": 177,
+      "source_mp3": "https://vgmsite.com/soundtracks/dennou-garou-pc-9801/bjyrbyvc/04_BGM6.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dennou-garou-pc-9801/04_BGM6.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1342177,
+      "track_number": 5,
+      "title": "BGMB",
+      "runtime": 50,
+      "source_mp3": "https://vgmsite.com/soundtracks/dennou-garou-pc-9801/ipijazfb/05_BGMB.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dennou-garou-pc-9801/05_BGMB.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5316280,
+      "track_number": 6,
+      "title": "BGME",
+      "runtime": 189,
+      "source_mp3": "https://vgmsite.com/soundtracks/dennou-garou-pc-9801/lwgwckzs/06_BGME.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dennou-garou-pc-9801/06_BGME.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 771,
+    "filesize_mp3_bytes": 22135437,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "title": "Deuteros",
+  "titles_alternative": [
+    "Deuteros: The Next Millennium"
+  ],
+  "crawled_at": "2023-09-21T16:20:23.051192+00:00",
+  "slug": "deuteros-amiga-gamerip-1991",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/deuteros-amiga-gamerip-1991",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/deuteros-amiga-gamerip-1991/abandoned%20places%202.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2023-04-15T00:00:00+00:00",
+  "developers": {
+    "Ian Bird": "https://downloads.khinsider.com/game-soundtracks/developer/ian-bird"
+  },
+  "publishers": {
+    "Activision": "https://downloads.khinsider.com/game-soundtracks/publisher/activision"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5085593,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 181,
+      "source_mp3": "https://vgmsite.com/soundtracks/deuteros-amiga-gamerip-1991/dbhlbxpjic/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/deuteros-amiga-gamerip-1991/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1101004,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 39,
+      "source_mp3": "https://vgmsite.com/soundtracks/deuteros-amiga-gamerip-1991/wutpvugkzh/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/deuteros-amiga-gamerip-1991/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1289748,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 46,
+      "source_mp3": "https://vgmsite.com/soundtracks/deuteros-amiga-gamerip-1991/pjmjsqviuu/03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/deuteros-amiga-gamerip-1991/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2264924,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 81,
+      "source_mp3": "https://vgmsite.com/soundtracks/deuteros-amiga-gamerip-1991/fbofgluakw/04.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/deuteros-amiga-gamerip-1991/04.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 347,
+    "filesize_mp3_bytes": 9741269,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "title": "DuckTales: The Quest for Gold",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T19:28:32.305496+00:00",
+  "slug": "ducktales-the-quest-for-gold-amiga-gamerip-1990",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ducktales-the-quest-for-gold-amiga-gamerip-1990",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ducktales-the-quest-for-gold-amiga-gamerip-1990/cover_ducktales_the_quest_for_gold.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2023-05-23T00:00:00+00:00",
+  "developers": {
+    "Incredible Technologies": "https://downloads.khinsider.com/game-soundtracks/developer/incredible-technologies"
+  },
+  "publishers": {
+    "Titus Software": "https://downloads.khinsider.com/game-soundtracks/publisher/titus-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1866465,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 66,
+      "source_mp3": "https://vgmsite.com/soundtracks/ducktales-the-quest-for-gold-amiga-gamerip-1990/ugklgjooln/1%20-%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ducktales-the-quest-for-gold-amiga-gamerip-1990/1%2520-%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2569011,
+      "track_number": 2,
+      "title": "Office",
+      "runtime": 95,
+      "source_mp3": "https://vgmsite.com/soundtracks/ducktales-the-quest-for-gold-amiga-gamerip-1990/fpvxrsynrm/2%20-%20Office.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ducktales-the-quest-for-gold-amiga-gamerip-1990/2%2520-%2520Office.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2915041,
+      "track_number": 3,
+      "title": "Map",
+      "runtime": 109,
+      "source_mp3": "https://vgmsite.com/soundtracks/ducktales-the-quest-for-gold-amiga-gamerip-1990/kasccyahsw/3%20-%20Map.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ducktales-the-quest-for-gold-amiga-gamerip-1990/3%2520-%2520Map.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 270,
+    "filesize_mp3_bytes": 7350517,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

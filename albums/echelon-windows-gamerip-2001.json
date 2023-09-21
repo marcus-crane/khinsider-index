@@ -1,0 +1,50 @@
+{
+  "title": "Echelon",
+  "titles_alternative": [
+    "\u0428\u0442\u043e\u0440\u043c"
+  ],
+  "crawled_at": "2023-09-21T20:01:26.563236+00:00",
+  "slug": "echelon-windows-gamerip-2001",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/echelon-windows-gamerip-2001",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/echelon-windows-gamerip-2001/4111601-echelon-windows-front-cover.jpg"
+  ],
+  "year": 2001,
+  "date_added": "2023-06-23T00:00:00+00:00",
+  "developers": {
+    "Madia Entertainment": "https://downloads.khinsider.com/game-soundtracks/developer/madia-entertainment"
+  },
+  "publishers": {
+    "Akaei": "https://downloads.khinsider.com/game-soundtracks/publisher/akaei",
+    "Bethesda Softworks": "https://downloads.khinsider.com/game-soundtracks/publisher/bethesda-softworks",
+    "Buka Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/buka-entertainment",
+    "Discus": "https://downloads.khinsider.com/game-soundtracks/publisher/discus",
+    "Mindscape": "https://downloads.khinsider.com/game-soundtracks/publisher/mindscape",
+    "Ubisoft": "https://downloads.khinsider.com/game-soundtracks/publisher/ubisoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 32054968,
+      "filesize_mp3_bytes": 8808038,
+      "track_number": 1,
+      "title": "Menu",
+      "runtime": 266,
+      "source_mp3": "https://vgmsite.com/soundtracks/echelon-windows-gamerip-2001/tebzbuomtz/01.%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/echelon-windows-gamerip-2001/tebzbuomtz/01.%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/echelon-windows-gamerip-2001/01.%2520Menu.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 266,
+    "filesize_mp3_bytes": 8808038,
+    "filesize_flac_bytes": 32054968,
+    "tracks": 1
+  }
+}

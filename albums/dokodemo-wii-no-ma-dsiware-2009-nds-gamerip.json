@@ -1,0 +1,45 @@
+{
+  "title": "Dokodemo Wii no Ma (DSiWare)",
+  "titles_alternative": [
+    "\u3069\u3053\u3067\u3082 Wii\u306e\u9593"
+  ],
+  "crawled_at": "2023-09-21T17:34:25.845128+00:00",
+  "slug": "dokodemo-wii-no-ma-dsiware-2009-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dokodemo-wii-no-ma-dsiware-2009-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dokodemo-wii-no-ma-dsiware-2009-nds-gamerip/Dokodemo%20Wii%20no%20Ma.png"
+  ],
+  "year": 2009,
+  "date_added": "2020-06-04T00:00:00+00:00",
+  "developers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/developer/nintendo"
+  },
+  "publishers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9426698,
+      "filesize_mp3_bytes": 4047503,
+      "track_number": 1,
+      "title": "BGM Ds Main01",
+      "runtime": 142,
+      "source_mp3": "https://vgmsite.com/soundtracks/dokodemo-wii-no-ma-dsiware-2009-nds-gamerip/acpvrabhpq/01%20-%20BGM%20Ds%20Main01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dokodemo-wii-no-ma-dsiware-2009-nds-gamerip/acpvrabhpq/01%20-%20BGM%20Ds%20Main01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dokodemo-wii-no-ma-dsiware-2009-nds-gamerip/01%2520-%2520BGM%2520Ds%2520Main01.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 142,
+    "filesize_mp3_bytes": 4047503,
+    "filesize_flac_bytes": 9426698,
+    "tracks": 1
+  }
+}

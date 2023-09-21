@@ -1,0 +1,55 @@
+{
+  "title": "Donkey Kong Jr.",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T17:49:05.372790+00:00",
+  "slug": "donkey-kong-jr.-windows-gamerip-2003",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/donkey-kong-jr.-windows-gamerip-2003",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/donkey-kong-jr.-windows-gamerip-2003/Screenshot%202023-08-21%20081336.png"
+  ],
+  "year": 2003,
+  "date_added": "2023-08-24T00:00:00+00:00",
+  "developers": {
+    "Boolean Games": "https://downloads.khinsider.com/game-soundtracks/developer/boolean-games",
+    "Ren\u00e9 Boutestijn": "https://downloads.khinsider.com/game-soundtracks/developer/ren-boutestijn"
+  },
+  "publishers": {
+    "Boolean Games": "https://downloads.khinsider.com/game-soundtracks/publisher/boolean-games"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1090519,
+      "filesize_mp3_bytes": 314572,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 13,
+      "source_mp3": "https://vgmsite.com/soundtracks/donkey-kong-jr.-windows-gamerip-2003/tzlbspblmj/01.%20Intro.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/donkey-kong-jr.-windows-gamerip-2003/tzlbspblmj/01.%20Intro.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/donkey-kong-jr.-windows-gamerip-2003/01.%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1814036,
+      "filesize_mp3_bytes": 1646264,
+      "track_number": 2,
+      "title": "Music1",
+      "runtime": 97,
+      "source_mp3": "https://vgmsite.com/soundtracks/donkey-kong-jr.-windows-gamerip-2003/migsgxyxkm/02.%20Music1.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/donkey-kong-jr.-windows-gamerip-2003/migsgxyxkm/02.%20Music1.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/donkey-kong-jr.-windows-gamerip-2003/02.%2520Music1.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 110,
+    "filesize_mp3_bytes": 1960836,
+    "filesize_flac_bytes": 2904555,
+    "tracks": 2
+  }
+}

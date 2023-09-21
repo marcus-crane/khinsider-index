@@ -1,0 +1,45 @@
+{
+  "title": "Dungeon Madness",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T19:37:50.573643+00:00",
+  "slug": "dungeon-madness-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dungeon-madness-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dungeon-madness-android/screen-0.jpg"
+  ],
+  "date_added": "2018-11-08T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1279262,
+      "title": "Intro Loop",
+      "runtime": 32,
+      "source_mp3": "https://vgmsite.com/soundtracks/dungeon-madness-android/pyewyfmv/Intro%20Loop.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dungeon-madness-android/Intro%2520Loop.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7853834,
+      "title": "Main Loop",
+      "runtime": 196,
+      "source_mp3": "https://vgmsite.com/soundtracks/dungeon-madness-android/mswwtpvk/Main%20Loop.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dungeon-madness-android/Main%2520Loop.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 228,
+    "filesize_mp3_bytes": 9133096,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

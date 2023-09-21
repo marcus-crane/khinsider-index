@@ -1,0 +1,87 @@
+{
+  "title": "Decathlon (Unlicensed)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T15:41:57.344592+00:00",
+  "slug": "decathlon-1992-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/decathlon-1992-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/decathlon-1992-nes/Decathlon.jpg"
+  ],
+  "year": 1992,
+  "date_added": "2022-04-07T00:00:00+00:00",
+  "developers": {
+    "C&E": "https://downloads.khinsider.com/game-soundtracks/developer/c-e"
+  },
+  "publishers": {
+    "C&E": "https://downloads.khinsider.com/game-soundtracks/publisher/c-e"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 912261,
+      "filesize_mp3_bytes": 335544,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 17,
+      "source_mp3": "https://vgmsite.com/soundtracks/decathlon-1992-nes/blvmeygebu/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/decathlon-1992-nes/blvmeygebu/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/decathlon-1992-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2327838,
+      "filesize_mp3_bytes": 692060,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 39,
+      "source_mp3": "https://vgmsite.com/soundtracks/decathlon-1992-nes/rngamdrbhl/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/decathlon-1992-nes/rngamdrbhl/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/decathlon-1992-nes/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10433331,
+      "filesize_mp3_bytes": 3617587,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/decathlon-1992-nes/cipfoturzj/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/decathlon-1992-nes/cipfoturzj/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/decathlon-1992-nes/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9741271,
+      "filesize_mp3_bytes": 3879731,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/decathlon-1992-nes/wvpmttlneo/04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/decathlon-1992-nes/wvpmttlneo/04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/decathlon-1992-nes/04.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7811891,
+      "filesize_mp3_bytes": 5064622,
+      "track_number": 5,
+      "title": "Track 5",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/decathlon-1992-nes/cnozwjhotz/05.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/decathlon-1992-nes/cnozwjhotz/05.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/decathlon-1992-nes/05.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 596,
+    "filesize_mp3_bytes": 13589544,
+    "filesize_flac_bytes": 31226592,
+    "tracks": 5
+  }
+}

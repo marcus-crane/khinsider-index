@@ -1,0 +1,62 @@
+{
+  "title": "Days of Thunder",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T15:09:11.274520+00:00",
+  "slug": "days-of-thunder-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/days-of-thunder-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/days-of-thunder-amiga/D1.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2018-04-21T00:00:00+00:00",
+  "developers": {
+    "Mindscape": "https://downloads.khinsider.com/game-soundtracks/developer/mindscape"
+  },
+  "publishers": {
+    "Mindscape": "https://downloads.khinsider.com/game-soundtracks/publisher/mindscape"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4330618,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 148,
+      "source_mp3": "https://vgmsite.com/soundtracks/days-of-thunder-amiga/adqhekes/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/days-of-thunder-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2149580,
+      "track_number": 2,
+      "title": "Game Over",
+      "runtime": 75,
+      "source_mp3": "https://vgmsite.com/soundtracks/days-of-thunder-amiga/bcnmmagx/02_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/days-of-thunder-amiga/02_Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2715811,
+      "track_number": 3,
+      "title": "Victory",
+      "runtime": 95,
+      "source_mp3": "https://vgmsite.com/soundtracks/days-of-thunder-amiga/pbvkhlnw/03_Victory.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/days-of-thunder-amiga/03_Victory.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 318,
+    "filesize_mp3_bytes": 9196009,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

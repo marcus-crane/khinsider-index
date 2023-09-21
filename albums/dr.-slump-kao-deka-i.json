@@ -1,0 +1,54 @@
+{
+  "title": "Dr. Slump Kao Deka-i",
+  "titles_alternative": [
+    "Kao Deka-i / Funta",
+    "\u9854\u3067\u304b\u30fc\u3044 / Funta"
+  ],
+  "crawled_at": "2023-09-21T18:22:42.596341+00:00",
+  "slug": "dr.-slump-kao-deka-i",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dr.-slump-kao-deka-i",
+  "platforms": {
+    "Anime": "https://downloads.khinsider.com/game-soundtracks/anime"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dr.-slump-kao-deka-i/Dr.%20Slump%20Kao%20Deka-i.jpg"
+  ],
+  "year": 1998,
+  "catalog_number": "SRDL-4466",
+  "date_added": "2006-11-20T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Sony Records": "https://downloads.khinsider.com/game-soundtracks/publisher/sony-records"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3261071,
+      "track_number": 1,
+      "title": "kao deka-i",
+      "runtime": 204,
+      "source_mp3": "https://vgmsite.com/soundtracks/dr.-slump-kao-deka-i/dpznzsyf/01.%20kao%20deka-i.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dr.-slump-kao-deka-i/01.%2520kao%2520deka-i.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4750049,
+      "track_number": 2,
+      "title": "it's a happy world",
+      "runtime": 297,
+      "source_mp3": "https://vgmsite.com/soundtracks/dr.-slump-kao-deka-i/czjmulcs/02.%20it%27s%20a%20happy%20world.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dr.-slump-kao-deka-i/02.%2520it%2527s%2520a%2520happy%2520world.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 501,
+    "filesize_mp3_bytes": 8011120,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

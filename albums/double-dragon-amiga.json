@@ -1,0 +1,49 @@
+{
+  "title": "Double Dragon",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T18:08:34.775911+00:00",
+  "slug": "double-dragon-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/double-dragon-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/double-dragon-amiga/28050--double-dragon.png"
+  ],
+  "year": 1989,
+  "date_added": "2017-12-06T00:00:00+00:00",
+  "developers": {
+    "Arc System Works": "https://downloads.khinsider.com/game-soundtracks/developer/arc-system-works",
+    "MORE": "https://downloads.khinsider.com/game-soundtracks/developer/more",
+    "Technos Japan": "https://downloads.khinsider.com/game-soundtracks/developer/technos-japan",
+    "WayForward": "https://downloads.khinsider.com/game-soundtracks/developer/wayforward"
+  },
+  "publishers": {
+    "Limited Run Games": "https://downloads.khinsider.com/game-soundtracks/publisher/limited-run-games",
+    "MORE": "https://downloads.khinsider.com/game-soundtracks/publisher/more",
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega",
+    "Technos Japan": "https://downloads.khinsider.com/game-soundtracks/publisher/technos-japan",
+    "Tradewest": "https://downloads.khinsider.com/game-soundtracks/publisher/tradewest"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7182745,
+      "track_number": 1,
+      "title": "Arrival of the Black Warriors (Title Screen)",
+      "runtime": 216,
+      "source_mp3": "https://vgmsite.com/soundtracks/double-dragon-amiga/yhddnmwf/01_Arrival%20of%20the%20Black%20Warriors%20%28Title%20Screen%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/double-dragon-amiga/01_Arrival%2520of%2520the%2520Black%2520Warriors%2520%2528Title%2520Screen%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 216,
+    "filesize_mp3_bytes": 7182745,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

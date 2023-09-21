@@ -1,0 +1,57 @@
+{
+  "title": "Double Strike - Aerial Attack Force (Unlicensed)",
+  "titles_alternative": [
+    "Twin Eagle",
+    "\u53cc\u9df9"
+  ],
+  "crawled_at": "2023-09-21T18:12:02.026951+00:00",
+  "slug": "double-strike-aerial-attack-force-1990-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/double-strike-aerial-attack-force-1990-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/double-strike-aerial-attack-force-1990-nes/D1.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2022-04-11T00:00:00+00:00",
+  "developers": {
+    "Sachen": "https://downloads.khinsider.com/game-soundtracks/developer/sachen"
+  },
+  "publishers": {
+    "American Video Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/american-video-entertainment"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11125391,
+      "filesize_mp3_bytes": 3649044,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/double-strike-aerial-attack-force-1990-nes/dwyfnhrnln/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/double-strike-aerial-attack-force-1990-nes/dwyfnhrnln/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/double-strike-aerial-attack-force-1990-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9699328,
+      "filesize_mp3_bytes": 3502243,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/double-strike-aerial-attack-force-1990-nes/mmcympeahx/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/double-strike-aerial-attack-force-1990-nes/mmcympeahx/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/double-strike-aerial-attack-force-1990-nes/02.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 360,
+    "filesize_mp3_bytes": 7151287,
+    "filesize_flac_bytes": 20824719,
+    "tracks": 2
+  }
+}

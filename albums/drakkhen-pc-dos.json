@@ -1,0 +1,115 @@
+{
+  "title": "Drakkhen",
+  "titles_alternative": [
+    "\u30c9\u30e9\u30c3\u30b1\u30f3"
+  ],
+  "crawled_at": "2023-09-21T19:12:15.702706+00:00",
+  "slug": "drakkhen-pc-dos",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/drakkhen-pc-dos",
+  "platforms": {
+    "MS-DOS": "https://downloads.khinsider.com/game-soundtracks/ms-dos"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/drakkhen-pc-dos/Drakkhen%20Box.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2019-05-02T00:00:00+00:00",
+  "developers": {
+    "Infogrames": "https://downloads.khinsider.com/game-soundtracks/developer/infogrames"
+  },
+  "publishers": {
+    "Infogrames": "https://downloads.khinsider.com/game-soundtracks/publisher/infogrames",
+    "Piko Interactive": "https://downloads.khinsider.com/game-soundtracks/publisher/piko-interactive"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3198156,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 125,
+      "source_mp3": "https://vgmsite.com/soundtracks/drakkhen-pc-dos/wvbeotnu/01%20-%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/drakkhen-pc-dos/01%2520-%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3292528,
+      "track_number": 2,
+      "title": "Temple ~ Character Generation",
+      "runtime": 130,
+      "source_mp3": "https://vgmsite.com/soundtracks/drakkhen-pc-dos/xhuajsjy/02%20-%20Temple%20~%20Character%20Generation.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/drakkhen-pc-dos/02%2520-%2520Temple%2520~%2520Character%2520Generation.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3795845,
+      "track_number": 3,
+      "title": "Forest",
+      "runtime": 151,
+      "source_mp3": "https://vgmsite.com/soundtracks/drakkhen-pc-dos/cptbwmfn/03%20-%20Forest.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/drakkhen-pc-dos/03%2520-%2520Forest.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3009413,
+      "track_number": 4,
+      "title": "Desert",
+      "runtime": 117,
+      "source_mp3": "https://vgmsite.com/soundtracks/drakkhen-pc-dos/uhtjthcu/04%20-%20Desert.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/drakkhen-pc-dos/04%2520-%2520Desert.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3795845,
+      "track_number": 5,
+      "title": "Marsh",
+      "runtime": 151,
+      "source_mp3": "https://vgmsite.com/soundtracks/drakkhen-pc-dos/gfuvgnxf/05%20-%20Marsh.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/drakkhen-pc-dos/05%2520-%2520Marsh.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3261071,
+      "track_number": 6,
+      "title": "Tundra",
+      "runtime": 128,
+      "source_mp3": "https://vgmsite.com/soundtracks/drakkhen-pc-dos/mxozxywo/06%20-%20Tundra.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/drakkhen-pc-dos/06%2520-%2520Tundra.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2013265,
+      "track_number": 7,
+      "title": "Town Theme",
+      "runtime": 76,
+      "source_mp3": "https://vgmsite.com/soundtracks/drakkhen-pc-dos/kqexxhzr/07%20-%20Town%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/drakkhen-pc-dos/07%2520-%2520Town%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5463080,
+      "track_number": 8,
+      "title": "Ending",
+      "runtime": 171,
+      "source_mp3": "https://vgmsite.com/soundtracks/drakkhen-pc-dos/xsdpoghe/08%20-%20Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/drakkhen-pc-dos/08%2520-%2520Ending.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1049,
+    "filesize_mp3_bytes": 27829203,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

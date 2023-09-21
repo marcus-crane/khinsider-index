@@ -1,0 +1,87 @@
+{
+  "title": "Deathbots (Unlicensed)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T15:39:04.010591+00:00",
+  "slug": "deathbots-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/deathbots-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/deathbots-nes/Deathbots%20Cover.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2022-06-25T00:00:00+00:00",
+  "developers": {
+    "Odyssey Software": "https://downloads.khinsider.com/game-soundtracks/developer/odyssey-software"
+  },
+  "publishers": {
+    "American Video Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/american-video-entertainment"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4068474,
+      "filesize_mp3_bytes": 1436549,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 70,
+      "source_mp3": "https://vgmsite.com/soundtracks/deathbots-nes/laigmqfoqn/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/deathbots-nes/laigmqfoqn/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/deathbots-nes/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3051356,
+      "filesize_mp3_bytes": 1342177,
+      "track_number": 2,
+      "title": "Level 1 & 2",
+      "runtime": 62,
+      "source_mp3": "https://vgmsite.com/soundtracks/deathbots-nes/kaookeagzu/02%20Level%201%20%26%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/deathbots-nes/kaookeagzu/02%20Level%201%20%26%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/deathbots-nes/02%2520Level%25201%2520%2526%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1027604,
+      "filesize_mp3_bytes": 492830,
+      "track_number": 3,
+      "title": "Level 3, 4, 6",
+      "runtime": 25,
+      "source_mp3": "https://vgmsite.com/soundtracks/deathbots-nes/axhojzyyfu/03%20Level%203%2C%204%2C%206.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/deathbots-nes/axhojzyyfu/03%20Level%203%2C%204%2C%206.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/deathbots-nes/03%2520Level%25203%252C%25204%252C%25206.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2694840,
+      "filesize_mp3_bytes": 1384120,
+      "track_number": 4,
+      "title": "Level 5",
+      "runtime": 60,
+      "source_mp3": "https://vgmsite.com/soundtracks/deathbots-nes/oclrwrolyt/04%20Level%205.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/deathbots-nes/oclrwrolyt/04%20Level%205.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/deathbots-nes/04%2520Level%25205.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2915041,
+      "filesize_mp3_bytes": 1593835,
+      "track_number": 5,
+      "title": "Boss Theme",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/deathbots-nes/dvcmshjfjy/05%20Boss%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/deathbots-nes/dvcmshjfjy/05%20Boss%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/deathbots-nes/05%2520Boss%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 281,
+    "filesize_mp3_bytes": 6249511,
+    "filesize_flac_bytes": 13757315,
+    "tracks": 5
+  }
+}

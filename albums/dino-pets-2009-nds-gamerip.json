@@ -1,0 +1,64 @@
+{
+  "title": "Dino Pets",
+  "titles_alternative": [
+    "101 Dino Pets"
+  ],
+  "crawled_at": "2023-09-21T16:44:40.324236+00:00",
+  "slug": "dino-pets-2009-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dino-pets-2009-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dino-pets-2009-nds-gamerip/D1.png"
+  ],
+  "year": 2009,
+  "date_added": "2020-06-04T00:00:00+00:00",
+  "developers": {
+    "Destineer": "https://downloads.khinsider.com/game-soundtracks/developer/destineer"
+  },
+  "publishers": {
+    "Destineer": "https://downloads.khinsider.com/game-soundtracks/publisher/destineer"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6836715,
+      "filesize_mp3_bytes": 2894069,
+      "title": "Dino1",
+      "runtime": 106,
+      "source_mp3": "https://vgmsite.com/soundtracks/dino-pets-2009-nds-gamerip/dqhyufzpds/Dino1.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dino-pets-2009-nds-gamerip/dqhyufzpds/Dino1.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dino-pets-2009-nds-gamerip/Dino1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 12079595,
+      "filesize_mp3_bytes": 4823449,
+      "title": "Dino2",
+      "runtime": 174,
+      "source_mp3": "https://vgmsite.com/soundtracks/dino-pets-2009-nds-gamerip/hrevnlgmlq/Dino2.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dino-pets-2009-nds-gamerip/hrevnlgmlq/Dino2.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dino-pets-2009-nds-gamerip/Dino2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7361003,
+      "filesize_mp3_bytes": 3470786,
+      "title": "Dino3",
+      "runtime": 167,
+      "source_mp3": "https://vgmsite.com/soundtracks/dino-pets-2009-nds-gamerip/azpyoozfwa/Dino3.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dino-pets-2009-nds-gamerip/azpyoozfwa/Dino3.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dino-pets-2009-nds-gamerip/Dino3.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 447,
+    "filesize_mp3_bytes": 11188304,
+    "filesize_flac_bytes": 26277313,
+    "tracks": 3
+  }
+}

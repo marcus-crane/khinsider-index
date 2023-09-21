@@ -1,0 +1,78 @@
+{
+  "title": "Dream Theater",
+  "titles_alternative": [
+    "\u30c9\u30ea\u30fc\u30e0\u30b7\u30a2\u30bf\u30fc"
+  ],
+  "crawled_at": "2023-09-21T19:17:38.847361+00:00",
+  "slug": "dream-theater-pc-9801",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dream-theater-pc-9801",
+  "platforms": {
+    "PC-98": "https://downloads.khinsider.com/game-soundtracks/pc-9801"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dream-theater-pc-9801/Dream%20Theater.png"
+  ],
+  "year": 1994,
+  "date_added": "2022-04-11T00:00:00+00:00",
+  "developers": {
+    "Wild Life": "https://downloads.khinsider.com/game-soundtracks/developer/wild-life"
+  },
+  "publishers": {
+    "Wild Life": "https://downloads.khinsider.com/game-soundtracks/publisher/wild-life"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5693767,
+      "filesize_mp3_bytes": 2296381,
+      "track_number": 1,
+      "title": "Unknown Track (MI.O)",
+      "runtime": 103,
+      "source_mp3": "https://vgmsite.com/soundtracks/dream-theater-pc-9801/lrwqldwryf/01%20Unknown%20Track%20%28MI.O%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dream-theater-pc-9801/lrwqldwryf/01%20Unknown%20Track%20%28MI.O%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dream-theater-pc-9801/01%2520Unknown%2520Track%2520%2528MI.O%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6280970,
+      "filesize_mp3_bytes": 2569011,
+      "track_number": 2,
+      "title": "Unknown Track (SO.O)",
+      "runtime": 128,
+      "source_mp3": "https://vgmsite.com/soundtracks/dream-theater-pc-9801/kbfwgmawza/02%20Unknown%20Track%20%28SO.O%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dream-theater-pc-9801/kbfwgmawza/02%20Unknown%20Track%20%28SO.O%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dream-theater-pc-9801/02%2520Unknown%2520Track%2520%2528SO.O%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6322913,
+      "filesize_mp3_bytes": 2338324,
+      "track_number": 3,
+      "title": "Unknown Track (ST.O)",
+      "runtime": 107,
+      "source_mp3": "https://vgmsite.com/soundtracks/dream-theater-pc-9801/bizzbbphca/03%20Unknown%20Track%20%28ST.O%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dream-theater-pc-9801/bizzbbphca/03%20Unknown%20Track%20%28ST.O%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dream-theater-pc-9801/03%2520Unknown%2520Track%2520%2528ST.O%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3491758,
+      "filesize_mp3_bytes": 1562378,
+      "track_number": 4,
+      "title": "Unknown Track (TE.O)",
+      "runtime": 73,
+      "source_mp3": "https://vgmsite.com/soundtracks/dream-theater-pc-9801/eiymcsolae/04%20Unknown%20Track%20%28TE.O%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dream-theater-pc-9801/eiymcsolae/04%20Unknown%20Track%20%28TE.O%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dream-theater-pc-9801/04%2520Unknown%2520Track%2520%2528TE.O%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 411,
+    "filesize_mp3_bytes": 8766094,
+    "filesize_flac_bytes": 21789408,
+    "tracks": 4
+  }
+}

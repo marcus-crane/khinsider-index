@@ -1,0 +1,56 @@
+{
+  "title": "DreamFlyer",
+  "titles_alternative": [
+    "\u30c9\u30ea\u30fc\u30e0\u30d5\u30e9\u30a4\u30e4\u30fc"
+  ],
+  "crawled_at": "2023-09-21T19:19:27.450111+00:00",
+  "slug": "dreamflyer-1999-dreamcast-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dreamflyer-1999-dreamcast-gamerip",
+  "platforms": {
+    "Dreamcast": "https://downloads.khinsider.com/game-soundtracks/sega-dreamcast"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dreamflyer-1999-dreamcast-gamerip/DreamFlyer.jpg"
+  ],
+  "year": 1999,
+  "date_added": "2020-05-06T00:00:00+00:00",
+  "developers": {
+    "Colabo": "https://downloads.khinsider.com/game-soundtracks/developer/colabo",
+    "Gao": "https://downloads.khinsider.com/game-soundtracks/developer/gao",
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 32065454,
+      "filesize_mp3_bytes": 8923381,
+      "title": "Midi 00",
+      "runtime": 247,
+      "source_mp3": "https://vgmsite.com/soundtracks/dreamflyer-1999-dreamcast-gamerip/haaxnknspy/Midi%2000.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dreamflyer-1999-dreamcast-gamerip/haaxnknspy/Midi%2000.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dreamflyer-1999-dreamcast-gamerip/Midi%252000.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 15414067,
+      "filesize_mp3_bytes": 4582277,
+      "title": "Midi 01",
+      "runtime": 125,
+      "source_mp3": "https://vgmsite.com/soundtracks/dreamflyer-1999-dreamcast-gamerip/btvxxlteym/Midi%2001.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dreamflyer-1999-dreamcast-gamerip/btvxxlteym/Midi%2001.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dreamflyer-1999-dreamcast-gamerip/Midi%252001.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 372,
+    "filesize_mp3_bytes": 13505658,
+    "filesize_flac_bytes": 47479521,
+    "tracks": 2
+  }
+}

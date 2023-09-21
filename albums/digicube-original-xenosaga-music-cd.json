@@ -1,0 +1,63 @@
+{
+  "title": "DigiCube original Xenosaga music CD",
+  "titles_alternative": [
+    "\u30c7\u30b8\u30ad\u30e5\u30fc\u30d6\u30aa\u30ea\u30b8\u30ca\u30eb\u300c\u30bc\u30ce\u30b5\u30fc\u30ac\u300d\u30df\u30e5\u30fc\u30b8\u30c3\u30afCD"
+  ],
+  "crawled_at": "2023-09-21T16:32:46.795306+00:00",
+  "slug": "digicube-original-xenosaga-music-cd",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/digicube-original-xenosaga-music-cd",
+  "platforms": {
+    "PS2": "https://downloads.khinsider.com/game-soundtracks/playstation-2"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/digicube-original-xenosaga-music-cd/DigiCube%20original%20Xenosaga%20music%20CD.jpg"
+  ],
+  "year": 2002,
+  "catalog_number": "TGCS-1353",
+  "date_added": "2007-09-28T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "DigiCube": "https://downloads.khinsider.com/game-soundtracks/publisher/digicube"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6259998,
+      "track_number": 1,
+      "title": "Prologue",
+      "runtime": 274,
+      "source_mp3": "https://vgmsite.com/soundtracks/digicube-original-xenosaga-music-cd/tyanthud/01%20Prologue.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/digicube-original-xenosaga-music-cd/01%2520Prologue.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3303014,
+      "track_number": 2,
+      "title": "Escape",
+      "runtime": 151,
+      "source_mp3": "https://vgmsite.com/soundtracks/digicube-original-xenosaga-music-cd/yhpnylxa/02%20Escape.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/digicube-original-xenosaga-music-cd/02%2520Escape.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2684354,
+      "track_number": 3,
+      "title": "Pain Piano Version",
+      "runtime": 145,
+      "source_mp3": "https://vgmsite.com/soundtracks/digicube-original-xenosaga-music-cd/qsxmgozx/03%20Pain%20Piano%20Version.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/digicube-original-xenosaga-music-cd/03%2520Pain%2520Piano%2520Version.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 570,
+    "filesize_mp3_bytes": 12247366,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

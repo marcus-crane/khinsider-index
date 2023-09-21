@@ -1,0 +1,83 @@
+{
+  "title": "Donald Duck's Playground",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T17:39:43.816588+00:00",
+  "slug": "donald-ducks-playground-amiga-gamerip-1986",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/donald-ducks-playground-amiga-gamerip-1986",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/donald-ducks-playground-amiga-gamerip-1986/cover_donald_ducks_playground.jpg"
+  ],
+  "year": 1986,
+  "date_added": "2023-05-02T00:00:00+00:00",
+  "developers": {
+    "Sierra On-Line": "https://downloads.khinsider.com/game-soundtracks/developer/sierra-on-line"
+  },
+  "publishers": {
+    "Sierra On-Line": "https://downloads.khinsider.com/game-soundtracks/publisher/sierra-on-line",
+    "U.S. Gold": "https://downloads.khinsider.com/game-soundtracks/publisher/u.s.-gold"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 545259,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 19,
+      "source_mp3": "https://vgmsite.com/soundtracks/donald-ducks-playground-amiga-gamerip-1986/ehcwfyxdva/01.%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/donald-ducks-playground-amiga-gamerip-1986/01.%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 901775,
+      "track_number": 2,
+      "title": "In-game - 1",
+      "runtime": 32,
+      "source_mp3": "https://vgmsite.com/soundtracks/donald-ducks-playground-amiga-gamerip-1986/ivgdalnetx/02.%20In-game%20-%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/donald-ducks-playground-amiga-gamerip-1986/02.%2520In-game%2520-%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 3,
+      "title": "In-game - 2",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/donald-ducks-playground-amiga-gamerip-1986/ellioryuzj/03.%20In-game%20-%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/donald-ducks-playground-amiga-gamerip-1986/03.%2520In-game%2520-%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 346030,
+      "track_number": 4,
+      "title": "In-game - 3",
+      "runtime": 12,
+      "source_mp3": "https://vgmsite.com/soundtracks/donald-ducks-playground-amiga-gamerip-1986/seiltglyic/04.%20In-game%20-%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/donald-ducks-playground-amiga-gamerip-1986/04.%2520In-game%2520-%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 5,
+      "title": "In-game - 4",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/donald-ducks-playground-amiga-gamerip-1986/dyybwxnstd/05.%20In-game%20-%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/donald-ducks-playground-amiga-gamerip-1986/05.%2520In-game%2520-%25204.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 70,
+    "filesize_mp3_bytes": 2002778,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

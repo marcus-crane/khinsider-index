@@ -1,0 +1,76 @@
+{
+  "title": "Defender",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T15:46:20.027206+00:00",
+  "slug": "defender-2002-gba",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/defender-2002-gba",
+  "platforms": {
+    "GBA": "https://downloads.khinsider.com/game-soundtracks/gameboy-advance"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/defender-2002-gba/Defender%20%28GBA%29%20%28gamerip%29%20%282002%29.jpg"
+  ],
+  "year": 2002,
+  "date_added": "2020-02-21T00:00:00+00:00",
+  "developers": {
+    "Outlook Entertainment": "https://downloads.khinsider.com/game-soundtracks/developer/outlook-entertainment"
+  },
+  "publishers": {
+    "Midway Games": "https://downloads.khinsider.com/game-soundtracks/publisher/midway-games"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6731857,
+      "filesize_mp3_bytes": 2411724,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 80,
+      "source_mp3": "https://vgmsite.com/soundtracks/defender-2002-gba/vzhpuywwer/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/defender-2002-gba/vzhpuywwer/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/defender-2002-gba/01%2520BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3240099,
+      "filesize_mp3_bytes": 1027604,
+      "track_number": 2,
+      "title": "BGM #02",
+      "runtime": 37,
+      "source_mp3": "https://vgmsite.com/soundtracks/defender-2002-gba/gzecgdevek/02%20BGM%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/defender-2002-gba/gzecgdevek/02%20BGM%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/defender-2002-gba/02%2520BGM%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 157286,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 3,
+      "title": "Jingle #01",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/defender-2002-gba/ypupmkkpwy/03%20Jingle%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/defender-2002-gba/ypupmkkpwy/03%20Jingle%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/defender-2002-gba/03%2520Jingle%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 199229,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 4,
+      "title": "Jingle #02",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/defender-2002-gba/byrpknhobd/04%20Jingle%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/defender-2002-gba/byrpknhobd/04%20Jingle%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/defender-2002-gba/04%2520Jingle%2520%252302.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 121,
+    "filesize_mp3_bytes": 3607099,
+    "filesize_flac_bytes": 10328471,
+    "tracks": 4
+  }
+}
