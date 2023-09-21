@@ -11,13 +11,13 @@ jobs:
     steps:
 
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           token: '${{ secrets.PAT_TOKEN }}'
           # See https://github.community/t/push-from-action-even-with-pat-does-not-trigger-action/17622/6
           persist-credentials: false
 
-      - uses: actions/setup-go@v2
+      - uses: actions/setup-go@v4
         with:
           go-version: 1.17.2
 

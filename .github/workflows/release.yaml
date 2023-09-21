@@ -21,7 +21,7 @@ jobs:
     steps:
 
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
           # See https://github.community/t/push-from-action-even-with-pat-does-not-trigger-action/17622/6
