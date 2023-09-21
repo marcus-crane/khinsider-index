@@ -1,0 +1,74 @@
+{
+  "title": "Uno DX",
+  "titles_alternative": [
+    "\u30a6\u30ce\u30c7\u30e9\u30c3\u30af\u30b9"
+  ],
+  "crawled_at": "2023-09-20T00:40:06.924546+00:00",
+  "slug": "uno-dx-1998-saturn-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/uno-dx-1998-saturn-gamerip",
+  "platforms": {
+    "Saturn": "https://downloads.khinsider.com/game-soundtracks/sega-saturn"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/uno-dx-1998-saturn-gamerip/Uno%20DX.jpg"
+  ],
+  "year": 1998,
+  "date_added": "2020-05-22T00:00:00+00:00",
+  "developers": {
+    "MediaQuest": "https://downloads.khinsider.com/game-soundtracks/developer/mediaquest"
+  },
+  "publishers": {
+    "MediaQuest": "https://downloads.khinsider.com/game-soundtracks/publisher/mediaquest"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 429916,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 19,
+      "source_mp3": "https://vgmsite.com/soundtracks/uno-dx-1998-saturn-gamerip/nrmqyntwga/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/uno-dx-1998-saturn-gamerip/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3481272,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 138,
+      "source_mp3": "https://vgmsite.com/soundtracks/uno-dx-1998-saturn-gamerip/jbcfcwqbma/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/uno-dx-1998-saturn-gamerip/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/uno-dx-1998-saturn-gamerip/kgguyyhldc/03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/uno-dx-1998-saturn-gamerip/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1918894,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 79,
+      "source_mp3": "https://vgmsite.com/soundtracks/uno-dx-1998-saturn-gamerip/hquecwgtgg/04.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/uno-dx-1998-saturn-gamerip/04.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 243,
+    "filesize_mp3_bytes": 5966396,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

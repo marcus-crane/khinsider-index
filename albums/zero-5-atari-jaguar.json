@@ -1,0 +1,72 @@
+{
+  "title": "Zero 5",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-20T21:26:17.985337+00:00",
+  "slug": "zero-5-atari-jaguar",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/zero-5-atari-jaguar",
+  "platforms": {
+    "Atari Jaguar": "https://downloads.khinsider.com/game-soundtracks/atari-jaguar"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/zero-5-atari-jaguar/Zero%205%20Atari%20Jaguar%20cover.jpg"
+  ],
+  "year": 1997,
+  "date_added": "2020-08-22T00:00:00+00:00",
+  "developers": {
+    "Caspian Software": "https://downloads.khinsider.com/game-soundtracks/developer/caspian-software"
+  },
+  "publishers": {
+    "Telegames": "https://downloads.khinsider.com/game-soundtracks/publisher/telegames"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9888071,
+      "track_number": 1,
+      "title": "Intro Theme",
+      "runtime": 247,
+      "source_mp3": "https://vgmsite.com/soundtracks/zero-5-atari-jaguar/pvdxzobxan/1.%20Intro%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zero-5-atari-jaguar/1.%2520Intro%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 13128171,
+      "track_number": 2,
+      "title": "Combat 1",
+      "runtime": 328,
+      "source_mp3": "https://vgmsite.com/soundtracks/zero-5-atari-jaguar/tifiqwdild/2.%20Combat%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zero-5-atari-jaguar/2.%2520Combat%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9563013,
+      "track_number": 3,
+      "title": "Combat 2",
+      "runtime": 239,
+      "source_mp3": "https://vgmsite.com/soundtracks/zero-5-atari-jaguar/nkcolurlag/3.%20Combat%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zero-5-atari-jaguar/3.%2520Combat%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11806965,
+      "track_number": 4,
+      "title": "Combat 3",
+      "runtime": 295,
+      "source_mp3": "https://vgmsite.com/soundtracks/zero-5-atari-jaguar/bdqfxgxflr/4.%20Combat%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zero-5-atari-jaguar/4.%2520Combat%25203.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1109,
+    "filesize_mp3_bytes": 44386220,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

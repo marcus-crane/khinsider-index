@@ -1,0 +1,116 @@
+{
+  "title": "Q*Bert",
+  "titles_alternative": [
+    "\uff31\u30d0\u30fc\u30c8"
+  ],
+  "crawled_at": "2023-09-19T21:01:21.733327+00:00",
+  "slug": "q-bert",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/q-bert",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/q-bert/coverart.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2019-01-19T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami"
+  },
+  "publishers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami",
+    "Palcom": "https://downloads.khinsider.com/game-soundtracks/publisher/palcom",
+    "Ultra Games": "https://downloads.khinsider.com/game-soundtracks/publisher/ultra-games"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1426063,
+      "track_number": 1,
+      "title": "Control Select",
+      "runtime": 51,
+      "source_mp3": "https://vgmsite.com/soundtracks/q-bert/vjdtjbsl/01%20Control%20Select.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/q-bert/01%2520Control%2520Select.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 671088,
+      "track_number": 2,
+      "title": "Level Start",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/q-bert/qmgwmbcd/02%20Level%20Start.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/q-bert/02%2520Level%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 681574,
+      "track_number": 3,
+      "title": "Level Clear",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/q-bert/uermhcdo/03%20Level%20Clear.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/q-bert/03%2520Level%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1572864,
+      "track_number": 4,
+      "title": "Victory",
+      "runtime": 60,
+      "source_mp3": "https://vgmsite.com/soundtracks/q-bert/ijtohaqc/04%20Victory.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/q-bert/04%2520Victory.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1876951,
+      "track_number": 5,
+      "title": "Finale",
+      "runtime": 79,
+      "source_mp3": "https://vgmsite.com/soundtracks/q-bert/corbsmcz/05%20Finale.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/q-bert/05%2520Finale.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1184890,
+      "track_number": 6,
+      "title": "Transition",
+      "runtime": 36,
+      "source_mp3": "https://vgmsite.com/soundtracks/q-bert/joxtcotx/06%20Transition.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/q-bert/06%2520Transition.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 660602,
+      "track_number": 7,
+      "title": "Game Over 1",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/q-bert/chektgzo/07%20Game%20Over%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/q-bert/07%2520Game%2520Over%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 660602,
+      "track_number": 8,
+      "title": "Game Over 2",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/q-bert/uyqrayhy/08%20Game%20Over%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/q-bert/08%2520Game%2520Over%25202.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 242,
+    "filesize_mp3_bytes": 8734634,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

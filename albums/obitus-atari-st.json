@@ -1,0 +1,41 @@
+{
+  "title": "Obitus",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T09:41:32.436775+00:00",
+  "slug": "obitus-atari-st",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/obitus-atari-st",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/obitus-atari-st/1072.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2021-02-07T00:00:00+00:00",
+  "developers": {
+    "Scenario Developments": "https://downloads.khinsider.com/game-soundtracks/developer/scenario-developments"
+  },
+  "publishers": {
+    "Psygnosis": "https://downloads.khinsider.com/game-soundtracks/publisher/psygnosis"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1551892,
+      "title": "Title Screen",
+      "runtime": 119,
+      "source_mp3": "https://vgmsite.com/soundtracks/obitus-atari-st/atdapywqcz/Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/obitus-atari-st/Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 119,
+    "filesize_mp3_bytes": 1551892,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

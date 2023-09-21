@@ -1,0 +1,605 @@
+{
+  "title": "Zueirama",
+  "titles_alternative": [
+    "Zueirama: O Game"
+  ],
+  "crawled_at": "2023-09-20T21:46:43.231543+00:00",
+  "slug": "zueirama-windows-gamerip-2019",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/Cover.jpg"
+  ],
+  "year": 2019,
+  "date_added": "2023-08-18T00:00:00+00:00",
+  "developers": {
+    "Clayton Lima": "https://downloads.khinsider.com/game-soundtracks/developer/clayton-lima",
+    "Francisco Pinho": "https://downloads.khinsider.com/game-soundtracks/developer/francisco-pinho"
+  },
+  "publishers": {
+    "Memes Games": "https://downloads.khinsider.com/game-soundtracks/publisher/memes-games"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2170552,
+      "track_number": 1,
+      "title": "Menu",
+      "runtime": 54,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/yxebpnrsls/01.%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/01.%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1541406,
+      "track_number": 2,
+      "title": "Samba",
+      "runtime": 38,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/ibsmwjfudf/02.%20Samba.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/02.%2520Samba.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1908408,
+      "track_number": 3,
+      "title": "Cidade Da Zueira",
+      "runtime": 119,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/byhmfkkdzm/03.%20Cidade%20Da%20Zueira.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/03.%2520Cidade%2520Da%2520Zueira.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 325058,
+      "track_number": 4,
+      "title": "Abertura Jornal",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/orhbkitkgw/04.%20Abertura%20Jornal.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/04.%2520Abertura%2520Jornal.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3449815,
+      "track_number": 5,
+      "title": "Thema Vit\u00f3ria",
+      "runtime": 86,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/prnpeeimbf/05.%20Thema%20Vit%C3%B3ria.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/05.%2520Thema%2520Vit%25C3%25B3ria.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3418357,
+      "track_number": 6,
+      "title": "Mapa",
+      "runtime": 85,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/xkxuhbsssd/06.%20Mapa.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/06.%2520Mapa.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 817889,
+      "track_number": 7,
+      "title": "Quebrada",
+      "runtime": 20,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/oztfblsloq/07.%20Quebrada.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/07.%2520Quebrada.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4917821,
+      "track_number": 8,
+      "title": "Vila",
+      "runtime": 123,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/oljgfxmdfc/08.%20Vila.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/08.%2520Vila.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 922746,
+      "track_number": 9,
+      "title": "Antes Do Boss",
+      "runtime": 23,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/stvodhwhbr/09.%20Antes%20Do%20Boss.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/09.%2520Antes%2520Do%2520Boss.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4729077,
+      "track_number": 10,
+      "title": "Boss",
+      "runtime": 118,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/prmkluqxzp/10.%20Boss.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/10.%2520Boss.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2254438,
+      "track_number": 11,
+      "title": "Viagem De Moto",
+      "runtime": 56,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/wjuwubyuel/11.%20Viagem%20De%20Moto.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/11.%2520Viagem%2520De%2520Moto.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1132462,
+      "track_number": 12,
+      "title": "G\u00e1s",
+      "runtime": 28,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/vpqyygfqob/12.%20G%C3%A1s.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/12.%2520G%25C3%25A1s.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 901775,
+      "track_number": 13,
+      "title": "Carro Do Ovo",
+      "runtime": 23,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/osfetpezli/13.%20Carro%20Do%20Ovo.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/13.%2520Carro%2520Do%2520Ovo.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 901775,
+      "track_number": 14,
+      "title": "Boss Carro Do Ovo",
+      "runtime": 23,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/atllvecwgw/14.%20Boss%20Carro%20Do%20Ovo.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/14.%2520Boss%2520Carro%2520Do%2520Ovo.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 901775,
+      "track_number": 15,
+      "title": "P\u00f3s Boss Carro Do Ovo",
+      "runtime": 23,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/pywzwfpeys/15.%20P%C3%B3s%20Boss%20Carro%20Do%20Ovo.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/15.%2520P%25C3%25B3s%2520Boss%2520Carro%2520Do%2520Ovo.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1635778,
+      "track_number": 16,
+      "title": "Corti\u00e7o 1",
+      "runtime": 41,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/igvgkhamyy/16.%20Corti%C3%A7o%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/16.%2520Corti%25C3%25A7o%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1069547,
+      "track_number": 17,
+      "title": "Corti\u00e7o 2",
+      "runtime": 27,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/olupymwohj/17.%20Corti%C3%A7o%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/17.%2520Corti%25C3%25A7o%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2097152,
+      "track_number": 18,
+      "title": "Corti\u00e7o Vaporwave",
+      "runtime": 52,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/mkfsdavini/18.%20Corti%C3%A7o%20Vaporwave.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/18.%2520Corti%25C3%25A7o%2520Vaporwave.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3785359,
+      "track_number": 19,
+      "title": "Praia",
+      "runtime": 95,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/kxmchxcuwc/19.%20Praia.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/19.%2520Praia.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4508876,
+      "track_number": 20,
+      "title": "China",
+      "runtime": 113,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/njwnsmfzle/20.%20China.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/20.%2520China.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1541406,
+      "track_number": 21,
+      "title": "Uberwally (Vamos Pra Baleia)",
+      "runtime": 38,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/pyxoicdsmg/21.%20Uberwally%20%28Vamos%20Pra%20Baleia%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/21.%2520Uberwally%2520%2528Vamos%2520Pra%2520Baleia%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3848273,
+      "track_number": 22,
+      "title": "Caverna",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/tlaqjrfmky/22.%20Caverna.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/22.%2520Caverna.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1939865,
+      "track_number": 23,
+      "title": "Caverna B",
+      "runtime": 49,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/cavhhgcghr/23.%20Caverna%20B.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/23.%2520Caverna%2520B.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2621440,
+      "track_number": 24,
+      "title": "Boss DJ Zord",
+      "runtime": 66,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/scekmtawpq/24.%20Boss%20DJ%20Zord.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/24.%2520Boss%2520DJ%2520Zord.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5033164,
+      "track_number": 25,
+      "title": "P\u00f3s Boss DJ Zord",
+      "runtime": 126,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/blfqnvsswe/25.%20P%C3%B3s%20Boss%20DJ%20Zord.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/25.%2520P%25C3%25B3s%2520Boss%2520DJ%2520Zord.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4708106,
+      "track_number": 26,
+      "title": "Mergulhando Na Zueira",
+      "runtime": 118,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/vlgxrrqfkq/26.%20Mergulhando%20Na%20Zueira.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/26.%2520Mergulhando%2520Na%2520Zueira.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4802478,
+      "track_number": 27,
+      "title": "Submarino",
+      "runtime": 120,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/vkdkgdtchb/27.%20Submarino.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/27.%2520Submarino.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3177185,
+      "track_number": 28,
+      "title": "Nasa 1",
+      "runtime": 79,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/yikkqugdsx/28.%20Nasa%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/28.%2520Nasa%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3795845,
+      "track_number": 29,
+      "title": "Nasa 2",
+      "runtime": 95,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/pjhznymtsn/29.%20Nasa%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/29.%2520Nasa%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6008340,
+      "track_number": 30,
+      "title": "Espa\u00e7o Nave",
+      "runtime": 150,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/zqfekvhmvt/30.%20Espa%C3%A7o%20Nave.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/30.%2520Espa%25C3%25A7o%2520Nave.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2820669,
+      "track_number": 31,
+      "title": "Mundo Perdido De Zacre",
+      "runtime": 70,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/pcxprnburz/31.%20Mundo%20Perdido%20De%20Zacre.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/31.%2520Mundo%2520Perdido%2520De%2520Zacre.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2097152,
+      "track_number": 32,
+      "title": "Cidade Alienigina",
+      "runtime": 52,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/lgzashvkqe/32.%20Cidade%20Alienigina.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/32.%2520Cidade%2520Alienigina.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6752829,
+      "track_number": 33,
+      "title": "Big Boss",
+      "runtime": 169,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/vdpxjtdxzl/33.%20Big%20Boss.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/33.%2520Big%2520Boss.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2506096,
+      "track_number": 34,
+      "title": "Final Tema Da Vit\u00f3ria",
+      "runtime": 63,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/fdpvizepbr/34.%20Final%20Tema%20Da%20Vit%C3%B3ria.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/34.%2520Final%2520Tema%2520Da%2520Vit%25C3%25B3ria.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4120903,
+      "track_number": 35,
+      "title": "Cr\u00e9ditos Finais",
+      "runtime": 103,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/ggdoasvugj/35.%20Cr%C3%A9ditos%20Finais.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/35.%2520Cr%25C3%25A9ditos%2520Finais.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 807403,
+      "track_number": 36,
+      "title": "Loja",
+      "runtime": 20,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/jhnpouajlo/36.%20Loja.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/36.%2520Loja.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 37,
+      "title": "Miss\u00e3o Completa",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/whybbiddxp/37.%20Miss%C3%A3o%20Completa.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/37.%2520Miss%25C3%25A3o%2520Completa.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 38,
+      "title": "Morte",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/uuzvjvheej/38.%20Morte.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/38.%2520Morte.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 576716,
+      "track_number": 39,
+      "title": "Morte To Be Continue",
+      "runtime": 14,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/jlaatbqhwh/39.%20Morte%20To%20Be%20Continue.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/39.%2520Morte%2520To%2520Be%2520Continue.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3711959,
+      "track_number": 40,
+      "title": "Pizzaria Do Rom\u00e1rio",
+      "runtime": 93,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/hnkrkmkkvv/40.%20Pizzaria%20Do%20Rom%C3%A1rio.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/40.%2520Pizzaria%2520Do%2520Rom%25C3%25A1rio.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1646264,
+      "track_number": 41,
+      "title": "Pre Boss",
+      "runtime": 41,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/ohaplfjjsc/41.%20Pre%20Boss.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/41.%2520Pre%2520Boss.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 251658,
+      "track_number": 42,
+      "title": "Ricardinho Dance",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/nxitozvbwb/42.%20Ricardinho%20Dance.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/42.%2520Ricardinho%2520Dance.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 43,
+      "title": "Pre Trollei",
+      "runtime": 0,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/rxbwaeblbj/43.%20Pre%20Trollei.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/43.%2520Pre%2520Trollei.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 44,
+      "title": "Trollei",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/hvyplbfdqi/44.%20Trollei.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/44.%2520Trollei.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 870318,
+      "track_number": 45,
+      "title": "Moto Tema",
+      "runtime": 22,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/bboihrvquw/45.%20Moto%20Tema.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/45.%2520Moto%2520Tema.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 46,
+      "title": "Orelh\u00e3o",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/hqsarlcktf/46.%20Orelh%C3%A3o.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/46.%2520Orelh%25C3%25A3o.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1646264,
+      "track_number": 47,
+      "title": "Carros Voadores (2077)",
+      "runtime": 41,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/whvanlbgcm/47.%20Carros%20Voadores%20%282077%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/47.%2520Carros%2520Voadores%2520%25282077%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1646264,
+      "track_number": 48,
+      "title": "Mapa (2077)",
+      "runtime": 41,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/uqqobzivhb/48.%20Mapa%20%282077%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/48.%2520Mapa%2520%25282077%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2118123,
+      "track_number": 49,
+      "title": "Saltando Lages (2077)",
+      "runtime": 53,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/yduhkxxinq/49.%20Saltando%20Lages%20%282077%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/49.%2520Saltando%2520Lages%2520%25282077%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1635778,
+      "track_number": 50,
+      "title": "Trenz\u00e3o (2077)",
+      "runtime": 41,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/jsbfusmmyu/50.%20Trenz%C3%A3o%20%282077%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/50.%2520Trenz%25C3%25A3o%2520%25282077%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 251658,
+      "track_number": 51,
+      "title": "Trem Parando (2077)",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/jhlladjtoc/51.%20Trem%20Parando%20%282077%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/51.%2520Trem%2520Parando%2520%25282077%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1593835,
+      "track_number": 52,
+      "title": "Caneta Azul (2077)",
+      "runtime": 40,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/qqlzpwjxcl/52.%20Caneta%20Azul%20%282077%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/52.%2520Caneta%2520Azul%2520%25282077%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2799697,
+      "track_number": 53,
+      "title": "Moto 77 (2077)",
+      "runtime": 70,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/gmkewediqv/53.%20Moto%2077%20%282077%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/53.%2520Moto%252077%2520%25282077%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1205862,
+      "track_number": 54,
+      "title": "Peixe Bola-Gato (2077)",
+      "runtime": 30,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/qzzwkmibhm/54.%20Peixe%20Bola-Gato%20%282077%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/54.%2520Peixe%2520Bola-Gato%2520%25282077%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1614807,
+      "track_number": 55,
+      "title": "F\u00e1brica de Past\u00e9is (2077)",
+      "runtime": 40,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/vvjsmwanqv/55.%20F%C3%A1brica%20de%20Past%C3%A9is%20%282077%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/55.%2520F%25C3%25A1brica%2520de%2520Past%25C3%25A9is%2520%25282077%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2139095,
+      "track_number": 56,
+      "title": "Queixola (2077)",
+      "runtime": 53,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/wbsyomgkiv/56.%20Queixola%20%282077%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/56.%2520Queixola%2520%25282077%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 922746,
+      "track_number": 57,
+      "title": "Morte (2077)",
+      "runtime": 23,
+      "source_mp3": "https://vgmsite.com/soundtracks/zueirama-windows-gamerip-2019/lwhnwwctnl/57.%20Morte%20%282077%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zueirama-windows-gamerip-2019/57.%2520Morte%2520%25282077%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 3195,
+    "filesize_mp3_bytes": 125137035,
+    "filesize_flac_bytes": 0,
+    "tracks": 57
+  }
+}

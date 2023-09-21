@@ -1,0 +1,52 @@
+{
+  "title": "Zynaps",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-20T21:51:06.584982+00:00",
+  "slug": "zynaps-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/zynaps-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/zynaps-commodore-64/Zynaps%20%28Commodore%2064%29%20%28gamerip%29%20%281987%29.jpg"
+  ],
+  "year": 1987,
+  "date_added": "2019-05-20T00:00:00+00:00",
+  "developers": {
+    "Hewson": "https://downloads.khinsider.com/game-soundtracks/developer/hewson"
+  },
+  "publishers": {
+    "Hewson": "https://downloads.khinsider.com/game-soundtracks/publisher/hewson"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4330618,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 194,
+      "source_mp3": "https://vgmsite.com/soundtracks/zynaps-commodore-64/jkqfkpmr/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zynaps-commodore-64/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6700400,
+      "track_number": 2,
+      "title": "Title Screen (SID Stereo)",
+      "runtime": 193,
+      "source_mp3": "https://vgmsite.com/soundtracks/zynaps-commodore-64/lokkxowu/02_Title%20Screen%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zynaps-commodore-64/02_Title%2520Screen%2520%2528SID%2520Stereo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 387,
+    "filesize_mp3_bytes": 11031018,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

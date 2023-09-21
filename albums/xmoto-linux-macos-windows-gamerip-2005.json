@@ -1,0 +1,107 @@
+{
+  "title": "XMoto",
+  "titles_alternative": [
+    "X-Moto"
+  ],
+  "crawled_at": "2023-09-20T14:41:24.417794+00:00",
+  "slug": "xmoto-linux-macos-windows-gamerip-2005",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/xmoto-linux-macos-windows-gamerip-2005",
+  "platforms": {
+    "Linux": "https://downloads.khinsider.com/game-soundtracks/linux",
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/xmoto-linux-macos-windows-gamerip-2005/stortX-2.png"
+  ],
+  "year": 2005,
+  "date_added": "2022-10-21T00:00:00+00:00",
+  "developers": {
+    "Emmanuel Gorse": "https://downloads.khinsider.com/game-soundtracks/developer/emmanuel-gorse",
+    "Jens Erler": "https://downloads.khinsider.com/game-soundtracks/developer/jens-erler",
+    "Nicolas Adenis-Lamarre": "https://downloads.khinsider.com/game-soundtracks/developer/nicolas-adenis-lamarre",
+    "Rasmus Neckelmann": "https://downloads.khinsider.com/game-soundtracks/developer/rasmus-neckelmann"
+  },
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4540334,
+      "track_number": 1,
+      "title": "Batcave",
+      "runtime": 162,
+      "source_mp3": "https://vgmsite.com/soundtracks/xmoto-linux-macos-windows-gamerip-2005/hprzrbueuu/01.%20Batcave.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xmoto-linux-macos-windows-gamerip-2005/01.%2520Batcave.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2799697,
+      "track_number": 2,
+      "title": "Foxrun",
+      "runtime": 100,
+      "source_mp3": "https://vgmsite.com/soundtracks/xmoto-linux-macos-windows-gamerip-2005/hcgynfpapj/02.%20Foxrun.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xmoto-linux-macos-windows-gamerip-2005/02.%2520Foxrun.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2474639,
+      "track_number": 3,
+      "title": "Legolodio",
+      "runtime": 79,
+      "source_mp3": "https://vgmsite.com/soundtracks/xmoto-linux-macos-windows-gamerip-2005/nggiufymeq/03.%20Legolodio.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xmoto-linux-macos-windows-gamerip-2005/03.%2520Legolodio.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1981808,
+      "track_number": 4,
+      "title": "Madeirastew",
+      "runtime": 71,
+      "source_mp3": "https://vgmsite.com/soundtracks/xmoto-linux-macos-windows-gamerip-2005/qhvpjryzqc/04.%20Madeirastew.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xmoto-linux-macos-windows-gamerip-2005/04.%2520Madeirastew.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3407872,
+      "track_number": 5,
+      "title": "Menu",
+      "runtime": 130,
+      "source_mp3": "https://vgmsite.com/soundtracks/xmoto-linux-macos-windows-gamerip-2005/phdkvwubgf/05.%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xmoto-linux-macos-windows-gamerip-2005/05.%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2086666,
+      "track_number": 6,
+      "title": "Ridealong",
+      "runtime": 82,
+      "source_mp3": "https://vgmsite.com/soundtracks/xmoto-linux-macos-windows-gamerip-2005/jincdctdaw/06.%20Ridealong.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xmoto-linux-macos-windows-gamerip-2005/06.%2520Ridealong.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2097152,
+      "track_number": 7,
+      "title": "Speeditup",
+      "runtime": 75,
+      "source_mp3": "https://vgmsite.com/soundtracks/xmoto-linux-macos-windows-gamerip-2005/clqatdolff/07.%20Speeditup.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xmoto-linux-macos-windows-gamerip-2005/07.%2520Speeditup.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 699,
+    "filesize_mp3_bytes": 19388168,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

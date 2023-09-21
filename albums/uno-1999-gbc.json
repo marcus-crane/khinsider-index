@@ -1,0 +1,109 @@
+{
+  "title": "Uno (GBC)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-20T00:39:51.412372+00:00",
+  "slug": "uno-1999-gbc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/uno-1999-gbc",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/uno-1999-gbc/U1.png"
+  ],
+  "year": 1999,
+  "date_added": "2020-08-23T00:00:00+00:00",
+  "developers": {
+    "HotGen": "https://downloads.khinsider.com/game-soundtracks/developer/hotgen"
+  },
+  "publishers": {
+    "Mattel": "https://downloads.khinsider.com/game-soundtracks/publisher/mattel"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10810818,
+      "filesize_mp3_bytes": 3743416,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/uno-1999-gbc/lgphhrxwzf/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/uno-1999-gbc/lgphhrxwzf/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/uno-1999-gbc/01%2520BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10758389,
+      "filesize_mp3_bytes": 3785359,
+      "track_number": 2,
+      "title": "BGM #02",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/uno-1999-gbc/xcvitrgvoc/02%20BGM%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/uno-1999-gbc/xcvitrgvoc/02%20BGM%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/uno-1999-gbc/02%2520BGM%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9783214,
+      "filesize_mp3_bytes": 4110417,
+      "track_number": 3,
+      "title": "BGM #03",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/uno-1999-gbc/fbyjtmzbsp/03%20BGM%20%2303.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/uno-1999-gbc/fbyjtmzbsp/03%20BGM%20%2303.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/uno-1999-gbc/03%2520BGM%2520%252303.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10548674,
+      "filesize_mp3_bytes": 3680501,
+      "track_number": 4,
+      "title": "BGM #04",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/uno-1999-gbc/dzrfuvrdea/04%20BGM%20%2304.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/uno-1999-gbc/dzrfuvrdea/04%20BGM%20%2304.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/uno-1999-gbc/04%2520BGM%2520%252304.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10632560,
+      "filesize_mp3_bytes": 3774873,
+      "track_number": 5,
+      "title": "BGM #05",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/uno-1999-gbc/noyfkyxein/05%20BGM%20%2305.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/uno-1999-gbc/noyfkyxein/05%20BGM%20%2305.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/uno-1999-gbc/05%2520BGM%2520%252305.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 199229,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 6,
+      "title": "Jingle #01",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/uno-1999-gbc/ldsntawjml/06%20Jingle%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/uno-1999-gbc/ldsntawjml/06%20Jingle%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/uno-1999-gbc/06%2520Jingle%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 230686,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 7,
+      "title": "Jingle #02",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/uno-1999-gbc/jrllhttvdm/07%20Jingle%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/uno-1999-gbc/jrllhttvdm/07%20Jingle%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/uno-1999-gbc/07%2520Jingle%2520%252302.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 909,
+    "filesize_mp3_bytes": 19283309,
+    "filesize_flac_bytes": 52963570,
+    "tracks": 7
+  }
+}

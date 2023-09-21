@@ -1,0 +1,72 @@
+{
+  "title": "Zeewolf",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-20T21:20:03.395557+00:00",
+  "slug": "zeewolf-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/zeewolf-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/zeewolf-amiga/Z1.jpg"
+  ],
+  "year": 1994,
+  "date_added": "2019-05-20T00:00:00+00:00",
+  "developers": {
+    "Binary Asylum": "https://downloads.khinsider.com/game-soundtracks/developer/binary-asylum"
+  },
+  "publishers": {
+    "Binary Asylum": "https://downloads.khinsider.com/game-soundtracks/publisher/binary-asylum"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4309647,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 155,
+      "source_mp3": "https://vgmsite.com/soundtracks/zeewolf-amiga/sbmqevqu/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zeewolf-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1656750,
+      "track_number": 2,
+      "title": "Briefing",
+      "runtime": 56,
+      "source_mp3": "https://vgmsite.com/soundtracks/zeewolf-amiga/ezcslvdc/02_Briefing.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zeewolf-amiga/02_Briefing.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 3,
+      "title": "Game Over",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/zeewolf-amiga/zjityhur/03_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zeewolf-amiga/03_Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1677721,
+      "track_number": 4,
+      "title": "Briefing (Alt.Version)",
+      "runtime": 53,
+      "source_mp3": "https://vgmsite.com/soundtracks/zeewolf-amiga/xdvqycwo/04_Briefing%20%28Alt.Version%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zeewolf-amiga/04_Briefing%2520%2528Alt.Version%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 270,
+    "filesize_mp3_bytes": 7790918,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

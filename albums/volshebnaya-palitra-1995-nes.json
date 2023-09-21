@@ -1,0 +1,72 @@
+{
+  "title": "Volshebnaya Palitra",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T00:57:23.319667+00:00",
+  "slug": "volshebnaya-palitra-1995-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/volshebnaya-palitra-1995-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/volshebnaya-palitra-1995-nes/Volshebnaya%20Palitra%20%281995%29%20%28NES%29.jpg"
+  ],
+  "year": 1995,
+  "date_added": "2022-06-27T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10097786,
+      "filesize_mp3_bytes": 3323985,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/volshebnaya-palitra-1995-nes/tshyamwuea/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/volshebnaya-palitra-1995-nes/tshyamwuea/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/volshebnaya-palitra-1995-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10485,
+      "filesize_mp3_bytes": 10485,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/volshebnaya-palitra-1995-nes/bvwnruezky/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/volshebnaya-palitra-1995-nes/bvwnruezky/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/volshebnaya-palitra-1995-nes/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20971,
+      "filesize_mp3_bytes": 10485,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/volshebnaya-palitra-1995-nes/puwcguavao/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/volshebnaya-palitra-1995-nes/puwcguavao/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/volshebnaya-palitra-1995-nes/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10485,
+      "filesize_mp3_bytes": 10485,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/volshebnaya-palitra-1995-nes/ewartkkjus/04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/volshebnaya-palitra-1995-nes/ewartkkjus/04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/volshebnaya-palitra-1995-nes/04.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 183,
+    "filesize_mp3_bytes": 3355440,
+    "filesize_flac_bytes": 10139727,
+    "tracks": 4
+  }
+}

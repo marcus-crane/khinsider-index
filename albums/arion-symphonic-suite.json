@@ -1,0 +1,95 @@
+{
+  "title": "SYMPHONIC SUITE ARION",
+  "titles_alternative": [
+    "\u4ea4\u97ff\u7d44\u66f2 \u30a2\u30ea\u30aa\u30f3",
+    "Koukyou Kumikyoku ARION"
+  ],
+  "crawled_at": "2023-09-19T09:40:37.131037+00:00",
+  "slug": "arion-symphonic-suite",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/arion-symphonic-suite",
+  "platforms": {
+    "Anime": "https://downloads.khinsider.com/game-soundtracks/anime",
+    "Movie": "https://downloads.khinsider.com/game-soundtracks/movie"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/arion-symphonic-suite/back-symphonic-suite-arion-.jpg"
+  ],
+  "year": 1986,
+  "catalog_number": "32ATC-112, TKCA-70800",
+  "date_added": "2006-11-11T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "TOKUMA JAPAN COMMUNICATIONS": "https://downloads.khinsider.com/game-soundtracks/publisher/tokuma-japan-communications"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10957619,
+      "track_number": 1,
+      "title": "first movement",
+      "runtime": 445,
+      "source_mp3": "https://vgmsite.com/soundtracks/arion-symphonic-suite/cdczyvkz/01%20first%20movement.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arion-symphonic-suite/01%2520first%2520movement.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10139729,
+      "track_number": 2,
+      "title": "second movement",
+      "runtime": 400,
+      "source_mp3": "https://vgmsite.com/soundtracks/arion-symphonic-suite/rbmrumel/02%20second%20movement.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arion-symphonic-suite/02%2520second%2520movement.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10370416,
+      "track_number": 3,
+      "title": "third movement",
+      "runtime": 431,
+      "source_mp3": "https://vgmsite.com/soundtracks/arion-symphonic-suite/vqdnctaq/03%20third%20movement.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arion-symphonic-suite/03%2520third%2520movement.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8650752,
+      "track_number": 4,
+      "title": "fourth movement - resphina's song",
+      "runtime": 354,
+      "source_mp3": "https://vgmsite.com/soundtracks/arion-symphonic-suite/wjxmvjbw/04%20fourth%20movement%20-%20resphina%27s%20song.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arion-symphonic-suite/04%2520fourth%2520movement%2520-%2520resphina%2527s%2520song.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8577351,
+      "track_number": 5,
+      "title": "fifth movement",
+      "runtime": 320,
+      "source_mp3": "https://vgmsite.com/soundtracks/arion-symphonic-suite/fwfxbdzm/05%20fifth%20movement.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arion-symphonic-suite/05%2520fifth%2520movement.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11188305,
+      "track_number": 6,
+      "title": "sixth movement",
+      "runtime": 458,
+      "source_mp3": "https://vgmsite.com/soundtracks/arion-symphonic-suite/mbwlncrk/06%20sixth%20movement.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arion-symphonic-suite/06%2520sixth%2520movement.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2408,
+    "filesize_mp3_bytes": 59884172,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

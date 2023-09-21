@@ -1,0 +1,48 @@
+{
+  "title": "USS John Young",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-20T00:59:13.680672+00:00",
+  "slug": "uss-john-young-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/uss-john-young-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/uss-john-young-amiga/coverart.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2016-05-31T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1080033,
+      "track_number": 1,
+      "title": "Magic Bytes Intro",
+      "runtime": 14,
+      "source_mp3": "https://vgmsite.com/soundtracks/uss-john-young-amiga/hophiscd/01_Magic%20Bytes%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/uss-john-young-amiga/01_Magic%2520Bytes%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8996782,
+      "track_number": 2,
+      "title": "Sea Knight Theme",
+      "runtime": 284,
+      "source_mp3": "https://vgmsite.com/soundtracks/uss-john-young-amiga/qifyekde/02_Sea%20Knight%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/uss-john-young-amiga/02_Sea%2520Knight%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 298,
+    "filesize_mp3_bytes": 10076815,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

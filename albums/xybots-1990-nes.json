@@ -1,0 +1,44 @@
+{
+  "title": "Xybots (Prototype)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-20T14:42:41.717711+00:00",
+  "slug": "xybots-1990-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/xybots-1990-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/xybots-1990-nes/Xybots%20%281990%29%20%28NES%29.png"
+  ],
+  "year": 1990,
+  "date_added": "2022-04-25T00:00:00+00:00",
+  "developers": {
+    "Atari Games": "https://downloads.khinsider.com/game-soundtracks/developer/atari-games",
+    "Tengen": "https://downloads.khinsider.com/game-soundtracks/developer/tengen"
+  },
+  "publishers": {
+    "Tengen": "https://downloads.khinsider.com/game-soundtracks/publisher/tengen"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9542041,
+      "filesize_mp3_bytes": 3806330,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/xybots-1990-nes/gfsuljzlrg/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/xybots-1990-nes/gfsuljzlrg/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xybots-1990-nes/01.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 180,
+    "filesize_mp3_bytes": 3806330,
+    "filesize_flac_bytes": 9542041,
+    "tracks": 1
+  }
+}

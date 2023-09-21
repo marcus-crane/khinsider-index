@@ -1,0 +1,76 @@
+{
+  "title": "U.N. Squadron",
+  "titles_alternative": [
+    "Area 88",
+    "\u30a8\u30ea\u30a2\uff18\uff18"
+  ],
+  "crawled_at": "2023-09-20T00:05:37.615384+00:00",
+  "slug": "u.n.-squadron-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/u.n.-squadron-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/u.n.-squadron-amiga/U1.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2019-06-03T00:00:00+00:00",
+  "developers": {
+    "Capcom": "https://downloads.khinsider.com/game-soundtracks/developer/capcom",
+    "Tiertex": "https://downloads.khinsider.com/game-soundtracks/developer/tiertex"
+  },
+  "publishers": {
+    "U.S. Gold": "https://downloads.khinsider.com/game-soundtracks/publisher/u.s.-gold"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2705326,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 95,
+      "source_mp3": "https://vgmsite.com/soundtracks/u.n.-squadron-amiga/xnknvilfbu/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/u.n.-squadron-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 943718,
+      "track_number": 2,
+      "title": "Player Select",
+      "runtime": 33,
+      "source_mp3": "https://vgmsite.com/soundtracks/u.n.-squadron-amiga/qzxatfoiqa/02_Player%20Select.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/u.n.-squadron-amiga/02_Player%2520Select.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4519362,
+      "track_number": 3,
+      "title": "Thundercloud (In-Game BGM)",
+      "runtime": 156,
+      "source_mp3": "https://vgmsite.com/soundtracks/u.n.-squadron-amiga/cxtagepqkp/03_Thundercloud%20%28In-Game%20BGM%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/u.n.-squadron-amiga/03_Thundercloud%2520%2528In-Game%2520BGM%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 901775,
+      "track_number": 4,
+      "title": "Unknown",
+      "runtime": 33,
+      "source_mp3": "https://vgmsite.com/soundtracks/u.n.-squadron-amiga/gtuqcxqwkm/04_Unknown.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/u.n.-squadron-amiga/04_Unknown.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 317,
+    "filesize_mp3_bytes": 9070181,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

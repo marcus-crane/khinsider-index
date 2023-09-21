@@ -1,0 +1,96 @@
+{
+  "title": "Obake no Q-tarou: WanWan Panic",
+  "titles_alternative": [
+    "Chubby Cherub",
+    "\u30aa\u30d0\u30b1\u306eQ\u592a\u90ce \u30ef\u30f3\u30ef\u30f3\u30d1\u30cb\u30c3\u30af"
+  ],
+  "crawled_at": "2023-09-19T09:38:31.125355+00:00",
+  "slug": "chubby-cherub-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/chubby-cherub-nes",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/chubby-cherub-nes/3727549-chubby-cherub-nes-title-screen-us.png"
+  ],
+  "year": 1985,
+  "date_added": "2015-04-28T00:00:00+00:00",
+  "developers": {
+    "Tose": "https://downloads.khinsider.com/game-soundtracks/developer/tose"
+  },
+  "publishers": {
+    "Bandai": "https://downloads.khinsider.com/game-soundtracks/publisher/bandai"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 555745,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 20,
+      "source_mp3": "https://vgmsite.com/soundtracks/chubby-cherub-nes/jcvgyopg/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chubby-cherub-nes/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3806330,
+      "track_number": 2,
+      "title": "Stage Theme",
+      "runtime": 113,
+      "source_mp3": "https://vgmsite.com/soundtracks/chubby-cherub-nes/ssfuvzyg/02_Stage%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chubby-cherub-nes/02_Stage%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 157286,
+      "track_number": 3,
+      "title": "Stage Clear",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/chubby-cherub-nes/fssbixiw/03_Stage%20Clear.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chubby-cherub-nes/03_Stage%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1478492,
+      "track_number": 4,
+      "title": "The Pit",
+      "runtime": 62,
+      "source_mp3": "https://vgmsite.com/soundtracks/chubby-cherub-nes/havkofrr/04_The%20Pit.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chubby-cherub-nes/04_The%2520Pit.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2831155,
+      "track_number": 5,
+      "title": "Bonus Area",
+      "runtime": 85,
+      "source_mp3": "https://vgmsite.com/soundtracks/chubby-cherub-nes/ybrfvvro/05_Bonus%20Area.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chubby-cherub-nes/05_Bonus%2520Area.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 6,
+      "title": "Game Over",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/chubby-cherub-nes/swepbwof/06_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chubby-cherub-nes/06_Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 291,
+    "filesize_mp3_bytes": 8912894,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

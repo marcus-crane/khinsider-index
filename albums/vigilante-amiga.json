@@ -1,0 +1,46 @@
+{
+  "title": "Vigilante",
+  "titles_alternative": [
+    "\u30d3\u30b8\u30e9\u30f3\u30c6"
+  ],
+  "crawled_at": "2023-09-21T00:40:28.078389+00:00",
+  "slug": "vigilante-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/vigilante-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/vigilante-amiga/V1.png"
+  ],
+  "year": 1989,
+  "date_added": "2017-07-19T00:00:00+00:00",
+  "developers": {
+    "Emerald Software": "https://downloads.khinsider.com/game-soundtracks/developer/emerald-software",
+    "Irem": "https://downloads.khinsider.com/game-soundtracks/developer/irem"
+  },
+  "publishers": {
+    "Kixx": "https://downloads.khinsider.com/game-soundtracks/publisher/kixx",
+    "U.S. Gold": "https://downloads.khinsider.com/game-soundtracks/publisher/u.s.-gold"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5022679,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 147,
+      "source_mp3": "https://vgmsite.com/soundtracks/vigilante-amiga/wswnrcqb/01_Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vigilante-amiga/01_Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 147,
+    "filesize_mp3_bytes": 5022679,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

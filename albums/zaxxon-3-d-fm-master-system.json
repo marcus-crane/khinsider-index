@@ -1,0 +1,104 @@
+{
+  "title": "Zaxxon 3-D (FM)",
+  "titles_alternative": [
+    "\u30b6\u30af\u30bd\u30f3 \uff13\uff24"
+  ],
+  "crawled_at": "2023-09-20T21:19:48.396493+00:00",
+  "slug": "zaxxon-3-d-fm-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/zaxxon-3-d-fm-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/zaxxon-3-d-fm-master-system/cover.jpg"
+  ],
+  "year": 1987,
+  "date_added": "2019-03-04T00:00:00+00:00",
+  "developers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 933232,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 19,
+      "source_mp3": "https://vgmsite.com/soundtracks/zaxxon-3-d-fm-master-system/vdpzeflc/01%20-%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zaxxon-3-d-fm-master-system/01%2520-%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3701473,
+      "track_number": 2,
+      "title": "Outer Space",
+      "runtime": 88,
+      "source_mp3": "https://vgmsite.com/soundtracks/zaxxon-3-d-fm-master-system/ormwxxbp/02%20-%20Outer%20Space.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zaxxon-3-d-fm-master-system/02%2520-%2520Outer%2520Space.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3638558,
+      "track_number": 3,
+      "title": "Enemy's Base",
+      "runtime": 87,
+      "source_mp3": "https://vgmsite.com/soundtracks/zaxxon-3-d-fm-master-system/glkyytzk/03%20-%20Enemy%27s%20Base.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zaxxon-3-d-fm-master-system/03%2520-%2520Enemy%2527s%2520Base.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3124756,
+      "track_number": 4,
+      "title": "Boss",
+      "runtime": 74,
+      "source_mp3": "https://vgmsite.com/soundtracks/zaxxon-3-d-fm-master-system/ocbkwhad/04%20-%20Boss.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zaxxon-3-d-fm-master-system/04%2520-%2520Boss.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3502243,
+      "track_number": 5,
+      "title": "Final Boss",
+      "runtime": 84,
+      "source_mp3": "https://vgmsite.com/soundtracks/zaxxon-3-d-fm-master-system/oobjlidk/05%20-%20Final%20Boss.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zaxxon-3-d-fm-master-system/05%2520-%2520Final%2520Boss.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4771020,
+      "track_number": 6,
+      "title": "Mission Complete",
+      "runtime": 115,
+      "source_mp3": "https://vgmsite.com/soundtracks/zaxxon-3-d-fm-master-system/osudzfek/06%20-%20Mission%20Complete.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zaxxon-3-d-fm-master-system/06%2520-%2520Mission%2520Complete.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 356515,
+      "track_number": 7,
+      "title": "Game Over",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/zaxxon-3-d-fm-master-system/jdmffhjh/07%20-%20Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zaxxon-3-d-fm-master-system/07%2520-%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 472,
+    "filesize_mp3_bytes": 20027797,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

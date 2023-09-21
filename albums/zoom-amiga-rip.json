@@ -1,0 +1,70 @@
+{
+  "title": "Zoom",
+  "titles_alternative": [
+    "\u30ba\u30fc\u30e0\uff01"
+  ],
+  "crawled_at": "2023-09-20T21:45:06.032387+00:00",
+  "slug": "zoom-amiga-rip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/zoom-amiga-rip",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/zoom-amiga-rip/Zoom%20%28Amiga%29.jpg"
+  ],
+  "year": 1988,
+  "date_added": "2006-11-25T00:00:00+00:00",
+  "developers": {
+    "Discovery Software": "https://downloads.khinsider.com/game-soundtracks/developer/discovery-software"
+  },
+  "publishers": {
+    "Discovery Software": "https://downloads.khinsider.com/game-soundtracks/publisher/discovery-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6616514,
+      "title": "zoom -01- ecran titre",
+      "runtime": 165,
+      "source_mp3": "https://vgmsite.com/soundtracks/zoom-amiga-rip/zoxxlzkn/zoom%20-01-%20ecran%20titre.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zoom-amiga-rip/zoom%2520-01-%2520ecran%2520titre.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 115343,
+      "title": "zoom -02- level start",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/zoom-amiga-rip/fugpaezi/zoom%20-02-%20level%20start.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zoom-amiga-rip/zoom%2520-02-%2520level%2520start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 293601,
+      "title": "zoom -03- game over",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/zoom-amiga-rip/vlngnobd/zoom%20-03-%20game%20over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zoom-amiga-rip/zoom%2520-03-%2520game%2520over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3942645,
+      "title": "zoom -04- hall of fame",
+      "runtime": 99,
+      "source_mp3": "https://vgmsite.com/soundtracks/zoom-amiga-rip/dvlaacxf/zoom%20-04-%20hall%20of%20fame.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zoom-amiga-rip/zoom%2520-04-%2520hall%2520of%2520fame.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 274,
+    "filesize_mp3_bytes": 10968103,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

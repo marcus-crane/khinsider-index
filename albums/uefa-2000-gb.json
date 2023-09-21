@@ -1,0 +1,87 @@
+{
+  "title": "UEFA 2000 (GBC)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-20T00:07:26.861337+00:00",
+  "slug": "uefa-2000-gb",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/uefa-2000-gb",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/uefa-2000-gb/UEFA%202000.png"
+  ],
+  "year": 2000,
+  "date_added": "2022-12-06T00:00:00+00:00",
+  "developers": {
+    "Bit Managers": "https://downloads.khinsider.com/game-soundtracks/developer/bit-managers"
+  },
+  "publishers": {
+    "Infogrames": "https://downloads.khinsider.com/game-soundtracks/publisher/infogrames"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5106565,
+      "filesize_mp3_bytes": 1772093,
+      "track_number": 1,
+      "title": "Main Menu",
+      "runtime": 61,
+      "source_mp3": "https://vgmsite.com/soundtracks/uefa-2000-gb/fjqntuftai/01%20Main%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/uefa-2000-gb/fjqntuftai/01%20Main%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/uefa-2000-gb/01%2520Main%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2506096,
+      "filesize_mp3_bytes": 964689,
+      "track_number": 2,
+      "title": "Tactics",
+      "runtime": 42,
+      "source_mp3": "https://vgmsite.com/soundtracks/uefa-2000-gb/apeobhnzhx/02%20Tactics.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/uefa-2000-gb/apeobhnzhx/02%20Tactics.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/uefa-2000-gb/02%2520Tactics.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10412359,
+      "filesize_mp3_bytes": 3649044,
+      "track_number": 3,
+      "title": "Statistics",
+      "runtime": 145,
+      "source_mp3": "https://vgmsite.com/soundtracks/uefa-2000-gb/ghxdjbapfz/03%20Statistics.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/uefa-2000-gb/ghxdjbapfz/03%20Statistics.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/uefa-2000-gb/03%2520Statistics.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9521070,
+      "filesize_mp3_bytes": 3093299,
+      "track_number": 4,
+      "title": "Champion!",
+      "runtime": 141,
+      "source_mp3": "https://vgmsite.com/soundtracks/uefa-2000-gb/gkxjinftkr/04%20Champion%21.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/uefa-2000-gb/gkxjinftkr/04%20Champion%21.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/uefa-2000-gb/04%2520Champion%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 230686,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 5,
+      "title": "Unknown Jingle",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/uefa-2000-gb/kdglxibapu/05%20Unknown%20Jingle.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/uefa-2000-gb/kdglxibapu/05%20Unknown%20Jingle.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/uefa-2000-gb/05%2520Unknown%2520Jingle.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 393,
+    "filesize_mp3_bytes": 9563011,
+    "filesize_flac_bytes": 27776776,
+    "tracks": 5
+  }
+}

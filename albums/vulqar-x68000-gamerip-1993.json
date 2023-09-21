@@ -1,0 +1,72 @@
+{
+  "title": "Vulqar",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T01:00:43.618989+00:00",
+  "slug": "vulqar-x68000-gamerip-1993",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/vulqar-x68000-gamerip-1993",
+  "platforms": {
+    "X68000": "https://downloads.khinsider.com/game-soundtracks/x68000"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/vulqar-x68000-gamerip-1993/Vulqar.png"
+  ],
+  "year": 1993,
+  "date_added": "2023-09-20T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4236247,
+      "filesize_mp3_bytes": 1897922,
+      "track_number": 1,
+      "title": "Welcome to Another World (Loading)",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/vulqar-x68000-gamerip-1993/wbnvnoreup/01.%20Welcome%20to%20Another%20World%20%28Loading%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/vulqar-x68000-gamerip-1993/wbnvnoreup/01.%20Welcome%20to%20Another%20World%20%28Loading%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vulqar-x68000-gamerip-1993/01.%2520Welcome%2520to%2520Another%2520World%2520%2528Loading%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11492392,
+      "filesize_mp3_bytes": 4204789,
+      "track_number": 2,
+      "title": "Parallel Road (Stage 1)",
+      "runtime": 161,
+      "source_mp3": "https://vgmsite.com/soundtracks/vulqar-x68000-gamerip-1993/ojbmewiyvl/02.%20Parallel%20Road%20%28Stage%201%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/vulqar-x68000-gamerip-1993/ojbmewiyvl/02.%20Parallel%20Road%20%28Stage%201%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vulqar-x68000-gamerip-1993/02.%2520Parallel%2520Road%2520%2528Stage%25201%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5536481,
+      "filesize_mp3_bytes": 1646264,
+      "track_number": 3,
+      "title": "Dead End (Boss 1)",
+      "runtime": 67,
+      "source_mp3": "https://vgmsite.com/soundtracks/vulqar-x68000-gamerip-1993/nbnnzokwnn/03.%20Dead%20End%20%28Boss%201%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/vulqar-x68000-gamerip-1993/nbnnzokwnn/03.%20Dead%20End%20%28Boss%201%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vulqar-x68000-gamerip-1993/03.%2520Dead%2520End%2520%2528Boss%25201%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11785994,
+      "filesize_mp3_bytes": 3984588,
+      "track_number": 4,
+      "title": "It will not be long before... (Ending)",
+      "runtime": 147,
+      "source_mp3": "https://vgmsite.com/soundtracks/vulqar-x68000-gamerip-1993/uhkxcahwkr/04.%20It%20will%20not%20be%20long%20before...%20%28Ending%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/vulqar-x68000-gamerip-1993/uhkxcahwkr/04.%20It%20will%20not%20be%20long%20before...%20%28Ending%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vulqar-x68000-gamerip-1993/04.%2520It%2520will%2520not%2520be%2520long%2520before...%2520%2528Ending%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 439,
+    "filesize_mp3_bytes": 11733563,
+    "filesize_flac_bytes": 33051114,
+    "tracks": 4
+  }
+}

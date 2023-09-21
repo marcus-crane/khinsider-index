@@ -1,0 +1,42 @@
+{
+  "title": "Quartz",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T21:08:45.105355+00:00",
+  "slug": "quartz-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/quartz-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/quartz-amiga/Quartz%20%28Amiga%29.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2018-03-28T00:00:00+00:00",
+  "developers": {
+    "Firebird": "https://downloads.khinsider.com/game-soundtracks/developer/firebird"
+  },
+  "publishers": {
+    "Firebird": "https://downloads.khinsider.com/game-soundtracks/publisher/firebird"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5882511,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 202,
+      "source_mp3": "https://vgmsite.com/soundtracks/quartz-amiga/xtvegibf/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/quartz-amiga/01_Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 202,
+    "filesize_mp3_bytes": 5882511,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

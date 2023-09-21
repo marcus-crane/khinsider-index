@@ -1,0 +1,92 @@
+{
+  "title": "Zool 2",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-20T21:44:19.432840+00:00",
+  "slug": "zool-2-atari-jaguar",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/zool-2-atari-jaguar",
+  "platforms": {
+    "Atari Jaguar": "https://downloads.khinsider.com/game-soundtracks/atari-jaguar"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/zool-2-atari-jaguar/Zool%202%20Atari%20Jaguar%20cover.jpg"
+  ],
+  "year": 1994,
+  "date_added": "2020-09-05T00:00:00+00:00",
+  "developers": {
+    "Imagitec Design": "https://downloads.khinsider.com/game-soundtracks/developer/imagitec-design"
+  },
+  "publishers": {
+    "Atari": "https://downloads.khinsider.com/game-soundtracks/publisher/atari"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7801405,
+      "track_number": 1,
+      "title": "Intro Theme",
+      "runtime": 195,
+      "source_mp3": "https://vgmsite.com/soundtracks/zool-2-atari-jaguar/pkydusthbo/1.%20Intro%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zool-2-atari-jaguar/1.%2520Intro%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5924454,
+      "track_number": 2,
+      "title": "Swan Lake",
+      "runtime": 148,
+      "source_mp3": "https://vgmsite.com/soundtracks/zool-2-atari-jaguar/axbzgbdqjf/2.%20Swan%20Lake.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zool-2-atari-jaguar/2.%2520Swan%2520Lake.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7528775,
+      "track_number": 3,
+      "title": "Tooting Common",
+      "runtime": 188,
+      "source_mp3": "https://vgmsite.com/soundtracks/zool-2-atari-jaguar/odfvybream/3.%20Tooting%20Common.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zool-2-atari-jaguar/3.%2520Tooting%2520Common.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7161774,
+      "track_number": 4,
+      "title": "Bulberry Hill",
+      "runtime": 179,
+      "source_mp3": "https://vgmsite.com/soundtracks/zool-2-atari-jaguar/pqwhpujotu/4.%20Bulberry%20Hill.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zool-2-atari-jaguar/4.%2520Bulberry%2520Hill.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7402946,
+      "track_number": 5,
+      "title": "Snaking Pass",
+      "runtime": 185,
+      "source_mp3": "https://vgmsite.com/soundtracks/zool-2-atari-jaguar/zjxostdxsr/5.%20Snaking%20Pass.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zool-2-atari-jaguar/5.%2520Snaking%2520Pass.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7728005,
+      "track_number": 6,
+      "title": "Mount Ices",
+      "runtime": 193,
+      "source_mp3": "https://vgmsite.com/soundtracks/zool-2-atari-jaguar/hlyrawbras/6.%20Mount%20Ices.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zool-2-atari-jaguar/6.%2520Mount%2520Ices.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1088,
+    "filesize_mp3_bytes": 43547359,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

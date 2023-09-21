@@ -1,0 +1,104 @@
+{
+  "title": "Volleyball",
+  "titles_alternative": [
+    "\u30d0\u30ec\u30fc\u30dc\u30fc\u30eb"
+  ],
+  "crawled_at": "2023-09-21T00:57:17.624582+00:00",
+  "slug": "volleyball-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/volleyball-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/volleyball-nes/Volleyball%20%28NES%29.jpg"
+  ],
+  "year": 1987,
+  "date_added": "2016-06-02T00:00:00+00:00",
+  "developers": {
+    "Pax Softnica": "https://downloads.khinsider.com/game-soundtracks/developer/pax-softnica"
+  },
+  "publishers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 356515,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/volleyball-nes/iiylhdwa/1.%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/volleyball-nes/1.%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7203717,
+      "track_number": 2,
+      "title": "Rally Theme",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/volleyball-nes/xblymuxf/2.%20Rally%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/volleyball-nes/2.%2520Rally%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7203717,
+      "track_number": 3,
+      "title": "Title Screen - Rally Theme",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/volleyball-nes/kxaslgqs/3.%20Title%20Screen%20-%20Rally%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/volleyball-nes/3.%2520Title%2520Screen%2520-%2520Rally%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 293601,
+      "track_number": 4,
+      "title": "Game Finished",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/volleyball-nes/yidkzihf/4.%20Game%20Finished.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/volleyball-nes/4.%2520Game%2520Finished.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 356515,
+      "track_number": 5,
+      "title": "Title Screen (Alternate)",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/volleyball-nes/jjtizpks/5.%20Title%20Screen%20%28Alternate%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/volleyball-nes/5.%2520Title%2520Screen%2520%2528Alternate%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7203717,
+      "track_number": 6,
+      "title": "Rally Theme (Alternate)",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/volleyball-nes/fvvrjdbe/6.%20Rally%20Theme%20%28Alternate%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/volleyball-nes/6.%2520Rally%2520Theme%2520%2528Alternate%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7203717,
+      "track_number": 7,
+      "title": "Title Screen - Rally Theme (Alternate)",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/volleyball-nes/znwjvrkz/7.%20Title%20Screen%20-%20Rally%20Theme%20%28Alternate%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/volleyball-nes/7.%2520Title%2520Screen%2520-%2520Rally%2520Theme%2520%2528Alternate%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 745,
+    "filesize_mp3_bytes": 29821499,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "title": "Zhong Guo Xiang Qi (Dendy)",
+  "titles_alternative": [
+    "\u4e2d\u56fd\u8c61\u68cb"
+  ],
+  "crawled_at": "2023-09-20T21:32:37.118473+00:00",
+  "slug": "zhong-guo-xiang-qi-dendy",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/zhong-guo-xiang-qi-dendy",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/zhong-guo-xiang-qi-dendy/Qiwang.png"
+  ],
+  "year": 1991,
+  "date_added": "2022-06-29T00:00:00+00:00",
+  "developers": {
+    "TXC": "https://downloads.khinsider.com/game-soundtracks/developer/txc"
+  },
+  "publishers": {
+    "Micro Genius": "https://downloads.khinsider.com/game-soundtracks/publisher/micro-genius"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4099932,
+      "filesize_mp3_bytes": 1929379,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 95,
+      "source_mp3": "https://vgmsite.com/soundtracks/zhong-guo-xiang-qi-dendy/azlkjaytbo/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/zhong-guo-xiang-qi-dendy/azlkjaytbo/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zhong-guo-xiang-qi-dendy/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4225761,
+      "filesize_mp3_bytes": 1698693,
+      "track_number": 2,
+      "title": "Main BGM",
+      "runtime": 90,
+      "source_mp3": "https://vgmsite.com/soundtracks/zhong-guo-xiang-qi-dendy/salbpkaxel/02%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/zhong-guo-xiang-qi-dendy/salbpkaxel/02%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zhong-guo-xiang-qi-dendy/02%2520Main%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 167772,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 3,
+      "title": "Congratulations",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/zhong-guo-xiang-qi-dendy/pzctxwzxwc/03%20Congratulations.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/zhong-guo-xiang-qi-dendy/pzctxwzxwc/03%20Congratulations.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zhong-guo-xiang-qi-dendy/03%2520Congratulations.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 125829,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/zhong-guo-xiang-qi-dendy/ohmfnsmuzp/04%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/zhong-guo-xiang-qi-dendy/ohmfnsmuzp/04%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zhong-guo-xiang-qi-dendy/04%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 192,
+    "filesize_mp3_bytes": 3743414,
+    "filesize_flac_bytes": 8619294,
+    "tracks": 4
+  }
+}

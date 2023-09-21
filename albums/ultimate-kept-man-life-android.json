@@ -1,0 +1,67 @@
+{
+  "title": "Ultimate Kept Man Life",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-20T00:12:29.092386+00:00",
+  "slug": "ultimate-kept-man-life-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ultimate-kept-man-life-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ultimate-kept-man-life-android/1.png"
+  ],
+  "date_added": "2017-03-14T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 734003,
+      "track_number": 1,
+      "title": "bgm_opening",
+      "runtime": 50,
+      "source_mp3": "https://vgmsite.com/soundtracks/ultimate-kept-man-life-android/whooznrk/01%20bgm_opening.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ultimate-kept-man-life-android/01%2520bgm_opening.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 209715,
+      "track_number": 2,
+      "title": "bgm_play",
+      "runtime": 15,
+      "source_mp3": "https://vgmsite.com/soundtracks/ultimate-kept-man-life-android/leiyhloo/02%20bgm_play.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ultimate-kept-man-life-android/02%2520bgm_play.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1793064,
+      "track_number": 3,
+      "title": "bgm_default",
+      "runtime": 99,
+      "source_mp3": "https://vgmsite.com/soundtracks/ultimate-kept-man-life-android/tufiotan/03%20bgm_default.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ultimate-kept-man-life-android/03%2520bgm_default.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 503316,
+      "track_number": 4,
+      "title": "bgm_ending",
+      "runtime": 60,
+      "source_mp3": "https://vgmsite.com/soundtracks/ultimate-kept-man-life-android/gzxtxigw/04%20bgm_ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ultimate-kept-man-life-android/04%2520bgm_ending.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 224,
+    "filesize_mp3_bytes": 3240098,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

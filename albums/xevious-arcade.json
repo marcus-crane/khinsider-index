@@ -1,0 +1,86 @@
+{
+  "title": "Xevious",
+  "titles_alternative": [
+    "Xevious: The Avenger",
+    "\u30bc\u30d3\u30a6\u30b9"
+  ],
+  "crawled_at": "2023-09-20T14:38:30.563604+00:00",
+  "slug": "xevious-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/xevious-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/xevious-arcade/X1.jpg"
+  ],
+  "year": 1982,
+  "date_added": "2016-06-29T00:00:00+00:00",
+  "developers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/developer/namco"
+  },
+  "publishers": {
+    "Atari": "https://downloads.khinsider.com/game-soundtracks/publisher/atari",
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/publisher/namco"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 1,
+      "title": "Game Start",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/xevious-arcade/jjessrwp/01_Game%20Start.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xevious-arcade/01_Game%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 2,
+      "title": "Name Entry (1st Place)",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/xevious-arcade/qusdcblq/02_Name%20Entry%20%281st%20Place%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xevious-arcade/02_Name%2520Entry%2520%25281st%2520Place%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 3,
+      "title": "Name Entry (2nd through 5th)",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/xevious-arcade/rosgjquz/03_Name%20Entry%20%282nd%20through%205th%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xevious-arcade/03_Name%2520Entry%2520%25282nd%2520through%25205th%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 4,
+      "title": "Extend",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/xevious-arcade/eympobfz/04_Extend.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xevious-arcade/04_Extend.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 5,
+      "title": "BGM",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/xevious-arcade/fnggofim/05_BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xevious-arcade/05_BGM.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 23,
+    "filesize_mp3_bytes": 377485,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

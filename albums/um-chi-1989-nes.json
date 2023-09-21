@@ -1,0 +1,41 @@
+{
+  "title": "Um Chi",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-20T00:21:45.285420+00:00",
+  "slug": "um-chi-1989-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/um-chi-1989-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/um-chi-1989-nes/Um%20Chi%20%281989%29%20%28NES%29%20Joy%20Van.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2022-06-27T00:00:00+00:00",
+  "developers": {
+    "Joy Van": "https://downloads.khinsider.com/game-soundtracks/developer/joy-van"
+  },
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 891289,
+      "filesize_mp3_bytes": 293601,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 16,
+      "source_mp3": "https://vgmsite.com/soundtracks/um-chi-1989-nes/owvyqbhnjb/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/um-chi-1989-nes/owvyqbhnjb/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/um-chi-1989-nes/01.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 16,
+    "filesize_mp3_bytes": 293601,
+    "filesize_flac_bytes": 891289,
+    "tracks": 1
+  }
+}

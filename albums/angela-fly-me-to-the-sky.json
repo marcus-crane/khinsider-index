@@ -1,0 +1,71 @@
+{
+  "title": "fly me to the sky / angela",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T09:38:14.484412+00:00",
+  "slug": "angela-fly-me-to-the-sky",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/angela-fly-me-to-the-sky",
+  "platforms": {
+    "Anime": "https://downloads.khinsider.com/game-soundtracks/anime"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/angela-fly-me-to-the-sky/Angela%20-%20Fly%20Me%20to%20the%20Sky.jpg"
+  ],
+  "year": 2004,
+  "catalog_number": "KICM-3069",
+  "date_added": "2006-11-10T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "King Record Co., Ltd.": "https://downloads.khinsider.com/game-soundtracks/publisher/king-record"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6343884,
+      "track_number": 1,
+      "title": "fly me to the sky",
+      "runtime": 264,
+      "source_mp3": "https://vgmsite.com/soundtracks/angela-fly-me-to-the-sky/mutxgkho/01%20fly%20me%20to%20the%20sky.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/angela-fly-me-to-the-sky/01%2520fly%2520me%2520to%2520the%2520sky.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7434403,
+      "track_number": 2,
+      "title": "proof",
+      "runtime": 310,
+      "source_mp3": "https://vgmsite.com/soundtracks/angela-fly-me-to-the-sky/urqmzqxx/02%20proof.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/angela-fly-me-to-the-sky/02%2520proof.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6343884,
+      "track_number": 3,
+      "title": "fly me to the sky (off vocal version)",
+      "runtime": 264,
+      "source_mp3": "https://vgmsite.com/soundtracks/angela-fly-me-to-the-sky/zezlyemo/03%20fly%20me%20to%20the%20sky%20%28off%20vocal%20version%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/angela-fly-me-to-the-sky/03%2520fly%2520me%2520to%2520the%2520sky%2520%2528off%2520vocal%2520version%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7361003,
+      "track_number": 4,
+      "title": "proof (off vocal version)",
+      "runtime": 307,
+      "source_mp3": "https://vgmsite.com/soundtracks/angela-fly-me-to-the-sky/nftqpvft/04%20proof%20%28off%20vocal%20version%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/angela-fly-me-to-the-sky/04%2520proof%2520%2528off%2520vocal%2520version%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1145,
+    "filesize_mp3_bytes": 27483174,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

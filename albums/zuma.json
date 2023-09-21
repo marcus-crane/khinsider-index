@@ -1,0 +1,110 @@
+{
+  "title": "Zuma",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-20T21:47:06.914341+00:00",
+  "slug": "zuma",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/zuma",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/zuma/Zuma.jpg"
+  ],
+  "year": 2003,
+  "date_added": "2015-02-02T00:00:00+00:00",
+  "developers": {
+    "Oberon Media": "https://downloads.khinsider.com/game-soundtracks/developer/oberon-media"
+  },
+  "publishers": {
+    "PopCap Games": "https://downloads.khinsider.com/game-soundtracks/publisher/popcap-games"
+  },
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 13883146,
+      "track_number": 1,
+      "title": "Track 01",
+      "runtime": 462,
+      "source_mp3": "https://vgmsite.com/soundtracks/zuma/zwknqxmn/01%20-%20Track%2001.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zuma/01%2520-%2520Track%252001.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2023751,
+      "track_number": 2,
+      "title": "Track 02",
+      "runtime": 67,
+      "source_mp3": "https://vgmsite.com/soundtracks/zuma/ckcdbxsk/02%20-%20Track%2002.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zuma/02%2520-%2520Track%252002.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2055208,
+      "track_number": 3,
+      "title": "Track 03",
+      "runtime": 67,
+      "source_mp3": "https://vgmsite.com/soundtracks/zuma/musxomnz/03%20-%20Track%2003.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zuma/03%2520-%2520Track%252003.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1405091,
+      "track_number": 4,
+      "title": "Track 04",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/zuma/aryjzbms/04%20-%20Track%2004.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zuma/04%2520-%2520Track%252004.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1468006,
+      "track_number": 5,
+      "title": "Track 05",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/zuma/wqpaemnb/05%20-%20Track%2005.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zuma/05%2520-%2520Track%252005.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1394606,
+      "track_number": 6,
+      "title": "Track 06",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/zuma/auyghmpq/06%20-%20Track%2006.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zuma/06%2520-%2520Track%252006.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 849346,
+      "track_number": 7,
+      "title": "Track 07",
+      "runtime": 29,
+      "source_mp3": "https://vgmsite.com/soundtracks/zuma/chmnuopm/07%20-%20Track%2007.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zuma/07%2520-%2520Track%252007.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1310720,
+      "track_number": 8,
+      "title": "Track 08",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/zuma/jgtknroc/08%20-%20Track%2008.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zuma/08%2520-%2520Track%252008.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 817,
+    "filesize_mp3_bytes": 24389874,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

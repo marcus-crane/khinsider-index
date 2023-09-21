@@ -1,0 +1,64 @@
+{
+  "title": "VARUNA Original Soundtrack",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T00:28:03.544175+00:00",
+  "slug": "varuna-original-soundtrack",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/varuna-original-soundtrack",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/varuna-original-soundtrack/cover.png"
+  ],
+  "year": 2015,
+  "catalog_number": null,
+  "date_added": "2021-01-24T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "izioq (Bandcamp)": "https://downloads.khinsider.com/game-soundtracks/publisher/izioq-bandcamp"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 16515072,
+      "filesize_mp3_bytes": 3596615,
+      "track_number": 1,
+      "title": "Varuna Title Screen",
+      "runtime": 151,
+      "source_mp3": "https://vgmsite.com/soundtracks/varuna-original-soundtrack/isqzpaifno/01%20Varuna%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/varuna-original-soundtrack/isqzpaifno/01%20Varuna%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/varuna-original-soundtrack/01%2520Varuna%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 27105689,
+      "filesize_mp3_bytes": 6134169,
+      "track_number": 2,
+      "title": "Varuna Stage 1",
+      "runtime": 249,
+      "source_mp3": "https://vgmsite.com/soundtracks/varuna-original-soundtrack/eronmbyerg/02%20Varuna%20Stage%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/varuna-original-soundtrack/eronmbyerg/02%20Varuna%20Stage%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/varuna-original-soundtrack/02%2520Varuna%2520Stage%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20006830,
+      "filesize_mp3_bytes": 5746196,
+      "track_number": 3,
+      "title": "Varuna Boss Stage",
+      "runtime": 216,
+      "source_mp3": "https://vgmsite.com/soundtracks/varuna-original-soundtrack/dirjfwgtkz/03%20Varuna%20Boss%20Stage.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/varuna-original-soundtrack/dirjfwgtkz/03%20Varuna%20Boss%20Stage.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/varuna-original-soundtrack/03%2520Varuna%2520Boss%2520Stage.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 616,
+    "filesize_mp3_bytes": 15476980,
+    "filesize_flac_bytes": 63627591,
+    "tracks": 3
+  }
+}

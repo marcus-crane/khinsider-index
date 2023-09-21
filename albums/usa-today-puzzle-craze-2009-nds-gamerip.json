@@ -1,0 +1,50 @@
+{
+  "title": "USA Today Puzzle Craze",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-20T00:58:31.637231+00:00",
+  "slug": "usa-today-puzzle-craze-2009-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/usa-today-puzzle-craze-2009-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/usa-today-puzzle-craze-2009-nds-gamerip/U1.png"
+  ],
+  "year": 2009,
+  "date_added": "2020-06-25T00:00:00+00:00",
+  "developers": {
+    "Magellan": "https://downloads.khinsider.com/game-soundtracks/developer/magellan"
+  },
+  "publishers": {
+    "Destineer": "https://downloads.khinsider.com/game-soundtracks/publisher/destineer"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 629145,
+      "title": "Game Music",
+      "runtime": 66,
+      "source_mp3": "https://vgmsite.com/soundtracks/usa-today-puzzle-craze-2009-nds-gamerip/qnxgnrklig/Game%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/usa-today-puzzle-craze-2009-nds-gamerip/Game%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 566231,
+      "title": "Main Music",
+      "runtime": 58,
+      "source_mp3": "https://vgmsite.com/soundtracks/usa-today-puzzle-craze-2009-nds-gamerip/wleqdpkigu/Main%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/usa-today-puzzle-craze-2009-nds-gamerip/Main%2520Music.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 124,
+    "filesize_mp3_bytes": 1195376,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

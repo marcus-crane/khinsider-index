@@ -1,0 +1,83 @@
+{
+  "title": "Vandread Trust Single",
+  "titles_alternative": [
+    "Trust / Salia"
+  ],
+  "crawled_at": "2023-09-21T00:25:14.113361+00:00",
+  "slug": "vandread-trust-single",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/vandread-trust-single",
+  "platforms": {
+    "Anime": "https://downloads.khinsider.com/game-soundtracks/anime"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/vandread-trust-single/Vandread%20Trust%20Single.jpg"
+  ],
+  "year": 2000,
+  "catalog_number": "ZMCZ-1137",
+  "date_added": "2006-11-25T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Media Factory": "https://downloads.khinsider.com/game-soundtracks/publisher/media-factory"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5756682,
+      "track_number": 1,
+      "title": "trust",
+      "runtime": 200,
+      "source_mp3": "https://vgmsite.com/soundtracks/vandread-trust-single/troppdha/01%20trust.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vandread-trust-single/01%2520trust.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6920601,
+      "track_number": 2,
+      "title": "many many years",
+      "runtime": 258,
+      "source_mp3": "https://vgmsite.com/soundtracks/vandread-trust-single/wxclewjt/02%20many%20many%20years.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vandread-trust-single/02%2520many%2520many%2520years.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4068474,
+      "track_number": 3,
+      "title": "what a wonderful world",
+      "runtime": 144,
+      "source_mp3": "https://vgmsite.com/soundtracks/vandread-trust-single/enkcxnmx/03%20what%20a%20wonderful%20world.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vandread-trust-single/03%2520what%2520a%2520wonderful%2520world.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3250585,
+      "track_number": 4,
+      "title": "trust (off vocal)",
+      "runtime": 203,
+      "source_mp3": "https://vgmsite.com/soundtracks/vandread-trust-single/errgdtpk/04%20trust%20%28off%20vocal%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vandread-trust-single/04%2520trust%2520%2528off%2520vocal%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4162846,
+      "track_number": 5,
+      "title": "many many years (off vocal)",
+      "runtime": 260,
+      "source_mp3": "https://vgmsite.com/soundtracks/vandread-trust-single/mhypyrpr/05%20many%20many%20years%20%28off%20vocal%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vandread-trust-single/05%2520many%2520many%2520years%2520%2528off%2520vocal%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1065,
+    "filesize_mp3_bytes": 24159188,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

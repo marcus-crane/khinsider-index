@@ -1,0 +1,56 @@
+{
+  "title": "Vector Racing",
+  "titles_alternative": [
+    "\u30d9\u30af\u30bf\u30fc\u30ec\u30fc\u30b7\u30f3\u30b0"
+  ],
+  "crawled_at": "2023-09-21T00:29:10.582252+00:00",
+  "slug": "vector-racing-3ds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/vector-racing-3ds-gamerip",
+  "platforms": {
+    "3DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-3ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/vector-racing-3ds-gamerip/VR.jpg"
+  ],
+  "year": 2011,
+  "date_added": "2021-03-04T00:00:00+00:00",
+  "developers": {
+    "Arc System Works": "https://downloads.khinsider.com/game-soundtracks/developer/arc-system-works"
+  },
+  "publishers": {
+    "Arc System Works": "https://downloads.khinsider.com/game-soundtracks/publisher/arc-system-works"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2485125,
+      "filesize_mp3_bytes": 639631,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 80,
+      "source_mp3": "https://vgmsite.com/soundtracks/vector-racing-3ds-gamerip/vhuuamqkeo/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/vector-racing-3ds-gamerip/vhuuamqkeo/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vector-racing-3ds-gamerip/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1583349,
+      "filesize_mp3_bytes": 450887,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 56,
+      "source_mp3": "https://vgmsite.com/soundtracks/vector-racing-3ds-gamerip/bhvomcuody/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/vector-racing-3ds-gamerip/bhvomcuody/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vector-racing-3ds-gamerip/02.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 136,
+    "filesize_mp3_bytes": 1090518,
+    "filesize_flac_bytes": 4068474,
+    "tracks": 2
+  }
+}

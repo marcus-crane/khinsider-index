@@ -1,0 +1,106 @@
+{
+  "title": "Ultima VI",
+  "titles_alternative": [
+    "Ultima: The False Prophet",
+    "\u30a6\u30eb\u30c6\u30a3\u30deVI \u507d\u308a\u306e\u4e88\u8a00\u8005"
+  ],
+  "crawled_at": "2023-09-20T00:10:03.397185+00:00",
+  "slug": "ultima-vi-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ultima-vi-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ultima-vi-amiga/coverart.jpg"
+  ],
+  "year": 1992,
+  "date_added": "2016-12-05T00:00:00+00:00",
+  "developers": {
+    "Abersoft": "https://downloads.khinsider.com/game-soundtracks/developer/abersoft",
+    "Origin": "https://downloads.khinsider.com/game-soundtracks/developer/origin"
+  },
+  "publishers": {
+    "Mindscape": "https://downloads.khinsider.com/game-soundtracks/publisher/mindscape"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4320133,
+      "track_number": 1,
+      "title": "Can't Remove the Pain (Opening)",
+      "runtime": 132,
+      "source_mp3": "https://vgmsite.com/soundtracks/ultima-vi-amiga/xfrscjad/01%20Can%27t%20Remove%20the%20Pain%20%28Opening%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ultima-vi-amiga/01%2520Can%2527t%2520Remove%2520the%2520Pain%2520%2528Opening%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3722444,
+      "track_number": 2,
+      "title": "Fall Leaves (Introduction)",
+      "runtime": 107,
+      "source_mp3": "https://vgmsite.com/soundtracks/ultima-vi-amiga/nkpbqfym/02%20Fall%20Leaves%20%28Introduction%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ultima-vi-amiga/02%2520Fall%2520Leaves%2520%2528Introduction%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5809111,
+      "track_number": 3,
+      "title": "I Hear You Crying (Character Creation)",
+      "runtime": 198,
+      "source_mp3": "https://vgmsite.com/soundtracks/ultima-vi-amiga/knbppetf/03%20I%20Hear%20You%20Crying%20%28Character%20Creation%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ultima-vi-amiga/03%2520I%2520Hear%2520You%2520Crying%2520%2528Character%2520Creation%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2705326,
+      "track_number": 4,
+      "title": "Rule, Britannia! (Theme)",
+      "runtime": 76,
+      "source_mp3": "https://vgmsite.com/soundtracks/ultima-vi-amiga/niaxdzce/04%20Rule%2C%20Britannia%21%20%28Theme%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ultima-vi-amiga/04%2520Rule%252C%2520Britannia%2521%2520%2528Theme%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3753902,
+      "track_number": 5,
+      "title": "Black Forest (Wanderer)",
+      "runtime": 121,
+      "source_mp3": "https://vgmsite.com/soundtracks/ultima-vi-amiga/uhxivjpw/05%20Black%20Forest%20%28Wanderer%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ultima-vi-amiga/05%2520Black%2520Forest%2520%2528Wanderer%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4519362,
+      "track_number": 6,
+      "title": "Stones",
+      "runtime": 141,
+      "source_mp3": "https://vgmsite.com/soundtracks/ultima-vi-amiga/hrmerdvt/06%20Stones.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ultima-vi-amiga/06%2520Stones.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4162846,
+      "track_number": 7,
+      "title": "The Wander (Dungeon)",
+      "runtime": 127,
+      "source_mp3": "https://vgmsite.com/soundtracks/ultima-vi-amiga/uwwzfbty/07%20The%20Wander%20%28Dungeon%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ultima-vi-amiga/07%2520The%2520Wander%2520%2528Dungeon%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 902,
+    "filesize_mp3_bytes": 28993124,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

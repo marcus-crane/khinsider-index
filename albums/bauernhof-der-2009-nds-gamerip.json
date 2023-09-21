@@ -1,0 +1,82 @@
+{
+  "title": "Der Bauernhof",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-19T09:38:20.759347+00:00",
+  "slug": "bauernhof-der-2009-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/bauernhof-der-2009-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/bauernhof-der-2009-nds-gamerip/Bauernhof%2C%20Der.jpg"
+  ],
+  "year": 2009,
+  "date_added": "2020-06-02T00:00:00+00:00",
+  "developers": {
+    "Visual Imagination": "https://downloads.khinsider.com/game-soundtracks/developer/visual-imagination"
+  },
+  "publishers": {
+    "Astragon": "https://downloads.khinsider.com/game-soundtracks/publisher/astragon"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3586129,
+      "filesize_mp3_bytes": 1415577,
+      "title": "L1",
+      "runtime": 99,
+      "source_mp3": "https://vgmsite.com/soundtracks/bauernhof-der-2009-nds-gamerip/fgrtdaqcag/L1.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bauernhof-der-2009-nds-gamerip/fgrtdaqcag/L1.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bauernhof-der-2009-nds-gamerip/L1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2285895,
+      "filesize_mp3_bytes": 933232,
+      "title": "L2",
+      "runtime": 80,
+      "source_mp3": "https://vgmsite.com/soundtracks/bauernhof-der-2009-nds-gamerip/hipengfkxb/L2.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bauernhof-der-2009-nds-gamerip/hipengfkxb/L2.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bauernhof-der-2009-nds-gamerip/L2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3219128,
+      "filesize_mp3_bytes": 1226833,
+      "title": "L3",
+      "runtime": 92,
+      "source_mp3": "https://vgmsite.com/soundtracks/bauernhof-der-2009-nds-gamerip/otxjawvgsr/L3.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bauernhof-der-2009-nds-gamerip/otxjawvgsr/L3.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bauernhof-der-2009-nds-gamerip/L3.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2873098,
+      "filesize_mp3_bytes": 1142947,
+      "title": "L4",
+      "runtime": 89,
+      "source_mp3": "https://vgmsite.com/soundtracks/bauernhof-der-2009-nds-gamerip/vtprqwiykl/L4.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bauernhof-der-2009-nds-gamerip/vtprqwiykl/L4.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bauernhof-der-2009-nds-gamerip/L4.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 702545,
+      "filesize_mp3_bytes": 272629,
+      "title": "Menu",
+      "runtime": 24,
+      "source_mp3": "https://vgmsite.com/soundtracks/bauernhof-der-2009-nds-gamerip/pnnwuwnyzl/Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/bauernhof-der-2009-nds-gamerip/pnnwuwnyzl/Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bauernhof-der-2009-nds-gamerip/Menu.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 384,
+    "filesize_mp3_bytes": 4991218,
+    "filesize_flac_bytes": 12666795,
+    "tracks": 5
+  }
+}

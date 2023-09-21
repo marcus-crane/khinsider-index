@@ -1,0 +1,54 @@
+{
+  "title": "UFO Aftermath",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-20T00:07:57.523147+00:00",
+  "slug": "ufo-aftermath",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ufo-aftermath",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/ufo-aftermath/coverart.jpg"
+  ],
+  "year": 2003,
+  "date_added": "2017-03-24T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4540334,
+      "track_number": 1,
+      "title": "Geosphere1",
+      "runtime": 175,
+      "source_mp3": "https://vgmsite.com/soundtracks/ufo-aftermath/tidhvjfw/01%20-%20Geosphere1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ufo-aftermath/01%2520-%2520Geosphere1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4267704,
+      "track_number": 2,
+      "title": "Geosphere2",
+      "runtime": 158,
+      "source_mp3": "https://vgmsite.com/soundtracks/ufo-aftermath/bxsqnjfv/02%20-%20Geosphere2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ufo-aftermath/02%2520-%2520Geosphere2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4330618,
+      "track_number": 3,
+      "title": "UFO_aftermath",
+      "runtime": 162,
+      "source_mp3": "https://vgmsite.com/soundtracks/ufo-aftermath/loxrpwcz/03%20-%20UFO_aftermath.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ufo-aftermath/03%2520-%2520UFO_aftermath.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 495,
+    "filesize_mp3_bytes": 13138656,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

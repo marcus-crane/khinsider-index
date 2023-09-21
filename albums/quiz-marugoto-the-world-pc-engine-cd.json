@@ -1,0 +1,89 @@
+{
+  "title": "Quiz Marugoto The World (PC-Engine CD)",
+  "titles_alternative": [
+    "QUIZ \u307e\u308b\u3054\u3068 The \u30ef\u30fc\u30eb\u30c9"
+  ],
+  "crawled_at": "2023-09-19T21:14:53.151253+00:00",
+  "slug": "quiz-marugoto-the-world-pc-engine-cd",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/quiz-marugoto-the-world-pc-engine-cd",
+  "platforms": {
+    "TurboGrafx-16": "https://downloads.khinsider.com/game-soundtracks/turbografx-16"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/quiz-marugoto-the-world-pc-engine-cd/Quiz%20Marugoto%20The%20World.png"
+  ],
+  "year": 1991,
+  "date_added": "2022-06-01T00:00:00+00:00",
+  "developers": {
+    "A.I": "https://downloads.khinsider.com/game-soundtracks/developer/a.i"
+  },
+  "publishers": {
+    "A.I Co.": "https://downloads.khinsider.com/game-soundtracks/publisher/a.i"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2548039,
+      "filesize_mp3_bytes": 807403,
+      "track_number": 1,
+      "title": "Menu",
+      "runtime": 33,
+      "source_mp3": "https://vgmsite.com/soundtracks/quiz-marugoto-the-world-pc-engine-cd/vbpxqgvtqn/01%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/quiz-marugoto-the-world-pc-engine-cd/vbpxqgvtqn/01%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/quiz-marugoto-the-world-pc-engine-cd/01%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1656750,
+      "filesize_mp3_bytes": 1153433,
+      "track_number": 2,
+      "title": "Cyber Bingo",
+      "runtime": 40,
+      "source_mp3": "https://vgmsite.com/soundtracks/quiz-marugoto-the-world-pc-engine-cd/mjprlcrccj/02%20Cyber%20Bingo.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/quiz-marugoto-the-world-pc-engine-cd/mjprlcrccj/02%20Cyber%20Bingo.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/quiz-marugoto-the-world-pc-engine-cd/02%2520Cyber%2520Bingo.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 293601,
+      "filesize_mp3_bytes": 262144,
+      "track_number": 3,
+      "title": "Questions",
+      "runtime": 12,
+      "source_mp3": "https://vgmsite.com/soundtracks/quiz-marugoto-the-world-pc-engine-cd/eawhyvjbnl/03%20Questions.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/quiz-marugoto-the-world-pc-engine-cd/eawhyvjbnl/03%20Questions.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/quiz-marugoto-the-world-pc-engine-cd/03%2520Questions.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 41943,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 4,
+      "title": "Incorrect",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/quiz-marugoto-the-world-pc-engine-cd/vvmdjexksd/04%20Incorrect.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/quiz-marugoto-the-world-pc-engine-cd/vvmdjexksd/04%20Incorrect.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/quiz-marugoto-the-world-pc-engine-cd/04%2520Incorrect.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 241172,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 5,
+      "title": "Correct",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/quiz-marugoto-the-world-pc-engine-cd/yqtvljupkb/05%20Correct.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/quiz-marugoto-the-world-pc-engine-cd/yqtvljupkb/05%20Correct.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/quiz-marugoto-the-world-pc-engine-cd/05%2520Correct.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 89,
+    "filesize_mp3_bytes": 2317351,
+    "filesize_flac_bytes": 4781505,
+    "tracks": 5
+  }
+}

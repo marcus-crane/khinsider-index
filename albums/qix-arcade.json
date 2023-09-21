@@ -1,0 +1,104 @@
+{
+  "title": "Qix",
+  "titles_alternative": [
+    "\u30af\u30a4\u30c3\u30af\u30b9"
+  ],
+  "crawled_at": "2023-09-19T21:03:42.309585+00:00",
+  "slug": "qix-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/qix-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/qix-arcade/Q1.jpg"
+  ],
+  "year": 1981,
+  "date_added": "2021-02-27T00:00:00+00:00",
+  "developers": {
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/developer/taito"
+  },
+  "publishers": {
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/publisher/taito"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 1,
+      "title": "Start",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/qix-arcade/byyrihmbru/1.%20Start.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/qix-arcade/1.%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1321205,
+      "track_number": 2,
+      "title": "The Qix",
+      "runtime": 55,
+      "source_mp3": "https://vgmsite.com/soundtracks/qix-arcade/zrsjfqhjjy/2.%20The%20Qix.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/qix-arcade/2.%2520The%2520Qix.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 482344,
+      "track_number": 3,
+      "title": "The Fuse",
+      "runtime": 20,
+      "source_mp3": "https://vgmsite.com/soundtracks/qix-arcade/oqswhfdnta/3.%20The%20Fuse.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/qix-arcade/3.%2520The%2520Fuse.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 4,
+      "title": "Miss - Restart",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/qix-arcade/jnuyribdfm/4.%20Miss%20-%20Restart.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/qix-arcade/4.%2520Miss%2520-%2520Restart.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 5,
+      "title": "Fast Stix",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/qix-arcade/jphkeuqgne/5.%20Fast%20Stix.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/qix-arcade/5.%2520Fast%2520Stix.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 6,
+      "title": "Slow Stix",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/qix-arcade/qgrkeqtqnf/6.%20Slow%20Stix.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/qix-arcade/6.%2520Slow%2520Stix.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 513802,
+      "track_number": 7,
+      "title": "Stage Clear",
+      "runtime": 21,
+      "source_mp3": "https://vgmsite.com/soundtracks/qix-arcade/jomdzxvenn/7.%20Stage%20Clear.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/qix-arcade/7.%2520Stage%2520Clear.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 110,
+    "filesize_mp3_bytes": 2673864,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "title": "Zanac - AFX-6502",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-20T21:17:07.717254+00:00",
+  "slug": "zanac-afx-6502",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/zanac-afx-6502",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/zanac-afx-6502/Cover.jpg"
+  ],
+  "year": 2001,
+  "catalog_number": "apcd03",
+  "date_added": "2021-04-09T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "aerophonon": "https://downloads.khinsider.com/game-soundtracks/publisher/aerophonon"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 62662901,
+      "filesize_mp3_bytes": 23278387,
+      "track_number": 1,
+      "title": "Blip Force Mix 12",
+      "runtime": 604,
+      "source_mp3": "https://vgmsite.com/soundtracks/zanac-afx-6502/qzujdwlqaz/01%20Blip%20Force%20Mix%2012.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/zanac-afx-6502/qzujdwlqaz/01%20Blip%20Force%20Mix%2012.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zanac-afx-6502/01%2520Blip%2520Force%2520Mix%252012.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 34477178,
+      "filesize_mp3_bytes": 14648606,
+      "track_number": 2,
+      "title": "Rander vermelho",
+      "runtime": 386,
+      "source_mp3": "https://vgmsite.com/soundtracks/zanac-afx-6502/esuytlnltv/02%20Rander%20vermelho.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/zanac-afx-6502/esuytlnltv/02%20Rander%20vermelho.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zanac-afx-6502/02%2520Rander%2520vermelho.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20080230,
+      "filesize_mp3_bytes": 7801405,
+      "track_number": 3,
+      "title": "warphole edit",
+      "runtime": 267,
+      "source_mp3": "https://vgmsite.com/soundtracks/zanac-afx-6502/psqfjlorkz/03%20warphole%20edit.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/zanac-afx-6502/psqfjlorkz/03%20warphole%20edit.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zanac-afx-6502/03%2520warphole%2520edit.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 35200696,
+      "filesize_mp3_bytes": 11995709,
+      "track_number": 4,
+      "title": "Extended Bass Mix",
+      "runtime": 325,
+      "source_mp3": "https://vgmsite.com/soundtracks/zanac-afx-6502/ozprmhzdnm/04%20Extended%20Bass%20Mix.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/zanac-afx-6502/ozprmhzdnm/04%20Extended%20Bass%20Mix.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zanac-afx-6502/04%2520Extended%2520Bass%2520Mix.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 24222105,
+      "filesize_mp3_bytes": 8556380,
+      "track_number": 5,
+      "title": "micro circular dub",
+      "runtime": 251,
+      "source_mp3": "https://vgmsite.com/soundtracks/zanac-afx-6502/bmvfgphika/05%20micro%20circular%20dub.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/zanac-afx-6502/bmvfgphika/05%20micro%20circular%20dub.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zanac-afx-6502/05%2520micro%2520circular%2520dub.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 47668264,
+      "filesize_mp3_bytes": 14952693,
+      "track_number": 6,
+      "title": "instrumental",
+      "runtime": 429,
+      "source_mp3": "https://vgmsite.com/soundtracks/zanac-afx-6502/yxpoczaplq/06%20instrumental.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/zanac-afx-6502/yxpoczaplq/06%20instrumental.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zanac-afx-6502/06%2520instrumental.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2262,
+    "filesize_mp3_bytes": 81233180,
+    "filesize_flac_bytes": 224311374,
+    "tracks": 6
+  }
+}

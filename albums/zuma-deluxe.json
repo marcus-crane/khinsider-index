@@ -1,0 +1,106 @@
+{
+  "title": "Zuma Deluxe",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-20T21:47:09.902037+00:00",
+  "slug": "zuma-deluxe",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/zuma-deluxe",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/zuma-deluxe/Zuma%20Deluxe.jpg"
+  ],
+  "year": 2005,
+  "date_added": "2018-07-15T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2170552,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 85,
+      "source_mp3": "https://vgmsite.com/soundtracks/zuma-deluxe/wsakedwj/001%20-%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zuma-deluxe/001%2520-%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2275409,
+      "track_number": 2,
+      "title": "Menu",
+      "runtime": 85,
+      "source_mp3": "https://vgmsite.com/soundtracks/zuma-deluxe/pysiqsva/002%20-%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zuma-deluxe/002%2520-%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1258291,
+      "track_number": 3,
+      "title": "Gauntlet",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/zuma-deluxe/dyaolgbc/003%20-%20Gauntlet.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zuma-deluxe/003%2520-%2520Gauntlet.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11775508,
+      "track_number": 4,
+      "title": "Game BGM",
+      "runtime": 461,
+      "source_mp3": "https://vgmsite.com/soundtracks/zuma-deluxe/cpxtpszd/004%20-%20Game%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zuma-deluxe/004%2520-%2520Game%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1174405,
+      "track_number": 5,
+      "title": "Game BGM - Warning!",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/zuma-deluxe/xuppbmkc/005%20-%20Game%20BGM%20-%20Warning%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zuma-deluxe/005%2520-%2520Game%2520BGM%2520-%2520Warning%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 723517,
+      "track_number": 6,
+      "title": "Clear Level",
+      "runtime": 29,
+      "source_mp3": "https://vgmsite.com/soundtracks/zuma-deluxe/qlcsodpy/006%20-%20Clear%20Level.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zuma-deluxe/006%2520-%2520Clear%2520Level.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1038090,
+      "track_number": 7,
+      "title": "Death",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/zuma-deluxe/sylkdyzv/007%20-%20Death.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zuma-deluxe/007%2520-%2520Death.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1184890,
+      "track_number": 8,
+      "title": "Stage Clear",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/zuma-deluxe/zywedtlv/008%20-%20Stage%20Clear.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zuma-deluxe/008%2520-%2520Stage%2520Clear.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 852,
+    "filesize_mp3_bytes": 21600662,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

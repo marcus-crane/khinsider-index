@@ -1,0 +1,68 @@
+{
+  "title": "QT",
+  "titles_alternative": [
+    "QT (free)"
+  ],
+  "crawled_at": "2023-09-19T21:03:57.857570+00:00",
+  "slug": "qt-windows-gamerip-2019",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/qt-windows-gamerip-2019",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/qt-windows-gamerip-2019/Album%20cover%201.png"
+  ],
+  "year": 2019,
+  "catalog_number": null,
+  "date_added": "2023-08-23T00:00:00+00:00",
+  "developers": {
+    "Happy Snake Games": "https://downloads.khinsider.com/game-soundtracks/developer/happy-snake-games"
+  },
+  "publishers": {
+    "Happy Snake Games": "https://downloads.khinsider.com/game-soundtracks/publisher/happy-snake-games"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11209277,
+      "filesize_mp3_bytes": 4162846,
+      "track_number": 1,
+      "title": "Main Song",
+      "runtime": 146,
+      "source_mp3": "https://vgmsite.com/soundtracks/qt-windows-gamerip-2019/fmoblhmtqu/01.%20Main%20Song.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/qt-windows-gamerip-2019/fmoblhmtqu/01.%20Main%20Song.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/qt-windows-gamerip-2019/01.%2520Main%2520Song.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 15927869,
+      "filesize_mp3_bytes": 5085593,
+      "track_number": 2,
+      "title": "Party Music",
+      "runtime": 161,
+      "source_mp3": "https://vgmsite.com/soundtracks/qt-windows-gamerip-2019/vomtkvatpr/02.%20Party%20Music.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/qt-windows-gamerip-2019/vomtkvatpr/02.%20Party%20Music.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/qt-windows-gamerip-2019/02.%2520Party%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 377487,
+      "filesize_mp3_bytes": 241172,
+      "track_number": 3,
+      "title": "Weemble Success",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/qt-windows-gamerip-2019/umacywppyy/03.%20Weemble%20Success.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/qt-windows-gamerip-2019/umacywppyy/03.%20Weemble%20Success.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/qt-windows-gamerip-2019/03.%2520Weemble%2520Success.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 315,
+    "filesize_mp3_bytes": 9489611,
+    "filesize_flac_bytes": 27514633,
+    "tracks": 3
+  }
+}

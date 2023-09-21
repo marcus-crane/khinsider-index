@@ -1,0 +1,100 @@
+{
+  "title": "Zoop",
+  "titles_alternative": [
+    "\u30ba\u30fc\u30d7"
+  ],
+  "crawled_at": "2023-09-20T21:45:21.364478+00:00",
+  "slug": "zoop-1995-playstation",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/zoop-1995-playstation",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/zoop-1995-playstation/Z1.jpg"
+  ],
+  "year": 1995,
+  "date_added": "2018-02-02T00:00:00+00:00",
+  "developers": {
+    "Hookstone": "https://downloads.khinsider.com/game-soundtracks/developer/hookstone"
+  },
+  "publishers": {
+    "Viacom": "https://downloads.khinsider.com/game-soundtracks/publisher/viacom"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 14564720,
+      "filesize_mp3_bytes": 9909043,
+      "track_number": 2,
+      "title": "Hip",
+      "runtime": 248,
+      "source_mp3": "https://vgmsite.com/soundtracks/zoop-1995-playstation/llzlvrwz/02%20-%20Hip.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/zoop-1995-playstation/llzlvrwz/02%20-%20Hip.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zoop-1995-playstation/02%2520-%2520Hip.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 13170114,
+      "filesize_mp3_bytes": 10328473,
+      "track_number": 3,
+      "title": "Blizz",
+      "runtime": 258,
+      "source_mp3": "https://vgmsite.com/soundtracks/zoop-1995-playstation/dltaitye/03%20-%20Blizz.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/zoop-1995-playstation/dltaitye/03%20-%20Blizz.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zoop-1995-playstation/03%2520-%2520Blizz.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 12415139,
+      "filesize_mp3_bytes": 8818524,
+      "track_number": 4,
+      "title": "Pokare",
+      "runtime": 220,
+      "source_mp3": "https://vgmsite.com/soundtracks/zoop-1995-playstation/krthjqjv/04%20-%20Pokare.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/zoop-1995-playstation/krthjqjv/04%20-%20Pokare.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zoop-1995-playstation/04%2520-%2520Pokare.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 16735272,
+      "filesize_mp3_bytes": 10789847,
+      "track_number": 5,
+      "title": "Dream",
+      "runtime": 270,
+      "source_mp3": "https://vgmsite.com/soundtracks/zoop-1995-playstation/czlpsezj/05%20-%20Dream.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/zoop-1995-playstation/czlpsezj/05%20-%20Dream.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zoop-1995-playstation/05%2520-%2520Dream.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 12048138,
+      "filesize_mp3_bytes": 8766095,
+      "track_number": 6,
+      "title": "Static",
+      "runtime": 219,
+      "source_mp3": "https://vgmsite.com/soundtracks/zoop-1995-playstation/nicrshdj/06%20-%20Static.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/zoop-1995-playstation/nicrshdj/06%20-%20Static.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zoop-1995-playstation/06%2520-%2520Static.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11639193,
+      "filesize_mp3_bytes": 10580131,
+      "track_number": 7,
+      "title": "Bomb",
+      "runtime": 265,
+      "source_mp3": "https://vgmsite.com/soundtracks/zoop-1995-playstation/thksjozg/07%20-%20Bomb.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/zoop-1995-playstation/thksjozg/07%20-%20Bomb.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zoop-1995-playstation/07%2520-%2520Bomb.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1480,
+    "filesize_mp3_bytes": 59192113,
+    "filesize_flac_bytes": 80572576,
+    "tracks": 6
+  }
+}

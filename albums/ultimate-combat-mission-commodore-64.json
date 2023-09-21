@@ -1,0 +1,92 @@
+{
+  "title": "Ultimate Combat Mission",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-20T00:11:09.380351+00:00",
+  "slug": "ultimate-combat-mission-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ultimate-combat-mission-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ultimate-combat-mission-commodore-64/Ultimate%20Combat%20Mission.jpg"
+  ],
+  "year": 1988,
+  "date_added": "2017-07-05T00:00:00+00:00",
+  "developers": {
+    "Mastertronic": "https://downloads.khinsider.com/game-soundtracks/developer/mastertronic"
+  },
+  "publishers": {
+    "Mastertronic": "https://downloads.khinsider.com/game-soundtracks/publisher/mastertronic"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2631925,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 146,
+      "source_mp3": "https://vgmsite.com/soundtracks/ultimate-combat-mission-commodore-64/nnqhpklc/01_Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ultimate-combat-mission-commodore-64/01_Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 2,
+      "title": "Get Ready!",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/ultimate-combat-mission-commodore-64/tjdpyvdn/02_Get%20Ready%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ultimate-combat-mission-commodore-64/02_Get%2520Ready%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 492830,
+      "track_number": 3,
+      "title": "Game Over",
+      "runtime": 32,
+      "source_mp3": "https://vgmsite.com/soundtracks/ultimate-combat-mission-commodore-64/fzidotxr/03_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ultimate-combat-mission-commodore-64/03_Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4445962,
+      "track_number": 4,
+      "title": "Main Theme (SID Stereo)",
+      "runtime": 145,
+      "source_mp3": "https://vgmsite.com/soundtracks/ultimate-combat-mission-commodore-64/bopzpgvr/04_Main%20Theme%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ultimate-combat-mission-commodore-64/04_Main%2520Theme%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 241172,
+      "track_number": 5,
+      "title": "Get Ready! (SID Stereo)",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/ultimate-combat-mission-commodore-64/chnqfsye/05_Get%20Ready%21%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ultimate-combat-mission-commodore-64/05_Get%2520Ready%2521%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 807403,
+      "track_number": 6,
+      "title": "Game Over (SID Stereo)",
+      "runtime": 31,
+      "source_mp3": "https://vgmsite.com/soundtracks/ultimate-combat-mission-commodore-64/weoeawjw/06_Game%20Over%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ultimate-combat-mission-commodore-64/06_Game%2520Over%2520%2528SID%2520Stereo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 373,
+    "filesize_mp3_bytes": 8766092,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

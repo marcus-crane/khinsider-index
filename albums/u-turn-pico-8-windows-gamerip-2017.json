@@ -1,0 +1,65 @@
+{
+  "title": "U-Turn (Pico-8)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-20T00:04:55.963398+00:00",
+  "slug": "u-turn-pico-8-windows-gamerip-2017",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/u-turn-pico-8-windows-gamerip-2017",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/u-turn-pico-8-windows-gamerip-2017/U-Turn%20Title%20Screen.png"
+  ],
+  "year": 2017,
+  "date_added": "2022-12-23T00:00:00+00:00",
+  "developers": {
+    "benjamin_soule": "https://downloads.khinsider.com/game-soundtracks/developer/benjamin-soule"
+  },
+  "publishers": {
+    "benjamin_soule": "https://downloads.khinsider.com/game-soundtracks/publisher/benjamin-soule"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6973030,
+      "filesize_mp3_bytes": 1530920,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 76,
+      "source_mp3": "https://vgmsite.com/soundtracks/u-turn-pico-8-windows-gamerip-2017/kosiyujojv/01.%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/u-turn-pico-8-windows-gamerip-2017/kosiyujojv/01.%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/u-turn-pico-8-windows-gamerip-2017/01.%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8367636,
+      "filesize_mp3_bytes": 1845493,
+      "track_number": 2,
+      "title": "Title Screen (With SFX)",
+      "runtime": 90,
+      "source_mp3": "https://vgmsite.com/soundtracks/u-turn-pico-8-windows-gamerip-2017/xfmtonjlih/02.%20Title%20Screen%20%28With%20SFX%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/u-turn-pico-8-windows-gamerip-2017/xfmtonjlih/02.%20Title%20Screen%20%28With%20SFX%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/u-turn-pico-8-windows-gamerip-2017/02.%2520Title%2520Screen%2520%2528With%2520SFX%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 12771655,
+      "filesize_mp3_bytes": 2925527,
+      "track_number": 3,
+      "title": "Main Theme",
+      "runtime": 123,
+      "source_mp3": "https://vgmsite.com/soundtracks/u-turn-pico-8-windows-gamerip-2017/hoqviiswlt/03.%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/u-turn-pico-8-windows-gamerip-2017/hoqviiswlt/03.%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/u-turn-pico-8-windows-gamerip-2017/03.%2520Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 289,
+    "filesize_mp3_bytes": 6301940,
+    "filesize_flac_bytes": 28112321,
+    "tracks": 3
+  }
+}

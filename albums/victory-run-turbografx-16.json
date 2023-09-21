@@ -1,0 +1,90 @@
+{
+  "title": "Victory Run",
+  "titles_alternative": [
+    "Victory Run: 13,000 Kilometers of Glory",
+    "\u30d3\u30af\u30c8\u30ea\u30fc\u30e9\u30f3\u6804\u5149\u306e13,000\u30ad\u30ed\u2015"
+  ],
+  "crawled_at": "2023-09-21T00:37:34.012482+00:00",
+  "slug": "victory-run-turbografx-16",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/victory-run-turbografx-16",
+  "platforms": {
+    "TurboGrafx-16": "https://downloads.khinsider.com/game-soundtracks/turbografx-16"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/victory-run-turbografx-16/Victory%20Run%20%28J%29.png"
+  ],
+  "year": 1987,
+  "date_added": "2021-10-04T00:00:00+00:00",
+  "developers": {
+    "Hudson": "https://downloads.khinsider.com/game-soundtracks/developer/hudson"
+  },
+  "publishers": {
+    "Hudson": "https://downloads.khinsider.com/game-soundtracks/publisher/hudson"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10129244,
+      "filesize_mp3_bytes": 3292528,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 106,
+      "source_mp3": "https://vgmsite.com/soundtracks/victory-run-turbografx-16/lkxlsurqhk/01%20Title.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/victory-run-turbografx-16/lkxlsurqhk/01%20Title.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/victory-run-turbografx-16/01%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11670650,
+      "filesize_mp3_bytes": 3764387,
+      "track_number": 2,
+      "title": "Setup",
+      "runtime": 116,
+      "source_mp3": "https://vgmsite.com/soundtracks/victory-run-turbografx-16/llyehjasns/02%20Setup.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/victory-run-turbografx-16/llyehjasns/02%20Setup.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/victory-run-turbografx-16/02%2520Setup.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11848908,
+      "filesize_mp3_bytes": 3376414,
+      "track_number": 3,
+      "title": "Ingame 1",
+      "runtime": 116,
+      "source_mp3": "https://vgmsite.com/soundtracks/victory-run-turbografx-16/cbhimlxtlz/03%20Ingame%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/victory-run-turbografx-16/cbhimlxtlz/03%20Ingame%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/victory-run-turbografx-16/03%2520Ingame%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 15351152,
+      "filesize_mp3_bytes": 4393533,
+      "track_number": 4,
+      "title": "Ingame 2",
+      "runtime": 148,
+      "source_mp3": "https://vgmsite.com/soundtracks/victory-run-turbografx-16/qbhnhnnkve/04%20Ingame%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/victory-run-turbografx-16/qbhnhnnkve/04%20Ingame%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/victory-run-turbografx-16/04%2520Ingame%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11377049,
+      "filesize_mp3_bytes": 3816816,
+      "track_number": 5,
+      "title": "Ingame 3",
+      "runtime": 116,
+      "source_mp3": "https://vgmsite.com/soundtracks/victory-run-turbografx-16/czhxajulfi/05%20Ingame%203.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/victory-run-turbografx-16/czhxajulfi/05%20Ingame%203.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/victory-run-turbografx-16/05%2520Ingame%25203.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 602,
+    "filesize_mp3_bytes": 18643678,
+    "filesize_flac_bytes": 60377003,
+    "tracks": 5
+  }
+}

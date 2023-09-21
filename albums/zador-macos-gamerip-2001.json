@@ -1,0 +1,58 @@
+{
+  "title": "Zador",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-20T21:14:40.858420+00:00",
+  "slug": "zador-macos-gamerip-2001",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/zador-macos-gamerip-2001",
+  "platforms": {
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/zador-macos-gamerip-2001/coverart.jpg"
+  ],
+  "year": 2001,
+  "date_added": "2022-11-04T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4739563,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 118,
+      "source_mp3": "https://vgmsite.com/soundtracks/zador-macos-gamerip-2001/xwhtvwndzg/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zador-macos-gamerip-2001/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8283750,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 207,
+      "source_mp3": "https://vgmsite.com/soundtracks/zador-macos-gamerip-2001/nopfmgjbym/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zador-macos-gamerip-2001/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4445962,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 111,
+      "source_mp3": "https://vgmsite.com/soundtracks/zador-macos-gamerip-2001/kgjcnecozs/03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zador-macos-gamerip-2001/03.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 436,
+    "filesize_mp3_bytes": 17469275,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

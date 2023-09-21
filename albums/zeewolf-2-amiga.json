@@ -1,0 +1,64 @@
+{
+  "title": "Zeewolf 2",
+  "titles_alternative": [
+    "Zeewolf 2: Wild Justice"
+  ],
+  "crawled_at": "2023-09-20T21:20:01.932586+00:00",
+  "slug": "zeewolf-2-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/zeewolf-2-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/zeewolf-2-amiga/W1.jpg"
+  ],
+  "year": 1995,
+  "date_added": "2019-05-20T00:00:00+00:00",
+  "developers": {
+    "Binary Asylum": "https://downloads.khinsider.com/game-soundtracks/developer/binary-asylum"
+  },
+  "publishers": {
+    "Binary Asylum": "https://downloads.khinsider.com/game-soundtracks/publisher/binary-asylum"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6385827,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 194,
+      "source_mp3": "https://vgmsite.com/soundtracks/zeewolf-2-amiga/hjbhypki/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zeewolf-2-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1876951,
+      "track_number": 2,
+      "title": "Mission Briefing",
+      "runtime": 62,
+      "source_mp3": "https://vgmsite.com/soundtracks/zeewolf-2-amiga/sdfionvv/02_Mission%20Briefing.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zeewolf-2-amiga/02_Mission%2520Briefing.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 178257,
+      "track_number": 3,
+      "title": "Game Over",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/zeewolf-2-amiga/slyrrppq/03_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/zeewolf-2-amiga/03_Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 263,
+    "filesize_mp3_bytes": 8441035,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}
