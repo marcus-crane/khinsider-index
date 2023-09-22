@@ -1,0 +1,36 @@
+{
+  "title": "Girls X Battle -GXB Global",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T08:42:56.859399+00:00",
+  "slug": "girls-x-battle-gxb-global-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/girls-x-battle-gxb-global-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/girls-x-battle-gxb-global-android/10002041.png"
+  ],
+  "date_added": "2018-06-21T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 859832,
+      "title": "Home BG Music",
+      "runtime": 107,
+      "source_mp3": "https://vgmsite.com/soundtracks/girls-x-battle-gxb-global-android/vwstdhtw/Home%20BG%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/girls-x-battle-gxb-global-android/Home%2520BG%2520Music.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 107,
+    "filesize_mp3_bytes": 859832,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "title": "Ghostbusters",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T08:23:57.439921+00:00",
+  "slug": "ghostbusters-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ghostbusters-nes",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ghostbusters-nes/Ghostbusters.png"
+  ],
+  "year": 1984,
+  "date_added": "2022-05-02T00:00:00+00:00",
+  "developers": {
+    "Bits Laboratory": "https://downloads.khinsider.com/game-soundtracks/developer/bits-laboratory"
+  },
+  "publishers": {
+    "Activision": "https://downloads.khinsider.com/game-soundtracks/publisher/activision"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 73400,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 1,
+      "title": "Ghostbusters!",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/ghostbusters-nes/chrfgekyzw/01%20Ghostbusters%21.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ghostbusters-nes/chrfgekyzw/01%20Ghostbusters%21.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ghostbusters-nes/01%2520Ghostbusters%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 15697182,
+      "filesize_mp3_bytes": 8357150,
+      "track_number": 2,
+      "title": "Main BGM",
+      "runtime": 417,
+      "source_mp3": "https://vgmsite.com/soundtracks/ghostbusters-nes/mqmutnujcw/02%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ghostbusters-nes/mqmutnujcw/02%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ghostbusters-nes/02%2520Main%2520BGM.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 418,
+    "filesize_mp3_bytes": 8388607,
+    "filesize_flac_bytes": 15770582,
+    "tracks": 2
+  }
+}

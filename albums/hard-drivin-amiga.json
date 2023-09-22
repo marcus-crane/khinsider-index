@@ -1,0 +1,58 @@
+{
+  "title": "Hard Drivin'",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T11:25:45.526479+00:00",
+  "slug": "hard-drivin-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hard-drivin-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/hard-drivin-amiga/Hard%20Drivin%27%20Amiga%20back%20cover.jpg"
+  ],
+  "year": 2016,
+  "date_added": "2020-07-18T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 14449377,
+      "track_number": 1,
+      "title": "Intro - Attract Mode",
+      "runtime": 361,
+      "source_mp3": "https://vgmsite.com/soundtracks/hard-drivin-amiga/tmjdxbatyx/1%20Intro%20-%20Attract%20Mode.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hard-drivin-amiga/1%2520Intro%2520-%2520Attract%2520Mode.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7182745,
+      "track_number": 2,
+      "title": "Title Theme",
+      "runtime": 179,
+      "source_mp3": "https://vgmsite.com/soundtracks/hard-drivin-amiga/hyvsxzlzgu/2%20Title%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hard-drivin-amiga/2%2520Title%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3124756,
+      "track_number": 3,
+      "title": "Race Complete",
+      "runtime": 78,
+      "source_mp3": "https://vgmsite.com/soundtracks/hard-drivin-amiga/plmetsquaq/3%20Race%20Complete.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hard-drivin-amiga/3%2520Race%2520Complete.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 618,
+    "filesize_mp3_bytes": 24756878,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

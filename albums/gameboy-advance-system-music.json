@@ -1,0 +1,56 @@
+{
+  "title": "Game Boy Advance System Music",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T07:23:32.443691+00:00",
+  "slug": "gameboy-advance-system-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/gameboy-advance-system-music",
+  "platforms": {
+    "GBA": "https://downloads.khinsider.com/game-soundtracks/gameboy-advance"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/gameboy-advance-system-music/IMG_2354.jpeg"
+  ],
+  "year": 2001,
+  "date_added": "2018-07-10T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 1,
+      "title": "Game Boy BIOS",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/gameboy-advance-system-music/idhawglk/001%20-%20Game%20Boy%20BIOS.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gameboy-advance-system-music/001%2520-%2520Game%2520Boy%2520BIOS.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 2,
+      "title": "Game Boy Advance BIOS",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/gameboy-advance-system-music/xkhmnaah/002%20-%20Game%20Boy%20Advance%20BIOS.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gameboy-advance-system-music/002%2520-%2520Game%2520Boy%2520Advance%2520BIOS.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 3,
+      "title": "Gameboy Advance Link Cable",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/gameboy-advance-system-music/crsyeiym/003%20-%20Gameboy%20Advance%20Link%20Cable.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gameboy-advance-system-music/003%2520-%2520Gameboy%2520Advance%2520Link%2520Cable.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 9,
+    "filesize_mp3_bytes": 104856,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

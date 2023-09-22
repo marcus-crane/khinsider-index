@@ -1,0 +1,56 @@
+{
+  "title": "Honmei Boy",
+  "titles_alternative": [
+    "\u672c\u547d\u30dc\u30fc\u30a4"
+  ],
+  "crawled_at": "2023-09-22T12:47:39.420805+00:00",
+  "slug": "honmei-boy-1994-gb",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/honmei-boy-1994-gb",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/honmei-boy-1994-gb/Honmei%20Boy.jpg"
+  ],
+  "year": 1994,
+  "date_added": "2022-04-25T00:00:00+00:00",
+  "developers": {
+    "Nichibutsu": "https://downloads.khinsider.com/game-soundtracks/developer/nichibutsu"
+  },
+  "publishers": {
+    "Nichibutsu": "https://downloads.khinsider.com/game-soundtracks/publisher/nichibutsu"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 17878220,
+      "filesize_mp3_bytes": 5924454,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/honmei-boy-1994-gb/yimqwkents/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/honmei-boy-1994-gb/yimqwkents/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/honmei-boy-1994-gb/01%2520BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10171187,
+      "filesize_mp3_bytes": 3995074,
+      "track_number": 2,
+      "title": "BGM #02",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/honmei-boy-1994-gb/yfdlaovzep/02%20BGM%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/honmei-boy-1994-gb/yfdlaovzep/02%20BGM%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/honmei-boy-1994-gb/02%2520BGM%2520%252302.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 360,
+    "filesize_mp3_bytes": 9919528,
+    "filesize_flac_bytes": 28049407,
+    "tracks": 2
+  }
+}

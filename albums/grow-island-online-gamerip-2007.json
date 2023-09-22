@@ -1,0 +1,62 @@
+{
+  "title": "GROW Island",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T10:16:42.631800+00:00",
+  "slug": "grow-island-online-gamerip-2007",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/grow-island-online-gamerip-2007",
+  "platforms": {
+    "Online": "https://downloads.khinsider.com/game-soundtracks/online"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/grow-island-online-gamerip-2007/m_grow_island.png"
+  ],
+  "year": 2007,
+  "date_added": "2023-04-25T00:00:00+00:00",
+  "developers": {
+    "ON": "https://downloads.khinsider.com/game-soundtracks/developer/on"
+  },
+  "publishers": {
+    "ON": "https://downloads.khinsider.com/game-soundtracks/publisher/on"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 1,
+      "title": "Beginning",
+      "runtime": 12,
+      "source_mp3": "https://vgmsite.com/soundtracks/grow-island-online-gamerip-2007/ljchduuwre/01.%20Beginning.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/grow-island-online-gamerip-2007/01.%2520Beginning.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 2,
+      "title": "Middle",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/grow-island-online-gamerip-2007/yurksbspyr/02.%20Middle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/grow-island-online-gamerip-2007/02.%2520Middle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 3,
+      "title": "Ending",
+      "runtime": 40,
+      "source_mp3": "https://vgmsite.com/soundtracks/grow-island-online-gamerip-2007/labunkhyvy/03.%20Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/grow-island-online-gamerip-2007/03.%2520Ending.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 62,
+    "filesize_mp3_bytes": 125828,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

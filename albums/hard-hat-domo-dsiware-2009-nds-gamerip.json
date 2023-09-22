@@ -1,0 +1,87 @@
+{
+  "title": "Hard-Hat Domo (DSiWare)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T11:25:54.315410+00:00",
+  "slug": "hard-hat-domo-dsiware-2009-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hard-hat-domo-dsiware-2009-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/hard-hat-domo-dsiware-2009-nds-gamerip/Hard-Hat%20Domo.png"
+  ],
+  "year": 2009,
+  "date_added": "2020-06-10T00:00:00+00:00",
+  "developers": {
+    "Suzak": "https://downloads.khinsider.com/game-soundtracks/developer/suzak"
+  },
+  "publishers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3397386,
+      "filesize_mp3_bytes": 1142947,
+      "track_number": 1,
+      "title": "BGM Menu",
+      "runtime": 37,
+      "source_mp3": "https://vgmsite.com/soundtracks/hard-hat-domo-dsiware-2009-nds-gamerip/imezvjhmxs/01%20-%20BGM%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hard-hat-domo-dsiware-2009-nds-gamerip/imezvjhmxs/01%20-%20BGM%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hard-hat-domo-dsiware-2009-nds-gamerip/01%2520-%2520BGM%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10726932,
+      "filesize_mp3_bytes": 3806330,
+      "track_number": 2,
+      "title": "BGM Const",
+      "runtime": 127,
+      "source_mp3": "https://vgmsite.com/soundtracks/hard-hat-domo-dsiware-2009-nds-gamerip/kyawexhdan/02%20-%20BGM%20Const.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hard-hat-domo-dsiware-2009-nds-gamerip/kyawexhdan/02%20-%20BGM%20Const.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hard-hat-domo-dsiware-2009-nds-gamerip/02%2520-%2520BGM%2520Const.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 146800,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 3,
+      "title": "Clear",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/hard-hat-domo-dsiware-2009-nds-gamerip/tpfaxdyemn/03%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hard-hat-domo-dsiware-2009-nds-gamerip/tpfaxdyemn/03%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hard-hat-domo-dsiware-2009-nds-gamerip/03%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 125829,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 4,
+      "title": "Happy",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/hard-hat-domo-dsiware-2009-nds-gamerip/bvvorpuslz/04%20Happy.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hard-hat-domo-dsiware-2009-nds-gamerip/bvvorpuslz/04%20Happy.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hard-hat-domo-dsiware-2009-nds-gamerip/04%2520Happy.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 199229,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 5,
+      "title": "Over",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/hard-hat-domo-dsiware-2009-nds-gamerip/klwxtcrplt/05%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hard-hat-domo-dsiware-2009-nds-gamerip/klwxtcrplt/05%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hard-hat-domo-dsiware-2009-nds-gamerip/05%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 174,
+    "filesize_mp3_bytes": 5106563,
+    "filesize_flac_bytes": 14596176,
+    "tracks": 5
+  }
+}

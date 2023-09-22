@@ -1,0 +1,87 @@
+{
+  "title": "Jazz Jackrabbit - Holiday Hare",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T12:31:51.451298+00:00",
+  "slug": "holiday-hare",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/holiday-hare",
+  "platforms": {
+    "MS-DOS": "https://downloads.khinsider.com/game-soundtracks/ms-dos"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/holiday-hare/cover.png"
+  ],
+  "year": 1994,
+  "date_added": "2021-03-03T00:00:00+00:00",
+  "developers": {
+    "Epic MegaGames": "https://downloads.khinsider.com/game-soundtracks/developer/epic-megagames"
+  },
+  "publishers": {
+    "Epic MegaGames": "https://downloads.khinsider.com/game-soundtracks/publisher/epic-megagames"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 24935137,
+      "filesize_mp3_bytes": 6658457,
+      "track_number": 1,
+      "title": "Holidaius Part 1",
+      "runtime": 195,
+      "source_mp3": "https://vgmsite.com/soundtracks/holiday-hare/gqznopjqgg/01%20Holidaius%20Part%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/holiday-hare/gqznopjqgg/01%20Holidaius%20Part%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/holiday-hare/01%2520Holidaius%2520Part%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20835205,
+      "filesize_mp3_bytes": 5452595,
+      "track_number": 2,
+      "title": "Holidaius Part 2 (Silent Night)",
+      "runtime": 160,
+      "source_mp3": "https://vgmsite.com/soundtracks/holiday-hare/dlmozmbbty/02%20Holidaius%20Part%202%20%28Silent%20Night%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/holiday-hare/dlmozmbbty/02%20Holidaius%20Part%202%20%28Silent%20Night%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/holiday-hare/02%2520Holidaius%2520Part%25202%2520%2528Silent%2520Night%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 35274096,
+      "filesize_mp3_bytes": 9510584,
+      "track_number": 3,
+      "title": "Candion (Carol of the Bells)",
+      "runtime": 279,
+      "source_mp3": "https://vgmsite.com/soundtracks/holiday-hare/hkqbdtptzo/03%20Candion%20%28Carol%20of%20the%20Bells%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/holiday-hare/hkqbdtptzo/03%20Candion%20%28Carol%20of%20the%20Bells%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/holiday-hare/03%2520Candion%2520%2528Carol%2520of%2520the%2520Bells%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20929576,
+      "filesize_mp3_bytes": 6060769,
+      "track_number": 4,
+      "title": "Bloxonius (Little Drummer Boy)",
+      "runtime": 175,
+      "source_mp3": "https://vgmsite.com/soundtracks/holiday-hare/glrbdlywns/04%20Bloxonius%20%28Little%20Drummer%20Boy%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/holiday-hare/glrbdlywns/04%20Bloxonius%20%28Little%20Drummer%20Boy%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/holiday-hare/04%2520Bloxonius%2520%2528Little%2520Drummer%2520Boy%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 32201768,
+      "filesize_mp3_bytes": 8231321,
+      "track_number": 5,
+      "title": "White Hare",
+      "runtime": 266,
+      "source_mp3": "https://vgmsite.com/soundtracks/holiday-hare/gvrspwzogc/05%20White%20Hare.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/holiday-hare/gvrspwzogc/05%20White%20Hare.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/holiday-hare/05%2520White%2520Hare.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1075,
+    "filesize_mp3_bytes": 35913726,
+    "filesize_flac_bytes": 134175782,
+    "tracks": 5
+  }
+}

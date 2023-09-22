@@ -1,0 +1,78 @@
+{
+  "title": "Ghost House",
+  "titles_alternative": [
+    "\u30b4\u30fc\u30b9\u30c8\u30cf\u30a6\u30b9"
+  ],
+  "crawled_at": "2023-09-22T08:18:44.216350+00:00",
+  "slug": "ghost-house-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ghost-house-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ghost-house-master-system/GH1.jpg"
+  ],
+  "year": 1986,
+  "date_added": "2020-07-09T00:00:00+00:00",
+  "developers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 629145,
+      "filesize_mp3_bytes": 262144,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 13,
+      "source_mp3": "https://vgmsite.com/soundtracks/ghost-house-master-system/elerlyiklr/01%20-%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ghost-house-master-system/elerlyiklr/01%20-%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ghost-house-master-system/01%2520-%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4991221,
+      "filesize_mp3_bytes": 1939865,
+      "track_number": 2,
+      "title": "House",
+      "runtime": 99,
+      "source_mp3": "https://vgmsite.com/soundtracks/ghost-house-master-system/uanyphcnir/02%20-%20House.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ghost-house-master-system/uanyphcnir/02%20-%20House.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ghost-house-master-system/02%2520-%2520House.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 796917,
+      "filesize_mp3_bytes": 335544,
+      "track_number": 3,
+      "title": "Fighting Vampires",
+      "runtime": 16,
+      "source_mp3": "https://vgmsite.com/soundtracks/ghost-house-master-system/qvdxiwhjgj/03%20-%20Fighting%20Vampires.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ghost-house-master-system/qvdxiwhjgj/03%20-%20Fighting%20Vampires.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ghost-house-master-system/03%2520-%2520Fighting%2520Vampires.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 146800,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/ghost-house-master-system/rwgunrfjpd/04%20-%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ghost-house-master-system/rwgunrfjpd/04%20-%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ghost-house-master-system/04%2520-%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 131,
+    "filesize_mp3_bytes": 2589981,
+    "filesize_flac_bytes": 6564083,
+    "tracks": 4
+  }
+}

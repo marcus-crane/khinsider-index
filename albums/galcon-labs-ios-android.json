@@ -1,0 +1,80 @@
+{
+  "title": "Galcon Labs (iOS, Android)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T07:06:08.719329+00:00",
+  "slug": "galcon-labs-ios-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/galcon-labs-ios-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/galcon-labs-ios-android/Galcon%20Labs%20cover%20art.jpg"
+  ],
+  "date_added": "2019-08-10T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1583349,
+      "title": "Assassin",
+      "runtime": 132,
+      "source_mp3": "https://vgmsite.com/soundtracks/galcon-labs-ios-android/honjjwhven/Assassin.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/galcon-labs-ios-android/Assassin.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1331691,
+      "title": "Billiards",
+      "runtime": 111,
+      "source_mp3": "https://vgmsite.com/soundtracks/galcon-labs-ios-android/sbjgohlqvc/Billiards.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/galcon-labs-ios-android/Billiards.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1038090,
+      "title": "Crash",
+      "runtime": 87,
+      "source_mp3": "https://vgmsite.com/soundtracks/galcon-labs-ios-android/wferyeelda/Crash.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/galcon-labs-ios-android/Crash.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 314572,
+      "title": "Galc menu",
+      "runtime": 26,
+      "source_mp3": "https://vgmsite.com/soundtracks/galcon-labs-ios-android/qbigepgvya/Galc%20menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/galcon-labs-ios-android/Galc%2520menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1593835,
+      "title": "Galcon",
+      "runtime": 199,
+      "source_mp3": "https://vgmsite.com/soundtracks/galcon-labs-ios-android/vwlinbovkd/Galcon.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/galcon-labs-ios-android/Galcon.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1101004,
+      "title": "Stealth",
+      "runtime": 92,
+      "source_mp3": "https://vgmsite.com/soundtracks/galcon-labs-ios-android/xqgcalmxji/Stealth.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/galcon-labs-ios-android/Stealth.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 647,
+    "filesize_mp3_bytes": 6962541,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

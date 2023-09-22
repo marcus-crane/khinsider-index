@@ -1,0 +1,102 @@
+{
+  "title": "Gnomz (WiiWare)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T08:47:54.931642+00:00",
+  "slug": "gnomz-wiiware",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/gnomz-wiiware",
+  "platforms": {
+    "Wii": "https://downloads.khinsider.com/game-soundtracks/nintendo-wii"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/gnomz-wiiware/Gnomz%20%28WiiWare%29.jpg"
+  ],
+  "year": 2011,
+  "date_added": "2020-06-13T00:00:00+00:00",
+  "developers": {
+    "QubicGames": "https://downloads.khinsider.com/game-soundtracks/developer/qubicgames"
+  },
+  "publishers": {
+    "QubicGames": "https://downloads.khinsider.com/game-soundtracks/publisher/qubicgames"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1646264,
+      "track_number": 1,
+      "title": "Swallow Tail Jig",
+      "runtime": 115,
+      "source_mp3": "https://vgmsite.com/soundtracks/gnomz-wiiware/igeuqfmiyl/01%20Swallow%20Tail%20Jig.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gnomz-wiiware/01%2520Swallow%2520Tail%2520Jig.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1772093,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 133,
+      "source_mp3": "https://vgmsite.com/soundtracks/gnomz-wiiware/gbsncnfplp/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gnomz-wiiware/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1855979,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 140,
+      "source_mp3": "https://vgmsite.com/soundtracks/gnomz-wiiware/ujwwuyrggz/03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gnomz-wiiware/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1614807,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 118,
+      "source_mp3": "https://vgmsite.com/soundtracks/gnomz-wiiware/rlqftolhma/04.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gnomz-wiiware/04.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1740636,
+      "track_number": 5,
+      "title": "Track 5",
+      "runtime": 127,
+      "source_mp3": "https://vgmsite.com/soundtracks/gnomz-wiiware/ywcfkhypmy/05.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gnomz-wiiware/05.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1656750,
+      "track_number": 6,
+      "title": "Track 6",
+      "runtime": 125,
+      "source_mp3": "https://vgmsite.com/soundtracks/gnomz-wiiware/eszkezyeje/06.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gnomz-wiiware/06.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 7,
+      "title": "Track 7",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/gnomz-wiiware/djdrmttaak/07.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gnomz-wiiware/07.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 765,
+    "filesize_mp3_bytes": 10380900,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Go Go! Pogo Cat",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T08:49:35.835384+00:00",
+  "slug": "go-go-pogo-cat-gamerip-android-ios-2018",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/go-go-pogo-cat-gamerip-android-ios-2018",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/go-go-pogo-cat-gamerip-android-ios-2018/Go%20Go%21%20Pogo%20Cat.png"
+  ],
+  "year": 2018,
+  "date_added": "2022-06-28T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 849346,
+      "track_number": 1,
+      "title": "Main Menu",
+      "runtime": 49,
+      "source_mp3": "https://vgmsite.com/soundtracks/go-go-pogo-cat-gamerip-android-ios-2018/pssougwajn/01%20Main%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/go-go-pogo-cat-gamerip-android-ios-2018/01%2520Main%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1247805,
+      "track_number": 2,
+      "title": "Theme",
+      "runtime": 65,
+      "source_mp3": "https://vgmsite.com/soundtracks/go-go-pogo-cat-gamerip-android-ios-2018/sanabvhftm/02%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/go-go-pogo-cat-gamerip-android-ios-2018/02%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 188743,
+      "track_number": 3,
+      "title": "Game Over",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/go-go-pogo-cat-gamerip-android-ios-2018/fzhvqsqrda/03%20Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/go-go-pogo-cat-gamerip-android-ios-2018/03%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 121,
+    "filesize_mp3_bytes": 2285894,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Gateway to the Savage Frontier",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T07:45:26.831568+00:00",
+  "slug": "gateway-to-the-savage-frontier-ibm-pc-at",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/gateway-to-the-savage-frontier-ibm-pc-at",
+  "platforms": {
+    "IBM PC/AT": "https://downloads.khinsider.com/game-soundtracks/ibm-pc-at"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/gateway-to-the-savage-frontier-ibm-pc-at/Gateway%20to%20the%20Savage%20Frontier.png"
+  ],
+  "year": 1991,
+  "date_added": "2022-04-25T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2715811,
+      "filesize_mp3_bytes": 1384120,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 60,
+      "source_mp3": "https://vgmsite.com/soundtracks/gateway-to-the-savage-frontier-ibm-pc-at/ddsebtwtla/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gateway-to-the-savage-frontier-ibm-pc-at/ddsebtwtla/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gateway-to-the-savage-frontier-ibm-pc-at/01%2520Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 60,
+    "filesize_mp3_bytes": 1384120,
+    "filesize_flac_bytes": 2715811,
+    "tracks": 1
+  }
+}

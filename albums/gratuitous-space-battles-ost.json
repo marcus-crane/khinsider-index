@@ -1,0 +1,113 @@
+{
+  "title": "Gratuitous Space Battles Soundtrack",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T10:01:49.329354+00:00",
+  "slug": "gratuitous-space-battles-ost",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/gratuitous-space-battles-ost",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/gratuitous-space-battles-ost/coverart.jpg"
+  ],
+  "year": 2009,
+  "catalog_number": null,
+  "date_added": "2020-12-29T00:00:00+00:00",
+  "developers": {
+    "Positech Games": "https://downloads.khinsider.com/game-soundtracks/developer/positech-games"
+  },
+  "publishers": {
+    "Humble Bundle": "https://downloads.khinsider.com/game-soundtracks/publisher/humble-bundle"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3628072,
+      "track_number": 1,
+      "title": "Alliance Battle",
+      "runtime": 226,
+      "source_mp3": "https://vgmsite.com/soundtracks/gratuitous-space-battles-ost/nghfhptxwf/01%20Alliance%20Battle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gratuitous-space-battles-ost/01%2520Alliance%2520Battle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 251658,
+      "track_number": 2,
+      "title": "Defeat",
+      "runtime": 15,
+      "source_mp3": "https://vgmsite.com/soundtracks/gratuitous-space-battles-ost/xlamrdtpvp/02%20Defeat.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gratuitous-space-battles-ost/02%2520Defeat.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3397386,
+      "track_number": 3,
+      "title": "Empire Battle",
+      "runtime": 211,
+      "source_mp3": "https://vgmsite.com/soundtracks/gratuitous-space-battles-ost/usxkkaijer/03%20Empire%20Battle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gratuitous-space-battles-ost/03%2520Empire%2520Battle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3848273,
+      "track_number": 4,
+      "title": "Federation Battle",
+      "runtime": 240,
+      "source_mp3": "https://vgmsite.com/soundtracks/gratuitous-space-battles-ost/mefxuiwmoa/04%20Federation%20Battle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gratuitous-space-battles-ost/04%2520Federation%2520Battle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 702545,
+      "track_number": 5,
+      "title": "Main Theme",
+      "runtime": 43,
+      "source_mp3": "https://vgmsite.com/soundtracks/gratuitous-space-battles-ost/czltyqjugj/05%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gratuitous-space-battles-ost/05%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3166699,
+      "track_number": 6,
+      "title": "Rebellion Battle",
+      "runtime": 197,
+      "source_mp3": "https://vgmsite.com/soundtracks/gratuitous-space-battles-ost/fgnzxfmvug/06%20Rebellion%20Battle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gratuitous-space-battles-ost/06%2520Rebellion%2520Battle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1289748,
+      "track_number": 7,
+      "title": "Prelude To Battle",
+      "runtime": 80,
+      "source_mp3": "https://vgmsite.com/soundtracks/gratuitous-space-battles-ost/mfgtrggrvd/07%20Prelude%20To%20Battle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gratuitous-space-battles-ost/07%2520Prelude%2520To%2520Battle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 230686,
+      "track_number": 8,
+      "title": "Victory",
+      "runtime": 14,
+      "source_mp3": "https://vgmsite.com/soundtracks/gratuitous-space-battles-ost/bcywesqfxe/08%20Victory.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gratuitous-space-battles-ost/08%2520Victory.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1026,
+    "filesize_mp3_bytes": 16515067,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "title": "Ghost Battle",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T08:18:20.464098+00:00",
+  "slug": "ghost-battle-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ghost-battle-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ghost-battle-amiga/G1.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2016-06-22T00:00:00+00:00",
+  "developers": {
+    "Interactive Designs": "https://downloads.khinsider.com/game-soundtracks/developer/interactive-designs"
+  },
+  "publishers": {
+    "Thalion": "https://downloads.khinsider.com/game-soundtracks/publisher/thalion"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5179965,
+      "track_number": 1,
+      "title": "Title and Game End",
+      "runtime": 181,
+      "source_mp3": "https://vgmsite.com/soundtracks/ghost-battle-amiga/acmweqwf/01_Title%20and%20Game%20End.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ghost-battle-amiga/01_Title%2520and%2520Game%2520End.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10045358,
+      "track_number": 2,
+      "title": "Level 1",
+      "runtime": 338,
+      "source_mp3": "https://vgmsite.com/soundtracks/ghost-battle-amiga/aplnqaec/02_Level%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ghost-battle-amiga/02_Level%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8168407,
+      "track_number": 3,
+      "title": "Level 2 and 5",
+      "runtime": 307,
+      "source_mp3": "https://vgmsite.com/soundtracks/ghost-battle-amiga/ilohibya/03_Level%202%20and%205.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ghost-battle-amiga/03_Level%25202%2520and%25205.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8241807,
+      "track_number": 4,
+      "title": "Level 3",
+      "runtime": 284,
+      "source_mp3": "https://vgmsite.com/soundtracks/ghost-battle-amiga/odpuhhum/04_Level%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ghost-battle-amiga/04_Level%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7381975,
+      "track_number": 5,
+      "title": "Level 4",
+      "runtime": 267,
+      "source_mp3": "https://vgmsite.com/soundtracks/ghost-battle-amiga/nxjcplkv/05_Level%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ghost-battle-amiga/05_Level%25204.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8378122,
+      "track_number": 6,
+      "title": "Game Over (Unused)",
+      "runtime": 297,
+      "source_mp3": "https://vgmsite.com/soundtracks/ghost-battle-amiga/douzsdqw/06_Game%20Over%20%28Unused%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ghost-battle-amiga/06_Game%2520Over%2520%2528Unused%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1674,
+    "filesize_mp3_bytes": 47395634,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

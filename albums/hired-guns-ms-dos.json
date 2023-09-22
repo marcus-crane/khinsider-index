@@ -1,0 +1,99 @@
+{
+  "title": "Hired Guns",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T12:23:57.520647+00:00",
+  "slug": "hired-guns-ms-dos",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hired-guns-ms-dos",
+  "platforms": {
+    "MS-DOS": "https://downloads.khinsider.com/game-soundtracks/ms-dos"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/hired-guns-ms-dos/Hired%20Guns.png"
+  ],
+  "year": 1993,
+  "date_added": "2022-05-05T00:00:00+00:00",
+  "developers": {
+    "DMA Design": "https://downloads.khinsider.com/game-soundtracks/developer/dma-design",
+    "Visual Sciences": "https://downloads.khinsider.com/game-soundtracks/developer/visual-sciences"
+  },
+  "publishers": {
+    "Psygnosis": "https://downloads.khinsider.com/game-soundtracks/publisher/psygnosis"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5840568,
+      "filesize_mp3_bytes": 3449815,
+      "track_number": 1,
+      "title": "Title Theme",
+      "runtime": 123,
+      "source_mp3": "https://vgmsite.com/soundtracks/hired-guns-ms-dos/vifmragigi/01%20Title%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hired-guns-ms-dos/vifmragigi/01%20Title%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hired-guns-ms-dos/01%2520Title%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6668943,
+      "filesize_mp3_bytes": 2589982,
+      "track_number": 2,
+      "title": "Menu",
+      "runtime": 123,
+      "source_mp3": "https://vgmsite.com/soundtracks/hired-guns-ms-dos/tzfgsylide/02%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hired-guns-ms-dos/tzfgsylide/02%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hired-guns-ms-dos/02%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5379194,
+      "filesize_mp3_bytes": 2264924,
+      "track_number": 3,
+      "title": "Team Selection",
+      "runtime": 106,
+      "source_mp3": "https://vgmsite.com/soundtracks/hired-guns-ms-dos/ovfvswdyyj/03%20Team%20Selection.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hired-guns-ms-dos/ovfvswdyyj/03%20Team%20Selection.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hired-guns-ms-dos/03%2520Team%2520Selection.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5022679,
+      "filesize_mp3_bytes": 2254438,
+      "track_number": 4,
+      "title": "World Map",
+      "runtime": 102,
+      "source_mp3": "https://vgmsite.com/soundtracks/hired-guns-ms-dos/zrxmqakvba/04%20World%20Map.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hired-guns-ms-dos/zrxmqakvba/04%20World%20Map.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hired-guns-ms-dos/04%2520World%2520Map.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 964689,
+      "filesize_mp3_bytes": 618659,
+      "track_number": 5,
+      "title": "Intermission",
+      "runtime": 33,
+      "source_mp3": "https://vgmsite.com/soundtracks/hired-guns-ms-dos/yxmvddcdca/05%20Intermission.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hired-guns-ms-dos/yxmvddcdca/05%20Intermission.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hired-guns-ms-dos/05%2520Intermission.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7916748,
+      "filesize_mp3_bytes": 3313500,
+      "track_number": 6,
+      "title": "Game Over",
+      "runtime": 164,
+      "source_mp3": "https://vgmsite.com/soundtracks/hired-guns-ms-dos/eubpchzeup/06%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hired-guns-ms-dos/eubpchzeup/06%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hired-guns-ms-dos/06%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 651,
+    "filesize_mp3_bytes": 14491318,
+    "filesize_flac_bytes": 31792821,
+    "tracks": 6
+  }
+}

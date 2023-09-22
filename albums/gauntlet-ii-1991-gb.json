@@ -1,0 +1,54 @@
+{
+  "title": "Gauntlet II",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T07:46:32.272906+00:00",
+  "slug": "gauntlet-ii-1991-gb",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/gauntlet-ii-1991-gb",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/gauntlet-ii-1991-gb/G1.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2022-04-11T00:00:00+00:00",
+  "developers": {
+    "Atari Games": "https://downloads.khinsider.com/game-soundtracks/developer/atari-games"
+  },
+  "publishers": {
+    "Mindscape": "https://downloads.khinsider.com/game-soundtracks/publisher/mindscape"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1300234,
+      "filesize_mp3_bytes": 482344,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 19,
+      "source_mp3": "https://vgmsite.com/soundtracks/gauntlet-ii-1991-gb/qvyikowgkb/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gauntlet-ii-1991-gb/qvyikowgkb/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gauntlet-ii-1991-gb/01%2520BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 325058,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 2,
+      "title": "Jingle #01",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/gauntlet-ii-1991-gb/kxaafornpo/02%20Jingle%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gauntlet-ii-1991-gb/kxaafornpo/02%20Jingle%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gauntlet-ii-1991-gb/02%2520Jingle%2520%252301.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 25,
+    "filesize_mp3_bytes": 618658,
+    "filesize_flac_bytes": 1625292,
+    "tracks": 2
+  }
+}

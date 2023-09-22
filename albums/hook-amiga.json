@@ -1,0 +1,124 @@
+{
+  "title": "Hook",
+  "titles_alternative": [
+    "\u30d5\u30c3\u30af"
+  ],
+  "crawled_at": "2023-09-22T12:49:02.775826+00:00",
+  "slug": "hook-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hook-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/hook-amiga/HA1.jpg"
+  ],
+  "year": 1992,
+  "date_added": "2016-01-21T00:00:00+00:00",
+  "developers": {
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/developer/ocean"
+  },
+  "publishers": {
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/publisher/ocean"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7728005,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 278,
+      "source_mp3": "https://vgmsite.com/soundtracks/hook-amiga/zfdykexi/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hook-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1289748,
+      "track_number": 2,
+      "title": "Intro",
+      "runtime": 46,
+      "source_mp3": "https://vgmsite.com/soundtracks/hook-amiga/splvqyff/02_Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hook-amiga/02_Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3785359,
+      "track_number": 3,
+      "title": "Underwater",
+      "runtime": 125,
+      "source_mp3": "https://vgmsite.com/soundtracks/hook-amiga/qdvygwys/03_Underwater.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hook-amiga/03_Underwater.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2820669,
+      "track_number": 4,
+      "title": "Neverforest",
+      "runtime": 91,
+      "source_mp3": "https://vgmsite.com/soundtracks/hook-amiga/qbhzwaof/04_Neverforest.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hook-amiga/04_Neverforest.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2642411,
+      "track_number": 5,
+      "title": "The Four Seasons",
+      "runtime": 97,
+      "source_mp3": "https://vgmsite.com/soundtracks/hook-amiga/jccaqktq/05_The%20Four%20Seasons.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hook-amiga/05_The%2520Four%2520Seasons.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3470786,
+      "track_number": 6,
+      "title": "Round Pond",
+      "runtime": 132,
+      "source_mp3": "https://vgmsite.com/soundtracks/hook-amiga/krysdwon/06_Round%20Pond.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hook-amiga/06_Round%2520Pond.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3460300,
+      "track_number": 7,
+      "title": "Story",
+      "runtime": 127,
+      "source_mp3": "https://vgmsite.com/soundtracks/hook-amiga/hocevqry/07_Story.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hook-amiga/07_Story.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3082813,
+      "track_number": 8,
+      "title": "The End",
+      "runtime": 116,
+      "source_mp3": "https://vgmsite.com/soundtracks/hook-amiga/ynsduxgr/08_The%20End.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hook-amiga/08_The%2520End.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 293601,
+      "track_number": 9,
+      "title": "Game Over",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/hook-amiga/sunsyege/09_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hook-amiga/09_Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1023,
+    "filesize_mp3_bytes": 28573692,
+    "filesize_flac_bytes": 0,
+    "tracks": 9
+  }
+}

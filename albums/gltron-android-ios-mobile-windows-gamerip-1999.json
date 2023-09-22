@@ -1,0 +1,45 @@
+{
+  "title": "GLtron",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T08:47:33.327174+00:00",
+  "slug": "gltron-android-ios-mobile-windows-gamerip-1999",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/gltron-android-ios-mobile-windows-gamerip-1999",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios",
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/gltron-android-ios-mobile-windows-gamerip-1999/GLtron_1.png"
+  ],
+  "year": 1999,
+  "date_added": "2023-09-02T00:00:00+00:00",
+  "developers": {
+    "Andreas Umbach": "https://downloads.khinsider.com/game-soundtracks/developer/andreas-umbach"
+  },
+  "publishers": {
+    "GLtron.org": "https://downloads.khinsider.com/game-soundtracks/publisher/gltron.org"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10139729,
+      "track_number": 1,
+      "title": "Revenge of cats",
+      "runtime": 634,
+      "source_mp3": "https://vgmsite.com/soundtracks/gltron-android-ios-mobile-windows-gamerip-1999/zzlvkrrqzh/01.%20Revenge%20of%20cats.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gltron-android-ios-mobile-windows-gamerip-1999/01.%2520Revenge%2520of%2520cats.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 634,
+    "filesize_mp3_bytes": 10139729,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

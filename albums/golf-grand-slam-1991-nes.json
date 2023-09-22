@@ -1,0 +1,79 @@
+{
+  "title": "Golf Grand Slam",
+  "titles_alternative": [
+    "\u30b4\u30eb\u30d5 \u30b0\u30e9\u30f3\u30c9\u30b9\u30e9\u30e0"
+  ],
+  "crawled_at": "2023-09-22T09:23:33.686018+00:00",
+  "slug": "golf-grand-slam-1991-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/golf-grand-slam-1991-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/golf-grand-slam-1991-nes/G1.png"
+  ],
+  "year": 1991,
+  "date_added": "2022-04-25T00:00:00+00:00",
+  "developers": {
+    "Tose": "https://downloads.khinsider.com/game-soundtracks/developer/tose"
+  },
+  "publishers": {
+    "Atlus": "https://downloads.khinsider.com/game-soundtracks/publisher/atlus",
+    "Hect": "https://downloads.khinsider.com/game-soundtracks/publisher/hect"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10559160,
+      "filesize_mp3_bytes": 3963617,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/golf-grand-slam-1991-nes/qcocyuhkur/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/golf-grand-slam-1991-nes/qcocyuhkur/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/golf-grand-slam-1991-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10380902,
+      "filesize_mp3_bytes": 3921674,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/golf-grand-slam-1991-nes/vdsvhwnhfa/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/golf-grand-slam-1991-nes/vdsvhwnhfa/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/golf-grand-slam-1991-nes/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11324620,
+      "filesize_mp3_bytes": 3711959,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/golf-grand-slam-1991-nes/qqpgrcqhaj/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/golf-grand-slam-1991-nes/qqpgrcqhaj/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/golf-grand-slam-1991-nes/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10726932,
+      "filesize_mp3_bytes": 3953131,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/golf-grand-slam-1991-nes/zbkolgyemo/04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/golf-grand-slam-1991-nes/zbkolgyemo/04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/golf-grand-slam-1991-nes/04.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 720,
+    "filesize_mp3_bytes": 15550381,
+    "filesize_flac_bytes": 42991614,
+    "tracks": 4
+  }
+}

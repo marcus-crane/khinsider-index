@@ -1,0 +1,50 @@
+{
+  "title": "GB Memory Cartridge",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T07:48:17.843325+00:00",
+  "slug": "gb-memory-cartridge-gb",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/gb-memory-cartridge-gb",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/gb-memory-cartridge-gb/GB%20Memory%20Cartridge%20%28GB%29.png"
+  ],
+  "year": 2000,
+  "date_added": "2022-04-28T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 17311989,
+      "filesize_mp3_bytes": 5662310,
+      "track_number": 1,
+      "title": "Menu (GB)",
+      "runtime": 156,
+      "source_mp3": "https://vgmsite.com/soundtracks/gb-memory-cartridge-gb/vdwrefyylr/01%20Menu%20%28GB%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gb-memory-cartridge-gb/vdwrefyylr/01%20Menu%20%28GB%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gb-memory-cartridge-gb/01%2520Menu%2520%2528GB%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4372561,
+      "filesize_mp3_bytes": 1908408,
+      "track_number": 2,
+      "title": "Menu (GBC)",
+      "runtime": 89,
+      "source_mp3": "https://vgmsite.com/soundtracks/gb-memory-cartridge-gb/prlqqfysyk/02%20Menu%20%28GBC%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gb-memory-cartridge-gb/prlqqfysyk/02%20Menu%20%28GBC%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gb-memory-cartridge-gb/02%2520Menu%2520%2528GBC%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 245,
+    "filesize_mp3_bytes": 7570718,
+    "filesize_flac_bytes": 21684550,
+    "tracks": 2
+  }
+}

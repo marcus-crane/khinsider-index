@@ -1,0 +1,115 @@
+{
+  "title": "Heavy Barrel",
+  "titles_alternative": [
+    "\u30d8\u30d3\u30fc\u30fb\u30d0\u30ec\u30eb"
+  ],
+  "crawled_at": "2023-09-22T11:52:06.788252+00:00",
+  "slug": "heavy-barrel-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/heavy-barrel-nes",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/heavy-barrel-nes/HB.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2017-05-17T00:00:00+00:00",
+  "developers": {
+    "Data East": "https://downloads.khinsider.com/game-soundtracks/developer/data-east"
+  },
+  "publishers": {
+    "Data East": "https://downloads.khinsider.com/game-soundtracks/publisher/data-east"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 199229,
+      "track_number": 1,
+      "title": "Intro & Air Drop",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/heavy-barrel-nes/jkkzkgac/01_Intro%20%26%20Air%20Drop.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/heavy-barrel-nes/01_Intro%2520%2526%2520Air%2520Drop.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1614807,
+      "track_number": 2,
+      "title": "Title Screen",
+      "runtime": 43,
+      "source_mp3": "https://vgmsite.com/soundtracks/heavy-barrel-nes/inrerewp/02_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/heavy-barrel-nes/02_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5316280,
+      "track_number": 3,
+      "title": "Perimeters 1, 3 & 4",
+      "runtime": 153,
+      "source_mp3": "https://vgmsite.com/soundtracks/heavy-barrel-nes/uxgdamvs/03_Perimeters%201%2C%203%20%26%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/heavy-barrel-nes/03_Perimeters%25201%252C%25203%2520%2526%25204.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4676648,
+      "track_number": 4,
+      "title": "Perimeters 2, 5 & 6",
+      "runtime": 140,
+      "source_mp3": "https://vgmsite.com/soundtracks/heavy-barrel-nes/cgysnqoz/04_Perimeters%202%2C%205%20%26%206.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/heavy-barrel-nes/04_Perimeters%25202%252C%25205%2520%2526%25206.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3502243,
+      "track_number": 5,
+      "title": "Launch Authority Security Area (Final Perimeter)",
+      "runtime": 102,
+      "source_mp3": "https://vgmsite.com/soundtracks/heavy-barrel-nes/sakhxcdf/05_Launch%20Authority%20Security%20Area%20%28Final%20Perimeter%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/heavy-barrel-nes/05_Launch%2520Authority%2520Security%2520Area%2520%2528Final%2520Perimeter%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2495610,
+      "track_number": 6,
+      "title": "Boss Battle",
+      "runtime": 73,
+      "source_mp3": "https://vgmsite.com/soundtracks/heavy-barrel-nes/kcgwjydn/06_Boss%20Battle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/heavy-barrel-nes/06_Boss%2520Battle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6868172,
+      "track_number": 7,
+      "title": "Ending & Staff Roll",
+      "runtime": 197,
+      "source_mp3": "https://vgmsite.com/soundtracks/heavy-barrel-nes/phznidwo/07_Ending%20%26%20Staff%20Roll.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/heavy-barrel-nes/07_Ending%2520%2526%2520Staff%2520Roll.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 8,
+      "title": "Game Over",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/heavy-barrel-nes/duyruanc/08_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/heavy-barrel-nes/08_Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 720,
+    "filesize_mp3_bytes": 24767360,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

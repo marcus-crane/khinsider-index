@@ -1,0 +1,78 @@
+{
+  "title": "Gall Force - Eternal Story",
+  "titles_alternative": [
+    "\u30ac\u30eb\u30d5\u30a9\u30fc\u30b9 ETERNAL STORY"
+  ],
+  "crawled_at": "2023-09-22T07:07:09.442202+00:00",
+  "slug": "gall-force-eternal-story-fds",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/gall-force-eternal-story-fds",
+  "platforms": {
+    "FDS": "https://downloads.khinsider.com/game-soundtracks/famicom-disk-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/gall-force-eternal-story-fds/Gall%20Force%20Eternal%20Story%20%28FDS%29.png"
+  ],
+  "year": 1986,
+  "date_added": "2022-04-25T00:00:00+00:00",
+  "developers": {
+    "HAL Laboratory": "https://downloads.khinsider.com/game-soundtracks/developer/hal-laboratory"
+  },
+  "publishers": {
+    "HAL Laboratory": "https://downloads.khinsider.com/game-soundtracks/publisher/hal-laboratory"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3282042,
+      "filesize_mp3_bytes": 1342177,
+      "track_number": 1,
+      "title": "Title BGM",
+      "runtime": 65,
+      "source_mp3": "https://vgmsite.com/soundtracks/gall-force-eternal-story-fds/gmpqowogmm/01%20Title%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gall-force-eternal-story-fds/gmpqowogmm/01%20Title%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gall-force-eternal-story-fds/01%2520Title%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5756682,
+      "filesize_mp3_bytes": 2359296,
+      "track_number": 2,
+      "title": "Main BGM",
+      "runtime": 125,
+      "source_mp3": "https://vgmsite.com/soundtracks/gall-force-eternal-story-fds/pktrsjczcm/02%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gall-force-eternal-story-fds/pktrsjczcm/02%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gall-force-eternal-story-fds/02%2520Main%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 115343,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 3,
+      "title": "Area Clear",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/gall-force-eternal-story-fds/qyfcfnrtkx/03%20Area%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gall-force-eternal-story-fds/qyfcfnrtkx/03%20Area%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gall-force-eternal-story-fds/03%2520Area%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8472494,
+      "filesize_mp3_bytes": 3323985,
+      "track_number": 4,
+      "title": "Ending BGM",
+      "runtime": 163,
+      "source_mp3": "https://vgmsite.com/soundtracks/gall-force-eternal-story-fds/njzjkqezrh/04%20Ending%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gall-force-eternal-story-fds/njzjkqezrh/04%20Ending%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gall-force-eternal-story-fds/04%2520Ending%2520BGM.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 355,
+    "filesize_mp3_bytes": 7067401,
+    "filesize_flac_bytes": 17626561,
+    "tracks": 4
+  }
+}

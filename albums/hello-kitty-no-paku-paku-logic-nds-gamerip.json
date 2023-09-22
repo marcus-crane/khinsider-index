@@ -1,0 +1,78 @@
+{
+  "title": "Hello Kitty no Paku Paku & Logic",
+  "titles_alternative": [
+    "\u30cf\u30ed\u30fc\u30ad\u30c6\u30a3\u306e\u30d1\u30af\u30d1\u30af&\u30ed\u30b8\u30c3\u30af"
+  ],
+  "crawled_at": "2023-09-22T11:59:22.213502+00:00",
+  "slug": "hello-kitty-no-paku-paku-logic-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hello-kitty-no-paku-paku-logic-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/hello-kitty-no-paku-paku-logic-nds-gamerip/Hello%20Kitty%20no%20Paku%20Paku%20%26%20Logic.jpg"
+  ],
+  "year": 2009,
+  "date_added": "2020-06-10T00:00:00+00:00",
+  "developers": {
+    "Dorart": "https://downloads.khinsider.com/game-soundtracks/developer/dorart"
+  },
+  "publishers": {
+    "Dorart": "https://downloads.khinsider.com/game-soundtracks/publisher/dorart"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11062476,
+      "filesize_mp3_bytes": 3386900,
+      "track_number": 1,
+      "title": "BGM01",
+      "runtime": 93,
+      "source_mp3": "https://vgmsite.com/soundtracks/hello-kitty-no-paku-paku-logic-nds-gamerip/inkqmzpsrn/01%20-%20BGM01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hello-kitty-no-paku-paku-logic-nds-gamerip/inkqmzpsrn/01%20-%20BGM01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hello-kitty-no-paku-paku-logic-nds-gamerip/01%2520-%2520BGM01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9563013,
+      "filesize_mp3_bytes": 3166699,
+      "track_number": 2,
+      "title": "BGM02",
+      "runtime": 90,
+      "source_mp3": "https://vgmsite.com/soundtracks/hello-kitty-no-paku-paku-logic-nds-gamerip/ilopzmfxzl/02%20-%20BGM02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hello-kitty-no-paku-paku-logic-nds-gamerip/ilopzmfxzl/02%20-%20BGM02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hello-kitty-no-paku-paku-logic-nds-gamerip/02%2520-%2520BGM02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9573498,
+      "filesize_mp3_bytes": 2988441,
+      "track_number": 3,
+      "title": "BGM03",
+      "runtime": 86,
+      "source_mp3": "https://vgmsite.com/soundtracks/hello-kitty-no-paku-paku-logic-nds-gamerip/axzzyseeks/03%20-%20BGM03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hello-kitty-no-paku-paku-logic-nds-gamerip/axzzyseeks/03%20-%20BGM03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hello-kitty-no-paku-paku-logic-nds-gamerip/03%2520-%2520BGM03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11020533,
+      "filesize_mp3_bytes": 3544186,
+      "track_number": 4,
+      "title": "BGM04",
+      "runtime": 105,
+      "source_mp3": "https://vgmsite.com/soundtracks/hello-kitty-no-paku-paku-logic-nds-gamerip/cpdexalfqn/04%20-%20BGM04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hello-kitty-no-paku-paku-logic-nds-gamerip/cpdexalfqn/04%20-%20BGM04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hello-kitty-no-paku-paku-logic-nds-gamerip/04%2520-%2520BGM04.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 374,
+    "filesize_mp3_bytes": 13086226,
+    "filesize_flac_bytes": 41219520,
+    "tracks": 4
+  }
+}

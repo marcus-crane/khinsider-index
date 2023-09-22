@@ -1,0 +1,42 @@
+{
+  "title": "Geisha",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T07:51:43.590953+00:00",
+  "slug": "geisha-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/geisha-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/geisha-amiga/Geisha.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2016-09-27T00:00:00+00:00",
+  "developers": {
+    "Coktel Vision": "https://downloads.khinsider.com/game-soundtracks/developer/coktel-vision"
+  },
+  "publishers": {
+    "Tomahawk": "https://downloads.khinsider.com/game-soundtracks/publisher/tomahawk"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7256145,
+      "track_number": 1,
+      "title": "Geischa",
+      "runtime": 248,
+      "source_mp3": "https://vgmsite.com/soundtracks/geisha-amiga/qkqhqskv/01_Geischa.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/geisha-amiga/01_Geischa.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 248,
+    "filesize_mp3_bytes": 7256145,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

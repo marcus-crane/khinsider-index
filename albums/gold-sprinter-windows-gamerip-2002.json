@@ -1,0 +1,65 @@
+{
+  "title": "Gold Sprinter",
+  "titles_alternative": [
+    "Gold Runner (SelectSoft)"
+  ],
+  "crawled_at": "2023-09-22T09:15:01.219041+00:00",
+  "slug": "gold-sprinter-windows-gamerip-2002",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/gold-sprinter-windows-gamerip-2002",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/gold-sprinter-windows-gamerip-2002/gold-sprinter.png"
+  ],
+  "year": 2002,
+  "date_added": "2023-08-24T00:00:00+00:00",
+  "developers": {
+    "Aliasworlds Entertainment": "https://downloads.khinsider.com/game-soundtracks/developer/aliasworlds-entertainment"
+  },
+  "publishers": {
+    "Alawar Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/alawar-entertainment",
+    "Selectsoft": "https://downloads.khinsider.com/game-soundtracks/publisher/selectsoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5484052,
+      "track_number": 1,
+      "title": "Run, Baby, Run!",
+      "runtime": 137,
+      "source_mp3": "https://vgmsite.com/soundtracks/gold-sprinter-windows-gamerip-2002/bsvnaignrz/01.%20Run%2C%20Baby%2C%20Run%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gold-sprinter-windows-gamerip-2002/01.%2520Run%252C%2520Baby%252C%2520Run%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8084520,
+      "track_number": 2,
+      "title": "In the Enemy's Rear",
+      "runtime": 202,
+      "source_mp3": "https://vgmsite.com/soundtracks/gold-sprinter-windows-gamerip-2002/smrirhpewf/02.%20In%20the%20Enemy%27s%20Rear.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gold-sprinter-windows-gamerip-2002/02.%2520In%2520the%2520Enemy%2527s%2520Rear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3166699,
+      "track_number": 3,
+      "title": "Just Smile",
+      "runtime": 79,
+      "source_mp3": "https://vgmsite.com/soundtracks/gold-sprinter-windows-gamerip-2002/qeojxdndjj/03.%20Just%20Smile.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gold-sprinter-windows-gamerip-2002/03.%2520Just%2520Smile.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 418,
+    "filesize_mp3_bytes": 16735271,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

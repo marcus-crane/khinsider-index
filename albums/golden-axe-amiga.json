@@ -1,0 +1,95 @@
+{
+  "title": "Golden Axe",
+  "titles_alternative": [
+    "\u30b4\u30fc\u30eb\u30c7\u30f3\u30a2\u30c3\u30af\u30b9"
+  ],
+  "crawled_at": "2023-09-22T09:15:07.078056+00:00",
+  "slug": "golden-axe-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/golden-axe-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/golden-axe-amiga/95275-golden-axe-amiga-front-cover.jpg"
+  ],
+  "year": 1990,
+  "catalog_number": null,
+  "date_added": "2017-05-20T00:00:00+00:00",
+  "developers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Virgin": "https://downloads.khinsider.com/game-soundtracks/publisher/virgin"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3177185,
+      "track_number": 1,
+      "title": "The Battle (Title Screen  Player Select)",
+      "runtime": 86,
+      "source_mp3": "https://vgmsite.com/soundtracks/golden-axe-amiga/kczfuhjp/01_The%20Battle%20%28Title%20Screen%20%20Player%20Select%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/golden-axe-amiga/01_The%2520Battle%2520%2528Title%2520Screen%2520%2520Player%2520Select%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4781506,
+      "track_number": 2,
+      "title": "Wilderness (Stage BGM #1)",
+      "runtime": 157,
+      "source_mp3": "https://vgmsite.com/soundtracks/golden-axe-amiga/yfnzxvhx/02_Wilderness%20%28Stage%20BGM%20%231%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/golden-axe-amiga/02_Wilderness%2520%2528Stage%2520BGM%2520%25231%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3019898,
+      "track_number": 3,
+      "title": "Theme of Thief (Bonus)",
+      "runtime": 99,
+      "source_mp3": "https://vgmsite.com/soundtracks/golden-axe-amiga/yzwvbjie/03_Theme%20of%20Thief%20%28Bonus%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/golden-axe-amiga/03_Theme%2520of%2520Thief%2520%2528Bonus%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 524288,
+      "track_number": 4,
+      "title": "Old Map (Map Screen)",
+      "runtime": 20,
+      "source_mp3": "https://vgmsite.com/soundtracks/golden-axe-amiga/dyqdpsdk/04_Old%20Map%20%28Map%20Screen%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/golden-axe-amiga/04_Old%2520Map%2520%2528Map%2520Screen%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4875878,
+      "track_number": 5,
+      "title": "Turtle Village 2 (Stage BGM #1)",
+      "runtime": 156,
+      "source_mp3": "https://vgmsite.com/soundtracks/golden-axe-amiga/bgakhdfa/05_Turtle%20Village%202%20%28Stage%20BGM%20%231%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/golden-axe-amiga/05_Turtle%2520Village%25202%2520%2528Stage%2520BGM%2520%25231%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7822376,
+      "track_number": 6,
+      "title": "Death Adder the Old Enemy (Final Stage)",
+      "runtime": 232,
+      "source_mp3": "https://vgmsite.com/soundtracks/golden-axe-amiga/jwsnnnxj/06_Death%20Adder%20the%20Old%20Enemy%20%28Final%20Stage%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/golden-axe-amiga/06_Death%2520Adder%2520the%2520Old%2520Enemy%2520%2528Final%2520Stage%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 750,
+    "filesize_mp3_bytes": 24201131,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

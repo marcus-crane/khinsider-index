@@ -1,0 +1,67 @@
+{
+  "title": "Geometry Wars - Retro Evolved",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T08:13:27.270836+00:00",
+  "slug": "geometry-wars-retro-evolved-soundtrack",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/geometry-wars-retro-evolved-soundtrack",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows",
+    "Xbox 360": "https://downloads.khinsider.com/game-soundtracks/xbox-360"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/geometry-wars-retro-evolved-soundtrack/Geometrywarscover.jpg"
+  ],
+  "year": 2005,
+  "catalog_number": null,
+  "date_added": "2018-07-13T00:00:00+00:00",
+  "developers": {
+    "Bizarre Creations": "https://downloads.khinsider.com/game-soundtracks/developer/bizarre-creations"
+  },
+  "publishers": {
+    "Microsoft Game Studios": "https://downloads.khinsider.com/game-soundtracks/publisher/microsoft-game-studios"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8378122,
+      "filesize_mp3_bytes": 3124756,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 78,
+      "source_mp3": "https://vgmsite.com/soundtracks/geometry-wars-retro-evolved-soundtrack/tjluqktw/1.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/geometry-wars-retro-evolved-soundtrack/tjluqktw/1.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/geometry-wars-retro-evolved-soundtrack/1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 74763468,
+      "filesize_mp3_bytes": 20877148,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 522,
+      "source_mp3": "https://vgmsite.com/soundtracks/geometry-wars-retro-evolved-soundtrack/tgaydpkw/2.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/geometry-wars-retro-evolved-soundtrack/tgaydpkw/2.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/geometry-wars-retro-evolved-soundtrack/2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 157286,
+      "filesize_mp3_bytes": 167772,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/geometry-wars-retro-evolved-soundtrack/nfyzcnkp/3.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/geometry-wars-retro-evolved-soundtrack/nfyzcnkp/3.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/geometry-wars-retro-evolved-soundtrack/3.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 604,
+    "filesize_mp3_bytes": 24169676,
+    "filesize_flac_bytes": 83298876,
+    "tracks": 3
+  }
+}

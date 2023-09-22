@@ -1,0 +1,71 @@
+{
+  "title": "GET9 / Yoko Kanno",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T08:15:46.936485+00:00",
+  "slug": "get9",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/get9",
+  "platforms": {
+    "Anime": "https://downloads.khinsider.com/game-soundtracks/anime"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/get9/cover.jpg"
+  ],
+  "year": 2004,
+  "catalog_number": "VICL-35603",
+  "date_added": "2006-11-21T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Victor": "https://downloads.khinsider.com/game-soundtracks/publisher/victor"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11377049,
+      "track_number": 1,
+      "title": "get9",
+      "runtime": 284,
+      "source_mp3": "https://vgmsite.com/soundtracks/get9/lobupfts/01.%20get9.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/get9/01.%2520get9.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 13233029,
+      "track_number": 2,
+      "title": "rise",
+      "runtime": 331,
+      "source_mp3": "https://vgmsite.com/soundtracks/get9/xywbxrnu/02.%20rise.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/get9/02.%2520rise.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9311354,
+      "track_number": 3,
+      "title": "icy mice [tadokoro kaichou no himitsu party]",
+      "runtime": 233,
+      "source_mp3": "https://vgmsite.com/soundtracks/get9/gobqhqxk/03.%20icy%20mice%20%5Btadokoro%20kaichou%20no%20himitsu%20party%5D.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/get9/03.%2520icy%2520mice%2520%255Btadokoro%2520kaichou%2520no%2520himitsu%2520party%255D.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11293163,
+      "track_number": 4,
+      "title": "get9 [naked]",
+      "runtime": 282,
+      "source_mp3": "https://vgmsite.com/soundtracks/get9/eiwooddo/04.%20get9%20%5Bnaked%5D.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/get9/04.%2520get9%2520%255Bnaked%255D.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1130,
+    "filesize_mp3_bytes": 45214595,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

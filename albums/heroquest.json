@@ -1,0 +1,87 @@
+{
+  "title": "HeroQuest (Unreleased)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T12:10:12.705985+00:00",
+  "slug": "heroquest",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/heroquest",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/heroquest/coverart.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2023-07-11T00:00:00+00:00",
+  "developers": {
+    "Gremlin Graphics": "https://downloads.khinsider.com/game-soundtracks/developer/gremlin-graphics"
+  },
+  "publishers": {
+    "Hasbro": "https://downloads.khinsider.com/game-soundtracks/publisher/hasbro"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10968104,
+      "filesize_mp3_bytes": 4204789,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 205,
+      "source_mp3": "https://vgmsite.com/soundtracks/heroquest/aevubcognb/01.%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/heroquest/aevubcognb/01.%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/heroquest/01.%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 24274534,
+      "filesize_mp3_bytes": 9237954,
+      "track_number": 2,
+      "title": "Overworld",
+      "runtime": 441,
+      "source_mp3": "https://vgmsite.com/soundtracks/heroquest/rfrrnoejrs/02.%20Overworld.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/heroquest/rfrrnoejrs/02.%20Overworld.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/heroquest/02.%2520Overworld.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 220200,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 3,
+      "title": "Dungeon Clear",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/heroquest/cbjwxentya/03.%20Dungeon%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/heroquest/cbjwxentya/03.%20Dungeon%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/heroquest/03.%2520Dungeon%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 304087,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 4,
+      "title": "Your Hero Has Fallen (Unused)",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/heroquest/xkhzxkixga/04.%20Your%20Hero%20Has%20Fallen%20%28Unused%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/heroquest/xkhzxkixga/04.%20Your%20Hero%20Has%20Fallen%20%28Unused%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/heroquest/04.%2520Your%2520Hero%2520Has%2520Fallen%2520%2528Unused%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 22051553,
+      "filesize_mp3_bytes": 8724152,
+      "track_number": 5,
+      "title": "Ending (Unused)",
+      "runtime": 421,
+      "source_mp3": "https://vgmsite.com/soundtracks/heroquest/leeparbeuw/05.%20Ending%20%28Unused%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/heroquest/leeparbeuw/05.%20Ending%20%28Unused%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/heroquest/05.%2520Ending%2520%2528Unused%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1078,
+    "filesize_mp3_bytes": 22387095,
+    "filesize_flac_bytes": 57818478,
+    "tracks": 5
+  }
+}

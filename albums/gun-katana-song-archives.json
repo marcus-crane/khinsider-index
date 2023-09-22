@@ -1,0 +1,73 @@
+{
+  "title": "GUN-KATANA Song Archives",
+  "titles_alternative": [
+    "GUN-KATANA Song Archives \u96fb\u6c17\u5f0f\u83ef\u6190\u97f3\u697d\u96c6\u56e3"
+  ],
+  "crawled_at": "2023-09-22T10:38:14.805829+00:00",
+  "slug": "gun-katana-song-archives",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/gun-katana-song-archives",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/gun-katana-song-archives/00%20Booklet%20Back.jpg"
+  ],
+  "year": 2007,
+  "catalog_number": "BCYC-D30",
+  "date_added": "2022-07-13T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "BLACK Cyc": "https://downloads.khinsider.com/game-soundtracks/publisher/black-cyc"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7728005,
+      "track_number": 1,
+      "title": "Raison d'etre",
+      "runtime": 260,
+      "source_mp3": "https://vgmsite.com/soundtracks/gun-katana-song-archives/oehszudiak/01%20Raison%20d%27etre.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gun-katana-song-archives/01%2520Raison%2520d%2527etre.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9017753,
+      "track_number": 2,
+      "title": "CHAIN",
+      "runtime": 308,
+      "source_mp3": "https://vgmsite.com/soundtracks/gun-katana-song-archives/plskyuigzt/02%20CHAIN.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gun-katana-song-archives/02%2520CHAIN.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5368709,
+      "track_number": 3,
+      "title": "Nemuri no Mayu",
+      "runtime": 205,
+      "source_mp3": "https://vgmsite.com/soundtracks/gun-katana-song-archives/hvuobhqdfx/03%20Nemuri%20no%20Mayu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gun-katana-song-archives/03%2520Nemuri%2520no%2520Mayu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7109345,
+      "track_number": 4,
+      "title": "Mugen no Nemuri",
+      "runtime": 238,
+      "source_mp3": "https://vgmsite.com/soundtracks/gun-katana-song-archives/rigblwfzmo/04%20Mugen%20no%20Nemuri.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gun-katana-song-archives/04%2520Mugen%2520no%2520Nemuri.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1011,
+    "filesize_mp3_bytes": 29223812,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

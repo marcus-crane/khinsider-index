@@ -1,0 +1,101 @@
+{
+  "title": "Golden Axe",
+  "titles_alternative": [
+    "\u30b4\u30fc\u30eb\u30c7\u30f3\u30a2\u30c3\u30af\u30b9"
+  ],
+  "crawled_at": "2023-09-22T09:15:09.296341+00:00",
+  "slug": "golden-axe-atari-st",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/golden-axe-atari-st",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/golden-axe-atari-st/436867-golden-axe-atari-st-front-cover.jpg"
+  ],
+  "year": 1990,
+  "catalog_number": null,
+  "date_added": "2021-12-21T00:00:00+00:00",
+  "developers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2736783,
+      "filesize_mp3_bytes": 1163919,
+      "track_number": 1,
+      "title": "The Battle",
+      "runtime": 50,
+      "source_mp3": "https://vgmsite.com/soundtracks/golden-axe-atari-st/icbssulkkc/01%20The%20Battle.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/golden-axe-atari-st/icbssulkkc/01%20The%20Battle.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/golden-axe-atari-st/01%2520The%2520Battle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8745123,
+      "filesize_mp3_bytes": 3334471,
+      "track_number": 2,
+      "title": "Wilderness",
+      "runtime": 153,
+      "source_mp3": "https://vgmsite.com/soundtracks/golden-axe-atari-st/kuolfdmgnb/02%20Wilderness.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/golden-axe-atari-st/kuolfdmgnb/02%20Wilderness.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/golden-axe-atari-st/02%2520Wilderness.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4896849,
+      "filesize_mp3_bytes": 1918894,
+      "track_number": 3,
+      "title": "Theme of the Thief",
+      "runtime": 92,
+      "source_mp3": "https://vgmsite.com/soundtracks/golden-axe-atari-st/rswwyiohwe/03%20Theme%20of%20the%20Thief.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/golden-axe-atari-st/rswwyiohwe/03%20Theme%20of%20the%20Thief.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/golden-axe-atari-st/03%2520Theme%2520of%2520the%2520Thief.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2715811,
+      "filesize_mp3_bytes": 1048576,
+      "track_number": 4,
+      "title": "An Old Map",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/golden-axe-atari-st/cnrqjmeexu/04%20An%20Old%20Map.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/golden-axe-atari-st/cnrqjmeexu/04%20An%20Old%20Map.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/golden-axe-atari-st/04%2520An%2520Old%2520Map.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7979663,
+      "filesize_mp3_bytes": 3303014,
+      "track_number": 5,
+      "title": "Road of the Dead",
+      "runtime": 141,
+      "source_mp3": "https://vgmsite.com/soundtracks/golden-axe-atari-st/vbevzlsjmm/05%20Road%20of%20the%20Dead.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/golden-axe-atari-st/vbevzlsjmm/05%20Road%20of%20the%20Dead.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/golden-axe-atari-st/05%2520Road%2520of%2520the%2520Dead.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11314135,
+      "filesize_mp3_bytes": 5452595,
+      "track_number": 6,
+      "title": "Our Sworn Enemy! Death Adder",
+      "runtime": 222,
+      "source_mp3": "https://vgmsite.com/soundtracks/golden-axe-atari-st/qrmolpdzdi/06%20Our%20Sworn%20Enemy%21%20Death%20Adder.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/golden-axe-atari-st/qrmolpdzdi/06%20Our%20Sworn%20Enemy%21%20Death%20Adder.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/golden-axe-atari-st/06%2520Our%2520Sworn%2520Enemy%2521%2520Death%2520Adder.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 706,
+    "filesize_mp3_bytes": 16221469,
+    "filesize_flac_bytes": 38388364,
+    "tracks": 6
+  }
+}

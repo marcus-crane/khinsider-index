@@ -1,0 +1,100 @@
+{
+  "title": "Hang-On Jr (System E)",
+  "titles_alternative": [
+    "\u30cf\u30f3\u30b0\u30aa\u30f3Jr."
+  ],
+  "crawled_at": "2023-09-22T11:20:11.938499+00:00",
+  "slug": "hang-on-jr-system-e-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hang-on-jr-system-e-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/hang-on-jr-system-e-arcade/Hang-On%20Jr.png"
+  ],
+  "year": 1985,
+  "date_added": "2021-11-06T00:00:00+00:00",
+  "developers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 41943,
+      "filesize_mp3_bytes": 10485,
+      "track_number": 1,
+      "title": "Coin",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/hang-on-jr-system-e-arcade/mqhaeentxy/01%20Coin.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hang-on-jr-system-e-arcade/mqhaeentxy/01%20Coin.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hang-on-jr-system-e-arcade/01%2520Coin.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 891289,
+      "filesize_mp3_bytes": 702545,
+      "track_number": 2,
+      "title": "Title Screen",
+      "runtime": 27,
+      "source_mp3": "https://vgmsite.com/soundtracks/hang-on-jr-system-e-arcade/qtattgajus/02%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hang-on-jr-system-e-arcade/qtattgajus/02%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hang-on-jr-system-e-arcade/02%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3407872,
+      "filesize_mp3_bytes": 1363148,
+      "track_number": 3,
+      "title": "Main BGM",
+      "runtime": 70,
+      "source_mp3": "https://vgmsite.com/soundtracks/hang-on-jr-system-e-arcade/bprftsyloj/03%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hang-on-jr-system-e-arcade/bprftsyloj/03%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hang-on-jr-system-e-arcade/03%2520Main%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 482344,
+      "filesize_mp3_bytes": 188743,
+      "track_number": 4,
+      "title": "Goal 1",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/hang-on-jr-system-e-arcade/icvpfgfeal/04%20Goal%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hang-on-jr-system-e-arcade/icvpfgfeal/04%20Goal%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hang-on-jr-system-e-arcade/04%2520Goal%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 429916,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 5,
+      "title": "Goal 2",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/hang-on-jr-system-e-arcade/wrgrupoyff/05%20Goal%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hang-on-jr-system-e-arcade/wrgrupoyff/05%20Goal%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hang-on-jr-system-e-arcade/05%2520Goal%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2810183,
+      "filesize_mp3_bytes": 1205862,
+      "track_number": 6,
+      "title": "Name Entry",
+      "runtime": 68,
+      "source_mp3": "https://vgmsite.com/soundtracks/hang-on-jr-system-e-arcade/ykuoruuyrx/06%20Name%20Entry.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hang-on-jr-system-e-arcade/ykuoruuyrx/06%20Name%20Entry.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hang-on-jr-system-e-arcade/06%2520Name%2520Entry.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 184,
+    "filesize_mp3_bytes": 3617583,
+    "filesize_flac_bytes": 8063547,
+    "tracks": 6
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Heads Up! (Vectrex)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T11:45:55.515018+00:00",
+  "slug": "heads-up-vectrex",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/heads-up-vectrex",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/heads-up-vectrex/Heads%20Up%21.png"
+  ],
+  "year": 1983,
+  "date_added": "2022-05-02T00:00:00+00:00",
+  "developers": {
+    "General Consumer Electronics": "https://downloads.khinsider.com/game-soundtracks/developer/general-consumer-electronics"
+  },
+  "publishers": {
+    "General Consumer Electronics": "https://downloads.khinsider.com/game-soundtracks/publisher/general-consumer-electronics"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 346030,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/heads-up-vectrex/kroyuxityn/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/heads-up-vectrex/kroyuxityn/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/heads-up-vectrex/01%2520Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 7,
+    "filesize_mp3_bytes": 125829,
+    "filesize_flac_bytes": 346030,
+    "tracks": 1
+  }
+}

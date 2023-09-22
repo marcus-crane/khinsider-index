@@ -1,0 +1,58 @@
+{
+  "title": "Gyrodine",
+  "titles_alternative": [
+    "\u30b8\u30e3\u30a4\u30ed\u30c0\u30a4\u30f3"
+  ],
+  "crawled_at": "2023-09-22T10:55:50.082677+00:00",
+  "slug": "gyrodine-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/gyrodine-nes",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/gyrodine-nes/471481-gyrodine-nes-front-cover.jpg"
+  ],
+  "year": 1986,
+  "date_added": "2022-06-20T00:00:00+00:00",
+  "developers": {
+    "Crux": "https://downloads.khinsider.com/game-soundtracks/developer/crux",
+    "TRY Co.": "https://downloads.khinsider.com/game-soundtracks/developer/try"
+  },
+  "publishers": {
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/publisher/taito"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 178257,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 1,
+      "title": "Game Start",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/gyrodine-nes/fxxqykysft/01%20Game%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gyrodine-nes/fxxqykysft/01%20Game%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gyrodine-nes/01%2520Game%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 807403,
+      "filesize_mp3_bytes": 241172,
+      "track_number": 2,
+      "title": "Unknown",
+      "runtime": 15,
+      "source_mp3": "https://vgmsite.com/soundtracks/gyrodine-nes/vncbyhegah/02%20Unknown.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gyrodine-nes/vncbyhegah/02%20Unknown.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gyrodine-nes/02%2520Unknown.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 20,
+    "filesize_mp3_bytes": 367001,
+    "filesize_flac_bytes": 985660,
+    "tracks": 2
+  }
+}

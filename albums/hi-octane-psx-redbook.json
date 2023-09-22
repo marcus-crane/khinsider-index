@@ -1,0 +1,59 @@
+{
+  "title": "Hi-Octane",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T12:14:03.201392+00:00",
+  "slug": "hi-octane-psx-redbook",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hi-octane-psx-redbook",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/hi-octane-psx-redbook/Hi-Octane%20%28PSX%20Redbook%29.jpg"
+  ],
+  "year": 1995,
+  "date_added": "2006-11-21T00:00:00+00:00",
+  "developers": {
+    "Bullfrog Productions": "https://downloads.khinsider.com/game-soundtracks/developer/bullfrog-productions"
+  },
+  "publishers": {
+    "Electronic Arts": "https://downloads.khinsider.com/game-soundtracks/publisher/electronic-arts"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 18475909,
+      "title": "02 - track02.mp3",
+      "runtime": 611,
+      "source_mp3": "https://vgmsite.com/soundtracks/hi-octane-psx-redbook/fhdhjvgp/02%20-%20track02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hi-octane-psx-redbook/02%2520-%2520track02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 20740833,
+      "title": "03 - track03.mp3",
+      "runtime": 665,
+      "source_mp3": "https://vgmsite.com/soundtracks/hi-octane-psx-redbook/rabkleaa/03%20-%20track03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hi-octane-psx-redbook/03%2520-%2520track03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 18800967,
+      "title": "04 - track04.mp3",
+      "runtime": 593,
+      "source_mp3": "https://vgmsite.com/soundtracks/hi-octane-psx-redbook/rteejutl/04%20-%20track04.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hi-octane-psx-redbook/04%2520-%2520track04.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1869,
+    "filesize_mp3_bytes": 58017709,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

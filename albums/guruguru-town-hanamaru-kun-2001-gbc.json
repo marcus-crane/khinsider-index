@@ -1,0 +1,78 @@
+{
+  "title": "Guruguru Town Hanamaru-kun",
+  "titles_alternative": [
+    "\u3050\u308b\u3050\u308b\u30bf\u30a6\u30f3 \u306f\u306a\u307e\u308b\u304f\u3093"
+  ],
+  "crawled_at": "2023-09-22T10:49:28.417805+00:00",
+  "slug": "guruguru-town-hanamaru-kun-2001-gbc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/guruguru-town-hanamaru-kun-2001-gbc",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/guruguru-town-hanamaru-kun-2001-gbc/Guruguru%20Town%20Hanamaru-kun.jpg"
+  ],
+  "year": 2001,
+  "date_added": "2022-01-29T00:00:00+00:00",
+  "developers": {
+    "J-Wing": "https://downloads.khinsider.com/game-soundtracks/developer/j-wing"
+  },
+  "publishers": {
+    "J-Wing": "https://downloads.khinsider.com/game-soundtracks/publisher/j-wing"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11230248,
+      "filesize_mp3_bytes": 3554672,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/guruguru-town-hanamaru-kun-2001-gbc/tuxoylelrs/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/guruguru-town-hanamaru-kun-2001-gbc/tuxoylelrs/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/guruguru-town-hanamaru-kun-2001-gbc/01%2520BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11104419,
+      "filesize_mp3_bytes": 3481272,
+      "track_number": 2,
+      "title": "BGM #02",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/guruguru-town-hanamaru-kun-2001-gbc/ebalrcdkuu/02%20BGM%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/guruguru-town-hanamaru-kun-2001-gbc/ebalrcdkuu/02%20BGM%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/guruguru-town-hanamaru-kun-2001-gbc/02%2520BGM%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11062476,
+      "filesize_mp3_bytes": 3355443,
+      "track_number": 3,
+      "title": "BGM #03",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/guruguru-town-hanamaru-kun-2001-gbc/uaydnehipv/03%20BGM%20%2303.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/guruguru-town-hanamaru-kun-2001-gbc/uaydnehipv/03%20BGM%20%2303.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/guruguru-town-hanamaru-kun-2001-gbc/03%2520BGM%2520%252303.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10779361,
+      "filesize_mp3_bytes": 3261071,
+      "track_number": 4,
+      "title": "BGM #04",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/guruguru-town-hanamaru-kun-2001-gbc/jwdygvoykt/04%20BGM%20%2304.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/guruguru-town-hanamaru-kun-2001-gbc/jwdygvoykt/04%20BGM%20%2304.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/guruguru-town-hanamaru-kun-2001-gbc/04%2520BGM%2520%252304.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 720,
+    "filesize_mp3_bytes": 13652458,
+    "filesize_flac_bytes": 44176504,
+    "tracks": 4
+  }
+}

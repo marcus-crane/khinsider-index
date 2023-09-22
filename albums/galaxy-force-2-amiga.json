@@ -1,0 +1,106 @@
+{
+  "title": "Galaxy Force 2",
+  "titles_alternative": [
+    "\u30ae\u30e3\u30e9\u30af\u30b7\u30fc\u30d5\u30a9\u30fc\u30b9\u2161"
+  ],
+  "crawled_at": "2023-09-22T07:03:44.504642+00:00",
+  "slug": "galaxy-force-2-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/galaxy-force-2-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/galaxy-force-2-amiga/GF1.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2019-05-13T00:00:00+00:00",
+  "developers": {
+    "Dementia": "https://downloads.khinsider.com/game-soundtracks/developer/dementia",
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega",
+    "Software Studios": "https://downloads.khinsider.com/game-soundtracks/developer/software-studios"
+  },
+  "publishers": {
+    "Activision": "https://downloads.khinsider.com/game-soundtracks/publisher/activision"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5966397,
+      "track_number": 1,
+      "title": "Beyond the Galaxy",
+      "runtime": 191,
+      "source_mp3": "https://vgmsite.com/soundtracks/galaxy-force-2-amiga/wsdyoyxe/01_Beyond%20the%20Galaxy.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/galaxy-force-2-amiga/01_Beyond%2520the%2520Galaxy.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5337251,
+      "track_number": 2,
+      "title": "Defeat",
+      "runtime": 176,
+      "source_mp3": "https://vgmsite.com/soundtracks/galaxy-force-2-amiga/xrecmsuf/02_Defeat.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/galaxy-force-2-amiga/02_Defeat.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5085593,
+      "track_number": 3,
+      "title": "Take Back",
+      "runtime": 166,
+      "source_mp3": "https://vgmsite.com/soundtracks/galaxy-force-2-amiga/tzpfwldc/03_Take%20Back.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/galaxy-force-2-amiga/03_Take%2520Back.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4771020,
+      "track_number": 4,
+      "title": "Alone Fighter",
+      "runtime": 149,
+      "source_mp3": "https://vgmsite.com/soundtracks/galaxy-force-2-amiga/qbzisveb/04_Alone%20Fighter.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/galaxy-force-2-amiga/04_Alone%2520Fighter.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3743416,
+      "track_number": 5,
+      "title": "Try-Z",
+      "runtime": 124,
+      "source_mp3": "https://vgmsite.com/soundtracks/galaxy-force-2-amiga/khzpqzmr/05_Try-Z.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/galaxy-force-2-amiga/05_Try-Z.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 251658,
+      "track_number": 6,
+      "title": "Stage Clear",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/galaxy-force-2-amiga/yqmcitoc/06_Stage%20Clear.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/galaxy-force-2-amiga/06_Stage%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2264924,
+      "track_number": 7,
+      "title": "Name Entry",
+      "runtime": 79,
+      "source_mp3": "https://vgmsite.com/soundtracks/galaxy-force-2-amiga/dagckpmh/07_Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/galaxy-force-2-amiga/07_Name%2520Entry.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 894,
+    "filesize_mp3_bytes": 27420259,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

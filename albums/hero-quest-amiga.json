@@ -1,0 +1,63 @@
+{
+  "title": "Hero Quest",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T12:06:03.201232+00:00",
+  "slug": "hero-quest-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hero-quest-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/hero-quest-amiga/Hero%20Quest%20Amiga%20Title%20Screen.png"
+  ],
+  "year": 1991,
+  "date_added": "2016-01-19T00:00:00+00:00",
+  "developers": {
+    "Gremlin Graphics Software": "https://downloads.khinsider.com/game-soundtracks/developer/gremlin-graphics-software"
+  },
+  "publishers": {
+    "Gremlin Graphics Software": "https://downloads.khinsider.com/game-soundtracks/publisher/gremlin-graphics-software",
+    "Mindscape": "https://downloads.khinsider.com/game-soundtracks/publisher/mindscape"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6333399,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 218,
+      "source_mp3": "https://vgmsite.com/soundtracks/hero-quest-amiga/atlkyyfk/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hero-quest-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9846128,
+      "track_number": 2,
+      "title": "In-Game Music #1",
+      "runtime": 360,
+      "source_mp3": "https://vgmsite.com/soundtracks/hero-quest-amiga/jhibrtxf/02_In-Game%20Music%20%231.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hero-quest-amiga/02_In-Game%2520Music%2520%25231.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1897922,
+      "track_number": 3,
+      "title": "In-Game Music #2",
+      "runtime": 57,
+      "source_mp3": "https://vgmsite.com/soundtracks/hero-quest-amiga/gamaffuj/03_In-Game%20Music%20%232.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hero-quest-amiga/03_In-Game%2520Music%2520%25232.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 635,
+    "filesize_mp3_bytes": 18077449,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

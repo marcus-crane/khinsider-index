@@ -1,0 +1,93 @@
+{
+  "title": "Genso Sangokushi Super Arrange Version",
+  "titles_alternative": [
+    "\u5e7b\u60f3\u4e09\u570b\u8a8c \u30b9\u30fc\u30d1\u30fc\u30fb\u30a2\u30ec\u30f3\u30b8\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3"
+  ],
+  "crawled_at": "2023-09-22T08:11:05.640596+00:00",
+  "slug": "gensosangokushi",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/gensosangokushi",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/gensosangokushi/booklet.jpg"
+  ],
+  "year": 2004,
+  "catalog_number": "GS-SAV",
+  "date_added": "2006-11-21T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Nihon Falcom Corporation": "https://downloads.khinsider.com/game-soundtracks/publisher/nihon-falcom-corporation"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9982443,
+      "track_number": 1,
+      "title": "refuted battle",
+      "runtime": 318,
+      "source_mp3": "https://vgmsite.com/soundtracks/gensosangokushi/dfmexfpg/01.%20refuted%20battle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gensosangokushi/01.%2520refuted%2520battle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6501171,
+      "track_number": 2,
+      "title": "100 jousen kyou",
+      "runtime": 235,
+      "source_mp3": "https://vgmsite.com/soundtracks/gensosangokushi/urmhboek/02.%20100%20jousen%20kyou.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gensosangokushi/02.%2520100%2520jousen%2520kyou.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9185525,
+      "track_number": 3,
+      "title": "spirit limit [exausted mind]",
+      "runtime": 340,
+      "source_mp3": "https://vgmsite.com/soundtracks/gensosangokushi/awupluix/03.%20spirit%20limit%20%5Bexausted%20mind%5D.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gensosangokushi/03.%2520spirit%2520limit%2520%255Bexausted%2520mind%255D.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7182745,
+      "track_number": 4,
+      "title": "ascend to heaven",
+      "runtime": 215,
+      "source_mp3": "https://vgmsite.com/soundtracks/gensosangokushi/hhygfevu/04.%20ascend%20to%20heaven.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gensosangokushi/04.%2520ascend%2520to%2520heaven.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5767168,
+      "track_number": 5,
+      "title": "intense attack",
+      "runtime": 182,
+      "source_mp3": "https://vgmsite.com/soundtracks/gensosangokushi/cynygxfr/05.%20intense%20attack.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gensosangokushi/05.%2520intense%2520attack.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7518289,
+      "track_number": 6,
+      "title": "eternal melody",
+      "runtime": 276,
+      "source_mp3": "https://vgmsite.com/soundtracks/gensosangokushi/upqicjoh/06.%20eternal%20melody.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gensosangokushi/06.%2520eternal%2520melody.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1566,
+    "filesize_mp3_bytes": 46137341,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

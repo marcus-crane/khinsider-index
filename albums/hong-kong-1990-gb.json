@@ -1,0 +1,78 @@
+{
+  "title": "Hong Kong",
+  "titles_alternative": [
+    "\u9999\u6e2f"
+  ],
+  "crawled_at": "2023-09-22T12:44:40.377760+00:00",
+  "slug": "hong-kong-1990-gb",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hong-kong-1990-gb",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/hong-kong-1990-gb/Hong%20Kong.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2022-04-21T00:00:00+00:00",
+  "developers": {
+    "Onion": "https://downloads.khinsider.com/game-soundtracks/developer/onion"
+  },
+  "publishers": {
+    "Tokuma Shoten": "https://downloads.khinsider.com/game-soundtracks/publisher/tokuma-shoten"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8420065,
+      "filesize_mp3_bytes": 3732930,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/hong-kong-1990-gb/ixhwtsgrjs/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hong-kong-1990-gb/ixhwtsgrjs/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hong-kong-1990-gb/01%2520BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 304087,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 2,
+      "title": "Jingle #01",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/hong-kong-1990-gb/wzhpxmgiob/02%20Jingle%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hong-kong-1990-gb/wzhpxmgiob/02%20Jingle%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hong-kong-1990-gb/02%2520Jingle%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 146800,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 3,
+      "title": "Jingle #02",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/hong-kong-1990-gb/grvbjjcinb/03%20Jingle%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hong-kong-1990-gb/grvbjjcinb/03%20Jingle%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hong-kong-1990-gb/03%2520Jingle%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 461373,
+      "filesize_mp3_bytes": 167772,
+      "track_number": 4,
+      "title": "Jingle #03",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/hong-kong-1990-gb/kvtumvikjk/04%20Jingle%20%2303.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hong-kong-1990-gb/kvtumvikjk/04%20Jingle%20%2303.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hong-kong-1990-gb/04%2520Jingle%2520%252303.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 198,
+    "filesize_mp3_bytes": 4057987,
+    "filesize_flac_bytes": 9332325,
+    "tracks": 4
+  }
+}

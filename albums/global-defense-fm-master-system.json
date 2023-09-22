@@ -1,0 +1,101 @@
+{
+  "title": "Global Defense (FM)",
+  "titles_alternative": [
+    "SDI",
+    "\u30a8\u30b9\u30fb\u30c7\u30a3\u30fc\u30fb\u30a2\u30a4"
+  ],
+  "crawled_at": "2023-09-22T08:45:06.728236+00:00",
+  "slug": "global-defense-fm-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/global-defense-fm-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/global-defense-fm-master-system/G1.jpg"
+  ],
+  "year": 1987,
+  "date_added": "2020-07-09T00:00:00+00:00",
+  "developers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4487905,
+      "filesize_mp3_bytes": 2160066,
+      "track_number": 1,
+      "title": "Demo",
+      "runtime": 103,
+      "source_mp3": "https://vgmsite.com/soundtracks/global-defense-fm-master-system/ojynisstao/01%20-%20Demo.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/global-defense-fm-master-system/ojynisstao/01%20-%20Demo.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/global-defense-fm-master-system/01%2520-%2520Demo.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 62914,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 2,
+      "title": "Start",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/global-defense-fm-master-system/qqxkqiqhzl/02%20-%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/global-defense-fm-master-system/qqxkqiqhzl/02%20-%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/global-defense-fm-master-system/02%2520-%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7193231,
+      "filesize_mp3_bytes": 3785359,
+      "track_number": 3,
+      "title": "System Down (In-Game)",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/global-defense-fm-master-system/umtaxqzqtx/03%20-%20System%20Down%20%28In-Game%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/global-defense-fm-master-system/umtaxqzqtx/03%20-%20System%20Down%20%28In-Game%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/global-defense-fm-master-system/03%2520-%2520System%2520Down%2520%2528In-Game%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 272629,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 4,
+      "title": "Perfect",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/global-defense-fm-master-system/klhaqjnhvd/04%20-%20Perfect.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/global-defense-fm-master-system/klhaqjnhvd/04%20-%20Perfect.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/global-defense-fm-master-system/04%2520-%2520Perfect.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2076180,
+      "filesize_mp3_bytes": 1258291,
+      "track_number": 5,
+      "title": "We are Desirous of Peace (Ending)",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/global-defense-fm-master-system/zhychwtrsu/05%20-%20We%20are%20Desirous%20of%20Peace%20%28Ending%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/global-defense-fm-master-system/zhychwtrsu/05%20-%20We%20are%20Desirous%20of%20Peace%20%28Ending%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/global-defense-fm-master-system/05%2520-%2520We%2520are%2520Desirous%2520of%2520Peace%2520%2528Ending%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2327838,
+      "filesize_mp3_bytes": 1310720,
+      "track_number": 6,
+      "title": "SDI Blue Moon (Game Over)",
+      "runtime": 67,
+      "source_mp3": "https://vgmsite.com/soundtracks/global-defense-fm-master-system/pvpnskhpkf/06%20-%20SDI%20Blue%20Moon%20%28Game%20Over%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/global-defense-fm-master-system/pvpnskhpkf/06%20-%20SDI%20Blue%20Moon%20%28Game%20Over%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/global-defense-fm-master-system/06%2520-%2520SDI%2520Blue%2520Moon%2520%2528Game%2520Over%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 422,
+    "filesize_mp3_bytes": 8703179,
+    "filesize_flac_bytes": 16420697,
+    "tracks": 6
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Sora no Michishirube ~GRANBLUE FANTASY~",
+  "titles_alternative": [
+    "\u30bd\u30e9\u306e\u30df\u30c1\u30b7\u30eb\u30d9 \u301cGRANBLUE FANTASY\u301c",
+    "lue Fantasy Character Songs - Sora no Michishirube"
+  ],
+  "crawled_at": "2023-09-22T09:50:04.269839+00:00",
+  "slug": "granblue-fantasy-sora-no-michishirube",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/granblue-fantasy-sora-no-michishirube",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/granblue-fantasy-sora-no-michishirube/00%20-%20obi.JPG"
+  ],
+  "year": 2015,
+  "catalog_number": "SVWC-70110",
+  "date_added": "2020-10-02T00:00:00+00:00",
+  "developers": {
+    "Cygames": "https://downloads.khinsider.com/game-soundtracks/developer/cygames"
+  },
+  "publishers": {},
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 29423042,
+      "filesize_mp3_bytes": 7696547,
+      "track_number": 1,
+      "title": "Sora no Michishirube",
+      "runtime": 230,
+      "source_mp3": "https://vgmsite.com/soundtracks/granblue-fantasy-sora-no-michishirube/kyqznlrufl/01.%20Sora%20no%20Michishirube.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/granblue-fantasy-sora-no-michishirube/kyqznlrufl/01.%20Sora%20no%20Michishirube.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/granblue-fantasy-sora-no-michishirube/01.%2520Sora%2520no%2520Michishirube.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 28961669,
+      "filesize_mp3_bytes": 7696547,
+      "track_number": 2,
+      "title": "Sora no Michishirube (instrumental)",
+      "runtime": 228,
+      "source_mp3": "https://vgmsite.com/soundtracks/granblue-fantasy-sora-no-michishirube/dvtsfryqbs/02.%20Sora%20no%20Michishirube%20%28instrumental%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/granblue-fantasy-sora-no-michishirube/dvtsfryqbs/02.%20Sora%20no%20Michishirube%20%28instrumental%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/granblue-fantasy-sora-no-michishirube/02.%2520Sora%2520no%2520Michishirube%2520%2528instrumental%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 458,
+    "filesize_mp3_bytes": 15393094,
+    "filesize_flac_bytes": 58384711,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Grow Home Original Game Soundtrack",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T10:16:37.438486+00:00",
+  "slug": "grow-home-original-game-soundtrack",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/grow-home-original-game-soundtrack",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/grow-home-original-game-soundtrack/Grow%20Home%20Original%20Game%20Soundtrack.jpg"
+  ],
+  "year": 2015,
+  "catalog_number": null,
+  "date_added": "2020-11-11T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Ubisoft Music": "https://downloads.khinsider.com/game-soundtracks/publisher/ubisoft-music"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10108272,
+      "track_number": 1,
+      "title": "Bud's Theme",
+      "runtime": 251,
+      "source_mp3": "https://vgmsite.com/soundtracks/grow-home-original-game-soundtrack/dxyyograyb/1.%20Bud%27s%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/grow-home-original-game-soundtrack/1.%2520Bud%2527s%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7423918,
+      "track_number": 2,
+      "title": "Star Plant Theme",
+      "runtime": 184,
+      "source_mp3": "https://vgmsite.com/soundtracks/grow-home-original-game-soundtrack/lyhzckiofx/2.%20Star%20Plant%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/grow-home-original-game-soundtrack/2.%2520Star%2520Plant%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 435,
+    "filesize_mp3_bytes": 17532190,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Game Genie",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T07:14:01.214393+00:00",
+  "slug": "game-genie-gb",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/game-genie-gb",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/game-genie-gb/Game%20Genie.png"
+  ],
+  "year": 1992,
+  "date_added": "2022-04-25T00:00:00+00:00",
+  "developers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/developer/codemasters"
+  },
+  "publishers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/publisher/codemasters"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 220200,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/game-genie-gb/quvbmukpzs/01%20Intro.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/game-genie-gb/quvbmukpzs/01%20Intro.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/game-genie-gb/01%2520Intro.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 5,
+    "filesize_mp3_bytes": 125829,
+    "filesize_flac_bytes": 220200,
+    "tracks": 1
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "title": "Georg Glaxo",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T08:13:35.217482+00:00",
+  "slug": "georg-glaxo-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/georg-glaxo-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/georg-glaxo-amiga/Georg%20Glaxo.png"
+  ],
+  "year": 1993,
+  "date_added": "2016-05-01T00:00:00+00:00",
+  "developers": {
+    "SilverRock Productions": "https://downloads.khinsider.com/game-soundtracks/developer/silverrock-productions"
+  },
+  "publishers": {
+    "Silverrock Productions": "https://downloads.khinsider.com/game-soundtracks/publisher/silverrock-productions"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2956984,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 104,
+      "source_mp3": "https://vgmsite.com/soundtracks/georg-glaxo-amiga/bndyhpis/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/georg-glaxo-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3187671,
+      "track_number": 2,
+      "title": "In-Game BGM",
+      "runtime": 105,
+      "source_mp3": "https://vgmsite.com/soundtracks/georg-glaxo-amiga/aauhiizm/02_In-Game%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/georg-glaxo-amiga/02_In-Game%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4152360,
+      "track_number": 3,
+      "title": "Name Entry",
+      "runtime": 113,
+      "source_mp3": "https://vgmsite.com/soundtracks/georg-glaxo-amiga/vdxkxpqu/03_Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/georg-glaxo-amiga/03_Name%2520Entry.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 322,
+    "filesize_mp3_bytes": 10297015,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

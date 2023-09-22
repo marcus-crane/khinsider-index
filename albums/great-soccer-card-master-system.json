@@ -1,0 +1,56 @@
+{
+  "title": "Great Soccer (Card)",
+  "titles_alternative": [
+    "\u30b0\u30ec\u30fc\u30c8\u30b5\u30c3\u30ab\u30fc"
+  ],
+  "crawled_at": "2023-09-22T10:05:16.175179+00:00",
+  "slug": "great-soccer-card-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/great-soccer-card-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/great-soccer-card-master-system/Great%20Soccer%20%28Card%29.png"
+  ],
+  "year": 1985,
+  "date_added": "2020-07-09T00:00:00+00:00",
+  "developers": {
+    "Sega R&D2": "https://downloads.khinsider.com/game-soundtracks/developer/sega-r-d2"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3019898,
+      "filesize_mp3_bytes": 1163919,
+      "track_number": 1,
+      "title": "Main Game",
+      "runtime": 62,
+      "source_mp3": "https://vgmsite.com/soundtracks/great-soccer-card-master-system/lhsnuizfqw/01%20-%20Main%20Game.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/great-soccer-card-master-system/lhsnuizfqw/01%20-%20Main%20Game.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/great-soccer-card-master-system/01%2520-%2520Main%2520Game.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 786432,
+      "filesize_mp3_bytes": 283115,
+      "track_number": 2,
+      "title": "Game Set",
+      "runtime": 14,
+      "source_mp3": "https://vgmsite.com/soundtracks/great-soccer-card-master-system/cwedhmtpke/02%20-%20Game%20Set.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/great-soccer-card-master-system/cwedhmtpke/02%20-%20Game%20Set.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/great-soccer-card-master-system/02%2520-%2520Game%2520Set.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 76,
+    "filesize_mp3_bytes": 1447034,
+    "filesize_flac_bytes": 3806330,
+    "tracks": 2
+  }
+}

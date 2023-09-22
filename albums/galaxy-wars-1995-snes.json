@@ -1,0 +1,78 @@
+{
+  "title": "Galaxy Wars",
+  "titles_alternative": [
+    "\u30ae\u30e3\u30e9\u30af\u30b7\u30fc\u30a6\u30a9\u30fc\u30ba"
+  ],
+  "crawled_at": "2023-09-22T07:06:03.036268+00:00",
+  "slug": "galaxy-wars-1995-snes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/galaxy-wars-1995-snes",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/galaxy-wars-1995-snes/Galaxy%20Wars%20%281995%29%20%28SNES%29.jpg"
+  ],
+  "year": 1995,
+  "date_added": "2019-08-09T00:00:00+00:00",
+  "developers": {
+    "C-lab.": "https://downloads.khinsider.com/game-soundtracks/developer/c-lab"
+  },
+  "publishers": {
+    "Imagineer": "https://downloads.khinsider.com/game-soundtracks/publisher/imagineer"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8315207,
+      "filesize_mp3_bytes": 3208642,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 114,
+      "source_mp3": "https://vgmsite.com/soundtracks/galaxy-wars-1995-snes/sprytejpps/01%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/galaxy-wars-1995-snes/sprytejpps/01%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/galaxy-wars-1995-snes/01%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4026531,
+      "filesize_mp3_bytes": 1950351,
+      "track_number": 2,
+      "title": "Options",
+      "runtime": 60,
+      "source_mp3": "https://vgmsite.com/soundtracks/galaxy-wars-1995-snes/ztdjubrosp/02%20Options.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/galaxy-wars-1995-snes/ztdjubrosp/02%20Options.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/galaxy-wars-1995-snes/02%2520Options.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6239027,
+      "filesize_mp3_bytes": 2768240,
+      "track_number": 3,
+      "title": "Neo Mode",
+      "runtime": 98,
+      "source_mp3": "https://vgmsite.com/soundtracks/galaxy-wars-1995-snes/ffoyabrdys/03%20Neo%20Mode.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/galaxy-wars-1995-snes/ffoyabrdys/03%20Neo%20Mode.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/galaxy-wars-1995-snes/03%2520Neo%2520Mode.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 83886,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 4,
+      "title": "UFO Destroyed",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/galaxy-wars-1995-snes/jcfusavyhj/04%20UFO%20Destroyed.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/galaxy-wars-1995-snes/jcfusavyhj/04%20UFO%20Destroyed.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/galaxy-wars-1995-snes/04%2520UFO%2520Destroyed.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 276,
+    "filesize_mp3_bytes": 7979661,
+    "filesize_flac_bytes": 18664651,
+    "tracks": 4
+  }
+}

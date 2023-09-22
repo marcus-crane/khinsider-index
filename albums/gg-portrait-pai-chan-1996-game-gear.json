@@ -1,0 +1,52 @@
+{
+  "title": "GG Portrait - Pai Chan",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T08:18:01.455935+00:00",
+  "slug": "gg-portrait-pai-chan-1996-game-gear",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/gg-portrait-pai-chan-1996-game-gear",
+  "platforms": {
+    "Game Gear": "https://downloads.khinsider.com/game-soundtracks/sega-game-gear"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/gg-portrait-pai-chan-1996-game-gear/GG%20Portrait%20-%20Pai%20Chen%20%28Japan%29.png"
+  ],
+  "year": 1996,
+  "date_added": "2020-07-09T00:00:00+00:00",
+  "developers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9825157,
+      "filesize_mp3_bytes": 3397386,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/gg-portrait-pai-chan-1996-game-gear/dogxgivzmu/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gg-portrait-pai-chan-1996-game-gear/dogxgivzmu/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gg-portrait-pai-chan-1996-game-gear/01%2520BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 325058,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 2,
+      "title": "Jingle #01",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/gg-portrait-pai-chan-1996-game-gear/njdavkogzx/02%20Jingle%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gg-portrait-pai-chan-1996-game-gear/njdavkogzx/02%20Jingle%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gg-portrait-pai-chan-1996-game-gear/02%2520Jingle%2520%252301.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 186,
+    "filesize_mp3_bytes": 3502243,
+    "filesize_flac_bytes": 10150215,
+    "tracks": 2
+  }
+}

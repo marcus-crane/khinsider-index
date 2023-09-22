@@ -1,0 +1,79 @@
+{
+  "title": "Hang-On",
+  "titles_alternative": [
+    "\u30cf\u30f3\u30b0\u30aa\u30f3"
+  ],
+  "crawled_at": "2023-09-22T11:20:15.722273+00:00",
+  "slug": "hang-on-pc-8801",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hang-on-pc-8801",
+  "platforms": {
+    "PC-88": "https://downloads.khinsider.com/game-soundtracks/pc-8801"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/hang-on-pc-8801/Hang-On.png"
+  ],
+  "year": 1986,
+  "date_added": "2022-05-02T00:00:00+00:00",
+  "developers": {
+    "Pax Softnica": "https://downloads.khinsider.com/game-soundtracks/developer/pax-softnica",
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Pax Electronica Japan": "https://downloads.khinsider.com/game-soundtracks/publisher/pax-electronica-japan"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 283115,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/hang-on-pc-8801/lfmxyxdmqy/01%20Title.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hang-on-pc-8801/lfmxyxdmqy/01%20Title.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hang-on-pc-8801/01%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2390753,
+      "filesize_mp3_bytes": 1468006,
+      "track_number": 2,
+      "title": "Main Theme",
+      "runtime": 72,
+      "source_mp3": "https://vgmsite.com/soundtracks/hang-on-pc-8801/ombyuhjdmo/02%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hang-on-pc-8801/ombyuhjdmo/02%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hang-on-pc-8801/02%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 272629,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 3,
+      "title": "Goal",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/hang-on-pc-8801/liyfakwkrq/03%20Goal.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hang-on-pc-8801/liyfakwkrq/03%20Goal.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hang-on-pc-8801/03%2520Goal.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 817889,
+      "filesize_mp3_bytes": 304087,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 16,
+      "source_mp3": "https://vgmsite.com/soundtracks/hang-on-pc-8801/aewysblkih/04%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hang-on-pc-8801/aewysblkih/04%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hang-on-pc-8801/04%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 100,
+    "filesize_mp3_bytes": 1981807,
+    "filesize_flac_bytes": 3764386,
+    "tracks": 4
+  }
+}

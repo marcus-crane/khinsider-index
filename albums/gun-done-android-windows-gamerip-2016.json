@@ -1,0 +1,65 @@
+{
+  "title": "Gun Done",
+  "titles_alternative": [
+    "Gun Done - Road to West"
+  ],
+  "crawled_at": "2023-09-22T10:37:47.904607+00:00",
+  "slug": "gun-done-android-windows-gamerip-2016",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/gun-done-android-windows-gamerip-2016",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/gun-done-android-windows-gamerip-2016/gd_1.jpg"
+  ],
+  "year": 2016,
+  "date_added": "2022-09-18T00:00:00+00:00",
+  "developers": {
+    "AZAMATIKA": "https://downloads.khinsider.com/game-soundtracks/developer/azamatika"
+  },
+  "publishers": {
+    "AZAMATIKA": "https://downloads.khinsider.com/game-soundtracks/publisher/azamatika"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1132462,
+      "track_number": 1,
+      "title": "Music Playroom",
+      "runtime": 75,
+      "source_mp3": "https://vgmsite.com/soundtracks/gun-done-android-windows-gamerip-2016/ziheugrolf/01%20Music%20Playroom.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gun-done-android-windows-gamerip-2016/01%2520Music%2520Playroom.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1405091,
+      "track_number": 2,
+      "title": "Music Playroom2",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/gun-done-android-windows-gamerip-2016/cneasqrjuk/02%20Music%20Playroom2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gun-done-android-windows-gamerip-2016/02%2520Music%2520Playroom2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1761607,
+      "track_number": 3,
+      "title": "Music Playroom3",
+      "runtime": 112,
+      "source_mp3": "https://vgmsite.com/soundtracks/gun-done-android-windows-gamerip-2016/uqprjpzvfi/03%20Music%20Playroom3.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gun-done-android-windows-gamerip-2016/03%2520Music%2520Playroom3.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 283,
+    "filesize_mp3_bytes": 4299160,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

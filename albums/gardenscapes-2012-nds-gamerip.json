@@ -1,0 +1,72 @@
+{
+  "title": "Gardenscapes",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T07:37:52.007600+00:00",
+  "slug": "gardenscapes-2012-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/gardenscapes-2012-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/gardenscapes-2012-nds-gamerip/Gardenscapes.jpg"
+  ],
+  "year": 2012,
+  "date_added": "2020-06-09T00:00:00+00:00",
+  "developers": {
+    "Easy": "https://downloads.khinsider.com/game-soundtracks/developer/easy"
+  },
+  "publishers": {
+    "Easy": "https://downloads.khinsider.com/game-soundtracks/publisher/easy"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1793064,
+      "filesize_mp3_bytes": 440401,
+      "title": "Music Childroom",
+      "runtime": 43,
+      "source_mp3": "https://vgmsite.com/soundtracks/gardenscapes-2012-nds-gamerip/tkszgphcbs/Music%20Childroom.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gardenscapes-2012-nds-gamerip/tkszgphcbs/Music%20Childroom.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gardenscapes-2012-nds-gamerip/Music%2520Childroom.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1321205,
+      "filesize_mp3_bytes": 325058,
+      "title": "Music Garage",
+      "runtime": 34,
+      "source_mp3": "https://vgmsite.com/soundtracks/gardenscapes-2012-nds-gamerip/alunciztyl/Music%20Garage.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gardenscapes-2012-nds-gamerip/alunciztyl/Music%20Garage.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gardenscapes-2012-nds-gamerip/Music%2520Garage.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1415577,
+      "filesize_mp3_bytes": 346030,
+      "title": "Music Hall",
+      "runtime": 37,
+      "source_mp3": "https://vgmsite.com/soundtracks/gardenscapes-2012-nds-gamerip/sarfjhaemh/Music%20Hall.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gardenscapes-2012-nds-gamerip/sarfjhaemh/Music%20Hall.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gardenscapes-2012-nds-gamerip/Music%2520Hall.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2097152,
+      "filesize_mp3_bytes": 461373,
+      "title": "Music Menu",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/gardenscapes-2012-nds-gamerip/cyllxunyig/Music%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gardenscapes-2012-nds-gamerip/cyllxunyig/Music%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gardenscapes-2012-nds-gamerip/Music%2520Menu.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 162,
+    "filesize_mp3_bytes": 1572862,
+    "filesize_flac_bytes": 6626998,
+    "tracks": 4
+  }
+}

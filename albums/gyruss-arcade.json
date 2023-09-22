@@ -1,0 +1,65 @@
+{
+  "title": "Gyruss",
+  "titles_alternative": [
+    "\u30b8\u30e3\u30a4\u30e9\u30b9"
+  ],
+  "crawled_at": "2023-09-22T10:56:05.225750+00:00",
+  "slug": "gyruss-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/gyruss-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/gyruss-arcade/cover.png"
+  ],
+  "year": 1983,
+  "date_added": "2014-11-16T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami"
+  },
+  "publishers": {
+    "Centuri": "https://downloads.khinsider.com/game-soundtracks/publisher/centuri",
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4875878,
+      "track_number": 1,
+      "title": "BGM",
+      "runtime": 120,
+      "source_mp3": "https://vgmsite.com/soundtracks/gyruss-arcade/ougaxuwc/01%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gyruss-arcade/01%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 367001,
+      "track_number": 2,
+      "title": "Unknown",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/gyruss-arcade/dayhniab/02%20Unknown.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gyruss-arcade/02%2520Unknown.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5588910,
+      "track_number": 3,
+      "title": "Sound Effects",
+      "runtime": 138,
+      "source_mp3": "https://vgmsite.com/soundtracks/gyruss-arcade/nlktaelz/03%20Sound%20Effects.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gyruss-arcade/03%2520Sound%2520Effects.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 265,
+    "filesize_mp3_bytes": 10831789,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

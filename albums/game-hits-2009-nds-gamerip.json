@@ -1,0 +1,78 @@
+{
+  "title": "Game Hits",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T07:14:04.387877+00:00",
+  "slug": "game-hits-2009-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/game-hits-2009-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/game-hits-2009-nds-gamerip/Game%20Hits.jpg"
+  ],
+  "year": 2009,
+  "date_added": "2020-06-09T00:00:00+00:00",
+  "developers": {
+    "Foreign Media": "https://downloads.khinsider.com/game-soundtracks/developer/foreign-media"
+  },
+  "publishers": {
+    "Destineer": "https://downloads.khinsider.com/game-soundtracks/publisher/destineer",
+    "Foreign Media": "https://downloads.khinsider.com/game-soundtracks/publisher/foreign-media"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 608174,
+      "title": "Fro",
+      "runtime": 56,
+      "source_mp3": "https://vgmsite.com/soundtracks/game-hits-2009-nds-gamerip/zvyfkdvaju/Fro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/game-hits-2009-nds-gamerip/Fro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 817889,
+      "title": "Inv",
+      "runtime": 74,
+      "source_mp3": "https://vgmsite.com/soundtracks/game-hits-2009-nds-gamerip/takihllgzc/Inv.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/game-hits-2009-nds-gamerip/Inv.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 660602,
+      "title": "Menu",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/game-hits-2009-nds-gamerip/dfrpljmynj/Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/game-hits-2009-nds-gamerip/Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 660602,
+      "title": "Pac",
+      "runtime": 62,
+      "source_mp3": "https://vgmsite.com/soundtracks/game-hits-2009-nds-gamerip/thtxrldexl/Pac.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/game-hits-2009-nds-gamerip/Pac.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 639631,
+      "title": "Tet",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/game-hits-2009-nds-gamerip/kwmbscaqlz/Tet.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/game-hits-2009-nds-gamerip/Tet.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 320,
+    "filesize_mp3_bytes": 3386898,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

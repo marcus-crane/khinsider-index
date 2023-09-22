@@ -1,0 +1,61 @@
+{
+  "title": "Heroes of Loot (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T12:06:35.527619+00:00",
+  "slug": "heroes-of-loot-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/heroes-of-loot-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/heroes-of-loot-android-game-music/Heroes-of-Loot.jpg"
+  ],
+  "date_added": "2016-06-15T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3124756,
+      "title": "tune1",
+      "runtime": 111,
+      "source_mp3": "https://vgmsite.com/soundtracks/heroes-of-loot-android-game-music/enilokhl/tune1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/heroes-of-loot-android-game-music/tune1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1289748,
+      "title": "tune2",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/heroes-of-loot-android-game-music/wjrygcdk/tune2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/heroes-of-loot-android-game-music/tune2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 178257,
+      "title": "tune3",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/heroes-of-loot-android-game-music/autaeyou/tune3.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/heroes-of-loot-android-game-music/tune3.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 817889,
+      "title": "tune4",
+      "runtime": 59,
+      "source_mp3": "https://vgmsite.com/soundtracks/heroes-of-loot-android-game-music/kswapnbq/tune4.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/heroes-of-loot-android-game-music/tune4.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 225,
+    "filesize_mp3_bytes": 5410650,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

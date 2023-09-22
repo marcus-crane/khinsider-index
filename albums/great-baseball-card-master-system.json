@@ -1,0 +1,89 @@
+{
+  "title": "Great Baseball [Card]",
+  "titles_alternative": [
+    "\u30b0\u30ec\u30fc\u30c8\u30d9\u30fc\u30b9\u30dc\u30fc\u30eb"
+  ],
+  "crawled_at": "2023-09-22T10:03:58.554604+00:00",
+  "slug": "great-baseball-card-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/great-baseball-card-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/great-baseball-card-master-system/Great%20Baseball%20%5BCard%5D.png"
+  ],
+  "year": 1985,
+  "date_added": "2020-07-09T00:00:00+00:00",
+  "developers": {
+    "Sega R&D2": "https://downloads.khinsider.com/game-soundtracks/developer/sega-r-d2"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 618659,
+      "filesize_mp3_bytes": 188743,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/great-baseball-card-master-system/xkgtjwxagu/01%20-%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/great-baseball-card-master-system/xkgtjwxagu/01%20-%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/great-baseball-card-master-system/01%2520-%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 146800,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 2,
+      "title": "Play Ball",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/great-baseball-card-master-system/xpjzpojfxq/02%20-%20Play%20Ball.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/great-baseball-card-master-system/xpjzpojfxq/02%20-%20Play%20Ball.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/great-baseball-card-master-system/02%2520-%2520Play%2520Ball.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1289748,
+      "filesize_mp3_bytes": 513802,
+      "track_number": 3,
+      "title": "Home Run",
+      "runtime": 23,
+      "source_mp3": "https://vgmsite.com/soundtracks/great-baseball-card-master-system/xfqqkuqegv/03%20-%20Home%20Run.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/great-baseball-card-master-system/xfqqkuqegv/03%20-%20Home%20Run.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/great-baseball-card-master-system/03%2520-%2520Home%2520Run.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 104857,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 4,
+      "title": "Change League",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/great-baseball-card-master-system/vzxnoblonf/04%20-%20Change%20League.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/great-baseball-card-master-system/vzxnoblonf/04%20-%20Change%20League.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/great-baseball-card-master-system/04%2520-%2520Change%2520League.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 167772,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 5,
+      "title": "Game Over",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/great-baseball-card-master-system/nvldatgdse/05%20-%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/great-baseball-card-master-system/nvldatgdse/05%20-%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/great-baseball-card-master-system/05%2520-%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 41,
+    "filesize_mp3_bytes": 828373,
+    "filesize_flac_bytes": 2327836,
+    "tracks": 5
+  }
+}

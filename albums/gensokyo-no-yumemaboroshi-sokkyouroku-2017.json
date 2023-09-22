@@ -1,0 +1,66 @@
+{
+  "title": "Gensokyo no Yumemaboroshi Sokkyouroku",
+  "titles_alternative": [
+    "\u5e7b\u60f3\u90f7\u306e\u5922\u5e7b\u5373\u8208\u9332"
+  ],
+  "crawled_at": "2023-09-22T08:11:01.539072+00:00",
+  "slug": "gensokyo-no-yumemaboroshi-sokkyouroku-2017",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/gensokyo-no-yumemaboroshi-sokkyouroku-2017",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/gensokyo-no-yumemaboroshi-sokkyouroku-2017/Cover.jpg"
+  ],
+  "year": 2017,
+  "catalog_number": null,
+  "date_added": "2021-05-12T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "JAGMO": "https://downloads.khinsider.com/game-soundtracks/publisher/jagmo"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 61215866,
+      "filesize_mp3_bytes": 10485760,
+      "track_number": 1,
+      "title": "Flowering Night",
+      "runtime": 310,
+      "source_mp3": "https://vgmsite.com/soundtracks/gensokyo-no-yumemaboroshi-sokkyouroku-2017/pqfgarrkwn/01.%20Flowering%20Night.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gensokyo-no-yumemaboroshi-sokkyouroku-2017/pqfgarrkwn/01.%20Flowering%20Night.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gensokyo-no-yumemaboroshi-sokkyouroku-2017/01.%2520Flowering%2520Night.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 60251176,
+      "filesize_mp3_bytes": 10684989,
+      "track_number": 2,
+      "title": "The Gensokyo The Gods Loved",
+      "runtime": 330,
+      "source_mp3": "https://vgmsite.com/soundtracks/gensokyo-no-yumemaboroshi-sokkyouroku-2017/wecilnlsqf/02.%20The%20Gensokyo%20The%20Gods%20Loved.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gensokyo-no-yumemaboroshi-sokkyouroku-2017/wecilnlsqf/02.%20The%20Gensokyo%20The%20Gods%20Loved.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gensokyo-no-yumemaboroshi-sokkyouroku-2017/02.%2520The%2520Gensokyo%2520The%2520Gods%2520Loved.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 57367592,
+      "filesize_mp3_bytes": 9447669,
+      "track_number": 3,
+      "title": "Septette for a Dead Princess",
+      "runtime": 274,
+      "source_mp3": "https://vgmsite.com/soundtracks/gensokyo-no-yumemaboroshi-sokkyouroku-2017/hohkizynpm/03.%20Septette%20for%20a%20Dead%20Princess.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gensokyo-no-yumemaboroshi-sokkyouroku-2017/hohkizynpm/03.%20Septette%20for%20a%20Dead%20Princess.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gensokyo-no-yumemaboroshi-sokkyouroku-2017/03.%2520Septette%2520for%2520a%2520Dead%2520Princess.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 914,
+    "filesize_mp3_bytes": 30618418,
+    "filesize_flac_bytes": 178834634,
+    "tracks": 3
+  }
+}

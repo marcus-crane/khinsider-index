@@ -1,0 +1,74 @@
+{
+  "title": "Harvest Moon",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T11:33:04.948109+00:00",
+  "slug": "harvest-moon-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/harvest-moon-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/harvest-moon-nes/Harvest%20Moon%20%28NES%29.jpg"
+  ],
+  "date_added": "2022-04-28T00:00:00+00:00",
+  "developers": {
+    "19xx": "https://downloads.khinsider.com/game-soundtracks/developer/19xx",
+    "Shenzhen Nanjing Technology": "https://downloads.khinsider.com/game-soundtracks/developer/shenzhen-nanjing-technology"
+  },
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10726932,
+      "filesize_mp3_bytes": 3313500,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/harvest-moon-nes/ucxrxknbzx/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/harvest-moon-nes/ucxrxknbzx/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/harvest-moon-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11230248,
+      "filesize_mp3_bytes": 3659530,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/harvest-moon-nes/fxjqmmqrke/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/harvest-moon-nes/fxjqmmqrke/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/harvest-moon-nes/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11429478,
+      "filesize_mp3_bytes": 3428843,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/harvest-moon-nes/uayrilwulq/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/harvest-moon-nes/uayrilwulq/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/harvest-moon-nes/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10831790,
+      "filesize_mp3_bytes": 3219128,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/harvest-moon-nes/fxyurgqhwf/04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/harvest-moon-nes/fxyurgqhwf/04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/harvest-moon-nes/04.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 720,
+    "filesize_mp3_bytes": 13621001,
+    "filesize_flac_bytes": 44218448,
+    "tracks": 4
+  }
+}

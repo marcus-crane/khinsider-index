@@ -1,0 +1,37 @@
+{
+  "title": "Gnome Alone",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T08:47:52.914003+00:00",
+  "slug": "gnome-alone-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/gnome-alone-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/gnome-alone-amiga/219878_front.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2020-12-21T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9846128,
+      "title": "Title Screen",
+      "runtime": 378,
+      "source_mp3": "https://vgmsite.com/soundtracks/gnome-alone-amiga/fydohmkjwy/Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gnome-alone-amiga/Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 378,
+    "filesize_mp3_bytes": 9846128,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

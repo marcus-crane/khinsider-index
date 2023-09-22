@@ -1,0 +1,48 @@
+{
+  "title": "Garfield: Punt the Pooch",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T07:40:08.674751+00:00",
+  "slug": "garfield-punt-the-pooch-online-gamerip-2007",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/garfield-punt-the-pooch-online-gamerip-2007",
+  "platforms": {
+    "Online": "https://downloads.khinsider.com/game-soundtracks/online"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/garfield-punt-the-pooch-online-gamerip-2007/Title%20Screen.png"
+  ],
+  "year": 2007,
+  "date_added": "2022-11-01T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 17,
+      "source_mp3": "https://vgmsite.com/soundtracks/garfield-punt-the-pooch-online-gamerip-2007/dzvbcjuuun/01.%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/garfield-punt-the-pooch-online-gamerip-2007/01.%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 2,
+      "title": "Game",
+      "runtime": 33,
+      "source_mp3": "https://vgmsite.com/soundtracks/garfield-punt-the-pooch-online-gamerip-2007/ktdbswhbkj/02.%20Game.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/garfield-punt-the-pooch-online-gamerip-2007/02.%2520Game.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 50,
+    "filesize_mp3_bytes": 209714,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

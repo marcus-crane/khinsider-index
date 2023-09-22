@@ -1,0 +1,73 @@
+{
+  "title": "Godus Wars",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T09:09:37.729206+00:00",
+  "slug": "godus-wars-macos-windows-gamerip-2016",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/godus-wars-macos-windows-gamerip-2016",
+  "platforms": {
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/godus-wars-macos-windows-gamerip-2016/Godus%20Wars%20%281%29.jpg"
+  ],
+  "year": 2016,
+  "date_added": "2022-09-18T00:00:00+00:00",
+  "developers": {
+    "22Cans": "https://downloads.khinsider.com/game-soundtracks/developer/22cans"
+  },
+  "publishers": {
+    "22Cans": "https://downloads.khinsider.com/game-soundtracks/publisher/22cans"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3187671,
+      "track_number": 1,
+      "title": "Music 1",
+      "runtime": 79,
+      "source_mp3": "https://vgmsite.com/soundtracks/godus-wars-macos-windows-gamerip-2016/qecxvdhzpr/01.%20Music%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/godus-wars-macos-windows-gamerip-2016/01.%2520Music%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7801405,
+      "track_number": 2,
+      "title": "Music 2",
+      "runtime": 194,
+      "source_mp3": "https://vgmsite.com/soundtracks/godus-wars-macos-windows-gamerip-2016/miigyxvfoi/02.%20Music%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/godus-wars-macos-windows-gamerip-2016/02.%2520Music%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9164554,
+      "track_number": 3,
+      "title": "Music 3",
+      "runtime": 228,
+      "source_mp3": "https://vgmsite.com/soundtracks/godus-wars-macos-windows-gamerip-2016/eglzeqsoxt/03.%20Music%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/godus-wars-macos-windows-gamerip-2016/03.%2520Music%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7224688,
+      "track_number": 4,
+      "title": "Music 4",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/godus-wars-macos-windows-gamerip-2016/ehpmgwndyo/04.%20Music%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/godus-wars-macos-windows-gamerip-2016/04.%2520Music%25204.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 681,
+    "filesize_mp3_bytes": 27378318,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

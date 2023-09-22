@@ -1,0 +1,46 @@
+{
+  "title": "GRANBLUE FANTASY Kokuveen no Tsubasa",
+  "titles_alternative": [
+    "GRANBLUE FANTASY \u9ed2\u30d3\u30a3\u3093\u306e\u7ffc"
+  ],
+  "crawled_at": "2023-09-22T09:49:14.697326+00:00",
+  "slug": "granblue-fantasy-kokuveen-no-tsubasa",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/granblue-fantasy-kokuveen-no-tsubasa",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios",
+    "Online": "https://downloads.khinsider.com/game-soundtracks/online"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/granblue-fantasy-kokuveen-no-tsubasa/Cover.jpg"
+  ],
+  "year": 2018,
+  "catalog_number": "CYGM-0020",
+  "date_added": "2020-10-02T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Cygames": "https://downloads.khinsider.com/game-soundtracks/publisher/cygames"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 29213327,
+      "filesize_mp3_bytes": 5410652,
+      "track_number": 1,
+      "title": "Kokuveen no Tsubasa",
+      "runtime": 165,
+      "source_mp3": "https://vgmsite.com/soundtracks/granblue-fantasy-kokuveen-no-tsubasa/amgwxhifyg/01.%20Kokuveen%20no%20Tsubasa.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/granblue-fantasy-kokuveen-no-tsubasa/amgwxhifyg/01.%20Kokuveen%20no%20Tsubasa.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/granblue-fantasy-kokuveen-no-tsubasa/01.%2520Kokuveen%2520no%2520Tsubasa.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 165,
+    "filesize_mp3_bytes": 5410652,
+    "filesize_flac_bytes": 29213327,
+    "tracks": 1
+  }
+}

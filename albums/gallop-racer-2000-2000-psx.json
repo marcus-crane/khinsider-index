@@ -1,0 +1,67 @@
+{
+  "title": "Gallop Racer 2000",
+  "titles_alternative": [
+    "\u30ae\u30e3\u30ed\u30c3\u30d7\u30ec\u30fc\u30b5\u30fc2000"
+  ],
+  "crawled_at": "2023-09-22T07:07:20.168109+00:00",
+  "slug": "gallop-racer-2000-2000-psx",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/gallop-racer-2000-2000-psx",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/gallop-racer-2000-2000-psx/G1.png"
+  ],
+  "year": 2000,
+  "date_added": "2020-11-11T00:00:00+00:00",
+  "developers": {
+    "Tecmo": "https://downloads.khinsider.com/game-soundtracks/developer/tecmo"
+  },
+  "publishers": {
+    "Tecmo": "https://downloads.khinsider.com/game-soundtracks/publisher/tecmo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10852761,
+      "filesize_mp3_bytes": 4183818,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 122,
+      "source_mp3": "https://vgmsite.com/soundtracks/gallop-racer-2000-2000-psx/ewsnooaaix/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gallop-racer-2000-2000-psx/ewsnooaaix/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gallop-racer-2000-2000-psx/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 14239662,
+      "filesize_mp3_bytes": 4141875,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 123,
+      "source_mp3": "https://vgmsite.com/soundtracks/gallop-racer-2000-2000-psx/meewsjnrxo/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gallop-racer-2000-2000-psx/meewsjnrxo/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gallop-racer-2000-2000-psx/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3355443,
+      "filesize_mp3_bytes": 1163919,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 36,
+      "source_mp3": "https://vgmsite.com/soundtracks/gallop-racer-2000-2000-psx/xemyjqaasu/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gallop-racer-2000-2000-psx/xemyjqaasu/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gallop-racer-2000-2000-psx/03.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 281,
+    "filesize_mp3_bytes": 9489612,
+    "filesize_flac_bytes": 28447866,
+    "tracks": 3
+  }
+}

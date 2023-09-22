@@ -1,0 +1,78 @@
+{
+  "title": "Game & Watch Collection 1 & 2",
+  "titles_alternative": [
+    "\u30b2\u30fc\u30e0\u30a2\u30f3\u30c9\u30a6\u30aa\u30c3\u30c1\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 1&2"
+  ],
+  "crawled_at": "2023-09-22T07:22:50.773199+00:00",
+  "slug": "game-watch-collection-1-2-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/game-watch-collection-1-2-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/game-watch-collection-1-2-nds-gamerip/Game%20%26%20Watch%20Collection%201%20%26%202%20OST%20Cover.png"
+  ],
+  "year": 2008,
+  "date_added": "2022-02-26T00:00:00+00:00",
+  "developers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/developer/nintendo"
+  },
+  "publishers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 16336814,
+      "filesize_mp3_bytes": 2631925,
+      "track_number": 1,
+      "title": "Main Menu (Collection 1)",
+      "runtime": 83,
+      "source_mp3": "https://vgmsite.com/soundtracks/game-watch-collection-1-2-nds-gamerip/lshxgzowoq/01.%20Main%20Menu%20%28Collection%201%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/game-watch-collection-1-2-nds-gamerip/lshxgzowoq/01.%20Main%20Menu%20%28Collection%201%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/game-watch-collection-1-2-nds-gamerip/01.%2520Main%2520Menu%2520%2528Collection%25201%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 838860,
+      "filesize_mp3_bytes": 178257,
+      "track_number": 2,
+      "title": "Intro (Collection 2)",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/game-watch-collection-1-2-nds-gamerip/rpopppksrv/02.%20Intro%20%28Collection%202%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/game-watch-collection-1-2-nds-gamerip/rpopppksrv/02.%20Intro%20%28Collection%202%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/game-watch-collection-1-2-nds-gamerip/02.%2520Intro%2520%2528Collection%25202%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 21904752,
+      "filesize_mp3_bytes": 3344957,
+      "track_number": 3,
+      "title": "Title Screen (With Sound Effects) (Collection 2)",
+      "runtime": 114,
+      "source_mp3": "https://vgmsite.com/soundtracks/game-watch-collection-1-2-nds-gamerip/lmzsmhhgqg/03.%20Title%20Screen%20%28With%20Sound%20Effects%29%20%28Collection%202%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/game-watch-collection-1-2-nds-gamerip/lmzsmhhgqg/03.%20Title%20Screen%20%28With%20Sound%20Effects%29%20%28Collection%202%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/game-watch-collection-1-2-nds-gamerip/03.%2520Title%2520Screen%2520%2528With%2520Sound%2520Effects%2529%2520%2528Collection%25202%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20604518,
+      "filesize_mp3_bytes": 3323985,
+      "track_number": 4,
+      "title": "Title Screen (Without Sound Effects) (Collection 2)",
+      "runtime": 109,
+      "source_mp3": "https://vgmsite.com/soundtracks/game-watch-collection-1-2-nds-gamerip/jrrqssfqnd/04.%20Title%20Screen%20%28Without%20Sound%20Effects%29%20%28Collection%202%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/game-watch-collection-1-2-nds-gamerip/jrrqssfqnd/04.%20Title%20Screen%20%28Without%20Sound%20Effects%29%20%28Collection%202%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/game-watch-collection-1-2-nds-gamerip/04.%2520Title%2520Screen%2520%2528Without%2520Sound%2520Effects%2529%2520%2528Collection%25202%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 310,
+    "filesize_mp3_bytes": 9479124,
+    "filesize_flac_bytes": 59684944,
+    "tracks": 4
+  }
+}

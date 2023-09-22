@@ -1,0 +1,53 @@
+{
+  "title": "GOT TO MOVE! (Millennium Girl) / MilkCan",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T09:31:10.402533+00:00",
+  "slug": "got-to-move-millennium-girl-milkcan-1999",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/got-to-move-millennium-girl-milkcan-1999",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/got-to-move-millennium-girl-milkcan-1999/Cover.png"
+  ],
+  "year": 1999,
+  "catalog_number": "SVWD-9013",
+  "date_added": "2023-05-16T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "VORN": "https://downloads.khinsider.com/game-soundtracks/publisher/vorn"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 46022000,
+      "filesize_mp3_bytes": 7832862,
+      "track_number": 1,
+      "title": "MilkCan - GOT TO MOVE! (Millennium Girl)",
+      "runtime": 224,
+      "source_mp3": "https://vgmsite.com/soundtracks/got-to-move-millennium-girl-milkcan-1999/pessridjtg/01%20MilkCan%20-%20GOT%20TO%20MOVE%21%20%28Millennium%20Girl%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/got-to-move-millennium-girl-milkcan-1999/pessridjtg/01%20MilkCan%20-%20GOT%20TO%20MOVE%21%20%28Millennium%20Girl%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/got-to-move-millennium-girl-milkcan-1999/01%2520MilkCan%2520-%2520GOT%2520TO%2520MOVE%2521%2520%2528Millennium%2520Girl%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 36039557,
+      "filesize_mp3_bytes": 5934940,
+      "track_number": 2,
+      "title": "MilkCan - POWER OFF! POWER ON!",
+      "runtime": 168,
+      "source_mp3": "https://vgmsite.com/soundtracks/got-to-move-millennium-girl-milkcan-1999/qhouwvfyry/02%20MilkCan%20-%20POWER%20OFF%21%20POWER%20ON%21.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/got-to-move-millennium-girl-milkcan-1999/qhouwvfyry/02%20MilkCan%20-%20POWER%20OFF%21%20POWER%20ON%21.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/got-to-move-millennium-girl-milkcan-1999/02%2520MilkCan%2520-%2520POWER%2520OFF%2521%2520POWER%2520ON%2521.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 392,
+    "filesize_mp3_bytes": 13767802,
+    "filesize_flac_bytes": 82061557,
+    "tracks": 2
+  }
+}

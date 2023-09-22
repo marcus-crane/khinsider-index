@@ -1,0 +1,53 @@
+{
+  "title": "Hilt - Against the Hoardes",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T12:21:11.628707+00:00",
+  "slug": "hilt-against-the-hoardes-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hilt-against-the-hoardes-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/hilt-against-the-hoardes-amiga/H1.png"
+  ],
+  "year": 1994,
+  "date_added": "2019-05-27T00:00:00+00:00",
+  "developers": {
+    "Scorpius": "https://downloads.khinsider.com/game-soundtracks/developer/scorpius"
+  },
+  "publishers": {
+    "5th Dimension": "https://downloads.khinsider.com/game-soundtracks/publisher/5th-dimension",
+    "Scorpius": "https://downloads.khinsider.com/game-soundtracks/publisher/scorpius"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3009413,
+      "track_number": 1,
+      "title": "Introduction",
+      "runtime": 115,
+      "source_mp3": "https://vgmsite.com/soundtracks/hilt-against-the-hoardes-amiga/zmbqzmpzdw/01_Introduction.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hilt-against-the-hoardes-amiga/01_Introduction.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5379194,
+      "track_number": 2,
+      "title": "Title Screen",
+      "runtime": 201,
+      "source_mp3": "https://vgmsite.com/soundtracks/hilt-against-the-hoardes-amiga/tnakxkveze/02_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hilt-against-the-hoardes-amiga/02_Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 316,
+    "filesize_mp3_bytes": 8388607,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

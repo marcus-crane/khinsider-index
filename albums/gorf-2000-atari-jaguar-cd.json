@@ -1,0 +1,62 @@
+{
+  "title": "Gorf 2000 (Atari Jaguar CD)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T09:30:33.870783+00:00",
+  "slug": "gorf-2000-atari-jaguar-cd",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/gorf-2000-atari-jaguar-cd",
+  "platforms": {
+    "Atari Jaguar": "https://downloads.khinsider.com/game-soundtracks/atari-jaguar"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/gorf-2000-atari-jaguar-cd/Gorf%202000%20Jaguar%20back%20cover.jpg"
+  ],
+  "year": 2006,
+  "date_added": "2020-09-05T00:00:00+00:00",
+  "developers": {
+    "3D Stooges": "https://downloads.khinsider.com/game-soundtracks/developer/3d-stooges"
+  },
+  "publishers": {
+    "3D Stooges": "https://downloads.khinsider.com/game-soundtracks/publisher/3d-stooges"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9521070,
+      "track_number": 1,
+      "title": "Intro Theme",
+      "runtime": 238,
+      "source_mp3": "https://vgmsite.com/soundtracks/gorf-2000-atari-jaguar-cd/btzkjyjcck/1.%20Intro%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gorf-2000-atari-jaguar-cd/1.%2520Intro%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6207569,
+      "track_number": 2,
+      "title": "Astrobattles",
+      "runtime": 155,
+      "source_mp3": "https://vgmsite.com/soundtracks/gorf-2000-atari-jaguar-cd/kejrmmeojx/2.%20Astrobattles.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gorf-2000-atari-jaguar-cd/2.%2520Astrobattles.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8441036,
+      "track_number": 3,
+      "title": "Flagship",
+      "runtime": 211,
+      "source_mp3": "https://vgmsite.com/soundtracks/gorf-2000-atari-jaguar-cd/melcynfzyz/3.%20Flagship.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gorf-2000-atari-jaguar-cd/3.%2520Flagship.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 604,
+    "filesize_mp3_bytes": 24169675,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

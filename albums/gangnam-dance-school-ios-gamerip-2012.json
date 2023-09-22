@@ -1,0 +1,57 @@
+{
+  "title": "Gangnam Dance School",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T07:33:56.457746+00:00",
+  "slug": "gangnam-dance-school-ios-gamerip-2012",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/gangnam-dance-school-ios-gamerip-2012",
+  "platforms": {
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/gangnam-dance-school-ios-gamerip-2012/Gangnam%20Dance%20School.jpg"
+  ],
+  "year": 2012,
+  "date_added": "2022-08-31T00:00:00+00:00",
+  "developers": {
+    "Psycho Bear Studios": "https://downloads.khinsider.com/game-soundtracks/developer/psycho-bear-studios"
+  },
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 125829,
+      "title": "Bonus",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/gangnam-dance-school-ios-gamerip-2012/aeqkqtwwhz/Bonus.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gangnam-dance-school-ios-gamerip-2012/Bonus.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 356515,
+      "title": "Gameplay Music",
+      "runtime": 45,
+      "source_mp3": "https://vgmsite.com/soundtracks/gangnam-dance-school-ios-gamerip-2012/ougbfcrcyd/Gameplay%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gangnam-dance-school-ios-gamerip-2012/Gameplay%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 660602,
+      "title": "Main Menu",
+      "runtime": 165,
+      "source_mp3": "https://vgmsite.com/soundtracks/gangnam-dance-school-ios-gamerip-2012/gwworkbfez/Main%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gangnam-dance-school-ios-gamerip-2012/Main%2520Menu.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 213,
+    "filesize_mp3_bytes": 1142946,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

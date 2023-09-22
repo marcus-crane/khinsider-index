@@ -1,0 +1,105 @@
+{
+  "title": "Gauntlet",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T07:47:28.567127+00:00",
+  "slug": "gauntlet-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/gauntlet-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/gauntlet-master-system/Gauntlet.png"
+  ],
+  "year": 1990,
+  "date_added": "2020-07-09T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 870318,
+      "filesize_mp3_bytes": 325058,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 15,
+      "source_mp3": "https://vgmsite.com/soundtracks/gauntlet-master-system/cawjiqxiel/01%20-%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gauntlet-master-system/cawjiqxiel/01%20-%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gauntlet-master-system/01%2520-%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 220200,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 2,
+      "title": "Level Start",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/gauntlet-master-system/svhstqwbab/02%20-%20Level%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gauntlet-master-system/svhstqwbab/02%20-%20Level%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gauntlet-master-system/02%2520-%2520Level%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3271557,
+      "filesize_mp3_bytes": 1205862,
+      "track_number": 3,
+      "title": "Hidden Room",
+      "runtime": 61,
+      "source_mp3": "https://vgmsite.com/soundtracks/gauntlet-master-system/dntbjgggag/03%20-%20Hidden%20Room.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gauntlet-master-system/dntbjgggag/03%20-%20Hidden%20Room.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gauntlet-master-system/03%2520-%2520Hidden%2520Room.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 52428,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 4,
+      "title": "Warrior",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/gauntlet-master-system/crqiooadfr/04%20-%20Warrior.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gauntlet-master-system/crqiooadfr/04%20-%20Warrior.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gauntlet-master-system/04%2520-%2520Warrior.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 62914,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 5,
+      "title": "Walkyrie",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/gauntlet-master-system/rhpyudnjfn/05%20-%20Walkyrie.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gauntlet-master-system/rhpyudnjfn/05%20-%20Walkyrie.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gauntlet-master-system/05%2520-%2520Walkyrie.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 52428,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 6,
+      "title": "Elf",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/gauntlet-master-system/aflhfhqdhb/06%20-%20Elf.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gauntlet-master-system/aflhfhqdhb/06%20-%20Elf.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gauntlet-master-system/06%2520-%2520Elf.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 52428,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 7,
+      "title": "Wizard",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/gauntlet-master-system/rmlfndyfoe/07%20-%20Wizard.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gauntlet-master-system/rmlfndyfoe/07%20-%20Wizard.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gauntlet-master-system/07%2520-%2520Wizard.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 84,
+    "filesize_mp3_bytes": 1740634,
+    "filesize_flac_bytes": 4582273,
+    "tracks": 7
+  }
+}

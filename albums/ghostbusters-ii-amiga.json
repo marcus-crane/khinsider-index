@@ -1,0 +1,60 @@
+{
+  "title": "Ghostbusters II",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T08:23:47.957065+00:00",
+  "slug": "ghostbusters-ii-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ghostbusters-ii-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ghostbusters-ii-amiga/dave-lowe-ghostbusters-ii.jpg"
+  ],
+  "date_added": "2020-07-28T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 27420262,
+      "filesize_mp3_bytes": 3774873,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 114,
+      "source_mp3": "https://vgmsite.com/soundtracks/ghostbusters-ii-amiga/jyolgvbgjz/01%20Title.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ghostbusters-ii-amiga/jyolgvbgjz/01%20Title.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ghostbusters-ii-amiga/01%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 14627635,
+      "filesize_mp3_bytes": 2002780,
+      "track_number": 2,
+      "title": "In Game",
+      "runtime": 61,
+      "source_mp3": "https://vgmsite.com/soundtracks/ghostbusters-ii-amiga/qbaasbxdph/02%20In%20Game.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ghostbusters-ii-amiga/qbaasbxdph/02%20In%20Game.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ghostbusters-ii-amiga/02%2520In%2520Game.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2537553,
+      "filesize_mp3_bytes": 346030,
+      "track_number": 3,
+      "title": "Jingle",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/ghostbusters-ii-amiga/fjcnoecsdu/03%20Jingle.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ghostbusters-ii-amiga/fjcnoecsdu/03%20Jingle.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ghostbusters-ii-amiga/03%2520Jingle.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 185,
+    "filesize_mp3_bytes": 6123683,
+    "filesize_flac_bytes": 44585450,
+    "tracks": 3
+  }
+}

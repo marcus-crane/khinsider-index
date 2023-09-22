@@ -1,0 +1,34 @@
+{
+  "title": "Hero Manager (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T12:05:28.832890+00:00",
+  "slug": "hero-manager-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hero-manager-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/hero-manager-android-game-music/1.jpeg"
+  ],
+  "date_added": "2016-06-04T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4037017,
+      "title": "Hero Manager",
+      "runtime": 158,
+      "source_mp3": "https://vgmsite.com/soundtracks/hero-manager-android-game-music/bkkiuuav/Hero%20Manager.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hero-manager-android-game-music/Hero%2520Manager.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 158,
+    "filesize_mp3_bytes": 4037017,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

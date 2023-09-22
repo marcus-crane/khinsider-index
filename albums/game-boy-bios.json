@@ -1,0 +1,44 @@
+{
+  "title": "Game Boy BIOS",
+  "titles_alternative": [
+    "\u30b2\u30fc\u30e0\u30dc\u30fc\u30a4"
+  ],
+  "crawled_at": "2023-09-22T07:09:34.660842+00:00",
+  "slug": "game-boy-bios",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/game-boy-bios",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/game-boy-bios/Game%20Boy%20BIOS%20%28GB%29.png"
+  ],
+  "year": 1989,
+  "date_added": "2021-08-04T00:00:00+00:00",
+  "developers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/developer/nintendo"
+  },
+  "publishers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 52428,
+      "filesize_mp3_bytes": 20971,
+      "title": "Game Boy BIOS - 01 - BIOS",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/game-boy-bios/hjaijxuzqx/Game%20Boy%20BIOS%20-%2001%20-%20BIOS.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/game-boy-bios/hjaijxuzqx/Game%20Boy%20BIOS%20-%2001%20-%20BIOS.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/game-boy-bios/Game%2520Boy%2520BIOS%2520-%252001%2520-%2520BIOS.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2,
+    "filesize_mp3_bytes": 20971,
+    "filesize_flac_bytes": 52428,
+    "tracks": 1
+  }
+}

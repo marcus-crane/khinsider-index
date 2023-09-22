@@ -1,0 +1,51 @@
+{
+  "title": "H2O Original Sound Track CD",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T10:56:39.706016+00:00",
+  "slug": "h2o-original-sound-track-cd",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/h2o-original-sound-track-cd",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/h2o-original-sound-track-cd/cover_min.png"
+  ],
+  "year": 2006,
+  "catalog_number": "MAKURA-501",
+  "date_added": "2022-03-09T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "MAKURA": "https://downloads.khinsider.com/game-soundtracks/publisher/makura"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9594470,
+      "track_number": 1,
+      "title": "H2O Short Ver",
+      "runtime": 113,
+      "source_mp3": "https://vgmsite.com/soundtracks/h2o-original-sound-track-cd/repnsahhgc/01%20H2O%20Short%20Ver.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/h2o-original-sound-track-cd/01%2520H2O%2520Short%2520Ver.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9542041,
+      "track_number": 2,
+      "title": "H2O Short Inst Ver",
+      "runtime": 111,
+      "source_mp3": "https://vgmsite.com/soundtracks/h2o-original-sound-track-cd/vwgmcryihz/02%20H2O%20Short%20Inst%20Ver.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/h2o-original-sound-track-cd/02%2520H2O%2520Short%2520Inst%2520Ver.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 224,
+    "filesize_mp3_bytes": 19136511,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

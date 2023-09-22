@@ -1,0 +1,89 @@
+{
+  "title": "Hikaru Genji - Roller Panic",
+  "titles_alternative": [
+    "\u5149GENJI \u30ed\u30fc\u30e9\u30fc\u30d1\u30cb\u30c3\u30af"
+  ],
+  "crawled_at": "2023-09-22T12:20:26.636672+00:00",
+  "slug": "hikaru-genji-roller-panic-1989-fds",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hikaru-genji-roller-panic-1989-fds",
+  "platforms": {
+    "FDS": "https://downloads.khinsider.com/game-soundtracks/famicom-disk-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/hikaru-genji-roller-panic-1989-fds/Hikaru%20Genji%20-%20Roller%20Panic.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2022-05-05T00:00:00+00:00",
+  "developers": {
+    "Pony Canyon": "https://downloads.khinsider.com/game-soundtracks/developer/pony-canyon"
+  },
+  "publishers": {
+    "Pony Canyon": "https://downloads.khinsider.com/game-soundtracks/publisher/pony-canyon"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11418992,
+      "filesize_mp3_bytes": 3428843,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/hikaru-genji-roller-panic-1989-fds/fbejxiwqdy/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hikaru-genji-roller-panic-1989-fds/fbejxiwqdy/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hikaru-genji-roller-panic-1989-fds/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10527703,
+      "filesize_mp3_bytes": 3607101,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/hikaru-genji-roller-panic-1989-fds/ftbxuhpzve/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hikaru-genji-roller-panic-1989-fds/ftbxuhpzve/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hikaru-genji-roller-panic-1989-fds/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10024386,
+      "filesize_mp3_bytes": 3344957,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/hikaru-genji-roller-panic-1989-fds/mxqzrhgbkt/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hikaru-genji-roller-panic-1989-fds/mxqzrhgbkt/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hikaru-genji-roller-panic-1989-fds/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9992929,
+      "filesize_mp3_bytes": 3397386,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/hikaru-genji-roller-panic-1989-fds/umbjqfcggb/04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hikaru-genji-roller-panic-1989-fds/umbjqfcggb/04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hikaru-genji-roller-panic-1989-fds/04.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11513364,
+      "filesize_mp3_bytes": 3523215,
+      "track_number": 5,
+      "title": "Track 5",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/hikaru-genji-roller-panic-1989-fds/lcfqplwgsf/05.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hikaru-genji-roller-panic-1989-fds/lcfqplwgsf/05.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hikaru-genji-roller-panic-1989-fds/05.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 900,
+    "filesize_mp3_bytes": 17301502,
+    "filesize_flac_bytes": 53477374,
+    "tracks": 5
+  }
+}

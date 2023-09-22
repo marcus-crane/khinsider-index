@@ -1,0 +1,61 @@
+{
+  "title": "Derby Days",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T07:01:33.064148+00:00",
+  "slug": "derby-days-android-ios-gamerip-2012",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/derby-days-android-ios-gamerip-2012",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/derby-days-android-ios-gamerip-2012/icon.png"
+  ],
+  "year": 2012,
+  "date_added": "2023-09-22T00:00:00+00:00",
+  "developers": {
+    "Com2uS": "https://downloads.khinsider.com/game-soundtracks/developer/com2us"
+  },
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2694840,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/derby-days-android-ios-gamerip-2012/fmngcnidkz/01.%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/derby-days-android-ios-gamerip-2012/01.%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 587202,
+      "track_number": 2,
+      "title": "Race",
+      "runtime": 21,
+      "source_mp3": "https://vgmsite.com/soundtracks/derby-days-android-ios-gamerip-2012/aqizdvwzbh/02.%20Race.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/derby-days-android-ios-gamerip-2012/02.%2520Race.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 461373,
+      "track_number": 3,
+      "title": "Shop",
+      "runtime": 16,
+      "source_mp3": "https://vgmsite.com/soundtracks/derby-days-android-ios-gamerip-2012/pnyucvqtaf/03.%20Shop.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/derby-days-android-ios-gamerip-2012/03.%2520Shop.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 133,
+    "filesize_mp3_bytes": 3743415,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

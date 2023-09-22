@@ -1,0 +1,72 @@
+{
+  "title": "Godzilla the Series (GBC)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T09:10:55.134910+00:00",
+  "slug": "godzilla-the-series-1999-game-boy",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/godzilla-the-series-1999-game-boy",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/godzilla-the-series-1999-game-boy/Godzilla%20the%20Series.jpg"
+  ],
+  "year": 1999,
+  "date_added": "2019-09-16T00:00:00+00:00",
+  "developers": {
+    "Crawfish": "https://downloads.khinsider.com/game-soundtracks/developer/crawfish"
+  },
+  "publishers": {
+    "Crave Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/crave-entertainment"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3491758,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/godzilla-the-series-1999-game-boy/ughzkqwskr/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/godzilla-the-series-1999-game-boy/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3460300,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/godzilla-the-series-1999-game-boy/jyhmckupkf/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/godzilla-the-series-1999-game-boy/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/godzilla-the-series-1999-game-boy/aqmtrlwpsy/03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/godzilla-the-series-1999-game-boy/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/godzilla-the-series-1999-game-boy/fkblhzhuqz/04.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/godzilla-the-series-1999-game-boy/04.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 371,
+    "filesize_mp3_bytes": 7151286,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

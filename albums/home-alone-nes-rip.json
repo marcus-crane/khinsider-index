@@ -1,0 +1,82 @@
+{
+  "title": "Home Alone",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T12:38:19.164495+00:00",
+  "slug": "home-alone-nes-rip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/home-alone-nes-rip",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/home-alone-nes-rip/box-art.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2006-11-21T00:00:00+00:00",
+  "developers": {
+    "Bethesda Softworks": "https://downloads.khinsider.com/game-soundtracks/developer/bethesda-softworks"
+  },
+  "publishers": {
+    "THQ": "https://downloads.khinsider.com/game-soundtracks/publisher/thq"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 996147,
+      "track_number": 1,
+      "title": "title screen",
+      "runtime": 62,
+      "source_mp3": "https://vgmsite.com/soundtracks/home-alone-nes-rip/oovtfxop/01%20-%20title%20screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/home-alone-nes-rip/01%2520-%2520title%2520screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2474639,
+      "track_number": 2,
+      "title": "house",
+      "runtime": 154,
+      "source_mp3": "https://vgmsite.com/soundtracks/home-alone-nes-rip/jvftopal/02%20-%20house.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/home-alone-nes-rip/02%2520-%2520house.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1520435,
+      "track_number": 3,
+      "title": "basement",
+      "runtime": 95,
+      "source_mp3": "https://vgmsite.com/soundtracks/home-alone-nes-rip/pswvhsyd/03%20-%20basement.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/home-alone-nes-rip/03%2520-%2520basement.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1394606,
+      "track_number": 4,
+      "title": "tree house",
+      "runtime": 87,
+      "source_mp3": "https://vgmsite.com/soundtracks/home-alone-nes-rip/utxnuusm/04%20-%20tree%20house.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/home-alone-nes-rip/04%2520-%2520tree%2520house.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 702545,
+      "track_number": 5,
+      "title": "game over",
+      "runtime": 44,
+      "source_mp3": "https://vgmsite.com/soundtracks/home-alone-nes-rip/yjzcxrhn/05%20-%20game%20over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/home-alone-nes-rip/05%2520-%2520game%2520over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 442,
+    "filesize_mp3_bytes": 7088372,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

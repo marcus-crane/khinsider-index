@@ -1,0 +1,76 @@
+{
+  "title": "Great Baseball",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T10:04:00.456774+00:00",
+  "slug": "great-baseball-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/great-baseball-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/great-baseball-master-system/Great%20Baseball.png"
+  ],
+  "year": 1987,
+  "date_added": "2020-07-09T00:00:00+00:00",
+  "developers": {
+    "Whiteboard": "https://downloads.khinsider.com/game-soundtracks/developer/whiteboard"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 545259,
+      "filesize_mp3_bytes": 209715,
+      "track_number": 1,
+      "title": "Menus",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/great-baseball-master-system/yfczgsksrd/01%20-%20Menus.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/great-baseball-master-system/yfczgsksrd/01%20-%20Menus.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/great-baseball-master-system/01%2520-%2520Menus.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 293601,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 2,
+      "title": "Change League",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/great-baseball-master-system/ppmmbbhhqq/02%20-%20Change%20League.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/great-baseball-master-system/ppmmbbhhqq/02%20-%20Change%20League.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/great-baseball-master-system/02%2520-%2520Change%2520League.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1719664,
+      "filesize_mp3_bytes": 650117,
+      "track_number": 3,
+      "title": "Home Run",
+      "runtime": 37,
+      "source_mp3": "https://vgmsite.com/soundtracks/great-baseball-master-system/ugmhonuweo/03%20-%20Home%20Run.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/great-baseball-master-system/ugmhonuweo/03%20-%20Home%20Run.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/great-baseball-master-system/03%2520-%2520Home%2520Run.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1048576,
+      "filesize_mp3_bytes": 387973,
+      "track_number": 4,
+      "title": "Game Set",
+      "runtime": 19,
+      "source_mp3": "https://vgmsite.com/soundtracks/great-baseball-master-system/fpuztgzcdq/04%20-%20Game%20Set.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/great-baseball-master-system/fpuztgzcdq/04%20-%20Game%20Set.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/great-baseball-master-system/04%2520-%2520Game%2520Set.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 71,
+    "filesize_mp3_bytes": 1352662,
+    "filesize_flac_bytes": 3607100,
+    "tracks": 4
+  }
+}

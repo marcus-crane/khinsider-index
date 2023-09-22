@@ -1,0 +1,39 @@
+{
+  "title": "Game Boy Color Promotional Demo",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T07:09:35.483475+00:00",
+  "slug": "game-boy-color-promotional-demo-gbc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/game-boy-color-promotional-demo-gbc",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/game-boy-color-promotional-demo-gbc/Game%20Boy%20Color%20Promotional%20Demo.png"
+  ],
+  "year": 1999,
+  "date_added": "2022-04-25T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9049210,
+      "filesize_mp3_bytes": 3764387,
+      "track_number": 1,
+      "title": "Main BGM",
+      "runtime": 150,
+      "source_mp3": "https://vgmsite.com/soundtracks/game-boy-color-promotional-demo-gbc/oilpevlcue/01%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/game-boy-color-promotional-demo-gbc/oilpevlcue/01%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/game-boy-color-promotional-demo-gbc/01%2520Main%2520BGM.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 150,
+    "filesize_mp3_bytes": 3764387,
+    "filesize_flac_bytes": 9049210,
+    "tracks": 1
+  }
+}

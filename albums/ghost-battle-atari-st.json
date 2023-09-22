@@ -1,0 +1,112 @@
+{
+  "title": "Ghost Battle",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T08:18:22.636206+00:00",
+  "slug": "ghost-battle-atari-st",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ghost-battle-atari-st",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ghost-battle-atari-st/GB.png"
+  ],
+  "year": 1991,
+  "date_added": "2018-01-17T00:00:00+00:00",
+  "developers": {
+    "Interactive Design": "https://downloads.khinsider.com/game-soundtracks/developer/interactive-design"
+  },
+  "publishers": {
+    "Thalion": "https://downloads.khinsider.com/game-soundtracks/publisher/thalion"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8808038,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 334,
+      "source_mp3": "https://vgmsite.com/soundtracks/ghost-battle-atari-st/zbqvalht/01_Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ghost-battle-atari-st/01_Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6249512,
+      "track_number": 2,
+      "title": "Title and Game Over",
+      "runtime": 259,
+      "source_mp3": "https://vgmsite.com/soundtracks/ghost-battle-atari-st/kyeybxwb/02_Title%20and%20Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ghost-battle-atari-st/02_Title%2520and%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7623147,
+      "track_number": 3,
+      "title": "Level 1",
+      "runtime": 248,
+      "source_mp3": "https://vgmsite.com/soundtracks/ghost-battle-atari-st/gwazlfen/03_Level%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ghost-battle-atari-st/03_Level%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10401873,
+      "track_number": 4,
+      "title": "Level 2",
+      "runtime": 359,
+      "source_mp3": "https://vgmsite.com/soundtracks/ghost-battle-atari-st/osptkdgn/04_Level%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ghost-battle-atari-st/04_Level%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4278190,
+      "track_number": 5,
+      "title": "Level 3 and 5-1",
+      "runtime": 169,
+      "source_mp3": "https://vgmsite.com/soundtracks/ghost-battle-atari-st/eaxwpage/05_Level%203%20and%205-1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ghost-battle-atari-st/05_Level%25203%2520and%25205-1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6836715,
+      "track_number": 6,
+      "title": "Level 3 and 5-2",
+      "runtime": 271,
+      "source_mp3": "https://vgmsite.com/soundtracks/ghost-battle-atari-st/rgmjugjf/06_Level%203%20and%205-2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ghost-battle-atari-st/06_Level%25203%2520and%25205-2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6396313,
+      "track_number": 7,
+      "title": "Level 4",
+      "runtime": 247,
+      "source_mp3": "https://vgmsite.com/soundtracks/ghost-battle-atari-st/hxnmhroc/07_Level%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ghost-battle-atari-st/07_Level%25204.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4246732,
+      "track_number": 8,
+      "title": "Ending",
+      "runtime": 176,
+      "source_mp3": "https://vgmsite.com/soundtracks/ghost-battle-atari-st/afmotosc/08_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ghost-battle-atari-st/08_Ending.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2063,
+    "filesize_mp3_bytes": 54840520,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

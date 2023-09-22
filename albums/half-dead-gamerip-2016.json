@@ -1,0 +1,73 @@
+{
+  "title": "Half Dead",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T11:03:38.676646+00:00",
+  "slug": "half-dead-gamerip-2016",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/half-dead-gamerip-2016",
+  "platforms": {
+    "Switch": "https://downloads.khinsider.com/game-soundtracks/nintendo-switch",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/half-dead-gamerip-2016/Front.jpg"
+  ],
+  "year": 2016,
+  "date_added": "2018-02-04T00:00:00+00:00",
+  "developers": {
+    "Room710Games": "https://downloads.khinsider.com/game-soundtracks/developer/room710games"
+  },
+  "publishers": {
+    "Room710Games": "https://downloads.khinsider.com/game-soundtracks/publisher/room710games"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4571791,
+      "track_number": 1,
+      "title": "Track 01",
+      "runtime": 110,
+      "source_mp3": "https://vgmsite.com/soundtracks/half-dead-gamerip-2016/goztuvpw/01.%20Track%2001.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/half-dead-gamerip-2016/01.%2520Track%252001.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3365928,
+      "track_number": 2,
+      "title": "Track 02",
+      "runtime": 80,
+      "source_mp3": "https://vgmsite.com/soundtracks/half-dead-gamerip-2016/zqmoqcya/02.%20Track%2002.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/half-dead-gamerip-2016/02.%2520Track%252002.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1604321,
+      "track_number": 3,
+      "title": "Winning",
+      "runtime": 36,
+      "source_mp3": "https://vgmsite.com/soundtracks/half-dead-gamerip-2016/azssocka/03.%20Winning.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/half-dead-gamerip-2016/03.%2520Winning.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1132462,
+      "track_number": 4,
+      "title": "Death",
+      "runtime": 24,
+      "source_mp3": "https://vgmsite.com/soundtracks/half-dead-gamerip-2016/cgjpynbn/04.%20Death.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/half-dead-gamerip-2016/04.%2520Death.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 250,
+    "filesize_mp3_bytes": 10674502,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

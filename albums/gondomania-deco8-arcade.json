@@ -1,0 +1,90 @@
+{
+  "title": "Gondomania (DECO8)",
+  "titles_alternative": [
+    "Makyou Senshi",
+    "\u9b54\u5883\u6226\u58eb"
+  ],
+  "crawled_at": "2023-09-22T09:26:16.018385+00:00",
+  "slug": "gondomania-deco8-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/gondomania-deco8-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/gondomania-deco8-arcade/G1.jpg"
+  ],
+  "year": 1987,
+  "date_added": "2022-04-21T00:00:00+00:00",
+  "developers": {
+    "Data East": "https://downloads.khinsider.com/game-soundtracks/developer/data-east"
+  },
+  "publishers": {
+    "Data East": "https://downloads.khinsider.com/game-soundtracks/publisher/data-east"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10485,
+      "filesize_mp3_bytes": 10485,
+      "track_number": 1,
+      "title": "Coin",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/gondomania-deco8-arcade/ldqgxzszbk/01%20Coin.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gondomania-deco8-arcade/ldqgxzszbk/01%20Coin.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gondomania-deco8-arcade/01%2520Coin.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5337251,
+      "filesize_mp3_bytes": 2013265,
+      "track_number": 2,
+      "title": "Game Start ~ Gondomania",
+      "runtime": 88,
+      "source_mp3": "https://vgmsite.com/soundtracks/gondomania-deco8-arcade/vrctbhgzlc/02%20Game%20Start%20~%20Gondomania.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gondomania-deco8-arcade/vrctbhgzlc/02%20Game%20Start%20~%20Gondomania.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gondomania-deco8-arcade/02%2520Game%2520Start%2520~%2520Gondomania.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6878658,
+      "filesize_mp3_bytes": 2516582,
+      "track_number": 3,
+      "title": "Boss Theme",
+      "runtime": 109,
+      "source_mp3": "https://vgmsite.com/soundtracks/gondomania-deco8-arcade/iuynlurwdk/03%20Boss%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gondomania-deco8-arcade/iuynlurwdk/03%20Boss%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gondomania-deco8-arcade/03%2520Boss%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6176112,
+      "filesize_mp3_bytes": 1688207,
+      "track_number": 4,
+      "title": "Ending",
+      "runtime": 97,
+      "source_mp3": "https://vgmsite.com/soundtracks/gondomania-deco8-arcade/tggqwrvqps/04%20Ending.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gondomania-deco8-arcade/tggqwrvqps/04%20Ending.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gondomania-deco8-arcade/04%2520Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2013265,
+      "filesize_mp3_bytes": 859832,
+      "track_number": 5,
+      "title": "Name Entry",
+      "runtime": 39,
+      "source_mp3": "https://vgmsite.com/soundtracks/gondomania-deco8-arcade/wrionndvmg/05%20Name%20Entry.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gondomania-deco8-arcade/wrionndvmg/05%20Name%20Entry.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gondomania-deco8-arcade/05%2520Name%2520Entry.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 334,
+    "filesize_mp3_bytes": 7088371,
+    "filesize_flac_bytes": 20415771,
+    "tracks": 5
+  }
+}

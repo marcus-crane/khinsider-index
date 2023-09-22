@@ -1,0 +1,115 @@
+{
+  "title": "Ground Master",
+  "titles_alternative": [
+    "Ground Master: Ushinawareta Takara Shu no Densetsu",
+    "\u30b0\u30e9\u30f3\u30c9\u30de\u30b9\u30bf\u30fc -\u5931\u308f\u308c\u305f\u5b9d\u73e0\u306e\u4f1d\u8aac-"
+  ],
+  "crawled_at": "2023-09-22T10:15:35.764229+00:00",
+  "slug": "ground-master-x68000",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ground-master-x68000",
+  "platforms": {
+    "X68000": "https://downloads.khinsider.com/game-soundtracks/x68000"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ground-master-x68000/Ground%20Master.jpg"
+  ],
+  "year": 1988,
+  "date_added": "2016-07-23T00:00:00+00:00",
+  "developers": {
+    "Zain Soft": "https://downloads.khinsider.com/game-soundtracks/developer/zain-soft"
+  },
+  "publishers": {
+    "Zain Soft": "https://downloads.khinsider.com/game-soundtracks/publisher/zain-soft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3732930,
+      "track_number": 1,
+      "title": "Opening",
+      "runtime": 127,
+      "source_mp3": "https://vgmsite.com/soundtracks/ground-master-x68000/ipuhyamc/01_Opening.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ground-master-x68000/01_Opening.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2191523,
+      "track_number": 2,
+      "title": "Field",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/ground-master-x68000/lxcqcbej/02_Field.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ground-master-x68000/02_Field.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1153433,
+      "track_number": 3,
+      "title": "Town",
+      "runtime": 42,
+      "source_mp3": "https://vgmsite.com/soundtracks/ground-master-x68000/jjpusyza/03_Town.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ground-master-x68000/03_Town.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3439329,
+      "track_number": 4,
+      "title": "Tower",
+      "runtime": 109,
+      "source_mp3": "https://vgmsite.com/soundtracks/ground-master-x68000/arhxtdyl/04_Tower.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ground-master-x68000/04_Tower.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2149580,
+      "track_number": 5,
+      "title": "Cave",
+      "runtime": 75,
+      "source_mp3": "https://vgmsite.com/soundtracks/ground-master-x68000/oyzlwvrc/05_Cave.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ground-master-x68000/05_Cave.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1163919,
+      "track_number": 6,
+      "title": "Battle",
+      "runtime": 42,
+      "source_mp3": "https://vgmsite.com/soundtracks/ground-master-x68000/mqumhmnx/06_Battle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ground-master-x68000/06_Battle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5788139,
+      "track_number": 7,
+      "title": "Ending",
+      "runtime": 218,
+      "source_mp3": "https://vgmsite.com/soundtracks/ground-master-x68000/uuumwpmf/07_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ground-master-x68000/07_Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3397386,
+      "track_number": 8,
+      "title": "Staff",
+      "runtime": 103,
+      "source_mp3": "https://vgmsite.com/soundtracks/ground-master-x68000/eqainflb/08_Staff.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ground-master-x68000/08_Staff.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 780,
+    "filesize_mp3_bytes": 23016239,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

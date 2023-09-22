@@ -1,0 +1,78 @@
+{
+  "title": "Hang On",
+  "titles_alternative": [
+    "\u30cf\u30f3\u30b0\u30aa\u30f3"
+  ],
+  "crawled_at": "2023-09-22T11:20:14.119819+00:00",
+  "slug": "hang-on-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hang-on-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/hang-on-master-system/Hang%20On.png"
+  ],
+  "year": 1985,
+  "date_added": "2020-07-10T00:00:00+00:00",
+  "developers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 314572,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/hang-on-master-system/ndpursjplq/01%20-%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hang-on-master-system/ndpursjplq/01%20-%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hang-on-master-system/01%2520-%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 293601,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 2,
+      "title": "Congratulations!",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/hang-on-master-system/agmkshrsjq/02%20-%20Congratulations%21.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hang-on-master-system/agmkshrsjq/02%20-%20Congratulations%21.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hang-on-master-system/02%2520-%2520Congratulations%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 912261,
+      "filesize_mp3_bytes": 293601,
+      "track_number": 3,
+      "title": "Game Over",
+      "runtime": 17,
+      "source_mp3": "https://vgmsite.com/soundtracks/hang-on-master-system/kymrwvvxns/03%20-%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hang-on-master-system/kymrwvvxns/03%20-%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hang-on-master-system/03%2520-%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3764387,
+      "filesize_mp3_bytes": 1331691,
+      "track_number": 4,
+      "title": "Hidden Track",
+      "runtime": 70,
+      "source_mp3": "https://vgmsite.com/soundtracks/hang-on-master-system/sixwnipkvg/04%20-%20Hidden%20Track.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hang-on-master-system/sixwnipkvg/04%20-%20Hidden%20Track.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hang-on-master-system/04%2520-%2520Hidden%2520Track.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 99,
+    "filesize_mp3_bytes": 1835006,
+    "filesize_flac_bytes": 5284821,
+    "tracks": 4
+  }
+}

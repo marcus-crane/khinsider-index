@@ -1,0 +1,42 @@
+{
+  "title": "Goldrunner",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T09:23:01.374108+00:00",
+  "slug": "goldrunner-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/goldrunner-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/goldrunner-amiga/Goldrunner%20%28Amiga%29%20%28gamerip%29%20%281987%29.jpg"
+  ],
+  "year": 1987,
+  "date_added": "2019-06-10T00:00:00+00:00",
+  "developers": {
+    "Microdeal": "https://downloads.khinsider.com/game-soundtracks/developer/microdeal"
+  },
+  "publishers": {
+    "Microdeal": "https://downloads.khinsider.com/game-soundtracks/publisher/microdeal"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6301941,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 206,
+      "source_mp3": "https://vgmsite.com/soundtracks/goldrunner-amiga/nxjpxufqdd/01_Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/goldrunner-amiga/01_Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 206,
+    "filesize_mp3_bytes": 6301941,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

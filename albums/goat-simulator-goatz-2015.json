@@ -1,0 +1,76 @@
+{
+  "title": "Goat Simulator: GoatZ",
+  "titles_alternative": [
+    "Goat Party"
+  ],
+  "crawled_at": "2023-09-22T08:50:56.170118+00:00",
+  "slug": "goat-simulator-goatz-2015",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/goat-simulator-goatz-2015",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios",
+    "Linux": "https://downloads.khinsider.com/game-soundtracks/linux",
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile",
+    "PS3": "https://downloads.khinsider.com/game-soundtracks/playstation-3",
+    "PS4": "https://downloads.khinsider.com/game-soundtracks/playstation-4",
+    "Switch": "https://downloads.khinsider.com/game-soundtracks/nintendo-switch",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows",
+    "Xbox 360": "https://downloads.khinsider.com/game-soundtracks/xbox-360",
+    "Xbox One": "https://downloads.khinsider.com/game-soundtracks/xbox-one"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/goat-simulator-goatz-2015/Cover.jpg"
+  ],
+  "year": 2015,
+  "date_added": "2023-04-12T00:00:00+00:00",
+  "developers": {
+    "Coffee Stain North": "https://downloads.khinsider.com/game-soundtracks/developer/coffee-stain-north"
+  },
+  "publishers": {
+    "Coffee Stain Publishing": "https://downloads.khinsider.com/game-soundtracks/publisher/coffee-stain-publishing",
+    "Coffee Stain Studios": "https://downloads.khinsider.com/game-soundtracks/publisher/coffee-stain-studios",
+    "Double Eleven": "https://downloads.khinsider.com/game-soundtracks/publisher/double-eleven"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 828375,
+      "track_number": 1,
+      "title": "GoatZ Intro",
+      "runtime": 72,
+      "source_mp3": "https://vgmsite.com/soundtracks/goat-simulator-goatz-2015/pilikvvqxa/01.%20GoatZ%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/goat-simulator-goatz-2015/01.%2520GoatZ%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3355443,
+      "track_number": 2,
+      "title": "Z",
+      "runtime": 325,
+      "source_mp3": "https://vgmsite.com/soundtracks/goat-simulator-goatz-2015/rikqgrfygf/02.%20Z.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/goat-simulator-goatz-2015/02.%2520Z.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6029312,
+      "track_number": 3,
+      "title": "Outbreak",
+      "runtime": 592,
+      "source_mp3": "https://vgmsite.com/soundtracks/goat-simulator-goatz-2015/erptqoipkx/03.%20Outbreak.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/goat-simulator-goatz-2015/03.%2520Outbreak.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 989,
+    "filesize_mp3_bytes": 10213130,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

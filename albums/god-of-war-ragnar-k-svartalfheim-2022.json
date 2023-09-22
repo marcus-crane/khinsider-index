@@ -1,0 +1,50 @@
+{
+  "title": "God of War: Ragnar\u00f6k / Svartalfheim",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T09:05:49.408072+00:00",
+  "slug": "god-of-war-ragnar-k-svartalfheim-2022",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/god-of-war-ragnar-k-svartalfheim-2022",
+  "platforms": {
+    "PS4": "https://downloads.khinsider.com/game-soundtracks/playstation-4",
+    "PS5": "https://downloads.khinsider.com/game-soundtracks/playstation-5"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/god-of-war-ragnar-k-svartalfheim-2022/Cover.jpg"
+  ],
+  "year": 2022,
+  "catalog_number": null,
+  "date_added": "2023-05-09T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11450449,
+      "track_number": 1,
+      "title": "God of War - Ragnar\u00f6k",
+      "runtime": 275,
+      "source_mp3": "https://vgmsite.com/soundtracks/god-of-war-ragnar-k-svartalfheim-2022/vwmxeovoss/01.%20God%20of%20War%20-%20Ragnar%C3%B6k.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/god-of-war-ragnar-k-svartalfheim-2022/01.%2520God%2520of%2520War%2520-%2520Ragnar%25C3%25B6k.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 13012828,
+      "track_number": 2,
+      "title": "Svartalfheim",
+      "runtime": 314,
+      "source_mp3": "https://vgmsite.com/soundtracks/god-of-war-ragnar-k-svartalfheim-2022/vwqhrfuorn/02.%20Svartalfheim.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/god-of-war-ragnar-k-svartalfheim-2022/02.%2520Svartalfheim.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 589,
+    "filesize_mp3_bytes": 24463277,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

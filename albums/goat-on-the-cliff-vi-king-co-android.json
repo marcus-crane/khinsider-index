@@ -1,0 +1,54 @@
+{
+  "title": "Goat on the Cliff (Vi-King co)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T08:50:49.086470+00:00",
+  "slug": "goat-on-the-cliff-vi-king-co-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/goat-on-the-cliff-vi-king-co-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/goat-on-the-cliff-vi-king-co-android/screen-0.jpg"
+  ],
+  "date_added": "2018-03-06T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 849346,
+      "title": "BGM_0",
+      "runtime": 53,
+      "source_mp3": "https://vgmsite.com/soundtracks/goat-on-the-cliff-vi-king-co-android/uysfymti/BGM_0.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/goat-on-the-cliff-vi-king-co-android/BGM_0.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 901775,
+      "title": "BGM_1",
+      "runtime": 57,
+      "source_mp3": "https://vgmsite.com/soundtracks/goat-on-the-cliff-vi-king-co-android/jnsdxduh/BGM_1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/goat-on-the-cliff-vi-king-co-android/BGM_1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1069547,
+      "title": "BGM_2",
+      "runtime": 67,
+      "source_mp3": "https://vgmsite.com/soundtracks/goat-on-the-cliff-vi-king-co-android/czowglly/BGM_2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/goat-on-the-cliff-vi-king-co-android/BGM_2.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 177,
+    "filesize_mp3_bytes": 2820668,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

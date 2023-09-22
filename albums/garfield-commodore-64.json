@@ -1,0 +1,92 @@
+{
+  "title": "Garfield - Big Fat Hairy Deal",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T07:38:38.856641+00:00",
+  "slug": "garfield-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/garfield-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/garfield-commodore-64/garfield-big-fat-hairy-deal_1.png"
+  ],
+  "year": 1987,
+  "date_added": "2017-10-05T00:00:00+00:00",
+  "developers": {
+    "The Edge": "https://downloads.khinsider.com/game-soundtracks/developer/the-edge"
+  },
+  "publishers": {
+    "Softek International Ltd.": "https://downloads.khinsider.com/game-soundtracks/publisher/softek-international"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5358223,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 245,
+      "source_mp3": "https://vgmsite.com/soundtracks/garfield-commodore-64/ocoxmyko/01_Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/garfield-commodore-64/01_Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 178257,
+      "track_number": 2,
+      "title": "Appearance",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/garfield-commodore-64/eldxhnfs/02_Appearance.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/garfield-commodore-64/02_Appearance.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 3,
+      "title": "Unknown",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/garfield-commodore-64/pizsjqor/03_Unknown.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/garfield-commodore-64/03_Unknown.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8849981,
+      "track_number": 4,
+      "title": "Main Theme (SID Stereo)",
+      "runtime": 244,
+      "source_mp3": "https://vgmsite.com/soundtracks/garfield-commodore-64/wtmsdhow/04_Main%20Theme%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/garfield-commodore-64/04_Main%2520Theme%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 283115,
+      "track_number": 5,
+      "title": "Appearance (SID Stereo)",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/garfield-commodore-64/tnojfkrq/05_Appearance%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/garfield-commodore-64/05_Appearance%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 209715,
+      "track_number": 6,
+      "title": "Unknown (SID Stereo)",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/garfield-commodore-64/fejpqwwx/06_Unknown%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/garfield-commodore-64/06_Unknown%2520%2528SID%2520Stereo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 521,
+    "filesize_mp3_bytes": 14994634,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

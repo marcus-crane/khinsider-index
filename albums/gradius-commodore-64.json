@@ -1,0 +1,55 @@
+{
+  "title": "Gradius",
+  "titles_alternative": [
+    "Nemesis",
+    "\u30b0\u30e9\u30c7\u30a3\u30a6\u30b9"
+  ],
+  "crawled_at": "2023-09-22T09:36:14.020617+00:00",
+  "slug": "gradius-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/gradius-commodore-64/G1.jpg"
+  ],
+  "year": 1987,
+  "date_added": "2017-06-01T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami"
+  },
+  "publishers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2264924,
+      "track_number": 1,
+      "title": "Beginning of History (SID Stereo)",
+      "runtime": 60,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-commodore-64/kbctsiye/01_Beginning%20of%20History%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-commodore-64/01_Beginning%2520of%2520History%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2684354,
+      "track_number": 2,
+      "title": "Challenger 1985 (SID Stereo)",
+      "runtime": 73,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-commodore-64/ztizgjqg/02_Challenger%201985%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-commodore-64/02_Challenger%25201985%2520%2528SID%2520Stereo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 133,
+    "filesize_mp3_bytes": 4949278,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

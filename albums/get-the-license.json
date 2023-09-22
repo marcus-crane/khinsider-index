@@ -1,0 +1,46 @@
+{
+  "title": "Get the License (\u514d\u8a31\u3092\u53d6\u308d\u3046)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T08:15:43.082772+00:00",
+  "slug": "get-the-license",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/get-the-license",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/get-the-license/coverart.jpg"
+  ],
+  "year": 2000,
+  "date_added": "2022-01-07T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5861539,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 195,
+      "source_mp3": "https://vgmsite.com/soundtracks/get-the-license/bqdfoudwhg/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/get-the-license/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 20321402,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 658,
+      "source_mp3": "https://vgmsite.com/soundtracks/get-the-license/oltinmatfn/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/get-the-license/02.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 853,
+    "filesize_mp3_bytes": 26182941,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

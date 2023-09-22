@@ -1,0 +1,508 @@
+{
+  "title": "Gradius (SCC)",
+  "titles_alternative": [
+    "Nemesis",
+    "\u30b0\u30e9\u30c7\u30a3\u30a6\u30b9"
+  ],
+  "crawled_at": "2023-09-22T09:38:01.246283+00:00",
+  "slug": "gradius-msx-scc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc",
+  "platforms": {
+    "MSX": "https://downloads.khinsider.com/game-soundtracks/msx"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/gradius-msx-scc/G1.jpg"
+  ],
+  "year": 1986,
+  "date_added": "2020-09-11T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami"
+  },
+  "publishers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1174405,
+      "filesize_mp3_bytes": 408944,
+      "track_number": 1,
+      "title": "Star Battle",
+      "runtime": 23,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/pvogzfpbgb/01%20Star%20Battle.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/pvogzfpbgb/01%20Star%20Battle.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/01%2520Star%2520Battle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1730150,
+      "filesize_mp3_bytes": 681574,
+      "track_number": 2,
+      "title": "Beginning of History",
+      "runtime": 33,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/tvnbqpexbn/02%20Beginning%20of%20History.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/tvnbqpexbn/02%20Beginning%20of%20History.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/02%2520Beginning%2520of%2520History.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2369781,
+      "filesize_mp3_bytes": 943718,
+      "track_number": 3,
+      "title": "Challenger 1985 (stage 1)",
+      "runtime": 44,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/xajohsuhey/03%20Challenger%201985%20%28stage%201%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/xajohsuhey/03%20Challenger%201985%20%28stage%201%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/03%2520Challenger%25201985%2520%2528stage%25201%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2317352,
+      "filesize_mp3_bytes": 922746,
+      "track_number": 4,
+      "title": "Beat Back (stage 2)",
+      "runtime": 45,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/tvmtngaook/04%20Beat%20Back%20%28stage%202%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/tvmtngaook/04%20Beat%20Back%20%28stage%202%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/04%2520Beat%2520Back%2520%2528stage%25202%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2569011,
+      "filesize_mp3_bytes": 996147,
+      "track_number": 5,
+      "title": "Blank Mask (stage 3)",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/bufaqskymw/05%20Blank%20Mask%20%28stage%203%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/bufaqskymw/05%20Blank%20Mask%20%28stage%203%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/05%2520Blank%2520Mask%2520%2528stage%25203%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2348810,
+      "filesize_mp3_bytes": 933232,
+      "track_number": 6,
+      "title": "Free Flyer (stage 4)",
+      "runtime": 45,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/ntagvqoire/06%20Free%20Flyer%20%28stage%204%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/ntagvqoire/06%20Free%20Flyer%20%28stage%204%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/06%2520Free%2520Flyer%2520%2528stage%25204%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2998927,
+      "filesize_mp3_bytes": 1163919,
+      "track_number": 7,
+      "title": "Space Graveyard (stage 5)",
+      "runtime": 55,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/veyahmzezk/07%20Space%20Graveyard%20%28stage%205%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/veyahmzezk/07%20Space%20Graveyard%20%28stage%205%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/07%2520Space%2520Graveyard%2520%2528stage%25205%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3051356,
+      "filesize_mp3_bytes": 1153433,
+      "track_number": 8,
+      "title": "Mazed Music (stage 6)",
+      "runtime": 56,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/gouxzujjhd/08%20Mazed%20Music%20%28stage%206%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/gouxzujjhd/08%20Mazed%20Music%20%28stage%206%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/08%2520Mazed%2520Music%2520%2528stage%25206%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3816816,
+      "filesize_mp3_bytes": 1499463,
+      "track_number": 9,
+      "title": "Mechanical Globule (stage 7)",
+      "runtime": 70,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/afozxxgrti/09%20Mechanical%20Globule%20%28stage%207%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/afozxxgrti/09%20Mechanical%20Globule%20%28stage%207%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/09%2520Mechanical%2520Globule%2520%2528stage%25207%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2642411,
+      "filesize_mp3_bytes": 1038090,
+      "track_number": 10,
+      "title": "Final Attack (stage 8)",
+      "runtime": 50,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/cyrmdxjtuy/10%20Final%20Attack%20%28stage%208%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/cyrmdxjtuy/10%20Final%20Attack%20%28stage%208%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/10%2520Final%2520Attack%2520%2528stage%25208%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4697620,
+      "filesize_mp3_bytes": 1876951,
+      "track_number": 11,
+      "title": "Bonus Stage",
+      "runtime": 85,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/luknjxnbyo/11%20Bonus%20Stage.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/luknjxnbyo/11%20Bonus%20Stage.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/11%2520Bonus%2520Stage.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2527068,
+      "filesize_mp3_bytes": 1017118,
+      "track_number": 12,
+      "title": "Aircraft Carrier - Boss",
+      "runtime": 47,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/vhtbkhhpbg/12%20Aircraft%20Carrier%20-%20Boss.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/vhtbkhhpbg/12%20Aircraft%20Carrier%20-%20Boss.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/12%2520Aircraft%2520Carrier%2520-%2520Boss.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 293601,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 13,
+      "title": "Game Over",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/lgvoyvwsuu/13%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/lgvoyvwsuu/13%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/13%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2527068,
+      "filesize_mp3_bytes": 912261,
+      "track_number": 14,
+      "title": "Victory",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/qufccplekh/14%20Victory.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/qufccplekh/14%20Victory.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/14%2520Victory.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 31457,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 15,
+      "title": "Shot",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/vlhxfhgbbc/15%20Shot.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/vlhxfhgbbc/15%20Shot.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/15%2520Shot.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 31457,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 16,
+      "title": "02",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/yzzttvmjlm/16%2002.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/yzzttvmjlm/16%2002.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/16%252002.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 41943,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 17,
+      "title": "Laser",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/bheyilfqtz/17%20Laser.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/bheyilfqtz/17%20Laser.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/17%2520Laser.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20971,
+      "filesize_mp3_bytes": 10485,
+      "track_number": 18,
+      "title": "04",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/rxqlsphmlw/18%2004.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/rxqlsphmlw/18%2004.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/18%252004.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10485,
+      "filesize_mp3_bytes": 10485,
+      "track_number": 19,
+      "title": "05",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/eipfwjfkoj/19%2005.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/eipfwjfkoj/19%2005.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/19%252005.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20971,
+      "filesize_mp3_bytes": 10485,
+      "track_number": 20,
+      "title": "Hard cover hit",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/tklcgwrhgt/20%20Hard%20cover%20hit.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/tklcgwrhgt/20%20Hard%20cover%20hit.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/20%2520Hard%2520cover%2520hit.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 31457,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 21,
+      "title": "07",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/rdihhulaik/21%2007.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/rdihhulaik/21%2007.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/21%252007.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20971,
+      "filesize_mp3_bytes": 10485,
+      "track_number": 22,
+      "title": "Small enemy destroyed",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/zhiumeevwj/22%20Small%20enemy%20destroyed.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/zhiumeevwj/22%20Small%20enemy%20destroyed.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/22%2520Small%2520enemy%2520destroyed.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 31457,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 23,
+      "title": "Medium enemy destroyed",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/vpxczkfdwo/23%20Medium%20enemy%20destroyed.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/vpxczkfdwo/23%20Medium%20enemy%20destroyed.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/23%2520Medium%2520enemy%2520destroyed.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 73400,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 24,
+      "title": "Large enemy destroyed",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/iquszoovnd/24%20Large%20enemy%20destroyed.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/iquszoovnd/24%20Large%20enemy%20destroyed.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/24%2520Large%2520enemy%2520destroyed.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 94371,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 25,
+      "title": "Huge enemy destroyed",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/ykhwyqfilv/25%20Huge%20enemy%20destroyed.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/ykhwyqfilv/25%20Huge%20enemy%20destroyed.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/25%2520Huge%2520enemy%2520destroyed.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 115343,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 26,
+      "title": "Vic viper destroyed",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/cwogwvuepg/26%20Vic%20viper%20destroyed.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/cwogwvuepg/26%20Vic%20viper%20destroyed.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/26%2520Vic%2520viper%2520destroyed.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 31457,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 27,
+      "title": "09",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/oogztdeqan/27%2009.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/oogztdeqan/27%2009.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/27%252009.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 31457,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 28,
+      "title": "Bone hit",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/asdyoflbkg/28%20Bone%20hit.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/asdyoflbkg/28%20Bone%20hit.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/28%2520Bone%2520hit.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 41943,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 29,
+      "title": "0C",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/ksyhverlzx/29%200C.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/ksyhverlzx/29%200C.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/29%25200C.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20971,
+      "filesize_mp3_bytes": 10485,
+      "track_number": 30,
+      "title": "0D",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/mweqrvlrma/30%200D.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/mweqrvlrma/30%200D.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/30%25200D.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 62914,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 31,
+      "title": "0E",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/jwxtlpmfmo/31%200E.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/jwxtlpmfmo/31%200E.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/31%25200E.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 52428,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 32,
+      "title": "0F",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/cnzrynqpwv/32%200F.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/cnzrynqpwv/32%200F.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/32%25200F.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 41943,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 33,
+      "title": "Bonus capsule",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/ywnphkassx/33%20Bonus%20capsule.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/ywnphkassx/33%20Bonus%20capsule.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/33%2520Bonus%2520capsule.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 31457,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 34,
+      "title": "Weapon capsule",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/zvyuuduxxf/34%20Weapon%20capsule.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/zvyuuduxxf/34%20Weapon%20capsule.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/34%2520Weapon%2520capsule.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 73400,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 35,
+      "title": "Mega Bomb capsule",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/tdvxyzpexd/35%20Mega%20Bomb%20capsule.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/tdvxyzpexd/35%20Mega%20Bomb%20capsule.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/35%2520Mega%2520Bomb%2520capsule.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 62914,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 36,
+      "title": "Weapon Activated",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/hnyzemimlo/36%20Weapon%20Activated.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/hnyzemimlo/36%20Weapon%20Activated.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/36%2520Weapon%2520Activated.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 62914,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 37,
+      "title": "15",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/zzbalmlvzc/37%2015.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/zzbalmlvzc/37%2015.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/37%252015.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 461373,
+      "filesize_mp3_bytes": 167772,
+      "track_number": 38,
+      "title": "Bacterion Mother Ship",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/mfrtbijlax/38%20Bacterion%20Mother%20Ship.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/mfrtbijlax/38%20Bacterion%20Mother%20Ship.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/38%2520Bacterion%2520Mother%2520Ship.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 94371,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 39,
+      "title": "Big core implosion",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/txljpqnyne/39%20Big%20core%20implosion.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/txljpqnyne/39%20Big%20core%20implosion.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/39%2520Big%2520core%2520implosion.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 241172,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 40,
+      "title": "Cyberbrain Death",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/kyamdehxwv/40%20Cyberbrain%20Death.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/kyamdehxwv/40%20Cyberbrain%20Death.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/40%2520Cyberbrain%2520Death.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 136314,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 41,
+      "title": "Warp",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/rynnxgphdo/41%20Warp.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/rynnxgphdo/41%20Warp.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/41%2520Warp.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 178257,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 42,
+      "title": "Return to Gradius",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/xcgjbntyoe/42%20Return%20to%20Gradius.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/xcgjbntyoe/42%20Return%20to%20Gradius.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/42%2520Return%2520to%2520Gradius.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 125829,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 43,
+      "title": "47",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/gradius-msx-scc/lvsuztpbsz/43%2047.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gradius-msx-scc/lvsuztpbsz/43%2047.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gradius-msx-scc/43%252047.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 722,
+    "filesize_mp3_bytes": 14742958,
+    "filesize_flac_bytes": 37339773,
+    "tracks": 43
+  }
+}

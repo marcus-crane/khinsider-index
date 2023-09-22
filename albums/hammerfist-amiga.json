@@ -1,0 +1,102 @@
+{
+  "title": "Hammerfist",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T11:13:52.895895+00:00",
+  "slug": "hammerfist-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hammerfist-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/hammerfist-amiga/Hammerfist.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2017-06-13T00:00:00+00:00",
+  "developers": {
+    "Vivid Image": "https://downloads.khinsider.com/game-soundtracks/developer/vivid-image"
+  },
+  "publishers": {
+    "Activision": "https://downloads.khinsider.com/game-soundtracks/publisher/activision"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4739563,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 174,
+      "source_mp3": "https://vgmsite.com/soundtracks/hammerfist-amiga/ilpqdhlv/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hammerfist-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3072327,
+      "track_number": 2,
+      "title": "Stage BGM #01",
+      "runtime": 116,
+      "source_mp3": "https://vgmsite.com/soundtracks/hammerfist-amiga/oaxaomrw/02_Stage%20BGM%20%2301.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hammerfist-amiga/02_Stage%2520BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3103784,
+      "track_number": 3,
+      "title": "Stage BGM #02",
+      "runtime": 116,
+      "source_mp3": "https://vgmsite.com/soundtracks/hammerfist-amiga/rpylebow/03_Stage%20BGM%20%2302.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hammerfist-amiga/03_Stage%2520BGM%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4435476,
+      "track_number": 4,
+      "title": "Ending",
+      "runtime": 167,
+      "source_mp3": "https://vgmsite.com/soundtracks/hammerfist-amiga/samrfhiu/04_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hammerfist-amiga/04_Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3051356,
+      "track_number": 5,
+      "title": "Hall of Fame",
+      "runtime": 116,
+      "source_mp3": "https://vgmsite.com/soundtracks/hammerfist-amiga/estdzbms/05_Hall%20of%20Fame.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hammerfist-amiga/05_Hall%2520of%2520Fame.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 346030,
+      "track_number": 6,
+      "title": "Continue",
+      "runtime": 14,
+      "source_mp3": "https://vgmsite.com/soundtracks/hammerfist-amiga/mjniqdkv/06_Continue.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hammerfist-amiga/06_Continue.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 209715,
+      "track_number": 7,
+      "title": "Game Over",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/hammerfist-amiga/lgmjynvz/07_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hammerfist-amiga/07_Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 712,
+    "filesize_mp3_bytes": 18958251,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "title": "Game no Kandzume Otokuyou",
+  "titles_alternative": [
+    "\u30b2\u30fc\u30e0\u306e\u304b\u3093\u3065\u3081 \u304a\u5fb3\u7528"
+  ],
+  "crawled_at": "2023-09-22T07:16:09.175283+00:00",
+  "slug": "game-no-kandzume-otokuyou-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/game-no-kandzume-otokuyou-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/game-no-kandzume-otokuyou-genesis/G1.jpg"
+  ],
+  "year": 1995,
+  "date_added": "2020-03-09T00:00:00+00:00",
+  "developers": {
+    "CSK Research Institute": "https://downloads.khinsider.com/game-soundtracks/developer/csk-research-institute",
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 13568573,
+      "filesize_mp3_bytes": 3732930,
+      "track_number": 1,
+      "title": "Main Menu",
+      "runtime": 113,
+      "source_mp3": "https://vgmsite.com/soundtracks/game-no-kandzume-otokuyou-genesis/puvoxfoebq/01%20-%20Main%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/game-no-kandzume-otokuyou-genesis/puvoxfoebq/01%20-%20Main%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/game-no-kandzume-otokuyou-genesis/01%2520-%2520Main%2520Menu.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 113,
+    "filesize_mp3_bytes": 3732930,
+    "filesize_flac_bytes": 13568573,
+    "tracks": 1
+  }
+}

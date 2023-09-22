@@ -1,0 +1,81 @@
+{
+  "title": "Habitat Original Soundtrack",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T10:56:48.775217+00:00",
+  "slug": "habitat-ost",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/habitat-ost",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/habitat-ost/folder.jpg"
+  ],
+  "year": 2016,
+  "catalog_number": null,
+  "date_added": "2020-12-30T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Alexander Brandon (Bandcamp)": "https://downloads.khinsider.com/game-soundtracks/publisher/alexander-brandon-bandcamp"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1929379,
+      "track_number": 1,
+      "title": "Title Theme",
+      "runtime": 103,
+      "source_mp3": "https://vgmsite.com/soundtracks/habitat-ost/mmzrmkqceo/01%20Title%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/habitat-ost/01%2520Title%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3166699,
+      "track_number": 2,
+      "title": "Ring One (Live)",
+      "runtime": 181,
+      "source_mp3": "https://vgmsite.com/soundtracks/habitat-ost/rdzxfewthc/02%20Ring%20One%20%28Live%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/habitat-ost/02%2520Ring%2520One%2520%2528Live%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3156213,
+      "track_number": 3,
+      "title": "Ring One Battle",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/habitat-ost/ckavzhwaoi/03%20Ring%20One%20Battle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/habitat-ost/03%2520Ring%2520One%2520Battle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3166699,
+      "track_number": 4,
+      "title": "Something From Nothing",
+      "runtime": 181,
+      "source_mp3": "https://vgmsite.com/soundtracks/habitat-ost/xoaedrycgp/04%20Something%20From%20Nothing.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/habitat-ost/04%2520Something%2520From%2520Nothing.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2034237,
+      "track_number": 5,
+      "title": "Orbital Survival",
+      "runtime": 109,
+      "source_mp3": "https://vgmsite.com/soundtracks/habitat-ost/qyxpfkzsxl/05%20Orbital%20Survival.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/habitat-ost/05%2520Orbital%2520Survival.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 754,
+    "filesize_mp3_bytes": 13453227,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "title": "Ghostbusters 2",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T08:23:27.375976+00:00",
+  "slug": "ghostbusters-2-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ghostbusters-2-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ghostbusters-2-nes/Ghostbusters%202.jpg"
+  ],
+  "date_added": "2020-10-31T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5138022,
+      "track_number": 1,
+      "title": "Ghostbusters_Theme",
+      "runtime": 255,
+      "source_mp3": "https://vgmsite.com/soundtracks/ghostbusters-2-nes/zxhpqtpdpf/01%20-%20Ghostbusters_Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ghostbusters-2-nes/01%2520-%2520Ghostbusters_Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 870318,
+      "track_number": 2,
+      "title": "Prince Vigo",
+      "runtime": 40,
+      "source_mp3": "https://vgmsite.com/soundtracks/ghostbusters-2-nes/pvmcydtbfl/02%20-%20Prince%20Vigo.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ghostbusters-2-nes/02%2520-%2520Prince%2520Vigo.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1279262,
+      "track_number": 3,
+      "title": "Player Select",
+      "runtime": 69,
+      "source_mp3": "https://vgmsite.com/soundtracks/ghostbusters-2-nes/jsviglvvgj/03%20-%20Player%20Select.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ghostbusters-2-nes/03%2520-%2520Player%2520Select.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1572864,
+      "track_number": 4,
+      "title": "Ecto-1 Stage",
+      "runtime": 83,
+      "source_mp3": "https://vgmsite.com/soundtracks/ghostbusters-2-nes/biibqxljyx/04%20-%20Ecto-1%20Stage.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ghostbusters-2-nes/04%2520-%2520Ecto-1%2520Stage.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3858759,
+      "track_number": 5,
+      "title": "Higher and Higher",
+      "runtime": 191,
+      "source_mp3": "https://vgmsite.com/soundtracks/ghostbusters-2-nes/olojboxwoi/05%20-%20Higher%20and%20Higher.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ghostbusters-2-nes/05%2520-%2520Higher%2520and%2520Higher.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 618659,
+      "track_number": 6,
+      "title": "Auld Lang Syne",
+      "runtime": 32,
+      "source_mp3": "https://vgmsite.com/soundtracks/ghostbusters-2-nes/zcchjfkomf/06%20-%20Auld%20Lang%20Syne.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ghostbusters-2-nes/06%2520-%2520Auld%2520Lang%2520Syne.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 670,
+    "filesize_mp3_bytes": 13337884,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

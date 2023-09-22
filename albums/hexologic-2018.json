@@ -1,0 +1,102 @@
+{
+  "title": "Hexologic",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T12:11:43.828914+00:00",
+  "slug": "hexologic-2018",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hexologic-2018",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios",
+    "Switch": "https://downloads.khinsider.com/game-soundtracks/nintendo-switch",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/hexologic-2018/cover.jpg"
+  ],
+  "year": 2018,
+  "catalog_number": null,
+  "date_added": "2020-05-02T00:00:00+00:00",
+  "developers": {
+    "MythicOwl": "https://downloads.khinsider.com/game-soundtracks/developer/mythicowl"
+  },
+  "publishers": {
+    "MythicOwl": "https://downloads.khinsider.com/game-soundtracks/publisher/mythicowl"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 21600665,
+      "filesize_mp3_bytes": 10894704,
+      "track_number": 1,
+      "title": "The Deep Ocean",
+      "runtime": 336,
+      "source_mp3": "https://vgmsite.com/soundtracks/hexologic-2018/aatyvzkdqr/01%20The%20Deep%20Ocean.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hexologic-2018/aatyvzkdqr/01%20The%20Deep%20Ocean.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hexologic-2018/01%2520The%2520Deep%2520Ocean.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 30136074,
+      "filesize_mp3_bytes": 11586764,
+      "track_number": 2,
+      "title": "The Jungle",
+      "runtime": 336,
+      "source_mp3": "https://vgmsite.com/soundtracks/hexologic-2018/smepxxghhf/02%20The%20Jungle.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hexologic-2018/smepxxghhf/02%20The%20Jungle.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hexologic-2018/02%2520The%2520Jungle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 32180797,
+      "filesize_mp3_bytes": 11943280,
+      "track_number": 3,
+      "title": "The Desert",
+      "runtime": 336,
+      "source_mp3": "https://vgmsite.com/soundtracks/hexologic-2018/yrxvrrghkc/03%20The%20Desert.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hexologic-2018/yrxvrrghkc/03%20The%20Desert.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hexologic-2018/03%2520The%2520Desert.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 26361200,
+      "filesize_mp3_bytes": 11670650,
+      "track_number": 4,
+      "title": "The Sky City",
+      "runtime": 336,
+      "source_mp3": "https://vgmsite.com/soundtracks/hexologic-2018/itoioinrsn/04%20The%20Sky%20City.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hexologic-2018/itoioinrsn/04%20The%20Sky%20City.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hexologic-2018/04%2520The%2520Sky%2520City.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 30618419,
+      "filesize_mp3_bytes": 12761169,
+      "track_number": 5,
+      "title": "The Outer Space",
+      "runtime": 355,
+      "source_mp3": "https://vgmsite.com/soundtracks/hexologic-2018/oftukwnmew/05%20The%20Outer%20Space.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hexologic-2018/oftukwnmew/05%20The%20Outer%20Space.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hexologic-2018/05%2520The%2520Outer%2520Space.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 36091985,
+      "filesize_mp3_bytes": 12666798,
+      "track_number": 6,
+      "title": "The Planet",
+      "runtime": 354,
+      "source_mp3": "https://vgmsite.com/soundtracks/hexologic-2018/fcoggjucat/06%20The%20Planet.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hexologic-2018/fcoggjucat/06%20The%20Planet.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hexologic-2018/06%2520The%2520Planet.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2053,
+    "filesize_mp3_bytes": 71523365,
+    "filesize_flac_bytes": 176989140,
+    "tracks": 6
+  }
+}

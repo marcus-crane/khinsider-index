@@ -1,0 +1,66 @@
+{
+  "title": "Gensokyo no Kokuu Koi Souki",
+  "titles_alternative": [
+    "\u5e7b\u60f3\u90f7\u306e\u865a\u7a7a\u604b\u594f\u7d00"
+  ],
+  "crawled_at": "2023-09-22T08:11:00.184079+00:00",
+  "slug": "gensokyo-no-kokuu-koi-souki-2017",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/gensokyo-no-kokuu-koi-souki-2017",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/gensokyo-no-kokuu-koi-souki-2017/Cover.jpg"
+  ],
+  "year": 2017,
+  "catalog_number": null,
+  "date_added": "2021-05-12T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "JAGMO": "https://downloads.khinsider.com/game-soundtracks/publisher/jagmo"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 31279022,
+      "filesize_mp3_bytes": 10926161,
+      "track_number": 1,
+      "title": "Bloom Nobly, Ink-Black Cherry Blossom ~ Border of Life",
+      "runtime": 331,
+      "source_mp3": "https://vgmsite.com/soundtracks/gensokyo-no-kokuu-koi-souki-2017/yrkvlncyhd/01.%20Bloom%20Nobly%2C%20Ink-Black%20Cherry%20Blossom%20~%20Border%20of%20Life.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gensokyo-no-kokuu-koi-souki-2017/yrkvlncyhd/01.%20Bloom%20Nobly%2C%20Ink-Black%20Cherry%20Blossom%20~%20Border%20of%20Life.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gensokyo-no-kokuu-koi-souki-2017/01.%2520Bloom%2520Nobly%252C%2520Ink-Black%2520Cherry%2520Blossom%2520~%2520Border%2520of%2520Life.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 24589107,
+      "filesize_mp3_bytes": 8640266,
+      "track_number": 2,
+      "title": "Satori Maiden ~ 3rd eye",
+      "runtime": 255,
+      "source_mp3": "https://vgmsite.com/soundtracks/gensokyo-no-kokuu-koi-souki-2017/mxjqugjrpa/02.%20Satori%20Maiden%20~%203rd%20eye.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gensokyo-no-kokuu-koi-souki-2017/mxjqugjrpa/02.%20Satori%20Maiden%20~%203rd%20eye.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gensokyo-no-kokuu-koi-souki-2017/02.%2520Satori%2520Maiden%2520~%25203rd%2520eye.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 21841838,
+      "filesize_mp3_bytes": 7811891,
+      "track_number": 3,
+      "title": "Pure Furies ~ Whereabouts of the Heart",
+      "runtime": 237,
+      "source_mp3": "https://vgmsite.com/soundtracks/gensokyo-no-kokuu-koi-souki-2017/gauatykxgg/03.%20Pure%20Furies%20~%20Whereabouts%20of%20the%20Heart.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gensokyo-no-kokuu-koi-souki-2017/gauatykxgg/03.%20Pure%20Furies%20~%20Whereabouts%20of%20the%20Heart.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gensokyo-no-kokuu-koi-souki-2017/03.%2520Pure%2520Furies%2520~%2520Whereabouts%2520of%2520the%2520Heart.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 823,
+    "filesize_mp3_bytes": 27378318,
+    "filesize_flac_bytes": 77709967,
+    "tracks": 3
+  }
+}

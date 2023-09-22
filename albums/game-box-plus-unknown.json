@@ -1,0 +1,61 @@
+{
+  "title": "Game Box Plus",
+  "titles_alternative": [
+    "Sup Game Box Plus"
+  ],
+  "crawled_at": "2023-09-22T07:09:33.287251+00:00",
+  "slug": "game-box-plus-unknown",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/game-box-plus-unknown",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/game-box-plus-unknown/cover.jpg"
+  ],
+  "date_added": "2023-01-24T00:00:00+00:00",
+  "developers": {
+    "Sup": "https://downloads.khinsider.com/game-soundtracks/developer/sup"
+  },
+  "publishers": {
+    "Sup": "https://downloads.khinsider.com/game-soundtracks/publisher/sup"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2956984,
+      "title": "Chinese Menu",
+      "runtime": 90,
+      "source_mp3": "https://vgmsite.com/soundtracks/game-box-plus-unknown/jdjnaymhxz/Chinese%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/game-box-plus-unknown/Chinese%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2191523,
+      "title": "Language Select",
+      "runtime": 68,
+      "source_mp3": "https://vgmsite.com/soundtracks/game-box-plus-unknown/ojcucbtdlj/Language%20Select.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/game-box-plus-unknown/Language%2520Select.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 104857,
+      "title": "Moving Through Menus",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/game-box-plus-unknown/qjootblxyu/Moving%20Through%20Menus.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/game-box-plus-unknown/Moving%2520Through%2520Menus.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 161,
+    "filesize_mp3_bytes": 5253364,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

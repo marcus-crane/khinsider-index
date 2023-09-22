@@ -1,0 +1,54 @@
+{
+  "title": "Game & Watch - Parachute (Homebrew)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T07:23:30.765277+00:00",
+  "slug": "game-watch-parachute-homebrew-genesis-gamerip-2020",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/game-watch-parachute-homebrew-genesis-gamerip-2020",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/game-watch-parachute-homebrew-genesis-gamerip-2020/Game%20%26%20Watch%20-%20Parachute%20%28Sega%20Genesis%29%20Title%20Screen.png"
+  ],
+  "year": 2020,
+  "date_added": "2023-07-29T00:00:00+00:00",
+  "developers": {
+    "Javi S\u00e1ez": "https://downloads.khinsider.com/game-soundtracks/developer/javis-ez"
+  },
+  "publishers": {
+    "Javi S\u00e1ez": "https://downloads.khinsider.com/game-soundtracks/publisher/javis-ez"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 88038440,
+      "filesize_mp3_bytes": 16536043,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 475,
+      "source_mp3": "https://vgmsite.com/soundtracks/game-watch-parachute-homebrew-genesis-gamerip-2020/slyqhzurib/01.%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/game-watch-parachute-homebrew-genesis-gamerip-2020/slyqhzurib/01.%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/game-watch-parachute-homebrew-genesis-gamerip-2020/01.%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20237516,
+      "filesize_mp3_bytes": 3292528,
+      "track_number": 2,
+      "title": "Unused (sonic1.vgm)",
+      "runtime": 101,
+      "source_mp3": "https://vgmsite.com/soundtracks/game-watch-parachute-homebrew-genesis-gamerip-2020/wvgybqcaoj/02.%20Unused%20%28sonic1.vgm%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/game-watch-parachute-homebrew-genesis-gamerip-2020/wvgybqcaoj/02.%20Unused%20%28sonic1.vgm%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/game-watch-parachute-homebrew-genesis-gamerip-2020/02.%2520Unused%2520%2528sonic1.vgm%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 576,
+    "filesize_mp3_bytes": 19828571,
+    "filesize_flac_bytes": 108275956,
+    "tracks": 2
+  }
+}

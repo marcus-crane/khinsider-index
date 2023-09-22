@@ -1,0 +1,54 @@
+{
+  "title": "Gloom",
+  "titles_alternative": [
+    "Gloom Deluxe"
+  ],
+  "crawled_at": "2023-09-22T08:45:41.277454+00:00",
+  "slug": "gloom-amiga-gamerip-1995",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/gloom-amiga-gamerip-1995",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/gloom-amiga-gamerip-1995/Cover.jpg"
+  ],
+  "year": 1995,
+  "date_added": "2023-07-20T00:00:00+00:00",
+  "developers": {
+    "Black Magic Software": "https://downloads.khinsider.com/game-soundtracks/developer/black-magic-software"
+  },
+  "publishers": {
+    "Guildhall Leisure Services": "https://downloads.khinsider.com/game-soundtracks/publisher/guildhall-leisure-services"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10779361,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 333,
+      "source_mp3": "https://vgmsite.com/soundtracks/gloom-amiga-gamerip-1995/cltqzdirns/01.%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gloom-amiga-gamerip-1995/01.%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1069547,
+      "track_number": 2,
+      "title": "Briefing",
+      "runtime": 34,
+      "source_mp3": "https://vgmsite.com/soundtracks/gloom-amiga-gamerip-1995/lsyynzvpad/02.%20Briefing.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gloom-amiga-gamerip-1995/02.%2520Briefing.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 367,
+    "filesize_mp3_bytes": 11848908,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

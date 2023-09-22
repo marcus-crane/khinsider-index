@@ -1,0 +1,112 @@
+{
+  "title": "Guardian",
+  "titles_alternative": [
+    "Get Star",
+    "\u30b2\u30c3\u30c8\u30b9\u30bf\u30fc"
+  ],
+  "crawled_at": "2023-09-22T10:21:27.049047+00:00",
+  "slug": "guardian-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/guardian-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/guardian-arcade/G1.jpg"
+  ],
+  "year": 1986,
+  "date_added": "2022-04-28T00:00:00+00:00",
+  "developers": {
+    "Toaplan": "https://downloads.khinsider.com/game-soundtracks/developer/toaplan"
+  },
+  "publishers": {
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/publisher/taito"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 52428,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 1,
+      "title": "Coin",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/guardian-arcade/snxpblkfro/01%20Coin.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/guardian-arcade/snxpblkfro/01%20Coin.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/guardian-arcade/01%2520Coin.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5431623,
+      "filesize_mp3_bytes": 2631925,
+      "track_number": 2,
+      "title": "Start ~ Main Theme",
+      "runtime": 134,
+      "source_mp3": "https://vgmsite.com/soundtracks/guardian-arcade/cyiwqtspms/02%20Start%20~%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/guardian-arcade/cyiwqtspms/02%20Start%20~%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/guardian-arcade/02%2520Start%2520~%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5232394,
+      "filesize_mp3_bytes": 2548039,
+      "track_number": 3,
+      "title": "Restart ~ Main Theme",
+      "runtime": 130,
+      "source_mp3": "https://vgmsite.com/soundtracks/guardian-arcade/gcopdyzbsq/03%20Restart%20~%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/guardian-arcade/gcopdyzbsq/03%20Restart%20~%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/guardian-arcade/03%2520Restart%2520~%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2956984,
+      "filesize_mp3_bytes": 1352663,
+      "track_number": 4,
+      "title": "Boss",
+      "runtime": 75,
+      "source_mp3": "https://vgmsite.com/soundtracks/guardian-arcade/qfrlsrkafk/04%20Boss.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/guardian-arcade/qfrlsrkafk/04%20Boss.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/guardian-arcade/04%2520Boss.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 115343,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 5,
+      "title": "Game Over",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/guardian-arcade/femvmnhqnr/05%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/guardian-arcade/femvmnhqnr/05%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/guardian-arcade/05%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1509949,
+      "filesize_mp3_bytes": 681574,
+      "track_number": 6,
+      "title": "Name Entry",
+      "runtime": 33,
+      "source_mp3": "https://vgmsite.com/soundtracks/guardian-arcade/dkwxvfzhny/06%20Name%20Entry.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/guardian-arcade/dkwxvfzhny/06%20Name%20Entry.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/guardian-arcade/06%2520Name%2520Entry.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1478492,
+      "filesize_mp3_bytes": 713031,
+      "track_number": 7,
+      "title": "Continue",
+      "runtime": 32,
+      "source_mp3": "https://vgmsite.com/soundtracks/guardian-arcade/kkruaqsats/07%20Continue.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/guardian-arcade/kkruaqsats/07%20Continue.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/guardian-arcade/07%2520Continue.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 409,
+    "filesize_mp3_bytes": 8000632,
+    "filesize_flac_bytes": 16777213,
+    "tracks": 7
+  }
+}

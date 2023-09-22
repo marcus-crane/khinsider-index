@@ -1,0 +1,102 @@
+{
+  "title": "Hokuto no Ken",
+  "titles_alternative": [
+    "Fist of the North Star",
+    "\u5317\u6597\u306e\u62f3"
+  ],
+  "crawled_at": "2023-09-22T12:31:17.604099+00:00",
+  "slug": "hokuto-no-ken-family-computer",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hokuto-no-ken-family-computer",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/hokuto-no-ken-family-computer/H1.jpg"
+  ],
+  "year": 1986,
+  "date_added": "2022-05-05T00:00:00+00:00",
+  "developers": {
+    "Shouei System": "https://downloads.khinsider.com/game-soundtracks/developer/shouei-system"
+  },
+  "publishers": {
+    "Toei Animation": "https://downloads.khinsider.com/game-soundtracks/publisher/toei-animation"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1310720,
+      "filesize_mp3_bytes": 734003,
+      "track_number": 1,
+      "title": "BGM 1",
+      "runtime": 36,
+      "source_mp3": "https://vgmsite.com/soundtracks/hokuto-no-ken-family-computer/vlmfrbkglc/01%20BGM%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hokuto-no-ken-family-computer/vlmfrbkglc/01%20BGM%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hokuto-no-ken-family-computer/01%2520BGM%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 975175,
+      "filesize_mp3_bytes": 650117,
+      "track_number": 2,
+      "title": "BGM 2",
+      "runtime": 29,
+      "source_mp3": "https://vgmsite.com/soundtracks/hokuto-no-ken-family-computer/gwlbacbivg/02%20BGM%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hokuto-no-ken-family-computer/gwlbacbivg/02%20BGM%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hokuto-no-ken-family-computer/02%2520BGM%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1331691,
+      "filesize_mp3_bytes": 765460,
+      "track_number": 3,
+      "title": "BGM 3",
+      "runtime": 36,
+      "source_mp3": "https://vgmsite.com/soundtracks/hokuto-no-ken-family-computer/sdkeoysdwm/03%20BGM%203.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hokuto-no-ken-family-computer/sdkeoysdwm/03%20BGM%203.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hokuto-no-ken-family-computer/03%2520BGM%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1310720,
+      "filesize_mp3_bytes": 734003,
+      "track_number": 4,
+      "title": "BGM 4",
+      "runtime": 36,
+      "source_mp3": "https://vgmsite.com/soundtracks/hokuto-no-ken-family-computer/gaxgzkwbys/04%20BGM%204.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hokuto-no-ken-family-computer/gaxgzkwbys/04%20BGM%204.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hokuto-no-ken-family-computer/04%2520BGM%25204.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1237319,
+      "filesize_mp3_bytes": 723517,
+      "track_number": 5,
+      "title": "BGM 5",
+      "runtime": 36,
+      "source_mp3": "https://vgmsite.com/soundtracks/hokuto-no-ken-family-computer/igpopytotl/05%20BGM%205.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hokuto-no-ken-family-computer/igpopytotl/05%20BGM%205.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hokuto-no-ken-family-computer/05%2520BGM%25205.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 83886,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 6,
+      "title": "Miss",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/hokuto-no-ken-family-computer/sgjkabqjrs/06%20Miss.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hokuto-no-ken-family-computer/sgjkabqjrs/06%20Miss.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hokuto-no-ken-family-computer/06%2520Miss.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 176,
+    "filesize_mp3_bytes": 3649043,
+    "filesize_flac_bytes": 6249511,
+    "tracks": 6
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Goldrunner",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T09:23:02.194969+00:00",
+  "slug": "goldrunner-atari-st-gamerip-1987",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/goldrunner-atari-st-gamerip-1987",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/goldrunner-atari-st-gamerip-1987/Goldrunner.png"
+  ],
+  "year": 1987,
+  "date_added": "2022-12-10T00:00:00+00:00",
+  "developers": {
+    "Microdeal": "https://downloads.khinsider.com/game-soundtracks/developer/microdeal"
+  },
+  "publishers": {
+    "MichTron": "https://downloads.khinsider.com/game-soundtracks/publisher/michtron",
+    "Microdeal": "https://downloads.khinsider.com/game-soundtracks/publisher/microdeal"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 23330816,
+      "filesize_mp3_bytes": 8136949,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 367,
+      "source_mp3": "https://vgmsite.com/soundtracks/goldrunner-atari-st-gamerip-1987/vlmttxzjje/01%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/goldrunner-atari-st-gamerip-1987/vlmttxzjje/01%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/goldrunner-atari-st-gamerip-1987/01%2520Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 367,
+    "filesize_mp3_bytes": 8136949,
+    "filesize_flac_bytes": 23330816,
+    "tracks": 1
+  }
+}

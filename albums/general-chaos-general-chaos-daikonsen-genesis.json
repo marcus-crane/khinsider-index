@@ -1,0 +1,68 @@
+{
+  "title": "General Chaos",
+  "titles_alternative": [
+    "General Chaos: Daikonsen",
+    "\u30b8\u30a7\u30cd\u30e9\u30eb\u30fb\u30ab\u30aa\u30b9 \u5927\u6df7\u6226"
+  ],
+  "crawled_at": "2023-09-22T07:54:08.015406+00:00",
+  "slug": "general-chaos-general-chaos-daikonsen-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/general-chaos-general-chaos-daikonsen-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/general-chaos-general-chaos-daikonsen-genesis/GC.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2020-03-08T00:00:00+00:00",
+  "developers": {
+    "Game Refuge": "https://downloads.khinsider.com/game-soundtracks/developer/game-refuge"
+  },
+  "publishers": {
+    "EA": "https://downloads.khinsider.com/game-soundtracks/publisher/ea"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2285895,
+      "filesize_mp3_bytes": 1080033,
+      "track_number": 1,
+      "title": "General Chaos",
+      "runtime": 50,
+      "source_mp3": "https://vgmsite.com/soundtracks/general-chaos-general-chaos-daikonsen-genesis/mvmmkslsfu/01%20-%20General%20Chaos.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/general-chaos-general-chaos-daikonsen-genesis/mvmmkslsfu/01%20-%20General%20Chaos.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/general-chaos-general-chaos-daikonsen-genesis/01%2520-%2520General%2520Chaos.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4288675,
+      "filesize_mp3_bytes": 1698693,
+      "track_number": 2,
+      "title": "General Havoc",
+      "runtime": 56,
+      "source_mp3": "https://vgmsite.com/soundtracks/general-chaos-general-chaos-daikonsen-genesis/pajsxbmjle/02%20-%20General%20Havoc.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/general-chaos-general-chaos-daikonsen-genesis/pajsxbmjle/02%20-%20General%20Havoc.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/general-chaos-general-chaos-daikonsen-genesis/02%2520-%2520General%2520Havoc.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2673868,
+      "filesize_mp3_bytes": 1059061,
+      "track_number": 3,
+      "title": "Boot Camp",
+      "runtime": 53,
+      "source_mp3": "https://vgmsite.com/soundtracks/general-chaos-general-chaos-daikonsen-genesis/wwwgmyoidz/03%20-%20Boot%20Camp.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/general-chaos-general-chaos-daikonsen-genesis/wwwgmyoidz/03%20-%20Boot%20Camp.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/general-chaos-general-chaos-daikonsen-genesis/03%2520-%2520Boot%2520Camp.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 159,
+    "filesize_mp3_bytes": 3837787,
+    "filesize_flac_bytes": 9248438,
+    "tracks": 3
+  }
+}

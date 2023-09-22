@@ -1,0 +1,77 @@
+{
+  "title": "George Foreman's KO Boxing",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T08:13:41.394736+00:00",
+  "slug": "george-foreman-s-ko-boxing-1992-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/george-foreman-s-ko-boxing-1992-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/george-foreman-s-ko-boxing-1992-genesis/George%20Foreman%27s%20KO%20Boxing.png"
+  ],
+  "year": 1992,
+  "date_added": "2020-03-08T00:00:00+00:00",
+  "developers": {
+    "Beam": "https://downloads.khinsider.com/game-soundtracks/developer/beam",
+    "Probe": "https://downloads.khinsider.com/game-soundtracks/developer/probe"
+  },
+  "publishers": {
+    "Flying Edge": "https://downloads.khinsider.com/game-soundtracks/publisher/flying-edge"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11261706,
+      "filesize_mp3_bytes": 4299161,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 199,
+      "source_mp3": "https://vgmsite.com/soundtracks/george-foreman-s-ko-boxing-1992-genesis/nykjtsfgef/01%20-%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/george-foreman-s-ko-boxing-1992-genesis/nykjtsfgef/01%20-%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/george-foreman-s-ko-boxing-1992-genesis/01%2520-%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 17972592,
+      "filesize_mp3_bytes": 7686062,
+      "track_number": 2,
+      "title": "Boxer Profile",
+      "runtime": 337,
+      "source_mp3": "https://vgmsite.com/soundtracks/george-foreman-s-ko-boxing-1992-genesis/hmuupaehlm/02%20-%20Boxer%20Profile.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/george-foreman-s-ko-boxing-1992-genesis/hmuupaehlm/02%20-%20Boxer%20Profile.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/george-foreman-s-ko-boxing-1992-genesis/02%2520-%2520Boxer%2520Profile.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 513802,
+      "filesize_mp3_bytes": 199229,
+      "track_number": 3,
+      "title": "Game Over",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/george-foreman-s-ko-boxing-1992-genesis/qsxmamodoz/03%20-%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/george-foreman-s-ko-boxing-1992-genesis/qsxmamodoz/03%20-%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/george-foreman-s-ko-boxing-1992-genesis/03%2520-%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5316280,
+      "filesize_mp3_bytes": 2118123,
+      "track_number": 4,
+      "title": "Congratulations",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/george-foreman-s-ko-boxing-1992-genesis/ffrlcylvqz/04%20-%20Congratulations.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/george-foreman-s-ko-boxing-1992-genesis/ffrlcylvqz/04%20-%20Congratulations.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/george-foreman-s-ko-boxing-1992-genesis/04%2520-%2520Congratulations.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 642,
+    "filesize_mp3_bytes": 14302575,
+    "filesize_flac_bytes": 35064380,
+    "tracks": 4
+  }
+}

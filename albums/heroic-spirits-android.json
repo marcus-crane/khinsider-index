@@ -1,0 +1,78 @@
+{
+  "title": "Heroic Spirits",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T12:10:01.197486+00:00",
+  "slug": "heroic-spirits-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/heroic-spirits-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/heroic-spirits-android/1.jpeg"
+  ],
+  "year": 2006,
+  "date_added": "2017-03-14T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 367001,
+      "track_number": 1,
+      "title": "qiyue",
+      "runtime": 91,
+      "source_mp3": "https://vgmsite.com/soundtracks/heroic-spirits-android/jqajjesc/1%20qiyue.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/heroic-spirits-android/1%2520qiyue.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 492830,
+      "track_number": 2,
+      "title": "lobbyBgm",
+      "runtime": 123,
+      "source_mp3": "https://vgmsite.com/soundtracks/heroic-spirits-android/nkcvkeiz/2%20lobbyBgm.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/heroic-spirits-android/2%2520lobbyBgm.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 943718,
+      "track_number": 3,
+      "title": "lobbyNightBgm",
+      "runtime": 236,
+      "source_mp3": "https://vgmsite.com/soundtracks/heroic-spirits-android/duphjplo/3%20lobbyNightBgm.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/heroic-spirits-android/3%2520lobbyNightBgm.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2673868,
+      "track_number": 4,
+      "title": "inGameNormalBtl",
+      "runtime": 167,
+      "source_mp3": "https://vgmsite.com/soundtracks/heroic-spirits-android/edltdhyk/4%20inGameNormalBtl.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/heroic-spirits-android/4%2520inGameNormalBtl.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1195376,
+      "track_number": 5,
+      "title": "shopstory",
+      "runtime": 298,
+      "source_mp3": "https://vgmsite.com/soundtracks/heroic-spirits-android/bnygnwpn/5%20shopstory.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/heroic-spirits-android/5%2520shopstory.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 915,
+    "filesize_mp3_bytes": 5672793,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

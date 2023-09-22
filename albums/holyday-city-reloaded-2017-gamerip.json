@@ -1,0 +1,43 @@
+{
+  "title": "Holyday City Reloaded",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T12:37:48.294976+00:00",
+  "slug": "holyday-city-reloaded-2017-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/holyday-city-reloaded-2017-gamerip",
+  "platforms": {
+    "Linux": "https://downloads.khinsider.com/game-soundtracks/linux",
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/holyday-city-reloaded-2017-gamerip/hcr_1.jpg"
+  ],
+  "year": 2017,
+  "date_added": "2022-02-22T00:00:00+00:00",
+  "developers": {
+    "Holyday Studios": "https://downloads.khinsider.com/game-soundtracks/developer/holyday-studios"
+  },
+  "publishers": {
+    "Holyday Studios": "https://downloads.khinsider.com/game-soundtracks/publisher/holyday-studios"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2296381,
+      "title": "Tromping Along - Loop",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/holyday-city-reloaded-2017-gamerip/uzlgippfwa/Tromping%20Along%20-%20Loop.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/holyday-city-reloaded-2017-gamerip/Tromping%2520Along%2520-%2520Loop.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 64,
+    "filesize_mp3_bytes": 2296381,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

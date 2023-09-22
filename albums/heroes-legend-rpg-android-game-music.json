@@ -1,0 +1,46 @@
+{
+  "title": "Heroes Legend RPG (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T12:06:28.673884+00:00",
+  "slug": "heroes-legend-rpg-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/heroes-legend-rpg-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/heroes-legend-rpg-android-game-music/Heroes%20Legend%20RPG.jpeg"
+  ],
+  "year": 2015,
+  "date_added": "2016-10-27T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1059061,
+      "track_number": 1,
+      "title": "bgm",
+      "runtime": 89,
+      "source_mp3": "https://vgmsite.com/soundtracks/heroes-legend-rpg-android-game-music/hnysmfhv/1%20bgm.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/heroes-legend-rpg-android-game-music/1%2520bgm.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1310720,
+      "track_number": 2,
+      "title": "bgm evening",
+      "runtime": 81,
+      "source_mp3": "https://vgmsite.com/soundtracks/heroes-legend-rpg-android-game-music/rtodcrwm/2%20bgm%20evening.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/heroes-legend-rpg-android-game-music/2%2520bgm%2520evening.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 170,
+    "filesize_mp3_bytes": 2369781,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

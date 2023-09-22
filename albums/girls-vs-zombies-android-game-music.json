@@ -1,0 +1,43 @@
+{
+  "title": "Girls vs Zombies (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T08:42:54.210086+00:00",
+  "slug": "girls-vs-zombies-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/girls-vs-zombies-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/girls-vs-zombies-android-game-music/1.jpg"
+  ],
+  "date_added": "2016-10-26T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1960837,
+      "title": "music1",
+      "runtime": 123,
+      "source_mp3": "https://vgmsite.com/soundtracks/girls-vs-zombies-android-game-music/bbiikzuh/music1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/girls-vs-zombies-android-game-music/music1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 996147,
+      "title": "music2",
+      "runtime": 62,
+      "source_mp3": "https://vgmsite.com/soundtracks/girls-vs-zombies-android-game-music/ifhblxre/music2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/girls-vs-zombies-android-game-music/music2.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 185,
+    "filesize_mp3_bytes": 2956984,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

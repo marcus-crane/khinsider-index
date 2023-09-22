@@ -1,0 +1,78 @@
+{
+  "title": "Ghostbusters",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T08:23:49.298347+00:00",
+  "slug": "ghostbusters-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ghostbusters-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ghostbusters-master-system/Ghostbusters-SMS.png"
+  ],
+  "year": 1987,
+  "date_added": "2018-02-02T00:00:00+00:00",
+  "developers": {
+    "Activision": "https://downloads.khinsider.com/game-soundtracks/developer/activision",
+    "Compile": "https://downloads.khinsider.com/game-soundtracks/developer/compile",
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 14617149,
+      "filesize_mp3_bytes": 10968104,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 274,
+      "source_mp3": "https://vgmsite.com/soundtracks/ghostbusters-master-system/embtvlsc/01%20-%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ghostbusters-master-system/embtvlsc/01%20-%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ghostbusters-master-system/01%2520-%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4383047,
+      "filesize_mp3_bytes": 3135242,
+      "track_number": 2,
+      "title": "Ending",
+      "runtime": 78,
+      "source_mp3": "https://vgmsite.com/soundtracks/ghostbusters-master-system/yoohnpvq/02%20-%20Ending.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ghostbusters-master-system/yoohnpvq/02%20-%20Ending.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ghostbusters-master-system/02%2520-%2520Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 199229,
+      "filesize_mp3_bytes": 199229,
+      "track_number": 3,
+      "title": "Game Over",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/ghostbusters-master-system/bdzzjoxq/03%20-%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ghostbusters-master-system/bdzzjoxq/03%20-%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ghostbusters-master-system/03%2520-%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3890216,
+      "filesize_mp3_bytes": 2789212,
+      "track_number": 4,
+      "title": "Unknown Music",
+      "runtime": 70,
+      "source_mp3": "https://vgmsite.com/soundtracks/ghostbusters-master-system/ogvigtng/04%20-%20Unknown%20Music.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ghostbusters-master-system/ogvigtng/04%20-%20Unknown%20Music.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ghostbusters-master-system/04%2520-%2520Unknown%2520Music.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 427,
+    "filesize_mp3_bytes": 17091787,
+    "filesize_flac_bytes": 23089641,
+    "tracks": 4
+  }
+}

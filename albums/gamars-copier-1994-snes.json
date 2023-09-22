@@ -1,0 +1,76 @@
+{
+  "title": "Gamars Copier",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T07:08:07.589950+00:00",
+  "slug": "gamars-copier-1994-snes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/gamars-copier-1994-snes",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/gamars-copier-1994-snes/G1.png"
+  ],
+  "year": 1994,
+  "date_added": "2019-08-09T00:00:00+00:00",
+  "developers": {
+    "Kaiser Electronics": "https://downloads.khinsider.com/game-soundtracks/developer/kaiser-electronics"
+  },
+  "publishers": {
+    "Kaiser Electronics": "https://downloads.khinsider.com/game-soundtracks/publisher/kaiser-electronics"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 94371,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 1,
+      "title": "Gamars Logo",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/gamars-copier-1994-snes/dqwfwykrvs/01%20Gamars%20Logo.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gamars-copier-1994-snes/dqwfwykrvs/01%20Gamars%20Logo.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gamars-copier-1994-snes/01%2520Gamars%2520Logo.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 94371,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 2,
+      "title": "Gamars Logo (No Voice)",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/gamars-copier-1994-snes/zqqnvzwkjs/02%20Gamars%20Logo%20%28No%20Voice%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gamars-copier-1994-snes/zqqnvzwkjs/02%20Gamars%20Logo%20%28No%20Voice%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gamars-copier-1994-snes/02%2520Gamars%2520Logo%2520%2528No%2520Voice%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3659530,
+      "filesize_mp3_bytes": 1530920,
+      "track_number": 3,
+      "title": "Picture Puzzle",
+      "runtime": 90,
+      "source_mp3": "https://vgmsite.com/soundtracks/gamars-copier-1994-snes/vkgvtlanqw/03%20Picture%20Puzzle.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gamars-copier-1994-snes/vkgvtlanqw/03%20Picture%20Puzzle.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gamars-copier-1994-snes/03%2520Picture%2520Puzzle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 314572,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 4,
+      "title": "Puzzle Complete",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/gamars-copier-1994-snes/txeqtddyrj/04%20Puzzle%20Complete.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gamars-copier-1994-snes/txeqtddyrj/04%20Puzzle%20Complete.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gamars-copier-1994-snes/04%2520Puzzle%2520Complete.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 109,
+    "filesize_mp3_bytes": 1761605,
+    "filesize_flac_bytes": 4162844,
+    "tracks": 4
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "title": "Gauntlet III",
+  "titles_alternative": [
+    "Gauntlet 3: The Final Quest"
+  ],
+  "crawled_at": "2023-09-22T07:46:34.268750+00:00",
+  "slug": "gauntlet-iii-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/gauntlet-iii-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/gauntlet-iii-amiga/G1.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2016-02-05T00:00:00+00:00",
+  "developers": {
+    "Software Creations": "https://downloads.khinsider.com/game-soundtracks/developer/software-creations"
+  },
+  "publishers": {
+    "U.S. Gold": "https://downloads.khinsider.com/game-soundtracks/publisher/u.s.-gold"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5756682,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 209,
+      "source_mp3": "https://vgmsite.com/soundtracks/gauntlet-iii-amiga/etpcqvsa/01%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gauntlet-iii-amiga/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4204789,
+      "track_number": 2,
+      "title": "In-Game BGM #1",
+      "runtime": 157,
+      "source_mp3": "https://vgmsite.com/soundtracks/gauntlet-iii-amiga/yyqnydml/02%20In-Game%20BGM%20%231.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gauntlet-iii-amiga/02%2520In-Game%2520BGM%2520%25231.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4037017,
+      "track_number": 3,
+      "title": "In-Game BGM #2",
+      "runtime": 148,
+      "source_mp3": "https://vgmsite.com/soundtracks/gauntlet-iii-amiga/nwzqesdm/03%20In-Game%20BGM%20%232.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gauntlet-iii-amiga/03%2520In-Game%2520BGM%2520%25232.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4016046,
+      "track_number": 4,
+      "title": "In-Game BGM #3",
+      "runtime": 146,
+      "source_mp3": "https://vgmsite.com/soundtracks/gauntlet-iii-amiga/vamwowod/04%20In-Game%20BGM%20%233.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gauntlet-iii-amiga/04%2520In-Game%2520BGM%2520%25233.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3869245,
+      "track_number": 5,
+      "title": "Unknown",
+      "runtime": 137,
+      "source_mp3": "https://vgmsite.com/soundtracks/gauntlet-iii-amiga/mszkhwgs/05%20Unknown.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gauntlet-iii-amiga/05%2520Unknown.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 797,
+    "filesize_mp3_bytes": 21883779,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

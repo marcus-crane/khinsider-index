@@ -1,0 +1,86 @@
+{
+  "title": "Geshi Matsuri",
+  "titles_alternative": [
+    "\u590f\u81f3\u796d"
+  ],
+  "crawled_at": "2023-09-22T08:14:10.440947+00:00",
+  "slug": "geshi-matsuri",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/geshi-matsuri",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation",
+    "PS2": "https://downloads.khinsider.com/game-soundtracks/playstation-2",
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/geshi-matsuri/coverart.jpg"
+  ],
+  "year": 2010,
+  "catalog_number": null,
+  "date_added": "2015-11-30T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Select Start (Bandcamp)": "https://downloads.khinsider.com/game-soundtracks/publisher/select-start-bandcamp"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1793064,
+      "track_number": 1,
+      "title": "Beginners (Ragnarok Online II)",
+      "runtime": 98,
+      "source_mp3": "https://vgmsite.com/soundtracks/geshi-matsuri/hzzfnhuz/01%20Beginners%20%28Ragnarok%20Online%20II%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/geshi-matsuri/01%2520Beginners%2520%2528Ragnarok%2520Online%2520II%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1635778,
+      "track_number": 2,
+      "title": "Hop! Hop! Donut Lifts (Yoshi's Island)",
+      "runtime": 75,
+      "source_mp3": "https://vgmsite.com/soundtracks/geshi-matsuri/todhtfng/02%20Hop%21%20Hop%21%20Donut%20Lifts%20%28Yoshi%27s%20Island%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/geshi-matsuri/02%2520Hop%2521%2520Hop%2521%2520Donut%2520Lifts%2520%2528Yoshi%2527s%2520Island%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3764387,
+      "track_number": 3,
+      "title": "Geshi Matsuri (Napple Tale)",
+      "runtime": 128,
+      "source_mp3": "https://vgmsite.com/soundtracks/geshi-matsuri/xtnqieov/03%20Geshi%20Matsuri%20%28Napple%20Tale%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/geshi-matsuri/03%2520Geshi%2520Matsuri%2520%2528Napple%2520Tale%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2936012,
+      "track_number": 4,
+      "title": "Sakura #4 (Xenosaga II)",
+      "runtime": 166,
+      "source_mp3": "https://vgmsite.com/soundtracks/geshi-matsuri/rkzlhgmp/04%20Sakura%20%234%20%28Xenosaga%20II%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/geshi-matsuri/04%2520Sakura%2520%25234%2520%2528Xenosaga%2520II%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4393533,
+      "track_number": 5,
+      "title": "Radical Dreamers (ChronoCross)",
+      "runtime": 235,
+      "source_mp3": "https://vgmsite.com/soundtracks/geshi-matsuri/dfapcddv/05%20Radical%20Dreamers%20%28ChronoCross%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/geshi-matsuri/05%2520Radical%2520Dreamers%2520%2528ChronoCross%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 702,
+    "filesize_mp3_bytes": 14522774,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

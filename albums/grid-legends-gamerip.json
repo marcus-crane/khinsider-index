@@ -1,0 +1,58 @@
+{
+  "title": "Grid Legends",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T10:09:16.707198+00:00",
+  "slug": "grid-legends-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/grid-legends-gamerip",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/grid-legends-gamerip/folder.jpg"
+  ],
+  "date_added": "2022-03-20T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 51180994,
+      "filesize_mp3_bytes": 7969177,
+      "track_number": 1,
+      "title": "Race 1 Beginnings",
+      "runtime": 237,
+      "source_mp3": "https://vgmsite.com/soundtracks/grid-legends-gamerip/vfmlixsvhr/01%20Race%201%20Beginnings.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/grid-legends-gamerip/vfmlixsvhr/01%20Race%201%20Beginnings.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/grid-legends-gamerip/01%2520Race%25201%2520Beginnings.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 50604277,
+      "filesize_mp3_bytes": 7832862,
+      "track_number": 2,
+      "title": "Race 2 Prove Yourself",
+      "runtime": 237,
+      "source_mp3": "https://vgmsite.com/soundtracks/grid-legends-gamerip/jotkeszaov/02%20Race%202%20Prove%20Yourself.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/grid-legends-gamerip/jotkeszaov/02%20Race%202%20Prove%20Yourself.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/grid-legends-gamerip/02%2520Race%25202%2520Prove%2520Yourself.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 47836037,
+      "filesize_mp3_bytes": 7371489,
+      "track_number": 3,
+      "title": "Race 3 New Beginnings",
+      "runtime": 227,
+      "source_mp3": "https://vgmsite.com/soundtracks/grid-legends-gamerip/tonvhasytt/03%20Race%203%20New%20Beginnings.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/grid-legends-gamerip/tonvhasytt/03%20Race%203%20New%20Beginnings.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/grid-legends-gamerip/03%2520Race%25203%2520New%2520Beginnings.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 701,
+    "filesize_mp3_bytes": 23173528,
+    "filesize_flac_bytes": 149621308,
+    "tracks": 3
+  }
+}

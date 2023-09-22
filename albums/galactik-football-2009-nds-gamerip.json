@@ -1,0 +1,62 @@
+{
+  "title": "Galactik Football",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T07:01:51.924545+00:00",
+  "slug": "galactik-football-2009-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/galactik-football-2009-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/galactik-football-2009-nds-gamerip/Galactik%20Football.jpg"
+  ],
+  "year": 2009,
+  "date_added": "2020-06-09T00:00:00+00:00",
+  "developers": {
+    "505 Games": "https://downloads.khinsider.com/game-soundtracks/developer/505"
+  },
+  "publishers": {
+    "505 Games": "https://downloads.khinsider.com/game-soundtracks/publisher/505-games"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 587202,
+      "filesize_mp3_bytes": 136314,
+      "title": "Piesa In Joc",
+      "runtime": 13,
+      "source_mp3": "https://vgmsite.com/soundtracks/galactik-football-2009-nds-gamerip/cxtjdevokz/Piesa%20In%20Joc.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/galactik-football-2009-nds-gamerip/cxtjdevokz/Piesa%20In%20Joc.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/galactik-football-2009-nds-gamerip/Piesa%2520In%2520Joc.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 817889,
+      "filesize_mp3_bytes": 220200,
+      "title": "Piesa Meniu1",
+      "runtime": 22,
+      "source_mp3": "https://vgmsite.com/soundtracks/galactik-football-2009-nds-gamerip/hpimkfsvfh/Piesa%20Meniu1.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/galactik-football-2009-nds-gamerip/hpimkfsvfh/Piesa%20Meniu1.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/galactik-football-2009-nds-gamerip/Piesa%2520Meniu1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1038090,
+      "filesize_mp3_bytes": 272629,
+      "title": "Piesa Meniu2",
+      "runtime": 22,
+      "source_mp3": "https://vgmsite.com/soundtracks/galactik-football-2009-nds-gamerip/wruxlqghow/Piesa%20Meniu2.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/galactik-football-2009-nds-gamerip/wruxlqghow/Piesa%20Meniu2.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/galactik-football-2009-nds-gamerip/Piesa%2520Meniu2.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 57,
+    "filesize_mp3_bytes": 629143,
+    "filesize_flac_bytes": 2443181,
+    "tracks": 3
+  }
+}

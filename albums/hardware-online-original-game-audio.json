@@ -1,0 +1,92 @@
+{
+  "title": "Hardware: Online Arena",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T11:26:54.931014+00:00",
+  "slug": "hardware-online-original-game-audio",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hardware-online-original-game-audio",
+  "platforms": {
+    "PS2": "https://downloads.khinsider.com/game-soundtracks/playstation-2"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/hardware-online-original-game-audio/Hardware%20Online%20-%20Original%20Game%20Audio.jpg"
+  ],
+  "year": 2003,
+  "date_added": "2006-11-21T00:00:00+00:00",
+  "developers": {
+    "London Studio": "https://downloads.khinsider.com/game-soundtracks/developer/london-studio"
+  },
+  "publishers": {
+    "Sony Computer Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/sony-computer-entertainment"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5075107,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 209,
+      "source_mp3": "https://vgmsite.com/soundtracks/hardware-online-original-game-audio/veibienv/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hardware-online-original-game-audio/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5536481,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 206,
+      "source_mp3": "https://vgmsite.com/soundtracks/hardware-online-original-game-audio/becwktiu/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hardware-online-original-game-audio/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7895777,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 293,
+      "source_mp3": "https://vgmsite.com/soundtracks/hardware-online-original-game-audio/phhsqsqs/03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hardware-online-original-game-audio/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4320133,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 159,
+      "source_mp3": "https://vgmsite.com/soundtracks/hardware-online-original-game-audio/gglijjqx/04.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hardware-online-original-game-audio/04.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2359296,
+      "track_number": 5,
+      "title": "Track 5",
+      "runtime": 111,
+      "source_mp3": "https://vgmsite.com/soundtracks/hardware-online-original-game-audio/qhmogopr/05.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hardware-online-original-game-audio/05.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2621440,
+      "track_number": 6,
+      "title": "Track 6",
+      "runtime": 109,
+      "source_mp3": "https://vgmsite.com/soundtracks/hardware-online-original-game-audio/ydamcwjm/06.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hardware-online-original-game-audio/06.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1087,
+    "filesize_mp3_bytes": 27808234,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

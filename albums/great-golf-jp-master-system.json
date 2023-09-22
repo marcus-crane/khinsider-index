@@ -1,0 +1,67 @@
+{
+  "title": "Great Golf (JP)",
+  "titles_alternative": [
+    "\u30b0\u30ec\u30fc\u30c8\u30b4\u30eb\u30d5"
+  ],
+  "crawled_at": "2023-09-22T10:04:35.670617+00:00",
+  "slug": "great-golf-jp-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/great-golf-jp-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/great-golf-jp-master-system/Great%20Golf%20%28JP%29.png"
+  ],
+  "year": 1986,
+  "date_added": "2020-07-09T00:00:00+00:00",
+  "developers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 608174,
+      "filesize_mp3_bytes": 209715,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/great-golf-jp-master-system/boibczbqvc/01%20-%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/great-golf-jp-master-system/boibczbqvc/01%20-%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/great-golf-jp-master-system/01%2520-%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 419430,
+      "filesize_mp3_bytes": 178257,
+      "track_number": 2,
+      "title": "Game Start",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/great-golf-jp-master-system/dwumnxwnri/02%20-%20Game%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/great-golf-jp-master-system/dwumnxwnri/02%20-%20Game%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/great-golf-jp-master-system/02%2520-%2520Game%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 293601,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 3,
+      "title": "Game Over",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/great-golf-jp-master-system/mhlrzdicdh/03%20-%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/great-golf-jp-master-system/mhlrzdicdh/03%20-%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/great-golf-jp-master-system/03%2520-%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 26,
+    "filesize_mp3_bytes": 503315,
+    "filesize_flac_bytes": 1321205,
+    "tracks": 3
+  }
+}

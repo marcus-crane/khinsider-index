@@ -1,0 +1,73 @@
+{
+  "title": "Giana Sisters 2001",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T08:26:34.475120+00:00",
+  "slug": "giana-sisters-2001",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/giana-sisters-2001",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/giana-sisters-2001/Giana%20Sisters%202001.jpg"
+  ],
+  "year": 2001,
+  "catalog_number": "ZYX 9377-8",
+  "date_added": "2006-11-21T00:00:00+00:00",
+  "developers": {
+    "Time Warp Productions": "https://downloads.khinsider.com/game-soundtracks/developer/time-warp-productions"
+  },
+  "publishers": {
+    "ZYX Music": "https://downloads.khinsider.com/game-soundtracks/publisher/zyx-music"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5442109,
+      "track_number": 1,
+      "title": "giana sisters 2001 (mabu remix 2001)",
+      "runtime": 240,
+      "source_mp3": "https://vgmsite.com/soundtracks/giana-sisters-2001/uylgovam/01%20giana%20sisters%202001%20%28mabu%20remix%202001%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/giana-sisters-2001/01%2520giana%2520sisters%25202001%2520%2528mabu%2520remix%25202001%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10391388,
+      "track_number": 2,
+      "title": "giana sisters 2001 (tom novy vs. pufo rmx)",
+      "runtime": 412,
+      "source_mp3": "https://vgmsite.com/soundtracks/giana-sisters-2001/rpyxveso/02%20giana%20sisters%202001%20%28tom%20novy%20vs.%20pufo%20rmx%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/giana-sisters-2001/02%2520giana%2520sisters%25202001%2520%2528tom%2520novy%2520vs.%2520pufo%2520rmx%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7413432,
+      "track_number": 3,
+      "title": "giana sisters 2001 (analog inc. rmx)",
+      "runtime": 313,
+      "source_mp3": "https://vgmsite.com/soundtracks/giana-sisters-2001/lvwgwncg/03%20giana%20sisters%202001%20%28analog%20inc.%20rmx%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/giana-sisters-2001/03%2520giana%2520sisters%25202001%2520%2528analog%2520inc.%2520rmx%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8996782,
+      "track_number": 4,
+      "title": "giana sisters medley",
+      "runtime": 329,
+      "source_mp3": "https://vgmsite.com/soundtracks/giana-sisters-2001/xtkcurjb/04%20giana%20sisters%20medley.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/giana-sisters-2001/04%2520giana%2520sisters%2520medley.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1294,
+    "filesize_mp3_bytes": 32243711,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

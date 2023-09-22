@@ -1,0 +1,43 @@
+{
+  "title": "Garry Kitchen's Battle Tank",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T07:44:40.563232+00:00",
+  "slug": "garry-kitchen-s-battle-tank-1990-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/garry-kitchen-s-battle-tank-1990-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/garry-kitchen-s-battle-tank-1990-nes/Garry%20Kitchen%27s%20Battle%20Tank.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2022-04-21T00:00:00+00:00",
+  "developers": {
+    "Imagineering": "https://downloads.khinsider.com/game-soundtracks/developer/imagineering"
+  },
+  "publishers": {
+    "Absolute": "https://downloads.khinsider.com/game-soundtracks/publisher/absolute"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9321840,
+      "filesize_mp3_bytes": 4991221,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/garry-kitchen-s-battle-tank-1990-nes/yjkqnaywvj/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/garry-kitchen-s-battle-tank-1990-nes/yjkqnaywvj/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/garry-kitchen-s-battle-tank-1990-nes/01.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 180,
+    "filesize_mp3_bytes": 4991221,
+    "filesize_flac_bytes": 9321840,
+    "tracks": 1
+  }
+}

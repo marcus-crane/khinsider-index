@@ -1,0 +1,102 @@
+{
+  "title": "Golf Grand Slam JP",
+  "titles_alternative": [
+    "\u30b4\u30eb\u30d5 \u30b0\u30e9\u30f3\u30c9\u30b9\u30e9\u30e0"
+  ],
+  "crawled_at": "2023-09-22T09:23:35.325743+00:00",
+  "slug": "golf-grand-slam-jp-1991-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/golf-grand-slam-jp-1991-nes",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/golf-grand-slam-jp-1991-nes/Golf%20Grand%20Slam%20JP.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2022-04-25T00:00:00+00:00",
+  "developers": {
+    "Tose": "https://downloads.khinsider.com/game-soundtracks/developer/tose"
+  },
+  "publishers": {
+    "Atlus": "https://downloads.khinsider.com/game-soundtracks/publisher/atlus",
+    "Hect": "https://downloads.khinsider.com/game-soundtracks/publisher/hect"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9091153,
+      "filesize_mp3_bytes": 2820669,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/golf-grand-slam-jp-1991-nes/zxxmsdcqhs/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/golf-grand-slam-jp-1991-nes/zxxmsdcqhs/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/golf-grand-slam-jp-1991-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10758389,
+      "filesize_mp3_bytes": 3743416,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/golf-grand-slam-jp-1991-nes/tsprxectza/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/golf-grand-slam-jp-1991-nes/tsprxectza/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/golf-grand-slam-jp-1991-nes/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10873733,
+      "filesize_mp3_bytes": 3911188,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/golf-grand-slam-jp-1991-nes/rcosnglbqm/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/golf-grand-slam-jp-1991-nes/rcosnglbqm/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/golf-grand-slam-jp-1991-nes/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10705960,
+      "filesize_mp3_bytes": 3376414,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/golf-grand-slam-jp-1991-nes/arivztioav/04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/golf-grand-slam-jp-1991-nes/arivztioav/04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/golf-grand-slam-jp-1991-nes/04.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9720299,
+      "filesize_mp3_bytes": 3544186,
+      "track_number": 5,
+      "title": "Track 5",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/golf-grand-slam-jp-1991-nes/ocxxauezja/05.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/golf-grand-slam-jp-1991-nes/ocxxauezja/05.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/golf-grand-slam-jp-1991-nes/05.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10863247,
+      "filesize_mp3_bytes": 3439329,
+      "track_number": 6,
+      "title": "Track 6",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/golf-grand-slam-jp-1991-nes/sstspbpmte/06.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/golf-grand-slam-jp-1991-nes/sstspbpmte/06.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/golf-grand-slam-jp-1991-nes/06.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1080,
+    "filesize_mp3_bytes": 20835202,
+    "filesize_flac_bytes": 62012781,
+    "tracks": 6
+  }
+}

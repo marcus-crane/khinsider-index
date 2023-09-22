@@ -1,0 +1,64 @@
+{
+  "title": "Gitaroo Man",
+  "titles_alternative": [
+    "Gitaroo Man Lives!"
+  ],
+  "crawled_at": "2023-09-22T08:43:43.095699+00:00",
+  "slug": "gitaroo-man-psp-gamerip-2006",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/gitaroo-man-psp-gamerip-2006",
+  "platforms": {
+    "PSP": "https://downloads.khinsider.com/game-soundtracks/playstation-portable-psp"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/gitaroo-man-psp-gamerip-2006/615kTmZSpNL.jpg"
+  ],
+  "year": 2006,
+  "date_added": "2023-06-16T00:00:00+00:00",
+  "developers": {
+    "Inis": "https://downloads.khinsider.com/game-soundtracks/developer/inis"
+  },
+  "publishers": {
+    "KOEI": "https://downloads.khinsider.com/game-soundtracks/publisher/koei"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9531555,
+      "track_number": 1,
+      "title": "Flyin' To Your Heart (English)",
+      "runtime": 238,
+      "source_mp3": "https://vgmsite.com/soundtracks/gitaroo-man-psp-gamerip-2006/jgonnldjbi/01.%20Flyin%27%20To%20Your%20Heart%20%28English%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gitaroo-man-psp-gamerip-2006/01.%2520Flyin%2527%2520To%2520Your%2520Heart%2520%2528English%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11869880,
+      "track_number": 2,
+      "title": "Metal Header",
+      "runtime": 297,
+      "source_mp3": "https://vgmsite.com/soundtracks/gitaroo-man-psp-gamerip-2006/dlyphbrxqh/02.%20Metal%20Header.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gitaroo-man-psp-gamerip-2006/02.%2520Metal%2520Header.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10559160,
+      "track_number": 3,
+      "title": "Toda Pasi\u00f3n",
+      "runtime": 264,
+      "source_mp3": "https://vgmsite.com/soundtracks/gitaroo-man-psp-gamerip-2006/dkchcuidfj/03.%20Toda%20Pasi%C3%B3n.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gitaroo-man-psp-gamerip-2006/03.%2520Toda%2520Pasi%25C3%25B3n.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 799,
+    "filesize_mp3_bytes": 31960595,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

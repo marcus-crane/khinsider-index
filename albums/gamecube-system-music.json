@@ -1,0 +1,66 @@
+{
+  "title": "GameCube System Music",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T07:23:53.524215+00:00",
+  "slug": "gamecube-system-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/gamecube-system-music",
+  "platforms": {
+    "GC": "https://downloads.khinsider.com/game-soundtracks/nintendo-gamecube"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/gamecube-system-music/IMG_2352.png"
+  ],
+  "year": 2002,
+  "date_added": "2018-07-10T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 178257,
+      "track_number": 1,
+      "title": "Nintendo GameCube Boot Up Sound 1",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/gamecube-system-music/zlczlbtz/001%20-%20Nintendo%20GameCube%20Boot%20Up%20Sound%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gamecube-system-music/001%2520-%2520Nintendo%2520GameCube%2520Boot%2520Up%2520Sound%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 178257,
+      "track_number": 2,
+      "title": "Nintendo GameCube Boot Up Sound 2 (1 Z Button)",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/gamecube-system-music/gmbccycn/002%20-%20Nintendo%20GameCube%20Boot%20Up%20Sound%202%20%281%20Z%20Button%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gamecube-system-music/002%2520-%2520Nintendo%2520GameCube%2520Boot%2520Up%2520Sound%25202%2520%25281%2520Z%2520Button%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 199229,
+      "track_number": 3,
+      "title": "Nintendo GameCube Boot Up Sound 3 (4 Z Buttons)",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/gamecube-system-music/ovyeaihb/003%20-%20Nintendo%20GameCube%20Boot%20Up%20Sound%203%20%284%20Z%20Buttons%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gamecube-system-music/003%2520-%2520Nintendo%2520GameCube%2520Boot%2520Up%2520Sound%25203%2520%25284%2520Z%2520Buttons%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5767168,
+      "track_number": 4,
+      "title": "Nintendo GameCube Menu",
+      "runtime": 243,
+      "source_mp3": "https://vgmsite.com/soundtracks/gamecube-system-music/ldxhuyni/004%20-%20Nintendo%20GameCube%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gamecube-system-music/004%2520-%2520Nintendo%2520GameCube%2520Menu.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 264,
+    "filesize_mp3_bytes": 6322911,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

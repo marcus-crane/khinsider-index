@@ -1,0 +1,50 @@
+{
+  "title": "Happy Pets",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T11:24:47.001920+00:00",
+  "slug": "happy-pets-online-gamerip-2011",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/happy-pets-online-gamerip-2011",
+  "platforms": {
+    "Online": "https://downloads.khinsider.com/game-soundtracks/online"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/happy-pets-online-gamerip-2011/slider.jpg"
+  ],
+  "year": 2011,
+  "date_added": "2023-08-27T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Crowdstar": "https://downloads.khinsider.com/game-soundtracks/publisher/crowdstar"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 408944,
+      "track_number": 1,
+      "title": "Please Feed Us.",
+      "runtime": 26,
+      "source_mp3": "https://vgmsite.com/soundtracks/happy-pets-online-gamerip-2011/nanhpqbxrh/01.%20Please%20Feed%20Us..mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/happy-pets-online-gamerip-2011/01.%2520Please%2520Feed%2520Us..mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 849346,
+      "track_number": 2,
+      "title": "Happy Playroom",
+      "runtime": 53,
+      "source_mp3": "https://vgmsite.com/soundtracks/happy-pets-online-gamerip-2011/yhxeqjpkki/02.%20Happy%20Playroom.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/happy-pets-online-gamerip-2011/02.%2520Happy%2520Playroom.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 79,
+    "filesize_mp3_bytes": 1258290,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

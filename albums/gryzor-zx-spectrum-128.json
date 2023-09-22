@@ -1,0 +1,56 @@
+{
+  "title": "Gryzor (ZX Spectrum 128)",
+  "titles_alternative": [
+    "Contra"
+  ],
+  "crawled_at": "2023-09-22T10:19:36.087759+00:00",
+  "slug": "gryzor-zx-spectrum-128",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/gryzor-zx-spectrum-128",
+  "platforms": {
+    "Spectrum": "https://downloads.khinsider.com/game-soundtracks/spectrum"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/gryzor-zx-spectrum-128/Gryzor.png"
+  ],
+  "year": 1987,
+  "date_added": "2022-05-02T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami"
+  },
+  "publishers": {
+    "Erbe Software": "https://downloads.khinsider.com/game-soundtracks/publisher/erbe-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4917821,
+      "filesize_mp3_bytes": 2453667,
+      "track_number": 1,
+      "title": "Labyrinthine Fortress",
+      "runtime": 113,
+      "source_mp3": "https://vgmsite.com/soundtracks/gryzor-zx-spectrum-128/oucvfghcms/01%20Labyrinthine%20Fortress.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gryzor-zx-spectrum-128/oucvfghcms/01%20Labyrinthine%20Fortress.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gryzor-zx-spectrum-128/01%2520Labyrinthine%2520Fortress.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4120903,
+      "filesize_mp3_bytes": 1835008,
+      "track_number": 2,
+      "title": "Sandinista",
+      "runtime": 87,
+      "source_mp3": "https://vgmsite.com/soundtracks/gryzor-zx-spectrum-128/avkbtgnzzb/02%20Sandinista.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gryzor-zx-spectrum-128/avkbtgnzzb/02%20Sandinista.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gryzor-zx-spectrum-128/02%2520Sandinista.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 200,
+    "filesize_mp3_bytes": 4288675,
+    "filesize_flac_bytes": 9038724,
+    "tracks": 2
+  }
+}

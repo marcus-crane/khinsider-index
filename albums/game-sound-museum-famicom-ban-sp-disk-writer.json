@@ -1,0 +1,79 @@
+{
+  "title": "Game Sound Museum ~Famicom Edition~ SP Disc Writer",
+  "titles_alternative": [
+    "\u30b2\u30fc\u30e0\u30b5\u30a6\u30f3\u30c9\u30df\u30e5\u30fc\u30b8\u30a2\u30e0 \uff5e\u30d5\u30a1\u30df\u30b3\u30f3\u7de8\uff5e SP \u30c7\u30a3\u30b9\u30af\u30e9\u30a4\u30bf\u30fc",
+    "Game Sound Museum ~Famicom-hen~ SP Disk Writer"
+  ],
+  "crawled_at": "2023-09-22T07:19:22.035337+00:00",
+  "slug": "game-sound-museum-famicom-ban-sp-disk-writer",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/game-sound-museum-famicom-ban-sp-disk-writer",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/game-sound-museum-famicom-ban-sp-disk-writer/00%20-%20SP%20Disc%20Writer-2004-Booklet%20Back.png"
+  ],
+  "year": 2004,
+  "catalog_number": "SDEX-0029",
+  "date_added": "2022-01-09T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "MegaHouse": "https://downloads.khinsider.com/game-soundtracks/publisher/megahouse"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 21558722,
+      "filesize_mp3_bytes": 5578424,
+      "track_number": 1,
+      "title": "Demo Sound Source Original Ver.",
+      "runtime": 222,
+      "source_mp3": "https://vgmsite.com/soundtracks/game-sound-museum-famicom-ban-sp-disk-writer/cmpqahbddy/01.%20Demo%20Sound%20Source%20Original%20Ver..mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/game-sound-museum-famicom-ban-sp-disk-writer/cmpqahbddy/01.%20Demo%20Sound%20Source%20Original%20Ver..flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/game-sound-museum-famicom-ban-sp-disk-writer/01.%2520Demo%2520Sound%2520Source%2520Original%2520Ver..mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3051356,
+      "filesize_mp3_bytes": 849346,
+      "track_number": 2,
+      "title": "Normal Writing",
+      "runtime": 35,
+      "source_mp3": "https://vgmsite.com/soundtracks/game-sound-museum-famicom-ban-sp-disk-writer/ewmyhdxkun/02.%20Normal%20Writing.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/game-sound-museum-famicom-ban-sp-disk-writer/ewmyhdxkun/02.%20Normal%20Writing.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/game-sound-museum-famicom-ban-sp-disk-writer/02.%2520Normal%2520Writing.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1604321,
+      "filesize_mp3_bytes": 650117,
+      "track_number": 3,
+      "title": "AB Level Error - Card Failure Error",
+      "runtime": 25,
+      "source_mp3": "https://vgmsite.com/soundtracks/game-sound-museum-famicom-ban-sp-disk-writer/jwwrjqqynt/03.%20AB%20Level%20Error%20-%20Card%20Failure%20Error.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/game-sound-museum-famicom-ban-sp-disk-writer/jwwrjqqynt/03.%20AB%20Level%20Error%20-%20Card%20Failure%20Error.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/game-sound-museum-famicom-ban-sp-disk-writer/03.%2520AB%2520Level%2520Error%2520-%2520Card%2520Failure%2520Error.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 21695037,
+      "filesize_mp3_bytes": 5641338,
+      "track_number": 4,
+      "title": "Demo Sound Source",
+      "runtime": 220,
+      "source_mp3": "https://vgmsite.com/soundtracks/game-sound-museum-famicom-ban-sp-disk-writer/lpkbsokqyk/04.%20Demo%20Sound%20Source.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/game-sound-museum-famicom-ban-sp-disk-writer/lpkbsokqyk/04.%20Demo%20Sound%20Source.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/game-sound-museum-famicom-ban-sp-disk-writer/04.%2520Demo%2520Sound%2520Source.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 502,
+    "filesize_mp3_bytes": 12719225,
+    "filesize_flac_bytes": 47909436,
+    "tracks": 4
+  }
+}

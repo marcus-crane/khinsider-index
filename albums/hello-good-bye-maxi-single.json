@@ -1,0 +1,75 @@
+{
+  "title": "Hello,good-bye Opening theme & Ending theme",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T11:58:06.063118+00:00",
+  "slug": "hello-good-bye-maxi-single",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hello-good-bye-maxi-single",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/hello-good-bye-maxi-single/Cover.jpg"
+  ],
+  "year": 2010,
+  "catalog_number": "LOS-SP003",
+  "date_added": "2018-01-14T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Lump of Sugar": "https://downloads.khinsider.com/game-soundtracks/publisher/lump-of-sugar"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 35085352,
+      "filesize_mp3_bytes": 11314135,
+      "track_number": 1,
+      "title": "Good-bye crisis",
+      "runtime": 265,
+      "source_mp3": "https://vgmsite.com/soundtracks/hello-good-bye-maxi-single/lyxsukyx/01%20Good-bye%20crisis.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hello-good-bye-maxi-single/lyxsukyx/01%20Good-bye%20crisis.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hello-good-bye-maxi-single/01%2520Good-bye%2520crisis.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 27493662,
+      "filesize_mp3_bytes": 11398021,
+      "track_number": 2,
+      "title": "unnamed place",
+      "runtime": 267,
+      "source_mp3": "https://vgmsite.com/soundtracks/hello-good-bye-maxi-single/dpewccau/02%20unnamed%20place.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hello-good-bye-maxi-single/dpewccau/02%20unnamed%20place.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hello-good-bye-maxi-single/02%2520unnamed%2520place.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 35043409,
+      "filesize_mp3_bytes": 11314135,
+      "track_number": 3,
+      "title": "Good-bye crisis (instrumental)",
+      "runtime": 265,
+      "source_mp3": "https://vgmsite.com/soundtracks/hello-good-bye-maxi-single/khukxuia/03%20Good-bye%20crisis%20%28instrumental%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hello-good-bye-maxi-single/khukxuia/03%20Good-bye%20crisis%20%28instrumental%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hello-good-bye-maxi-single/03%2520Good-bye%2520crisis%2520%2528instrumental%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 26791116,
+      "filesize_mp3_bytes": 11314135,
+      "track_number": 4,
+      "title": "unnamed place (instrumental)",
+      "runtime": 265,
+      "source_mp3": "https://vgmsite.com/soundtracks/hello-good-bye-maxi-single/qkhhfiss/04%20unnamed%20place%20%28instrumental%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hello-good-bye-maxi-single/qkhhfiss/04%20unnamed%20place%20%28instrumental%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hello-good-bye-maxi-single/04%2520unnamed%2520place%2520%2528instrumental%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1062,
+    "filesize_mp3_bytes": 45340426,
+    "filesize_flac_bytes": 124413539,
+    "tracks": 4
+  }
+}

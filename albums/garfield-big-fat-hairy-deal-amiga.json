@@ -1,0 +1,72 @@
+{
+  "title": "Garfield - Big, Fat, Hairy Deal",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T07:38:18.863920+00:00",
+  "slug": "garfield-big-fat-hairy-deal-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/garfield-big-fat-hairy-deal-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/garfield-big-fat-hairy-deal-amiga/330339-garfield-big-fat-hairy-deal-amiga-screenshot-title-screen.png"
+  ],
+  "year": 1988,
+  "date_added": "2017-06-21T00:00:00+00:00",
+  "developers": {
+    "Softek International Ltd.": "https://downloads.khinsider.com/game-soundtracks/developer/softek-international"
+  },
+  "publishers": {
+    "The Edge": "https://downloads.khinsider.com/game-soundtracks/publisher/the-edge"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7109345,
+      "track_number": 1,
+      "title": "Main Theme (1Mb)",
+      "runtime": 233,
+      "source_mp3": "https://vgmsite.com/soundtracks/garfield-big-fat-hairy-deal-amiga/ggquvaiu/01_Main%20Theme%20%281Mb%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/garfield-big-fat-hairy-deal-amiga/01_Main%2520Theme%2520%25281Mb%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7476346,
+      "track_number": 2,
+      "title": "Main Theme (512Kb)",
+      "runtime": 233,
+      "source_mp3": "https://vgmsite.com/soundtracks/garfield-big-fat-hairy-deal-amiga/tnywizty/02_Main%20Theme%20%28512Kb%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/garfield-big-fat-hairy-deal-amiga/02_Main%2520Theme%2520%2528512Kb%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 262144,
+      "track_number": 3,
+      "title": "Appearance",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/garfield-big-fat-hairy-deal-amiga/ywicwlde/03_Appearance.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/garfield-big-fat-hairy-deal-amiga/03_Appearance.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 167772,
+      "track_number": 4,
+      "title": "Unknown",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/garfield-big-fat-hairy-deal-amiga/soswgvqg/04_Unknown.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/garfield-big-fat-hairy-deal-amiga/04_Unknown.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 480,
+    "filesize_mp3_bytes": 15015607,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

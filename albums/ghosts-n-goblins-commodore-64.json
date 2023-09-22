@@ -1,0 +1,58 @@
+{
+  "title": "Ghosts 'n Goblins",
+  "titles_alternative": [
+    "Makaimura",
+    "\u9b54\u754c\u6751"
+  ],
+  "crawled_at": "2023-09-22T08:24:46.272136+00:00",
+  "slug": "ghosts-n-goblins-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ghosts-n-goblins-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ghosts-n-goblins-commodore-64/G1.jpg"
+  ],
+  "year": 1986,
+  "date_added": "2016-03-30T00:00:00+00:00",
+  "developers": {
+    "Capcom": "https://downloads.khinsider.com/game-soundtracks/developer/capcom",
+    "Elite": "https://downloads.khinsider.com/game-soundtracks/developer/elite"
+  },
+  "publishers": {
+    "Capcom": "https://downloads.khinsider.com/game-soundtracks/publisher/capcom",
+    "Elite": "https://downloads.khinsider.com/game-soundtracks/publisher/elite",
+    "Encore": "https://downloads.khinsider.com/game-soundtracks/publisher/encore"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4246732,
+      "track_number": 1,
+      "title": "In-Game",
+      "runtime": 231,
+      "source_mp3": "https://vgmsite.com/soundtracks/ghosts-n-goblins-commodore-64/livjgych/01_In-Game.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ghosts-n-goblins-commodore-64/01_In-Game.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2317352,
+      "track_number": 2,
+      "title": "High Score",
+      "runtime": 148,
+      "source_mp3": "https://vgmsite.com/soundtracks/ghosts-n-goblins-commodore-64/qrvmqetl/02_High%20Score.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ghosts-n-goblins-commodore-64/02_High%2520Score.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 379,
+    "filesize_mp3_bytes": 6564084,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}
