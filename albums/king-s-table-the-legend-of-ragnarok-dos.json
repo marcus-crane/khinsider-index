@@ -1,0 +1,48 @@
+{
+  "title": "King's Table - The Legend of Ragnarok",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T19:28:09.489426+00:00",
+  "slug": "king-s-table-the-legend-of-ragnarok-dos",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/king-s-table-the-legend-of-ragnarok-dos",
+  "platforms": {
+    "MS-DOS": "https://downloads.khinsider.com/game-soundtracks/ms-dos"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/king-s-table-the-legend-of-ragnarok-dos/King%27s%20Table%20The%20Legend%20of%20Ragnarok%20Dos%20back%20cover.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2020-07-18T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8745123,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 364,
+      "source_mp3": "https://vgmsite.com/soundtracks/king-s-table-the-legend-of-ragnarok-dos/fgpxencfbt/01%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/king-s-table-the-legend-of-ragnarok-dos/01%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10758389,
+      "track_number": 2,
+      "title": "In-game",
+      "runtime": 448,
+      "source_mp3": "https://vgmsite.com/soundtracks/king-s-table-the-legend-of-ragnarok-dos/dvykvvktlg/02%20In-game.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/king-s-table-the-legend-of-ragnarok-dos/02%2520In-game.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 812,
+    "filesize_mp3_bytes": 19503512,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

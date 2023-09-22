@@ -1,0 +1,68 @@
+{
+  "title": "Ice Climber",
+  "titles_alternative": [
+    "\u30a2\u30a4\u30b9\u30af\u30e9\u30a4\u30de\u30fc"
+  ],
+  "crawled_at": "2023-09-22T15:13:10.735573+00:00",
+  "slug": "ice-climber-nec-pc-88",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ice-climber-nec-pc-88",
+  "platforms": {
+    "PC-88": "https://downloads.khinsider.com/game-soundtracks/pc-8801"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ice-climber-nec-pc-88/Ice%20Climber.png"
+  ],
+  "year": 1985,
+  "date_added": "2022-05-09T00:00:00+00:00",
+  "developers": {
+    "Hudson": "https://downloads.khinsider.com/game-soundtracks/developer/hudson",
+    "Nintendo R&D1": "https://downloads.khinsider.com/game-soundtracks/developer/nintendo-r-d1"
+  },
+  "publishers": {
+    "Hudson": "https://downloads.khinsider.com/game-soundtracks/publisher/hudson"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 964689,
+      "filesize_mp3_bytes": 377487,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 21,
+      "source_mp3": "https://vgmsite.com/soundtracks/ice-climber-nec-pc-88/mjzromhdot/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ice-climber-nec-pc-88/mjzromhdot/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ice-climber-nec-pc-88/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 891289,
+      "filesize_mp3_bytes": 975175,
+      "track_number": 2,
+      "title": "Main BGM",
+      "runtime": 38,
+      "source_mp3": "https://vgmsite.com/soundtracks/ice-climber-nec-pc-88/prjbiitpmq/02%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ice-climber-nec-pc-88/prjbiitpmq/02%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ice-climber-nec-pc-88/02%2520Main%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4099932,
+      "filesize_mp3_bytes": 1709178,
+      "track_number": 3,
+      "title": "Bonus Stage BGM",
+      "runtime": 94,
+      "source_mp3": "https://vgmsite.com/soundtracks/ice-climber-nec-pc-88/oamzibmvsk/03%20Bonus%20Stage%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ice-climber-nec-pc-88/oamzibmvsk/03%20Bonus%20Stage%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ice-climber-nec-pc-88/03%2520Bonus%2520Stage%2520BGM.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 153,
+    "filesize_mp3_bytes": 3061840,
+    "filesize_flac_bytes": 5955910,
+    "tracks": 3
+  }
+}

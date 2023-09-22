@@ -1,0 +1,52 @@
+{
+  "title": "Idle Angels",
+  "titles_alternative": [
+    "Idle Angels: Realm of Goddess"
+  ],
+  "crawled_at": "2023-09-22T15:15:58.505465+00:00",
+  "slug": "idle-angels-android-gamerip-2019",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/idle-angels-android-gamerip-2019",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/idle-angels-android-gamerip-2019/Application%20Icon.jpg"
+  ],
+  "year": 2019,
+  "date_added": "2022-12-17T00:00:00+00:00",
+  "developers": {
+    "MUJOY Games": "https://downloads.khinsider.com/game-soundtracks/developer/mujoy-games"
+  },
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8881438,
+      "filesize_mp3_bytes": 2285895,
+      "title": "Battle Section",
+      "runtime": 69,
+      "source_mp3": "https://vgmsite.com/soundtracks/idle-angels-android-gamerip-2019/anzqpivzcd/Battle%20Section.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/idle-angels-android-gamerip-2019/anzqpivzcd/Battle%20Section.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/idle-angels-android-gamerip-2019/Battle%2520Section.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7025459,
+      "filesize_mp3_bytes": 1960837,
+      "title": "Hall Section",
+      "runtime": 59,
+      "source_mp3": "https://vgmsite.com/soundtracks/idle-angels-android-gamerip-2019/bkunsszgzi/Hall%20Section.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/idle-angels-android-gamerip-2019/bkunsszgzi/Hall%20Section.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/idle-angels-android-gamerip-2019/Hall%2520Section.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 128,
+    "filesize_mp3_bytes": 4246732,
+    "filesize_flac_bytes": 15906897,
+    "tracks": 2
+  }
+}

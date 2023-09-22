@@ -1,0 +1,77 @@
+{
+  "title": "Idle Adventure (Longcheng Ltd)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T15:15:56.331525+00:00",
+  "slug": "idle-adventure-longcheng-ltd-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/idle-adventure-longcheng-ltd-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/idle-adventure-longcheng-ltd-android/Screenshot_2016-10-14-14-31-22.png"
+  ],
+  "date_added": "2018-03-06T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1059061,
+      "track_number": 1,
+      "title": "bgm_login",
+      "runtime": 44,
+      "source_mp3": "https://vgmsite.com/soundtracks/idle-adventure-longcheng-ltd-android/synikemt/1%20bgm_login.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/idle-adventure-longcheng-ltd-android/1%2520bgm_login.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 555745,
+      "track_number": 2,
+      "title": "loading_logo_bg",
+      "runtime": 27,
+      "source_mp3": "https://vgmsite.com/soundtracks/idle-adventure-longcheng-ltd-android/fekplakk/2%20loading_logo_bg.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/idle-adventure-longcheng-ltd-android/2%2520loading_logo_bg.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1488977,
+      "track_number": 3,
+      "title": "BGM_MAIN_THEME",
+      "runtime": 93,
+      "source_mp3": "https://vgmsite.com/soundtracks/idle-adventure-longcheng-ltd-android/txhauokr/3%20BGM_MAIN_THEME.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/idle-adventure-longcheng-ltd-android/3%2520BGM_MAIN_THEME.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 996147,
+      "track_number": 4,
+      "title": "fight",
+      "runtime": 62,
+      "source_mp3": "https://vgmsite.com/soundtracks/idle-adventure-longcheng-ltd-android/cdvwtpjj/4%20fight.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/idle-adventure-longcheng-ltd-android/4%2520fight.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 597688,
+      "track_number": 5,
+      "title": "fight2",
+      "runtime": 75,
+      "source_mp3": "https://vgmsite.com/soundtracks/idle-adventure-longcheng-ltd-android/ldmrrxrz/5%20fight2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/idle-adventure-longcheng-ltd-android/5%2520fight2.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 301,
+    "filesize_mp3_bytes": 4697618,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

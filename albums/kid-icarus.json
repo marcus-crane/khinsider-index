@@ -1,0 +1,168 @@
+{
+  "title": "Kid Icarus",
+  "titles_alternative": [
+    "\u5149\u795e\u8a71 \u30d1\u30eb\u30c6\u30ca\u306e\u93e1"
+  ],
+  "crawled_at": "2023-09-22T18:44:27.828044+00:00",
+  "slug": "kid-icarus",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/kid-icarus",
+  "platforms": {
+    "FDS": "https://downloads.khinsider.com/game-soundtracks/famicom-disk-system",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/kid-icarus/coverart.jpg"
+  ],
+  "year": 1986,
+  "date_added": "2022-05-18T00:00:00+00:00",
+  "developers": {
+    "Nintendo R&D1": "https://downloads.khinsider.com/game-soundtracks/developer/nintendo-r-d1",
+    "Tose": "https://downloads.khinsider.com/game-soundtracks/developer/tose"
+  },
+  "publishers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3984588,
+      "filesize_mp3_bytes": 1520435,
+      "track_number": 1,
+      "title": "Title BGM",
+      "runtime": 77,
+      "source_mp3": "https://vgmsite.com/soundtracks/kid-icarus/oxgodbqkfd/01%20Title%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kid-icarus/oxgodbqkfd/01%20Title%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kid-icarus/01%2520Title%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4603248,
+      "filesize_mp3_bytes": 1793064,
+      "track_number": 2,
+      "title": "The Underworld",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/kid-icarus/yeogmqatrb/02%20The%20Underworld.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kid-icarus/yeogmqatrb/02%20The%20Underworld.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kid-icarus/02%2520The%2520Underworld.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6752829,
+      "filesize_mp3_bytes": 2946498,
+      "track_number": 3,
+      "title": "The Overworld",
+      "runtime": 144,
+      "source_mp3": "https://vgmsite.com/soundtracks/kid-icarus/mtlskfiukv/03%20The%20Overworld.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kid-icarus/mtlskfiukv/03%20The%20Overworld.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kid-icarus/03%2520The%2520Overworld.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2453667,
+      "filesize_mp3_bytes": 1048576,
+      "track_number": 4,
+      "title": "The Sky World",
+      "runtime": 57,
+      "source_mp3": "https://vgmsite.com/soundtracks/kid-icarus/dbegydqcus/04%20The%20Sky%20World.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kid-icarus/dbegydqcus/04%20The%20Sky%20World.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kid-icarus/04%2520The%2520Sky%2520World.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3481272,
+      "filesize_mp3_bytes": 1677721,
+      "track_number": 5,
+      "title": "Labyrinth",
+      "runtime": 104,
+      "source_mp3": "https://vgmsite.com/soundtracks/kid-icarus/norgzivgxf/05%20Labyrinth.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kid-icarus/norgzivgxf/05%20Labyrinth.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kid-icarus/05%2520Labyrinth.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1499463,
+      "filesize_mp3_bytes": 650117,
+      "track_number": 6,
+      "title": "Boss",
+      "runtime": 36,
+      "source_mp3": "https://vgmsite.com/soundtracks/kid-icarus/yekccopueu/06%20Boss.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kid-icarus/yekccopueu/06%20Boss.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kid-icarus/06%2520Boss.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 136314,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 7,
+      "title": "Stage Clear",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/kid-icarus/bhysuupxts/07%20Stage%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kid-icarus/bhysuupxts/07%20Stage%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kid-icarus/07%2520Stage%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 545259,
+      "filesize_mp3_bytes": 262144,
+      "track_number": 8,
+      "title": "Reaper Theme",
+      "runtime": 16,
+      "source_mp3": "https://vgmsite.com/soundtracks/kid-icarus/ljsokzadhz/08%20Reaper%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kid-icarus/ljsokzadhz/08%20Reaper%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kid-icarus/08%2520Reaper%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4687134,
+      "filesize_mp3_bytes": 2044723,
+      "track_number": 9,
+      "title": "The Palace in the Sky",
+      "runtime": 104,
+      "source_mp3": "https://vgmsite.com/soundtracks/kid-icarus/pziiunwdsg/09%20The%20Palace%20in%20the%20Sky.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kid-icarus/pziiunwdsg/09%20The%20Palace%20in%20the%20Sky.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kid-icarus/09%2520The%2520Palace%2520in%2520the%2520Sky.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1656750,
+      "filesize_mp3_bytes": 859832,
+      "track_number": 10,
+      "title": "Last Boss",
+      "runtime": 36,
+      "source_mp3": "https://vgmsite.com/soundtracks/kid-icarus/ffybrutpjt/10%20Last%20Boss.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kid-icarus/ffybrutpjt/10%20Last%20Boss.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kid-icarus/10%2520Last%2520Boss.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5421137,
+      "filesize_mp3_bytes": 1939865,
+      "track_number": 11,
+      "title": "Ending",
+      "runtime": 105,
+      "source_mp3": "https://vgmsite.com/soundtracks/kid-icarus/vrwllglnct/11%20Ending.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kid-icarus/vrwllglnct/11%20Ending.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kid-icarus/11%2520Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 157286,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 12,
+      "title": "Game Over",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/kid-icarus/hzkiccmhlj/12%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kid-icarus/hzkiccmhlj/12%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kid-icarus/12%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 783,
+    "filesize_mp3_bytes": 14868803,
+    "filesize_flac_bytes": 35378947,
+    "tracks": 12
+  }
+}

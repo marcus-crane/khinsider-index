@@ -1,0 +1,111 @@
+{
+  "title": "Karnov (Karnov)",
+  "titles_alternative": [
+    "\u30ab\u30eb\u30ce\u30d5"
+  ],
+  "crawled_at": "2023-09-22T18:22:02.791114+00:00",
+  "slug": "karnov-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/karnov-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/karnov-arcade/K1.jpg"
+  ],
+  "year": 1987,
+  "date_added": "2022-05-05T00:00:00+00:00",
+  "developers": {
+    "Data East": "https://downloads.khinsider.com/game-soundtracks/developer/data-east"
+  },
+  "publishers": {
+    "Data East": "https://downloads.khinsider.com/game-soundtracks/publisher/data-east"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3407872,
+      "filesize_mp3_bytes": 1709178,
+      "track_number": 1,
+      "title": "Karnov Theme",
+      "runtime": 83,
+      "source_mp3": "https://vgmsite.com/soundtracks/karnov-arcade/ldlrbznykc/01%20Karnov%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/karnov-arcade/ldlrbznykc/01%20Karnov%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/karnov-arcade/01%2520Karnov%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 157286,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 2,
+      "title": "Player Out",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/karnov-arcade/ckdffmkbdy/02%20Player%20Out.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/karnov-arcade/ckdffmkbdy/02%20Player%20Out.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/karnov-arcade/02%2520Player%2520Out.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 167772,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 3,
+      "title": "Clear",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/karnov-arcade/yuyuexcjvz/03%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/karnov-arcade/yuyuexcjvz/03%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/karnov-arcade/03%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 975175,
+      "filesize_mp3_bytes": 513802,
+      "track_number": 4,
+      "title": "Hurry Up!",
+      "runtime": 25,
+      "source_mp3": "https://vgmsite.com/soundtracks/karnov-arcade/sjnppzreli/04%20Hurry%20Up%21.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/karnov-arcade/sjnppzreli/04%20Hurry%20Up%21.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/karnov-arcade/04%2520Hurry%2520Up%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 964689,
+      "filesize_mp3_bytes": 387973,
+      "track_number": 5,
+      "title": "All Cleared",
+      "runtime": 18,
+      "source_mp3": "https://vgmsite.com/soundtracks/karnov-arcade/ogznxiobux/05%20All%20Cleared.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/karnov-arcade/ogznxiobux/05%20All%20Cleared.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/karnov-arcade/05%2520All%2520Cleared.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1950351,
+      "filesize_mp3_bytes": 849346,
+      "track_number": 6,
+      "title": "Name Entry",
+      "runtime": 42,
+      "source_mp3": "https://vgmsite.com/soundtracks/karnov-arcade/pmfpejtrbz/06%20Name%20Entry.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/karnov-arcade/pmfpejtrbz/06%20Name%20Entry.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/karnov-arcade/06%2520Name%2520Entry.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 209715,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 7,
+      "title": "Game Over",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/karnov-arcade/dwzmbratlk/07%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/karnov-arcade/dwzmbratlk/07%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/karnov-arcade/07%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 181,
+    "filesize_mp3_bytes": 3690984,
+    "filesize_flac_bytes": 7832860,
+    "tracks": 7
+  }
+}

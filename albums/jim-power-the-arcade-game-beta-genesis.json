@@ -1,0 +1,43 @@
+{
+  "title": "Jim Power - The Arcade Game (beta)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T17:07:30.096319+00:00",
+  "slug": "jim-power-the-arcade-game-beta-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/jim-power-the-arcade-game-beta-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/jim-power-the-arcade-game-beta-genesis/Jim%20Power%20-%20The%20Arcade%20Game.png"
+  ],
+  "year": 1993,
+  "date_added": "2020-03-11T00:00:00+00:00",
+  "developers": {
+    "Loriciel": "https://downloads.khinsider.com/game-soundtracks/developer/loriciel"
+  },
+  "publishers": {
+    "Loriciel": "https://downloads.khinsider.com/game-soundtracks/publisher/loriciel"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 17291018,
+      "filesize_mp3_bytes": 5704253,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 280,
+      "source_mp3": "https://vgmsite.com/soundtracks/jim-power-the-arcade-game-beta-genesis/sysfwfazly/01%20-%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jim-power-the-arcade-game-beta-genesis/sysfwfazly/01%20-%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jim-power-the-arcade-game-beta-genesis/01%2520-%2520Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 280,
+    "filesize_mp3_bytes": 5704253,
+    "filesize_flac_bytes": 17291018,
+    "tracks": 1
+  }
+}

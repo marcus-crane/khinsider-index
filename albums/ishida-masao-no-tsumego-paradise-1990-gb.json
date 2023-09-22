@@ -1,0 +1,56 @@
+{
+  "title": "Ishida Masao no Tsumego Paradise",
+  "titles_alternative": [
+    "\u77f3\u7530\u82b3\u592b\u8a70\u7881\u30d1\u30e9\u30c0\u30a4\u30b9"
+  ],
+  "crawled_at": "2023-09-22T16:23:40.718324+00:00",
+  "slug": "ishida-masao-no-tsumego-paradise-1990-gb",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ishida-masao-no-tsumego-paradise-1990-gb",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ishida-masao-no-tsumego-paradise-1990-gb/Ishida%20Masao%20no%20Tsumego%20Paradise.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2022-04-25T00:00:00+00:00",
+  "developers": {
+    "Pony Canyon": "https://downloads.khinsider.com/game-soundtracks/developer/pony-canyon"
+  },
+  "publishers": {
+    "Pony Canyon": "https://downloads.khinsider.com/game-soundtracks/publisher/pony-canyon"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10590617,
+      "filesize_mp3_bytes": 3334471,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/ishida-masao-no-tsumego-paradise-1990-gb/ccljgtqqjd/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ishida-masao-no-tsumego-paradise-1990-gb/ccljgtqqjd/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ishida-masao-no-tsumego-paradise-1990-gb/01%2520BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9416212,
+      "filesize_mp3_bytes": 3586129,
+      "track_number": 2,
+      "title": "BGM #02",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/ishida-masao-no-tsumego-paradise-1990-gb/gbejdxrabf/02%20BGM%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ishida-masao-no-tsumego-paradise-1990-gb/gbejdxrabf/02%20BGM%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ishida-masao-no-tsumego-paradise-1990-gb/02%2520BGM%2520%252302.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 360,
+    "filesize_mp3_bytes": 6920600,
+    "filesize_flac_bytes": 20006829,
+    "tracks": 2
+  }
+}

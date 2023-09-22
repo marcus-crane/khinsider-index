@@ -1,0 +1,73 @@
+{
+  "title": "Hydra",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T14:44:17.868473+00:00",
+  "slug": "hydra-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hydra-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/hydra-amiga/H1.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2021-03-18T00:00:00+00:00",
+  "developers": {
+    "Atari": "https://downloads.khinsider.com/game-soundtracks/developer/atari",
+    "ICE Software": "https://downloads.khinsider.com/game-soundtracks/developer/ice-software"
+  },
+  "publishers": {
+    "Domark": "https://downloads.khinsider.com/game-soundtracks/publisher/domark"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3670016,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 176,
+      "source_mp3": "https://vgmsite.com/soundtracks/hydra-amiga/szhhldpwul/01%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hydra-amiga/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2936012,
+      "track_number": 2,
+      "title": "Mission",
+      "runtime": 139,
+      "source_mp3": "https://vgmsite.com/soundtracks/hydra-amiga/ppvgwaeoua/02%20Mission.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hydra-amiga/02%2520Mission.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3470786,
+      "track_number": 3,
+      "title": "InGame Theme",
+      "runtime": 166,
+      "source_mp3": "https://vgmsite.com/soundtracks/hydra-amiga/inuazinpud/03%20InGame%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hydra-amiga/03%2520InGame%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1384120,
+      "track_number": 4,
+      "title": "Ziggy Weapon Shoppe",
+      "runtime": 62,
+      "source_mp3": "https://vgmsite.com/soundtracks/hydra-amiga/pmcvcysyzv/04%20Ziggy%20Weapon%20Shoppe.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hydra-amiga/04%2520Ziggy%2520Weapon%2520Shoppe.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 543,
+    "filesize_mp3_bytes": 11460934,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

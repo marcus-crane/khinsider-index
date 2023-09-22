@@ -1,0 +1,43 @@
+{
+  "title": "Jimmy White's Whirlwind Snooker",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T17:08:54.532198+00:00",
+  "slug": "jimmy-white-s-whirlwind-snooker-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/jimmy-white-s-whirlwind-snooker-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/jimmy-white-s-whirlwind-snooker-genesis/Jimmy%20White%27s%20Whirlwind%20Snooker.png"
+  ],
+  "year": 1994,
+  "date_added": "2020-03-10T00:00:00+00:00",
+  "developers": {
+    "Archer MacLean": "https://downloads.khinsider.com/game-soundtracks/developer/archer-maclean"
+  },
+  "publishers": {
+    "Virgin": "https://downloads.khinsider.com/game-soundtracks/publisher/virgin"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2233466,
+      "filesize_mp3_bytes": 1069547,
+      "track_number": 1,
+      "title": "Snooker",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/jimmy-white-s-whirlwind-snooker-genesis/atpnfsvzzv/01%20-%20Snooker.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jimmy-white-s-whirlwind-snooker-genesis/atpnfsvzzv/01%20-%20Snooker.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jimmy-white-s-whirlwind-snooker-genesis/01%2520-%2520Snooker.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 48,
+    "filesize_mp3_bytes": 1069547,
+    "filesize_flac_bytes": 2233466,
+    "tracks": 1
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "title": "Jangou",
+  "titles_alternative": [
+    "\u96c0\u8c6a"
+  ],
+  "crawled_at": "2023-09-22T16:48:58.455116+00:00",
+  "slug": "jangou-1990-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/jangou-1990-nes",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/jangou-1990-nes/Jangou.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2022-05-05T00:00:00+00:00",
+  "developers": {
+    "Orpheck": "https://downloads.khinsider.com/game-soundtracks/developer/orpheck"
+  },
+  "publishers": {
+    "Victor": "https://downloads.khinsider.com/game-soundtracks/publisher/victor"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8933867,
+      "filesize_mp3_bytes": 4141875,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/jangou-1990-nes/rgtnzpmyuo/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jangou-1990-nes/rgtnzpmyuo/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jangou-1990-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 314572,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/jangou-1990-nes/fqlfhmuycx/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jangou-1990-nes/fqlfhmuycx/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jangou-1990-nes/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 199229,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/jangou-1990-nes/qiuvcyhfun/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jangou-1990-nes/qiuvcyhfun/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jangou-1990-nes/03.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 192,
+    "filesize_mp3_bytes": 4351589,
+    "filesize_flac_bytes": 9447668,
+    "tracks": 3
+  }
+}

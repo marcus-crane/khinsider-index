@@ -1,0 +1,80 @@
+{
+  "title": "Kekkyoku Nankyoku Daibouken",
+  "titles_alternative": [
+    "Antarctic Adventure",
+    "\u3051\u3063\u304d\u3087\u304f\u5357\u6975\u5927\u5192\u967a"
+  ],
+  "crawled_at": "2023-09-22T18:33:49.289414+00:00",
+  "slug": "kekkyoku-nankyoku-daibouken-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/kekkyoku-nankyoku-daibouken-nes",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/kekkyoku-nankyoku-daibouken-nes/295629-antarctic-adventure-nes-front-cover.jpg"
+  ],
+  "year": 1985,
+  "date_added": "2022-06-15T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami"
+  },
+  "publishers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 304087,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 1,
+      "title": "Game Start",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/kekkyoku-nankyoku-daibouken-nes/ppgmjpqbrv/01%20Game%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kekkyoku-nankyoku-daibouken-nes/ppgmjpqbrv/01%20Game%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kekkyoku-nankyoku-daibouken-nes/01%2520Game%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2883584,
+      "filesize_mp3_bytes": 1101004,
+      "track_number": 2,
+      "title": "The Skater's Waltz",
+      "runtime": 61,
+      "source_mp3": "https://vgmsite.com/soundtracks/kekkyoku-nankyoku-daibouken-nes/bqxxjphefv/02%20The%20Skater%27s%20Waltz.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kekkyoku-nankyoku-daibouken-nes/bqxxjphefv/02%20The%20Skater%27s%20Waltz.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kekkyoku-nankyoku-daibouken-nes/02%2520The%2520Skater%2527s%2520Waltz.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 272629,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 3,
+      "title": "Course Clear",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/kekkyoku-nankyoku-daibouken-nes/miqphrjqbc/03%20Course%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kekkyoku-nankyoku-daibouken-nes/miqphrjqbc/03%20Course%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kekkyoku-nankyoku-daibouken-nes/03%2520Course%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 283115,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 4,
+      "title": "Time Over",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/kekkyoku-nankyoku-daibouken-nes/kjpcpjrbvh/04%20Time%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kekkyoku-nankyoku-daibouken-nes/kjpcpjrbvh/04%20Time%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kekkyoku-nankyoku-daibouken-nes/04%2520Time%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 79,
+    "filesize_mp3_bytes": 1415575,
+    "filesize_flac_bytes": 3743415,
+    "tracks": 4
+  }
+}

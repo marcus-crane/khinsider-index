@@ -1,0 +1,104 @@
+{
+  "title": "Shine of Darkness 2",
+  "titles_alternative": [
+    "Hydlide II: Shine of Darkness"
+  ],
+  "crawled_at": "2023-09-22T14:43:13.975778+00:00",
+  "slug": "hydlide-2-msx",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hydlide-2-msx",
+  "platforms": {
+    "MSX": "https://downloads.khinsider.com/game-soundtracks/msx"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/hydlide-2-msx/4548611-hydlide-ii-shine-of-darkness-msx-front-cover.jpg"
+  ],
+  "year": 1986,
+  "date_added": "2019-04-08T00:00:00+00:00",
+  "developers": {
+    "T&E Soft": "https://downloads.khinsider.com/game-soundtracks/developer/t-e-soft"
+  },
+  "publishers": {
+    "T&E Soft": "https://downloads.khinsider.com/game-soundtracks/publisher/t-e-soft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 492830,
+      "track_number": 1,
+      "title": "Opening",
+      "runtime": 18,
+      "source_mp3": "https://vgmsite.com/soundtracks/hydlide-2-msx/raggokab/01_Opening.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hydlide-2-msx/01_Opening.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1509949,
+      "track_number": 2,
+      "title": "BGM #05",
+      "runtime": 56,
+      "source_mp3": "https://vgmsite.com/soundtracks/hydlide-2-msx/tuksokxe/02_BGM%20%2305.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hydlide-2-msx/02_BGM%2520%252305.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1289748,
+      "track_number": 3,
+      "title": "Rose Squirrel",
+      "runtime": 43,
+      "source_mp3": "https://vgmsite.com/soundtracks/hydlide-2-msx/axtmvwzh/03_Rose%20Squirrel.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hydlide-2-msx/03_Rose%2520Squirrel.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 262144,
+      "track_number": 4,
+      "title": "BGM #07",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/hydlide-2-msx/ccrrtray/04_BGM%20%2307.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hydlide-2-msx/04_BGM%2520%252307.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 996147,
+      "track_number": 5,
+      "title": "BGM #08",
+      "runtime": 37,
+      "source_mp3": "https://vgmsite.com/soundtracks/hydlide-2-msx/dqvcdlzg/05_BGM%20%2308.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hydlide-2-msx/05_BGM%2520%252308.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 996147,
+      "track_number": 6,
+      "title": "BGM #0c",
+      "runtime": 37,
+      "source_mp3": "https://vgmsite.com/soundtracks/hydlide-2-msx/zgjyollp/06_BGM%20%230c.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hydlide-2-msx/06_BGM%2520%25230c.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 419430,
+      "track_number": 7,
+      "title": "BGM #10",
+      "runtime": 15,
+      "source_mp3": "https://vgmsite.com/soundtracks/hydlide-2-msx/bdpbmsxx/07_BGM%20%2310.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hydlide-2-msx/07_BGM%2520%252310.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 215,
+    "filesize_mp3_bytes": 5966395,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

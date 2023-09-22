@@ -1,0 +1,46 @@
+{
+  "title": "Hoshibito - planet development (GOODROID, Inc)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T14:16:32.245226+00:00",
+  "slug": "hoshibito-planet-development-goodroid-inc-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hoshibito-planet-development-goodroid-inc-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/hoshibito-planet-development-goodroid-inc-android/1.jpg"
+  ],
+  "year": 2015,
+  "date_added": "2017-03-14T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1258291,
+      "title": "bgm_fever",
+      "runtime": 32,
+      "source_mp3": "https://vgmsite.com/soundtracks/hoshibito-planet-development-goodroid-inc-android/yimkzmqx/bgm_fever.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hoshibito-planet-development-goodroid-inc-android/bgm_fever.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1824522,
+      "title": "bgm_main",
+      "runtime": 45,
+      "source_mp3": "https://vgmsite.com/soundtracks/hoshibito-planet-development-goodroid-inc-android/nsvhnjkj/bgm_main.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hoshibito-planet-development-goodroid-inc-android/bgm_main.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 77,
+    "filesize_mp3_bytes": 3082813,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

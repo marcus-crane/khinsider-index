@@ -1,0 +1,84 @@
+{
+  "title": "THE LUNATIC: IBARA REMIX TRACKS",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T15:07:26.848474+00:00",
+  "slug": "ibara-remix-tracks",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ibara-remix-tracks",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade",
+    "PS2": "https://downloads.khinsider.com/game-soundtracks/playstation-2"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ibara-remix-tracks/Ibara%20Remix%20Tracks.jpg"
+  ],
+  "year": 2006,
+  "catalog_number": "INCD-0111",
+  "date_added": "2014-06-18T00:00:00+00:00",
+  "developers": {
+    "Cave": "https://downloads.khinsider.com/game-soundtracks/developer/cave"
+  },
+  "publishers": {
+    "Insanity Naked Hunter": "https://downloads.khinsider.com/game-soundtracks/publisher/insanity-naked-hunter"
+  },
+  "genres": {
+    "Remix": "https://downloads.khinsider.com/game-soundtracks/remixes"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2191523,
+      "track_number": 1,
+      "title": "Weapon Select",
+      "runtime": 113,
+      "source_mp3": "https://vgmsite.com/soundtracks/ibara-remix-tracks/xxpsjjzx/01%20Weapon%20Select.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ibara-remix-tracks/01%2520Weapon%2520Select.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6994001,
+      "track_number": 2,
+      "title": "Show Time",
+      "runtime": 222,
+      "source_mp3": "https://vgmsite.com/soundtracks/ibara-remix-tracks/ghssjxkz/02%20Show%20Time.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ibara-remix-tracks/02%2520Show%2520Time.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6354370,
+      "track_number": 3,
+      "title": "Bonds of Steel",
+      "runtime": 234,
+      "source_mp3": "https://vgmsite.com/soundtracks/ibara-remix-tracks/tzfajkra/03%20Bonds%20of%20Steel.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ibara-remix-tracks/03%2520Bonds%2520of%2520Steel.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10349445,
+      "track_number": 4,
+      "title": "Rose Garden",
+      "runtime": 293,
+      "source_mp3": "https://vgmsite.com/soundtracks/ibara-remix-tracks/tsfupqkm/04%20Rose%20Garden.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ibara-remix-tracks/04%2520Rose%2520Garden.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8241807,
+      "track_number": 5,
+      "title": "Endress Train",
+      "runtime": 267,
+      "source_mp3": "https://vgmsite.com/soundtracks/ibara-remix-tracks/nixaxufo/05%20Endress%20Train.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ibara-remix-tracks/05%2520Endress%2520Train.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1129,
+    "filesize_mp3_bytes": 34131146,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Impossamole",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T15:36:40.420697+00:00",
+  "slug": "impossamole-c64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/impossamole-c64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/impossamole-c64/IM.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2017-08-24T00:00:00+00:00",
+  "developers": {
+    "Core Design": "https://downloads.khinsider.com/game-soundtracks/developer/core-design"
+  },
+  "publishers": {
+    "Gremlin Graphics": "https://downloads.khinsider.com/game-soundtracks/publisher/gremlin-graphics"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6794772,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 319,
+      "source_mp3": "https://vgmsite.com/soundtracks/impossamole-c64/pcyaqjul/01_Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/impossamole-c64/01_Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11230248,
+      "track_number": 2,
+      "title": "Main Theme (SID Stereo)",
+      "runtime": 320,
+      "source_mp3": "https://vgmsite.com/soundtracks/impossamole-c64/gzqbjlmp/02_Main%20Theme%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/impossamole-c64/02_Main%2520Theme%2520%2528SID%2520Stereo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 639,
+    "filesize_mp3_bytes": 18025020,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

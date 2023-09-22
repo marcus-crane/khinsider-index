@@ -1,0 +1,56 @@
+{
+  "title": "Hysteria",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T14:58:21.252204+00:00",
+  "slug": "hysteria-1995-snes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hysteria-1995-snes",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/hysteria-1995-snes/Hysteria.png"
+  ],
+  "year": 1995,
+  "date_added": "2019-08-12T00:00:00+00:00",
+  "developers": {
+    "Anthrox": "https://downloads.khinsider.com/game-soundtracks/developer/anthrox",
+    "Insomnia": "https://downloads.khinsider.com/game-soundtracks/developer/insomnia"
+  },
+  "publishers": {
+    "Anthrox": "https://downloads.khinsider.com/game-soundtracks/publisher/anthrox",
+    "Insomnia": "https://downloads.khinsider.com/game-soundtracks/publisher/insomnia"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 12614369,
+      "filesize_mp3_bytes": 4812963,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 238,
+      "source_mp3": "https://vgmsite.com/soundtracks/hysteria-1995-snes/vbtjhqbeyp/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hysteria-1995-snes/vbtjhqbeyp/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hysteria-1995-snes/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9185525,
+      "filesize_mp3_bytes": 4099932,
+      "track_number": 2,
+      "title": "Level Music",
+      "runtime": 186,
+      "source_mp3": "https://vgmsite.com/soundtracks/hysteria-1995-snes/fzwcdjqqrp/02%20Level%20Music.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hysteria-1995-snes/fzwcdjqqrp/02%20Level%20Music.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hysteria-1995-snes/02%2520Level%2520Music.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 424,
+    "filesize_mp3_bytes": 8912895,
+    "filesize_flac_bytes": 21799894,
+    "tracks": 2
+  }
+}

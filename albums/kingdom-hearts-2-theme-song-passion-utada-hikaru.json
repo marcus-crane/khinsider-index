@@ -1,0 +1,51 @@
+{
+  "title": "Kingdom Hearts 2 Theme Song - Passion [Utada Hikaru]",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T19:30:00.356140+00:00",
+  "slug": "kingdom-hearts-2-theme-song-passion-utada-hikaru",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/kingdom-hearts-2-theme-song-passion-utada-hikaru",
+  "platforms": {
+    "PS2": "https://downloads.khinsider.com/game-soundtracks/playstation-2",
+    "PS3": "https://downloads.khinsider.com/game-soundtracks/playstation-3"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/kingdom-hearts-2-theme-song-passion-utada-hikaru/01%20-%20Front.jpg"
+  ],
+  "year": 2005,
+  "date_added": "2019-04-24T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 32778485,
+      "filesize_mp3_bytes": 11303649,
+      "track_number": 1,
+      "title": "Passion ~single version~",
+      "runtime": 283,
+      "source_mp3": "https://vgmsite.com/soundtracks/kingdom-hearts-2-theme-song-passion-utada-hikaru/qgpglrai/01.%20Passion%20~single%20version~.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kingdom-hearts-2-theme-song-passion-utada-hikaru/qgpglrai/01.%20Passion%20~single%20version~.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kingdom-hearts-2-theme-song-passion-utada-hikaru/01.%2520Passion%2520~single%2520version~.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 37675335,
+      "filesize_mp3_bytes": 14313062,
+      "track_number": 2,
+      "title": "Passion ~after the battle~",
+      "runtime": 358,
+      "source_mp3": "https://vgmsite.com/soundtracks/kingdom-hearts-2-theme-song-passion-utada-hikaru/exetjhht/02.%20Passion%20~after%20the%20battle~.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kingdom-hearts-2-theme-song-passion-utada-hikaru/exetjhht/02.%20Passion%20~after%20the%20battle~.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kingdom-hearts-2-theme-song-passion-utada-hikaru/02.%2520Passion%2520~after%2520the%2520battle~.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 641,
+    "filesize_mp3_bytes": 25616711,
+    "filesize_flac_bytes": 70453820,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "title": "Kingdom Hearts - Hikari",
+  "titles_alternative": [
+    "Hikari / Hikaru Utada",
+    "\u5149\uff0f\u5b87\u591a\u7530\u30d2\u30ab\u30eb"
+  ],
+  "crawled_at": "2023-09-22T19:34:50.373852+00:00",
+  "slug": "kingdom-hearts-hikari",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/kingdom-hearts-hikari",
+  "platforms": {
+    "PS2": "https://downloads.khinsider.com/game-soundtracks/playstation-2"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/kingdom-hearts-hikari/268x0w.jpg"
+  ],
+  "year": 2002,
+  "catalog_number": "TOCT-4361",
+  "date_added": "2019-04-24T00:00:00+00:00",
+  "developers": {
+    "Square Enix": "https://downloads.khinsider.com/game-soundtracks/developer/square-enix"
+  },
+  "publishers": {
+    "Square Enix": "https://downloads.khinsider.com/game-soundtracks/publisher/square-enix"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 39363543,
+      "filesize_mp3_bytes": 12163481,
+      "track_number": 1,
+      "title": "Hikari",
+      "runtime": 304,
+      "source_mp3": "https://vgmsite.com/soundtracks/kingdom-hearts-hikari/hsmqddts/01.%20Hikari.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kingdom-hearts-hikari/hsmqddts/01.%20Hikari.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kingdom-hearts-hikari/01.%2520Hikari.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 40475033,
+      "filesize_mp3_bytes": 13830717,
+      "track_number": 2,
+      "title": "Hikari (PLANITb Remix)",
+      "runtime": 346,
+      "source_mp3": "https://vgmsite.com/soundtracks/kingdom-hearts-hikari/wztkmfrj/02.%20Hikari%20%28PLANITb%20Remix%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kingdom-hearts-hikari/wztkmfrj/02.%20Hikari%20%28PLANITb%20Remix%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kingdom-hearts-hikari/02.%2520Hikari%2520%2528PLANITb%2520Remix%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 33176944,
+      "filesize_mp3_bytes": 11167334,
+      "track_number": 3,
+      "title": "Hikari (Godson Mix)",
+      "runtime": 279,
+      "source_mp3": "https://vgmsite.com/soundtracks/kingdom-hearts-hikari/meajarsx/03.%20Hikari%20%28Godson%20Mix%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kingdom-hearts-hikari/meajarsx/03.%20Hikari%20%28Godson%20Mix%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kingdom-hearts-hikari/03.%2520Hikari%2520%2528Godson%2520Mix%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 38199623,
+      "filesize_mp3_bytes": 12037652,
+      "track_number": 4,
+      "title": "Hikari (Original Karaoke)",
+      "runtime": 301,
+      "source_mp3": "https://vgmsite.com/soundtracks/kingdom-hearts-hikari/survbtrq/04.%20Hikari%20%28Original%20Karaoke%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kingdom-hearts-hikari/survbtrq/04.%20Hikari%20%28Original%20Karaoke%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kingdom-hearts-hikari/04.%2520Hikari%2520%2528Original%2520Karaoke%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1230,
+    "filesize_mp3_bytes": 49199184,
+    "filesize_flac_bytes": 151215143,
+    "tracks": 4
+  }
+}

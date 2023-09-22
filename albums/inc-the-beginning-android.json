@@ -1,0 +1,63 @@
+{
+  "title": "INC The Beginning",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T15:40:33.475950+00:00",
+  "slug": "inc-the-beginning-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/inc-the-beginning-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/inc-the-beginning-android/1.png"
+  ],
+  "date_added": "2017-07-21T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1237319,
+      "title": "tune1",
+      "runtime": 85,
+      "source_mp3": "https://vgmsite.com/soundtracks/inc-the-beginning-android/pvsozavc/tune1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/inc-the-beginning-android/tune1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1111490,
+      "title": "tune2",
+      "runtime": 77,
+      "source_mp3": "https://vgmsite.com/soundtracks/inc-the-beginning-android/wjiagnlj/tune2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/inc-the-beginning-android/tune2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1394606,
+      "title": "tune3",
+      "runtime": 77,
+      "source_mp3": "https://vgmsite.com/soundtracks/inc-the-beginning-android/knfwypgq/tune3.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/inc-the-beginning-android/tune3.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1059061,
+      "title": "tune4",
+      "runtime": 76,
+      "source_mp3": "https://vgmsite.com/soundtracks/inc-the-beginning-android/vrasarff/tune4.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/inc-the-beginning-android/tune4.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 315,
+    "filesize_mp3_bytes": 4802476,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

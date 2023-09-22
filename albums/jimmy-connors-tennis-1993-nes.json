@@ -1,0 +1,76 @@
+{
+  "title": "Jimmy Connors Tennis",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T17:08:20.064099+00:00",
+  "slug": "jimmy-connors-tennis-1993-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/jimmy-connors-tennis-1993-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/jimmy-connors-tennis-1993-nes/Jimmy%20Connors%20Tennis.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2022-05-05T00:00:00+00:00",
+  "developers": {
+    "NMS": "https://downloads.khinsider.com/game-soundtracks/developer/nms"
+  },
+  "publishers": {
+    "Ubisoft": "https://downloads.khinsider.com/game-soundtracks/publisher/ubisoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8839495,
+      "filesize_mp3_bytes": 3565158,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/jimmy-connors-tennis-1993-nes/ebukikwzvj/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jimmy-connors-tennis-1993-nes/ebukikwzvj/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jimmy-connors-tennis-1993-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9468641,
+      "filesize_mp3_bytes": 3649044,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/jimmy-connors-tennis-1993-nes/jdgnfdfteg/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jimmy-connors-tennis-1993-nes/jdgnfdfteg/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jimmy-connors-tennis-1993-nes/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9636413,
+      "filesize_mp3_bytes": 3386900,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/jimmy-connors-tennis-1993-nes/klcwnztlph/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jimmy-connors-tennis-1993-nes/klcwnztlph/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jimmy-connors-tennis-1993-nes/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 230686,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/jimmy-connors-tennis-1993-nes/bkhrjdjblv/04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jimmy-connors-tennis-1993-nes/bkhrjdjblv/04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jimmy-connors-tennis-1993-nes/04.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 546,
+    "filesize_mp3_bytes": 10695473,
+    "filesize_flac_bytes": 28175235,
+    "tracks": 4
+  }
+}

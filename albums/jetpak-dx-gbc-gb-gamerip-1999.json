@@ -1,0 +1,84 @@
+{
+  "title": "JetPak DX (GBC)",
+  "titles_alternative": [
+    "Super JetPak DX"
+  ],
+  "crawled_at": "2023-09-22T17:00:37.705117+00:00",
+  "slug": "jetpak-dx-gbc-gb-gamerip-1999",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/jetpak-dx-gbc-gb-gamerip-1999",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/jetpak-dx-gbc-gb-gamerip-1999/cover.jpg"
+  ],
+  "year": 1999,
+  "date_added": "2023-01-23T00:00:00+00:00",
+  "developers": {
+    "Quang": "https://downloads.khinsider.com/game-soundtracks/developer/quang"
+  },
+  "publishers": {
+    "Bung": "https://downloads.khinsider.com/game-soundtracks/publisher/bung"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1730150,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 108,
+      "source_mp3": "https://vgmsite.com/soundtracks/jetpak-dx-gbc-gb-gamerip-1999/fnuqlpcgty/01%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jetpak-dx-gbc-gb-gamerip-1999/01%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 2,
+      "title": "Stage Start",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/jetpak-dx-gbc-gb-gamerip-1999/ialipszslo/02%20Stage%20Start.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jetpak-dx-gbc-gb-gamerip-1999/02%2520Stage%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1237319,
+      "track_number": 3,
+      "title": "Continue",
+      "runtime": 76,
+      "source_mp3": "https://vgmsite.com/soundtracks/jetpak-dx-gbc-gb-gamerip-1999/knwqjnhncc/03%20Continue.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jetpak-dx-gbc-gb-gamerip-1999/03%2520Continue.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/jetpak-dx-gbc-gb-gamerip-1999/rmyjrwymcs/04%20Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jetpak-dx-gbc-gb-gamerip-1999/04%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3051356,
+      "track_number": 5,
+      "title": "Unknown Music",
+      "runtime": 190,
+      "source_mp3": "https://vgmsite.com/soundtracks/jetpak-dx-gbc-gb-gamerip-1999/obbrzqonmj/05%20Unknown%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jetpak-dx-gbc-gb-gamerip-1999/05%2520Unknown%2520Music.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 379,
+    "filesize_mp3_bytes": 6113196,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "title": "King Neptune's Adventure",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T19:07:31.796466+00:00",
+  "slug": "king-neptune-s-adventure-1990-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/king-neptune-s-adventure-1990-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/king-neptune-s-adventure-1990-nes/King%20Neptune%27s%20Adventure%20%28NES%29%20%28gamerip%29%20%281990%29.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2022-05-11T00:00:00+00:00",
+  "developers": {
+    "Color Dreams": "https://downloads.khinsider.com/game-soundtracks/developer/color-dreams"
+  },
+  "publishers": {
+    "Color Dreams": "https://downloads.khinsider.com/game-soundtracks/publisher/color-dreams"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10433331,
+      "filesize_mp3_bytes": 3460300,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/king-neptune-s-adventure-1990-nes/ijqrjbxnwo/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/king-neptune-s-adventure-1990-nes/ijqrjbxnwo/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/king-neptune-s-adventure-1990-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9856614,
+      "filesize_mp3_bytes": 3795845,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/king-neptune-s-adventure-1990-nes/jdyuyhpjjr/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/king-neptune-s-adventure-1990-nes/jdyuyhpjjr/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/king-neptune-s-adventure-1990-nes/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8587837,
+      "filesize_mp3_bytes": 4173332,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/king-neptune-s-adventure-1990-nes/oikbwfkqez/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/king-neptune-s-adventure-1990-nes/oikbwfkqez/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/king-neptune-s-adventure-1990-nes/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10852761,
+      "filesize_mp3_bytes": 3282042,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/king-neptune-s-adventure-1990-nes/msqbuztcgj/04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/king-neptune-s-adventure-1990-nes/msqbuztcgj/04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/king-neptune-s-adventure-1990-nes/04.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10338959,
+      "filesize_mp3_bytes": 3670016,
+      "track_number": 5,
+      "title": "Track 5",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/king-neptune-s-adventure-1990-nes/dwwrfvxqox/05.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/king-neptune-s-adventure-1990-nes/dwwrfvxqox/05.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/king-neptune-s-adventure-1990-nes/05.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 900,
+    "filesize_mp3_bytes": 18381535,
+    "filesize_flac_bytes": 50069502,
+    "tracks": 5
+  }
+}

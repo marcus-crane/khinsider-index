@@ -1,0 +1,52 @@
+{
+  "title": "Infinite Alice (Chronus W Inc) (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T15:55:05.988098+00:00",
+  "slug": "infinite-alice-chronus-w-inc-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/infinite-alice-chronus-w-inc-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/infinite-alice-chronus-w-inc-android-game-music/1.jpg"
+  ],
+  "date_added": "2017-11-24T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 922746,
+      "title": "bgm_arena",
+      "runtime": 58,
+      "source_mp3": "https://vgmsite.com/soundtracks/infinite-alice-chronus-w-inc-android-game-music/guvynusw/bgm_arena.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/infinite-alice-chronus-w-inc-android-game-music/bgm_arena.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1415577,
+      "title": "bgm_gacha",
+      "runtime": 141,
+      "source_mp3": "https://vgmsite.com/soundtracks/infinite-alice-chronus-w-inc-android-game-music/ibbwgdoc/bgm_gacha.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/infinite-alice-chronus-w-inc-android-game-music/bgm_gacha.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1677721,
+      "title": "bgm_top",
+      "runtime": 105,
+      "source_mp3": "https://vgmsite.com/soundtracks/infinite-alice-chronus-w-inc-android-game-music/dfrtxjig/bgm_top.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/infinite-alice-chronus-w-inc-android-game-music/bgm_top.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 304,
+    "filesize_mp3_bytes": 4016044,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

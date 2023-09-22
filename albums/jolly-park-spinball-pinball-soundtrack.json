@@ -1,0 +1,72 @@
+{
+  "title": "Jolly Park (Spinball Pinball)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T17:19:25.221363+00:00",
+  "slug": "jolly-park-spinball-pinball-soundtrack",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/jolly-park-spinball-pinball-soundtrack",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/jolly-park-spinball-pinball-soundtrack/Capture.PNG"
+  ],
+  "year": 1996,
+  "date_added": "2020-09-25T00:00:00+00:00",
+  "developers": {
+    "Spinball": "https://downloads.khinsider.com/game-soundtracks/developer/spinball"
+  },
+  "publishers": {
+    "Spinball": "https://downloads.khinsider.com/game-soundtracks/publisher/spinball"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7832862,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 195,
+      "source_mp3": "https://vgmsite.com/soundtracks/jolly-park-spinball-pinball-soundtrack/pzvgkfyagi/01%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jolly-park-spinball-pinball-soundtrack/01%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 346030,
+      "track_number": 2,
+      "title": "Game Over",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/jolly-park-spinball-pinball-soundtrack/iszyownknk/02%20Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jolly-park-spinball-pinball-soundtrack/02%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 335544,
+      "track_number": 3,
+      "title": "Game Start",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/jolly-park-spinball-pinball-soundtrack/gzwfjcjsfh/03%20Game%20Start.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jolly-park-spinball-pinball-soundtrack/03%2520Game%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 325058,
+      "track_number": 4,
+      "title": "Merry Go Round",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/jolly-park-spinball-pinball-soundtrack/akexeyosey/04%20Merry%20Go%20Round.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jolly-park-spinball-pinball-soundtrack/04%2520Merry%2520Go%2520Round.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 219,
+    "filesize_mp3_bytes": 8839494,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

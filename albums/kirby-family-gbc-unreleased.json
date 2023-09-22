@@ -1,0 +1,41 @@
+{
+  "title": "Kirby Family (Unreleased)",
+  "titles_alternative": [
+    "Jaguar Mishin Sashi Senyou Soft: Kirby Family"
+  ],
+  "crawled_at": "2023-09-22T19:55:24.242341+00:00",
+  "slug": "kirby-family-gbc-unreleased",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/kirby-family-gbc-unreleased",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/kirby-family-gbc-unreleased/Screenshot_20230422_014949.jpg"
+  ],
+  "year": 2001,
+  "date_added": "2021-01-09T00:00:00+00:00",
+  "developers": {
+    "Natsume": "https://downloads.khinsider.com/game-soundtracks/developer/natsume"
+  },
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3690987,
+      "title": "kirbyfamily",
+      "runtime": 174,
+      "source_mp3": "https://vgmsite.com/soundtracks/kirby-family-gbc-unreleased/zaefekplhc/kirbyfamily.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kirby-family-gbc-unreleased/kirbyfamily.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 174,
+    "filesize_mp3_bytes": 3690987,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

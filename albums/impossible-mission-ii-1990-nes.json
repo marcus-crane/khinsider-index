@@ -1,0 +1,42 @@
+{
+  "title": "Impossible Mission II",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T15:37:06.741076+00:00",
+  "slug": "impossible-mission-ii-1990-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/impossible-mission-ii-1990-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/impossible-mission-ii-1990-nes/Impossible%20Mission%20II.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2022-05-05T00:00:00+00:00",
+  "developers": {
+    "HES": "https://downloads.khinsider.com/game-soundtracks/developer/hes",
+    "Novotrade": "https://downloads.khinsider.com/game-soundtracks/developer/novotrade"
+  },
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3282042,
+      "filesize_mp3_bytes": 1321205,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 58,
+      "source_mp3": "https://vgmsite.com/soundtracks/impossible-mission-ii-1990-nes/jbktdtyqzq/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/impossible-mission-ii-1990-nes/jbktdtyqzq/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/impossible-mission-ii-1990-nes/01.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 58,
+    "filesize_mp3_bytes": 1321205,
+    "filesize_flac_bytes": 3282042,
+    "tracks": 1
+  }
+}

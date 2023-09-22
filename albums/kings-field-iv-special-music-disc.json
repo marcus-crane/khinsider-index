@@ -1,0 +1,45 @@
+{
+  "title": "Kings Field IV Special Music Disc",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T19:43:15.809107+00:00",
+  "slug": "kings-field-iv-special-music-disc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/kings-field-iv-special-music-disc",
+  "platforms": {
+    "PS2": "https://downloads.khinsider.com/game-soundtracks/playstation-2"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/kings-field-iv-special-music-disc/00-kfiv-special-music-disc-cd.gif"
+  ],
+  "date_added": "2006-11-22T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 639631,
+      "track_number": 1,
+      "title": "cut song",
+      "runtime": 91,
+      "source_mp3": "https://vgmsite.com/soundtracks/kings-field-iv-special-music-disc/cjpvjvmx/01%20cut%20song.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kings-field-iv-special-music-disc/01%2520cut%2520song.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 692060,
+      "track_number": 2,
+      "title": "damp tomb",
+      "runtime": 98,
+      "source_mp3": "https://vgmsite.com/soundtracks/kings-field-iv-special-music-disc/kmccetgc/02%20damp%20tomb.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kings-field-iv-special-music-disc/02%2520damp%2520tomb.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 189,
+    "filesize_mp3_bytes": 1331691,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "title": "Jankirou",
+  "titles_alternative": [
+    "Jankir\u014d",
+    "\u96c0\u5983\u697c"
+  ],
+  "crawled_at": "2023-09-22T16:49:12.307905+00:00",
+  "slug": "jankirou-pc-9801",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/jankirou-pc-9801",
+  "platforms": {
+    "PC-98": "https://downloads.khinsider.com/game-soundtracks/pc-9801"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/jankirou-pc-9801/Jankirou.jpg"
+  ],
+  "year": 1994,
+  "date_added": "2019-06-24T00:00:00+00:00",
+  "developers": {
+    "Red-Zone": "https://downloads.khinsider.com/game-soundtracks/developer/red-zone"
+  },
+  "publishers": {
+    "IDES": "https://downloads.khinsider.com/game-soundtracks/publisher/ides"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2086666,
+      "track_number": 1,
+      "title": "MJ_01VM",
+      "runtime": 76,
+      "source_mp3": "https://vgmsite.com/soundtracks/jankirou-pc-9801/jqgazisolj/01_MJ_01VM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jankirou-pc-9801/01_MJ_01VM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1835008,
+      "track_number": 2,
+      "title": "MJ_02VM",
+      "runtime": 69,
+      "source_mp3": "https://vgmsite.com/soundtracks/jankirou-pc-9801/qovnnxqbio/02_MJ_02VM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jankirou-pc-9801/02_MJ_02VM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5442109,
+      "track_number": 3,
+      "title": "MJ_03VM",
+      "runtime": 197,
+      "source_mp3": "https://vgmsite.com/soundtracks/jankirou-pc-9801/pukwaqdwut/03_MJ_03VM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jankirou-pc-9801/03_MJ_03VM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2296381,
+      "track_number": 4,
+      "title": "MJ_04VM",
+      "runtime": 81,
+      "source_mp3": "https://vgmsite.com/soundtracks/jankirou-pc-9801/fsgytjxpkw/04_MJ_04VM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jankirou-pc-9801/04_MJ_04VM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6050283,
+      "track_number": 5,
+      "title": "MJ_05VM",
+      "runtime": 210,
+      "source_mp3": "https://vgmsite.com/soundtracks/jankirou-pc-9801/rmjgnffcgq/05_MJ_05VM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jankirou-pc-9801/05_MJ_05VM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2369781,
+      "track_number": 6,
+      "title": "MJ_06VM",
+      "runtime": 82,
+      "source_mp3": "https://vgmsite.com/soundtracks/jankirou-pc-9801/vgeztglxtt/06_MJ_06VM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jankirou-pc-9801/06_MJ_06VM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6931087,
+      "track_number": 7,
+      "title": "MJ_07VM",
+      "runtime": 245,
+      "source_mp3": "https://vgmsite.com/soundtracks/jankirou-pc-9801/ohkhrxdbao/07_MJ_07VM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jankirou-pc-9801/07_MJ_07VM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 167772,
+      "track_number": 8,
+      "title": "MJ_VM_04",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/jankirou-pc-9801/qyxbzarzzo/08_MJ_VM_04.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jankirou-pc-9801/08_MJ_VM_04.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 966,
+    "filesize_mp3_bytes": 27179087,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "title": "Jimmy Connors Tennis",
+  "titles_alternative": [
+    "Jimmy Connors no Pro Tennis Tour",
+    "Yannick Noah Tennis"
+  ],
+  "crawled_at": "2023-09-22T17:08:18.294324+00:00",
+  "slug": "jimmy-connors-tennis-1993-gb",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/jimmy-connors-tennis-1993-gb",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/jimmy-connors-tennis-1993-gb/Jimmy%20Connors%20Cover%201.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2022-04-28T00:00:00+00:00",
+  "developers": {
+    "NMS": "https://downloads.khinsider.com/game-soundtracks/developer/nms"
+  },
+  "publishers": {
+    "Misawa": "https://downloads.khinsider.com/game-soundtracks/publisher/misawa",
+    "Ubisoft": "https://downloads.khinsider.com/game-soundtracks/publisher/ubisoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9112125,
+      "filesize_mp3_bytes": 3586129,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/jimmy-connors-tennis-1993-gb/rdbtchhcyb/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jimmy-connors-tennis-1993-gb/rdbtchhcyb/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jimmy-connors-tennis-1993-gb/01%2520BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10024386,
+      "filesize_mp3_bytes": 3596615,
+      "track_number": 2,
+      "title": "BGM #02",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/jimmy-connors-tennis-1993-gb/jxmanwndtf/02%20BGM%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jimmy-connors-tennis-1993-gb/jxmanwndtf/02%20BGM%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jimmy-connors-tennis-1993-gb/02%2520BGM%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9888071,
+      "filesize_mp3_bytes": 3670016,
+      "track_number": 3,
+      "title": "BGM #03",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/jimmy-connors-tennis-1993-gb/ofvbuvbgak/03%20BGM%20%2303.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jimmy-connors-tennis-1993-gb/ofvbuvbgak/03%20BGM%20%2303.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jimmy-connors-tennis-1993-gb/03%2520BGM%2520%252303.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 304087,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 4,
+      "title": "Jingle #01",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/jimmy-connors-tennis-1993-gb/gmigybofmh/04%20Jingle%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jimmy-connors-tennis-1993-gb/gmigybofmh/04%20Jingle%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jimmy-connors-tennis-1993-gb/04%2520Jingle%2520%252301.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 548,
+    "filesize_mp3_bytes": 10999560,
+    "filesize_flac_bytes": 29328669,
+    "tracks": 4
+  }
+}

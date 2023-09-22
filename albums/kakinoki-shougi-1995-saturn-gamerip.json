@@ -1,0 +1,64 @@
+{
+  "title": "Kakinoki Shougi",
+  "titles_alternative": [
+    "\u67ff\u6728\u5c06\u68cb"
+  ],
+  "crawled_at": "2023-09-22T17:56:59.247610+00:00",
+  "slug": "kakinoki-shougi-1995-saturn-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/kakinoki-shougi-1995-saturn-gamerip",
+  "platforms": {
+    "Saturn": "https://downloads.khinsider.com/game-soundtracks/sega-saturn"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/kakinoki-shougi-1995-saturn-gamerip/Kakinoki%20Shougi.jpg"
+  ],
+  "year": 1995,
+  "date_added": "2020-05-13T00:00:00+00:00",
+  "developers": {
+    "ASCII": "https://downloads.khinsider.com/game-soundtracks/developer/ascii"
+  },
+  "publishers": {
+    "ASCII": "https://downloads.khinsider.com/game-soundtracks/publisher/ascii"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2170552,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 92,
+      "source_mp3": "https://vgmsite.com/soundtracks/kakinoki-shougi-1995-saturn-gamerip/nxfmcxoiki/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kakinoki-shougi-1995-saturn-gamerip/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8210350,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 337,
+      "source_mp3": "https://vgmsite.com/soundtracks/kakinoki-shougi-1995-saturn-gamerip/xvgciyzasb/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kakinoki-shougi-1995-saturn-gamerip/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6994001,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 306,
+      "source_mp3": "https://vgmsite.com/soundtracks/kakinoki-shougi-1995-saturn-gamerip/whtjuqzcce/03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kakinoki-shougi-1995-saturn-gamerip/03.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 735,
+    "filesize_mp3_bytes": 17374903,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

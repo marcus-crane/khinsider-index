@@ -1,0 +1,61 @@
+{
+  "title": "Imaginary Range (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T15:28:04.526932+00:00",
+  "slug": "imaginary-range-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/imaginary-range-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/imaginary-range-android-game-music/1.jpg"
+  ],
+  "date_added": "2016-06-20T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 775946,
+      "title": "BGM_001",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/imaginary-range-android-game-music/oxcgoomi/BGM_001.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/imaginary-range-android-game-music/BGM_001.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 723517,
+      "title": "BGM_002",
+      "runtime": 90,
+      "source_mp3": "https://vgmsite.com/soundtracks/imaginary-range-android-game-music/gssdkmlp/BGM_002.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/imaginary-range-android-game-music/BGM_002.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 723517,
+      "title": "BGM_003",
+      "runtime": 91,
+      "source_mp3": "https://vgmsite.com/soundtracks/imaginary-range-android-game-music/ybqjjtjj/BGM_003.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/imaginary-range-android-game-music/BGM_003.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6637486,
+      "title": "Imaginary Range (merged)",
+      "runtime": 276,
+      "source_mp3": "https://vgmsite.com/soundtracks/imaginary-range-android-game-music/cbzfpocx/Imaginary%20Range%20%28merged%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/imaginary-range-android-game-music/Imaginary%2520Range%2520%2528merged%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 553,
+    "filesize_mp3_bytes": 8860466,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

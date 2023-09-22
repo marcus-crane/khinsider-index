@@ -1,0 +1,77 @@
+{
+  "title": "Junior Brain Trainer",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T17:34:51.166906+00:00",
+  "slug": "junior-brain-trainer-2008-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/junior-brain-trainer-2008-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/junior-brain-trainer-2008-nds-gamerip/J1.jpg"
+  ],
+  "year": 2008,
+  "date_added": "2020-06-12T00:00:00+00:00",
+  "developers": {
+    "Sanuk": "https://downloads.khinsider.com/game-soundtracks/developer/sanuk"
+  },
+  "publishers": {
+    "Avanquest": "https://downloads.khinsider.com/game-soundtracks/publisher/avanquest",
+    "Take-Two": "https://downloads.khinsider.com/game-soundtracks/publisher/take-two"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 304087,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 1,
+      "title": "Jingle Won",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/junior-brain-trainer-2008-nds-gamerip/fsqrthrbhy/01%20-%20Jingle%20Won.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/junior-brain-trainer-2008-nds-gamerip/fsqrthrbhy/01%20-%20Jingle%20Won.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/junior-brain-trainer-2008-nds-gamerip/01%2520-%2520Jingle%2520Won.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 283115,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 2,
+      "title": "Jingle Lost",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/junior-brain-trainer-2008-nds-gamerip/xwbnpkepft/02%20-%20Jingle%20Lost.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/junior-brain-trainer-2008-nds-gamerip/xwbnpkepft/02%20-%20Jingle%20Lost.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/junior-brain-trainer-2008-nds-gamerip/02%2520-%2520Jingle%2520Lost.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 13610516,
+      "filesize_mp3_bytes": 4362076,
+      "track_number": 3,
+      "title": "BGM Menu",
+      "runtime": 157,
+      "source_mp3": "https://vgmsite.com/soundtracks/junior-brain-trainer-2008-nds-gamerip/ukulrzwnio/03%20-%20BGM%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/junior-brain-trainer-2008-nds-gamerip/ukulrzwnio/03%20-%20BGM%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/junior-brain-trainer-2008-nds-gamerip/03%2520-%2520BGM%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11785994,
+      "filesize_mp3_bytes": 3837788,
+      "track_number": 4,
+      "title": "BGM Play",
+      "runtime": 130,
+      "source_mp3": "https://vgmsite.com/soundtracks/junior-brain-trainer-2008-nds-gamerip/yqohsbijyl/04%20-%20BGM%20Play.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/junior-brain-trainer-2008-nds-gamerip/yqohsbijyl/04%20-%20BGM%20Play.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/junior-brain-trainer-2008-nds-gamerip/04%2520-%2520BGM%2520Play.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 295,
+    "filesize_mp3_bytes": 8409578,
+    "filesize_flac_bytes": 25983712,
+    "tracks": 4
+  }
+}

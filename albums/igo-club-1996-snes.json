@@ -1,0 +1,78 @@
+{
+  "title": "Igo Club",
+  "titles_alternative": [
+    "\u56f2\u7881\u5036\u697d\u90e8"
+  ],
+  "crawled_at": "2023-09-22T15:19:00.853126+00:00",
+  "slug": "igo-club-1996-snes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/igo-club-1996-snes",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/igo-club-1996-snes/IC.jpg"
+  ],
+  "year": 1996,
+  "date_added": "2019-08-12T00:00:00+00:00",
+  "developers": {
+    "Hector": "https://downloads.khinsider.com/game-soundtracks/developer/hector"
+  },
+  "publishers": {
+    "Hector": "https://downloads.khinsider.com/game-soundtracks/publisher/hector"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3376414,
+      "filesize_mp3_bytes": 1572864,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 59,
+      "source_mp3": "https://vgmsite.com/soundtracks/igo-club-1996-snes/fdtfwszgrx/01%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/igo-club-1996-snes/fdtfwszgrx/01%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/igo-club-1996-snes/01%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6564085,
+      "filesize_mp3_bytes": 2988441,
+      "track_number": 2,
+      "title": "Unknown Song",
+      "runtime": 111,
+      "source_mp3": "https://vgmsite.com/soundtracks/igo-club-1996-snes/aafgogiovx/02%20Unknown%20Song.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/igo-club-1996-snes/aafgogiovx/02%20Unknown%20Song.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/igo-club-1996-snes/02%2520Unknown%2520Song.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10485,
+      "filesize_mp3_bytes": 10485,
+      "track_number": 3,
+      "title": "I Point",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/igo-club-1996-snes/kjkzkbsinn/03%20I%20Point.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/igo-club-1996-snes/kjkzkbsinn/03%20I%20Point.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/igo-club-1996-snes/03%2520I%2520Point.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10485,
+      "filesize_mp3_bytes": 10485,
+      "track_number": 4,
+      "title": "Data Save",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/igo-club-1996-snes/ryoybujgzi/04%20Data%20Save.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/igo-club-1996-snes/ryoybujgzi/04%20Data%20Save.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/igo-club-1996-snes/04%2520Data%2520Save.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 174,
+    "filesize_mp3_bytes": 4582275,
+    "filesize_flac_bytes": 9961469,
+    "tracks": 4
+  }
+}

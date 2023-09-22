@@ -1,0 +1,83 @@
+{
+  "title": "IZUMO Zero Original Drama CD",
+  "titles_alternative": [
+    "IZUMO\u96f6 \u30aa\u30ea\u30b8\u30ca\u30eb\u30c9\u30e9\u30deCD"
+  ],
+  "crawled_at": "2023-09-22T16:28:57.891762+00:00",
+  "slug": "izumo-zero-original-drama-cd",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/izumo-zero-original-drama-cd",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/izumo-zero-original-drama-cd/Izumo%20Zero%20Original%20Drama%20Cd.jpg"
+  ],
+  "year": 2005,
+  "catalog_number": "STEG-05012",
+  "date_added": "2006-11-21T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Studio e.go!": "https://downloads.khinsider.com/game-soundtracks/publisher/studio-e.go"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11356078,
+      "track_number": 1,
+      "title": "track01",
+      "runtime": 613,
+      "source_mp3": "https://vgmsite.com/soundtracks/izumo-zero-original-drama-cd/ffaqpili/01%20track01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/izumo-zero-original-drama-cd/01%2520track01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 14900264,
+      "track_number": 2,
+      "title": "track02",
+      "runtime": 775,
+      "source_mp3": "https://vgmsite.com/soundtracks/izumo-zero-original-drama-cd/ybixhlsn/02%20track02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/izumo-zero-original-drama-cd/02%2520track02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 15109980,
+      "track_number": 3,
+      "title": "track03",
+      "runtime": 783,
+      "source_mp3": "https://vgmsite.com/soundtracks/izumo-zero-original-drama-cd/cszjivor/03%20track03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/izumo-zero-original-drama-cd/03%2520track03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4760535,
+      "track_number": 4,
+      "title": "track04",
+      "runtime": 234,
+      "source_mp3": "https://vgmsite.com/soundtracks/izumo-zero-original-drama-cd/cwfenkzq/04%20track04.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/izumo-zero-original-drama-cd/04%2520track04.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2202009,
+      "track_number": 5,
+      "title": "track05",
+      "runtime": 120,
+      "source_mp3": "https://vgmsite.com/soundtracks/izumo-zero-original-drama-cd/snusspfn/05%20track05.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/izumo-zero-original-drama-cd/05%2520track05.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2525,
+    "filesize_mp3_bytes": 48328866,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

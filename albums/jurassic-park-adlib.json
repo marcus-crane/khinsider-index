@@ -1,0 +1,102 @@
+{
+  "title": "Jurassic Park (Adlib)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T17:36:18.268836+00:00",
+  "slug": "jurassic-park-adlib",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/jurassic-park-adlib",
+  "platforms": {
+    "MS-DOS": "https://downloads.khinsider.com/game-soundtracks/ms-dos"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/jurassic-park-adlib/coverart.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2021-12-09T00:00:00+00:00",
+  "developers": {
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/developer/ocean"
+  },
+  "publishers": {
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/publisher/ocean"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1887436,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 93,
+      "source_mp3": "https://vgmsite.com/soundtracks/jurassic-park-adlib/dvmkmyfoqm/01%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jurassic-park-adlib/01%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1740636,
+      "track_number": 2,
+      "title": "Main Menu",
+      "runtime": 81,
+      "source_mp3": "https://vgmsite.com/soundtracks/jurassic-park-adlib/rmtrfkhocx/02%20Main%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jurassic-park-adlib/02%2520Main%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6438256,
+      "track_number": 3,
+      "title": "Level 01 & 06",
+      "runtime": 317,
+      "source_mp3": "https://vgmsite.com/soundtracks/jurassic-park-adlib/knvjtjooit/03%20Level%2001%20%26%2006.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jurassic-park-adlib/03%2520Level%252001%2520%2526%252006.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4634705,
+      "track_number": 4,
+      "title": "Level 02 & 05",
+      "runtime": 248,
+      "source_mp3": "https://vgmsite.com/soundtracks/jurassic-park-adlib/whvfvurdcr/04%20Level%2002%20%26%2005.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jurassic-park-adlib/04%2520Level%252002%2520%2526%252005.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4026531,
+      "track_number": 5,
+      "title": "Level 03, 07-10",
+      "runtime": 223,
+      "source_mp3": "https://vgmsite.com/soundtracks/jurassic-park-adlib/shueygfdpj/05%20Level%2003%2C%2007-10.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jurassic-park-adlib/05%2520Level%252003%252C%252007-10.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2212495,
+      "track_number": 6,
+      "title": "Level 04",
+      "runtime": 107,
+      "source_mp3": "https://vgmsite.com/soundtracks/jurassic-park-adlib/lmuptesmoi/06%20Level%2004.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jurassic-park-adlib/06%2520Level%252004.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 639631,
+      "track_number": 7,
+      "title": "Ending",
+      "runtime": 31,
+      "source_mp3": "https://vgmsite.com/soundtracks/jurassic-park-adlib/sizhylmgsb/07%20Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jurassic-park-adlib/07%2520Ending.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1100,
+    "filesize_mp3_bytes": 21579690,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

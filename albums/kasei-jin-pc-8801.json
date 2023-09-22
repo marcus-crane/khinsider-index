@@ -1,0 +1,64 @@
+{
+  "title": "Kasei-Jin",
+  "titles_alternative": [
+    "\u6b4c\u58f0\u4eba"
+  ],
+  "crawled_at": "2023-09-22T18:23:58.851619+00:00",
+  "slug": "kasei-jin-pc-8801",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/kasei-jin-pc-8801",
+  "platforms": {
+    "PC-88": "https://downloads.khinsider.com/game-soundtracks/pc-8801"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/kasei-jin-pc-8801/Kasei-Jin%20%28PC-8801%29.jpg"
+  ],
+  "year": 1988,
+  "date_added": "2017-08-24T00:00:00+00:00",
+  "developers": {
+    "Pack-In-Video": "https://downloads.khinsider.com/game-soundtracks/developer/pack-in-video"
+  },
+  "publishers": {
+    "Pack-In-Video": "https://downloads.khinsider.com/game-soundtracks/publisher/pack-in-video"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3586129,
+      "track_number": 1,
+      "title": "\u8d64\u3044\u30b9\u30a4\u30fc\u30c8\u30d4\u30fc",
+      "runtime": 105,
+      "source_mp3": "https://vgmsite.com/soundtracks/kasei-jin-pc-8801/alkgmkac/01_%E8%B5%A4%E3%81%84%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%88%E3%83%94%E3%83%BC.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kasei-jin-pc-8801/01_%25E8%25B5%25A4%25E3%2581%2584%25E3%2582%25B9%25E3%2582%25A4%25E3%2583%25BC%25E3%2583%2588%25E3%2583%2594%25E3%2583%25BC.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4844421,
+      "track_number": 2,
+      "title": "\u60b2\u3057\u307f\u3088 \u3053\u3093\u306b\u3061\u306f",
+      "runtime": 144,
+      "source_mp3": "https://vgmsite.com/soundtracks/kasei-jin-pc-8801/ftzzwpvz/02_%E6%82%B2%E3%81%97%E3%81%BF%E3%82%88%20%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kasei-jin-pc-8801/02_%25E6%2582%25B2%25E3%2581%2597%25E3%2581%25BF%25E3%2582%2588%2520%25E3%2581%2593%25E3%2582%2593%25E3%2581%25AB%25E3%2581%25A1%25E3%2581%25AF.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4215275,
+      "track_number": 3,
+      "title": "\u5f7c\u5973\u3068TIP ON DUO",
+      "runtime": 117,
+      "source_mp3": "https://vgmsite.com/soundtracks/kasei-jin-pc-8801/bzabveqk/03_%E5%BD%BC%E5%A5%B3%E3%81%A8TIP%20ON%20DUO.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kasei-jin-pc-8801/03_%25E5%25BD%25BC%25E5%25A5%25B3%25E3%2581%25A8TIP%2520ON%2520DUO.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 366,
+    "filesize_mp3_bytes": 12645825,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

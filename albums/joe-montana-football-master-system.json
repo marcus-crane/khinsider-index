@@ -1,0 +1,50 @@
+{
+  "title": "Joe Montana Football",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T17:13:15.176035+00:00",
+  "slug": "joe-montana-football-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/joe-montana-football-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/joe-montana-football-master-system/JoeMontanaFootball-SMS.png"
+  ],
+  "year": 1990,
+  "date_added": "2018-12-30T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1121976,
+      "filesize_mp3_bytes": 1027604,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 26,
+      "source_mp3": "https://vgmsite.com/soundtracks/joe-montana-football-master-system/tzrmvidr/01%20-%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/joe-montana-football-master-system/tzrmvidr/01%20-%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/joe-montana-football-master-system/01%2520-%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 859832,
+      "filesize_mp3_bytes": 660602,
+      "track_number": 2,
+      "title": "Unknown",
+      "runtime": 17,
+      "source_mp3": "https://vgmsite.com/soundtracks/joe-montana-football-master-system/xujaxpgv/02%20-%20Unknown.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/joe-montana-football-master-system/xujaxpgv/02%20-%20Unknown.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/joe-montana-football-master-system/02%2520-%2520Unknown.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 43,
+    "filesize_mp3_bytes": 1688206,
+    "filesize_flac_bytes": 1981808,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "title": "Ico Soccer",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T15:14:35.416564+00:00",
+  "slug": "ico-soccer-2009-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ico-soccer-2009-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ico-soccer-2009-nds-gamerip/Ico%20Soccer.jpg"
+  ],
+  "year": 2009,
+  "date_added": "2020-06-11T00:00:00+00:00",
+  "developers": {
+    "Artematica": "https://downloads.khinsider.com/game-soundtracks/developer/artematica"
+  },
+  "publishers": {
+    "Black Bean": "https://downloads.khinsider.com/game-soundtracks/publisher/black-bean"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8220835,
+      "filesize_mp3_bytes": 3533701,
+      "track_number": 1,
+      "title": "Trailer",
+      "runtime": 119,
+      "source_mp3": "https://vgmsite.com/soundtracks/ico-soccer-2009-nds-gamerip/ulgecmmqwv/01%20-%20Trailer.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ico-soccer-2009-nds-gamerip/ulgecmmqwv/01%20-%20Trailer.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ico-soccer-2009-nds-gamerip/01%2520-%2520Trailer.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 25836912,
+      "filesize_mp3_bytes": 9615441,
+      "track_number": 2,
+      "title": "Pad 5",
+      "runtime": 336,
+      "source_mp3": "https://vgmsite.com/soundtracks/ico-soccer-2009-nds-gamerip/wbrzezmlbd/02%20-%20Pad%205.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ico-soccer-2009-nds-gamerip/wbrzezmlbd/02%20-%20Pad%205.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ico-soccer-2009-nds-gamerip/02%2520-%2520Pad%25205.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 12855541,
+      "filesize_mp3_bytes": 4938792,
+      "track_number": 3,
+      "title": "Reggae",
+      "runtime": 163,
+      "source_mp3": "https://vgmsite.com/soundtracks/ico-soccer-2009-nds-gamerip/fbkwhsblmg/03%20-%20Reggae.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ico-soccer-2009-nds-gamerip/fbkwhsblmg/03%20-%20Reggae.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ico-soccer-2009-nds-gamerip/03%2520-%2520Reggae.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 618,
+    "filesize_mp3_bytes": 18087934,
+    "filesize_flac_bytes": 46913288,
+    "tracks": 3
+  }
+}

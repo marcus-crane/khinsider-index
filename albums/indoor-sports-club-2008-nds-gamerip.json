@@ -1,0 +1,85 @@
+{
+  "title": "Indoor Sports Club",
+  "titles_alternative": [
+    "Ultimate Game Room"
+  ],
+  "crawled_at": "2023-09-22T15:48:53.322656+00:00",
+  "slug": "indoor-sports-club-2008-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/indoor-sports-club-2008-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/indoor-sports-club-2008-nds-gamerip/I1.jpg"
+  ],
+  "year": 2008,
+  "date_added": "2020-06-11T00:00:00+00:00",
+  "developers": {
+    "Frontline": "https://downloads.khinsider.com/game-soundtracks/developer/frontline"
+  },
+  "publishers": {
+    "Majesco": "https://downloads.khinsider.com/game-soundtracks/publisher/majesco",
+    "White Park Bay": "https://downloads.khinsider.com/game-soundtracks/publisher/white-park-bay"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 555745,
+      "filesize_mp3_bytes": 230686,
+      "title": "Loose V1",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/indoor-sports-club-2008-nds-gamerip/ivgxbdegav/Loose%20V1.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/indoor-sports-club-2008-nds-gamerip/ivgxbdegav/Loose%20V1.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/indoor-sports-club-2008-nds-gamerip/Loose%2520V1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6721372,
+      "filesize_mp3_bytes": 2673868,
+      "title": "Main Menu",
+      "runtime": 138,
+      "source_mp3": "https://vgmsite.com/soundtracks/indoor-sports-club-2008-nds-gamerip/wcglwzaocj/Main%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/indoor-sports-club-2008-nds-gamerip/wcglwzaocj/Main%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/indoor-sports-club-2008-nds-gamerip/Main%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6595543,
+      "filesize_mp3_bytes": 2642411,
+      "title": "Main Menu2",
+      "runtime": 124,
+      "source_mp3": "https://vgmsite.com/soundtracks/indoor-sports-club-2008-nds-gamerip/xmpappeoiw/Main%20Menu2.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/indoor-sports-club-2008-nds-gamerip/xmpappeoiw/Main%20Menu2.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/indoor-sports-club-2008-nds-gamerip/Main%2520Menu2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9154068,
+      "filesize_mp3_bytes": 3932160,
+      "title": "Main Menu3",
+      "runtime": 199,
+      "source_mp3": "https://vgmsite.com/soundtracks/indoor-sports-club-2008-nds-gamerip/qzqfoophim/Main%20Menu3.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/indoor-sports-club-2008-nds-gamerip/qzqfoophim/Main%20Menu3.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/indoor-sports-club-2008-nds-gamerip/Main%2520Menu3.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1551892,
+      "filesize_mp3_bytes": 566231,
+      "title": "Win V1",
+      "runtime": 27,
+      "source_mp3": "https://vgmsite.com/soundtracks/indoor-sports-club-2008-nds-gamerip/qwyrhrbbwm/Win%20V1.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/indoor-sports-club-2008-nds-gamerip/qwyrhrbbwm/Win%20V1.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/indoor-sports-club-2008-nds-gamerip/Win%2520V1.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 499,
+    "filesize_mp3_bytes": 10045356,
+    "filesize_flac_bytes": 24578620,
+    "tracks": 5
+  }
+}

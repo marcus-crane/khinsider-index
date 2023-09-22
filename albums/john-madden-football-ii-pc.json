@@ -1,0 +1,76 @@
+{
+  "title": "John Madden Football II",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T17:13:44.807255+00:00",
+  "slug": "john-madden-football-ii-pc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/john-madden-football-ii-pc",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/john-madden-football-ii-pc/John%20Madden%20Football%20II.png"
+  ],
+  "year": 1991,
+  "date_added": "2022-05-11T00:00:00+00:00",
+  "developers": {
+    "D. C. True": "https://downloads.khinsider.com/game-soundtracks/developer/d.-c.-true"
+  },
+  "publishers": {
+    "EA": "https://downloads.khinsider.com/game-soundtracks/publisher/ea"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8252293,
+      "filesize_mp3_bytes": 3103784,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 149,
+      "source_mp3": "https://vgmsite.com/soundtracks/john-madden-football-ii-pc/fyyubghgyv/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/john-madden-football-ii-pc/fyyubghgyv/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/john-madden-football-ii-pc/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 723517,
+      "filesize_mp3_bytes": 251658,
+      "track_number": 2,
+      "title": "Touchdown",
+      "runtime": 13,
+      "source_mp3": "https://vgmsite.com/soundtracks/john-madden-football-ii-pc/rhpyamirnj/02%20Touchdown.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/john-madden-football-ii-pc/rhpyamirnj/02%20Touchdown.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/john-madden-football-ii-pc/02%2520Touchdown.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4383047,
+      "filesize_mp3_bytes": 1803550,
+      "track_number": 3,
+      "title": "Half Time",
+      "runtime": 90,
+      "source_mp3": "https://vgmsite.com/soundtracks/john-madden-football-ii-pc/qzzwowaqkq/03%20Half%20Time.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/john-madden-football-ii-pc/qzzwowaqkq/03%20Half%20Time.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/john-madden-football-ii-pc/03%2520Half%2520Time.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 964689,
+      "filesize_mp3_bytes": 356515,
+      "track_number": 4,
+      "title": "Quarter Time",
+      "runtime": 18,
+      "source_mp3": "https://vgmsite.com/soundtracks/john-madden-football-ii-pc/wroqablhqd/04%20Quarter%20Time.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/john-madden-football-ii-pc/wroqablhqd/04%20Quarter%20Time.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/john-madden-football-ii-pc/04%2520Quarter%2520Time.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 270,
+    "filesize_mp3_bytes": 5515507,
+    "filesize_flac_bytes": 14323546,
+    "tracks": 4
+  }
+}

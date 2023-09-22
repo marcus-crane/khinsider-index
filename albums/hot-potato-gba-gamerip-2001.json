@@ -1,0 +1,72 @@
+{
+  "title": "Hot Potato!",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T14:18:20.981153+00:00",
+  "slug": "hot-potato-gba-gamerip-2001",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hot-potato-gba-gamerip-2001",
+  "platforms": {
+    "GBA": "https://downloads.khinsider.com/game-soundtracks/gameboy-advance"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/hot-potato-gba-gamerip-2001/14869_front.jpg"
+  ],
+  "year": 2001,
+  "date_added": "2023-03-22T00:00:00+00:00",
+  "developers": {
+    "Pukka": "https://downloads.khinsider.com/game-soundtracks/developer/pukka"
+  },
+  "publishers": {
+    "BAM! Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/bam-entertainment"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1960837,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 122,
+      "source_mp3": "https://vgmsite.com/soundtracks/hot-potato-gba-gamerip-2001/uxcyaisthq/01.%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hot-potato-gba-gamerip-2001/01.%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1876951,
+      "track_number": 2,
+      "title": "Main BGM",
+      "runtime": 117,
+      "source_mp3": "https://vgmsite.com/soundtracks/hot-potato-gba-gamerip-2001/mrsgohqmxu/02.%20Main%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hot-potato-gba-gamerip-2001/02.%2520Main%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 3,
+      "title": "Road Clear",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/hot-potato-gba-gamerip-2001/homryvjtyp/03.%20Road%20Clear.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hot-potato-gba-gamerip-2001/03.%2520Road%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/hot-potato-gba-gamerip-2001/ilhvwhugki/04.%20Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hot-potato-gba-gamerip-2001/04.%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 248,
+    "filesize_mp3_bytes": 3942645,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

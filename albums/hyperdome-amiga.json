@@ -1,0 +1,52 @@
+{
+  "title": "Hyperdome",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T14:54:06.965906+00:00",
+  "slug": "hyperdome-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hyperdome-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/hyperdome-amiga/Hyperdome%20Cover.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2017-08-18T00:00:00+00:00",
+  "developers": {
+    "Microwish": "https://downloads.khinsider.com/game-soundtracks/developer/microwish"
+  },
+  "publishers": {
+    "Exocet": "https://downloads.khinsider.com/game-soundtracks/publisher/exocet"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8252293,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 263,
+      "source_mp3": "https://vgmsite.com/soundtracks/hyperdome-amiga/momsxhyo/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hyperdome-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 398458,
+      "track_number": 2,
+      "title": "Unknown",
+      "runtime": 15,
+      "source_mp3": "https://vgmsite.com/soundtracks/hyperdome-amiga/tpsupnlt/02_Unknown.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hyperdome-amiga/02_Unknown.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 278,
+    "filesize_mp3_bytes": 8650751,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

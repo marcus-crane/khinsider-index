@@ -1,0 +1,79 @@
+{
+  "title": "Jump Coaster",
+  "titles_alternative": [
+    "\u30b8\u30e3\u30f3\u30d7\u30b3\u30fc\u30b9\u30bf\u30fc"
+  ],
+  "crawled_at": "2023-09-22T17:31:01.523046+00:00",
+  "slug": "jump-coaster-msx-gamerip-1984",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/jump-coaster-msx-gamerip-1984",
+  "platforms": {
+    "MSX": "https://downloads.khinsider.com/game-soundtracks/msx"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/jump-coaster-msx-gamerip-1984/Jump%20Coaster%20MSX%20Cover.png"
+  ],
+  "year": 1984,
+  "date_added": "2023-08-01T00:00:00+00:00",
+  "developers": {
+    "Kaneko": "https://downloads.khinsider.com/game-soundtracks/developer/kaneko"
+  },
+  "publishers": {
+    "Coplax": "https://downloads.khinsider.com/game-soundtracks/publisher/coplax",
+    "Kaneko": "https://downloads.khinsider.com/game-soundtracks/publisher/kaneko"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 157286,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 1,
+      "title": "Game Start",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/jump-coaster-msx-gamerip-1984/putoduurtp/01.%20Game%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jump-coaster-msx-gamerip-1984/putoduurtp/01.%20Game%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jump-coaster-msx-gamerip-1984/01.%2520Game%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 146800,
+      "filesize_mp3_bytes": 283115,
+      "track_number": 2,
+      "title": "Main BGM",
+      "runtime": 12,
+      "source_mp3": "https://vgmsite.com/soundtracks/jump-coaster-msx-gamerip-1984/rsplucpnnz/02.%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jump-coaster-msx-gamerip-1984/rsplucpnnz/02.%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jump-coaster-msx-gamerip-1984/02.%2520Main%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 146800,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 3,
+      "title": "Level Clear",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/jump-coaster-msx-gamerip-1984/popjxkyloe/03.%20Level%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jump-coaster-msx-gamerip-1984/popjxkyloe/03.%20Level%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jump-coaster-msx-gamerip-1984/03.%2520Level%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 83886,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/jump-coaster-msx-gamerip-1984/iavhqtkarn/04.%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jump-coaster-msx-gamerip-1984/iavhqtkarn/04.%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jump-coaster-msx-gamerip-1984/04.%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 20,
+    "filesize_mp3_bytes": 461372,
+    "filesize_flac_bytes": 534772,
+    "tracks": 4
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Kingdom Hearts - Sanctuary",
+  "titles_alternative": [
+    "Sanctuary / Utada"
+  ],
+  "crawled_at": "2023-09-22T19:40:35.397570+00:00",
+  "slug": "kingdom-hearts-sanctuary",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/kingdom-hearts-sanctuary",
+  "platforms": {
+    "PS2": "https://downloads.khinsider.com/game-soundtracks/playstation-2"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/kingdom-hearts-sanctuary/coverart.jpg"
+  ],
+  "year": 2009,
+  "catalog_number": null,
+  "date_added": "2021-03-12T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Toshiba EMI": "https://downloads.khinsider.com/game-soundtracks/publisher/toshiba-emi"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 38986055,
+      "filesize_mp3_bytes": 11702108,
+      "title": "Sanctuary (Ending)",
+      "runtime": 358,
+      "source_mp3": "https://vgmsite.com/soundtracks/kingdom-hearts-sanctuary/ajjuchkvdi/Sanctuary%20%28Ending%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kingdom-hearts-sanctuary/ajjuchkvdi/Sanctuary%20%28Ending%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kingdom-hearts-sanctuary/Sanctuary%2520%2528Ending%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 31499223,
+      "filesize_mp3_bytes": 9038725,
+      "title": "Sanctuary (Opening)",
+      "runtime": 265,
+      "source_mp3": "https://vgmsite.com/soundtracks/kingdom-hearts-sanctuary/jpbeutguzx/Sanctuary%20%28Opening%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kingdom-hearts-sanctuary/jpbeutguzx/Sanctuary%20%28Opening%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kingdom-hearts-sanctuary/Sanctuary%2520%2528Opening%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 623,
+    "filesize_mp3_bytes": 20740833,
+    "filesize_flac_bytes": 70485278,
+    "tracks": 2
+  }
+}

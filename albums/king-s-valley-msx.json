@@ -1,0 +1,90 @@
+{
+  "title": "King's Valley",
+  "titles_alternative": [
+    "\u738b\u5bb6\u306e\u8c37"
+  ],
+  "crawled_at": "2023-09-22T19:28:16.031693+00:00",
+  "slug": "king-s-valley-msx",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/king-s-valley-msx",
+  "platforms": {
+    "MSX": "https://downloads.khinsider.com/game-soundtracks/msx"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/king-s-valley-msx/K1.jpg"
+  ],
+  "year": 1985,
+  "date_added": "2022-05-12T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami"
+  },
+  "publishers": {
+    "CLOVER": "https://downloads.khinsider.com/game-soundtracks/publisher/clover",
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 230686,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 1,
+      "title": "Game Start",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/king-s-valley-msx/glbsnogjnz/01%20Game%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/king-s-valley-msx/glbsnogjnz/01%20Game%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/king-s-valley-msx/01%2520Game%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1310720,
+      "filesize_mp3_bytes": 681574,
+      "track_number": 2,
+      "title": "Main Theme",
+      "runtime": 36,
+      "source_mp3": "https://vgmsite.com/soundtracks/king-s-valley-msx/cejblsqlco/02%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/king-s-valley-msx/cejblsqlco/02%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/king-s-valley-msx/02%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 157286,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 3,
+      "title": "All Treasure Collected",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/king-s-valley-msx/eikqeoytak/03%20All%20Treasure%20Collected.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/king-s-valley-msx/eikqeoytak/03%20All%20Treasure%20Collected.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/king-s-valley-msx/03%2520All%2520Treasure%2520Collected.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 136314,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 4,
+      "title": "Next Pyramid",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/king-s-valley-msx/wqmujhnxbf/04%20Next%20Pyramid.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/king-s-valley-msx/wqmujhnxbf/04%20Next%20Pyramid.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/king-s-valley-msx/04%2520Next%2520Pyramid.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 251658,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 5,
+      "title": "Game Over",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/king-s-valley-msx/sziygyyvpp/05%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/king-s-valley-msx/sziygyyvpp/05%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/king-s-valley-msx/05%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 56,
+    "filesize_mp3_bytes": 975173,
+    "filesize_flac_bytes": 2086664,
+    "tracks": 5
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "title": "Hotline Miami EP",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T14:22:21.061695+00:00",
+  "slug": "hotline-miami-ep",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hotline-miami-ep",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/hotline-miami-ep/Cover.png"
+  ],
+  "year": 2012,
+  "catalog_number": null,
+  "date_added": "2021-02-12T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Space Recordings": "https://downloads.khinsider.com/game-soundtracks/publisher/space-recordings"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 32946257,
+      "filesize_mp3_bytes": 9594470,
+      "track_number": 1,
+      "title": "Miami",
+      "runtime": 271,
+      "source_mp3": "https://vgmsite.com/soundtracks/hotline-miami-ep/rwdrfioobe/01.%20Miami.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hotline-miami-ep/rwdrfioobe/01.%20Miami.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hotline-miami-ep/01.%2520Miami.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 24547164,
+      "filesize_mp3_bytes": 7025459,
+      "track_number": 2,
+      "title": "Hotline",
+      "runtime": 210,
+      "source_mp3": "https://vgmsite.com/soundtracks/hotline-miami-ep/zmxruiajmd/02.%20Hotline.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hotline-miami-ep/zmxruiajmd/02.%20Hotline.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hotline-miami-ep/02.%2520Hotline.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 15969812,
+      "filesize_mp3_bytes": 5903482,
+      "track_number": 3,
+      "title": "Voyager",
+      "runtime": 214,
+      "source_mp3": "https://vgmsite.com/soundtracks/hotline-miami-ep/zwzumncblp/03.%20Voyager.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hotline-miami-ep/zwzumncblp/03.%20Voyager.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hotline-miami-ep/03.%2520Voyager.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 23142072,
+      "filesize_mp3_bytes": 6501171,
+      "track_number": 4,
+      "title": "Hotline (Analogue Mix)",
+      "runtime": 210,
+      "source_mp3": "https://vgmsite.com/soundtracks/hotline-miami-ep/tdqfvijtma/04.%20Hotline%20%28Analogue%20Mix%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hotline-miami-ep/tdqfvijtma/04.%20Hotline%20%28Analogue%20Mix%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hotline-miami-ep/04.%2520Hotline%2520%2528Analogue%2520Mix%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 905,
+    "filesize_mp3_bytes": 29024582,
+    "filesize_flac_bytes": 96605305,
+    "tracks": 4
+  }
+}

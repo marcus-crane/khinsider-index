@@ -1,0 +1,62 @@
+{
+  "title": "Kasmo",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T18:24:25.168481+00:00",
+  "slug": "kasmo-gamerip-2020",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/kasmo-gamerip-2020",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/kasmo-gamerip-2020/K_1.jpg"
+  ],
+  "year": 2020,
+  "date_added": "2022-01-10T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 62914,
+      "title": "Destroy Obj",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/kasmo-gamerip-2020/hpbobuubmd/Destroy%20Obj.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kasmo-gamerip-2020/Destroy%2520Obj.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 41943,
+      "title": "Explode",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/kasmo-gamerip-2020/nafsqqmdzd/Explode.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kasmo-gamerip-2020/Explode.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 31457,
+      "title": "Missile Launch",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/kasmo-gamerip-2020/czwkbeojpf/Missile%20Launch.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kasmo-gamerip-2020/Missile%2520Launch.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3187671,
+      "title": "Moon bright",
+      "runtime": 106,
+      "source_mp3": "https://vgmsite.com/soundtracks/kasmo-gamerip-2020/nyhubwxoda/Moon%20bright.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kasmo-gamerip-2020/Moon%2520bright.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 121,
+    "filesize_mp3_bytes": 3323985,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

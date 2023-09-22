@@ -1,0 +1,55 @@
+{
+  "title": "KINGDOM HEARTS Melody of Memory Special Disc",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T19:38:37.590284+00:00",
+  "slug": "kingdom-hearts-melody-of-memory-special-disc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/kingdom-hearts-melody-of-memory-special-disc",
+  "platforms": {
+    "PS4": "https://downloads.khinsider.com/game-soundtracks/playstation-4",
+    "Switch": "https://downloads.khinsider.com/game-soundtracks/nintendo-switch",
+    "Xbox One": "https://downloads.khinsider.com/game-soundtracks/xbox-one"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/kingdom-hearts-melody-of-memory-special-disc/folder.jpg"
+  ],
+  "year": 2020,
+  "catalog_number": "SQEX-10820",
+  "date_added": "2021-10-14T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Square Enix": "https://downloads.khinsider.com/game-soundtracks/publisher/square-enix"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 22837985,
+      "filesize_mp3_bytes": 6826229,
+      "track_number": 1,
+      "title": "Dearly Beloved -Swing Version-",
+      "runtime": 205,
+      "source_mp3": "https://vgmsite.com/soundtracks/kingdom-hearts-melody-of-memory-special-disc/erbsysqggd/01%20Dearly%20Beloved%20-Swing%20Version-.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kingdom-hearts-melody-of-memory-special-disc/erbsysqggd/01%20Dearly%20Beloved%20-Swing%20Version-.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kingdom-hearts-melody-of-memory-special-disc/01%2520Dearly%2520Beloved%2520-Swing%2520Version-.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 46902804,
+      "filesize_mp3_bytes": 13558087,
+      "track_number": 2,
+      "title": "March Caprice for Melody of Memory",
+      "runtime": 408,
+      "source_mp3": "https://vgmsite.com/soundtracks/kingdom-hearts-melody-of-memory-special-disc/equapqulcl/02%20March%20Caprice%20for%20Melody%20of%20Memory.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kingdom-hearts-melody-of-memory-special-disc/equapqulcl/02%20March%20Caprice%20for%20Melody%20of%20Memory.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kingdom-hearts-melody-of-memory-special-disc/02%2520March%2520Caprice%2520for%2520Melody%2520of%2520Memory.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 613,
+    "filesize_mp3_bytes": 20384316,
+    "filesize_flac_bytes": 69740789,
+    "tracks": 2
+  }
+}

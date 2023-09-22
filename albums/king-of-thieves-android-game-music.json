@@ -1,0 +1,66 @@
+{
+  "title": "King of Thieves (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T19:24:32.096677+00:00",
+  "slug": "king-of-thieves-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/king-of-thieves-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/king-of-thieves-android-game-music/King-of-Thieves.jpg"
+  ],
+  "year": 2022,
+  "date_added": "2016-06-25T00:00:00+00:00",
+  "developers": {
+    "ZeptoLab": "https://downloads.khinsider.com/game-soundtracks/developer/zeptolab"
+  },
+  "publishers": {
+    "ZeptoLab": "https://downloads.khinsider.com/game-soundtracks/publisher/zeptolab"
+  },
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 492830,
+      "title": "Gameplay_1_Loop_V3",
+      "runtime": 54,
+      "source_mp3": "https://vgmsite.com/soundtracks/king-of-thieves-android-game-music/bzfhkwpw/Gameplay_1_Loop_V3.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/king-of-thieves-android-game-music/Gameplay_1_Loop_V3.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 545259,
+      "title": "Gameplay_2_Loop_V4",
+      "runtime": 59,
+      "source_mp3": "https://vgmsite.com/soundtracks/king-of-thieves-android-game-music/fatoawve/Gameplay_2_Loop_V4.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/king-of-thieves-android-game-music/Gameplay_2_Loop_V4.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 618659,
+      "title": "Gameplay_3_Loop_V4",
+      "runtime": 69,
+      "source_mp3": "https://vgmsite.com/soundtracks/king-of-thieves-android-game-music/tsrqzfpw/Gameplay_3_Loop_V4.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/king-of-thieves-android-game-music/Gameplay_3_Loop_V4.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1646264,
+      "title": "Map_Loop_V2",
+      "runtime": 189,
+      "source_mp3": "https://vgmsite.com/soundtracks/king-of-thieves-android-game-music/dmgywheg/Map_Loop_V2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/king-of-thieves-android-game-music/Map_Loop_V2.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 371,
+    "filesize_mp3_bytes": 3303012,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

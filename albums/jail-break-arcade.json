@@ -1,0 +1,111 @@
+{
+  "title": "Jail Break",
+  "titles_alternative": [
+    "\u30de\u30f3\u30cf\u30c3\u30bf\u30f324\u5206\u7f72"
+  ],
+  "crawled_at": "2023-09-22T16:39:56.511543+00:00",
+  "slug": "jail-break-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/jail-break-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/jail-break-arcade/J1.jpg"
+  ],
+  "year": 1986,
+  "date_added": "2022-04-28T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami"
+  },
+  "publishers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 52428,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 1,
+      "title": "Coin",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/jail-break-arcade/ggelzoiwvy/01%20Coin.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jail-break-arcade/ggelzoiwvy/01%20Coin.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jail-break-arcade/01%2520Coin.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 73400,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 2,
+      "title": "Game Start",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/jail-break-arcade/fbmfsreyvu/02%20Game%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jail-break-arcade/fbmfsreyvu/02%20Game%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jail-break-arcade/02%2520Game%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 230686,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 3,
+      "title": "Round Clear",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/jail-break-arcade/zzgtaeptje/03%20Round%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jail-break-arcade/zzgtaeptje/03%20Round%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jail-break-arcade/03%2520Round%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 157286,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 4,
+      "title": "Round Start",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/jail-break-arcade/uughantfna/04%20Round%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jail-break-arcade/uughantfna/04%20Round%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jail-break-arcade/04%2520Round%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1352663,
+      "filesize_mp3_bytes": 618659,
+      "track_number": 5,
+      "title": "Ending ~ Staff Roll",
+      "runtime": 31,
+      "source_mp3": "https://vgmsite.com/soundtracks/jail-break-arcade/fvpibofsle/05%20Ending%20~%20Staff%20Roll.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jail-break-arcade/fvpibofsle/05%20Ending%20~%20Staff%20Roll.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jail-break-arcade/05%2520Ending%2520~%2520Staff%2520Roll.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 178257,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 6,
+      "title": "Game Over",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/jail-break-arcade/lzwiikytnv/06%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jail-break-arcade/lzwiikytnv/06%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jail-break-arcade/06%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1342177,
+      "filesize_mp3_bytes": 555745,
+      "track_number": 7,
+      "title": "Name Entry",
+      "runtime": 31,
+      "source_mp3": "https://vgmsite.com/soundtracks/jail-break-arcade/chmwrjfoac/07%20Name%20Entry.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jail-break-arcade/chmwrjfoac/07%20Name%20Entry.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jail-break-arcade/07%2520Name%2520Entry.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 76,
+    "filesize_mp3_bytes": 1468003,
+    "filesize_flac_bytes": 3386897,
+    "tracks": 7
+  }
+}

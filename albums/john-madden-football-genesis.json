@@ -1,0 +1,89 @@
+{
+  "title": "John Madden Football",
+  "titles_alternative": [
+    "John Madden American Football"
+  ],
+  "crawled_at": "2023-09-22T17:13:42.663778+00:00",
+  "slug": "john-madden-football-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/john-madden-football-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/john-madden-football-genesis/John%20Madden%20Football.png"
+  ],
+  "year": 1990,
+  "date_added": "2020-03-11T00:00:00+00:00",
+  "developers": {
+    "Park Place Productions": "https://downloads.khinsider.com/game-soundtracks/developer/park-place-productions"
+  },
+  "publishers": {
+    "EA": "https://downloads.khinsider.com/game-soundtracks/publisher/ea"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 14533263,
+      "filesize_mp3_bytes": 4456448,
+      "track_number": 1,
+      "title": "Title Theme",
+      "runtime": 220,
+      "source_mp3": "https://vgmsite.com/soundtracks/john-madden-football-genesis/cpzlsmgixj/01%20-%20Title%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/john-madden-football-genesis/cpzlsmgixj/01%20-%20Title%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/john-madden-football-genesis/01%2520-%2520Title%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 398458,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 2,
+      "title": "Touchdown",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/john-madden-football-genesis/vlzpcaucfm/02%20-%20Touchdown.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/john-madden-football-genesis/vlzpcaucfm/02%20-%20Touchdown.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/john-madden-football-genesis/02%2520-%2520Touchdown.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8797552,
+      "filesize_mp3_bytes": 2852126,
+      "track_number": 3,
+      "title": "Statistics",
+      "runtime": 138,
+      "source_mp3": "https://vgmsite.com/soundtracks/john-madden-football-genesis/qluzqubeei/03%20-%20Statistics.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/john-madden-football-genesis/qluzqubeei/03%20-%20Statistics.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/john-madden-football-genesis/03%2520-%2520Statistics.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 650117,
+      "filesize_mp3_bytes": 178257,
+      "track_number": 4,
+      "title": "Playoff Standings",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/john-madden-football-genesis/ufsmrsyonz/04%20-%20Playoff%20Standings.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/john-madden-football-genesis/ufsmrsyonz/04%20-%20Playoff%20Standings.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/john-madden-football-genesis/04%2520-%2520Playoff%2520Standings.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8661237,
+      "filesize_mp3_bytes": 2579496,
+      "track_number": 5,
+      "title": "End of Game",
+      "runtime": 130,
+      "source_mp3": "https://vgmsite.com/soundtracks/john-madden-football-genesis/uqwqfmoetn/05%20-%20End%20of%20Game.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/john-madden-football-genesis/uqwqfmoetn/05%20-%20End%20of%20Game.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/john-madden-football-genesis/05%2520-%2520End%2520of%2520Game.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 503,
+    "filesize_mp3_bytes": 10181670,
+    "filesize_flac_bytes": 33040627,
+    "tracks": 5
+  }
+}

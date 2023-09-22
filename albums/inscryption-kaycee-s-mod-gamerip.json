@@ -1,0 +1,67 @@
+{
+  "title": "Inscryption - Kaycee's Mod",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T16:03:47.952755+00:00",
+  "slug": "inscryption-kaycee-s-mod-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/inscryption-kaycee-s-mod-gamerip",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/inscryption-kaycee-s-mod-gamerip/Cover.png"
+  ],
+  "date_added": "2022-03-20T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10863247,
+      "filesize_mp3_bytes": 3953131,
+      "title": "Boss Pirateskull Ambient",
+      "runtime": 137,
+      "source_mp3": "https://vgmsite.com/soundtracks/inscryption-kaycee-s-mod-gamerip/flpkwnlzit/Boss%20Pirateskull%20Ambient.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/inscryption-kaycee-s-mod-gamerip/flpkwnlzit/Boss%20Pirateskull%20Ambient.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/inscryption-kaycee-s-mod-gamerip/Boss%2520Pirateskull%2520Ambient.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 13358858,
+      "filesize_mp3_bytes": 4257218,
+      "title": "Boss Pirateskull Phase3+base",
+      "runtime": 137,
+      "source_mp3": "https://vgmsite.com/soundtracks/inscryption-kaycee-s-mod-gamerip/pdbmfxoqyh/Boss%20Pirateskull%20Phase3%2Bbase.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/inscryption-kaycee-s-mod-gamerip/pdbmfxoqyh/Boss%20Pirateskull%20Phase3%2Bbase.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/inscryption-kaycee-s-mod-gamerip/Boss%2520Pirateskull%2520Phase3%252Bbase.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9898557,
+      "filesize_mp3_bytes": 3848273,
+      "title": "Boss Pirateskull+base",
+      "runtime": 137,
+      "source_mp3": "https://vgmsite.com/soundtracks/inscryption-kaycee-s-mod-gamerip/flkeldjyqt/Boss%20Pirateskull%2Bbase.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/inscryption-kaycee-s-mod-gamerip/flkeldjyqt/Boss%20Pirateskull%2Bbase.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/inscryption-kaycee-s-mod-gamerip/Boss%2520Pirateskull%252Bbase.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 713031,
+      "filesize_mp3_bytes": 251658,
+      "title": "Boss Royal",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/inscryption-kaycee-s-mod-gamerip/civqbfeptp/Boss%20Royal.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/inscryption-kaycee-s-mod-gamerip/civqbfeptp/Boss%20Royal.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/inscryption-kaycee-s-mod-gamerip/Boss%2520Royal.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 419,
+    "filesize_mp3_bytes": 12310280,
+    "filesize_flac_bytes": 34833693,
+    "tracks": 4
+  }
+}

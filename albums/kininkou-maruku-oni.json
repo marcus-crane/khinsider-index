@@ -1,0 +1,93 @@
+{
+  "title": "Kininkou Maruku Oni",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T19:44:20.831980+00:00",
+  "slug": "kininkou-maruku-oni",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/kininkou-maruku-oni",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/kininkou-maruku-oni/42165_front.jpg"
+  ],
+  "date_added": "2022-05-16T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10181672,
+      "filesize_mp3_bytes": 4037017,
+      "track_number": 1,
+      "title": "Opening",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/kininkou-maruku-oni/datknumiia/01%20Opening.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kininkou-maruku-oni/datknumiia/01%20Opening.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kininkou-maruku-oni/01%2520Opening.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9552527,
+      "filesize_mp3_bytes": 3722444,
+      "track_number": 2,
+      "title": "Village",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/kininkou-maruku-oni/cpumqxxguy/02%20Village.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kininkou-maruku-oni/cpumqxxguy/02%20Village.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kininkou-maruku-oni/02%2520Village.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10758389,
+      "filesize_mp3_bytes": 3848273,
+      "track_number": 3,
+      "title": "Field",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/kininkou-maruku-oni/yrlkuzmcxs/03%20Field.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kininkou-maruku-oni/yrlkuzmcxs/03%20Field.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kininkou-maruku-oni/03%2520Field.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9604956,
+      "filesize_mp3_bytes": 3690987,
+      "track_number": 4,
+      "title": "Dungeon",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/kininkou-maruku-oni/nrxkyepiuo/04%20Dungeon.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kininkou-maruku-oni/nrxkyepiuo/04%20Dungeon.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kininkou-maruku-oni/04%2520Dungeon.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9279897,
+      "filesize_mp3_bytes": 3816816,
+      "track_number": 5,
+      "title": "Battle",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/kininkou-maruku-oni/aodoykdbnn/05%20Battle.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kininkou-maruku-oni/aodoykdbnn/05%20Battle.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kininkou-maruku-oni/05%2520Battle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9573498,
+      "filesize_mp3_bytes": 3586129,
+      "track_number": 6,
+      "title": "Ending",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/kininkou-maruku-oni/tmtgermxpm/06%20Ending.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kininkou-maruku-oni/tmtgermxpm/06%20Ending.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kininkou-maruku-oni/06%2520Ending.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1080,
+    "filesize_mp3_bytes": 22701666,
+    "filesize_flac_bytes": 58950939,
+    "tracks": 6
+  }
+}

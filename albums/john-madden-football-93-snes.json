@@ -1,0 +1,54 @@
+{
+  "title": "John Madden Football '93",
+  "titles_alternative": [
+    "Pro Football '93"
+  ],
+  "crawled_at": "2023-09-22T17:13:41.469293+00:00",
+  "slug": "john-madden-football-93-snes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/john-madden-football-93-snes",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/john-madden-football-93-snes/coverart.jpg"
+  ],
+  "year": 1992,
+  "date_added": "2018-10-24T00:00:00+00:00",
+  "developers": {
+    "EA": "https://downloads.khinsider.com/game-soundtracks/developer/ea"
+  },
+  "publishers": {
+    "EA": "https://downloads.khinsider.com/game-soundtracks/publisher/ea"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2254438,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 111,
+      "source_mp3": "https://vgmsite.com/soundtracks/john-madden-football-93-snes/yvfoijrh/01%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/john-madden-football-93-snes/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2506096,
+      "track_number": 2,
+      "title": "Current Status",
+      "runtime": 124,
+      "source_mp3": "https://vgmsite.com/soundtracks/john-madden-football-93-snes/dmxtwvgn/02%20Current%20Status.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/john-madden-football-93-snes/02%2520Current%2520Status.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 235,
+    "filesize_mp3_bytes": 4760534,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Kakuu Shoujo Sofmap Special Disc",
+  "titles_alternative": [
+    "\u590f\u7a7a\u5c11\u5973 Sofmap Special Disc"
+  ],
+  "crawled_at": "2023-09-22T17:57:53.359033+00:00",
+  "slug": "kakuu-shoujo-sofmap-special-disc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/kakuu-shoujo-sofmap-special-disc",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/kakuu-shoujo-sofmap-special-disc/Kakuu%20Shoujo%20Sofmap%20Special%20Disc.jpg"
+  ],
+  "year": 2005,
+  "catalog_number": "ALC-112",
+  "date_added": "2006-11-22T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "mixed up": "https://downloads.khinsider.com/game-soundtracks/publisher/mixed-up"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3879731,
+      "track_number": 1,
+      "title": "aiztaze- (mjmixver)",
+      "runtime": 142,
+      "source_mp3": "https://vgmsite.com/soundtracks/kakuu-shoujo-sofmap-special-disc/dsbejize/01%20-aiztaze-%20%28mjmixver%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kakuu-shoujo-sofmap-special-disc/01%2520-aiztaze-%2520%2528mjmixver%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4026531,
+      "track_number": 2,
+      "title": "aiztaze- (mjmix-inst)",
+      "runtime": 142,
+      "source_mp3": "https://vgmsite.com/soundtracks/kakuu-shoujo-sofmap-special-disc/roryzxhr/02%20-aiztaze-%20%28mjmix-inst%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kakuu-shoujo-sofmap-special-disc/02%2520-aiztaze-%2520%2528mjmix-inst%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 284,
+    "filesize_mp3_bytes": 7906262,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

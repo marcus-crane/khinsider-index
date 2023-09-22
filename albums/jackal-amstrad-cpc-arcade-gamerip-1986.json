@@ -1,0 +1,46 @@
+{
+  "title": "Jackal (Amstrad CPC)",
+  "titles_alternative": [
+    "Final Command: Akai Yousai",
+    "Top Gunner",
+    "\u30d5\u30a1\u30a4\u30ca\u30eb\u30b3\u30de\u30f3\u30c9 \u8d64\u3044\u8981\u585e"
+  ],
+  "crawled_at": "2023-09-22T16:34:29.183391+00:00",
+  "slug": "jackal-amstrad-cpc-arcade-gamerip-1986",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/jackal-amstrad-cpc-arcade-gamerip-1986",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/jackal-amstrad-cpc-arcade-gamerip-1986/Jackal%20%28CTM644%29.png"
+  ],
+  "year": 1987,
+  "date_added": "2023-08-01T00:00:00+00:00",
+  "developers": {
+    "Cyclone": "https://downloads.khinsider.com/game-soundtracks/developer/cyclone",
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami"
+  },
+  "publishers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 22764584,
+      "filesize_mp3_bytes": 10527703,
+      "track_number": 1,
+      "title": "Game Start ~ Jackal's Theme (Title Demo)",
+      "runtime": 448,
+      "source_mp3": "https://vgmsite.com/soundtracks/jackal-amstrad-cpc-arcade-gamerip-1986/wjoddrwbcy/01.%20Game%20Start%20~%20Jackal%27s%20Theme%20%28Title%20Demo%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jackal-amstrad-cpc-arcade-gamerip-1986/wjoddrwbcy/01.%20Game%20Start%20~%20Jackal%27s%20Theme%20%28Title%20Demo%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jackal-amstrad-cpc-arcade-gamerip-1986/01.%2520Game%2520Start%2520~%2520Jackal%2527s%2520Theme%2520%2528Title%2520Demo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 448,
+    "filesize_mp3_bytes": 10527703,
+    "filesize_flac_bytes": 22764584,
+    "tracks": 1
+  }
+}

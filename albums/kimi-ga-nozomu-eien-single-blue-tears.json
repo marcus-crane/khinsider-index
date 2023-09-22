@@ -1,0 +1,83 @@
+{
+  "title": "Kimi ga Nozomu Eien ~DVD specification~ Insert Song. \"Blue tears\"",
+  "titles_alternative": [
+    "\u541b\u304c\u671b\u3080\u6c38\u9060 \u301cDVD specification\u301c \u633f\u5165\u6b4c\u3002\u300cBlue tears\u300d"
+  ],
+  "crawled_at": "2023-09-22T19:03:58.660374+00:00",
+  "slug": "kimi-ga-nozomu-eien-single-blue-tears",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/kimi-ga-nozomu-eien-single-blue-tears",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/kimi-ga-nozomu-eien-single-blue-tears/blue-tears-re.jpg"
+  ],
+  "year": 2003,
+  "catalog_number": "AGE-001",
+  "date_added": "2006-11-22T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "age": "https://downloads.khinsider.com/game-soundtracks/publisher/age"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4120903,
+      "track_number": 1,
+      "title": "blue tears (haruka version)",
+      "runtime": 257,
+      "source_mp3": "https://vgmsite.com/soundtracks/kimi-ga-nozomu-eien-single-blue-tears/cqhrmdxt/01%20blue%20tears%20%28haruka%20version%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kimi-ga-nozomu-eien-single-blue-tears/01%2520blue%2520tears%2520%2528haruka%2520version%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4110417,
+      "track_number": 2,
+      "title": "blue tears (mitsuki version)",
+      "runtime": 257,
+      "source_mp3": "https://vgmsite.com/soundtracks/kimi-ga-nozomu-eien-single-blue-tears/zawdbrvs/02%20blue%20tears%20%28mitsuki%20version%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kimi-ga-nozomu-eien-single-blue-tears/02%2520blue%2520tears%2520%2528mitsuki%2520version%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4110417,
+      "track_number": 3,
+      "title": "blue tears (off vocal)",
+      "runtime": 257,
+      "source_mp3": "https://vgmsite.com/soundtracks/kimi-ga-nozomu-eien-single-blue-tears/qwdqdbfe/03%20blue%20tears%20%28off%20vocal%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kimi-ga-nozomu-eien-single-blue-tears/03%2520blue%2520tears%2520%2528off%2520vocal%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1709178,
+      "track_number": 4,
+      "title": "blue tears (pf version)",
+      "runtime": 107,
+      "source_mp3": "https://vgmsite.com/soundtracks/kimi-ga-nozomu-eien-single-blue-tears/hwcdodgs/04%20blue%20tears%20%28pf%20version%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kimi-ga-nozomu-eien-single-blue-tears/04%2520blue%2520tears%2520%2528pf%2520version%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1646264,
+      "track_number": 5,
+      "title": "blue tears (original version)",
+      "runtime": 103,
+      "source_mp3": "https://vgmsite.com/soundtracks/kimi-ga-nozomu-eien-single-blue-tears/fovyhvtq/05%20blue%20tears%20%28original%20version%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kimi-ga-nozomu-eien-single-blue-tears/05%2520blue%2520tears%2520%2528original%2520version%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 981,
+    "filesize_mp3_bytes": 15697179,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

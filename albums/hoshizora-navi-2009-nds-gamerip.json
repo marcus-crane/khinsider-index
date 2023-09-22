@@ -1,0 +1,89 @@
+{
+  "title": "Hoshizora Navi",
+  "titles_alternative": [
+    "\u661f\u7a7a\u30ca\u30d3"
+  ],
+  "crawled_at": "2023-09-22T14:17:33.531341+00:00",
+  "slug": "hoshizora-navi-2009-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hoshizora-navi-2009-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/hoshizora-navi-2009-nds-gamerip/Hoshizora%20Navi.jpg"
+  ],
+  "year": 2009,
+  "date_added": "2020-06-10T00:00:00+00:00",
+  "developers": {
+    "AstroArts": "https://downloads.khinsider.com/game-soundtracks/developer/astroarts"
+  },
+  "publishers": {
+    "ASCII": "https://downloads.khinsider.com/game-soundtracks/publisher/ascii"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8891924,
+      "filesize_mp3_bytes": 3145728,
+      "track_number": 1,
+      "title": "BGM01",
+      "runtime": 100,
+      "source_mp3": "https://vgmsite.com/soundtracks/hoshizora-navi-2009-nds-gamerip/kecazfpzut/01%20-%20BGM01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hoshizora-navi-2009-nds-gamerip/kecazfpzut/01%20-%20BGM01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hoshizora-navi-2009-nds-gamerip/01%2520-%2520BGM01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7539261,
+      "filesize_mp3_bytes": 2642411,
+      "track_number": 2,
+      "title": "BGM02",
+      "runtime": 86,
+      "source_mp3": "https://vgmsite.com/soundtracks/hoshizora-navi-2009-nds-gamerip/dowrxnjudj/02%20-%20BGM02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hoshizora-navi-2009-nds-gamerip/dowrxnjudj/02%20-%20BGM02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hoshizora-navi-2009-nds-gamerip/02%2520-%2520BGM02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 15414067,
+      "filesize_mp3_bytes": 6197084,
+      "track_number": 3,
+      "title": "BGM03",
+      "runtime": 202,
+      "source_mp3": "https://vgmsite.com/soundtracks/hoshizora-navi-2009-nds-gamerip/bziwqvdvdl/03%20-%20BGM03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hoshizora-navi-2009-nds-gamerip/bziwqvdvdl/03%20-%20BGM03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hoshizora-navi-2009-nds-gamerip/03%2520-%2520BGM03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 15634268,
+      "filesize_mp3_bytes": 5494538,
+      "track_number": 4,
+      "title": "BGM04",
+      "runtime": 174,
+      "source_mp3": "https://vgmsite.com/soundtracks/hoshizora-navi-2009-nds-gamerip/djmwsuggig/04%20-%20BGM04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hoshizora-navi-2009-nds-gamerip/djmwsuggig/04%20-%20BGM04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hoshizora-navi-2009-nds-gamerip/04%2520-%2520BGM04.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 14753464,
+      "filesize_mp3_bytes": 5421137,
+      "track_number": 5,
+      "title": "BGM05",
+      "runtime": 177,
+      "source_mp3": "https://vgmsite.com/soundtracks/hoshizora-navi-2009-nds-gamerip/hyiswvbnos/05%20-%20BGM05.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hoshizora-navi-2009-nds-gamerip/hyiswvbnos/05%20-%20BGM05.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hoshizora-navi-2009-nds-gamerip/05%2520-%2520BGM05.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 739,
+    "filesize_mp3_bytes": 22900898,
+    "filesize_flac_bytes": 62232984,
+    "tracks": 5
+  }
+}

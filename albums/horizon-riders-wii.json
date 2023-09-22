@@ -1,0 +1,36 @@
+{
+  "title": "Horizon Riders",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T14:14:50.068958+00:00",
+  "slug": "horizon-riders-wii",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/horizon-riders-wii",
+  "platforms": {
+    "Wii": "https://downloads.khinsider.com/game-soundtracks/nintendo-wii"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/horizon-riders-wii/Horizon%20Riders%20%28Wii%29.jpg"
+  ],
+  "date_added": "2016-09-18T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 26140999,
+      "title": "Horizon Riders Wii - Full Soundtrack",
+      "runtime": 1089,
+      "source_mp3": "https://vgmsite.com/soundtracks/horizon-riders-wii/qykwdubk/Horizon%20Riders%20Wii%20-%20Full%20Soundtrack.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/horizon-riders-wii/Horizon%2520Riders%2520Wii%2520-%2520Full%2520Soundtrack.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1089,
+    "filesize_mp3_bytes": 26140999,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

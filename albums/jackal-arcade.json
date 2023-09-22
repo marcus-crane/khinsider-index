@@ -1,0 +1,112 @@
+{
+  "title": "Jackal",
+  "titles_alternative": [
+    "Top Gunner",
+    "\u7279\u6b8a\u90e8\u968a\u30b8\u30e3\u30c3\u30ab\u30eb"
+  ],
+  "crawled_at": "2023-09-22T16:34:30.081816+00:00",
+  "slug": "jackal-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/jackal-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/jackal-arcade/Jackal.png"
+  ],
+  "year": 1986,
+  "date_added": "2019-01-19T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami"
+  },
+  "publishers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 534773,
+      "filesize_mp3_bytes": 356515,
+      "track_number": 1,
+      "title": "Opening",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/jackal-arcade/faktmrgw/01%20Opening.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jackal-arcade/faktmrgw/01%20Opening.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jackal-arcade/01%2520Opening.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3040870,
+      "filesize_mp3_bytes": 1992294,
+      "track_number": 2,
+      "title": "Main BGM 1",
+      "runtime": 50,
+      "source_mp3": "https://vgmsite.com/soundtracks/jackal-arcade/qedbsswd/02%20Main%20BGM%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jackal-arcade/qedbsswd/02%20Main%20BGM%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jackal-arcade/02%2520Main%2520BGM%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5651824,
+      "filesize_mp3_bytes": 3156213,
+      "track_number": 3,
+      "title": "Main BGM 2",
+      "runtime": 79,
+      "source_mp3": "https://vgmsite.com/soundtracks/jackal-arcade/ryofyfhz/03%20Main%20BGM%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jackal-arcade/ryofyfhz/03%20Main%20BGM%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jackal-arcade/03%2520Main%2520BGM%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1405091,
+      "filesize_mp3_bytes": 996147,
+      "track_number": 4,
+      "title": "Final BGM",
+      "runtime": 25,
+      "source_mp3": "https://vgmsite.com/soundtracks/jackal-arcade/jgerilwe/04%20Final%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jackal-arcade/jgerilwe/04%20Final%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jackal-arcade/04%2520Final%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 482344,
+      "filesize_mp3_bytes": 325058,
+      "track_number": 5,
+      "title": "Game Over",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/jackal-arcade/owngqjhz/05%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jackal-arcade/owngqjhz/05%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jackal-arcade/05%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 943718,
+      "filesize_mp3_bytes": 650117,
+      "track_number": 6,
+      "title": "Ending",
+      "runtime": 16,
+      "source_mp3": "https://vgmsite.com/soundtracks/jackal-arcade/qvkiudhs/06%20Ending.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jackal-arcade/qvkiudhs/06%20Ending.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jackal-arcade/06%2520Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2422210,
+      "filesize_mp3_bytes": 1572864,
+      "track_number": 7,
+      "title": "Ranking",
+      "runtime": 39,
+      "source_mp3": "https://vgmsite.com/soundtracks/jackal-arcade/swhaldfi/07%20Ranking.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jackal-arcade/swhaldfi/07%20Ranking.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jackal-arcade/07%2520Ranking.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 226,
+    "filesize_mp3_bytes": 9049208,
+    "filesize_flac_bytes": 14480830,
+    "tracks": 7
+  }
+}

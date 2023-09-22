@@ -1,0 +1,46 @@
+{
+  "title": "Joe Blade 2",
+  "titles_alternative": [
+    "Joe Blade II"
+  ],
+  "crawled_at": "2023-09-22T17:12:21.745916+00:00",
+  "slug": "joe-blade-2-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/joe-blade-2-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/joe-blade-2-amiga/JB.png"
+  ],
+  "year": 1988,
+  "date_added": "2018-01-07T00:00:00+00:00",
+  "developers": {
+    "Colin Swinbourne": "https://downloads.khinsider.com/game-soundtracks/developer/colin-swinbourne",
+    "Kevin Parker": "https://downloads.khinsider.com/game-soundtracks/developer/kevin-parker",
+    "Martin Severn": "https://downloads.khinsider.com/game-soundtracks/developer/martin-severn"
+  },
+  "publishers": {
+    "Players Software": "https://downloads.khinsider.com/game-soundtracks/publisher/players-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6752829,
+      "track_number": 1,
+      "title": "Nest (Title Screen)",
+      "runtime": 224,
+      "source_mp3": "https://vgmsite.com/soundtracks/joe-blade-2-amiga/uulwkxdx/01_Nest%20%28Title%20Screen%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/joe-blade-2-amiga/01_Nest%2520%2528Title%2520Screen%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 224,
+    "filesize_mp3_bytes": 6752829,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

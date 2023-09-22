@@ -1,0 +1,62 @@
+{
+  "title": "Hugo Gold",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T14:35:35.022079+00:00",
+  "slug": "hugo-gold-windows-gamerip-1999",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hugo-gold-windows-gamerip-1999",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/hugo-gold-windows-gamerip-1999/51VSBXDHQML%20%281%29.jpg"
+  ],
+  "year": 1999,
+  "date_added": "2023-04-29T00:00:00+00:00",
+  "developers": {
+    "ITE Media": "https://downloads.khinsider.com/game-soundtracks/developer/ite-media"
+  },
+  "publishers": {
+    "ITE Media": "https://downloads.khinsider.com/game-soundtracks/publisher/ite-media"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 1,
+      "title": "ITE Media Logo",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/hugo-gold-windows-gamerip-1999/nlunwezlql/01.%20ITE%20Media%20Logo.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hugo-gold-windows-gamerip-1999/01.%2520ITE%2520Media%2520Logo.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 461373,
+      "track_number": 2,
+      "title": "Main Menu",
+      "runtime": 52,
+      "source_mp3": "https://vgmsite.com/soundtracks/hugo-gold-windows-gamerip-1999/qbfjcwngeo/02.%20Main%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hugo-gold-windows-gamerip-1999/02.%2520Main%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 167772,
+      "track_number": 3,
+      "title": "High Score",
+      "runtime": 19,
+      "source_mp3": "https://vgmsite.com/soundtracks/hugo-gold-windows-gamerip-1999/gzqudjkepu/03.%20High%20Score.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hugo-gold-windows-gamerip-1999/03.%2520High%2520Score.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 76,
+    "filesize_mp3_bytes": 713031,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

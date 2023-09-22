@@ -1,0 +1,122 @@
+{
+  "title": "Jankenman",
+  "titles_alternative": [
+    "\u30b8\u30e3\u30f3\u30b1\u30f3\u30de\u30f3"
+  ],
+  "crawled_at": "2023-09-22T16:49:05.973716+00:00",
+  "slug": "jankenman",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/jankenman",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/jankenman/Jankenman%20Game%20Boy.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2015-05-13T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Masaya": "https://downloads.khinsider.com/game-soundtracks/publisher/masaya"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1121976,
+      "track_number": 1,
+      "title": "BGM 01",
+      "runtime": 37,
+      "source_mp3": "https://vgmsite.com/soundtracks/jankenman/twrzyshd/01%20-%20BGM%2001.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jankenman/01%2520-%2520BGM%252001.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1835008,
+      "track_number": 2,
+      "title": "BGM 02",
+      "runtime": 63,
+      "source_mp3": "https://vgmsite.com/soundtracks/jankenman/vxwtlpbs/02%20-%20BGM%2002.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jankenman/02%2520-%2520BGM%252002.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1436549,
+      "track_number": 3,
+      "title": "BGM 03",
+      "runtime": 50,
+      "source_mp3": "https://vgmsite.com/soundtracks/jankenman/vbnhpsqa/03%20-%20BGM%2003.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jankenman/03%2520-%2520BGM%252003.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2506096,
+      "track_number": 4,
+      "title": "BGM 04",
+      "runtime": 89,
+      "source_mp3": "https://vgmsite.com/soundtracks/jankenman/dwdxprqp/04%20-%20BGM%2004.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jankenman/04%2520-%2520BGM%252004.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1017118,
+      "track_number": 5,
+      "title": "BGM 05",
+      "runtime": 37,
+      "source_mp3": "https://vgmsite.com/soundtracks/jankenman/ybzewhct/05%20-%20BGM%2005.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jankenman/05%2520-%2520BGM%252005.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 660602,
+      "track_number": 6,
+      "title": "BGM 06",
+      "runtime": 19,
+      "source_mp3": "https://vgmsite.com/soundtracks/jankenman/ziezeziv/06%20-%20BGM%2006.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jankenman/06%2520-%2520BGM%252006.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 178257,
+      "track_number": 7,
+      "title": "Jingle 01",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/jankenman/qriikdje/07%20-%20Jingle%2001.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jankenman/07%2520-%2520Jingle%252001.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 262144,
+      "track_number": 8,
+      "title": "Jingle 02",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/jankenman/puhbdcuz/08%20-%20Jingle%2002.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jankenman/08%2520-%2520Jingle%252002.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 9,
+      "title": "Jingle 03",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/jankenman/iejmmkke/09%20-%20Jingle%2003.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jankenman/09%2520-%2520Jingle%252003.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 315,
+    "filesize_mp3_bytes": 9112121,
+    "filesize_flac_bytes": 0,
+    "tracks": 9
+  }
+}

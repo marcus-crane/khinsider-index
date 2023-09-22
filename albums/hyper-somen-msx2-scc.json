@@ -1,0 +1,68 @@
+{
+  "title": "Hyper Somen (SCC)",
+  "titles_alternative": [
+    "Konami Game Collection Extra",
+    "\u306f\u3044\u3071\u30fc\u305d\u30fc\u3081\u3093"
+  ],
+  "crawled_at": "2023-09-22T14:47:49.367004+00:00",
+  "slug": "hyper-somen-msx2-scc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hyper-somen-msx2-scc",
+  "platforms": {
+    "MSX2": "https://downloads.khinsider.com/game-soundtracks/msx2"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/hyper-somen-msx2-scc/Hyper%20Somen.png"
+  ],
+  "year": 1989,
+  "date_added": "2022-05-09T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami"
+  },
+  "publishers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 450887,
+      "filesize_mp3_bytes": 209715,
+      "track_number": 1,
+      "title": "Helicopter",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/hyper-somen-msx2-scc/rklgukjcee/01%20Helicopter.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hyper-somen-msx2-scc/rklgukjcee/01%20Helicopter.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hyper-somen-msx2-scc/01%2520Helicopter.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5934940,
+      "filesize_mp3_bytes": 2401239,
+      "track_number": 2,
+      "title": "Main BGM",
+      "runtime": 109,
+      "source_mp3": "https://vgmsite.com/soundtracks/hyper-somen-msx2-scc/zenpwhyqto/02%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hyper-somen-msx2-scc/zenpwhyqto/02%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hyper-somen-msx2-scc/02%2520Main%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 241172,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 3,
+      "title": "Game Over",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/hyper-somen-msx2-scc/jwxmbejruc/03%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hyper-somen-msx2-scc/jwxmbejruc/03%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hyper-somen-msx2-scc/03%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 123,
+    "filesize_mp3_bytes": 2705325,
+    "filesize_flac_bytes": 6626999,
+    "tracks": 3
+  }
+}

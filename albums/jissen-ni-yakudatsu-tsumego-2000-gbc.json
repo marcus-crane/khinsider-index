@@ -1,0 +1,67 @@
+{
+  "title": "Jissen ni Yakudatsu Tsumego (GBC)",
+  "titles_alternative": [
+    "\u5b9f\u6226\u306b\u5f79\u7acb\u3064\u8a70\u7881"
+  ],
+  "crawled_at": "2023-09-22T17:11:26.364953+00:00",
+  "slug": "jissen-ni-yakudatsu-tsumego-2000-gbc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/jissen-ni-yakudatsu-tsumego-2000-gbc",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/jissen-ni-yakudatsu-tsumego-2000-gbc/Jissen%20ni%20Yakudatsu%20Tsumego.jpg"
+  ],
+  "year": 2000,
+  "date_added": "2022-04-28T00:00:00+00:00",
+  "developers": {
+    "Pony Canyon": "https://downloads.khinsider.com/game-soundtracks/developer/pony-canyon"
+  },
+  "publishers": {
+    "Pony Canyon": "https://downloads.khinsider.com/game-soundtracks/publisher/pony-canyon"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3460300,
+      "filesize_mp3_bytes": 1289748,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 52,
+      "source_mp3": "https://vgmsite.com/soundtracks/jissen-ni-yakudatsu-tsumego-2000-gbc/txvmegvhum/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jissen-ni-yakudatsu-tsumego-2000-gbc/txvmegvhum/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jissen-ni-yakudatsu-tsumego-2000-gbc/01%2520BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10244587,
+      "filesize_mp3_bytes": 4005560,
+      "track_number": 2,
+      "title": "BGM #02",
+      "runtime": 136,
+      "source_mp3": "https://vgmsite.com/soundtracks/jissen-ni-yakudatsu-tsumego-2000-gbc/mixksrexcl/02%20BGM%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jissen-ni-yakudatsu-tsumego-2000-gbc/mixksrexcl/02%20BGM%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jissen-ni-yakudatsu-tsumego-2000-gbc/02%2520BGM%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 838860,
+      "filesize_mp3_bytes": 440401,
+      "track_number": 3,
+      "title": "Jingle #01",
+      "runtime": 12,
+      "source_mp3": "https://vgmsite.com/soundtracks/jissen-ni-yakudatsu-tsumego-2000-gbc/lggmxhfxjq/03%20Jingle%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jissen-ni-yakudatsu-tsumego-2000-gbc/lggmxhfxjq/03%20Jingle%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jissen-ni-yakudatsu-tsumego-2000-gbc/03%2520Jingle%2520%252301.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 200,
+    "filesize_mp3_bytes": 5735709,
+    "filesize_flac_bytes": 14543747,
+    "tracks": 3
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "title": "I-War",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T15:06:05.248882+00:00",
+  "slug": "i-war-atari-jaguar",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/i-war-atari-jaguar",
+  "platforms": {
+    "Atari Jaguar": "https://downloads.khinsider.com/game-soundtracks/atari-jaguar"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/i-war-atari-jaguar/I-War%20Atari%20Jaguar%20full%20cover.jpg"
+  ],
+  "year": 1995,
+  "date_added": "2020-09-11T00:00:00+00:00",
+  "developers": {
+    "Imagitec Design": "https://downloads.khinsider.com/game-soundtracks/developer/imagitec-design"
+  },
+  "publishers": {
+    "Atari": "https://downloads.khinsider.com/game-soundtracks/publisher/atari"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6123683,
+      "track_number": 1,
+      "title": "Intro Theme",
+      "runtime": 153,
+      "source_mp3": "https://vgmsite.com/soundtracks/i-war-atari-jaguar/cnbvvashzf/1.%20Intro%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/i-war-atari-jaguar/1.%2520Intro%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 12048138,
+      "track_number": 2,
+      "title": "Combat 1",
+      "runtime": 301,
+      "source_mp3": "https://vgmsite.com/soundtracks/i-war-atari-jaguar/kyfcmageez/2.%20Combat%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/i-war-atari-jaguar/2.%2520Combat%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 12048138,
+      "track_number": 3,
+      "title": "Combat 2",
+      "runtime": 301,
+      "source_mp3": "https://vgmsite.com/soundtracks/i-war-atari-jaguar/rhrkldxwgs/3.%20Combat%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/i-war-atari-jaguar/3.%2520Combat%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7801405,
+      "track_number": 4,
+      "title": "Combat 3",
+      "runtime": 195,
+      "source_mp3": "https://vgmsite.com/soundtracks/i-war-atari-jaguar/tdtdoqcjbj/4.%20Combat%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/i-war-atari-jaguar/4.%2520Combat%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6805258,
+      "track_number": 5,
+      "title": "Interlude",
+      "runtime": 170,
+      "source_mp3": "https://vgmsite.com/soundtracks/i-war-atari-jaguar/owepweyutq/5.%20Interlude.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/i-war-atari-jaguar/5.%2520Interlude.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7528775,
+      "track_number": 6,
+      "title": "Bonus",
+      "runtime": 188,
+      "source_mp3": "https://vgmsite.com/soundtracks/i-war-atari-jaguar/smwkwlqwsz/6.%20Bonus.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/i-war-atari-jaguar/6.%2520Bonus.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1006632,
+      "track_number": 7,
+      "title": "Victory",
+      "runtime": 25,
+      "source_mp3": "https://vgmsite.com/soundtracks/i-war-atari-jaguar/fhjwdkspvj/7.%20Victory.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/i-war-atari-jaguar/7.%2520Victory.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1333,
+    "filesize_mp3_bytes": 53362029,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

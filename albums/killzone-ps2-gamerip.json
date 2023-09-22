@@ -1,0 +1,92 @@
+{
+  "title": "Killzone",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T19:01:43.011573+00:00",
+  "slug": "killzone-ps2-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/killzone-ps2-gamerip",
+  "platforms": {
+    "PS2": "https://downloads.khinsider.com/game-soundtracks/playstation-2"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/killzone-ps2-gamerip/Killzone.jpg"
+  ],
+  "year": 2004,
+  "date_added": "2006-11-22T00:00:00+00:00",
+  "developers": {
+    "Guerrilla Games": "https://downloads.khinsider.com/game-soundtracks/developer/guerrilla-games"
+  },
+  "publishers": {
+    "Sony Computer Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/sony-computer-entertainment"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7769948,
+      "track_number": 1,
+      "title": "helghast march",
+      "runtime": 277,
+      "source_mp3": "https://vgmsite.com/soundtracks/killzone-ps2-gamerip/hgbrkjpe/01%20-%20helghast%20march.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/killzone-ps2-gamerip/01%2520-%2520helghast%2520march.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1876951,
+      "track_number": 2,
+      "title": "unknown trackname",
+      "runtime": 68,
+      "source_mp3": "https://vgmsite.com/soundtracks/killzone-ps2-gamerip/cpehnccb/02%20-%20unknown%20trackname.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/killzone-ps2-gamerip/02%2520-%2520unknown%2520trackname.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4676648,
+      "track_number": 3,
+      "title": "birth of war",
+      "runtime": 171,
+      "source_mp3": "https://vgmsite.com/soundtracks/killzone-ps2-gamerip/fujkwaty/03%20-%20birth%20of%20war.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/killzone-ps2-gamerip/03%2520-%2520birth%2520of%2520war.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2034237,
+      "track_number": 4,
+      "title": "unknown trackname",
+      "runtime": 71,
+      "source_mp3": "https://vgmsite.com/soundtracks/killzone-ps2-gamerip/slgotyll/04%20-%20unknown%20trackname.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/killzone-ps2-gamerip/04%2520-%2520unknown%2520trackname.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2306867,
+      "track_number": 5,
+      "title": "unknown trackname",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/killzone-ps2-gamerip/junsmkte/05%20-%20unknown%20trackname.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/killzone-ps2-gamerip/05%2520-%2520unknown%2520trackname.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2485125,
+      "track_number": 6,
+      "title": "teaser",
+      "runtime": 90,
+      "source_mp3": "https://vgmsite.com/soundtracks/killzone-ps2-gamerip/mffyjtok/06%20-%20teaser.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/killzone-ps2-gamerip/06%2520-%2520teaser.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 773,
+    "filesize_mp3_bytes": 21149776,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

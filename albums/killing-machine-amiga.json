@@ -1,0 +1,62 @@
+{
+  "title": "Killing Machine",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T19:00:01.464224+00:00",
+  "slug": "killing-machine-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/killing-machine-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/killing-machine-amiga/Killing%20Machine.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2019-03-25T00:00:00+00:00",
+  "developers": {
+    "Coinage": "https://downloads.khinsider.com/game-soundtracks/developer/coinage"
+  },
+  "publishers": {
+    "Atlantis Software": "https://downloads.khinsider.com/game-soundtracks/publisher/atlantis-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9909043,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 350,
+      "source_mp3": "https://vgmsite.com/soundtracks/killing-machine-amiga/gboifeee/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/killing-machine-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8420065,
+      "track_number": 2,
+      "title": "In-Game BGM",
+      "runtime": 290,
+      "source_mp3": "https://vgmsite.com/soundtracks/killing-machine-amiga/sowuhlfo/02_In-Game%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/killing-machine-amiga/02_In-Game%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11303649,
+      "track_number": 3,
+      "title": "Name Entry",
+      "runtime": 384,
+      "source_mp3": "https://vgmsite.com/soundtracks/killing-machine-amiga/hclhtubs/03_Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/killing-machine-amiga/03_Name%2520Entry.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1024,
+    "filesize_mp3_bytes": 29632757,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

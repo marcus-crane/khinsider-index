@@ -1,0 +1,105 @@
+{
+  "title": "Ignition",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T15:18:51.047784+00:00",
+  "slug": "ignition-2017-pc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ignition-2017-pc",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ignition-2017-pc/Ignition.png"
+  ],
+  "year": 2017,
+  "date_added": "2021-03-03T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 35368468,
+      "filesize_mp3_bytes": 10118758,
+      "track_number": 1,
+      "title": "Mountain",
+      "runtime": 308,
+      "source_mp3": "https://vgmsite.com/soundtracks/ignition-2017-pc/clfiekjcmx/01%20-%20Mountain.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ignition-2017-pc/clfiekjcmx/01%20-%20Mountain.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ignition-2017-pc/01%2520-%2520Mountain.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 55385784,
+      "filesize_mp3_bytes": 14669578,
+      "track_number": 2,
+      "title": "Race",
+      "runtime": 423,
+      "source_mp3": "https://vgmsite.com/soundtracks/ignition-2017-pc/dpivulkrwv/02%20-%20Race.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ignition-2017-pc/dpivulkrwv/02%20-%20Race.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ignition-2017-pc/02%2520-%2520Race.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 34540093,
+      "filesize_mp3_bytes": 10255073,
+      "track_number": 3,
+      "title": "Snake Island",
+      "runtime": 306,
+      "source_mp3": "https://vgmsite.com/soundtracks/ignition-2017-pc/adjcpnrxgm/03%20-%20Snake%20Island.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ignition-2017-pc/adjcpnrxgm/03%20-%20Snake%20Island.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ignition-2017-pc/03%2520-%2520Snake%2520Island.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 34812723,
+      "filesize_mp3_bytes": 9835642,
+      "track_number": 4,
+      "title": "Speed",
+      "runtime": 279,
+      "source_mp3": "https://vgmsite.com/soundtracks/ignition-2017-pc/gzvgkyfgqb/04%20-%20Speed.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ignition-2017-pc/gzvgkyfgqb/04%20-%20Speed.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ignition-2017-pc/04%2520-%2520Speed.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 34823208,
+      "filesize_mp3_bytes": 9542041,
+      "track_number": 5,
+      "title": "Monster Truck",
+      "runtime": 293,
+      "source_mp3": "https://vgmsite.com/soundtracks/ignition-2017-pc/bzigjjqftw/05%20-%20Monster%20Truck.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ignition-2017-pc/bzigjjqftw/05%20-%20Monster%20Truck.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ignition-2017-pc/05%2520-%2520Monster%2520Truck.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 40055603,
+      "filesize_mp3_bytes": 10810818,
+      "track_number": 6,
+      "title": "Ending",
+      "runtime": 338,
+      "source_mp3": "https://vgmsite.com/soundtracks/ignition-2017-pc/fxnzeiskyc/06%20-%20Ending.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ignition-2017-pc/fxnzeiskyc/06%20-%20Ending.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ignition-2017-pc/06%2520-%2520Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2285895,
+      "filesize_mp3_bytes": 576716,
+      "track_number": 7,
+      "title": "Victory",
+      "runtime": 14,
+      "source_mp3": "https://vgmsite.com/soundtracks/ignition-2017-pc/byixaftqph/07%20-%20Victory.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ignition-2017-pc/byixaftqph/07%20-%20Victory.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ignition-2017-pc/07%2520-%2520Victory.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1961,
+    "filesize_mp3_bytes": 65808626,
+    "filesize_flac_bytes": 237271774,
+    "tracks": 7
+  }
+}

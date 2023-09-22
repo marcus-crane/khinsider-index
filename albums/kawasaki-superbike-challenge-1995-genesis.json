@@ -1,0 +1,79 @@
+{
+  "title": "Kawasaki Superbike Challenge",
+  "titles_alternative": [
+    "Kawasaki Superbikes"
+  ],
+  "crawled_at": "2023-09-22T18:27:56.796236+00:00",
+  "slug": "kawasaki-superbike-challenge-1995-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/kawasaki-superbike-challenge-1995-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/kawasaki-superbike-challenge-1995-genesis/Kawasaki%20Superbike%20Challenge.png"
+  ],
+  "year": 1994,
+  "date_added": "2022-11-25T00:00:00+00:00",
+  "developers": {
+    "Lankhor": "https://downloads.khinsider.com/game-soundtracks/developer/lankhor"
+  },
+  "publishers": {
+    "Domark": "https://downloads.khinsider.com/game-soundtracks/publisher/domark",
+    "Time Warner Interactive": "https://downloads.khinsider.com/game-soundtracks/publisher/time-warner-interactive"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 21275607,
+      "filesize_mp3_bytes": 7560232,
+      "track_number": 1,
+      "title": "Title Screen, Main Menu",
+      "runtime": 235,
+      "source_mp3": "https://vgmsite.com/soundtracks/kawasaki-superbike-challenge-1995-genesis/lkehfcxfwz/01%20Title%20Screen%2C%20Main%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kawasaki-superbike-challenge-1995-genesis/lkehfcxfwz/01%20Title%20Screen%2C%20Main%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kawasaki-superbike-challenge-1995-genesis/01%2520Title%2520Screen%252C%2520Main%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2191523,
+      "filesize_mp3_bytes": 880803,
+      "track_number": 2,
+      "title": "Configuration",
+      "runtime": 26,
+      "source_mp3": "https://vgmsite.com/soundtracks/kawasaki-superbike-challenge-1995-genesis/mqpuoqkfhx/02%20Configuration.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kawasaki-superbike-challenge-1995-genesis/mqpuoqkfhx/02%20Configuration.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kawasaki-superbike-challenge-1995-genesis/02%2520Configuration.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2338324,
+      "filesize_mp3_bytes": 702545,
+      "track_number": 3,
+      "title": "Race Results - Win",
+      "runtime": 24,
+      "source_mp3": "https://vgmsite.com/soundtracks/kawasaki-superbike-challenge-1995-genesis/njalbztadi/03%20Race%20Results%20-%20Win.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kawasaki-superbike-challenge-1995-genesis/njalbztadi/03%20Race%20Results%20-%20Win.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kawasaki-superbike-challenge-1995-genesis/03%2520Race%2520Results%2520-%2520Win.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 671088,
+      "filesize_mp3_bytes": 283115,
+      "track_number": 4,
+      "title": "Race Results - Lose",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/kawasaki-superbike-challenge-1995-genesis/vbvpopugtk/04%20Race%20Results%20-%20Lose.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kawasaki-superbike-challenge-1995-genesis/vbvpopugtk/04%20Race%20Results%20-%20Lose.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kawasaki-superbike-challenge-1995-genesis/04%2520Race%2520Results%2520-%2520Lose.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 293,
+    "filesize_mp3_bytes": 9426695,
+    "filesize_flac_bytes": 26476542,
+    "tracks": 4
+  }
+}

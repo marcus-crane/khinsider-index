@@ -1,0 +1,67 @@
+{
+  "title": "Hyper Sports 1",
+  "titles_alternative": [
+    "Hyper Olympic '84"
+  ],
+  "crawled_at": "2023-09-22T14:47:50.870314+00:00",
+  "slug": "hyper-sports-1-msx",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hyper-sports-1-msx",
+  "platforms": {
+    "MSX": "https://downloads.khinsider.com/game-soundtracks/msx"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/hyper-sports-1-msx/Hyper%20Sports%201.png"
+  ],
+  "year": 1984,
+  "date_added": "2022-05-09T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami"
+  },
+  "publishers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 230686,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 1,
+      "title": "First Event",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/hyper-sports-1-msx/hoqbyikjzn/01%20First%20Event.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hyper-sports-1-msx/hoqbyikjzn/01%20First%20Event.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hyper-sports-1-msx/01%2520First%2520Event.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 178257,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 2,
+      "title": "Next Event",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/hyper-sports-1-msx/xrwfalrqul/02%20Next%20Event.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hyper-sports-1-msx/xrwfalrqul/02%20Next%20Event.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hyper-sports-1-msx/02%2520Next%2520Event.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 178257,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 3,
+      "title": "Game Over",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/hyper-sports-1-msx/uughfbufnb/03%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hyper-sports-1-msx/uughfbufnb/03%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hyper-sports-1-msx/03%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 12,
+    "filesize_mp3_bytes": 199228,
+    "filesize_flac_bytes": 587200,
+    "tracks": 3
+  }
+}

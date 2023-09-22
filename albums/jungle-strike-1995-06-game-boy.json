@@ -1,0 +1,69 @@
+{
+  "title": "Jungle Strike",
+  "titles_alternative": [
+    "\u30b8\u30e3\u30f3\u30b0\u30eb\u30b9\u30c8\u30e9\u30a4\u30af \u53d7\u3051\u7d99\u304c\u308c\u305f\u72c2\u6c17"
+  ],
+  "crawled_at": "2023-09-22T17:34:09.423253+00:00",
+  "slug": "jungle-strike-1995-06-game-boy",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/jungle-strike-1995-06-game-boy",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/jungle-strike-1995-06-game-boy/J1.jpg"
+  ],
+  "year": 1995,
+  "date_added": "2018-12-29T00:00:00+00:00",
+  "developers": {
+    "EA": "https://downloads.khinsider.com/game-soundtracks/developer/ea",
+    "Granite Bay Software": "https://downloads.khinsider.com/game-soundtracks/developer/granite-bay-software"
+  },
+  "publishers": {
+    "Malibu Games": "https://downloads.khinsider.com/game-soundtracks/publisher/malibu-games",
+    "THQ": "https://downloads.khinsider.com/game-soundtracks/publisher/thq"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10034872,
+      "filesize_mp3_bytes": 7203717,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/jungle-strike-1995-06-game-boy/dfozvfzu/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jungle-strike-1995-06-game-boy/dfozvfzu/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jungle-strike-1995-06-game-boy/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 14742978,
+      "filesize_mp3_bytes": 7203717,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/jungle-strike-1995-06-game-boy/tiyuanjc/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jungle-strike-1995-06-game-boy/tiyuanjc/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jungle-strike-1995-06-game-boy/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10097786,
+      "filesize_mp3_bytes": 7203717,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/jungle-strike-1995-06-game-boy/yicgodhf/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jungle-strike-1995-06-game-boy/yicgodhf/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jungle-strike-1995-06-game-boy/03.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 540,
+    "filesize_mp3_bytes": 21611151,
+    "filesize_flac_bytes": 34875636,
+    "tracks": 3
+  }
+}

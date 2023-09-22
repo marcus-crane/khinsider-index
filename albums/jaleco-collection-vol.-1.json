@@ -1,0 +1,64 @@
+{
+  "title": "Jaleco Collection Vol. 1",
+  "titles_alternative": [
+    "\u30b8\u30e3\u30ec\u30b3\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Vol.1"
+  ],
+  "crawled_at": "2023-09-22T16:44:44.925032+00:00",
+  "slug": "jaleco-collection-vol.-1",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/jaleco-collection-vol.-1",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/jaleco-collection-vol.-1/Jaleco%20Collection%20Vol.%201%20album%20coverpng.png"
+  ],
+  "year": 2003,
+  "date_added": "2019-04-19T00:00:00+00:00",
+  "developers": {
+    "PCCW Japan": "https://downloads.khinsider.com/game-soundtracks/developer/pccw-japan"
+  },
+  "publishers": {
+    "PCCW Japan": "https://downloads.khinsider.com/game-soundtracks/publisher/pccw-japan"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 220200,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/jaleco-collection-vol.-1/kljtqilw/01%20-%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jaleco-collection-vol.-1/01%2520-%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2621440,
+      "track_number": 2,
+      "title": "Game Selection",
+      "runtime": 66,
+      "source_mp3": "https://vgmsite.com/soundtracks/jaleco-collection-vol.-1/sdjmltkg/02%20-%20Game%20Selection.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jaleco-collection-vol.-1/02%2520-%2520Game%2520Selection.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2904555,
+      "track_number": 3,
+      "title": "Options",
+      "runtime": 73,
+      "source_mp3": "https://vgmsite.com/soundtracks/jaleco-collection-vol.-1/xywgsgmq/03%20-%20Options.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jaleco-collection-vol.-1/03%2520-%2520Options.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 145,
+    "filesize_mp3_bytes": 5746195,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

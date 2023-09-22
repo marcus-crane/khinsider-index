@@ -1,0 +1,43 @@
+{
+  "title": "Kevin Keegan's Player Manager",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T18:39:52.005800+00:00",
+  "slug": "kevin-keegan-s-player-manager-1993-snes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/kevin-keegan-s-player-manager-1993-snes",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/kevin-keegan-s-player-manager-1993-snes/P1.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2019-08-13T00:00:00+00:00",
+  "developers": {
+    "Imagineer": "https://downloads.khinsider.com/game-soundtracks/developer/imagineer"
+  },
+  "publishers": {
+    "Imagineer": "https://downloads.khinsider.com/game-soundtracks/publisher/imagineer"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6385827,
+      "filesize_mp3_bytes": 3303014,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 114,
+      "source_mp3": "https://vgmsite.com/soundtracks/kevin-keegan-s-player-manager-1993-snes/foydxljtfz/01%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kevin-keegan-s-player-manager-1993-snes/foydxljtfz/01%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kevin-keegan-s-player-manager-1993-snes/01%2520Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 114,
+    "filesize_mp3_bytes": 3303014,
+    "filesize_flac_bytes": 6385827,
+    "tracks": 1
+  }
+}

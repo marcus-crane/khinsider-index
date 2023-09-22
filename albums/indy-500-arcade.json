@@ -1,0 +1,122 @@
+{
+  "title": "INDY 500",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T15:49:12.434413+00:00",
+  "slug": "indy-500-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/indy-500-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/indy-500-arcade/I1.jpg"
+  ],
+  "year": 1995,
+  "date_added": "2014-12-19T00:00:00+00:00",
+  "developers": {
+    "Sega AM1": "https://downloads.khinsider.com/game-soundtracks/developer/sega-am1"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 775946,
+      "track_number": 1,
+      "title": "Advertize",
+      "runtime": 45,
+      "source_mp3": "https://vgmsite.com/soundtracks/indy-500-arcade/kufbzdcc/01_Advertize.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/indy-500-arcade/01_Advertize.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 817889,
+      "track_number": 2,
+      "title": "Course Select",
+      "runtime": 47,
+      "source_mp3": "https://vgmsite.com/soundtracks/indy-500-arcade/eivyikdq/02_Course%20Select.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/indy-500-arcade/02_Course%2520Select.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5138022,
+      "track_number": 3,
+      "title": "Beginner - Indy 500",
+      "runtime": 298,
+      "source_mp3": "https://vgmsite.com/soundtracks/indy-500-arcade/taghuooa/03_Beginner%20-%20Indy%20500.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/indy-500-arcade/03_Beginner%2520-%2520Indy%2520500.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4215275,
+      "track_number": 4,
+      "title": "Medium - Highland Raceway",
+      "runtime": 245,
+      "source_mp3": "https://vgmsite.com/soundtracks/indy-500-arcade/ijbuguxe/04_Medium%20-%20Highland%20Raceway.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/indy-500-arcade/04_Medium%2520-%2520Highland%2520Raceway.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3785359,
+      "track_number": 5,
+      "title": "Expert - Bay Side Street",
+      "runtime": 222,
+      "source_mp3": "https://vgmsite.com/soundtracks/indy-500-arcade/kadnnfep/05_Expert%20-%20Bay%20Side%20Street.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/indy-500-arcade/05_Expert%2520-%2520Bay%2520Side%2520Street.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 608174,
+      "track_number": 6,
+      "title": "Finish",
+      "runtime": 35,
+      "source_mp3": "https://vgmsite.com/soundtracks/indy-500-arcade/phyqpkln/06_Finish.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/indy-500-arcade/06_Finish.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 471859,
+      "track_number": 7,
+      "title": "Ending",
+      "runtime": 29,
+      "source_mp3": "https://vgmsite.com/soundtracks/indy-500-arcade/tcqnsdef/07_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/indy-500-arcade/07_Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1153433,
+      "track_number": 8,
+      "title": "Name Entry",
+      "runtime": 39,
+      "source_mp3": "https://vgmsite.com/soundtracks/indy-500-arcade/uvmuucin/08_Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/indy-500-arcade/08_Name%2520Entry.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 9,
+      "title": "Game Over",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/indy-500-arcade/vemvzzie/09_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/indy-500-arcade/09_Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 965,
+    "filesize_mp3_bytes": 17049843,
+    "filesize_flac_bytes": 0,
+    "tracks": 9
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "title": "Hyper Olympic 1",
+  "titles_alternative": [
+    "Track & Field"
+  ],
+  "crawled_at": "2023-09-22T14:47:10.494856+00:00",
+  "slug": "hyper-olympic-1-msx",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hyper-olympic-1-msx",
+  "platforms": {
+    "MSX": "https://downloads.khinsider.com/game-soundtracks/msx"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/hyper-olympic-1-msx/Hyper%20Olympic%201%20%28J%29.png"
+  ],
+  "year": 1984,
+  "date_added": "2022-05-09T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami"
+  },
+  "publishers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 545259,
+      "filesize_mp3_bytes": 199229,
+      "track_number": 1,
+      "title": "First Event",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/hyper-olympic-1-msx/ylxiscobml/01%20First%20Event.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hyper-olympic-1-msx/ylxiscobml/01%20First%20Event.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hyper-olympic-1-msx/01%2520First%2520Event.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 209715,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 2,
+      "title": "Next Event",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/hyper-olympic-1-msx/eqwxutmljx/02%20Next%20Event.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hyper-olympic-1-msx/eqwxutmljx/02%20Next%20Event.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hyper-olympic-1-msx/02%2520Next%2520Event.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 104857,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 3,
+      "title": "Qualified",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/hyper-olympic-1-msx/qihbmesulk/03%20Qualified.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hyper-olympic-1-msx/qihbmesulk/03%20Qualified.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hyper-olympic-1-msx/03%2520Qualified.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 157286,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/hyper-olympic-1-msx/ykgegnnpvy/04%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hyper-olympic-1-msx/ykgegnnpvy/04%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hyper-olympic-1-msx/04%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 20,
+    "filesize_mp3_bytes": 356514,
+    "filesize_flac_bytes": 1017117,
+    "tracks": 4
+  }
+}

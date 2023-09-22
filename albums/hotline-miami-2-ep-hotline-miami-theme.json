@@ -1,0 +1,51 @@
+{
+  "title": "Hotline Miami 2 EP",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T14:21:53.028037+00:00",
+  "slug": "hotline-miami-2-ep-hotline-miami-theme",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hotline-miami-2-ep-hotline-miami-theme",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/hotline-miami-2-ep-hotline-miami-theme/Cover.jpg"
+  ],
+  "year": 2015,
+  "catalog_number": null,
+  "date_added": "2021-02-12T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Benny Smiles": "https://downloads.khinsider.com/game-soundtracks/publisher/benny-smiles"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 26025656,
+      "filesize_mp3_bytes": 7707033,
+      "track_number": 1,
+      "title": "Hotline Miami Theme",
+      "runtime": 219,
+      "source_mp3": "https://vgmsite.com/soundtracks/hotline-miami-2-ep-hotline-miami-theme/mfcsurmsur/01.%20Hotline%20Miami%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hotline-miami-2-ep-hotline-miami-theme/mfcsurmsur/01.%20Hotline%20Miami%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hotline-miami-2-ep-hotline-miami-theme/01.%2520Hotline%2520Miami%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 25784483,
+      "filesize_mp3_bytes": 4194304,
+      "track_number": 2,
+      "title": "Bad Ending",
+      "runtime": 127,
+      "source_mp3": "https://vgmsite.com/soundtracks/hotline-miami-2-ep-hotline-miami-theme/gfeoblhimq/02.%20Bad%20Ending.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hotline-miami-2-ep-hotline-miami-theme/gfeoblhimq/02.%20Bad%20Ending.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hotline-miami-2-ep-hotline-miami-theme/02.%2520Bad%2520Ending.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 346,
+    "filesize_mp3_bytes": 11901337,
+    "filesize_flac_bytes": 51810139,
+    "tracks": 2
+  }
+}

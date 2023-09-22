@@ -1,0 +1,82 @@
+{
+  "title": "Jane's Hotel",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T16:48:52.283826+00:00",
+  "slug": "jane-s-hotel-2010-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/jane-s-hotel-2010-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/jane-s-hotel-2010-nds-gamerip/Jane%27s%20Hotel.jpg"
+  ],
+  "year": 2010,
+  "date_added": "2020-06-12T00:00:00+00:00",
+  "developers": {
+    "Zoo": "https://downloads.khinsider.com/game-soundtracks/developer/zoo"
+  },
+  "publishers": {
+    "Zoo": "https://downloads.khinsider.com/game-soundtracks/publisher/zoo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4194304,
+      "filesize_mp3_bytes": 943718,
+      "title": "Menu",
+      "runtime": 98,
+      "source_mp3": "https://vgmsite.com/soundtracks/jane-s-hotel-2010-nds-gamerip/qolpjaygpm/Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jane-s-hotel-2010-nds-gamerip/qolpjaygpm/Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jane-s-hotel-2010-nds-gamerip/Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4466933,
+      "filesize_mp3_bytes": 996147,
+      "title": "Music 1",
+      "runtime": 100,
+      "source_mp3": "https://vgmsite.com/soundtracks/jane-s-hotel-2010-nds-gamerip/xirecggmql/Music%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jane-s-hotel-2010-nds-gamerip/xirecggmql/Music%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jane-s-hotel-2010-nds-gamerip/Music%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4645191,
+      "filesize_mp3_bytes": 1038090,
+      "title": "Music 2",
+      "runtime": 105,
+      "source_mp3": "https://vgmsite.com/soundtracks/jane-s-hotel-2010-nds-gamerip/ndskfdxtlo/Music%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jane-s-hotel-2010-nds-gamerip/ndskfdxtlo/Music%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jane-s-hotel-2010-nds-gamerip/Music%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4037017,
+      "filesize_mp3_bytes": 849346,
+      "title": "Music 3",
+      "runtime": 88,
+      "source_mp3": "https://vgmsite.com/soundtracks/jane-s-hotel-2010-nds-gamerip/bhibqhxntb/Music%203.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jane-s-hotel-2010-nds-gamerip/bhibqhxntb/Music%203.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jane-s-hotel-2010-nds-gamerip/Music%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4823449,
+      "filesize_mp3_bytes": 1090519,
+      "title": "Music 4",
+      "runtime": 106,
+      "source_mp3": "https://vgmsite.com/soundtracks/jane-s-hotel-2010-nds-gamerip/qprhbawccx/Music%204.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jane-s-hotel-2010-nds-gamerip/qprhbawccx/Music%204.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jane-s-hotel-2010-nds-gamerip/Music%25204.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 497,
+    "filesize_mp3_bytes": 4917820,
+    "filesize_flac_bytes": 22166894,
+    "tracks": 5
+  }
+}

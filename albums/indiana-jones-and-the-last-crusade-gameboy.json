@@ -1,0 +1,92 @@
+{
+  "title": "Indiana Jones and The Last Crusade",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T15:47:07.017055+00:00",
+  "slug": "indiana-jones-and-the-last-crusade-gameboy",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/indiana-jones-and-the-last-crusade-gameboy",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/indiana-jones-and-the-last-crusade-gameboy/726585-indiana-jones-and-the-last-crusade-the-action-game-game-boy-front-cover.jpg"
+  ],
+  "year": 1994,
+  "date_added": "2018-02-02T00:00:00+00:00",
+  "developers": {
+    "NMS": "https://downloads.khinsider.com/game-soundtracks/developer/nms"
+  },
+  "publishers": {
+    "Ubisoft": "https://downloads.khinsider.com/game-soundtracks/publisher/ubisoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7203717,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/indiana-jones-and-the-last-crusade-gameboy/dlviurvx/01%20BGM%20%2301.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/indiana-jones-and-the-last-crusade-gameboy/01%2520BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7203717,
+      "track_number": 2,
+      "title": "BGM #02",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/indiana-jones-and-the-last-crusade-gameboy/sgaekjal/02%20BGM%20%2302.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/indiana-jones-and-the-last-crusade-gameboy/02%2520BGM%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7203717,
+      "track_number": 3,
+      "title": "BGM #03",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/indiana-jones-and-the-last-crusade-gameboy/rihpizhq/03%20BGM%20%2303.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/indiana-jones-and-the-last-crusade-gameboy/03%2520BGM%2520%252303.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7203717,
+      "track_number": 4,
+      "title": "BGM #04",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/indiana-jones-and-the-last-crusade-gameboy/dmlzevfv/04%20BGM%20%2304.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/indiana-jones-and-the-last-crusade-gameboy/04%2520BGM%2520%252304.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 314572,
+      "track_number": 5,
+      "title": "Jingle #01",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/indiana-jones-and-the-last-crusade-gameboy/yksrrkon/05%20Jingle%20%2301.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/indiana-jones-and-the-last-crusade-gameboy/05%2520Jingle%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 230686,
+      "track_number": 6,
+      "title": "Jingle #02",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/indiana-jones-and-the-last-crusade-gameboy/zrgiwnej/06%20Jingle%20%2302.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/indiana-jones-and-the-last-crusade-gameboy/06%2520Jingle%2520%252302.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 734,
+    "filesize_mp3_bytes": 29360126,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "title": "Idle Apocalypse",
+  "titles_alternative": [
+    "Apocalypse"
+  ],
+  "crawled_at": "2023-09-22T15:15:59.701620+00:00",
+  "slug": "idle-apocalypse-2018",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/idle-apocalypse-2018",
+  "platforms": {
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios",
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/idle-apocalypse-2018/cover.png"
+  ],
+  "year": 2018,
+  "catalog_number": null,
+  "date_added": "2023-01-04T00:00:00+00:00",
+  "developers": {
+    "Grumpy Rhino Games": "https://downloads.khinsider.com/game-soundtracks/developer/grumpy-rhino-games"
+  },
+  "publishers": {
+    "Grumpy Rhino Games": "https://downloads.khinsider.com/game-soundtracks/publisher/grumpy-rhino-games"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11439964,
+      "track_number": 1,
+      "title": "Sid's Apoca-lapse In Judgement",
+      "runtime": 282,
+      "source_mp3": "https://vgmsite.com/soundtracks/idle-apocalypse-2018/ebaktdlkdr/01.%20Sid%27s%20Apoca-lapse%20In%20Judgement.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/idle-apocalypse-2018/01.%2520Sid%2527s%2520Apoca-lapse%2520In%2520Judgement.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7665090,
+      "track_number": 2,
+      "title": "Diggin' For DOOM!",
+      "runtime": 188,
+      "source_mp3": "https://vgmsite.com/soundtracks/idle-apocalypse-2018/gpnrazpuqk/02.%20Diggin%27%20For%20DOOM%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/idle-apocalypse-2018/02.%2520Diggin%2527%2520For%2520DOOM%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4393533,
+      "track_number": 3,
+      "title": "Why Won't They Die",
+      "runtime": 106,
+      "source_mp3": "https://vgmsite.com/soundtracks/idle-apocalypse-2018/vrhyozhmsb/03.%20Why%20Won%27t%20They%20Die.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/idle-apocalypse-2018/03.%2520Why%2520Won%2527t%2520They%2520Die.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2558525,
+      "track_number": 4,
+      "title": "An Apocalypse To Remember",
+      "runtime": 60,
+      "source_mp3": "https://vgmsite.com/soundtracks/idle-apocalypse-2018/uablodoshi/04.%20An%20Apocalypse%20To%20Remember.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/idle-apocalypse-2018/04.%2520An%2520Apocalypse%2520To%2520Remember.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 636,
+    "filesize_mp3_bytes": 26057112,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

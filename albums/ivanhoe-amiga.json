@@ -1,0 +1,112 @@
+{
+  "title": "Ivanhoe",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T16:27:40.841379+00:00",
+  "slug": "ivanhoe-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ivanhoe-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ivanhoe-amiga/I1.png"
+  ],
+  "year": 1990,
+  "date_added": "2019-04-29T00:00:00+00:00",
+  "developers": {
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/developer/ocean"
+  },
+  "publishers": {
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/publisher/ocean"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 713031,
+      "track_number": 1,
+      "title": "Hivano (Title Screen)",
+      "runtime": 25,
+      "source_mp3": "https://vgmsite.com/soundtracks/ivanhoe-amiga/gvammypo/01_Hivano%20%28Title%20Screen%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ivanhoe-amiga/01_Hivano%2520%2528Title%2520Screen%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2202009,
+      "track_number": 2,
+      "title": "Level 1 Forest",
+      "runtime": 71,
+      "source_mp3": "https://vgmsite.com/soundtracks/ivanhoe-amiga/pfweptpr/02_Level%201%20Forest.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ivanhoe-amiga/02_Level%25201%2520Forest.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3397386,
+      "track_number": 3,
+      "title": "Bonus Game",
+      "runtime": 110,
+      "source_mp3": "https://vgmsite.com/soundtracks/ivanhoe-amiga/hnpfeqqg/03_Bonus%20Game.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ivanhoe-amiga/03_Bonus%2520Game.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3282042,
+      "track_number": 4,
+      "title": "Level 2 Ship",
+      "runtime": 109,
+      "source_mp3": "https://vgmsite.com/soundtracks/ivanhoe-amiga/momvmrvh/04_Level%202%20Ship.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ivanhoe-amiga/04_Level%25202%2520Ship.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2831155,
+      "track_number": 5,
+      "title": "Level 3 Horse",
+      "runtime": 95,
+      "source_mp3": "https://vgmsite.com/soundtracks/ivanhoe-amiga/nyvbukbc/05_Level%203%20Horse.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ivanhoe-amiga/05_Level%25203%2520Horse.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6207569,
+      "track_number": 6,
+      "title": "Level 4 City",
+      "runtime": 187,
+      "source_mp3": "https://vgmsite.com/soundtracks/ivanhoe-amiga/cwkfgexu/06_Level%204%20City.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ivanhoe-amiga/06_Level%25204%2520City.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3628072,
+      "track_number": 7,
+      "title": "Level 5 Castle",
+      "runtime": 110,
+      "source_mp3": "https://vgmsite.com/soundtracks/ivanhoe-amiga/hosusakr/07_Level%205%20Castle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ivanhoe-amiga/07_Level%25205%2520Castle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3397386,
+      "track_number": 8,
+      "title": "Name Entry",
+      "runtime": 110,
+      "source_mp3": "https://vgmsite.com/soundtracks/ivanhoe-amiga/mlegkrrm/08_Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ivanhoe-amiga/08_Name%2520Entry.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 817,
+    "filesize_mp3_bytes": 25658650,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

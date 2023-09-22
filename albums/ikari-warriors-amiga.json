@@ -1,0 +1,65 @@
+{
+  "title": "Ikari Warriors",
+  "titles_alternative": [
+    "\u6012"
+  ],
+  "crawled_at": "2023-09-22T15:20:03.742819+00:00",
+  "slug": "ikari-warriors-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ikari-warriors-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ikari-warriors-amiga/I1.jpg"
+  ],
+  "year": 1988,
+  "date_added": "2019-04-29T00:00:00+00:00",
+  "developers": {
+    "Elite": "https://downloads.khinsider.com/game-soundtracks/developer/elite",
+    "SNK": "https://downloads.khinsider.com/game-soundtracks/developer/snk"
+  },
+  "publishers": {
+    "Elite": "https://downloads.khinsider.com/game-soundtracks/publisher/elite"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5043650,
+      "track_number": 1,
+      "title": "Theme of Ikari (Main BGM)",
+      "runtime": 176,
+      "source_mp3": "https://vgmsite.com/soundtracks/ikari-warriors-amiga/rlzyglii/01_Theme%20of%20Ikari%20%28Main%20BGM%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ikari-warriors-amiga/01_Theme%2520of%2520Ikari%2520%2528Main%2520BGM%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 2,
+      "title": "Game Over",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/ikari-warriors-amiga/bxzrweoa/02_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ikari-warriors-amiga/02_Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1740636,
+      "track_number": 3,
+      "title": "Glory (Name Entry)",
+      "runtime": 62,
+      "source_mp3": "https://vgmsite.com/soundtracks/ikari-warriors-amiga/myjakvsn/03_Glory%20%28Name%20Entry%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ikari-warriors-amiga/03_Glory%2520%2528Name%2520Entry%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 243,
+    "filesize_mp3_bytes": 6920600,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

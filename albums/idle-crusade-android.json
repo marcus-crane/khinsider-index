@@ -1,0 +1,77 @@
+{
+  "title": "Idle Crusade",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T15:16:08.562714+00:00",
+  "slug": "idle-crusade-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/idle-crusade-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/idle-crusade-android/screen-0.jpg"
+  ],
+  "date_added": "2018-11-08T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1080033,
+      "track_number": 1,
+      "title": "Loading Logo Bg",
+      "runtime": 27,
+      "source_mp3": "https://vgmsite.com/soundtracks/idle-crusade-android/flotdnte/01%20Loading%20Logo%20Bg.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/idle-crusade-android/01%2520Loading%2520Logo%2520Bg.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1772093,
+      "track_number": 2,
+      "title": "BGM Login",
+      "runtime": 44,
+      "source_mp3": "https://vgmsite.com/soundtracks/idle-crusade-android/mmaamnxc/02%20BGM%20Login.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/idle-crusade-android/02%2520BGM%2520Login.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3711959,
+      "track_number": 3,
+      "title": "BGM Main Theme",
+      "runtime": 93,
+      "source_mp3": "https://vgmsite.com/soundtracks/idle-crusade-android/gxnovgnb/03%20BGM%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/idle-crusade-android/03%2520BGM%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2485125,
+      "track_number": 4,
+      "title": "Fight",
+      "runtime": 62,
+      "source_mp3": "https://vgmsite.com/soundtracks/idle-crusade-android/ecroloxl/04%20Fight.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/idle-crusade-android/04%2520Fight.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1509949,
+      "track_number": 5,
+      "title": "Fight2",
+      "runtime": 75,
+      "source_mp3": "https://vgmsite.com/soundtracks/idle-crusade-android/vhnpjufz/05%20Fight2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/idle-crusade-android/05%2520Fight2.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 301,
+    "filesize_mp3_bytes": 10559159,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

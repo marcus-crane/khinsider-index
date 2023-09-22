@@ -1,0 +1,75 @@
+{
+  "title": "The Killing Game Show",
+  "titles_alternative": [
+    "Fatal Rewind",
+    "\u30ad\u30ea\u30f3\u30b0\u30fb\u30b2\u30fc\u30e0\u30fb\u30b7\u30e7\u30fc"
+  ],
+  "crawled_at": "2023-09-22T18:59:59.660481+00:00",
+  "slug": "killing-game-show-the-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/killing-game-show-the-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/killing-game-show-the-amiga/Killing%20Game%20Show%2C%20The%20%28Amiga%29.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2015-12-14T00:00:00+00:00",
+  "developers": {
+    "Raising Hell Software": "https://downloads.khinsider.com/game-soundtracks/developer/raising-hell-software"
+  },
+  "publishers": {
+    "Psygnosis": "https://downloads.khinsider.com/game-soundtracks/publisher/psygnosis"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6270484,
+      "track_number": 1,
+      "title": "Loading Tune",
+      "runtime": 195,
+      "source_mp3": "https://vgmsite.com/soundtracks/killing-game-show-the-amiga/ybtgdfzb/01_Loading%20Tune.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/killing-game-show-the-amiga/01_Loading%2520Tune.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4907335,
+      "track_number": 2,
+      "title": "Title Screen & Credits",
+      "runtime": 158,
+      "source_mp3": "https://vgmsite.com/soundtracks/killing-game-show-the-amiga/tgqrwdwy/02_Title%20Screen%20%26%20Credits.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/killing-game-show-the-amiga/02_Title%2520Screen%2520%2526%2520Credits.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7203717,
+      "track_number": 3,
+      "title": "In-Game BGM",
+      "runtime": 262,
+      "source_mp3": "https://vgmsite.com/soundtracks/killing-game-show-the-amiga/lmdpoask/03_In-Game%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/killing-game-show-the-amiga/03_In-Game%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2327838,
+      "track_number": 4,
+      "title": "Name Entry",
+      "runtime": 85,
+      "source_mp3": "https://vgmsite.com/soundtracks/killing-game-show-the-amiga/hguyfpcw/04_Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/killing-game-show-the-amiga/04_Name%2520Entry.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 700,
+    "filesize_mp3_bytes": 20709374,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "title": "Ikari Warriors (Triple Z80)",
+  "titles_alternative": [
+    "\u6012"
+  ],
+  "crawled_at": "2023-09-22T15:20:05.296654+00:00",
+  "slug": "ikari-warriors-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ikari-warriors-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ikari-warriors-arcade/I1.jpg"
+  ],
+  "year": 1986,
+  "date_added": "2022-05-05T00:00:00+00:00",
+  "developers": {
+    "SNK": "https://downloads.khinsider.com/game-soundtracks/developer/snk"
+  },
+  "publishers": {
+    "SNK": "https://downloads.khinsider.com/game-soundtracks/publisher/snk"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 754974,
+      "filesize_mp3_bytes": 346030,
+      "track_number": 1,
+      "title": "Title Demo",
+      "runtime": 17,
+      "source_mp3": "https://vgmsite.com/soundtracks/ikari-warriors-arcade/hzvqnbexum/01%20Title%20Demo.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ikari-warriors-arcade/hzvqnbexum/01%20Title%20Demo.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ikari-warriors-arcade/01%2520Title%2520Demo.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 41943,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 2,
+      "title": "Coin",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/ikari-warriors-arcade/epdvgntqwk/02%20Coin.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ikari-warriors-arcade/epdvgntqwk/02%20Coin.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ikari-warriors-arcade/02%2520Coin.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7434403,
+      "filesize_mp3_bytes": 3596615,
+      "track_number": 3,
+      "title": "Theme of Ikari",
+      "runtime": 149,
+      "source_mp3": "https://vgmsite.com/soundtracks/ikari-warriors-arcade/tqvqqqpzac/03%20Theme%20of%20Ikari.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ikari-warriors-arcade/tqvqqqpzac/03%20Theme%20of%20Ikari.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ikari-warriors-arcade/03%2520Theme%2520of%2520Ikari.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4645191,
+      "filesize_mp3_bytes": 2181038,
+      "track_number": 4,
+      "title": "Gate",
+      "runtime": 91,
+      "source_mp3": "https://vgmsite.com/soundtracks/ikari-warriors-arcade/xvjrtmcdts/04%20Gate.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ikari-warriors-arcade/xvjrtmcdts/04%20Gate.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ikari-warriors-arcade/04%2520Gate.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 639631,
+      "filesize_mp3_bytes": 241172,
+      "track_number": 5,
+      "title": "Victory",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/ikari-warriors-arcade/toiilhdnaz/05%20Victory.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ikari-warriors-arcade/toiilhdnaz/05%20Victory.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ikari-warriors-arcade/05%2520Victory.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1667235,
+      "filesize_mp3_bytes": 744488,
+      "track_number": 6,
+      "title": "Game Over ~ Glory",
+      "runtime": 35,
+      "source_mp3": "https://vgmsite.com/soundtracks/ikari-warriors-arcade/qrqwogfegk/06%20Game%20Over%20~%20Glory.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ikari-warriors-arcade/qrqwogfegk/06%20Game%20Over%20~%20Glory.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ikari-warriors-arcade/06%2520Game%2520Over%2520~%2520Glory.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 305,
+    "filesize_mp3_bytes": 7151286,
+    "filesize_flac_bytes": 15183377,
+    "tracks": 6
+  }
+}

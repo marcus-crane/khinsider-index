@@ -1,0 +1,44 @@
+{
+  "title": "KI-Z-Sedu A privilege CD",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T18:42:43.012452+00:00",
+  "slug": "ki-z-sedu-a-privilege-cd",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ki-z-sedu-a-privilege-cd",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/ki-z-sedu-a-privilege-cd/00%20Disc.jpg"
+  ],
+  "year": 2004,
+  "date_added": "2022-07-28T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10800332,
+      "track_number": 1,
+      "title": "KI-Z-NA",
+      "runtime": 868,
+      "source_mp3": "https://vgmsite.com/soundtracks/ki-z-sedu-a-privilege-cd/zmjsjxydhq/01%20KI-Z-NA.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ki-z-sedu-a-privilege-cd/01%2520KI-Z-NA.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11261706,
+      "track_number": 2,
+      "title": "Seduce",
+      "runtime": 944,
+      "source_mp3": "https://vgmsite.com/soundtracks/ki-z-sedu-a-privilege-cd/thiogdnlro/02%20Seduce.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ki-z-sedu-a-privilege-cd/02%2520Seduce.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1812,
+    "filesize_mp3_bytes": 22062038,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

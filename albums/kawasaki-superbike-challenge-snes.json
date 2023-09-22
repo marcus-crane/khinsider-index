@@ -1,0 +1,90 @@
+{
+  "title": "Kawasaki Superbike Challenge",
+  "titles_alternative": [
+    "Kawasaki Superbikes"
+  ],
+  "crawled_at": "2023-09-22T18:27:58.573581+00:00",
+  "slug": "kawasaki-superbike-challenge-snes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/kawasaki-superbike-challenge-snes",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/kawasaki-superbike-challenge-snes/K1.jpg"
+  ],
+  "year": 1995,
+  "date_added": "2019-08-18T00:00:00+00:00",
+  "developers": {
+    "Lankhor": "https://downloads.khinsider.com/game-soundtracks/developer/lankhor"
+  },
+  "publishers": {
+    "Domark": "https://downloads.khinsider.com/game-soundtracks/publisher/domark",
+    "Time Warner Interactive": "https://downloads.khinsider.com/game-soundtracks/publisher/time-warner-interactive"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 18140364,
+      "filesize_mp3_bytes": 7486832,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 248,
+      "source_mp3": "https://vgmsite.com/soundtracks/kawasaki-superbike-challenge-snes/cmctprchja/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kawasaki-superbike-challenge-snes/cmctprchja/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kawasaki-superbike-challenge-snes/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1237319,
+      "filesize_mp3_bytes": 555745,
+      "track_number": 2,
+      "title": "Menu Select",
+      "runtime": 20,
+      "source_mp3": "https://vgmsite.com/soundtracks/kawasaki-superbike-challenge-snes/mkmvaaahjk/02%20Menu%20Select.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kawasaki-superbike-challenge-snes/mkmvaaahjk/02%20Menu%20Select.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kawasaki-superbike-challenge-snes/02%2520Menu%2520Select.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1709178,
+      "filesize_mp3_bytes": 618659,
+      "track_number": 3,
+      "title": "Race Results",
+      "runtime": 20,
+      "source_mp3": "https://vgmsite.com/soundtracks/kawasaki-superbike-challenge-snes/zxfzrnwaqp/03%20Race%20Results.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kawasaki-superbike-challenge-snes/zxfzrnwaqp/03%20Race%20Results.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kawasaki-superbike-challenge-snes/03%2520Race%2520Results.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 964689,
+      "filesize_mp3_bytes": 545259,
+      "track_number": 4,
+      "title": "Unknown Song",
+      "runtime": 20,
+      "source_mp3": "https://vgmsite.com/soundtracks/kawasaki-superbike-challenge-snes/aeqdgivwyt/04%20Unknown%20Song.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kawasaki-superbike-challenge-snes/aeqdgivwyt/04%20Unknown%20Song.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kawasaki-superbike-challenge-snes/04%2520Unknown%2520Song.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 555745,
+      "filesize_mp3_bytes": 188743,
+      "track_number": 5,
+      "title": "Unknown Jingle",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/kawasaki-superbike-challenge-snes/pswmbhkevc/05%20Unknown%20Jingle.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kawasaki-superbike-challenge-snes/pswmbhkevc/05%20Unknown%20Jingle.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kawasaki-superbike-challenge-snes/05%2520Unknown%2520Jingle.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 317,
+    "filesize_mp3_bytes": 9395238,
+    "filesize_flac_bytes": 22607295,
+    "tracks": 5
+  }
+}

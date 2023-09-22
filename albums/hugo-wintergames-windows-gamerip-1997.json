@@ -1,0 +1,67 @@
+{
+  "title": "Hugo: Wintergames",
+  "titles_alternative": [
+    "Hugo i Sneen"
+  ],
+  "crawled_at": "2023-09-22T14:36:26.399417+00:00",
+  "slug": "hugo-wintergames-windows-gamerip-1997",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hugo-wintergames-windows-gamerip-1997",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/hugo-wintergames-windows-gamerip-1997/Hugo_Winter_Games.png"
+  ],
+  "year": 1997,
+  "date_added": "2023-06-02T00:00:00+00:00",
+  "developers": {
+    "ITE Media": "https://downloads.khinsider.com/game-soundtracks/developer/ite-media"
+  },
+  "publishers": {
+    "ITE Media": "https://downloads.khinsider.com/game-soundtracks/publisher/ite-media"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2170552,
+      "filesize_mp3_bytes": 639631,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 69,
+      "source_mp3": "https://vgmsite.com/soundtracks/hugo-wintergames-windows-gamerip-1997/htgixkggqr/01.%20Intro.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hugo-wintergames-windows-gamerip-1997/htgixkggqr/01.%20Intro.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hugo-wintergames-windows-gamerip-1997/01.%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 230686,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 2,
+      "title": "Complete",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/hugo-wintergames-windows-gamerip-1997/gpcutabvou/02.%20Complete.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hugo-wintergames-windows-gamerip-1997/gpcutabvou/02.%20Complete.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hugo-wintergames-windows-gamerip-1997/02.%2520Complete.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7025459,
+      "filesize_mp3_bytes": 2160066,
+      "track_number": 3,
+      "title": "Ending",
+      "runtime": 81,
+      "source_mp3": "https://vgmsite.com/soundtracks/hugo-wintergames-windows-gamerip-1997/jxawvyxqos/03.%20Ending.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hugo-wintergames-windows-gamerip-1997/jxawvyxqos/03.%20Ending.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hugo-wintergames-windows-gamerip-1997/03.%2520Ending.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 157,
+    "filesize_mp3_bytes": 2873097,
+    "filesize_flac_bytes": 9426697,
+    "tracks": 3
+  }
+}

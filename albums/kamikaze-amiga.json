@@ -1,0 +1,52 @@
+{
+  "title": "Kamikaze",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T18:10:27.129360+00:00",
+  "slug": "kamikaze-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/kamikaze-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/kamikaze-amiga/K1.png"
+  ],
+  "year": 1990,
+  "date_added": "2019-05-27T00:00:00+00:00",
+  "developers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/developer/codemasters"
+  },
+  "publishers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/publisher/codemasters"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5767168,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 194,
+      "source_mp3": "https://vgmsite.com/soundtracks/kamikaze-amiga/mlktzvydhk/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kamikaze-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2527068,
+      "track_number": 2,
+      "title": "Name Entry",
+      "runtime": 94,
+      "source_mp3": "https://vgmsite.com/soundtracks/kamikaze-amiga/twigveeika/02_Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kamikaze-amiga/02_Name%2520Entry.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 288,
+    "filesize_mp3_bytes": 8294236,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

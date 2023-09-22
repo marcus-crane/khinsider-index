@@ -1,0 +1,72 @@
+{
+  "title": "Hugo: Runamukka",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T14:35:57.230540+00:00",
+  "slug": "hugo-runamukka-windows-gamerip-2004",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hugo-runamukka-windows-gamerip-2004",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/hugo-runamukka-windows-gamerip-2004/10648.jpg"
+  ],
+  "year": 2004,
+  "date_added": "2023-04-29T00:00:00+00:00",
+  "developers": {
+    "ITE Media": "https://downloads.khinsider.com/game-soundtracks/developer/ite-media"
+  },
+  "publishers": {
+    "ITE Media": "https://downloads.khinsider.com/game-soundtracks/publisher/ite-media"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 545259,
+      "track_number": 1,
+      "title": "Main Menu",
+      "runtime": 55,
+      "source_mp3": "https://vgmsite.com/soundtracks/hugo-runamukka-windows-gamerip-2004/dquwhgyeqy/01.%20Main%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hugo-runamukka-windows-gamerip-2004/01.%2520Main%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 587202,
+      "track_number": 2,
+      "title": "World 1",
+      "runtime": 66,
+      "source_mp3": "https://vgmsite.com/soundtracks/hugo-runamukka-windows-gamerip-2004/nnwpeltnez/02.%20World%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hugo-runamukka-windows-gamerip-2004/02.%2520World%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 629145,
+      "track_number": 3,
+      "title": "World 2",
+      "runtime": 68,
+      "source_mp3": "https://vgmsite.com/soundtracks/hugo-runamukka-windows-gamerip-2004/zchachlmui/03.%20World%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hugo-runamukka-windows-gamerip-2004/03.%2520World%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 587202,
+      "track_number": 4,
+      "title": "World 3",
+      "runtime": 70,
+      "source_mp3": "https://vgmsite.com/soundtracks/hugo-runamukka-windows-gamerip-2004/vupckhntew/04.%20World%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hugo-runamukka-windows-gamerip-2004/04.%2520World%25203.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 259,
+    "filesize_mp3_bytes": 2348808,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

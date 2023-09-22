@@ -1,0 +1,43 @@
+{
+  "title": "Kings of the Beach",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T19:43:51.114134+00:00",
+  "slug": "kings-of-the-beach-ms-dos",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/kings-of-the-beach-ms-dos",
+  "platforms": {
+    "IBM PC": "https://downloads.khinsider.com/game-soundtracks/ibm-pc",
+    "MS-DOS": "https://downloads.khinsider.com/game-soundtracks/ms-dos"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/kings-of-the-beach-ms-dos/K2.jpg"
+  ],
+  "year": 1988,
+  "date_added": "2016-06-21T00:00:00+00:00",
+  "developers": {
+    "EA": "https://downloads.khinsider.com/game-soundtracks/developer/ea"
+  },
+  "publishers": {
+    "EA": "https://downloads.khinsider.com/game-soundtracks/publisher/ea"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7109345,
+      "track_number": 1,
+      "title": "Title Screen (OPL 2)",
+      "runtime": 224,
+      "source_mp3": "https://vgmsite.com/soundtracks/kings-of-the-beach-ms-dos/ggupcomm/01_Title%20Screen%20%28OPL%202%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kings-of-the-beach-ms-dos/01_Title%2520Screen%2520%2528OPL%25202%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 224,
+    "filesize_mp3_bytes": 7109345,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

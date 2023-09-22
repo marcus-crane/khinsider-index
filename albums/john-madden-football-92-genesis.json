@@ -1,0 +1,78 @@
+{
+  "title": "John Madden Football '92",
+  "titles_alternative": [
+    "Pro Football"
+  ],
+  "crawled_at": "2023-09-22T17:13:38.089868+00:00",
+  "slug": "john-madden-football-92-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/john-madden-football-92-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/john-madden-football-92-genesis/John%20Madden%20Football%20%2792.png"
+  ],
+  "year": 1991,
+  "date_added": "2020-03-11T00:00:00+00:00",
+  "developers": {
+    "EA": "https://downloads.khinsider.com/game-soundtracks/developer/ea"
+  },
+  "publishers": {
+    "EA": "https://downloads.khinsider.com/game-soundtracks/publisher/ea"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11660165,
+      "filesize_mp3_bytes": 4980736,
+      "track_number": 1,
+      "title": "Title Theme",
+      "runtime": 176,
+      "source_mp3": "https://vgmsite.com/soundtracks/john-madden-football-92-genesis/axylrlepxr/01%20-%20Title%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/john-madden-football-92-genesis/axylrlepxr/01%20-%20Title%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/john-madden-football-92-genesis/01%2520-%2520Title%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 922746,
+      "filesize_mp3_bytes": 304087,
+      "track_number": 2,
+      "title": "Touchdown",
+      "runtime": 12,
+      "source_mp3": "https://vgmsite.com/soundtracks/john-madden-football-92-genesis/aagggzzapx/02%20-%20Touchdown.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/john-madden-football-92-genesis/aagggzzapx/02%20-%20Touchdown.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/john-madden-football-92-genesis/02%2520-%2520Touchdown.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6721372,
+      "filesize_mp3_bytes": 2474639,
+      "track_number": 3,
+      "title": "Statistics",
+      "runtime": 89,
+      "source_mp3": "https://vgmsite.com/soundtracks/john-madden-football-92-genesis/vrsikajoch/03%20-%20Statistics.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/john-madden-football-92-genesis/vrsikajoch/03%20-%20Statistics.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/john-madden-football-92-genesis/03%2520-%2520Statistics.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 964689,
+      "filesize_mp3_bytes": 367001,
+      "track_number": 4,
+      "title": "Unknown Track",
+      "runtime": 17,
+      "source_mp3": "https://vgmsite.com/soundtracks/john-madden-football-92-genesis/mveawdahbm/04%20-%20Unknown%20Track.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/john-madden-football-92-genesis/mveawdahbm/04%20-%20Unknown%20Track.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/john-madden-football-92-genesis/04%2520-%2520Unknown%2520Track.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 294,
+    "filesize_mp3_bytes": 8126463,
+    "filesize_flac_bytes": 20268972,
+    "tracks": 4
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Kirby Family OST",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T19:55:25.164902+00:00",
+  "slug": "kirby-family-ost",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/kirby-family-ost",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/kirby-family-ost/Kirby%20Family.png"
+  ],
+  "date_added": "2021-03-29T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2642411,
+      "title": "Kirby Family (Kirby 64 Pop Star Theme)",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/kirby-family-ost/rraozihjay/Kirby%20Family%20%28Kirby%2064%20Pop%20Star%20Theme%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kirby-family-ost/Kirby%2520Family%2520%2528Kirby%252064%2520Pop%2520Star%2520Theme%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 180,
+    "filesize_mp3_bytes": 2642411,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

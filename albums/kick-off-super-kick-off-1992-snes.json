@@ -1,0 +1,91 @@
+{
+  "title": "Kick Off",
+  "titles_alternative": [
+    "Super Kick Off",
+    "\u30b9\u30fc\u30d1\u30fc\u30ad\u30c3\u30af\u30aa\u30d5"
+  ],
+  "crawled_at": "2023-09-22T18:43:19.585031+00:00",
+  "slug": "kick-off-super-kick-off-1992-snes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/kick-off-super-kick-off-1992-snes",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/kick-off-super-kick-off-1992-snes/K1.jpg"
+  ],
+  "year": 1992,
+  "date_added": "2019-06-27T00:00:00+00:00",
+  "developers": {
+    "Anco Software": "https://downloads.khinsider.com/game-soundtracks/developer/anco-software"
+  },
+  "publishers": {
+    "Imagineer": "https://downloads.khinsider.com/game-soundtracks/publisher/imagineer",
+    "Misawa": "https://downloads.khinsider.com/game-soundtracks/publisher/misawa"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 157286,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 1,
+      "title": "Opening",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/kick-off-super-kick-off-1992-snes/qkoykbaoul/01%20Opening.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kick-off-super-kick-off-1992-snes/qkoykbaoul/01%20Opening.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kick-off-super-kick-off-1992-snes/01%2520Opening.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11282677,
+      "filesize_mp3_bytes": 5997854,
+      "track_number": 2,
+      "title": "Main Theme",
+      "runtime": 197,
+      "source_mp3": "https://vgmsite.com/soundtracks/kick-off-super-kick-off-1992-snes/gymcacdpet/02%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kick-off-super-kick-off-1992-snes/gymcacdpet/02%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kick-off-super-kick-off-1992-snes/02%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 13180600,
+      "filesize_mp3_bytes": 7046430,
+      "track_number": 3,
+      "title": "Main Theme (Slower)",
+      "runtime": 234,
+      "source_mp3": "https://vgmsite.com/soundtracks/kick-off-super-kick-off-1992-snes/fznoxlqfoh/03%20Main%20Theme%20%28Slower%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kick-off-super-kick-off-1992-snes/fznoxlqfoh/03%20Main%20Theme%20%28Slower%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kick-off-super-kick-off-1992-snes/03%2520Main%2520Theme%2520%2528Slower%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 115343,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 4,
+      "title": "Drumbeat",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/kick-off-super-kick-off-1992-snes/anmiocfyyc/04%20Drumbeat.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kick-off-super-kick-off-1992-snes/anmiocfyyc/04%20Drumbeat.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kick-off-super-kick-off-1992-snes/04%2520Drumbeat.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 125829,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 5,
+      "title": "Drumbeat (Slower)",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/kick-off-super-kick-off-1992-snes/pwbivlawcy/05%20Drumbeat%20%28Slower%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kick-off-super-kick-off-1992-snes/pwbivlawcy/05%20Drumbeat%20%28Slower%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kick-off-super-kick-off-1992-snes/05%2520Drumbeat%2520%2528Slower%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 452,
+    "filesize_mp3_bytes": 13379827,
+    "filesize_flac_bytes": 24861735,
+    "tracks": 5
+  }
+}

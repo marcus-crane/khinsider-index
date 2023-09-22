@@ -1,0 +1,43 @@
+{
+  "title": "Intellivision Lives!",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T16:08:34.514583+00:00",
+  "slug": "intellivision-lives-2010-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/intellivision-lives-2010-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/intellivision-lives-2010-nds-gamerip/I1.png"
+  ],
+  "year": 2010,
+  "date_added": "2020-06-11T00:00:00+00:00",
+  "developers": {
+    "Realtime Associates": "https://downloads.khinsider.com/game-soundtracks/developer/realtime-associates"
+  },
+  "publishers": {
+    "Virtual Play": "https://downloads.khinsider.com/game-soundtracks/publisher/virtual-play"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4959764,
+      "filesize_mp3_bytes": 1593835,
+      "track_number": 1,
+      "title": "Assmash Title",
+      "runtime": 66,
+      "source_mp3": "https://vgmsite.com/soundtracks/intellivision-lives-2010-nds-gamerip/kmsaamhkkc/01%20-%20Assmash%20Title.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/intellivision-lives-2010-nds-gamerip/kmsaamhkkc/01%20-%20Assmash%20Title.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/intellivision-lives-2010-nds-gamerip/01%2520-%2520Assmash%2520Title.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 66,
+    "filesize_mp3_bytes": 1593835,
+    "filesize_flac_bytes": 4959764,
+    "tracks": 1
+  }
+}

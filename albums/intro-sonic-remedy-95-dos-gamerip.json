@@ -1,0 +1,38 @@
+{
+  "title": "Intro Sonic (Remedy 95)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T16:11:49.497104+00:00",
+  "slug": "intro-sonic-remedy-95-dos-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/intro-sonic-remedy-95-dos-gamerip",
+  "platforms": {
+    "MS-DOS": "https://downloads.khinsider.com/game-soundtracks/ms-dos"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/intro-sonic-remedy-95-dos-gamerip/Intro%20Sonic%20%28Remedy%2095%29.png"
+  ],
+  "year": 1995,
+  "date_added": "2022-05-13T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 22292725,
+      "filesize_mp3_bytes": 4047503,
+      "title": "Main Theme",
+      "runtime": 193,
+      "source_mp3": "https://vgmsite.com/soundtracks/intro-sonic-remedy-95-dos-gamerip/vbnuxquyxc/Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/intro-sonic-remedy-95-dos-gamerip/vbnuxquyxc/Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/intro-sonic-remedy-95-dos-gamerip/Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 193,
+    "filesize_mp3_bytes": 4047503,
+    "filesize_flac_bytes": 22292725,
+    "tracks": 1
+  }
+}

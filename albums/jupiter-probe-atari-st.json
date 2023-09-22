@@ -1,0 +1,42 @@
+{
+  "title": "Jupiter Probe",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T17:35:54.377791+00:00",
+  "slug": "jupiter-probe-atari-st",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/jupiter-probe-atari-st",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/jupiter-probe-atari-st/Jupiter%20Probe%20%28Atari%20ST%29.jpg"
+  ],
+  "year": 1987,
+  "date_added": "2017-11-25T00:00:00+00:00",
+  "developers": {
+    "Microdeal": "https://downloads.khinsider.com/game-soundtracks/developer/microdeal"
+  },
+  "publishers": {
+    "Microdeal": "https://downloads.khinsider.com/game-soundtracks/publisher/microdeal"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6144655,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 238,
+      "source_mp3": "https://vgmsite.com/soundtracks/jupiter-probe-atari-st/engztsyw/01_Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jupiter-probe-atari-st/01_Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 238,
+    "filesize_mp3_bytes": 6144655,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

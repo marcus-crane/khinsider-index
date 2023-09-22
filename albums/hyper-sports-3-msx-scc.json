@@ -1,0 +1,89 @@
+{
+  "title": "Hyper Sports 3 (SCC)",
+  "titles_alternative": [
+    "\u30cf\u30a4\u30d1\u30fc\u30b9\u30dd\u30fc\u30c4\uff13"
+  ],
+  "crawled_at": "2023-09-22T14:48:09.402644+00:00",
+  "slug": "hyper-sports-3-msx-scc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hyper-sports-3-msx-scc",
+  "platforms": {
+    "MSX": "https://downloads.khinsider.com/game-soundtracks/msx"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/hyper-sports-3-msx-scc/Hyper%20Sports%203.png"
+  ],
+  "year": 1985,
+  "date_added": "2022-05-09T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami"
+  },
+  "publishers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 335544,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 1,
+      "title": "First Event",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/hyper-sports-3-msx-scc/idpniyvaff/01%20First%20Event.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hyper-sports-3-msx-scc/idpniyvaff/01%20First%20Event.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hyper-sports-3-msx-scc/01%2520First%2520Event.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1876951,
+      "filesize_mp3_bytes": 713031,
+      "track_number": 2,
+      "title": "Bicycle Race",
+      "runtime": 37,
+      "source_mp3": "https://vgmsite.com/soundtracks/hyper-sports-3-msx-scc/rakupwxfhy/02%20Bicycle%20Race.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hyper-sports-3-msx-scc/rakupwxfhy/02%20Bicycle%20Race.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hyper-sports-3-msx-scc/02%2520Bicycle%2520Race.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 125829,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 3,
+      "title": "Disqualified",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/hyper-sports-3-msx-scc/cmatztzenq/03%20Disqualified.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hyper-sports-3-msx-scc/cmatztzenq/03%20Disqualified.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hyper-sports-3-msx-scc/03%2520Disqualified.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 251658,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 4,
+      "title": "Qualified",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/hyper-sports-3-msx-scc/hfxtilfbef/04%20Qualified.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hyper-sports-3-msx-scc/hfxtilfbef/04%20Qualified.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hyper-sports-3-msx-scc/04%2520Qualified.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 335544,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 5,
+      "title": "Game Over",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/hyper-sports-3-msx-scc/rjlppqkzyn/05%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hyper-sports-3-msx-scc/rjlppqkzyn/05%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hyper-sports-3-msx-scc/05%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 56,
+    "filesize_mp3_bytes": 1080031,
+    "filesize_flac_bytes": 2925526,
+    "tracks": 5
+  }
+}

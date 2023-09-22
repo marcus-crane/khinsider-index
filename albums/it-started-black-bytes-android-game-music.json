@@ -1,0 +1,55 @@
+{
+  "title": "It started Black bytes (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T16:25:24.752144+00:00",
+  "slug": "it-started-black-bytes-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/it-started-black-bytes-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/it-started-black-bytes-android-game-music/1.jpeg"
+  ],
+  "date_added": "2016-10-27T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 304087,
+      "track_number": 1,
+      "title": "main",
+      "runtime": 77,
+      "source_mp3": "https://vgmsite.com/soundtracks/it-started-black-bytes-android-game-music/dkgojrkd/1%20main.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/it-started-black-bytes-android-game-music/1%2520main.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 262144,
+      "track_number": 2,
+      "title": "girl",
+      "runtime": 66,
+      "source_mp3": "https://vgmsite.com/soundtracks/it-started-black-bytes-android-game-music/zrqsewfh/2%20girl.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/it-started-black-bytes-android-game-music/2%2520girl.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 314572,
+      "track_number": 3,
+      "title": "op",
+      "runtime": 77,
+      "source_mp3": "https://vgmsite.com/soundtracks/it-started-black-bytes-android-game-music/poquzpgr/3%20op.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/it-started-black-bytes-android-game-music/3%2520op.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 220,
+    "filesize_mp3_bytes": 880803,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

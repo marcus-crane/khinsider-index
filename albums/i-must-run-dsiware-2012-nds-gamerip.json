@@ -1,0 +1,65 @@
+{
+  "title": "I Must Run! (DSiWare)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T15:02:27.258429+00:00",
+  "slug": "i-must-run-dsiware-2012-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/i-must-run-dsiware-2012-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/i-must-run-dsiware-2012-nds-gamerip/I%20Must%20Run%21.PNG"
+  ],
+  "year": 2012,
+  "date_added": "2020-06-11T00:00:00+00:00",
+  "developers": {
+    "Gamelion": "https://downloads.khinsider.com/game-soundtracks/developer/gamelion"
+  },
+  "publishers": {
+    "Gamelion": "https://downloads.khinsider.com/game-soundtracks/publisher/gamelion"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1101004,
+      "filesize_mp3_bytes": 367001,
+      "track_number": 1,
+      "title": "Menu",
+      "runtime": 24,
+      "source_mp3": "https://vgmsite.com/soundtracks/i-must-run-dsiware-2012-nds-gamerip/pjudkgblmb/01%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/i-must-run-dsiware-2012-nds-gamerip/pjudkgblmb/01%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/i-must-run-dsiware-2012-nds-gamerip/01%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 104857,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 2,
+      "title": "Label",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/i-must-run-dsiware-2012-nds-gamerip/yibqdcbrsh/02%20Label.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/i-must-run-dsiware-2012-nds-gamerip/yibqdcbrsh/02%20Label.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/i-must-run-dsiware-2012-nds-gamerip/02%2520Label.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4812963,
+      "filesize_mp3_bytes": 1142947,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 108,
+      "source_mp3": "https://vgmsite.com/soundtracks/i-must-run-dsiware-2012-nds-gamerip/uikggtfwwe/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/i-must-run-dsiware-2012-nds-gamerip/uikggtfwwe/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/i-must-run-dsiware-2012-nds-gamerip/03.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 134,
+    "filesize_mp3_bytes": 1551891,
+    "filesize_flac_bytes": 6018824,
+    "tracks": 3
+  }
+}

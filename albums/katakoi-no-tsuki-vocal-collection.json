@@ -1,0 +1,73 @@
+{
+  "title": "Katakoi no Tsuki Vocal Collection",
+  "titles_alternative": [
+    "\u7247\u604b\u3044\u306e\u6708 \u521d\u56de\u7279\u5178 Vocal Collection"
+  ],
+  "crawled_at": "2023-09-22T18:24:52.223675+00:00",
+  "slug": "katakoi-no-tsuki-vocal-collection",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/katakoi-no-tsuki-vocal-collection",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/katakoi-no-tsuki-vocal-collection/00%20Disc.jpg"
+  ],
+  "year": 2007,
+  "catalog_number": "GWSR-1102",
+  "date_added": "2022-07-24T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Studio Ryokucha": "https://downloads.khinsider.com/game-soundtracks/publisher/studio-ryokucha"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7256145,
+      "track_number": 1,
+      "title": "refrain moon",
+      "runtime": 240,
+      "source_mp3": "https://vgmsite.com/soundtracks/katakoi-no-tsuki-vocal-collection/oxprbhgjbt/01%20refrain%20moon.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/katakoi-no-tsuki-vocal-collection/01%2520refrain%2520moon.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11492392,
+      "track_number": 2,
+      "title": "split tears",
+      "runtime": 375,
+      "source_mp3": "https://vgmsite.com/soundtracks/katakoi-no-tsuki-vocal-collection/htaljpjwvb/02%20split%20tears.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/katakoi-no-tsuki-vocal-collection/02%2520split%2520tears.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9783214,
+      "track_number": 3,
+      "title": "tomorrow",
+      "runtime": 314,
+      "source_mp3": "https://vgmsite.com/soundtracks/katakoi-no-tsuki-vocal-collection/pokkunlkbz/03%20tomorrow.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/katakoi-no-tsuki-vocal-collection/03%2520tomorrow.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9384755,
+      "track_number": 4,
+      "title": "never no astray",
+      "runtime": 294,
+      "source_mp3": "https://vgmsite.com/soundtracks/katakoi-no-tsuki-vocal-collection/xopconoklt/04%20never%20no%20astray.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/katakoi-no-tsuki-vocal-collection/04%2520never%2520no%2520astray.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1223,
+    "filesize_mp3_bytes": 37916506,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

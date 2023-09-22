@@ -1,0 +1,92 @@
+{
+  "title": "Jimmy's Fantastic Journey",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T17:08:49.664668+00:00",
+  "slug": "jimmy-s-fantastic-journey-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/jimmy-s-fantastic-journey-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/jimmy-s-fantastic-journey-amiga/Jimmy%27s%20Fantastic%20Journey.jpg"
+  ],
+  "year": 1994,
+  "date_added": "2016-11-03T00:00:00+00:00",
+  "developers": {
+    "Melon Dezign": "https://downloads.khinsider.com/game-soundtracks/developer/melon-dezign"
+  },
+  "publishers": {
+    "Lionheart": "https://downloads.khinsider.com/game-soundtracks/publisher/lionheart"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8210350,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 299,
+      "source_mp3": "https://vgmsite.com/soundtracks/jimmy-s-fantastic-journey-amiga/zebfkunm/01_Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jimmy-s-fantastic-journey-amiga/01_Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5400166,
+      "track_number": 2,
+      "title": "House of Fun (World 1)",
+      "runtime": 187,
+      "source_mp3": "https://vgmsite.com/soundtracks/jimmy-s-fantastic-journey-amiga/kiviqkyb/02_House%20of%20Fun%20%28World%201%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jimmy-s-fantastic-journey-amiga/02_House%2520of%2520Fun%2520%2528World%25201%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5347737,
+      "track_number": 3,
+      "title": "Deep Space Melon (World 2)",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/jimmy-s-fantastic-journey-amiga/qemydjhb/03_Deep%20Space%20Melon%20%28World%202%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jimmy-s-fantastic-journey-amiga/03_Deep%2520Space%2520Melon%2520%2528World%25202%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5473566,
+      "track_number": 4,
+      "title": "In the Woods (World 3)",
+      "runtime": 190,
+      "source_mp3": "https://vgmsite.com/soundtracks/jimmy-s-fantastic-journey-amiga/eizvgxuk/04_In%20the%20Woods%20%28World%203%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jimmy-s-fantastic-journey-amiga/04_In%2520the%2520Woods%2520%2528World%25203%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5316280,
+      "track_number": 5,
+      "title": "Hectic Harbour (World 4)",
+      "runtime": 188,
+      "source_mp3": "https://vgmsite.com/soundtracks/jimmy-s-fantastic-journey-amiga/nctmmcwe/05_Hectic%20Harbour%20%28World%204%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jimmy-s-fantastic-journey-amiga/05_Hectic%2520Harbour%2520%2528World%25204%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2338324,
+      "track_number": 6,
+      "title": "Name Entry",
+      "runtime": 79,
+      "source_mp3": "https://vgmsite.com/soundtracks/jimmy-s-fantastic-journey-amiga/zgbkrcdr/06_Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jimmy-s-fantastic-journey-amiga/06_Name%2520Entry.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1123,
+    "filesize_mp3_bytes": 32086423,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

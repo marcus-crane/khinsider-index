@@ -1,0 +1,41 @@
+{
+  "title": "I love you Colonel Sanders",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T15:02:15.712557+00:00",
+  "slug": "i-love-you-colonel-sanders",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/i-love-you-colonel-sanders",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/i-love-you-colonel-sanders/ILYCS.jpg"
+  ],
+  "date_added": "2020-02-01T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8283750,
+      "title": "Romantic 2",
+      "runtime": 207,
+      "source_mp3": "https://vgmsite.com/soundtracks/i-love-you-colonel-sanders/ewslzjfrrx/Romantic%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/i-love-you-colonel-sanders/Romantic%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 387973,
+      "title": "Spotlight",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/i-love-you-colonel-sanders/wgybflvktn/Spotlight.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/i-love-you-colonel-sanders/Spotlight.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 217,
+    "filesize_mp3_bytes": 8671723,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

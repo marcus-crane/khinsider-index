@@ -1,0 +1,62 @@
+{
+  "title": "Hugo",
+  "titles_alternative": [
+    "Hugo XL"
+  ],
+  "crawled_at": "2023-09-22T14:35:11.434642+00:00",
+  "slug": "hugo-1998-playstation",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hugo-1998-playstation",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/hugo-1998-playstation/coverart.jpg"
+  ],
+  "year": 1998,
+  "date_added": "2019-02-11T00:00:00+00:00",
+  "developers": {
+    "ITE Media": "https://downloads.khinsider.com/game-soundtracks/developer/ite-media"
+  },
+  "publishers": {
+    "ITE Media": "https://downloads.khinsider.com/game-soundtracks/publisher/ite-media"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3460300,
+      "title": "Track 1",
+      "runtime": 132,
+      "source_mp3": "https://vgmsite.com/soundtracks/hugo-1998-playstation/cdaobign/Track%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hugo-1998-playstation/Track%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2736783,
+      "title": "Track 2",
+      "runtime": 102,
+      "source_mp3": "https://vgmsite.com/soundtracks/hugo-1998-playstation/wpmkkbgg/Track%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hugo-1998-playstation/Track%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2044723,
+      "title": "Track 3",
+      "runtime": 73,
+      "source_mp3": "https://vgmsite.com/soundtracks/hugo-1998-playstation/jsepufgf/Track%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hugo-1998-playstation/Track%25203.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 307,
+    "filesize_mp3_bytes": 8241806,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "title": "I.Q. - Intelligent Qube",
+  "titles_alternative": [
+    "I.Q. \u30a4\u30f3\u30c6\u30ea\u30b8\u30a7\u30f3\u30c8\u30ad\u30e5\u30fc\u30d6",
+    "Kurushi"
+  ],
+  "crawled_at": "2023-09-22T16:08:19.958794+00:00",
+  "slug": "intelligent-qube",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/intelligent-qube",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/intelligent-qube/Intelligent_Qube.jpg"
+  ],
+  "year": 1997,
+  "catalog_number": null,
+  "date_added": "2006-11-21T00:00:00+00:00",
+  "developers": {
+    "G-Artists": "https://downloads.khinsider.com/game-soundtracks/developer/g-artists"
+  },
+  "publishers": {
+    "Sony Computer Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/sony-computer-entertainment"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6543114,
+      "title": "game 1",
+      "runtime": 272,
+      "source_mp3": "https://vgmsite.com/soundtracks/intelligent-qube/fyvnibut/00%20game%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/intelligent-qube/00%2520game%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4183818,
+      "title": "game 2",
+      "runtime": 174,
+      "source_mp3": "https://vgmsite.com/soundtracks/intelligent-qube/djzzjzyh/00%20game%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/intelligent-qube/00%2520game%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2579496,
+      "title": "game 3",
+      "runtime": 108,
+      "source_mp3": "https://vgmsite.com/soundtracks/intelligent-qube/xsohqsdo/00%20game%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/intelligent-qube/00%2520game%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3334471,
+      "title": "game 4",
+      "runtime": 208,
+      "source_mp3": "https://vgmsite.com/soundtracks/intelligent-qube/lplfliqd/00%20game%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/intelligent-qube/00%2520game%25204.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3009413,
+      "title": "game 5 (almost dead)",
+      "runtime": 188,
+      "source_mp3": "https://vgmsite.com/soundtracks/intelligent-qube/oscwvsha/00%20game%205%20%28almost%20dead%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/intelligent-qube/00%2520game%25205%2520%2528almost%2520dead%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1719664,
+      "title": "menu",
+      "runtime": 72,
+      "source_mp3": "https://vgmsite.com/soundtracks/intelligent-qube/nbxincil/00%20menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/intelligent-qube/00%2520menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 167772,
+      "title": "victory 1",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/intelligent-qube/uylirdak/00%20victory%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/intelligent-qube/00%2520victory%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 136314,
+      "title": "victory 2",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/intelligent-qube/qvjofhqa/00%20victory%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/intelligent-qube/00%2520victory%25202.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1035,
+    "filesize_mp3_bytes": 21674062,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

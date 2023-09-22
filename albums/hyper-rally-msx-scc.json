@@ -1,0 +1,78 @@
+{
+  "title": "Hyper Rally (SCC)",
+  "titles_alternative": [
+    "\u30cf\u30a4\u30d1\u30fc\u30e9\u30ea\u30fc"
+  ],
+  "crawled_at": "2023-09-22T14:47:40.417222+00:00",
+  "slug": "hyper-rally-msx-scc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hyper-rally-msx-scc",
+  "platforms": {
+    "MSX": "https://downloads.khinsider.com/game-soundtracks/msx"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/hyper-rally-msx-scc/HR1.jpg"
+  ],
+  "year": 1985,
+  "date_added": "2022-05-09T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami"
+  },
+  "publishers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 367001,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 1,
+      "title": "Play Start",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/hyper-rally-msx-scc/dualfpppfg/01%20Play%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hyper-rally-msx-scc/dualfpppfg/01%20Play%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hyper-rally-msx-scc/01%2520Play%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 262144,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 2,
+      "title": "Qualified",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/hyper-rally-msx-scc/jssjqmdsej/02%20Qualified.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hyper-rally-msx-scc/jssjqmdsej/02%20Qualified.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hyper-rally-msx-scc/02%2520Qualified.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 272629,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 3,
+      "title": "Disqualified",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/hyper-rally-msx-scc/zklqeinmjm/03%20Disqualified.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hyper-rally-msx-scc/zklqeinmjm/03%20Disqualified.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hyper-rally-msx-scc/03%2520Disqualified.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1761607,
+      "filesize_mp3_bytes": 513802,
+      "track_number": 4,
+      "title": "Finished",
+      "runtime": 27,
+      "source_mp3": "https://vgmsite.com/soundtracks/hyper-rally-msx-scc/izdrepamqf/04%20Finished.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/hyper-rally-msx-scc/izdrepamqf/04%20Finished.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hyper-rally-msx-scc/04%2520Finished.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 43,
+    "filesize_mp3_bytes": 817888,
+    "filesize_flac_bytes": 2663381,
+    "tracks": 4
+  }
+}

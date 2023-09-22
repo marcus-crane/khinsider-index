@@ -1,0 +1,78 @@
+{
+  "title": "Kamen Rider Atsume",
+  "titles_alternative": [
+    "\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u3042\u3064\u3081"
+  ],
+  "crawled_at": "2023-09-22T18:00:56.616404+00:00",
+  "slug": "kamen-rider-atsume-2017-3ds",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/kamen-rider-atsume-2017-3ds",
+  "platforms": {
+    "3DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-3ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/kamen-rider-atsume-2017-3ds/Kamen%20Rider%20Atsume%20%283DS%29%20%28gamerip%29%20%282017%29.jpg"
+  ],
+  "year": 2017,
+  "date_added": "2020-11-25T00:00:00+00:00",
+  "developers": {
+    "Toei Animation": "https://downloads.khinsider.com/game-soundtracks/developer/toei-animation"
+  },
+  "publishers": {
+    "Toei Animation": "https://downloads.khinsider.com/game-soundtracks/publisher/toei-animation"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 199229,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/kamen-rider-atsume-2017-3ds/opeavzsbbd/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kamen-rider-atsume-2017-3ds/opeavzsbbd/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kamen-rider-atsume-2017-3ds/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5106565,
+      "filesize_mp3_bytes": 1730150,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 110,
+      "source_mp3": "https://vgmsite.com/soundtracks/kamen-rider-atsume-2017-3ds/eelatogufg/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kamen-rider-atsume-2017-3ds/eelatogufg/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kamen-rider-atsume-2017-3ds/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6627000,
+      "filesize_mp3_bytes": 1604321,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 107,
+      "source_mp3": "https://vgmsite.com/soundtracks/kamen-rider-atsume-2017-3ds/unjkveyype/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kamen-rider-atsume-2017-3ds/unjkveyype/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kamen-rider-atsume-2017-3ds/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6123683,
+      "filesize_mp3_bytes": 1782579,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 112,
+      "source_mp3": "https://vgmsite.com/soundtracks/kamen-rider-atsume-2017-3ds/umvfxxcjjf/04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kamen-rider-atsume-2017-3ds/umvfxxcjjf/04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kamen-rider-atsume-2017-3ds/04.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 332,
+    "filesize_mp3_bytes": 5200936,
+    "filesize_flac_bytes": 18056477,
+    "tracks": 4
+  }
+}

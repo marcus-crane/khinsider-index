@@ -1,0 +1,52 @@
+{
+  "title": "Jeopardy! (SCD)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T16:55:12.123744+00:00",
+  "slug": "jeopardy-scd",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/jeopardy-scd",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/jeopardy-scd/J1.jpg"
+  ],
+  "year": 1994,
+  "date_added": "2018-12-25T00:00:00+00:00",
+  "developers": {
+    "Absolute Entertainment": "https://downloads.khinsider.com/game-soundtracks/developer/absolute-entertainment"
+  },
+  "publishers": {
+    "Sony Imagesoft": "https://downloads.khinsider.com/game-soundtracks/publisher/sony-imagesoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1321205,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 66,
+      "source_mp3": "https://vgmsite.com/soundtracks/jeopardy-scd/jdicveyy/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jeopardy-scd/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2296381,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 95,
+      "source_mp3": "https://vgmsite.com/soundtracks/jeopardy-scd/rpwadcrp/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jeopardy-scd/02.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 161,
+    "filesize_mp3_bytes": 3617586,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

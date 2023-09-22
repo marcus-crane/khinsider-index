@@ -1,0 +1,45 @@
+{
+  "title": "Infinity Dungeon Evolution! (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T15:57:52.922639+00:00",
+  "slug": "infinity-dungeon-evolution-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/infinity-dungeon-evolution-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/infinity-dungeon-evolution-android-game-music/1.jpg"
+  ],
+  "date_added": "2016-06-15T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1163919,
+      "track_number": 1,
+      "title": "main",
+      "runtime": 166,
+      "source_mp3": "https://vgmsite.com/soundtracks/infinity-dungeon-evolution-android-game-music/aqgdahmd/1%20main.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/infinity-dungeon-evolution-android-game-music/1%2520main.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 796917,
+      "track_number": 2,
+      "title": "battle",
+      "runtime": 50,
+      "source_mp3": "https://vgmsite.com/soundtracks/infinity-dungeon-evolution-android-game-music/xmcxrfzb/2%20battle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/infinity-dungeon-evolution-android-game-music/2%2520battle.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 216,
+    "filesize_mp3_bytes": 1960836,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

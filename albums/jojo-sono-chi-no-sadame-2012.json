@@ -1,0 +1,55 @@
+{
+  "title": "JoJo ~Sono Chi no Sadame~",
+  "titles_alternative": [
+    "\u30b8\u30e7\u30b8\u30e7~\u305d\u306e\u8840\u306e\u904b\u547d~"
+  ],
+  "crawled_at": "2023-09-22T17:18:35.706575+00:00",
+  "slug": "jojo-sono-chi-no-sadame-2012",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/jojo-sono-chi-no-sadame-2012",
+  "platforms": {
+    "Anime": "https://downloads.khinsider.com/game-soundtracks/anime"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/jojo-sono-chi-no-sadame-2012/Cover.png"
+  ],
+  "year": 2012,
+  "catalog_number": "10003-61585",
+  "date_added": "2023-03-03T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Warner Home Video": "https://downloads.khinsider.com/game-soundtracks/publisher/warner-home-video"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 107929927,
+      "filesize_mp3_bytes": 9059696,
+      "track_number": 1,
+      "title": "Jojo ~Sono Chi no Sadame~",
+      "runtime": 263,
+      "source_mp3": "https://vgmsite.com/soundtracks/jojo-sono-chi-no-sadame-2012/qzbanfxhht/01.%20Jojo%20~Sono%20Chi%20no%20Sadame~.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jojo-sono-chi-no-sadame-2012/qzbanfxhht/01.%20Jojo%20~Sono%20Chi%20no%20Sadame~.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jojo-sono-chi-no-sadame-2012/01.%2520Jojo%2520~Sono%2520Chi%2520no%2520Sadame~.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 106818437,
+      "filesize_mp3_bytes": 9049210,
+      "track_number": 2,
+      "title": "Jojo ~Sono Chi no Sadame~ (Original Karaoke)",
+      "runtime": 263,
+      "source_mp3": "https://vgmsite.com/soundtracks/jojo-sono-chi-no-sadame-2012/xgkkxmueeq/02.%20Jojo%20~Sono%20Chi%20no%20Sadame~%20%28Original%20Karaoke%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jojo-sono-chi-no-sadame-2012/xgkkxmueeq/02.%20Jojo%20~Sono%20Chi%20no%20Sadame~%20%28Original%20Karaoke%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jojo-sono-chi-no-sadame-2012/02.%2520Jojo%2520~Sono%2520Chi%2520no%2520Sadame~%2520%2528Original%2520Karaoke%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 526,
+    "filesize_mp3_bytes": 18108906,
+    "filesize_flac_bytes": 214748364,
+    "tracks": 2
+  }
+}
