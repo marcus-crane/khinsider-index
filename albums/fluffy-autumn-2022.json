@@ -1,0 +1,52 @@
+{
+  "title": "Fluffy Autumn",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T01:03:12.764601+00:00",
+  "slug": "fluffy-autumn-2022",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/fluffy-autumn-2022",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/fluffy-autumn-2022/Fluffy%20Autumn.png"
+  ],
+  "year": 2022,
+  "date_added": "2023-04-21T00:00:00+00:00",
+  "developers": {
+    "BlueBird Games": "https://downloads.khinsider.com/game-soundtracks/developer/bluebird-games"
+  },
+  "publishers": {
+    "BlueBird Games": "https://downloads.khinsider.com/game-soundtracks/publisher/bluebird-games"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6731857,
+      "track_number": 1,
+      "title": "The Long Way Home",
+      "runtime": 168,
+      "source_mp3": "https://vgmsite.com/soundtracks/fluffy-autumn-2022/vcstfuiahj/01.%20The%20Long%20Way%20Home.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fluffy-autumn-2022/01.%2520The%2520Long%2520Way%2520Home.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6731857,
+      "track_number": 2,
+      "title": "Forgotten",
+      "runtime": 168,
+      "source_mp3": "https://vgmsite.com/soundtracks/fluffy-autumn-2022/jojzyvuluo/02.%20Forgotten.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fluffy-autumn-2022/02.%2520Forgotten.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 336,
+    "filesize_mp3_bytes": 13463714,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

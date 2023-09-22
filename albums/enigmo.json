@@ -1,0 +1,94 @@
+{
+  "title": "Enigmo",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T21:41:28.498964+00:00",
+  "slug": "enigmo",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/enigmo",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/enigmo/coverart.jpg"
+  ],
+  "year": 2003,
+  "date_added": "2014-05-10T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 859832,
+      "track_number": 1,
+      "title": "Bonus",
+      "runtime": 44,
+      "source_mp3": "https://vgmsite.com/soundtracks/enigmo/gacrwbez/01%20Bonus.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/enigmo/01%2520Bonus.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2453667,
+      "track_number": 2,
+      "title": "Crete",
+      "runtime": 144,
+      "source_mp3": "https://vgmsite.com/soundtracks/enigmo/bpzlrpbx/02%20Crete.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/enigmo/02%2520Crete.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2401239,
+      "track_number": 3,
+      "title": "China",
+      "runtime": 141,
+      "source_mp3": "https://vgmsite.com/soundtracks/enigmo/fczjowbt/03%20China.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/enigmo/03%2520China.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2222981,
+      "track_number": 4,
+      "title": "Atlantis",
+      "runtime": 130,
+      "source_mp3": "https://vgmsite.com/soundtracks/enigmo/mgdzlhrk/04%20Atlantis.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/enigmo/04%2520Atlantis.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1635778,
+      "track_number": 5,
+      "title": "Night",
+      "runtime": 93,
+      "source_mp3": "https://vgmsite.com/soundtracks/enigmo/bwhprivt/05%20Night.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/enigmo/05%2520Night.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2306867,
+      "track_number": 6,
+      "title": "Enigmo Final",
+      "runtime": 90,
+      "source_mp3": "https://vgmsite.com/soundtracks/enigmo/kqluecje/06%20Enigmo%20Final.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/enigmo/06%2520Enigmo%2520Final.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 828375,
+      "track_number": 7,
+      "title": "Bonus",
+      "runtime": 42,
+      "source_mp3": "https://vgmsite.com/soundtracks/enigmo/rsmoijxg/07%20Bonus.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/enigmo/07%2520Bonus.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 684,
+    "filesize_mp3_bytes": 12708739,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "title": "Feed Chicks",
+  "titles_alternative": [
+    "Feed Chicks! - weird cute game"
+  ],
+  "crawled_at": "2023-09-21T23:50:16.438959+00:00",
+  "slug": "feed-chicks-android-ios-gamerip-2016",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/feed-chicks-android-ios-gamerip-2016",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/feed-chicks-android-ios-gamerip-2016/images.png"
+  ],
+  "year": 2016,
+  "date_added": "2023-08-24T00:00:00+00:00",
+  "developers": {
+    "Kazuya Kamioka": "https://downloads.khinsider.com/game-soundtracks/developer/kazuya-kamioka"
+  },
+  "publishers": {
+    "Kazuya Kamioka": "https://downloads.khinsider.com/game-soundtracks/publisher/kazuya-kamioka"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 618659,
+      "track_number": 1,
+      "title": "Ending",
+      "runtime": 22,
+      "source_mp3": "https://vgmsite.com/soundtracks/feed-chicks-android-ios-gamerip-2016/botpzhwjui/01.%20Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/feed-chicks-android-ios-gamerip-2016/01.%2520Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1688207,
+      "track_number": 2,
+      "title": "Field",
+      "runtime": 58,
+      "source_mp3": "https://vgmsite.com/soundtracks/feed-chicks-android-ios-gamerip-2016/ajfrvlfzrx/02.%20Field.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/feed-chicks-android-ios-gamerip-2016/02.%2520Field.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1195376,
+      "track_number": 3,
+      "title": "Minigame",
+      "runtime": 37,
+      "source_mp3": "https://vgmsite.com/soundtracks/feed-chicks-android-ios-gamerip-2016/fkdbfjjeve/03.%20Minigame.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/feed-chicks-android-ios-gamerip-2016/03.%2520Minigame.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 117,
+    "filesize_mp3_bytes": 3502242,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

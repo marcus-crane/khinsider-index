@@ -1,0 +1,98 @@
+{
+  "title": "Galactic Crusader (Unlicensed)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T03:01:19.577598+00:00",
+  "slug": "galactic-crusader-1990-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/galactic-crusader-1990-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/galactic-crusader-1990-nes/G1.png"
+  ],
+  "year": 1990,
+  "date_added": "2022-04-21T00:00:00+00:00",
+  "developers": {
+    "Sachen": "https://downloads.khinsider.com/game-soundtracks/developer/sachen"
+  },
+  "publishers": {
+    "Color Dreams": "https://downloads.khinsider.com/game-soundtracks/publisher/color-dreams"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5337251,
+      "filesize_mp3_bytes": 3344957,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/galactic-crusader-1990-nes/frlqokyzca/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/galactic-crusader-1990-nes/frlqokyzca/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/galactic-crusader-1990-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7193231,
+      "filesize_mp3_bytes": 3449815,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/galactic-crusader-1990-nes/ftxcjgpchj/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/galactic-crusader-1990-nes/ftxcjgpchj/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/galactic-crusader-1990-nes/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9992929,
+      "filesize_mp3_bytes": 3470786,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/galactic-crusader-1990-nes/aygnhbfvis/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/galactic-crusader-1990-nes/aygnhbfvis/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/galactic-crusader-1990-nes/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7885291,
+      "filesize_mp3_bytes": 3481272,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/galactic-crusader-1990-nes/bjlcpsatgi/04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/galactic-crusader-1990-nes/bjlcpsatgi/04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/galactic-crusader-1990-nes/04.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10622074,
+      "filesize_mp3_bytes": 3816816,
+      "track_number": 5,
+      "title": "Track 5",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/galactic-crusader-1990-nes/ijentdxghq/05.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/galactic-crusader-1990-nes/ijentdxghq/05.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/galactic-crusader-1990-nes/05.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2118123,
+      "filesize_mp3_bytes": 1541406,
+      "track_number": 6,
+      "title": "Track 6",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/galactic-crusader-1990-nes/gkuqcxlkrg/06.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/galactic-crusader-1990-nes/gkuqcxlkrg/06.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/galactic-crusader-1990-nes/06.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1080,
+    "filesize_mp3_bytes": 19105052,
+    "filesize_flac_bytes": 43148899,
+    "tracks": 6
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "title": "Flappy Special",
+  "titles_alternative": [
+    "\u30d5\u30e9\u30c3\u30d4\u30fc\u30fb\u30b9\u30da\u30b7\u30e3\u30eb"
+  ],
+  "crawled_at": "2023-09-22T00:53:45.538878+00:00",
+  "slug": "flappy-special-game-boy",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/flappy-special-game-boy",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/flappy-special-game-boy/F1.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2019-01-22T00:00:00+00:00",
+  "developers": {
+    "dB-Soft": "https://downloads.khinsider.com/game-soundtracks/developer/db-soft"
+  },
+  "publishers": {
+    "Victor Musical Industries": "https://downloads.khinsider.com/game-soundtracks/publisher/victor-musical-industries"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7203717,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/flappy-special-game-boy/dfryxdmi/01%20BGM%20%2301.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/flappy-special-game-boy/01%2520BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7203717,
+      "track_number": 2,
+      "title": "BGM #02",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/flappy-special-game-boy/nasywwvq/02%20BGM%20%2302.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/flappy-special-game-boy/02%2520BGM%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7203717,
+      "track_number": 3,
+      "title": "BGM #03",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/flappy-special-game-boy/qnpvgpgk/03%20BGM%20%2303.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/flappy-special-game-boy/03%2520BGM%2520%252303.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 4,
+      "title": "Jingle #01",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/flappy-special-game-boy/eoyysllp/04%20Jingle%20%2301.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/flappy-special-game-boy/04%2520Jingle%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 5,
+      "title": "Jingle #02",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/flappy-special-game-boy/duxvaigx/05%20Jingle%20%2302.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/flappy-special-game-boy/05%2520Jingle%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 555745,
+      "track_number": 6,
+      "title": "Title Screen",
+      "runtime": 14,
+      "source_mp3": "https://vgmsite.com/soundtracks/flappy-special-game-boy/zglavstb/06%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/flappy-special-game-boy/06%2520Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 560,
+    "filesize_mp3_bytes": 22397582,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

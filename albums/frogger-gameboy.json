@@ -1,0 +1,105 @@
+{
+  "title": "Frogger",
+  "titles_alternative": [
+    "Frogger: He's Back!",
+    "\u30d5\u30ed\u30c3\u30ac\u30fc"
+  ],
+  "crawled_at": "2023-09-22T02:23:20.141543+00:00",
+  "slug": "frogger-gameboy",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/frogger-gameboy",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/frogger-gameboy/F1.png"
+  ],
+  "year": 1998,
+  "date_added": "2018-09-26T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami"
+  },
+  "publishers": {
+    "Majesco": "https://downloads.khinsider.com/game-soundtracks/publisher/majesco"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 335544,
+      "track_number": 1,
+      "title": "Jingle #01",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/frogger-gameboy/dfcepkze/01%20Jingle%20%2301.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/frogger-gameboy/01%2520Jingle%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 220200,
+      "track_number": 2,
+      "title": "Jingle #02",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/frogger-gameboy/otdxamqy/02%20Jingle%20%2302.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/frogger-gameboy/02%2520Jingle%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 3,
+      "title": "Jingle #03",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/frogger-gameboy/opmlxmor/03%20Jingle%20%2303.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/frogger-gameboy/03%2520Jingle%2520%252303.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 4,
+      "title": "Jingle #04",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/frogger-gameboy/qtndrnyo/04%20Jingle%20%2304.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/frogger-gameboy/04%2520Jingle%2520%252304.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 178257,
+      "track_number": 5,
+      "title": "Jingle #05",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/frogger-gameboy/vzvtlqzx/05%20Jingle%20%2305.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/frogger-gameboy/05%2520Jingle%2520%252305.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 314572,
+      "track_number": 6,
+      "title": "Jingle #06",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/frogger-gameboy/olvlwjep/06%20Jingle%20%2306.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/frogger-gameboy/06%2520Jingle%2520%252306.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 7,
+      "title": "Jingle #07",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/frogger-gameboy/sxmrzsjz/07%20Jingle%20%2307.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/frogger-gameboy/07%2520Jingle%2520%252307.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 33,
+    "filesize_mp3_bytes": 1300230,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

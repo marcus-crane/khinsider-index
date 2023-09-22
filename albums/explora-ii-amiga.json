@@ -1,0 +1,98 @@
+{
+  "title": "Explora II",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T22:31:15.839746+00:00",
+  "slug": "explora-ii-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/explora-ii-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/explora-ii-amiga/Explora%20II%20Amiga%20front%20cover.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2021-03-18T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5326766,
+      "track_number": 1,
+      "title": "Introduction",
+      "runtime": 258,
+      "source_mp3": "https://vgmsite.com/soundtracks/explora-ii-amiga/ciyvokjeve/01%20Introduction.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/explora-ii-amiga/01%2520Introduction.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3334471,
+      "track_number": 2,
+      "title": "BGM01",
+      "runtime": 158,
+      "source_mp3": "https://vgmsite.com/soundtracks/explora-ii-amiga/csgujsaqmn/02%20BGM01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/explora-ii-amiga/02%2520BGM01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 293601,
+      "track_number": 3,
+      "title": "BGM02",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/explora-ii-amiga/gsvpccsldx/03%20BGM02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/explora-ii-amiga/03%2520BGM02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2831155,
+      "track_number": 4,
+      "title": "Cyclope",
+      "runtime": 133,
+      "source_mp3": "https://vgmsite.com/soundtracks/explora-ii-amiga/lqzhtdjutf/04%20Cyclope.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/explora-ii-amiga/04%2520Cyclope.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2946498,
+      "track_number": 5,
+      "title": "BGM04",
+      "runtime": 139,
+      "source_mp3": "https://vgmsite.com/soundtracks/explora-ii-amiga/disxfkekxs/05%20BGM04.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/explora-ii-amiga/05%2520BGM04.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 692060,
+      "track_number": 6,
+      "title": "BGM05",
+      "runtime": 26,
+      "source_mp3": "https://vgmsite.com/soundtracks/explora-ii-amiga/zwamfvrnch/06%20BGM05.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/explora-ii-amiga/06%2520BGM05.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 429916,
+      "track_number": 7,
+      "title": "BGM06",
+      "runtime": 13,
+      "source_mp3": "https://vgmsite.com/soundtracks/explora-ii-amiga/rbtqtnqpwv/07%20BGM06.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/explora-ii-amiga/07%2520BGM06.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 733,
+    "filesize_mp3_bytes": 15854467,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "title": "Fallout - Van Buren",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T23:00:12.005988+00:00",
+  "slug": "fallout-van-buren-2003-windows",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/fallout-van-buren-2003-windows",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/fallout-van-buren-2003-windows/cover.jpg"
+  ],
+  "year": 2003,
+  "date_added": "2021-08-27T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8388608,
+      "track_number": 1,
+      "title": "Dream a Little Dream",
+      "runtime": 210,
+      "source_mp3": "https://vgmsite.com/soundtracks/fallout-van-buren-2003-windows/owttaawrpk/01.%20Dream%20a%20Little%20Dream.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fallout-van-buren-2003-windows/01.%2520Dream%2520a%2520Little%2520Dream.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4299161,
+      "track_number": 2,
+      "title": "Procession of Souls",
+      "runtime": 215,
+      "source_mp3": "https://vgmsite.com/soundtracks/fallout-van-buren-2003-windows/ykjgvjvzaa/02.%20Procession%20of%20Souls.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fallout-van-buren-2003-windows/02.%2520Procession%2520of%2520Souls.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6889144,
+      "track_number": 3,
+      "title": "Night Cortage",
+      "runtime": 344,
+      "source_mp3": "https://vgmsite.com/soundtracks/fallout-van-buren-2003-windows/fzqclegply/03.%20Night%20Cortage.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fallout-van-buren-2003-windows/03.%2520Night%2520Cortage.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5892997,
+      "track_number": 4,
+      "title": "A Funeral Dirge for B.R.",
+      "runtime": 295,
+      "source_mp3": "https://vgmsite.com/soundtracks/fallout-van-buren-2003-windows/ucknwnplig/04.%20A%20Funeral%20Dirge%20for%20B.R..mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fallout-van-buren-2003-windows/04.%2520A%2520Funeral%2520Dirge%2520for%2520B.R..mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1064,
+    "filesize_mp3_bytes": 25469910,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

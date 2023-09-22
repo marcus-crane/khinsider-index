@@ -1,0 +1,40 @@
+{
+  "title": "FLASH CASANOVA",
+  "titles_alternative": [
+    "LEASE from My Merry May"
+  ],
+  "crawled_at": "2023-09-22T00:53:56.039346+00:00",
+  "slug": "flash-casanova-2020",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/flash-casanova-2020",
+  "platforms": {
+    "PS2": "https://downloads.khinsider.com/game-soundtracks/playstation-2"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/flash-casanova-2020/yab.jpg"
+  ],
+  "year": 2020,
+  "date_added": "2023-05-29T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Remix": "https://downloads.khinsider.com/game-soundtracks/remixes"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6658457,
+      "track_number": 1,
+      "title": "FLASH CASANOVA",
+      "runtime": 164,
+      "source_mp3": "https://vgmsite.com/soundtracks/flash-casanova-2020/llevtwuxpt/01.%20FLASH%20CASANOVA.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/flash-casanova-2020/01.%2520FLASH%2520CASANOVA.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 164,
+    "filesize_mp3_bytes": 6658457,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

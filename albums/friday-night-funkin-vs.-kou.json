@@ -1,0 +1,56 @@
+{
+  "title": "Friday Night Funkin' - vs. KOU",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T02:11:36.042348+00:00",
+  "slug": "friday-night-funkin-vs.-kou",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/friday-night-funkin-vs.-kou",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/friday-night-funkin-vs.-kou/cover.png"
+  ],
+  "year": 2021,
+  "date_added": "2021-05-19T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2548039,
+      "track_number": 1,
+      "title": "Space Boy",
+      "runtime": 65,
+      "source_mp3": "https://vgmsite.com/soundtracks/friday-night-funkin-vs.-kou/slzmlirmok/01%20-%20Space%20Boy.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/friday-night-funkin-vs.-kou/01%2520-%2520Space%2520Boy.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2673868,
+      "track_number": 2,
+      "title": "Cosmic",
+      "runtime": 72,
+      "source_mp3": "https://vgmsite.com/soundtracks/friday-night-funkin-vs.-kou/atamnsdpwb/02%20-%20Cosmic.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/friday-night-funkin-vs.-kou/02%2520-%2520Cosmic.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2610954,
+      "track_number": 3,
+      "title": "K.O.U",
+      "runtime": 68,
+      "source_mp3": "https://vgmsite.com/soundtracks/friday-night-funkin-vs.-kou/apwwngrmix/03%20-%20K.O.U.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/friday-night-funkin-vs.-kou/03%2520-%2520K.O.U.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 205,
+    "filesize_mp3_bytes": 7832861,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

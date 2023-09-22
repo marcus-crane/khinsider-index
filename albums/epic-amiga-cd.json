@@ -1,0 +1,66 @@
+{
+  "title": "Epic (Amiga CD)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T21:45:28.560194+00:00",
+  "slug": "epic-amiga-cd",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/epic-amiga-cd",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/epic-amiga-cd/Epic%20Amiga%20back%20cover.jpg"
+  ],
+  "year": 2016,
+  "date_added": "2020-09-27T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6165626,
+      "track_number": 1,
+      "title": "Introduction",
+      "runtime": 152,
+      "source_mp3": "https://vgmsite.com/soundtracks/epic-amiga-cd/ndpzxzzdyl/1.%20Introduction.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/epic-amiga-cd/1.%2520Introduction.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9416212,
+      "track_number": 2,
+      "title": "Flying",
+      "runtime": 234,
+      "source_mp3": "https://vgmsite.com/soundtracks/epic-amiga-cd/saiwxqwgaa/2.%20Flying.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/epic-amiga-cd/2.%2520Flying.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 15267266,
+      "track_number": 3,
+      "title": "Water Planet",
+      "runtime": 380,
+      "source_mp3": "https://vgmsite.com/soundtracks/epic-amiga-cd/tpybjyjykc/3.%20Water%20Planet.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/epic-amiga-cd/3.%2520Water%2520Planet.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 14931722,
+      "track_number": 4,
+      "title": "Into the Unknown",
+      "runtime": 372,
+      "source_mp3": "https://vgmsite.com/soundtracks/epic-amiga-cd/neqcacwadf/4.%20Into%20the%20Unknown.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/epic-amiga-cd/4.%2520Into%2520the%2520Unknown.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1138,
+    "filesize_mp3_bytes": 45780826,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Gaia Odyssey (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T02:56:23.066391+00:00",
+  "slug": "gaia-odyssey-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/gaia-odyssey-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/gaia-odyssey-android-game-music/GO.jpg"
+  ],
+  "year": 2012,
+  "date_added": "2016-06-20T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1614807,
+      "title": "Gaia Odyssey",
+      "runtime": 63,
+      "source_mp3": "https://vgmsite.com/soundtracks/gaia-odyssey-android-game-music/owegbzme/Gaia%20Odyssey.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gaia-odyssey-android-game-music/Gaia%2520Odyssey.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 63,
+    "filesize_mp3_bytes": 1614807,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

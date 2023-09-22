@@ -1,0 +1,78 @@
+{
+  "title": "Final Lap 3 (Namco System 2)",
+  "titles_alternative": [
+    "\u30d5\u30a1\u30a4\u30ca\u30eb\u30e9\u30c3\u30d73"
+  ],
+  "crawled_at": "2023-09-22T00:12:31.608208+00:00",
+  "slug": "final-lap-3-1992-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/final-lap-3-1992-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/final-lap-3-1992-arcade/F1.jpg"
+  ],
+  "year": 1992,
+  "date_added": "2020-02-27T00:00:00+00:00",
+  "developers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/developer/namco"
+  },
+  "publishers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/publisher/namco"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 723517,
+      "filesize_mp3_bytes": 262144,
+      "track_number": 1,
+      "title": "Introduction",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/final-lap-3-1992-arcade/duprgvpxyk/01%20Introduction.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/final-lap-3-1992-arcade/duprgvpxyk/01%20Introduction.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/final-lap-3-1992-arcade/01%2520Introduction.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1845493,
+      "filesize_mp3_bytes": 639631,
+      "track_number": 2,
+      "title": "Around the Europe",
+      "runtime": 25,
+      "source_mp3": "https://vgmsite.com/soundtracks/final-lap-3-1992-arcade/zkmhphzssd/02%20Around%20the%20Europe.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/final-lap-3-1992-arcade/zkmhphzssd/02%20Around%20the%20Europe.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/final-lap-3-1992-arcade/02%2520Around%2520the%2520Europe.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2736783,
+      "filesize_mp3_bytes": 985661,
+      "track_number": 3,
+      "title": "Battle Is Over",
+      "runtime": 40,
+      "source_mp3": "https://vgmsite.com/soundtracks/final-lap-3-1992-arcade/oqrxklhvwd/03%20Battle%20Is%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/final-lap-3-1992-arcade/oqrxklhvwd/03%20Battle%20Is%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/final-lap-3-1992-arcade/03%2520Battle%2520Is%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4823449,
+      "filesize_mp3_bytes": 1782579,
+      "track_number": 4,
+      "title": "After",
+      "runtime": 65,
+      "source_mp3": "https://vgmsite.com/soundtracks/final-lap-3-1992-arcade/qfnlzryfmg/04%20After.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/final-lap-3-1992-arcade/qfnlzryfmg/04%20After.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/final-lap-3-1992-arcade/04%2520After.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 140,
+    "filesize_mp3_bytes": 3670015,
+    "filesize_flac_bytes": 10129242,
+    "tracks": 4
+  }
+}

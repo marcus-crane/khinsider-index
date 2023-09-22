@@ -1,0 +1,46 @@
+{
+  "title": "Friday Night Funkin' - GUNFIGHT",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T01:47:48.217616+00:00",
+  "slug": "friday-night-funkin-gunfight",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/friday-night-funkin-gunfight",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/friday-night-funkin-gunfight/cover.png"
+  ],
+  "year": 2021,
+  "date_added": "2021-12-31T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 24966594,
+      "filesize_mp3_bytes": 6123683,
+      "track_number": 1,
+      "title": "GUNFIGHT",
+      "runtime": 175,
+      "source_mp3": "https://vgmsite.com/soundtracks/friday-night-funkin-gunfight/rbbyadqlyp/01%20GUNFIGHT.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/friday-night-funkin-gunfight/rbbyadqlyp/01%20GUNFIGHT.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/friday-night-funkin-gunfight/01%2520GUNFIGHT.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 24043847,
+      "filesize_mp3_bytes": 6239027,
+      "track_number": 2,
+      "title": "GUNFIGHT (Instrumental)",
+      "runtime": 175,
+      "source_mp3": "https://vgmsite.com/soundtracks/friday-night-funkin-gunfight/mgfpxfcclm/02%20GUNFIGHT%20%28Instrumental%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/friday-night-funkin-gunfight/mgfpxfcclm/02%20GUNFIGHT%20%28Instrumental%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/friday-night-funkin-gunfight/02%2520GUNFIGHT%2520%2528Instrumental%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 350,
+    "filesize_mp3_bytes": 12362710,
+    "filesize_flac_bytes": 49010441,
+    "tracks": 2
+  }
+}

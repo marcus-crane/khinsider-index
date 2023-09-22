@@ -1,0 +1,56 @@
+{
+  "title": "ESCHATOS VGM REMIX \"a new comet\"",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T21:52:19.114212+00:00",
+  "slug": "eschatos-vgm-remix-a-new-comet",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/eschatos-vgm-remix-a-new-comet",
+  "platforms": {
+    "PS4": "https://downloads.khinsider.com/game-soundtracks/playstation-4",
+    "Switch": "https://downloads.khinsider.com/game-soundtracks/nintendo-switch",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows",
+    "Xbox 360": "https://downloads.khinsider.com/game-soundtracks/xbox-360"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/eschatos-vgm-remix-a-new-comet/BK.jpg"
+  ],
+  "year": 2011,
+  "catalog_number": "SREX-0008",
+  "date_added": "2021-02-03T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "SuperSweep": "https://downloads.khinsider.com/game-soundtracks/publisher/supersweep"
+  },
+  "genres": {
+    "Remix": "https://downloads.khinsider.com/game-soundtracks/remixes"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 34047262,
+      "filesize_mp3_bytes": 7801405,
+      "track_number": 1,
+      "title": "SILVER LINING -Spin Phenix-",
+      "runtime": 242,
+      "source_mp3": "https://vgmsite.com/soundtracks/eschatos-vgm-remix-a-new-comet/fuchrejwob/01%20SILVER%20LINING%20-Spin%20Phenix-.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/eschatos-vgm-remix-a-new-comet/fuchrejwob/01%20SILVER%20LINING%20-Spin%20Phenix-.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/eschatos-vgm-remix-a-new-comet/01%2520SILVER%2520LINING%2520-Spin%2520Phenix-.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 34267463,
+      "filesize_mp3_bytes": 8304721,
+      "track_number": 2,
+      "title": "STELLAR LIGHT -the Boys Generation-",
+      "runtime": 249,
+      "source_mp3": "https://vgmsite.com/soundtracks/eschatos-vgm-remix-a-new-comet/whtdgxmonz/02%20STELLAR%20LIGHT%20-the%20Boys%20Generation-.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/eschatos-vgm-remix-a-new-comet/whtdgxmonz/02%20STELLAR%20LIGHT%20-the%20Boys%20Generation-.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/eschatos-vgm-remix-a-new-comet/02%2520STELLAR%2520LIGHT%2520-the%2520Boys%2520Generation-.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 491,
+    "filesize_mp3_bytes": 16106126,
+    "filesize_flac_bytes": 68314725,
+    "tracks": 2
+  }
+}

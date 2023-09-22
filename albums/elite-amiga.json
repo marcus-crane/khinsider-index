@@ -1,0 +1,38 @@
+{
+  "title": "Elite",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T21:16:15.437205+00:00",
+  "slug": "elite-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/elite-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/elite-amiga/Elite%20Amiga%20back%20cover.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2021-06-24T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 33145487,
+      "filesize_mp3_bytes": 3040870,
+      "title": "Intro",
+      "runtime": 190,
+      "source_mp3": "https://vgmsite.com/soundtracks/elite-amiga/spnpdcvrue/Intro.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/elite-amiga/spnpdcvrue/Intro.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/elite-amiga/Intro.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 190,
+    "filesize_mp3_bytes": 3040870,
+    "filesize_flac_bytes": 33145487,
+    "tracks": 1
+  }
+}

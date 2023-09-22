@@ -1,0 +1,62 @@
+{
+  "title": "Exit",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T22:29:40.806008+00:00",
+  "slug": "exit-windows-gamerip-2003",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/exit-windows-gamerip-2003",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/exit-windows-gamerip-2003/Image.jpg"
+  ],
+  "year": 2003,
+  "date_added": "2023-08-11T00:00:00+00:00",
+  "developers": {
+    "Secret Sign": "https://downloads.khinsider.com/game-soundtracks/developer/secret-sign"
+  },
+  "publishers": {
+    "Russobit-M": "https://downloads.khinsider.com/game-soundtracks/publisher/russobit-m"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 629145,
+      "track_number": 1,
+      "title": "Dynamic",
+      "runtime": 29,
+      "source_mp3": "https://vgmsite.com/soundtracks/exit-windows-gamerip-2003/iwemopwhso/01.%20Dynamic.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/exit-windows-gamerip-2003/01.%2520Dynamic.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5693767,
+      "track_number": 2,
+      "title": "Tada",
+      "runtime": 242,
+      "source_mp3": "https://vgmsite.com/soundtracks/exit-windows-gamerip-2003/isbhlqaoqw/02.%20Tada.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/exit-windows-gamerip-2003/02.%2520Tada.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5096079,
+      "track_number": 3,
+      "title": "Tada1",
+      "runtime": 227,
+      "source_mp3": "https://vgmsite.com/soundtracks/exit-windows-gamerip-2003/tnsxfwxolz/03.%20Tada1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/exit-windows-gamerip-2003/03.%2520Tada1.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 498,
+    "filesize_mp3_bytes": 11418991,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

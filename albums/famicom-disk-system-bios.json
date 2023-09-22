@@ -1,0 +1,69 @@
+{
+  "title": "Famicom Disk System BIOS",
+  "titles_alternative": [
+    "\u30d5\u30a1\u30df\u30ea\u30fc\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf \u30c7\u30a3\u30b9\u30af\u30b7\u30b9\u30c6\u30e0"
+  ],
+  "crawled_at": "2023-09-21T23:02:45.406933+00:00",
+  "slug": "famicom-disk-system-bios",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/famicom-disk-system-bios",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "FDS": "https://downloads.khinsider.com/game-soundtracks/famicom-disk-system",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/famicom-disk-system-bios/Famicom%20Disk%20System%20BIOS.png"
+  ],
+  "year": 1986,
+  "date_added": "2022-04-25T00:00:00+00:00",
+  "developers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/developer/nintendo"
+  },
+  "publishers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 387973,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 1,
+      "title": "BIOS",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/famicom-disk-system-bios/ixgezghyoc/01%20-%20BIOS.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/famicom-disk-system-bios/ixgezghyoc/01%20-%20BIOS.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/famicom-disk-system-bios/01%2520-%2520BIOS.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20971,
+      "filesize_mp3_bytes": 10485,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/famicom-disk-system-bios/ubygzesfnt/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/famicom-disk-system-bios/ubygzesfnt/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/famicom-disk-system-bios/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10485,
+      "filesize_mp3_bytes": 10485,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/famicom-disk-system-bios/ngvawkzkdu/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/famicom-disk-system-bios/ngvawkzkdu/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/famicom-disk-system-bios/03.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 9,
+    "filesize_mp3_bytes": 136313,
+    "filesize_flac_bytes": 419429,
+    "tracks": 3
+  }
+}

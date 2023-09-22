@@ -1,0 +1,63 @@
+{
+  "title": "FairChild Original MAXI Single",
+  "titles_alternative": [
+    "FairChild / \u698a\u539f\u3086\u3044"
+  ],
+  "crawled_at": "2023-09-21T22:48:00.625984+00:00",
+  "slug": "fairchild-original-maxi-single",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/fairchild-original-maxi-single",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/fairchild-original-maxi-single/00%20Booklet%20Back.jpg"
+  ],
+  "year": 2007,
+  "catalog_number": "AL-FC-000",
+  "date_added": "2022-07-24T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "ALcot": "https://downloads.khinsider.com/game-soundtracks/publisher/alcot"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8053063,
+      "track_number": 1,
+      "title": "FairChild",
+      "runtime": 290,
+      "source_mp3": "https://vgmsite.com/soundtracks/fairchild-original-maxi-single/bzlesowjhu/01%20FairChild.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fairchild-original-maxi-single/01%2520FairChild.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8178892,
+      "track_number": 2,
+      "title": "FairChild -instrumental ver.-",
+      "runtime": 290,
+      "source_mp3": "https://vgmsite.com/soundtracks/fairchild-original-maxi-single/gupcwlrdcm/02%20FairChild%20-instrumental%20ver.-.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fairchild-original-maxi-single/02%2520FairChild%2520-instrumental%2520ver.-.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3869245,
+      "track_number": 3,
+      "title": "Cloudy After Sunny Weather, Occasional Rain -short ver.-",
+      "runtime": 156,
+      "source_mp3": "https://vgmsite.com/soundtracks/fairchild-original-maxi-single/zbpcnkbnnm/03%20Cloudy%20After%20Sunny%20Weather%2C%20Occasional%20Rain%20-short%20ver.-.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fairchild-original-maxi-single/03%2520Cloudy%2520After%2520Sunny%2520Weather%252C%2520Occasional%2520Rain%2520-short%2520ver.-.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 736,
+    "filesize_mp3_bytes": 20101200,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

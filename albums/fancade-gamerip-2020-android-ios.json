@@ -1,0 +1,76 @@
+{
+  "title": "Fancade",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T23:14:18.439400+00:00",
+  "slug": "fancade-gamerip-2020-android-ios",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/fancade-gamerip-2020-android-ios",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/fancade-gamerip-2020-android-ios/Fancade%20%28Android%2C%20iOS%29%20%282020%29%20%28gamerip%29.jpg"
+  ],
+  "year": 2020,
+  "date_added": "2022-05-29T00:00:00+00:00",
+  "developers": {
+    "Martin Magni": "https://downloads.khinsider.com/game-soundtracks/developer/martin-magni"
+  },
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 419430,
+      "title": "Introduction",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/fancade-gamerip-2020-android-ios/zfwmyfuqql/Introduction.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fancade-gamerip-2020-android-ios/Introduction.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 419430,
+      "title": "Menu 1",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/fancade-gamerip-2020-android-ios/jubxauklvs/Menu%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fancade-gamerip-2020-android-ios/Menu%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 419430,
+      "title": "Menu 2",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/fancade-gamerip-2020-android-ios/uljfgzvvlh/Menu%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fancade-gamerip-2020-android-ios/Menu%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 419430,
+      "title": "Menu 3",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/fancade-gamerip-2020-android-ios/fhtncejxha/Menu%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fancade-gamerip-2020-android-ios/Menu%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 419430,
+      "title": "Menu 4",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/fancade-gamerip-2020-android-ios/szetnavvbf/Menu%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fancade-gamerip-2020-android-ios/Menu%25204.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 45,
+    "filesize_mp3_bytes": 2097150,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

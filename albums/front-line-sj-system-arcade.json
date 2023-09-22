@@ -1,0 +1,45 @@
+{
+  "title": "Front Line (SJ System)",
+  "titles_alternative": [
+    "\u30d5\u30ed\u30f3\u30c8\u30e9\u30a4\u30f3"
+  ],
+  "crawled_at": "2023-09-22T02:26:34.472930+00:00",
+  "slug": "front-line-sj-system-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/front-line-sj-system-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/front-line-sj-system-arcade/F1.jpg"
+  ],
+  "year": 1982,
+  "date_added": "2022-04-18T00:00:00+00:00",
+  "developers": {
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/developer/taito"
+  },
+  "publishers": {
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/publisher/taito"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 555745,
+      "filesize_mp3_bytes": 220200,
+      "track_number": 1,
+      "title": "BGM 1",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/front-line-sj-system-arcade/pdzitamxei/01%20BGM%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/front-line-sj-system-arcade/pdzitamxei/01%20BGM%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/front-line-sj-system-arcade/01%2520BGM%25201.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 11,
+    "filesize_mp3_bytes": 220200,
+    "filesize_flac_bytes": 555745,
+    "tracks": 1
+  }
+}

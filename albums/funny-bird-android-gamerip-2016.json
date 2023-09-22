@@ -1,0 +1,56 @@
+{
+  "title": "Funny Bird",
+  "titles_alternative": [
+    "Flying Bird"
+  ],
+  "crawled_at": "2023-09-22T02:37:59.768057+00:00",
+  "slug": "funny-bird-android-gamerip-2016",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/funny-bird-android-gamerip-2016",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/funny-bird-android-gamerip-2016/Funny%20Bird.png"
+  ],
+  "year": 2016,
+  "date_added": "2023-06-16T00:00:00+00:00",
+  "developers": {
+    "WellOnly Games": "https://downloads.khinsider.com/game-soundtracks/developer/wellonly-games"
+  },
+  "publishers": {
+    "WellOnly Games": "https://downloads.khinsider.com/game-soundtracks/publisher/wellonly-games"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 230686,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 1,
+      "title": "Get Prize",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/funny-bird-android-gamerip-2016/rkyddmlqhn/01.%20Get%20Prize.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/funny-bird-android-gamerip-2016/rkyddmlqhn/01.%20Get%20Prize.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/funny-bird-android-gamerip-2016/01.%2520Get%2520Prize.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1111490,
+      "filesize_mp3_bytes": 440401,
+      "track_number": 2,
+      "title": "Item Store",
+      "runtime": 16,
+      "source_mp3": "https://vgmsite.com/soundtracks/funny-bird-android-gamerip-2016/szpfpepdfv/02.%20Item%20Store.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/funny-bird-android-gamerip-2016/szpfpepdfv/02.%20Item%20Store.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/funny-bird-android-gamerip-2016/02.%2520Item%2520Store.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 20,
+    "filesize_mp3_bytes": 545258,
+    "filesize_flac_bytes": 1342176,
+    "tracks": 2
+  }
+}

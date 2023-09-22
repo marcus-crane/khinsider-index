@@ -1,0 +1,53 @@
+{
+  "title": "Florist Shop",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T01:00:22.998131+00:00",
+  "slug": "florist-shop-2010-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/florist-shop-2010-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/florist-shop-2010-nds-gamerip/Florist%20Shop.jpg"
+  ],
+  "year": 2010,
+  "date_added": "2020-06-08T00:00:00+00:00",
+  "developers": {
+    "Teyon": "https://downloads.khinsider.com/game-soundtracks/developer/teyon"
+  },
+  "publishers": {
+    "Rondomedia": "https://downloads.khinsider.com/game-soundtracks/publisher/rondomedia",
+    "UFO": "https://downloads.khinsider.com/game-soundtracks/publisher/ufo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 14501806,
+      "filesize_mp3_bytes": 5117050,
+      "title": "Sounds Puzzle1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/florist-shop-2010-nds-gamerip/emfxmenein/Sounds%20Puzzle1.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/florist-shop-2010-nds-gamerip/emfxmenein/Sounds%20Puzzle1.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/florist-shop-2010-nds-gamerip/Sounds%2520Puzzle1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8860467,
+      "filesize_mp3_bytes": 3198156,
+      "title": "Sounds Puzzle2",
+      "runtime": 131,
+      "source_mp3": "https://vgmsite.com/soundtracks/florist-shop-2010-nds-gamerip/eowrktvqju/Sounds%20Puzzle2.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/florist-shop-2010-nds-gamerip/eowrktvqju/Sounds%20Puzzle2.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/florist-shop-2010-nds-gamerip/Sounds%2520Puzzle2.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 311,
+    "filesize_mp3_bytes": 8315206,
+    "filesize_flac_bytes": 23362273,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "title": "Echonox 24/36 Webrip",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T21:01:53.131075+00:00",
+  "slug": "echonox-24-36-webrip-android-mobile-online-gamerip-2023",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/echonox-24-36-webrip-android-mobile-online-gamerip-2023",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile",
+    "Online": "https://downloads.khinsider.com/game-soundtracks/online"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/echonox-24-36-webrip-android-mobile-online-gamerip-2023/bal.jpg"
+  ],
+  "year": 2023,
+  "date_added": "2023-04-18T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2673868,
+      "title": "bgm 1",
+      "runtime": 101,
+      "source_mp3": "https://vgmsite.com/soundtracks/echonox-24-36-webrip-android-mobile-online-gamerip-2023/pldplomwql/bgm%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/echonox-24-36-webrip-android-mobile-online-gamerip-2023/bgm%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3701473,
+      "title": "bgm 2",
+      "runtime": 66,
+      "source_mp3": "https://vgmsite.com/soundtracks/echonox-24-36-webrip-android-mobile-online-gamerip-2023/mkmfuemcml/bgm%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/echonox-24-36-webrip-android-mobile-online-gamerip-2023/bgm%25202.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 167,
+    "filesize_mp3_bytes": 6375341,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

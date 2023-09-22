@@ -1,0 +1,47 @@
+{
+  "title": "Feud",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T23:52:20.337723+00:00",
+  "slug": "feud-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/feud-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/feud-amiga/Feud%20Amiga%20back%20cover.jpg"
+  ],
+  "date_added": "2021-03-18T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1719664,
+      "track_number": 1,
+      "title": "InGame (NTSC Version)",
+      "runtime": 108,
+      "source_mp3": "https://vgmsite.com/soundtracks/feud-amiga/ltgnyxkdpx/1.%20InGame%20%28NTSC%20Version%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/feud-amiga/1.%2520InGame%2520%2528NTSC%2520Version%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1478492,
+      "track_number": 2,
+      "title": "InGame (PAL Version)",
+      "runtime": 92,
+      "source_mp3": "https://vgmsite.com/soundtracks/feud-amiga/fpeaatrzyc/2.%20InGame%20%28PAL%20Version%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/feud-amiga/2.%2520InGame%2520%2528PAL%2520Version%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 200,
+    "filesize_mp3_bytes": 3198156,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

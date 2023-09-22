@@ -1,0 +1,52 @@
+{
+  "title": "Foundation's Waste",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T01:26:36.686628+00:00",
+  "slug": "foundation-s-waste-atari-st",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/foundation-s-waste-atari-st",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/foundation-s-waste-atari-st/F1.png"
+  ],
+  "year": 1988,
+  "date_added": "2019-04-29T00:00:00+00:00",
+  "developers": {
+    "Microwish": "https://downloads.khinsider.com/game-soundtracks/developer/microwish"
+  },
+  "publishers": {
+    "Exocet": "https://downloads.khinsider.com/game-soundtracks/publisher/exocet"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4917821,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 202,
+      "source_mp3": "https://vgmsite.com/soundtracks/foundation-s-waste-atari-st/rahakgor/01_Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/foundation-s-waste-atari-st/01_Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 922746,
+      "track_number": 2,
+      "title": "Game Over",
+      "runtime": 37,
+      "source_mp3": "https://vgmsite.com/soundtracks/foundation-s-waste-atari-st/iozthjqs/02_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/foundation-s-waste-atari-st/02_Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 239,
+    "filesize_mp3_bytes": 5840567,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

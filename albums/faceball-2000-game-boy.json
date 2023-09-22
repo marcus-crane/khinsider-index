@@ -1,0 +1,74 @@
+{
+  "title": "Faceball 2000",
+  "titles_alternative": [
+    "\u30d5\u30a7\u30a4\u30b9\u30dc\u30fc\u30eb\uff12\uff10\uff10\uff10"
+  ],
+  "crawled_at": "2023-09-21T22:46:20.643965+00:00",
+  "slug": "faceball-2000-game-boy",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/faceball-2000-game-boy",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/faceball-2000-game-boy/FB1.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2019-09-02T00:00:00+00:00",
+  "developers": {
+    "Xanth": "https://downloads.khinsider.com/game-soundtracks/developer/xanth"
+  },
+  "publishers": {
+    "Bullet-Proof Software": "https://downloads.khinsider.com/game-soundtracks/publisher/bullet-proof-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7203717,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/faceball-2000-game-boy/kusohdashf/01%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/faceball-2000-game-boy/01%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7203717,
+      "track_number": 2,
+      "title": "Cyberscape & Arena",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/faceball-2000-game-boy/kswvbacoho/02%20Cyberscape%20%26%20Arena.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/faceball-2000-game-boy/02%2520Cyberscape%2520%2526%2520Arena.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 293601,
+      "track_number": 3,
+      "title": "Level Completed & You Win!",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/faceball-2000-game-boy/gubcyqyjky/03%20Level%20Completed%20%26%20You%20Win%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/faceball-2000-game-boy/03%2520Level%2520Completed%2520%2526%2520You%2520Win%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 209715,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/faceball-2000-game-boy/aztrbbudvu/04%20Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/faceball-2000-game-boy/04%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 372,
+    "filesize_mp3_bytes": 14910750,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

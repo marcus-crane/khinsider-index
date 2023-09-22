@@ -1,0 +1,43 @@
+{
+  "title": "Eternal Fantasy Soundtrack",
+  "titles_alternative": [
+    "\u30a8\u30bf\u30fc\u30ca\u30eb\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc \u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af"
+  ],
+  "crawled_at": "2023-09-21T22:00:29.207111+00:00",
+  "slug": "eternal-fantasy-privilege",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/eternal-fantasy-privilege",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/eternal-fantasy-privilege/Eternal%20Fantasy%20Privilege.jpg"
+  ],
+  "year": 2007,
+  "catalog_number": "CIRCUS-0175",
+  "date_added": "2022-06-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "CIRCUS NORTHERN": "https://downloads.khinsider.com/game-soundtracks/publisher/circus-northern"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 56979619,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 2025,
+      "source_mp3": "https://vgmsite.com/soundtracks/eternal-fantasy-privilege/zihooytoub/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/eternal-fantasy-privilege/01.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2025,
+    "filesize_mp3_bytes": 56979619,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

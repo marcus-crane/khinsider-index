@@ -1,0 +1,72 @@
+{
+  "title": "Elmo's ABCs",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T21:21:43.516610+00:00",
+  "slug": "elmos-abcs-gc-gamerip-1999",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/elmos-abcs-gc-gamerip-1999",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/elmos-abcs-gc-gamerip-1999/IMG_3126.JPG"
+  ],
+  "year": 1999,
+  "date_added": "2023-05-30T00:00:00+00:00",
+  "developers": {
+    "Bonsai Entertainment": "https://downloads.khinsider.com/game-soundtracks/developer/bonsai-entertainment"
+  },
+  "publishers": {
+    "NewKidCo": "https://downloads.khinsider.com/game-soundtracks/publisher/newkidco"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1887436,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 79,
+      "source_mp3": "https://vgmsite.com/soundtracks/elmos-abcs-gc-gamerip-1999/kfccgbclfs/01.%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/elmos-abcs-gc-gamerip-1999/01.%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1142947,
+      "track_number": 2,
+      "title": "Game Select",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/elmos-abcs-gc-gamerip-1999/qrgwokqxws/02.%20Game%20Select.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/elmos-abcs-gc-gamerip-1999/02.%2520Game%2520Select.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1111490,
+      "track_number": 3,
+      "title": "Level Theme",
+      "runtime": 46,
+      "source_mp3": "https://vgmsite.com/soundtracks/elmos-abcs-gc-gamerip-1999/yiptkjwuyz/03.%20Level%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/elmos-abcs-gc-gamerip-1999/03.%2520Level%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 4,
+      "title": "Level Complete",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/elmos-abcs-gc-gamerip-1999/ylgpvgrjuw/04.%20Level%20Complete.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/elmos-abcs-gc-gamerip-1999/04.%2520Level%2520Complete.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 179,
+    "filesize_mp3_bytes": 4288673,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Friday Night Funkin' - Shiver (Single)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T01:58:13.092816+00:00",
+  "slug": "friday-night-funkin-shiver-single",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/friday-night-funkin-shiver-single",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/friday-night-funkin-shiver-single/Cover.png"
+  ],
+  "date_added": "2021-02-14T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3040870,
+      "track_number": 1,
+      "title": "Shiver",
+      "runtime": 94,
+      "source_mp3": "https://vgmsite.com/soundtracks/friday-night-funkin-shiver-single/nqlshbmmhj/1.%20Shiver.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/friday-night-funkin-shiver-single/1.%2520Shiver.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3082813,
+      "track_number": 2,
+      "title": "Shiver (Instrumental)",
+      "runtime": 92,
+      "source_mp3": "https://vgmsite.com/soundtracks/friday-night-funkin-shiver-single/vheeynxgsz/2.%20Shiver%20%28Instrumental%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/friday-night-funkin-shiver-single/2.%2520Shiver%2520%2528Instrumental%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 186,
+    "filesize_mp3_bytes": 6123683,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

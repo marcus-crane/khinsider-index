@@ -1,0 +1,50 @@
+{
+  "title": "Emerald Fantasy 2",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T21:26:00.034351+00:00",
+  "slug": "emerald-fantasy-2-ibm-pc-at",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/emerald-fantasy-2-ibm-pc-at",
+  "platforms": {
+    "IBM PC/AT": "https://downloads.khinsider.com/game-soundtracks/ibm-pc-at"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/emerald-fantasy-2-ibm-pc-at/Emerald%20Fantasy%202.png"
+  ],
+  "year": 1997,
+  "date_added": "2022-04-14T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3030384,
+      "filesize_mp3_bytes": 1478492,
+      "track_number": 1,
+      "title": "Title Theme",
+      "runtime": 67,
+      "source_mp3": "https://vgmsite.com/soundtracks/emerald-fantasy-2-ibm-pc-at/mmlqbqeixg/01%20Title%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/emerald-fantasy-2-ibm-pc-at/mmlqbqeixg/01%20Title%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/emerald-fantasy-2-ibm-pc-at/01%2520Title%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6385827,
+      "filesize_mp3_bytes": 2338324,
+      "track_number": 2,
+      "title": "In-game Music",
+      "runtime": 111,
+      "source_mp3": "https://vgmsite.com/soundtracks/emerald-fantasy-2-ibm-pc-at/zhmuselepd/02%20In-game%20Music.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/emerald-fantasy-2-ibm-pc-at/zhmuselepd/02%20In-game%20Music.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/emerald-fantasy-2-ibm-pc-at/02%2520In-game%2520Music.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 178,
+    "filesize_mp3_bytes": 3816816,
+    "filesize_flac_bytes": 9416211,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "title": "Food Stranding",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T01:10:14.393977+00:00",
+  "slug": "food-stranding-2021-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/food-stranding-2021-gamerip",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/food-stranding-2021-gamerip/fs_1.jpg"
+  ],
+  "year": 2021,
+  "date_added": "2023-05-17T00:00:00+00:00",
+  "developers": {
+    "HotFoodGames": "https://downloads.khinsider.com/game-soundtracks/developer/hotfoodgames"
+  },
+  "publishers": {
+    "HotFoodGames": "https://downloads.khinsider.com/game-soundtracks/publisher/hotfoodgames"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4739563,
+      "track_number": 1,
+      "title": "Main Menu",
+      "runtime": 118,
+      "source_mp3": "https://vgmsite.com/soundtracks/food-stranding-2021-gamerip/uoldxozlhr/01.%20Main%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/food-stranding-2021-gamerip/01.%2520Main%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 14260633,
+      "track_number": 2,
+      "title": "Main Combat",
+      "runtime": 356,
+      "source_mp3": "https://vgmsite.com/soundtracks/food-stranding-2021-gamerip/eyresbshyh/02.%20Main%20Combat.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/food-stranding-2021-gamerip/02.%2520Main%2520Combat.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5211422,
+      "track_number": 3,
+      "title": "Victory!",
+      "runtime": 130,
+      "source_mp3": "https://vgmsite.com/soundtracks/food-stranding-2021-gamerip/kmiirgkaic/03.%20Victory%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/food-stranding-2021-gamerip/03.%2520Victory%2521.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 604,
+    "filesize_mp3_bytes": 24211618,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

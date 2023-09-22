@@ -1,0 +1,72 @@
+{
+  "title": "Future Games",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T02:44:11.522246+00:00",
+  "slug": "future-games-zx-spectrum",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/future-games-zx-spectrum",
+  "platforms": {
+    "Spectrum": "https://downloads.khinsider.com/game-soundtracks/spectrum"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/future-games-zx-spectrum/F1.jpg"
+  ],
+  "year": 1986,
+  "date_added": "2017-11-02T00:00:00+00:00",
+  "developers": {
+    "Insight": "https://downloads.khinsider.com/game-soundtracks/developer/insight"
+  },
+  "publishers": {
+    "Mastertronic": "https://downloads.khinsider.com/game-soundtracks/publisher/mastertronic"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6008340,
+      "track_number": 1,
+      "title": "Title (Beeper)",
+      "runtime": 162,
+      "source_mp3": "https://vgmsite.com/soundtracks/future-games-zx-spectrum/khptbexx/01_Title%20%28Beeper%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/future-games-zx-spectrum/01_Title%2520%2528Beeper%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 178257,
+      "track_number": 2,
+      "title": "Start Event (Beeper)",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/future-games-zx-spectrum/whfsfnsn/02_Start%20Event%20%28Beeper%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/future-games-zx-spectrum/02_Start%2520Event%2520%2528Beeper%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 3,
+      "title": "End Event (Beeper)",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/future-games-zx-spectrum/ukefbkmf/03_End%20Event%20%28Beeper%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/future-games-zx-spectrum/03_End%2520Event%2520%2528Beeper%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 157286,
+      "track_number": 4,
+      "title": "Game Over (Beeper)",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/future-games-zx-spectrum/iddeklya/04_Game%20Over%20%28Beeper%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/future-games-zx-spectrum/04_Game%2520Over%2520%2528Beeper%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 177,
+    "filesize_mp3_bytes": 6490683,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "title": "Fire Dragon (Dendy)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T00:15:43.615533+00:00",
+  "slug": "fire-dragon-dendy",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/fire-dragon-dendy",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/fire-dragon-dendy/Fire%20Dragon.png"
+  ],
+  "date_added": "2022-04-21T00:00:00+00:00",
+  "developers": {
+    "Gamtec": "https://downloads.khinsider.com/game-soundtracks/developer/gamtec"
+  },
+  "publishers": {
+    "Gamtec": "https://downloads.khinsider.com/game-soundtracks/publisher/gamtec"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1793064,
+      "filesize_mp3_bytes": 796917,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 41,
+      "source_mp3": "https://vgmsite.com/soundtracks/fire-dragon-dendy/ouzdbternc/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/fire-dragon-dendy/ouzdbternc/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fire-dragon-dendy/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1583349,
+      "filesize_mp3_bytes": 639631,
+      "track_number": 2,
+      "title": "BGM 1",
+      "runtime": 33,
+      "source_mp3": "https://vgmsite.com/soundtracks/fire-dragon-dendy/dqfwnnrkjx/02%20BGM%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/fire-dragon-dendy/dqfwnnrkjx/02%20BGM%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fire-dragon-dendy/02%2520BGM%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2946498,
+      "filesize_mp3_bytes": 912261,
+      "track_number": 3,
+      "title": "BGM 2",
+      "runtime": 55,
+      "source_mp3": "https://vgmsite.com/soundtracks/fire-dragon-dendy/whlhyjsqin/03%20BGM%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/fire-dragon-dendy/whlhyjsqin/03%20BGM%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fire-dragon-dendy/03%2520BGM%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 199229,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/fire-dragon-dendy/tutumxryvv/04%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/fire-dragon-dendy/tutumxryvv/04%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fire-dragon-dendy/04%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 134,
+    "filesize_mp3_bytes": 2432695,
+    "filesize_flac_bytes": 6522140,
+    "tracks": 4
+  }
+}

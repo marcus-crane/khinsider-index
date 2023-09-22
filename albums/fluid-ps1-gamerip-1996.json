@@ -1,0 +1,82 @@
+{
+  "title": "Fluid",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T01:03:15.890296+00:00",
+  "slug": "fluid-ps1-gamerip-1996",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/fluid-ps1-gamerip-1996",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/fluid-ps1-gamerip-1996/New%20Project.jpg"
+  ],
+  "year": 1996,
+  "date_added": "2023-04-21T00:00:00+00:00",
+  "developers": {
+    "Opus": "https://downloads.khinsider.com/game-soundtracks/developer/opus"
+  },
+  "publishers": {
+    "Sony Computer Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/sony-computer-entertainment"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 14501806,
+      "track_number": 1,
+      "title": "Shell",
+      "runtime": 318,
+      "source_mp3": "https://vgmsite.com/soundtracks/fluid-ps1-gamerip-1996/hirreiuohc/01.%20Shell.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fluid-ps1-gamerip-1996/01.%2520Shell.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10475274,
+      "track_number": 2,
+      "title": "Crystal",
+      "runtime": 218,
+      "source_mp3": "https://vgmsite.com/soundtracks/fluid-ps1-gamerip-1996/myqgakrjqa/02.%20Crystal.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fluid-ps1-gamerip-1996/02.%2520Crystal.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 12708741,
+      "track_number": 3,
+      "title": "Wire",
+      "runtime": 274,
+      "source_mp3": "https://vgmsite.com/soundtracks/fluid-ps1-gamerip-1996/jhhhtovnde/03.%20Wire.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fluid-ps1-gamerip-1996/03.%2520Wire.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10779361,
+      "track_number": 4,
+      "title": "Peace",
+      "runtime": 225,
+      "source_mp3": "https://vgmsite.com/soundtracks/fluid-ps1-gamerip-1996/uwggnplkic/04.%20Peace.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fluid-ps1-gamerip-1996/04.%2520Peace.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9772728,
+      "track_number": 5,
+      "title": "Temple",
+      "runtime": 200,
+      "source_mp3": "https://vgmsite.com/soundtracks/fluid-ps1-gamerip-1996/zxqdavfgfr/05.%20Temple.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fluid-ps1-gamerip-1996/05.%2520Temple.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1235,
+    "filesize_mp3_bytes": 58237910,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

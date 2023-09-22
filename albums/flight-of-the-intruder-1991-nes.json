@@ -1,0 +1,78 @@
+{
+  "title": "Flight of the Intruder",
+  "titles_alternative": [
+    "Phantom Air Mission"
+  ],
+  "crawled_at": "2023-09-22T00:57:17.232975+00:00",
+  "slug": "flight-of-the-intruder-1991-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/flight-of-the-intruder-1991-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/flight-of-the-intruder-1991-nes/Flight%20of%20the%20Intruder.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2022-04-21T00:00:00+00:00",
+  "developers": {
+    "Imagineering": "https://downloads.khinsider.com/game-soundtracks/developer/imagineering"
+  },
+  "publishers": {
+    "Mindscape": "https://downloads.khinsider.com/game-soundtracks/publisher/mindscape"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2097152,
+      "filesize_mp3_bytes": 1038090,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 41,
+      "source_mp3": "https://vgmsite.com/soundtracks/flight-of-the-intruder-1991-nes/gvdkdvjnfi/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/flight-of-the-intruder-1991-nes/gvdkdvjnfi/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/flight-of-the-intruder-1991-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10055843,
+      "filesize_mp3_bytes": 4089446,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/flight-of-the-intruder-1991-nes/xbwirsczuc/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/flight-of-the-intruder-1991-nes/xbwirsczuc/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/flight-of-the-intruder-1991-nes/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9678356,
+      "filesize_mp3_bytes": 4393533,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/flight-of-the-intruder-1991-nes/lhhvgrkibh/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/flight-of-the-intruder-1991-nes/lhhvgrkibh/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/flight-of-the-intruder-1991-nes/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 188743,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/flight-of-the-intruder-1991-nes/bqeynsbjgx/04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/flight-of-the-intruder-1991-nes/bqeynsbjgx/04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/flight-of-the-intruder-1991-nes/04.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 406,
+    "filesize_mp3_bytes": 9604955,
+    "filesize_flac_bytes": 22020094,
+    "tracks": 4
+  }
+}

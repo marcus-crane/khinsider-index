@@ -1,0 +1,55 @@
+{
+  "title": "Edzuputo flames (GOODROID, Inc)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T21:04:38.978552+00:00",
+  "slug": "edzuputo-flames-goodroid-inc-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/edzuputo-flames-goodroid-inc-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/edzuputo-flames-goodroid-inc-android/1.jpg"
+  ],
+  "year": 2015,
+  "date_added": "2017-03-14T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 461373,
+      "title": "bgm_advertise",
+      "runtime": 57,
+      "source_mp3": "https://vgmsite.com/soundtracks/edzuputo-flames-goodroid-inc-android/zmbrclrr/bgm_advertise.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/edzuputo-flames-goodroid-inc-android/bgm_advertise.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1824522,
+      "title": "bgm_advertise_loop",
+      "runtime": 114,
+      "source_mp3": "https://vgmsite.com/soundtracks/edzuputo-flames-goodroid-inc-android/ymfvwlrl/bgm_advertise_loop.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/edzuputo-flames-goodroid-inc-android/bgm_advertise_loop.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1153433,
+      "title": "bgm_main",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/edzuputo-flames-goodroid-inc-android/mqqryigy/bgm_main.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/edzuputo-flames-goodroid-inc-android/bgm_main.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 219,
+    "filesize_mp3_bytes": 3439328,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

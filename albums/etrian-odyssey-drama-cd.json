@@ -1,0 +1,85 @@
+{
+  "title": "Sekaiju no MeiQ Drama CD",
+  "titles_alternative": [
+    "\u300c\u4e16\u754c\u6a39\u306e\u8ff7\u5bae\u300d \u30c9\u30e9\u30deCD",
+    "Sekaiju no Meikyuu Drama CD",
+    "Etrian Odyssey Drama CD"
+  ],
+  "crawled_at": "2023-09-21T22:04:13.429907+00:00",
+  "slug": "etrian-odyssey-drama-cd",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/etrian-odyssey-drama-cd",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/etrian-odyssey-drama-cd/SnM1D-1-2.jpg"
+  ],
+  "year": 2007,
+  "catalog_number": "VGCD-0103",
+  "date_added": "2014-07-24T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "5pb.": "https://downloads.khinsider.com/game-soundtracks/publisher/5pb"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 943718,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 41,
+      "source_mp3": "https://vgmsite.com/soundtracks/etrian-odyssey-drama-cd/dsiyrkfw/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/etrian-odyssey-drama-cd/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 26424115,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 892,
+      "source_mp3": "https://vgmsite.com/soundtracks/etrian-odyssey-drama-cd/slqhvxuj/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/etrian-odyssey-drama-cd/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 19818086,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 639,
+      "source_mp3": "https://vgmsite.com/soundtracks/etrian-odyssey-drama-cd/byfakdjp/03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/etrian-odyssey-drama-cd/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 19157483,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 618,
+      "source_mp3": "https://vgmsite.com/soundtracks/etrian-odyssey-drama-cd/dlntgpjq/04.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/etrian-odyssey-drama-cd/04.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 31782338,
+      "track_number": 5,
+      "title": "Track 5",
+      "runtime": 1043,
+      "source_mp3": "https://vgmsite.com/soundtracks/etrian-odyssey-drama-cd/qsmyjnhn/05.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/etrian-odyssey-drama-cd/05.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 3233,
+    "filesize_mp3_bytes": 98125740,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "title": "Fly Harder",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T01:03:50.418797+00:00",
+  "slug": "fly-harder-c64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/fly-harder-c64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/fly-harder-c64/Fly%20Harder.png"
+  ],
+  "year": 1993,
+  "date_added": "2017-10-14T00:00:00+00:00",
+  "developers": {
+    "Starbyte Software": "https://downloads.khinsider.com/game-soundtracks/developer/starbyte-software"
+  },
+  "publishers": {
+    "Starbyte Software": "https://downloads.khinsider.com/game-soundtracks/publisher/starbyte-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1447034,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 79,
+      "source_mp3": "https://vgmsite.com/soundtracks/fly-harder-c64/umjtxyoe/01_Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fly-harder-c64/01_Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3093299,
+      "track_number": 2,
+      "title": "Title Screen",
+      "runtime": 182,
+      "source_mp3": "https://vgmsite.com/soundtracks/fly-harder-c64/ukxjhsca/02_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fly-harder-c64/02_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2610954,
+      "track_number": 3,
+      "title": "Name Entry",
+      "runtime": 142,
+      "source_mp3": "https://vgmsite.com/soundtracks/fly-harder-c64/xvckmsey/03_Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fly-harder-c64/03_Name%2520Entry.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 922746,
+      "track_number": 4,
+      "title": "Unknown",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/fly-harder-c64/vpsxucat/04_Unknown.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fly-harder-c64/04_Unknown.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2589982,
+      "track_number": 5,
+      "title": "Intro (SID Stereo)",
+      "runtime": 78,
+      "source_mp3": "https://vgmsite.com/soundtracks/fly-harder-c64/vvtrhcrv/05_Intro%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fly-harder-c64/05_Intro%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5609881,
+      "track_number": 6,
+      "title": "Title Screen (SID Stereo)",
+      "runtime": 182,
+      "source_mp3": "https://vgmsite.com/soundtracks/fly-harder-c64/roggblxb/06_Title%20Screen%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fly-harder-c64/06_Title%2520Screen%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4634705,
+      "track_number": 7,
+      "title": "Name Entry (SID Stereo)",
+      "runtime": 142,
+      "source_mp3": "https://vgmsite.com/soundtracks/fly-harder-c64/fagfjqcs/07_Name%20Entry%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fly-harder-c64/07_Name%2520Entry%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1625292,
+      "track_number": 8,
+      "title": "Unknown (SID Stereo)",
+      "runtime": 47,
+      "source_mp3": "https://vgmsite.com/soundtracks/fly-harder-c64/emdwxzdy/08_Unknown%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fly-harder-c64/08_Unknown%2520%2528SID%2520Stereo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 900,
+    "filesize_mp3_bytes": 22533893,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

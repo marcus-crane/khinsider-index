@@ -1,0 +1,62 @@
+{
+  "title": "Full Contact",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T02:35:06.848055+00:00",
+  "slug": "full-contact-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/full-contact-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/full-contact-amiga/Full%20Contact.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2016-06-22T00:00:00+00:00",
+  "developers": {
+    "Team 17": "https://downloads.khinsider.com/game-soundtracks/developer/team-17"
+  },
+  "publishers": {
+    "Team 17": "https://downloads.khinsider.com/game-soundtracks/publisher/team-17"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 996147,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 31,
+      "source_mp3": "https://vgmsite.com/soundtracks/full-contact-amiga/qwsjjknj/01_Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/full-contact-amiga/01_Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9447669,
+      "track_number": 2,
+      "title": "Title Screen",
+      "runtime": 299,
+      "source_mp3": "https://vgmsite.com/soundtracks/full-contact-amiga/icyoawaw/02_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/full-contact-amiga/02_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5620367,
+      "track_number": 3,
+      "title": "Options",
+      "runtime": 174,
+      "source_mp3": "https://vgmsite.com/soundtracks/full-contact-amiga/jitxkjpv/03_Options.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/full-contact-amiga/03_Options.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 504,
+    "filesize_mp3_bytes": 16064183,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

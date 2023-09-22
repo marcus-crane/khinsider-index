@@ -1,0 +1,56 @@
+{
+  "title": "Friday Night Funkin' - vs. Carol",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T02:06:42.241852+00:00",
+  "slug": "friday-night-funkin-vs.-carol",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/friday-night-funkin-vs.-carol",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/friday-night-funkin-vs.-carol/vs.%20Carol%20Cover.jpg"
+  ],
+  "year": 2021,
+  "date_added": "2021-07-26T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1405091,
+      "track_number": 1,
+      "title": "Carol Roll",
+      "runtime": 84,
+      "source_mp3": "https://vgmsite.com/soundtracks/friday-night-funkin-vs.-carol/svivxziyvf/01%20Carol%20Roll.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/friday-night-funkin-vs.-carol/01%2520Carol%2520Roll.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1342177,
+      "track_number": 2,
+      "title": "Body",
+      "runtime": 80,
+      "source_mp3": "https://vgmsite.com/soundtracks/friday-night-funkin-vs.-carol/jcgtufphhx/02%20Body.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/friday-night-funkin-vs.-carol/02%2520Body.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1090519,
+      "track_number": 3,
+      "title": "Boogie",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/friday-night-funkin-vs.-carol/umcquoqpmf/03%20Boogie.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/friday-night-funkin-vs.-carol/03%2520Boogie.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 228,
+    "filesize_mp3_bytes": 3837787,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

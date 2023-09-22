@@ -1,0 +1,54 @@
+{
+  "title": "Eggsucker",
+  "titles_alternative": [
+    "Eggsucker"
+  ],
+  "crawled_at": "2023-09-21T21:05:22.865358+00:00",
+  "slug": "eggsucker-windows-gamerip-2001",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/eggsucker-windows-gamerip-2001",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/eggsucker-windows-gamerip-2001/Eggsucker.%20Jpg.png"
+  ],
+  "year": 2001,
+  "date_added": "2023-04-28T00:00:00+00:00",
+  "developers": {
+    "Raptisoft": "https://downloads.khinsider.com/game-soundtracks/developer/raptisoft"
+  },
+  "publishers": {
+    "Raptisoft": "https://downloads.khinsider.com/game-soundtracks/publisher/raptisoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1688207,
+      "track_number": 1,
+      "title": "Panic Fossils",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/eggsucker-windows-gamerip-2001/rkxstdbbpo/01.%20Panic%20Fossils.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/eggsucker-windows-gamerip-2001/01.%2520Panic%2520Fossils.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 576716,
+      "track_number": 2,
+      "title": "Clear Em Grande",
+      "runtime": 36,
+      "source_mp3": "https://vgmsite.com/soundtracks/eggsucker-windows-gamerip-2001/uoobwwozrn/02.%20Clear%20Em%20Grande.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/eggsucker-windows-gamerip-2001/02.%2520Clear%2520Em%2520Grande.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 216,
+    "filesize_mp3_bytes": 2264923,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

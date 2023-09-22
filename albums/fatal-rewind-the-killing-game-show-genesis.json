@@ -1,0 +1,68 @@
+{
+  "title": "Fatal Rewind",
+  "titles_alternative": [
+    "The Killing Game Show",
+    "\u30ad\u30ea\u30f3\u30b0\u30fb\u30b2\u30fc\u30e0\u30fb\u30b7\u30e7\u30fc"
+  ],
+  "crawled_at": "2023-09-21T23:41:02.300338+00:00",
+  "slug": "fatal-rewind-the-killing-game-show-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/fatal-rewind-the-killing-game-show-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/fatal-rewind-the-killing-game-show-genesis/F1.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2020-03-06T00:00:00+00:00",
+  "developers": {
+    "Raising Hell Software": "https://downloads.khinsider.com/game-soundtracks/developer/raising-hell-software"
+  },
+  "publishers": {
+    "EA": "https://downloads.khinsider.com/game-soundtracks/publisher/ea"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 17249075,
+      "filesize_mp3_bytes": 7077888,
+      "track_number": 1,
+      "title": "Title Theme",
+      "runtime": 278,
+      "source_mp3": "https://vgmsite.com/soundtracks/fatal-rewind-the-killing-game-show-genesis/gyanjbzehs/01%20-%20Title%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/fatal-rewind-the-killing-game-show-genesis/gyanjbzehs/01%20-%20Title%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fatal-rewind-the-killing-game-show-genesis/01%2520-%2520Title%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 33837547,
+      "filesize_mp3_bytes": 12918456,
+      "track_number": 2,
+      "title": "Main BGM",
+      "runtime": 537,
+      "source_mp3": "https://vgmsite.com/soundtracks/fatal-rewind-the-killing-game-show-genesis/tbxpadkulv/02%20-%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/fatal-rewind-the-killing-game-show-genesis/tbxpadkulv/02%20-%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fatal-rewind-the-killing-game-show-genesis/02%2520-%2520Main%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11523850,
+      "filesize_mp3_bytes": 5064622,
+      "track_number": 3,
+      "title": "Ending Theme",
+      "runtime": 178,
+      "source_mp3": "https://vgmsite.com/soundtracks/fatal-rewind-the-killing-game-show-genesis/xbjahdnawp/03%20-%20Ending%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/fatal-rewind-the-killing-game-show-genesis/xbjahdnawp/03%20-%20Ending%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fatal-rewind-the-killing-game-show-genesis/03%2520-%2520Ending%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 993,
+    "filesize_mp3_bytes": 25060966,
+    "filesize_flac_bytes": 62610472,
+    "tracks": 3
+  }
+}

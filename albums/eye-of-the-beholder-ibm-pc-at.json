@@ -1,0 +1,89 @@
+{
+  "title": "Eye of the Beholder",
+  "titles_alternative": [
+    "\u30a2\u30a4\u30fb\u30aa\u30d6\u30fb\u30b6\u30fb\u30d3\u30db\u30eb\u30c0\u30fc"
+  ],
+  "crawled_at": "2023-09-21T22:33:56.970148+00:00",
+  "slug": "eye-of-the-beholder-ibm-pc-at",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/eye-of-the-beholder-ibm-pc-at",
+  "platforms": {
+    "IBM PC/AT": "https://downloads.khinsider.com/game-soundtracks/ibm-pc-at"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/eye-of-the-beholder-ibm-pc-at/Eye%20of%20the%20Beholder.png"
+  ],
+  "year": 1990,
+  "date_added": "2022-04-14T00:00:00+00:00",
+  "developers": {
+    "Westwood": "https://downloads.khinsider.com/game-soundtracks/developer/westwood"
+  },
+  "publishers": {
+    "Strategic Simulations": "https://downloads.khinsider.com/game-soundtracks/publisher/strategic-simulations"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1562378,
+      "filesize_mp3_bytes": 660602,
+      "track_number": 1,
+      "title": "Westwood Associates Logo",
+      "runtime": 33,
+      "source_mp3": "https://vgmsite.com/soundtracks/eye-of-the-beholder-ibm-pc-at/xqtxdfwvkl/01%20Westwood%20Associates%20Logo.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/eye-of-the-beholder-ibm-pc-at/xqtxdfwvkl/01%20Westwood%20Associates%20Logo.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/eye-of-the-beholder-ibm-pc-at/01%2520Westwood%2520Associates%2520Logo.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4383047,
+      "filesize_mp3_bytes": 1730150,
+      "track_number": 2,
+      "title": "Introduction Part 1",
+      "runtime": 91,
+      "source_mp3": "https://vgmsite.com/soundtracks/eye-of-the-beholder-ibm-pc-at/sjbfcapecb/02%20Introduction%20Part%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/eye-of-the-beholder-ibm-pc-at/sjbfcapecb/02%20Introduction%20Part%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/eye-of-the-beholder-ibm-pc-at/02%2520Introduction%2520Part%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1646264,
+      "filesize_mp3_bytes": 587202,
+      "track_number": 3,
+      "title": "Introduction Part 2",
+      "runtime": 32,
+      "source_mp3": "https://vgmsite.com/soundtracks/eye-of-the-beholder-ibm-pc-at/ghpzmxdiwu/03%20Introduction%20Part%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/eye-of-the-beholder-ibm-pc-at/ghpzmxdiwu/03%20Introduction%20Part%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/eye-of-the-beholder-ibm-pc-at/03%2520Introduction%2520Part%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8682209,
+      "filesize_mp3_bytes": 3963617,
+      "track_number": 4,
+      "title": "Character Generation",
+      "runtime": 215,
+      "source_mp3": "https://vgmsite.com/soundtracks/eye-of-the-beholder-ibm-pc-at/zyfcyffbys/04%20Character%20Generation.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/eye-of-the-beholder-ibm-pc-at/zyfcyffbys/04%20Character%20Generation.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/eye-of-the-beholder-ibm-pc-at/04%2520Character%2520Generation.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4141875,
+      "filesize_mp3_bytes": 1855979,
+      "track_number": 5,
+      "title": "Ending Theme",
+      "runtime": 102,
+      "source_mp3": "https://vgmsite.com/soundtracks/eye-of-the-beholder-ibm-pc-at/ksvlyuwnbz/05%20Ending%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/eye-of-the-beholder-ibm-pc-at/ksvlyuwnbz/05%20Ending%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/eye-of-the-beholder-ibm-pc-at/05%2520Ending%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 473,
+    "filesize_mp3_bytes": 8797550,
+    "filesize_flac_bytes": 20415773,
+    "tracks": 5
+  }
+}

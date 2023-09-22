@@ -1,0 +1,65 @@
+{
+  "title": "FIFA Soccer 64",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T23:55:01.729631+00:00",
+  "slug": "fifa-soccer-64-nintendo-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/fifa-soccer-64-nintendo-64",
+  "platforms": {
+    "N64": "https://downloads.khinsider.com/game-soundtracks/nintendo-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/fifa-soccer-64-nintendo-64/F1.jpg"
+  ],
+  "year": 1997,
+  "date_added": "2021-06-26T00:00:00+00:00",
+  "developers": {
+    "Extended Play Productions": "https://downloads.khinsider.com/game-soundtracks/developer/extended-play-productions"
+  },
+  "publishers": {
+    "EA": "https://downloads.khinsider.com/game-soundtracks/publisher/ea"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 30691819,
+      "filesize_mp3_bytes": 14124318,
+      "track_number": 1,
+      "title": "Blood on the Football Pitch",
+      "runtime": 398,
+      "source_mp3": "https://vgmsite.com/soundtracks/fifa-soccer-64-nintendo-64/eiuezdopvx/01%20-%20Blood%20on%20the%20Football%20Pitch.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/fifa-soccer-64-nintendo-64/eiuezdopvx/01%20-%20Blood%20on%20the%20Football%20Pitch.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fifa-soccer-64-nintendo-64/01%2520-%2520Blood%2520on%2520the%2520Football%2520Pitch.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 22659727,
+      "filesize_mp3_bytes": 10265559,
+      "track_number": 2,
+      "title": "Hugga Lilgirl",
+      "runtime": 298,
+      "source_mp3": "https://vgmsite.com/soundtracks/fifa-soccer-64-nintendo-64/tsavwwboic/02%20-%20Hugga%20Lilgirl.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/fifa-soccer-64-nintendo-64/tsavwwboic/02%20-%20Hugga%20Lilgirl.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fifa-soccer-64-nintendo-64/02%2520-%2520Hugga%2520Lilgirl.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 19702743,
+      "filesize_mp3_bytes": 8923381,
+      "track_number": 3,
+      "title": "Gangsta Penalty",
+      "runtime": 264,
+      "source_mp3": "https://vgmsite.com/soundtracks/fifa-soccer-64-nintendo-64/afivylbzup/03%20-%20Gangsta%20Penalty.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/fifa-soccer-64-nintendo-64/afivylbzup/03%20-%20Gangsta%20Penalty.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fifa-soccer-64-nintendo-64/03%2520-%2520Gangsta%2520Penalty.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 960,
+    "filesize_mp3_bytes": 33313258,
+    "filesize_flac_bytes": 73054289,
+    "tracks": 3
+  }
+}

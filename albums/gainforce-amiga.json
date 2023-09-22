@@ -1,0 +1,102 @@
+{
+  "title": "Gainforce",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T02:57:34.101059+00:00",
+  "slug": "gainforce-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/gainforce-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/gainforce-amiga/Gainforce.png"
+  ],
+  "year": 1993,
+  "date_added": "2018-03-19T00:00:00+00:00",
+  "developers": {
+    "Infernal Byte Systems": "https://downloads.khinsider.com/game-soundtracks/developer/infernal-byte-systems"
+  },
+  "publishers": {
+    "Amiga Fun": "https://downloads.khinsider.com/game-soundtracks/publisher/amiga-fun"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5473566,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 190,
+      "source_mp3": "https://vgmsite.com/soundtracks/gainforce-amiga/gflsdjop/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gainforce-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6501171,
+      "track_number": 2,
+      "title": "Mission Briefing",
+      "runtime": 217,
+      "source_mp3": "https://vgmsite.com/soundtracks/gainforce-amiga/savnoefm/02_Mission%20Briefing.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gainforce-amiga/02_Mission%2520Briefing.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6826229,
+      "track_number": 3,
+      "title": "Stage BGM #1",
+      "runtime": 224,
+      "source_mp3": "https://vgmsite.com/soundtracks/gainforce-amiga/ucjguech/03_Stage%20BGM%20%231.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gainforce-amiga/03_Stage%2520BGM%2520%25231.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5735710,
+      "track_number": 4,
+      "title": "Stage BGM #2",
+      "runtime": 203,
+      "source_mp3": "https://vgmsite.com/soundtracks/gainforce-amiga/knmqmvot/04_Stage%20BGM%20%232.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gainforce-amiga/04_Stage%2520BGM%2520%25232.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6752829,
+      "track_number": 5,
+      "title": "Stage BGM #3",
+      "runtime": 237,
+      "source_mp3": "https://vgmsite.com/soundtracks/gainforce-amiga/htjjnmwl/05_Stage%20BGM%20%233.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gainforce-amiga/05_Stage%2520BGM%2520%25233.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6081740,
+      "track_number": 6,
+      "title": "Ending",
+      "runtime": 196,
+      "source_mp3": "https://vgmsite.com/soundtracks/gainforce-amiga/ndeyqfim/06_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gainforce-amiga/06_Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4739563,
+      "track_number": 7,
+      "title": "Game Over  Name Entry",
+      "runtime": 166,
+      "source_mp3": "https://vgmsite.com/soundtracks/gainforce-amiga/hralasxw/07_Game%20Over%20%20Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gainforce-amiga/07_Game%2520Over%2520%2520Name%2520Entry.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1433,
+    "filesize_mp3_bytes": 42110808,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

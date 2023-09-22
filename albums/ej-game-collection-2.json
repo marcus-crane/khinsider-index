@@ -1,0 +1,81 @@
+{
+  "title": "EJ Game Collection 2",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T21:08:38.437874+00:00",
+  "slug": "ej-game-collection-2",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ej-game-collection-2",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ej-game-collection-2/EJ%20Game%20Collection%202.jpg"
+  ],
+  "year": 2004,
+  "catalog_number": "eJgc2-011",
+  "date_added": "2022-08-08T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "earth Japan SOFT": "https://downloads.khinsider.com/game-soundtracks/publisher/earth-japan-soft"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6700400,
+      "track_number": 1,
+      "title": "Nightmare of kamaitachi (Kamaitachi no Yoru~Main Theme)",
+      "runtime": 260,
+      "source_mp3": "https://vgmsite.com/soundtracks/ej-game-collection-2/cjyupvrkwx/01%20Nightmare%20of%20kamaitachi%20%28Kamaitachi%20no%20Yoru~Main%20Theme%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ej-game-collection-2/01%2520Nightmare%2520of%2520kamaitachi%2520%2528Kamaitachi%2520no%2520Yoru~Main%2520Theme%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5735710,
+      "track_number": 2,
+      "title": "Gyaba's last ambition (Contra Spirits~Stage 1)",
+      "runtime": 218,
+      "source_mp3": "https://vgmsite.com/soundtracks/ej-game-collection-2/lqofbphgkx/02%20Gyaba%27s%20last%20ambition%20%28Contra%20Spirits~Stage%201%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ej-game-collection-2/02%2520Gyaba%2527s%2520last%2520ambition%2520%2528Contra%2520Spirits~Stage%25201%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8713666,
+      "track_number": 3,
+      "title": "Filmoa (Actraiser)",
+      "runtime": 363,
+      "source_mp3": "https://vgmsite.com/soundtracks/ej-game-collection-2/jmgexjiwqq/03%20Filmoa%20%28Actraiser%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ej-game-collection-2/03%2520Filmoa%2520%2528Actraiser%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5022679,
+      "track_number": 4,
+      "title": "Empty Camouflage (Kamaitachi no Yoru~Pension Spur)",
+      "runtime": 238,
+      "source_mp3": "https://vgmsite.com/soundtracks/ej-game-collection-2/jqdboddbbn/04%20Empty%20Camouflage%20%28Kamaitachi%20no%20Yoru~Pension%20Spur%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ej-game-collection-2/04%2520Empty%2520Camouflage%2520%2528Kamaitachi%2520no%2520Yoru~Pension%2520Spur%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5578424,
+      "track_number": 5,
+      "title": "the Island of Everlasting Summer (Master Takahashi Super Adventure Island)",
+      "runtime": 246,
+      "source_mp3": "https://vgmsite.com/soundtracks/ej-game-collection-2/tivcpoqqic/05%20the%20Island%20of%20Everlasting%20Summer%20%28Master%20Takahashi%20Super%20Adventure%20Island%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ej-game-collection-2/05%2520the%2520Island%2520of%2520Everlasting%2520Summer%2520%2528Master%2520Takahashi%2520Super%2520Adventure%2520Island%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1325,
+    "filesize_mp3_bytes": 31750879,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

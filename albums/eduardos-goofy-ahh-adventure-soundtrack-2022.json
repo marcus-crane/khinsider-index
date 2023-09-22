@@ -1,0 +1,53 @@
+{
+  "title": "Eduardo's Goofy Ahh Adventure Soundtrack",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T21:04:37.259399+00:00",
+  "slug": "eduardos-goofy-ahh-adventure-soundtrack-2022",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/eduardos-goofy-ahh-adventure-soundtrack-2022",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/eduardos-goofy-ahh-adventure-soundtrack-2022/Album%20Cover.jpg"
+  ],
+  "year": 2022,
+  "date_added": "2023-05-16T00:00:00+00:00",
+  "developers": {
+    "NoiceDev": "https://downloads.khinsider.com/game-soundtracks/developer/noicedev"
+  },
+  "publishers": {
+    "NoiceDev": "https://downloads.khinsider.com/game-soundtracks/publisher/noicedev"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 796917,
+      "track_number": 1,
+      "title": "Main Menu",
+      "runtime": 33,
+      "source_mp3": "https://vgmsite.com/soundtracks/eduardos-goofy-ahh-adventure-soundtrack-2022/dfojsurymd/01.%20Main%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/eduardos-goofy-ahh-adventure-soundtrack-2022/01.%2520Main%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3743416,
+      "track_number": 2,
+      "title": "Overworld",
+      "runtime": 93,
+      "source_mp3": "https://vgmsite.com/soundtracks/eduardos-goofy-ahh-adventure-soundtrack-2022/mfdopmoxpg/02.%20Overworld.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/eduardos-goofy-ahh-adventure-soundtrack-2022/02.%2520Overworld.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 126,
+    "filesize_mp3_bytes": 4540333,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

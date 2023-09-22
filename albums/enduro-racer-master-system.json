@@ -1,0 +1,100 @@
+{
+  "title": "Enduro Racer",
+  "titles_alternative": [
+    "\u30a8\u30f3\u30c7\u30e5\u30fc\u30ed\u30ec\u30fc\u30b5\u30fc"
+  ],
+  "crawled_at": "2023-09-21T21:38:31.568512+00:00",
+  "slug": "enduro-racer-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/enduro-racer-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/enduro-racer-master-system/Enduro%20Racer.png"
+  ],
+  "year": 1987,
+  "date_added": "2020-07-08T00:00:00+00:00",
+  "developers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2789212,
+      "filesize_mp3_bytes": 954204,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/enduro-racer-master-system/sdlyedycxp/01%20-%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/enduro-racer-master-system/sdlyedycxp/01%20-%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/enduro-racer-master-system/01%2520-%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4162846,
+      "filesize_mp3_bytes": 1625292,
+      "track_number": 2,
+      "title": "BGM 1",
+      "runtime": 82,
+      "source_mp3": "https://vgmsite.com/soundtracks/enduro-racer-master-system/najqtrostv/02%20-%20BGM%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/enduro-racer-master-system/najqtrostv/02%20-%20BGM%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/enduro-racer-master-system/02%2520-%2520BGM%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 125829,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 3,
+      "title": "End of Race",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/enduro-racer-master-system/geottsiquy/03%20-%20End%20of%20Race.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/enduro-racer-master-system/geottsiquy/03%20-%20End%20of%20Race.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/enduro-racer-master-system/03%2520-%2520End%2520of%2520Race.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 408944,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 4,
+      "title": "Results",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/enduro-racer-master-system/kzvwmhinax/04%20-%20Results.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/enduro-racer-master-system/kzvwmhinax/04%20-%20Results.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/enduro-racer-master-system/04%2520-%2520Results.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4708106,
+      "filesize_mp3_bytes": 1793064,
+      "track_number": 5,
+      "title": "BGM 2",
+      "runtime": 89,
+      "source_mp3": "https://vgmsite.com/soundtracks/enduro-racer-master-system/eobsqhsvek/05%20-%20BGM%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/enduro-racer-master-system/eobsqhsvek/05%20-%20BGM%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/enduro-racer-master-system/05%2520-%2520BGM%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6501171,
+      "filesize_mp3_bytes": 2118123,
+      "track_number": 6,
+      "title": "Ending",
+      "runtime": 112,
+      "source_mp3": "https://vgmsite.com/soundtracks/enduro-racer-master-system/lqvzwariqn/06%20-%20Ending.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/enduro-racer-master-system/lqvzwariqn/06%20-%20Ending.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/enduro-racer-master-system/06%2520-%2520Ending.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 340,
+    "filesize_mp3_bytes": 6679426,
+    "filesize_flac_bytes": 18696108,
+    "tracks": 6
+  }
+}

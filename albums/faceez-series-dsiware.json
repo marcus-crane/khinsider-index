@@ -1,0 +1,57 @@
+{
+  "title": "Faceez Series (DSiWare)",
+  "titles_alternative": [
+    "\u3042\u305f\u307e\u3054\u30b7\u30ea\u30fc\u30ba"
+  ],
+  "crawled_at": "2023-09-21T22:46:31.939925+00:00",
+  "slug": "faceez-series-dsiware",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/faceez-series-dsiware",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/faceez-series-dsiware/cover.png"
+  ],
+  "year": 2010,
+  "date_added": "2021-02-11T00:00:00+00:00",
+  "developers": {
+    "Neko": "https://downloads.khinsider.com/game-soundtracks/developer/neko"
+  },
+  "publishers": {
+    "Intergrow": "https://downloads.khinsider.com/game-soundtracks/publisher/intergrow",
+    "Neko": "https://downloads.khinsider.com/game-soundtracks/publisher/neko"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 45057310,
+      "filesize_mp3_bytes": 16640901,
+      "track_number": 1,
+      "title": "Faceez",
+      "runtime": 530,
+      "source_mp3": "https://vgmsite.com/soundtracks/faceez-series-dsiware/qhojvabofc/1.%20Faceez.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/faceez-series-dsiware/qhojvabofc/1.%20Faceez.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/faceez-series-dsiware/1.%2520Faceez.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 25312624,
+      "filesize_mp3_bytes": 11125391,
+      "track_number": 2,
+      "title": "Faceez Monsters!",
+      "runtime": 394,
+      "source_mp3": "https://vgmsite.com/soundtracks/faceez-series-dsiware/jeasejimlv/2.%20Faceez%20Monsters%21.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/faceez-series-dsiware/jeasejimlv/2.%20Faceez%20Monsters%21.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/faceez-series-dsiware/2.%2520Faceez%2520Monsters%2521.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 924,
+    "filesize_mp3_bytes": 27766292,
+    "filesize_flac_bytes": 70369934,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "title": "Faceball 2000",
+  "titles_alternative": [
+    "\u30d5\u30a7\u30a4\u30b9\u30dc\u30fc\u30eb\uff12\uff10\uff10\uff10"
+  ],
+  "crawled_at": "2023-09-21T22:46:22.372154+00:00",
+  "slug": "faceball-2000-game-gear",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/faceball-2000-game-gear",
+  "platforms": {
+    "Game Gear": "https://downloads.khinsider.com/game-soundtracks/sega-game-gear"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/faceball-2000-game-gear/Faceball%202000%20%28Japan%29.png"
+  ],
+  "year": 1993,
+  "date_added": "2020-07-08T00:00:00+00:00",
+  "developers": {
+    "Xanth": "https://downloads.khinsider.com/game-soundtracks/developer/xanth"
+  },
+  "publishers": {
+    "Riverhill Soft": "https://downloads.khinsider.com/game-soundtracks/publisher/riverhill-soft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11031019,
+      "filesize_mp3_bytes": 3753902,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/faceball-2000-game-gear/vqhfmgnhhh/01%20Title.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/faceball-2000-game-gear/vqhfmgnhhh/01%20Title.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/faceball-2000-game-gear/01%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10611589,
+      "filesize_mp3_bytes": 3575644,
+      "track_number": 2,
+      "title": "Cyberscape & Arena",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/faceball-2000-game-gear/xnelzjkoxa/02%20Cyberscape%20%26%20Arena.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/faceball-2000-game-gear/xnelzjkoxa/02%20Cyberscape%20%26%20Arena.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/faceball-2000-game-gear/02%2520Cyberscape%2520%2526%2520Arena.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 408944,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 3,
+      "title": "Level Completed & You Win!",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/faceball-2000-game-gear/tmdunsnanx/03%20Level%20Completed%20%26%20You%20Win%21.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/faceball-2000-game-gear/tmdunsnanx/03%20Level%20Completed%20%26%20You%20Win%21.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/faceball-2000-game-gear/03%2520Level%2520Completed%2520%2526%2520You%2520Win%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 272629,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/faceball-2000-game-gear/vffwenfhxm/04%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/faceball-2000-game-gear/vffwenfhxm/04%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/faceball-2000-game-gear/04%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 372,
+    "filesize_mp3_bytes": 7560231,
+    "filesize_flac_bytes": 22324181,
+    "tracks": 4
+  }
+}

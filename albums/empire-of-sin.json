@@ -1,0 +1,46 @@
+{
+  "title": "Empire of Sin",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T21:28:59.396804+00:00",
+  "slug": "empire-of-sin",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/empire-of-sin",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/empire-of-sin/Cover.jpg"
+  ],
+  "year": 2019,
+  "date_added": "2021-08-14T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8787066,
+      "filesize_mp3_bytes": 3198156,
+      "track_number": 1,
+      "title": "Empire Of Sin",
+      "runtime": 92,
+      "source_mp3": "https://vgmsite.com/soundtracks/empire-of-sin/wminpzjojz/01.%20Empire%20Of%20Sin.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/empire-of-sin/wminpzjojz/01.%20Empire%20Of%20Sin.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/empire-of-sin/01.%2520Empire%2520Of%2520Sin.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7969177,
+      "filesize_mp3_bytes": 3051356,
+      "track_number": 2,
+      "title": "Empire Of Sin (Instrumental)",
+      "runtime": 87,
+      "source_mp3": "https://vgmsite.com/soundtracks/empire-of-sin/evnmvfnrzz/02.%20Empire%20Of%20Sin%20%28Instrumental%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/empire-of-sin/evnmvfnrzz/02.%20Empire%20Of%20Sin%20%28Instrumental%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/empire-of-sin/02.%2520Empire%2520Of%2520Sin%2520%2528Instrumental%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 179,
+    "filesize_mp3_bytes": 6249512,
+    "filesize_flac_bytes": 16756243,
+    "tracks": 2
+  }
+}

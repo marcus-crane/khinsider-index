@@ -1,0 +1,38 @@
+{
+  "title": "European Champions",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T22:09:16.613246+00:00",
+  "slug": "european-champions-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/european-champions-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/european-champions-amiga/European%20Champions.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2017-06-25T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5756682,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 214,
+      "source_mp3": "https://vgmsite.com/soundtracks/european-champions-amiga/nusafkgu/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/european-champions-amiga/01_Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 214,
+    "filesize_mp3_bytes": 5756682,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

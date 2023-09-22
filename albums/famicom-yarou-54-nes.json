@@ -1,0 +1,38 @@
+{
+  "title": "Famicom Yarou 54",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T23:06:23.743345+00:00",
+  "slug": "famicom-yarou-54-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/famicom-yarou-54-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/famicom-yarou-54-nes/Famicom%20Yarou%2054.png"
+  ],
+  "date_added": "2022-06-18T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1488977,
+      "filesize_mp3_bytes": 576716,
+      "track_number": 1,
+      "title": "Menu",
+      "runtime": 29,
+      "source_mp3": "https://vgmsite.com/soundtracks/famicom-yarou-54-nes/aqcyzvliop/01%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/famicom-yarou-54-nes/aqcyzvliop/01%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/famicom-yarou-54-nes/01%2520Menu.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 29,
+    "filesize_mp3_bytes": 576716,
+    "filesize_flac_bytes": 1488977,
+    "tracks": 1
+  }
+}

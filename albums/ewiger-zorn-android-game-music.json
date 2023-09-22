@@ -1,0 +1,55 @@
+{
+  "title": "Ewiger Zorn (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T22:24:15.923228+00:00",
+  "slug": "ewiger-zorn-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ewiger-zorn-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ewiger-zorn-android-game-music/1.jpg"
+  ],
+  "date_added": "2017-11-24T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 608174,
+      "track_number": 1,
+      "title": "login",
+      "runtime": 38,
+      "source_mp3": "https://vgmsite.com/soundtracks/ewiger-zorn-android-game-music/kwfkwufc/1%20login.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ewiger-zorn-android-game-music/1%2520login.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 566231,
+      "track_number": 2,
+      "title": "story",
+      "runtime": 35,
+      "source_mp3": "https://vgmsite.com/soundtracks/ewiger-zorn-android-game-music/pewauskt/2%20story.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ewiger-zorn-android-game-music/2%2520story.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 503316,
+      "track_number": 3,
+      "title": "fight",
+      "runtime": 31,
+      "source_mp3": "https://vgmsite.com/soundtracks/ewiger-zorn-android-game-music/ijvjiwnj/3%20fight.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ewiger-zorn-android-game-music/3%2520fight.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 104,
+    "filesize_mp3_bytes": 1677721,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

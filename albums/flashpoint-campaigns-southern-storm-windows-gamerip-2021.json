@@ -1,0 +1,50 @@
+{
+  "title": "Flashpoint Campaigns: Southern Storm",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T00:55:28.962796+00:00",
+  "slug": "flashpoint-campaigns-southern-storm-windows-gamerip-2021",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/flashpoint-campaigns-southern-storm-windows-gamerip-2021",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/flashpoint-campaigns-southern-storm-windows-gamerip-2021/Coming-Soon-Souther-Storm-Header-Image.png"
+  ],
+  "year": 2021,
+  "date_added": "2022-11-22T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 14858321,
+      "filesize_mp3_bytes": 4645191,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 142,
+      "source_mp3": "https://vgmsite.com/soundtracks/flashpoint-campaigns-southern-storm-windows-gamerip-2021/uufkofnwam/01%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/flashpoint-campaigns-southern-storm-windows-gamerip-2021/uufkofnwam/01%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/flashpoint-campaigns-southern-storm-windows-gamerip-2021/01%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 13967032,
+      "filesize_mp3_bytes": 4424990,
+      "track_number": 2,
+      "title": "End Theme",
+      "runtime": 136,
+      "source_mp3": "https://vgmsite.com/soundtracks/flashpoint-campaigns-southern-storm-windows-gamerip-2021/kwlxazwgkf/02%20End%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/flashpoint-campaigns-southern-storm-windows-gamerip-2021/kwlxazwgkf/02%20End%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/flashpoint-campaigns-southern-storm-windows-gamerip-2021/02%2520End%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 278,
+    "filesize_mp3_bytes": 9070181,
+    "filesize_flac_bytes": 28825353,
+    "tracks": 2
+  }
+}

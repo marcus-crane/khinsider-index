@@ -1,0 +1,43 @@
+{
+  "title": "Fallen Souls (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T22:55:27.094586+00:00",
+  "slug": "fallen-souls-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/fallen-souls-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/fallen-souls-android-game-music/1.jpg"
+  ],
+  "date_added": "2016-06-25T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1352663,
+      "title": "background",
+      "runtime": 56,
+      "source_mp3": "https://vgmsite.com/soundtracks/fallen-souls-android-game-music/bcirosyl/background.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fallen-souls-android-game-music/background.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1457520,
+      "title": "battle",
+      "runtime": 61,
+      "source_mp3": "https://vgmsite.com/soundtracks/fallen-souls-android-game-music/hfogmpon/battle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fallen-souls-android-game-music/battle.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 117,
+    "filesize_mp3_bytes": 2810183,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

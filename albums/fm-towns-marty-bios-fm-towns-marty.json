@@ -1,0 +1,45 @@
+{
+  "title": "FM Towns Marty BIOS (FM Towns Marty)",
+  "titles_alternative": [
+    "\u30a8\u30d5\u30a8\u30e0\u30bf\u30a6\u30f3\u30ba\u30de\u30fc\u30c6\u30a3\u30fc"
+  ],
+  "crawled_at": "2023-09-22T01:05:31.619116+00:00",
+  "slug": "fm-towns-marty-bios-fm-towns-marty",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/fm-towns-marty-bios-fm-towns-marty",
+  "platforms": {
+    "FM Towns": "https://downloads.khinsider.com/game-soundtracks/fm-towns"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/fm-towns-marty-bios-fm-towns-marty/Car%20Marty%20BIOS.png"
+  ],
+  "year": 1993,
+  "date_added": "2022-04-21T00:00:00+00:00",
+  "developers": {
+    "Fujitsu": "https://downloads.khinsider.com/game-soundtracks/developer/fujitsu"
+  },
+  "publishers": {
+    "Fujitsu": "https://downloads.khinsider.com/game-soundtracks/publisher/fujitsu"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7140802,
+      "filesize_mp3_bytes": 2621440,
+      "track_number": 1,
+      "title": "Startup Music",
+      "runtime": 76,
+      "source_mp3": "https://vgmsite.com/soundtracks/fm-towns-marty-bios-fm-towns-marty/axfduzbcea/01%20Startup%20Music.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/fm-towns-marty-bios-fm-towns-marty/axfduzbcea/01%20Startup%20Music.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fm-towns-marty-bios-fm-towns-marty/01%2520Startup%2520Music.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 76,
+    "filesize_mp3_bytes": 2621440,
+    "filesize_flac_bytes": 7140802,
+    "tracks": 1
+  }
+}

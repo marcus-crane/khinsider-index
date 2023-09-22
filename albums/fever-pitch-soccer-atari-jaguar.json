@@ -1,0 +1,55 @@
+{
+  "title": "Fever Pitch Soccer",
+  "titles_alternative": [
+    "Head-On Soccer",
+    "Mario Basler: Jetzt geht's los!"
+  ],
+  "crawled_at": "2023-09-21T23:52:25.561593+00:00",
+  "slug": "fever-pitch-soccer-atari-jaguar",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/fever-pitch-soccer-atari-jaguar",
+  "platforms": {
+    "Atari Jaguar": "https://downloads.khinsider.com/game-soundtracks/atari-jaguar"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/fever-pitch-soccer-atari-jaguar/Fever%20Pitch%20Soccer%20Atari%20Jaguar%20full%20cover.jpg"
+  ],
+  "year": 1995,
+  "date_added": "2020-09-27T00:00:00+00:00",
+  "developers": {
+    "Distinctive Developments": "https://downloads.khinsider.com/game-soundtracks/developer/distinctive-developments"
+  },
+  "publishers": {
+    "Atari": "https://downloads.khinsider.com/game-soundtracks/publisher/atari"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3701473,
+      "track_number": 1,
+      "title": "Intro Theme",
+      "runtime": 92,
+      "source_mp3": "https://vgmsite.com/soundtracks/fever-pitch-soccer-atari-jaguar/lpzydjdkms/1.%20Intro%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fever-pitch-soccer-atari-jaguar/1.%2520Intro%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 461373,
+      "track_number": 2,
+      "title": "Goal",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/fever-pitch-soccer-atari-jaguar/fbrlinqnri/2.%20Goal.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fever-pitch-soccer-atari-jaguar/2.%2520Goal.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 103,
+    "filesize_mp3_bytes": 4162846,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

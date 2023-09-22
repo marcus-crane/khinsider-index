@@ -1,0 +1,65 @@
+{
+  "title": "Farmtopia",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T23:35:28.997557+00:00",
+  "slug": "farmtopia-2010-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/farmtopia-2010-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/farmtopia-2010-nds-gamerip/Farmtopia.jpg"
+  ],
+  "year": 2010,
+  "date_added": "2020-06-08T00:00:00+00:00",
+  "developers": {
+    "505 Games": "https://downloads.khinsider.com/game-soundtracks/developer/505"
+  },
+  "publishers": {
+    "505": "https://downloads.khinsider.com/game-soundtracks/publisher/505"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 17479761,
+      "filesize_mp3_bytes": 5997854,
+      "track_number": 1,
+      "title": "Menu Music",
+      "runtime": 205,
+      "source_mp3": "https://vgmsite.com/soundtracks/farmtopia-2010-nds-gamerip/tjyjazuuit/01%20Menu%20Music.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/farmtopia-2010-nds-gamerip/tjyjazuuit/01%20Menu%20Music.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/farmtopia-2010-nds-gamerip/01%2520Menu%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 14396948,
+      "filesize_mp3_bytes": 5305794,
+      "track_number": 2,
+      "title": "Game Music",
+      "runtime": 182,
+      "source_mp3": "https://vgmsite.com/soundtracks/farmtopia-2010-nds-gamerip/eoymwrjklm/02%20Game%20Music.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/farmtopia-2010-nds-gamerip/eoymwrjklm/02%20Game%20Music.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/farmtopia-2010-nds-gamerip/02%2520Game%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 587202,
+      "filesize_mp3_bytes": 209715,
+      "track_number": 3,
+      "title": "Level Complete",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/farmtopia-2010-nds-gamerip/lvdvowlvxy/03%20Level%20Complete.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/farmtopia-2010-nds-gamerip/lvdvowlvxy/03%20Level%20Complete.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/farmtopia-2010-nds-gamerip/03%2520Level%2520Complete.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 394,
+    "filesize_mp3_bytes": 11513363,
+    "filesize_flac_bytes": 32463911,
+    "tracks": 3
+  }
+}

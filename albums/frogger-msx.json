@@ -1,0 +1,101 @@
+{
+  "title": "Frogger",
+  "titles_alternative": [
+    "Frogger: He's Back!",
+    "\u30d5\u30ed\u30c3\u30ac\u30fc"
+  ],
+  "crawled_at": "2023-09-22T02:23:58.662875+00:00",
+  "slug": "frogger-msx",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/frogger-msx",
+  "platforms": {
+    "MSX": "https://downloads.khinsider.com/game-soundtracks/msx"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/frogger-msx/F1.jpg"
+  ],
+  "year": 1983,
+  "date_added": "2022-04-21T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami"
+  },
+  "publishers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 262144,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 1,
+      "title": "Play Start",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/frogger-msx/sryuwcdpgu/01%20Play%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/frogger-msx/sryuwcdpgu/01%20Play%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/frogger-msx/01%2520Play%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20971,
+      "filesize_mp3_bytes": 10485,
+      "track_number": 2,
+      "title": "Dead",
+      "runtime": 0,
+      "source_mp3": "https://vgmsite.com/soundtracks/frogger-msx/hqzdqleonj/02%20Dead.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/frogger-msx/hqzdqleonj/02%20Dead.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/frogger-msx/02%2520Dead.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 52428,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 3,
+      "title": "Time Alert",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/frogger-msx/loqtxceymc/03%20Time%20Alert.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/frogger-msx/loqtxceymc/03%20Time%20Alert.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/frogger-msx/03%2520Time%2520Alert.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 220200,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 4,
+      "title": "Next Stage",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/frogger-msx/zwjhtjdgmv/04%20Next%20Stage.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/frogger-msx/zwjhtjdgmv/04%20Next%20Stage.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/frogger-msx/04%2520Next%2520Stage.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 104857,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 5,
+      "title": "Sirene",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/frogger-msx/wlzivhtlic/05%20Sirene.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/frogger-msx/wlzivhtlic/05%20Sirene.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/frogger-msx/05%2520Sirene.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 115343,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 6,
+      "title": "Game Over",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/frogger-msx/fhefmqcjdr/06%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/frogger-msx/fhefmqcjdr/06%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/frogger-msx/06%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 18,
+    "filesize_mp3_bytes": 356513,
+    "filesize_flac_bytes": 775943,
+    "tracks": 6
+  }
+}

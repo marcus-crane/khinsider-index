@@ -1,0 +1,62 @@
+{
+  "title": "FPS Chess",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T01:27:14.926926+00:00",
+  "slug": "fps-chess-windows-gamerip-2022",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/fps-chess-windows-gamerip-2022",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/fps-chess-windows-gamerip-2022/fpsc_1.jpg"
+  ],
+  "year": 2022,
+  "date_added": "2023-07-11T00:00:00+00:00",
+  "developers": {
+    "Meta Fork": "https://downloads.khinsider.com/game-soundtracks/developer/meta-fork"
+  },
+  "publishers": {
+    "DigiPen Institute of Technology": "https://downloads.khinsider.com/game-soundtracks/publisher/digipen-institute-of-technology"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 188743,
+      "track_number": 1,
+      "title": "Menu",
+      "runtime": 14,
+      "source_mp3": "https://vgmsite.com/soundtracks/fps-chess-windows-gamerip-2022/gusqtzzwko/1.%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fps-chess-windows-gamerip-2022/1.%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 618659,
+      "track_number": 2,
+      "title": "Classical BGM",
+      "runtime": 35,
+      "source_mp3": "https://vgmsite.com/soundtracks/fps-chess-windows-gamerip-2022/uorivdeepz/2.%20Classical%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fps-chess-windows-gamerip-2022/2.%2520Classical%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 954204,
+      "track_number": 3,
+      "title": "Combat BGM",
+      "runtime": 35,
+      "source_mp3": "https://vgmsite.com/soundtracks/fps-chess-windows-gamerip-2022/rlswodgwpo/3.%20Combat%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fps-chess-windows-gamerip-2022/3.%2520Combat%2520BGM.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 84,
+    "filesize_mp3_bytes": 1761606,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Fascination",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T23:35:35.198347+00:00",
+  "slug": "fascination-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/fascination-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/fascination-amiga/Fascination.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2018-02-08T00:00:00+00:00",
+  "developers": {
+    "Coktel Vision": "https://downloads.khinsider.com/game-soundtracks/developer/coktel-vision"
+  },
+  "publishers": {
+    "Coktel Vision": "https://downloads.khinsider.com/game-soundtracks/publisher/coktel-vision"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 30104616,
+      "track_number": 1,
+      "title": "Sea of Love",
+      "runtime": 1064,
+      "source_mp3": "https://vgmsite.com/soundtracks/fascination-amiga/kspozefh/01_Sea%20of%20Love.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fascination-amiga/01_Sea%2520of%2520Love.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1064,
+    "filesize_mp3_bytes": 30104616,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

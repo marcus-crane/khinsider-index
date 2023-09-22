@@ -1,0 +1,52 @@
+{
+  "title": "Eggheads",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T21:05:21.694806+00:00",
+  "slug": "eggheads-2011-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/eggheads-2011-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/eggheads-2011-nds-gamerip/E1.png"
+  ],
+  "year": 2011,
+  "date_added": "2020-06-05T00:00:00+00:00",
+  "developers": {
+    "Bulkypix": "https://downloads.khinsider.com/game-soundtracks/developer/bulkypix"
+  },
+  "publishers": {
+    "Avanquest": "https://downloads.khinsider.com/game-soundtracks/publisher/avanquest"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1132462,
+      "filesize_mp3_bytes": 346030,
+      "title": "Theme 00",
+      "runtime": 29,
+      "source_mp3": "https://vgmsite.com/soundtracks/eggheads-2011-nds-gamerip/fiaipxpxff/Theme%2000.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/eggheads-2011-nds-gamerip/fiaipxpxff/Theme%2000.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/eggheads-2011-nds-gamerip/Theme%252000.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 335544,
+      "filesize_mp3_bytes": 104857,
+      "title": "Theme 01",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/eggheads-2011-nds-gamerip/opckinxklm/Theme%2001.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/eggheads-2011-nds-gamerip/opckinxklm/Theme%2001.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/eggheads-2011-nds-gamerip/Theme%252001.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 37,
+    "filesize_mp3_bytes": 450887,
+    "filesize_flac_bytes": 1468006,
+    "tracks": 2
+  }
+}

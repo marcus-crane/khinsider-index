@@ -1,0 +1,87 @@
+{
+  "title": "Friday the 13th (HD)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T02:21:31.197855+00:00",
+  "slug": "friday-the-13th-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/friday-the-13th-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/friday-the-13th-nes/Friday%20the%2013th.png"
+  ],
+  "year": 1989,
+  "date_added": "2022-06-20T00:00:00+00:00",
+  "developers": {
+    "Atlus": "https://downloads.khinsider.com/game-soundtracks/developer/atlus"
+  },
+  "publishers": {
+    "LJN": "https://downloads.khinsider.com/game-soundtracks/publisher/ljn"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 62914,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 1,
+      "title": "Main Title",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/friday-the-13th-nes/iixlslfyxh/01%20Main%20Title.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/friday-the-13th-nes/iixlslfyxh/01%20Main%20Title.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/friday-the-13th-nes/01%2520Main%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5106565,
+      "filesize_mp3_bytes": 1814036,
+      "track_number": 2,
+      "title": "Player Select, Inside a Cabin",
+      "runtime": 100,
+      "source_mp3": "https://vgmsite.com/soundtracks/friday-the-13th-nes/ntregsxjkc/02%20Player%20Select%2C%20Inside%20a%20Cabin.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/friday-the-13th-nes/ntregsxjkc/02%20Player%20Select%2C%20Inside%20a%20Cabin.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/friday-the-13th-nes/02%2520Player%2520Select%252C%2520Inside%2520a%2520Cabin.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 723517,
+      "filesize_mp3_bytes": 377487,
+      "track_number": 3,
+      "title": "Walking Around",
+      "runtime": 19,
+      "source_mp3": "https://vgmsite.com/soundtracks/friday-the-13th-nes/wgoojjxosv/03%20Walking%20Around.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/friday-the-13th-nes/wgoojjxosv/03%20Walking%20Around.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/friday-the-13th-nes/03%2520Walking%2520Around.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 597688,
+      "filesize_mp3_bytes": 314572,
+      "track_number": 4,
+      "title": "Battling Jason",
+      "runtime": 16,
+      "source_mp3": "https://vgmsite.com/soundtracks/friday-the-13th-nes/bzgjukyaii/04%20Battling%20Jason.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/friday-the-13th-nes/bzgjukyaii/04%20Battling%20Jason.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/friday-the-13th-nes/04%2520Battling%2520Jason.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 671088,
+      "filesize_mp3_bytes": 293601,
+      "track_number": 5,
+      "title": "Jason Defeated",
+      "runtime": 17,
+      "source_mp3": "https://vgmsite.com/soundtracks/friday-the-13th-nes/pwtmzttzva/05%20Jason%20Defeated.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/friday-the-13th-nes/pwtmzttzva/05%20Jason%20Defeated.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/friday-the-13th-nes/05%2520Jason%2520Defeated.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 154,
+    "filesize_mp3_bytes": 2831153,
+    "filesize_flac_bytes": 7161772,
+    "tracks": 5
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "title": "Fist Fighter",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T00:46:53.078448+00:00",
+  "slug": "fist-fighter-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/fist-fighter-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/fist-fighter-amiga/31755_front.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2021-03-18T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5200936,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 256,
+      "source_mp3": "https://vgmsite.com/soundtracks/fist-fighter-amiga/dozhoadcqn/01%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fist-fighter-amiga/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6543114,
+      "track_number": 2,
+      "title": "InGame BGM",
+      "runtime": 323,
+      "source_mp3": "https://vgmsite.com/soundtracks/fist-fighter-amiga/ydiwccnfcl/02%20InGame%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fist-fighter-amiga/02%2520InGame%2520BGM.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 579,
+    "filesize_mp3_bytes": 11744050,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "title": "Electro Man",
+  "titles_alternative": [
+    "Electro Body"
+  ],
+  "crawled_at": "2023-09-21T21:12:16.938430+00:00",
+  "slug": "electro-man-1993-dos",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/electro-man-1993-dos",
+  "platforms": {
+    "MS-DOS": "https://downloads.khinsider.com/game-soundtracks/ms-dos"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/electro-man-1993-dos/Electro_Man_Coverart.png"
+  ],
+  "year": 1993,
+  "date_added": "2021-05-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 14753464,
+      "filesize_mp3_bytes": 6354370,
+      "track_number": 1,
+      "title": "Menu (Loop)",
+      "runtime": 272,
+      "source_mp3": "https://vgmsite.com/soundtracks/electro-man-1993-dos/cwivjekcvo/01.%20Menu%20%28Loop%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/electro-man-1993-dos/cwivjekcvo/01.%20Menu%20%28Loop%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/electro-man-1993-dos/01.%2520Menu%2520%2528Loop%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7004487,
+      "filesize_mp3_bytes": 2904555,
+      "track_number": 2,
+      "title": "Level Completed (Loop)",
+      "runtime": 135,
+      "source_mp3": "https://vgmsite.com/soundtracks/electro-man-1993-dos/rfynlmdklp/02.%20Level%20Completed%20%28Loop%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/electro-man-1993-dos/rfynlmdklp/02.%20Level%20Completed%20%28Loop%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/electro-man-1993-dos/02.%2520Level%2520Completed%2520%2528Loop%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6899630,
+      "filesize_mp3_bytes": 2967470,
+      "track_number": 3,
+      "title": "Game Completed (Loop)",
+      "runtime": 124,
+      "source_mp3": "https://vgmsite.com/soundtracks/electro-man-1993-dos/ctriqyntlf/03.%20Game%20Completed%20%28Loop%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/electro-man-1993-dos/ctriqyntlf/03.%20Game%20Completed%20%28Loop%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/electro-man-1993-dos/03.%2520Game%2520Completed%2520%2528Loop%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 531,
+    "filesize_mp3_bytes": 12226395,
+    "filesize_flac_bytes": 28657581,
+    "tracks": 3
+  }
+}

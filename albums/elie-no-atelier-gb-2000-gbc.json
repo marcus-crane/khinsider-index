@@ -1,0 +1,90 @@
+{
+  "title": "Elie no Atelier GB (GBC)",
+  "titles_alternative": [
+    "\u30a8\u30ea\u30fc\u306e\u30a2\u30c8\u30ea\u30a8GB"
+  ],
+  "crawled_at": "2023-09-21T21:15:41.167318+00:00",
+  "slug": "elie-no-atelier-gb-2000-gbc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/elie-no-atelier-gb-2000-gbc",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/elie-no-atelier-gb-2000-gbc/Elie%20no%20Atelier%20GB.jpg"
+  ],
+  "year": 2000,
+  "date_added": "2022-04-07T00:00:00+00:00",
+  "developers": {
+    "Gust": "https://downloads.khinsider.com/game-soundtracks/developer/gust",
+    "Tose": "https://downloads.khinsider.com/game-soundtracks/developer/tose"
+  },
+  "publishers": {
+    "Imagineer": "https://downloads.khinsider.com/game-soundtracks/publisher/imagineer"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10852761,
+      "filesize_mp3_bytes": 3649044,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/elie-no-atelier-gb-2000-gbc/xjajlqakna/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/elie-no-atelier-gb-2000-gbc/xjajlqakna/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/elie-no-atelier-gb-2000-gbc/01%2520BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 16210984,
+      "filesize_mp3_bytes": 4603248,
+      "track_number": 2,
+      "title": "BGM #02",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/elie-no-atelier-gb-2000-gbc/rxlkplzfjb/02%20BGM%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/elie-no-atelier-gb-2000-gbc/rxlkplzfjb/02%20BGM%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/elie-no-atelier-gb-2000-gbc/02%2520BGM%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3638558,
+      "filesize_mp3_bytes": 1059061,
+      "track_number": 3,
+      "title": "BGM #03",
+      "runtime": 58,
+      "source_mp3": "https://vgmsite.com/soundtracks/elie-no-atelier-gb-2000-gbc/dxxnpjipek/03%20BGM%20%2303.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/elie-no-atelier-gb-2000-gbc/dxxnpjipek/03%20BGM%20%2303.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/elie-no-atelier-gb-2000-gbc/03%2520BGM%2520%252303.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10978590,
+      "filesize_mp3_bytes": 3460300,
+      "track_number": 4,
+      "title": "BGM #04",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/elie-no-atelier-gb-2000-gbc/johzqpqcdw/04%20BGM%20%2304.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/elie-no-atelier-gb-2000-gbc/johzqpqcdw/04%20BGM%20%2304.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/elie-no-atelier-gb-2000-gbc/04%2520BGM%2520%252304.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10957619,
+      "filesize_mp3_bytes": 3617587,
+      "track_number": 5,
+      "title": "BGM #05",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/elie-no-atelier-gb-2000-gbc/dbzbnpdkfk/05%20BGM%20%2305.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/elie-no-atelier-gb-2000-gbc/dbzbnpdkfk/05%20BGM%20%2305.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/elie-no-atelier-gb-2000-gbc/05%2520BGM%2520%252305.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 778,
+    "filesize_mp3_bytes": 16389240,
+    "filesize_flac_bytes": 52638512,
+    "tracks": 5
+  }
+}

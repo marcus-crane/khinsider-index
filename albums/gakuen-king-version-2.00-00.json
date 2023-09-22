@@ -1,0 +1,71 @@
+{
+  "title": "GAKUEN KING VERSION 2.00-00",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T03:00:01.605804+00:00",
+  "slug": "gakuen-king-version-2.00-00",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/gakuen-king-version-2.00-00",
+  "platforms": {
+    "PC-98": "https://downloads.khinsider.com/game-soundtracks/pc-9801"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/gakuen-king-version-2.00-00/Cover.jpg"
+  ],
+  "year": 1996,
+  "catalog_number": "ALO-001",
+  "date_added": "2020-10-07T00:00:00+00:00",
+  "developers": {
+    "ALICESOFT": "https://downloads.khinsider.com/game-soundtracks/developer/alicesoft"
+  },
+  "publishers": {},
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10999562,
+      "track_number": 1,
+      "title": "WELCOME to GAKUEN GROOVE extend hard mix",
+      "runtime": 275,
+      "source_mp3": "https://vgmsite.com/soundtracks/gakuen-king-version-2.00-00/vojzvzyanm/01%20-%20WELCOME%20to%20GAKUEN%20GROOVE%20extend%20hard%20mix.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gakuen-king-version-2.00-00/01%2520-%2520WELCOME%2520to%2520GAKUEN%2520GROOVE%2520extend%2520hard%2520mix.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9762242,
+      "track_number": 2,
+      "title": "NICE GUY house jazz mix",
+      "runtime": 244,
+      "source_mp3": "https://vgmsite.com/soundtracks/gakuen-king-version-2.00-00/bfwqwpqghg/02%20-%20NICE%20GUY%20house%20jazz%20mix.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gakuen-king-version-2.00-00/02%2520-%2520NICE%2520GUY%2520house%2520jazz%2520mix.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10936647,
+      "track_number": 3,
+      "title": "HOLD ON ME '96 lovers' mix",
+      "runtime": 273,
+      "source_mp3": "https://vgmsite.com/soundtracks/gakuen-king-version-2.00-00/qyjyovwfgc/03%20-%20HOLD%20ON%20ME%20%2796%20lovers%27%20mix.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gakuen-king-version-2.00-00/03%2520-%2520HOLD%2520ON%2520ME%2520%252796%2520lovers%2527%2520mix.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5232394,
+      "track_number": 4,
+      "title": "[Untitled]",
+      "runtime": 131,
+      "source_mp3": "https://vgmsite.com/soundtracks/gakuen-king-version-2.00-00/poafclyqnw/04%20-%20%5BUntitled%5D.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gakuen-king-version-2.00-00/04%2520-%2520%255BUntitled%255D.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 923,
+    "filesize_mp3_bytes": 36930845,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

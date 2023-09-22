@@ -1,0 +1,71 @@
+{
+  "title": "Gadget Tycoon",
+  "titles_alternative": [
+    "Crazy Factory",
+    "Factory Mogul"
+  ],
+  "crawled_at": "2023-09-22T02:55:37.038168+00:00",
+  "slug": "gadget-tycoon-windows-gamerip-2001",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/gadget-tycoon-windows-gamerip-2001",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/gadget-tycoon-windows-gamerip-2001/Image%20%281%29.jpg"
+  ],
+  "year": 2001,
+  "date_added": "2023-08-27T00:00:00+00:00",
+  "developers": {
+    "Monte Cristo": "https://downloads.khinsider.com/game-soundtracks/developer/monte-cristo"
+  },
+  "publishers": {
+    "Cenega": "https://downloads.khinsider.com/game-soundtracks/publisher/cenega",
+    "Monte Cristo": "https://downloads.khinsider.com/game-soundtracks/publisher/monte-cristo",
+    "Take-Two Interactive": "https://downloads.khinsider.com/game-soundtracks/publisher/take-two-interactive",
+    "Ubisoft": "https://downloads.khinsider.com/game-soundtracks/publisher/ubisoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 17270046,
+      "filesize_mp3_bytes": 6165626,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 248,
+      "source_mp3": "https://vgmsite.com/soundtracks/gadget-tycoon-windows-gamerip-2001/xfmogidiic/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gadget-tycoon-windows-gamerip-2001/xfmogidiic/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gadget-tycoon-windows-gamerip-2001/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10684989,
+      "filesize_mp3_bytes": 5085593,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 271,
+      "source_mp3": "https://vgmsite.com/soundtracks/gadget-tycoon-windows-gamerip-2001/kdhjmcarhi/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gadget-tycoon-windows-gamerip-2001/kdhjmcarhi/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gadget-tycoon-windows-gamerip-2001/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10286530,
+      "filesize_mp3_bytes": 4624220,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 245,
+      "source_mp3": "https://vgmsite.com/soundtracks/gadget-tycoon-windows-gamerip-2001/lttecfbhlo/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/gadget-tycoon-windows-gamerip-2001/lttecfbhlo/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gadget-tycoon-windows-gamerip-2001/03.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 764,
+    "filesize_mp3_bytes": 15875439,
+    "filesize_flac_bytes": 38241565,
+    "tracks": 3
+  }
+}

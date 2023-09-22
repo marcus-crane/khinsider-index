@@ -1,0 +1,87 @@
+{
+  "title": "FM Pana Amusement Cartridge",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T01:05:24.916278+00:00",
+  "slug": "fm-pana-amusement-cartridge-msx",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/fm-pana-amusement-cartridge-msx",
+  "platforms": {
+    "MSX": "https://downloads.khinsider.com/game-soundtracks/msx"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/fm-pana-amusement-cartridge-msx/FM%20Pana%20Amusement%20Cartridge.png"
+  ],
+  "year": 1988,
+  "date_added": "2022-04-21T00:00:00+00:00",
+  "developers": {
+    "Panasoft": "https://downloads.khinsider.com/game-soundtracks/developer/panasoft"
+  },
+  "publishers": {
+    "Panasoft": "https://downloads.khinsider.com/game-soundtracks/publisher/panasoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2789212,
+      "filesize_mp3_bytes": 1321205,
+      "track_number": 1,
+      "title": "Sample 1",
+      "runtime": 61,
+      "source_mp3": "https://vgmsite.com/soundtracks/fm-pana-amusement-cartridge-msx/pfhlsknwxm/01%20Sample%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/fm-pana-amusement-cartridge-msx/pfhlsknwxm/01%20Sample%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fm-pana-amusement-cartridge-msx/01%2520Sample%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9175040,
+      "filesize_mp3_bytes": 4613734,
+      "track_number": 2,
+      "title": "Sample 2",
+      "runtime": 212,
+      "source_mp3": "https://vgmsite.com/soundtracks/fm-pana-amusement-cartridge-msx/fegegsqlhx/02%20Sample%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/fm-pana-amusement-cartridge-msx/fegegsqlhx/02%20Sample%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fm-pana-amusement-cartridge-msx/02%2520Sample%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3344957,
+      "filesize_mp3_bytes": 1793064,
+      "track_number": 3,
+      "title": "Sample 3",
+      "runtime": 85,
+      "source_mp3": "https://vgmsite.com/soundtracks/fm-pana-amusement-cartridge-msx/bvyshzdwas/03%20Sample%203.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/fm-pana-amusement-cartridge-msx/bvyshzdwas/03%20Sample%203.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fm-pana-amusement-cartridge-msx/03%2520Sample%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4970250,
+      "filesize_mp3_bytes": 2390753,
+      "track_number": 4,
+      "title": "Sample 4",
+      "runtime": 111,
+      "source_mp3": "https://vgmsite.com/soundtracks/fm-pana-amusement-cartridge-msx/hfipwkbafo/04%20Sample%204.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/fm-pana-amusement-cartridge-msx/hfipwkbafo/04%20Sample%204.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fm-pana-amusement-cartridge-msx/04%2520Sample%25204.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2558525,
+      "filesize_mp3_bytes": 1184890,
+      "track_number": 5,
+      "title": "Sample 5",
+      "runtime": 55,
+      "source_mp3": "https://vgmsite.com/soundtracks/fm-pana-amusement-cartridge-msx/racfogcfth/05%20Sample%205.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/fm-pana-amusement-cartridge-msx/racfogcfth/05%20Sample%205.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fm-pana-amusement-cartridge-msx/05%2520Sample%25205.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 524,
+    "filesize_mp3_bytes": 11303646,
+    "filesize_flac_bytes": 22837984,
+    "tracks": 5
+  }
+}

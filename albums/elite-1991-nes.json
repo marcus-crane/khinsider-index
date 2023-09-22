@@ -1,0 +1,76 @@
+{
+  "title": "Elite",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T21:16:13.708509+00:00",
+  "slug": "elite-1991-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/elite-1991-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/elite-1991-nes/Elite-0.png"
+  ],
+  "year": 1991,
+  "date_added": "2022-04-11T00:00:00+00:00",
+  "developers": {
+    "Braben & Bell": "https://downloads.khinsider.com/game-soundtracks/developer/braben-bell",
+    "Eurocom": "https://downloads.khinsider.com/game-soundtracks/developer/eurocom",
+    "Imagineer": "https://downloads.khinsider.com/game-soundtracks/developer/imagineer"
+  },
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10653532,
+      "filesize_mp3_bytes": 3932160,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/elite-1991-nes/xkrdwyszay/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/elite-1991-nes/xkrdwyszay/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/elite-1991-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9751756,
+      "filesize_mp3_bytes": 3397386,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/elite-1991-nes/zlvnevdqpu/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/elite-1991-nes/zlvnevdqpu/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/elite-1991-nes/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10810818,
+      "filesize_mp3_bytes": 3690987,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/elite-1991-nes/suqlozpjxl/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/elite-1991-nes/suqlozpjxl/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/elite-1991-nes/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10328473,
+      "filesize_mp3_bytes": 3554672,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/elite-1991-nes/snkpavflxh/04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/elite-1991-nes/snkpavflxh/04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/elite-1991-nes/04.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 720,
+    "filesize_mp3_bytes": 14575205,
+    "filesize_flac_bytes": 41544579,
+    "tracks": 4
+  }
+}

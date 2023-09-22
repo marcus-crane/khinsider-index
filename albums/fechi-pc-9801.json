@@ -1,0 +1,94 @@
+{
+  "title": "Fechi",
+  "titles_alternative": [
+    "\u3075\u3047\u3061"
+  ],
+  "crawled_at": "2023-09-21T23:49:48.849966+00:00",
+  "slug": "fechi-pc-9801",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/fechi-pc-9801",
+  "platforms": {
+    "PC-98": "https://downloads.khinsider.com/game-soundtracks/pc-9801"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/fechi-pc-9801/Fechi%20%28PC-9801%29.png"
+  ],
+  "year": 1994,
+  "date_added": "2017-05-24T00:00:00+00:00",
+  "developers": {
+    "Cat's Pro": "https://downloads.khinsider.com/game-soundtracks/developer/cats-pro"
+  },
+  "publishers": {
+    "Cat's Pro": "https://downloads.khinsider.com/game-soundtracks/publisher/cats-pro"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 335544,
+      "track_number": 1,
+      "title": "CP",
+      "runtime": 12,
+      "source_mp3": "https://vgmsite.com/soundtracks/fechi-pc-9801/xldszolu/01_CP.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fechi-pc-9801/01_CP.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3282042,
+      "track_number": 2,
+      "title": "FE01V",
+      "runtime": 109,
+      "source_mp3": "https://vgmsite.com/soundtracks/fechi-pc-9801/hyqmtrae/02_FE01V.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fechi-pc-9801/02_FE01V.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3407872,
+      "track_number": 3,
+      "title": "FE02V",
+      "runtime": 111,
+      "source_mp3": "https://vgmsite.com/soundtracks/fechi-pc-9801/gwcaeowj/03_FE02V.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fechi-pc-9801/03_FE02V.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2642411,
+      "track_number": 4,
+      "title": "FE03V",
+      "runtime": 94,
+      "source_mp3": "https://vgmsite.com/soundtracks/fechi-pc-9801/cwovujax/04_FE03V.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fechi-pc-9801/04_FE03V.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3596615,
+      "track_number": 5,
+      "title": "FE04V",
+      "runtime": 128,
+      "source_mp3": "https://vgmsite.com/soundtracks/fechi-pc-9801/eqwgmnsx/05_FE04V.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fechi-pc-9801/05_FE04V.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2411724,
+      "track_number": 6,
+      "title": "FE05V",
+      "runtime": 89,
+      "source_mp3": "https://vgmsite.com/soundtracks/fechi-pc-9801/ypzyncmt/06_FE05V.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fechi-pc-9801/06_FE05V.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 543,
+    "filesize_mp3_bytes": 15676208,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

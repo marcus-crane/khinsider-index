@@ -1,0 +1,68 @@
+{
+  "title": "The Emperor's New Groove (GBC)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T21:28:40.905895+00:00",
+  "slug": "emperor-s-new-groove-the-game-boy",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/emperor-s-new-groove-the-game-boy",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/emperor-s-new-groove-the-game-boy/NG.jpg"
+  ],
+  "year": 2000,
+  "date_added": "2019-06-22T00:00:00+00:00",
+  "developers": {
+    "Sandbox Studios": "https://downloads.khinsider.com/game-soundtracks/developer/sandbox-studios"
+  },
+  "publishers": {
+    "Ubisoft": "https://downloads.khinsider.com/game-soundtracks/publisher/ubisoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6375342,
+      "title": "Level 1",
+      "runtime": 230,
+      "source_mp3": "https://vgmsite.com/soundtracks/emperor-s-new-groove-the-game-boy/nbfuuvrhkv/Level%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/emperor-s-new-groove-the-game-boy/Level%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5903482,
+      "title": "Level 2",
+      "runtime": 235,
+      "source_mp3": "https://vgmsite.com/soundtracks/emperor-s-new-groove-the-game-boy/mmrfudbhss/Level%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/emperor-s-new-groove-the-game-boy/Level%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2485125,
+      "title": "Level 3",
+      "runtime": 85,
+      "source_mp3": "https://vgmsite.com/soundtracks/emperor-s-new-groove-the-game-boy/jnbdpkxmrw/Level%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/emperor-s-new-groove-the-game-boy/Level%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3303014,
+      "title": "Title Screen",
+      "runtime": 115,
+      "source_mp3": "https://vgmsite.com/soundtracks/emperor-s-new-groove-the-game-boy/lcpsyxaqjz/Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/emperor-s-new-groove-the-game-boy/Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 665,
+    "filesize_mp3_bytes": 18066963,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

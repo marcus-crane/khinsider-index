@@ -1,0 +1,100 @@
+{
+  "title": "Frisky Tom",
+  "titles_alternative": [
+    "\u30d5\u30ea\u30b9\u30ad\u30fc\u30fb\u30c8\u30e0"
+  ],
+  "crawled_at": "2023-09-22T02:22:19.493780+00:00",
+  "slug": "frisky-tom-1995-sgb",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/frisky-tom-1995-sgb",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/frisky-tom-1995-sgb/Frisky%20Tom%20%28GB%29%20%28gamerip%29%20%281995%29.jpg"
+  ],
+  "year": 1995,
+  "date_added": "2022-04-11T00:00:00+00:00",
+  "developers": {
+    "Nichibutsu": "https://downloads.khinsider.com/game-soundtracks/developer/nichibutsu"
+  },
+  "publishers": {
+    "Nichibutsu": "https://downloads.khinsider.com/game-soundtracks/publisher/nichibutsu"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2642411,
+      "filesize_mp3_bytes": 1761607,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/frisky-tom-1995-sgb/wlwaocvxjz/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/frisky-tom-1995-sgb/wlwaocvxjz/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/frisky-tom-1995-sgb/01%2520BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8262778,
+      "filesize_mp3_bytes": 4435476,
+      "track_number": 2,
+      "title": "BGM #02",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/frisky-tom-1995-sgb/hxvwtcupth/02%20BGM%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/frisky-tom-1995-sgb/hxvwtcupth/02%20BGM%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/frisky-tom-1995-sgb/02%2520BGM%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5179965,
+      "filesize_mp3_bytes": 2537553,
+      "track_number": 3,
+      "title": "BGM #03",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/frisky-tom-1995-sgb/aowfoawjgb/03%20BGM%20%2303.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/frisky-tom-1995-sgb/aowfoawjgb/03%20BGM%20%2303.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/frisky-tom-1995-sgb/03%2520BGM%2520%252303.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 52428,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 4,
+      "title": "Jingle #01",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/frisky-tom-1995-sgb/blwrkwstjy/04%20Jingle%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/frisky-tom-1995-sgb/blwrkwstjy/04%20Jingle%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/frisky-tom-1995-sgb/04%2520Jingle%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 104857,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 5,
+      "title": "Jingle #02",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/frisky-tom-1995-sgb/mngtsyuhsy/05%20Jingle%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/frisky-tom-1995-sgb/mngtsyuhsy/05%20Jingle%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/frisky-tom-1995-sgb/05%2520Jingle%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 188743,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 6,
+      "title": "Jingle #03",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/frisky-tom-1995-sgb/qqqiywusco/06%20Jingle%20%2303.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/frisky-tom-1995-sgb/qqqiywusco/06%20Jingle%20%2303.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/frisky-tom-1995-sgb/06%2520Jingle%2520%252303.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 550,
+    "filesize_mp3_bytes": 8870950,
+    "filesize_flac_bytes": 16431182,
+    "tracks": 6
+  }
+}

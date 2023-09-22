@@ -1,0 +1,89 @@
+{
+  "title": "Flicky (SG-1000)",
+  "titles_alternative": [
+    "\u30d5\u30ea\u30c3\u30ad\u30fc"
+  ],
+  "crawled_at": "2023-09-22T00:57:02.984669+00:00",
+  "slug": "flicky-sg-1000",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/flicky-sg-1000",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/flicky-sg-1000/F1.jpg"
+  ],
+  "year": 1984,
+  "date_added": "2020-07-01T00:00:00+00:00",
+  "developers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1992294,
+      "filesize_mp3_bytes": 692060,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 40,
+      "source_mp3": "https://vgmsite.com/soundtracks/flicky-sg-1000/qlhahxxvah/01%20-%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/flicky-sg-1000/qlhahxxvah/01%20-%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/flicky-sg-1000/01%2520-%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 157286,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 2,
+      "title": "Round Clear",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/flicky-sg-1000/yuhukuwwtt/02%20-%20Round%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/flicky-sg-1000/yuhukuwwtt/02%20-%20Round%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/flicky-sg-1000/02%2520-%2520Round%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 985661,
+      "filesize_mp3_bytes": 429916,
+      "track_number": 3,
+      "title": "Bonus Round",
+      "runtime": 21,
+      "source_mp3": "https://vgmsite.com/soundtracks/flicky-sg-1000/qtugvzsfxt/03%20-%20Bonus%20Round.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/flicky-sg-1000/qtugvzsfxt/03%20-%20Bonus%20Round.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/flicky-sg-1000/03%2520-%2520Bonus%2520Round.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 104857,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 4,
+      "title": "Lost a Life",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/flicky-sg-1000/rpfymclamr/04%20-%20Lost%20a%20Life.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/flicky-sg-1000/rpfymclamr/04%20-%20Lost%20a%20Life.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/flicky-sg-1000/04%2520-%2520Lost%2520a%2520Life.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 146800,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 5,
+      "title": "Game Over",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/flicky-sg-1000/enqvaibatd/05%20-%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/flicky-sg-1000/enqvaibatd/05%20-%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/flicky-sg-1000/05%2520-%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 67,
+    "filesize_mp3_bytes": 1258289,
+    "filesize_flac_bytes": 3386898,
+    "tracks": 5
+  }
+}

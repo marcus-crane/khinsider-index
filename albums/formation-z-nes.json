@@ -1,0 +1,59 @@
+{
+  "title": "Formation Z",
+  "titles_alternative": [
+    "Aeroboto",
+    "\u30d5\u30a9\u30fc\u30e1\u30fc\u30b7\u30e7\u30f3Z"
+  ],
+  "crawled_at": "2023-09-22T01:15:58.906829+00:00",
+  "slug": "formation-z-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/formation-z-nes",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/formation-z-nes/Formation%20Z.png"
+  ],
+  "year": 1985,
+  "date_added": "2022-06-20T00:00:00+00:00",
+  "developers": {
+    "Hect": "https://downloads.khinsider.com/game-soundtracks/developer/hect",
+    "Jaleco": "https://downloads.khinsider.com/game-soundtracks/developer/jaleco"
+  },
+  "publishers": {
+    "Jaleco": "https://downloads.khinsider.com/game-soundtracks/publisher/jaleco"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 346030,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/formation-z-nes/vtaakzjprw/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/formation-z-nes/vtaakzjprw/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/formation-z-nes/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 73400,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 2,
+      "title": "Start",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/formation-z-nes/hvifqqqpfg/02%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/formation-z-nes/hvifqqqpfg/02%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/formation-z-nes/02%2520Start.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 9,
+    "filesize_mp3_bytes": 157286,
+    "filesize_flac_bytes": 419430,
+    "tracks": 2
+  }
+}

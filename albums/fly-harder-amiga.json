@@ -1,0 +1,72 @@
+{
+  "title": "Fly Harder",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T01:03:48.690630+00:00",
+  "slug": "fly-harder-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/fly-harder-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/fly-harder-amiga/Fly%20Harder.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2016-07-03T00:00:00+00:00",
+  "developers": {
+    "Starbyte Software": "https://downloads.khinsider.com/game-soundtracks/developer/starbyte-software"
+  },
+  "publishers": {
+    "Krisalis Software": "https://downloads.khinsider.com/game-soundtracks/publisher/krisalis-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3869245,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 141,
+      "source_mp3": "https://vgmsite.com/soundtracks/fly-harder-amiga/ppdugoky/01_Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fly-harder-amiga/01_Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5158993,
+      "track_number": 2,
+      "title": "In-Game BGM",
+      "runtime": 183,
+      "source_mp3": "https://vgmsite.com/soundtracks/fly-harder-amiga/zbxcxhmo/02_In-Game%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fly-harder-amiga/02_In-Game%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4152360,
+      "track_number": 3,
+      "title": "Ending",
+      "runtime": 155,
+      "source_mp3": "https://vgmsite.com/soundtracks/fly-harder-amiga/ianilrtm/03_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fly-harder-amiga/03_Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 241172,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/fly-harder-amiga/llffdyqv/04_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fly-harder-amiga/04_Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 488,
+    "filesize_mp3_bytes": 13421770,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

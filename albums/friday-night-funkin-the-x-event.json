@@ -1,0 +1,66 @@
+{
+  "title": "Friday Night Funkin' - The X-Event",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T02:02:50.987639+00:00",
+  "slug": "friday-night-funkin-the-x-event",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/friday-night-funkin-the-x-event",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/friday-night-funkin-the-x-event/cover.png"
+  ],
+  "year": 2021,
+  "date_added": "2021-05-16T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7769948,
+      "track_number": 1,
+      "title": "Truce (Menu)",
+      "runtime": 213,
+      "source_mp3": "https://vgmsite.com/soundtracks/friday-night-funkin-the-x-event/xlamvwckpf/01%20-%20Truce%20%28Menu%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/friday-night-funkin-the-x-event/01%2520-%2520Truce%2520%2528Menu%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5746196,
+      "track_number": 2,
+      "title": "Overwrite",
+      "runtime": 164,
+      "source_mp3": "https://vgmsite.com/soundtracks/friday-night-funkin-the-x-event/akskapulxr/02%20-%20Overwrite.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/friday-night-funkin-the-x-event/02%2520-%2520Overwrite.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6511656,
+      "track_number": 3,
+      "title": "Inking Mistake",
+      "runtime": 186,
+      "source_mp3": "https://vgmsite.com/soundtracks/friday-night-funkin-the-x-event/xhmtcilsxn/03%20-%20Inking%20Mistake.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/friday-night-funkin-the-x-event/03%2520-%2520Inking%2520Mistake.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7088373,
+      "track_number": 4,
+      "title": "Relighted",
+      "runtime": 227,
+      "source_mp3": "https://vgmsite.com/soundtracks/friday-night-funkin-the-x-event/uyyyphapwz/04%20-%20Relighted.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/friday-night-funkin-the-x-event/04%2520-%2520Relighted.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 790,
+    "filesize_mp3_bytes": 27116173,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

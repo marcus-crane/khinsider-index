@@ -1,0 +1,46 @@
+{
+  "title": "Exerion",
+  "titles_alternative": [
+    "\u30a8\u30af\u30bb\u30ea\u30aa\u30f3"
+  ],
+  "crawled_at": "2023-09-21T22:28:17.008118+00:00",
+  "slug": "exerion-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/exerion-nes",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/exerion-nes/295494-exerion-nes-front-cover.jpg"
+  ],
+  "year": 1985,
+  "date_added": "2022-06-18T00:00:00+00:00",
+  "developers": {
+    "Tose": "https://downloads.khinsider.com/game-soundtracks/developer/tose"
+  },
+  "publishers": {
+    "Jaleco": "https://downloads.khinsider.com/game-soundtracks/publisher/jaleco"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 492830,
+      "filesize_mp3_bytes": 167772,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/exerion-nes/nfuftybkif/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/exerion-nes/nfuftybkif/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/exerion-nes/01%2520Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 9,
+    "filesize_mp3_bytes": 167772,
+    "filesize_flac_bytes": 492830,
+    "tracks": 1
+  }
+}

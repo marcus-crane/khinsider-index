@@ -1,0 +1,51 @@
+{
+  "title": "Extreme Road Trip",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T22:33:35.052466+00:00",
+  "slug": "extreme-road-trip-android-ios-gamerip-2011",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/extreme-road-trip-android-ios-gamerip-2011",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/extreme-road-trip-android-ios-gamerip-2011/icon.png"
+  ],
+  "year": 2011,
+  "date_added": "2022-08-13T00:00:00+00:00",
+  "developers": {
+    "Roofdog Games": "https://downloads.khinsider.com/game-soundtracks/developer/roofdog-games"
+  },
+  "publishers": {
+    "Roofdog Games": "https://downloads.khinsider.com/game-soundtracks/publisher/roofdog-games"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1866465,
+      "title": "souleye - ERT ingame",
+      "runtime": 155,
+      "source_mp3": "https://vgmsite.com/soundtracks/extreme-road-trip-android-ios-gamerip-2011/fjttutjisp/souleye%20-%20ERT%20ingame.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/extreme-road-trip-android-ios-gamerip-2011/souleye%2520-%2520ERT%2520ingame.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 692060,
+      "title": "souleye - ERT title (handheld)",
+      "runtime": 58,
+      "source_mp3": "https://vgmsite.com/soundtracks/extreme-road-trip-android-ios-gamerip-2011/ucfpkubzmw/souleye%20-%20ERT%20title%20%28handheld%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/extreme-road-trip-android-ios-gamerip-2011/souleye%2520-%2520ERT%2520title%2520%2528handheld%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 213,
+    "filesize_mp3_bytes": 2558525,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

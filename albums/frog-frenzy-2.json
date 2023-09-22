@@ -1,0 +1,62 @@
+{
+  "title": "Frog Frenzy 2",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T02:22:29.356624+00:00",
+  "slug": "frog-frenzy-2",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/frog-frenzy-2",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/frog-frenzy-2/Frog%20Frenzy%202.jpg"
+  ],
+  "year": 2002,
+  "date_added": "2020-06-21T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6354370,
+      "title": "Canopy",
+      "runtime": 159,
+      "source_mp3": "https://vgmsite.com/soundtracks/frog-frenzy-2/vokgpzuxfa/Canopy.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/frog-frenzy-2/Canopy.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6113198,
+      "title": "Duplex",
+      "runtime": 153,
+      "source_mp3": "https://vgmsite.com/soundtracks/frog-frenzy-2/vdplvwdknl/Duplex.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/frog-frenzy-2/Duplex.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6868172,
+      "title": "Westward",
+      "runtime": 172,
+      "source_mp3": "https://vgmsite.com/soundtracks/frog-frenzy-2/mltkxjgbdz/Westward.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/frog-frenzy-2/Westward.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5525995,
+      "title": "Zanther Night",
+      "runtime": 138,
+      "source_mp3": "https://vgmsite.com/soundtracks/frog-frenzy-2/beyxotcbow/Zanther%20Night.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/frog-frenzy-2/Zanther%2520Night.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 622,
+    "filesize_mp3_bytes": 24861735,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

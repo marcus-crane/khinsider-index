@@ -1,0 +1,54 @@
+{
+  "title": "FIFA Soccer '96",
+  "titles_alternative": [
+    "FIFA\u30b5\u30c3\u30ab\u30fc96"
+  ],
+  "crawled_at": "2023-09-21T23:55:03.104349+00:00",
+  "slug": "fifa-soccer-96",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/fifa-soccer-96",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/fifa-soccer-96/coverart.jpg"
+  ],
+  "year": 1995,
+  "date_added": "2014-11-12T00:00:00+00:00",
+  "developers": {
+    "Extended Play Productions": "https://downloads.khinsider.com/game-soundtracks/developer/extended-play-productions"
+  },
+  "publishers": {
+    "EA": "https://downloads.khinsider.com/game-soundtracks/publisher/ea"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1719664,
+      "track_number": 1,
+      "title": "Song 1",
+      "runtime": 106,
+      "source_mp3": "https://vgmsite.com/soundtracks/fifa-soccer-96/nvqznhnk/01%20-%20Song%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fifa-soccer-96/01%2520-%2520Song%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2327838,
+      "track_number": 2,
+      "title": "Song 2",
+      "runtime": 144,
+      "source_mp3": "https://vgmsite.com/soundtracks/fifa-soccer-96/rxbbwvka/02%20-%20Song%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fifa-soccer-96/02%2520-%2520Song%25202.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 250,
+    "filesize_mp3_bytes": 4047502,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

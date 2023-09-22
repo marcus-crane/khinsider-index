@@ -1,0 +1,83 @@
+{
+  "title": "Fantasy World Dizzy",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T23:17:41.544914+00:00",
+  "slug": "fantasy-world-dizzy-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/fantasy-world-dizzy-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/fantasy-world-dizzy-amiga/F1.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2017-07-19T00:00:00+00:00",
+  "developers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/developer/codemasters",
+    "Optimus": "https://downloads.khinsider.com/game-soundtracks/developer/optimus"
+  },
+  "publishers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/publisher/codemasters"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6249512,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 218,
+      "source_mp3": "https://vgmsite.com/soundtracks/fantasy-world-dizzy-amiga/evgwldyf/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fantasy-world-dizzy-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 2,
+      "title": "Get Ready!",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/fantasy-world-dizzy-amiga/dijtwign/02_Get%20Ready%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fantasy-world-dizzy-amiga/02_Get%2520Ready%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3932160,
+      "track_number": 3,
+      "title": "In-Game BGM",
+      "runtime": 135,
+      "source_mp3": "https://vgmsite.com/soundtracks/fantasy-world-dizzy-amiga/aikbqgie/03_In-Game%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fantasy-world-dizzy-amiga/03_In-Game%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4750049,
+      "track_number": 4,
+      "title": "Name Entry",
+      "runtime": 168,
+      "source_mp3": "https://vgmsite.com/soundtracks/fantasy-world-dizzy-amiga/mlfzjzbe/04_Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fantasy-world-dizzy-amiga/04_Name%2520Entry.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 167772,
+      "track_number": 5,
+      "title": "Game Over",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/fantasy-world-dizzy-amiga/wubucznn/05_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fantasy-world-dizzy-amiga/05_Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 533,
+    "filesize_mp3_bytes": 15225322,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

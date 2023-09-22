@@ -1,0 +1,100 @@
+{
+  "title": "Flicky (System 2)",
+  "titles_alternative": [
+    "\u30d5\u30ea\u30c3\u30ad\u30fc"
+  ],
+  "crawled_at": "2023-09-22T00:57:06.952431+00:00",
+  "slug": "flicky-system-2-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/flicky-system-2-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/flicky-system-2-arcade/F1.jpg"
+  ],
+  "year": 1984,
+  "date_added": "2022-04-18T00:00:00+00:00",
+  "developers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2317352,
+      "filesize_mp3_bytes": 754974,
+      "track_number": 1,
+      "title": "Round Start ~ Main BGM",
+      "runtime": 41,
+      "source_mp3": "https://vgmsite.com/soundtracks/flicky-system-2-arcade/jkiytwikyj/01%20Round%20Start%20~%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/flicky-system-2-arcade/jkiytwikyj/01%20Round%20Start%20~%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/flicky-system-2-arcade/01%2520Round%2520Start%2520~%2520Main%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 157286,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 2,
+      "title": "Round Clear",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/flicky-system-2-arcade/emptsrzidu/02%20Round%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/flicky-system-2-arcade/emptsrzidu/02%20Round%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/flicky-system-2-arcade/02%2520Round%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1027604,
+      "filesize_mp3_bytes": 398458,
+      "track_number": 3,
+      "title": "Bonus Round",
+      "runtime": 21,
+      "source_mp3": "https://vgmsite.com/soundtracks/flicky-system-2-arcade/itzkxlwwlv/03%20Bonus%20Round.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/flicky-system-2-arcade/itzkxlwwlv/03%20Bonus%20Round.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/flicky-system-2-arcade/03%2520Bonus%2520Round.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 115343,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 4,
+      "title": "Player Out",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/flicky-system-2-arcade/lixftakele/04%20Player%20Out.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/flicky-system-2-arcade/lixftakele/04%20Player%20Out.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/flicky-system-2-arcade/04%2520Player%2520Out.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 157286,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 5,
+      "title": "Game Over",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/flicky-system-2-arcade/iadlfysjet/05%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/flicky-system-2-arcade/iadlfysjet/05%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/flicky-system-2-arcade/05%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3093299,
+      "filesize_mp3_bytes": 964689,
+      "track_number": 6,
+      "title": "Name Entry",
+      "runtime": 52,
+      "source_mp3": "https://vgmsite.com/soundtracks/flicky-system-2-arcade/glttgakogu/06%20Name%20Entry.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/flicky-system-2-arcade/glttgakogu/06%20Name%20Entry.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/flicky-system-2-arcade/06%2520Name%2520Entry.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 123,
+    "filesize_mp3_bytes": 2264920,
+    "filesize_flac_bytes": 6868170,
+    "tracks": 6
+  }
+}

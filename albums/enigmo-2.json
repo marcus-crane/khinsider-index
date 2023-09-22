@@ -1,0 +1,84 @@
+{
+  "title": "Enigmo 2",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T21:41:31.192061+00:00",
+  "slug": "enigmo-2",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/enigmo-2",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/enigmo-2/coverart.jpg"
+  ],
+  "year": 2006,
+  "date_added": "2014-05-10T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1384120,
+      "track_number": 1,
+      "title": "Enigmo 2 Theme",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/enigmo-2/chipqhou/01%20Enigmo%202%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/enigmo-2/01%2520Enigmo%25202%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3953131,
+      "track_number": 2,
+      "title": "Earth Level",
+      "runtime": 192,
+      "source_mp3": "https://vgmsite.com/soundtracks/enigmo-2/arrmdfye/02%20Earth%20Level.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/enigmo-2/02%2520Earth%2520Level.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3617587,
+      "track_number": 3,
+      "title": "Mars Level",
+      "runtime": 176,
+      "source_mp3": "https://vgmsite.com/soundtracks/enigmo-2/zcgszanp/03%20Mars%20Level.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/enigmo-2/03%2520Mars%2520Level.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4624220,
+      "track_number": 4,
+      "title": "Saturn Level",
+      "runtime": 226,
+      "source_mp3": "https://vgmsite.com/soundtracks/enigmo-2/xhfqtrav/04%20Saturn%20Level.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/enigmo-2/04%2520Saturn%2520Level.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2642411,
+      "track_number": 5,
+      "title": "Asteroids Level",
+      "runtime": 127,
+      "source_mp3": "https://vgmsite.com/soundtracks/enigmo-2/obhzvhfd/05%20Asteroids%20Level.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/enigmo-2/05%2520Asteroids%2520Level.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1457520,
+      "track_number": 6,
+      "title": "Bonus",
+      "runtime": 68,
+      "source_mp3": "https://vgmsite.com/soundtracks/enigmo-2/esvpezll/06%20Bonus.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/enigmo-2/06%2520Bonus.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 853,
+    "filesize_mp3_bytes": 17678989,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "title": "Family Picross (Homebrew)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T23:11:15.499349+00:00",
+  "slug": "family-picross-nes-homebrew-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/family-picross-nes-homebrew-gamerip",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/family-picross-nes-homebrew-gamerip/Family%20Picross%20Title%20Screen.png"
+  ],
+  "year": 2019,
+  "date_added": "2021-07-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8514437,
+      "filesize_mp3_bytes": 1132462,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 67,
+      "source_mp3": "https://vgmsite.com/soundtracks/family-picross-nes-homebrew-gamerip/iqpfsgeols/01.%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/family-picross-nes-homebrew-gamerip/iqpfsgeols/01.%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/family-picross-nes-homebrew-gamerip/01.%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 27766292,
+      "filesize_mp3_bytes": 3701473,
+      "track_number": 2,
+      "title": "Music A",
+      "runtime": 228,
+      "source_mp3": "https://vgmsite.com/soundtracks/family-picross-nes-homebrew-gamerip/gjrilarzwm/02.%20Music%20A.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/family-picross-nes-homebrew-gamerip/gjrilarzwm/02.%20Music%20A.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/family-picross-nes-homebrew-gamerip/02.%2520Music%2520A.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 16986931,
+      "filesize_mp3_bytes": 2338324,
+      "track_number": 3,
+      "title": "Music B",
+      "runtime": 135,
+      "source_mp3": "https://vgmsite.com/soundtracks/family-picross-nes-homebrew-gamerip/keqoknkpix/03.%20Music%20B.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/family-picross-nes-homebrew-gamerip/keqoknkpix/03.%20Music%20B.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/family-picross-nes-homebrew-gamerip/03.%2520Music%2520B.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 32002539,
+      "filesize_mp3_bytes": 4424990,
+      "track_number": 4,
+      "title": "Music C",
+      "runtime": 250,
+      "source_mp3": "https://vgmsite.com/soundtracks/family-picross-nes-homebrew-gamerip/ooxtbsrxkd/04.%20Music%20C.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/family-picross-nes-homebrew-gamerip/ooxtbsrxkd/04.%20Music%20C.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/family-picross-nes-homebrew-gamerip/04.%2520Music%2520C.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 356515,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 5,
+      "title": "Puzzle Completed!",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/family-picross-nes-homebrew-gamerip/snvehpchbh/05.%20Puzzle%20Completed%21.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/family-picross-nes-homebrew-gamerip/snvehpchbh/05.%20Puzzle%20Completed%21.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/family-picross-nes-homebrew-gamerip/05.%2520Puzzle%2520Completed%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 471859,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 6,
+      "title": "Puzzle Failed...",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/family-picross-nes-homebrew-gamerip/huabauwhzu/06.%20Puzzle%20Failed....mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/family-picross-nes-homebrew-gamerip/huabauwhzu/06.%20Puzzle%20Failed....flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/family-picross-nes-homebrew-gamerip/06.%2520Puzzle%2520Failed....mp3"
+    }
+  ],
+  "total": {
+    "runtime": 687,
+    "filesize_mp3_bytes": 11712591,
+    "filesize_flac_bytes": 86098573,
+    "tracks": 6
+  }
+}

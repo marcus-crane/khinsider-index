@@ -1,0 +1,77 @@
+{
+  "title": "Enforcer: Original Soundtrack",
+  "titles_alternative": [
+    "Enforcer: Police Crime Action Soundtrack",
+    "Enforcer: Police Crime Action"
+  ],
+  "crawled_at": "2023-09-21T21:40:31.796814+00:00",
+  "slug": "enforcer-original-soundtrack-2014",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/enforcer-original-soundtrack-2014",
+  "platforms": {
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/enforcer-original-soundtrack-2014/cover.jpg"
+  ],
+  "year": 2014,
+  "catalog_number": null,
+  "date_added": "2023-05-28T00:00:00+00:00",
+  "developers": {
+    "Odin Game Studio": "https://downloads.khinsider.com/game-soundtracks/developer/odin-game-studio"
+  },
+  "publishers": {
+    "Excalibur Publishing": "https://downloads.khinsider.com/game-soundtracks/publisher/excalibur-publishing"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3156213,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 129,
+      "source_mp3": "https://vgmsite.com/soundtracks/enforcer-original-soundtrack-2014/jvtlcqedjn/01.%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/enforcer-original-soundtrack-2014/01.%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2789212,
+      "track_number": 2,
+      "title": "Mission - On Duty",
+      "runtime": 113,
+      "source_mp3": "https://vgmsite.com/soundtracks/enforcer-original-soundtrack-2014/vcgkeshkos/02.%20Mission%20-%20On%20Duty.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/enforcer-original-soundtrack-2014/02.%2520Mission%2520-%2520On%2520Duty.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2610954,
+      "track_number": 3,
+      "title": "Mission - Off Duty",
+      "runtime": 106,
+      "source_mp3": "https://vgmsite.com/soundtracks/enforcer-original-soundtrack-2014/cufdegngjx/03.%20Mission%20-%20Off%20Duty.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/enforcer-original-soundtrack-2014/03.%2520Mission%2520-%2520Off%2520Duty.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1300234,
+      "track_number": 4,
+      "title": "Shooting",
+      "runtime": 51,
+      "source_mp3": "https://vgmsite.com/soundtracks/enforcer-original-soundtrack-2014/wtukcixrmc/04.%20Shooting.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/enforcer-original-soundtrack-2014/04.%2520Shooting.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 399,
+    "filesize_mp3_bytes": 9856613,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

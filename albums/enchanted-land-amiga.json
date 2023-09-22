@@ -1,0 +1,112 @@
+{
+  "title": "Enchanted Land",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T21:29:23.196904+00:00",
+  "slug": "enchanted-land-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/enchanted-land-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/enchanted-land-amiga/Enchanted%20Land%20%28Amiga%29%20%28gamerip%29%20%281990%29.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2016-03-02T00:00:00+00:00",
+  "developers": {
+    "Thalion": "https://downloads.khinsider.com/game-soundtracks/developer/thalion"
+  },
+  "publishers": {
+    "Thalion": "https://downloads.khinsider.com/game-soundtracks/publisher/thalion"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6763315,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 242,
+      "source_mp3": "https://vgmsite.com/soundtracks/enchanted-land-amiga/kwibupse/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/enchanted-land-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9112125,
+      "track_number": 2,
+      "title": "World 1 The Forest",
+      "runtime": 307,
+      "source_mp3": "https://vgmsite.com/soundtracks/enchanted-land-amiga/jvcflquh/02_World%201%20The%20Forest.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/enchanted-land-amiga/02_World%25201%2520The%2520Forest.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8074035,
+      "track_number": 3,
+      "title": "World 2 Underwater",
+      "runtime": 296,
+      "source_mp3": "https://vgmsite.com/soundtracks/enchanted-land-amiga/vcemfzvg/03_World%202%20Underwater.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/enchanted-land-amiga/03_World%25202%2520Underwater.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6721372,
+      "track_number": 4,
+      "title": "World 3 The Cave",
+      "runtime": 228,
+      "source_mp3": "https://vgmsite.com/soundtracks/enchanted-land-amiga/ztpraqcw/04_World%203%20The%20Cave.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/enchanted-land-amiga/04_World%25203%2520The%2520Cave.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8839495,
+      "track_number": 5,
+      "title": "World 4 The Forest Village",
+      "runtime": 294,
+      "source_mp3": "https://vgmsite.com/soundtracks/enchanted-land-amiga/onujeyer/05_World%204%20The%20Forest%20Village.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/enchanted-land-amiga/05_World%25204%2520The%2520Forest%2520Village.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7392460,
+      "track_number": 6,
+      "title": "World 5 The City",
+      "runtime": 242,
+      "source_mp3": "https://vgmsite.com/soundtracks/enchanted-land-amiga/benixebx/06_World%205%20The%20City.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/enchanted-land-amiga/06_World%25205%2520The%2520City.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3449815,
+      "track_number": 7,
+      "title": "Game Over",
+      "runtime": 122,
+      "source_mp3": "https://vgmsite.com/soundtracks/enchanted-land-amiga/vqqmhshr/07_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/enchanted-land-amiga/07_Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9112125,
+      "track_number": 8,
+      "title": "(Unused) World 1 The Forest (Slow Version)",
+      "runtime": 307,
+      "source_mp3": "https://vgmsite.com/soundtracks/enchanted-land-amiga/jrrqpyoo/08_%28Unused%29%20World%201%20The%20Forest%20%28Slow%20Version%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/enchanted-land-amiga/08_%2528Unused%2529%2520World%25201%2520The%2520Forest%2520%2528Slow%2520Version%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2038,
+    "filesize_mp3_bytes": 59464742,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

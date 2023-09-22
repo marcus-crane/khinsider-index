@@ -1,0 +1,55 @@
+{
+  "title": "Emergency Fire Response",
+  "titles_alternative": [
+    "Fire Department"
+  ],
+  "crawled_at": "2023-09-21T21:26:39.891229+00:00",
+  "slug": "emergency-fire-response-windows-gamerip-2003",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/emergency-fire-response-windows-gamerip-2003",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/emergency-fire-response-windows-gamerip-2003/Image.jpg"
+  ],
+  "year": 2003,
+  "date_added": "2023-08-27T00:00:00+00:00",
+  "developers": {
+    "Monte Cristo": "https://downloads.khinsider.com/game-soundtracks/developer/monte-cristo"
+  },
+  "publishers": {
+    "DreamCatcher": "https://downloads.khinsider.com/game-soundtracks/publisher/dreamcatcher",
+    "Monte Cristo": "https://downloads.khinsider.com/game-soundtracks/publisher/monte-cristo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1342177,
+      "track_number": 1,
+      "title": "Menu",
+      "runtime": 88,
+      "source_mp3": "https://vgmsite.com/soundtracks/emergency-fire-response-windows-gamerip-2003/strdzjzgwq/01.%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/emergency-fire-response-windows-gamerip-2003/01.%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 901775,
+      "track_number": 2,
+      "title": "Presentation",
+      "runtime": 60,
+      "source_mp3": "https://vgmsite.com/soundtracks/emergency-fire-response-windows-gamerip-2003/ukextfuktr/02.%20Presentation.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/emergency-fire-response-windows-gamerip-2003/02.%2520Presentation.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 148,
+    "filesize_mp3_bytes": 2243952,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

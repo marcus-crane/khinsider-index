@@ -1,0 +1,44 @@
+{
+  "title": "Endorfun",
+  "titles_alternative": [
+    "Cu-On-Pa",
+    "\u30af\u30aa\u30f3\u30d1"
+  ],
+  "crawled_at": "2023-09-21T21:38:09.451805+00:00",
+  "slug": "endorfun-1995-windows",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/endorfun-1995-windows",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/endorfun-1995-windows/E1.jpg"
+  ],
+  "year": 1995,
+  "date_added": "2020-07-04T00:00:00+00:00",
+  "developers": {
+    "Onesong Partners": "https://downloads.khinsider.com/game-soundtracks/developer/onesong-partners"
+  },
+  "publishers": {
+    "Time Warner Interactive": "https://downloads.khinsider.com/game-soundtracks/publisher/time-warner-interactive"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 92945776,
+      "title": "Endorfun (Remastered Full OST 1995)",
+      "runtime": 5809,
+      "source_mp3": "https://vgmsite.com/soundtracks/endorfun-1995-windows/gvnmzpdqdf/Endorfun%20%28Remastered%20Full%20OST%201995%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/endorfun-1995-windows/Endorfun%2520%2528Remastered%2520Full%2520OST%25201995%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 5809,
+    "filesize_mp3_bytes": 92945776,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "title": "Enduro Racer",
+  "titles_alternative": [
+    "\u30a8\u30f3\u30c7\u30e5\u30fc\u30ed\u30ec\u30fc\u30b5\u30fc"
+  ],
+  "crawled_at": "2023-09-21T21:38:22.857385+00:00",
+  "slug": "enduro-racer-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/enduro-racer-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/enduro-racer-arcade/Enduro%20Racer.png"
+  ],
+  "year": 1986,
+  "date_added": "2023-08-20T00:00:00+00:00",
+  "developers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 94371,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 1,
+      "title": "Credit",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/enduro-racer-arcade/nafxdbepct/01.%20Credit.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/enduro-racer-arcade/nafxdbepct/01.%20Credit.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/enduro-racer-arcade/01.%2520Credit.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7570718,
+      "filesize_mp3_bytes": 3208642,
+      "track_number": 2,
+      "title": "Opening BGM",
+      "runtime": 130,
+      "source_mp3": "https://vgmsite.com/soundtracks/enduro-racer-arcade/spbgzbsbxv/02.%20Opening%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/enduro-racer-arcade/spbgzbsbxv/02.%20Opening%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/enduro-racer-arcade/02.%2520Opening%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 33910947,
+      "filesize_mp3_bytes": 12163481,
+      "track_number": 3,
+      "title": "Main BGM",
+      "runtime": 578,
+      "source_mp3": "https://vgmsite.com/soundtracks/enduro-racer-arcade/vbmbmgkyxz/03.%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/enduro-racer-arcade/vbmbmgkyxz/03.%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/enduro-racer-arcade/03.%2520Main%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5955911,
+      "filesize_mp3_bytes": 2390753,
+      "track_number": 4,
+      "title": "Ending BGM",
+      "runtime": 103,
+      "source_mp3": "https://vgmsite.com/soundtracks/enduro-racer-arcade/iwliowlrxf/04.%20Ending%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/enduro-racer-arcade/iwliowlrxf/04.%20Ending%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/enduro-racer-arcade/04.%2520Ending%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3229614,
+      "filesize_mp3_bytes": 1363148,
+      "track_number": 5,
+      "title": "Name Entry",
+      "runtime": 60,
+      "source_mp3": "https://vgmsite.com/soundtracks/enduro-racer-arcade/qvahnofhnf/05.%20Name%20Entry.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/enduro-racer-arcade/qvahnofhnf/05.%20Name%20Entry.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/enduro-racer-arcade/05.%2520Name%2520Entry.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2967470,
+      "filesize_mp3_bytes": 1132462,
+      "track_number": 6,
+      "title": "Unused BGM",
+      "runtime": 54,
+      "source_mp3": "https://vgmsite.com/soundtracks/enduro-racer-arcade/iajahlqmrq/06.%20Unused%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/enduro-racer-arcade/iajahlqmrq/06.%20Unused%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/enduro-racer-arcade/06.%2520Unused%2520BGM.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 927,
+    "filesize_mp3_bytes": 20300429,
+    "filesize_flac_bytes": 53729031,
+    "tracks": 6
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "title": "Explora",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T22:31:12.871232+00:00",
+  "slug": "explora-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/explora-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/explora-amiga/Explora%20Amiga%20front%20cover.jpg"
+  ],
+  "year": 1988,
+  "date_added": "2021-03-18T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1121976,
+      "track_number": 1,
+      "title": "Ecran Titre (Time Run)",
+      "runtime": 50,
+      "source_mp3": "https://vgmsite.com/soundtracks/explora-amiga/hqflqxucpq/01%20Ecran%20Titre%20%28Time%20Run%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/explora-amiga/01%2520Ecran%2520Titre%2520%2528Time%2520Run%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1352663,
+      "track_number": 2,
+      "title": "BGM01",
+      "runtime": 61,
+      "source_mp3": "https://vgmsite.com/soundtracks/explora-amiga/eonhyvsouz/02%20BGM01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/explora-amiga/02%2520BGM01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2055208,
+      "track_number": 3,
+      "title": "BGM02",
+      "runtime": 97,
+      "source_mp3": "https://vgmsite.com/soundtracks/explora-amiga/dghfmychce/03%20BGM02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/explora-amiga/03%2520BGM02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1006632,
+      "track_number": 4,
+      "title": "BGM03",
+      "runtime": 44,
+      "source_mp3": "https://vgmsite.com/soundtracks/explora-amiga/lhywojwpte/04%20BGM03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/explora-amiga/04%2520BGM03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1142947,
+      "track_number": 5,
+      "title": "BGM04",
+      "runtime": 51,
+      "source_mp3": "https://vgmsite.com/soundtracks/explora-amiga/gpjvfsgrhd/05%20BGM04.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/explora-amiga/05%2520BGM04.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1394606,
+      "track_number": 6,
+      "title": "BGM05",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/explora-amiga/pcchuamkxv/06%20BGM05.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/explora-amiga/06%2520BGM05.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1551892,
+      "track_number": 7,
+      "title": "BGM06",
+      "runtime": 71,
+      "source_mp3": "https://vgmsite.com/soundtracks/explora-amiga/xnlffobrkw/07%20BGM06.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/explora-amiga/07%2520BGM06.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 293601,
+      "track_number": 8,
+      "title": "BGM07",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/explora-amiga/rivwetixbj/08%20BGM07.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/explora-amiga/08%2520BGM07.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 447,
+    "filesize_mp3_bytes": 9919525,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

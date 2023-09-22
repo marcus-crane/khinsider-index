@@ -1,0 +1,45 @@
+{
+  "title": "Endospore",
+  "titles_alternative": [
+    "Arknights"
+  ],
+  "crawled_at": "2023-09-21T21:38:10.351123+00:00",
+  "slug": "endospore-2023",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/endospore-2023",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/endospore-2023/bonus.jpg"
+  ],
+  "year": 2023,
+  "date_added": "2023-04-26T00:00:00+00:00",
+  "developers": {
+    "HyperGryph": "https://downloads.khinsider.com/game-soundtracks/developer/hypergryph",
+    "Monster Siren Records": "https://downloads.khinsider.com/game-soundtracks/developer/monster-siren-records"
+  },
+  "publishers": {},
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 43851448,
+      "filesize_mp3_bytes": 6805258,
+      "track_number": 1,
+      "title": "\u585e\u58ec\u5531\u7247-MSR - Endospore",
+      "runtime": 200,
+      "source_mp3": "https://vgmsite.com/soundtracks/endospore-2023/zjxqaxpeia/01.%20%E5%A1%9E%E5%A3%AC%E5%94%B1%E7%89%87-MSR%20-%20Endospore.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/endospore-2023/zjxqaxpeia/01.%20%E5%A1%9E%E5%A3%AC%E5%94%B1%E7%89%87-MSR%20-%20Endospore.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/endospore-2023/01.%2520%25E5%25A1%259E%25E5%25A3%25AC%25E5%2594%25B1%25E7%2589%2587-MSR%2520-%2520Endospore.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 200,
+    "filesize_mp3_bytes": 6805258,
+    "filesize_flac_bytes": 43851448,
+    "tracks": 1
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "title": "Froggy's Adventures",
+  "titles_alternative": [
+    "Super Frog (SelectSoft)"
+  ],
+  "crawled_at": "2023-09-22T02:24:37.585351+00:00",
+  "slug": "froggys-adventures-windows-gamerip-2006",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/froggys-adventures-windows-gamerip-2006",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/froggys-adventures-windows-gamerip-2006/Froggy_s%20Adventures.jpg"
+  ],
+  "year": 2006,
+  "date_added": "2023-08-11T00:00:00+00:00",
+  "developers": {
+    "Butterfly iSoft": "https://downloads.khinsider.com/game-soundtracks/developer/butterfly-isoft"
+  },
+  "publishers": {
+    "Alawar Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/alawar-entertainment",
+    "Big Fish Games": "https://downloads.khinsider.com/game-soundtracks/publisher/big-fish-games",
+    "Selectsoft": "https://downloads.khinsider.com/game-soundtracks/publisher/selectsoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 870318,
+      "track_number": 1,
+      "title": "Menu",
+      "runtime": 54,
+      "source_mp3": "https://vgmsite.com/soundtracks/froggys-adventures-windows-gamerip-2006/atmzwkorjg/01.%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/froggys-adventures-windows-gamerip-2006/01.%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1656750,
+      "track_number": 2,
+      "title": "Day",
+      "runtime": 103,
+      "source_mp3": "https://vgmsite.com/soundtracks/froggys-adventures-windows-gamerip-2006/zlyreirmtr/02.%20Day.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/froggys-adventures-windows-gamerip-2006/02.%2520Day.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1541406,
+      "track_number": 3,
+      "title": "Evening",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/froggys-adventures-windows-gamerip-2006/hdgfcgumhj/03.%20Evening.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/froggys-adventures-windows-gamerip-2006/03.%2520Evening.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 253,
+    "filesize_mp3_bytes": 4068474,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

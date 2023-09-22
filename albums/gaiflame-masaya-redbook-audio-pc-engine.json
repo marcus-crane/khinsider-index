@@ -1,0 +1,83 @@
+{
+  "title": "GaiFlame",
+  "titles_alternative": [
+    "\u30ac\u30a4\u30d5\u30ec\u30fc\u30e0",
+    "Gai Flame"
+  ],
+  "crawled_at": "2023-09-22T02:57:11.569331+00:00",
+  "slug": "gaiflame-masaya-redbook-audio-pc-engine",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/gaiflame-masaya-redbook-audio-pc-engine",
+  "platforms": {
+    "TurboGrafx-16": "https://downloads.khinsider.com/game-soundtracks/turbografx-16"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/gaiflame-masaya-redbook-audio-pc-engine/cover.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2019-03-19T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Masaya": "https://downloads.khinsider.com/game-soundtracks/publisher/masaya"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4162846,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 115,
+      "source_mp3": "https://vgmsite.com/soundtracks/gaiflame-masaya-redbook-audio-pc-engine/mtfstdkn/01%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gaiflame-masaya-redbook-audio-pc-engine/01%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1981808,
+      "track_number": 2,
+      "title": "Player Turn",
+      "runtime": 50,
+      "source_mp3": "https://vgmsite.com/soundtracks/gaiflame-masaya-redbook-audio-pc-engine/urgglokt/02%20Player%20Turn.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gaiflame-masaya-redbook-audio-pc-engine/02%2520Player%2520Turn.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2107637,
+      "track_number": 3,
+      "title": "Computer Turn",
+      "runtime": 80,
+      "source_mp3": "https://vgmsite.com/soundtracks/gaiflame-masaya-redbook-audio-pc-engine/iphdnpny/03%20Computer%20Turn.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gaiflame-masaya-redbook-audio-pc-engine/03%2520Computer%2520Turn.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2086666,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 61,
+      "source_mp3": "https://vgmsite.com/soundtracks/gaiflame-masaya-redbook-audio-pc-engine/rysarsgp/04%20Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gaiflame-masaya-redbook-audio-pc-engine/04%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5410652,
+      "track_number": 5,
+      "title": "Ending",
+      "runtime": 162,
+      "source_mp3": "https://vgmsite.com/soundtracks/gaiflame-masaya-redbook-audio-pc-engine/ebsdaguy/05%20Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gaiflame-masaya-redbook-audio-pc-engine/05%2520Ending.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 468,
+    "filesize_mp3_bytes": 15749609,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

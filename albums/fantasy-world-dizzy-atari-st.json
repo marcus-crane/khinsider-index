@@ -1,0 +1,53 @@
+{
+  "title": "Fantasy World Dizzy",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T23:17:43.613388+00:00",
+  "slug": "fantasy-world-dizzy-atari-st",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/fantasy-world-dizzy-atari-st",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/fantasy-world-dizzy-atari-st/F1.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2016-05-20T00:00:00+00:00",
+  "developers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/developer/codemasters",
+    "Optimus": "https://downloads.khinsider.com/game-soundtracks/developer/optimus"
+  },
+  "publishers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/publisher/codemasters"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2705326,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 115,
+      "source_mp3": "https://vgmsite.com/soundtracks/fantasy-world-dizzy-atari-st/eiovpjvo/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fantasy-world-dizzy-atari-st/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3082813,
+      "track_number": 2,
+      "title": "In-Game BGM",
+      "runtime": 122,
+      "source_mp3": "https://vgmsite.com/soundtracks/fantasy-world-dizzy-atari-st/saavyvwb/02_In-Game%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fantasy-world-dizzy-atari-st/02_In-Game%2520BGM.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 237,
+    "filesize_mp3_bytes": 5788139,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

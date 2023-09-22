@@ -1,0 +1,82 @@
+{
+  "title": "G.Nius",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T02:53:32.278727+00:00",
+  "slug": "g.nius-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/g.nius-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/g.nius-amiga/G.Nius.jpg"
+  ],
+  "year": 1988,
+  "date_added": "2018-03-10T00:00:00+00:00",
+  "developers": {
+    "Lankhor": "https://downloads.khinsider.com/game-soundtracks/developer/lankhor"
+  },
+  "publishers": {
+    "Lankhor": "https://downloads.khinsider.com/game-soundtracks/publisher/lankhor"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 901775,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 37,
+      "source_mp3": "https://vgmsite.com/soundtracks/g.nius-amiga/azxxogoi/01_Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/g.nius-amiga/01_Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6417285,
+      "track_number": 2,
+      "title": "BGM #1",
+      "runtime": 209,
+      "source_mp3": "https://vgmsite.com/soundtracks/g.nius-amiga/qstqojzj/02_BGM%20%231.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/g.nius-amiga/02_BGM%2520%25231.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7266631,
+      "track_number": 3,
+      "title": "BGM #2",
+      "runtime": 229,
+      "source_mp3": "https://vgmsite.com/soundtracks/g.nius-amiga/lsqaggfn/03_BGM%20%232.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/g.nius-amiga/03_BGM%2520%25232.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7381975,
+      "track_number": 4,
+      "title": "BGM #3",
+      "runtime": 237,
+      "source_mp3": "https://vgmsite.com/soundtracks/g.nius-amiga/kqhgqcsg/04_BGM%20%233.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/g.nius-amiga/04_BGM%2520%25233.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7308574,
+      "track_number": 5,
+      "title": "BGM #4",
+      "runtime": 245,
+      "source_mp3": "https://vgmsite.com/soundtracks/g.nius-amiga/miatrxnm/05_BGM%20%234.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/g.nius-amiga/05_BGM%2520%25234.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 957,
+    "filesize_mp3_bytes": 29276240,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

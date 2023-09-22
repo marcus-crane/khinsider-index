@@ -1,0 +1,90 @@
+{
+  "title": "Flicky",
+  "titles_alternative": [
+    "\u30d5\u30ea\u30c3\u30ad\u30fc"
+  ],
+  "crawled_at": "2023-09-22T00:57:00.960997+00:00",
+  "slug": "flicky-pc-8801",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/flicky-pc-8801",
+  "platforms": {
+    "PC-88": "https://downloads.khinsider.com/game-soundtracks/pc-8801"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/flicky-pc-8801/Flicky.png"
+  ],
+  "year": 1985,
+  "date_added": "2022-04-21T00:00:00+00:00",
+  "developers": {
+    "Micronet": "https://downloads.khinsider.com/game-soundtracks/developer/micronet",
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Micronet": "https://downloads.khinsider.com/game-soundtracks/publisher/micronet"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1772093,
+      "filesize_mp3_bytes": 1080033,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 53,
+      "source_mp3": "https://vgmsite.com/soundtracks/flicky-pc-8801/nkssdvequn/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/flicky-pc-8801/nkssdvequn/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/flicky-pc-8801/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1897922,
+      "filesize_mp3_bytes": 796917,
+      "track_number": 2,
+      "title": "Main BGM",
+      "runtime": 41,
+      "source_mp3": "https://vgmsite.com/soundtracks/flicky-pc-8801/wdxykfwksp/02%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/flicky-pc-8801/wdxykfwksp/02%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/flicky-pc-8801/02%2520Main%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 125829,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 3,
+      "title": "Round Clear",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/flicky-pc-8801/kvzlvnxbla/03%20Round%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/flicky-pc-8801/kvzlvnxbla/03%20Round%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/flicky-pc-8801/03%2520Round%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 943718,
+      "filesize_mp3_bytes": 503316,
+      "track_number": 4,
+      "title": "Bonus Round",
+      "runtime": 24,
+      "source_mp3": "https://vgmsite.com/soundtracks/flicky-pc-8801/zufnoiuswz/04%20Bonus%20Round.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/flicky-pc-8801/zufnoiuswz/04%20Bonus%20Round.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/flicky-pc-8801/04%2520Bonus%2520Round.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 104857,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 5,
+      "title": "Game Over",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/flicky-pc-8801/tixyjuekff/05%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/flicky-pc-8801/tixyjuekff/05%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/flicky-pc-8801/05%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 126,
+    "filesize_mp3_bytes": 2516580,
+    "filesize_flac_bytes": 4844419,
+    "tracks": 5
+  }
+}

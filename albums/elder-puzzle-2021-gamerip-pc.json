@@ -1,0 +1,82 @@
+{
+  "title": "Elder Puzzle",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T21:10:58.740369+00:00",
+  "slug": "elder-puzzle-2021-gamerip-pc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/elder-puzzle-2021-gamerip-pc",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/elder-puzzle-2021-gamerip-pc/ep4.jpg"
+  ],
+  "year": 2021,
+  "date_added": "2022-04-26T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 0,
+      "title": "Correct",
+      "runtime": 0,
+      "source_mp3": "https://vgmsite.com/soundtracks/elder-puzzle-2021-gamerip-pc/ewwchzpvbt/Correct.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/elder-puzzle-2021-gamerip-pc/Correct.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3858759,
+      "title": "Game1",
+      "runtime": 229,
+      "source_mp3": "https://vgmsite.com/soundtracks/elder-puzzle-2021-gamerip-pc/ciwahjcudp/Game1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/elder-puzzle-2021-gamerip-pc/Game1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4624220,
+      "title": "Game2",
+      "runtime": 302,
+      "source_mp3": "https://vgmsite.com/soundtracks/elder-puzzle-2021-gamerip-pc/dmoptaapqh/Game2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/elder-puzzle-2021-gamerip-pc/Game2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 20971,
+      "title": "Hit",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/elder-puzzle-2021-gamerip-pc/ugckgqmiqy/Hit.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/elder-puzzle-2021-gamerip-pc/Hit.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3911188,
+      "title": "Menu",
+      "runtime": 233,
+      "source_mp3": "https://vgmsite.com/soundtracks/elder-puzzle-2021-gamerip-pc/yxirbuizme/Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/elder-puzzle-2021-gamerip-pc/Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 0,
+      "title": "Select",
+      "runtime": 0,
+      "source_mp3": "https://vgmsite.com/soundtracks/elder-puzzle-2021-gamerip-pc/zpxkwmkzsc/Select.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/elder-puzzle-2021-gamerip-pc/Select.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 766,
+    "filesize_mp3_bytes": 12415138,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

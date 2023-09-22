@@ -1,0 +1,79 @@
+{
+  "title": "Elevator Action",
+  "titles_alternative": [
+    "\u30a8\u30ec\u30d9\u30fc\u30bf\u30fc\u30a2\u30af\u30b7\u30e7\u30f3"
+  ],
+  "crawled_at": "2023-09-21T21:14:13.234234+00:00",
+  "slug": "elevator-action-pc-8801",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/elevator-action-pc-8801",
+  "platforms": {
+    "PC-88": "https://downloads.khinsider.com/game-soundtracks/pc-8801"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/elevator-action-pc-8801/Elevator%20Action.png"
+  ],
+  "year": 1986,
+  "date_added": "2022-04-14T00:00:00+00:00",
+  "developers": {
+    "Nidecom Carry": "https://downloads.khinsider.com/game-soundtracks/developer/nidecom-carry",
+    "Pacific Kougyou": "https://downloads.khinsider.com/game-soundtracks/developer/pacific-kougyou"
+  },
+  "publishers": {
+    "Nidecom Carry": "https://downloads.khinsider.com/game-soundtracks/publisher/nidecom-carry"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2002780,
+      "filesize_mp3_bytes": 1090519,
+      "track_number": 1,
+      "title": "Main BGM 1",
+      "runtime": 55,
+      "source_mp3": "https://vgmsite.com/soundtracks/elevator-action-pc-8801/mvfnlpzchb/01%20Main%20BGM%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/elevator-action-pc-8801/mvfnlpzchb/01%20Main%20BGM%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/elevator-action-pc-8801/01%2520Main%2520BGM%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2055208,
+      "filesize_mp3_bytes": 1237319,
+      "track_number": 2,
+      "title": "Main BGM 2",
+      "runtime": 55,
+      "source_mp3": "https://vgmsite.com/soundtracks/elevator-action-pc-8801/upyrqveuub/02%20Main%20BGM%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/elevator-action-pc-8801/upyrqveuub/02%20Main%20BGM%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/elevator-action-pc-8801/02%2520Main%2520BGM%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2181038,
+      "filesize_mp3_bytes": 1153433,
+      "track_number": 3,
+      "title": "Main BGM 3",
+      "runtime": 55,
+      "source_mp3": "https://vgmsite.com/soundtracks/elevator-action-pc-8801/lkwfsghwov/03%20Main%20BGM%203.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/elevator-action-pc-8801/lkwfsghwov/03%20Main%20BGM%203.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/elevator-action-pc-8801/03%2520Main%2520BGM%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1730150,
+      "filesize_mp3_bytes": 1111490,
+      "track_number": 4,
+      "title": "Main BGM 4",
+      "runtime": 55,
+      "source_mp3": "https://vgmsite.com/soundtracks/elevator-action-pc-8801/vqwzuuaofi/04%20Main%20BGM%204.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/elevator-action-pc-8801/vqwzuuaofi/04%20Main%20BGM%204.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/elevator-action-pc-8801/04%2520Main%2520BGM%25204.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 220,
+    "filesize_mp3_bytes": 4592761,
+    "filesize_flac_bytes": 7969176,
+    "tracks": 4
+  }
+}

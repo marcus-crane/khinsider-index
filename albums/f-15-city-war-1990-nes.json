@@ -1,0 +1,65 @@
+{
+  "title": "F-15 City War (Unlicensed)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T22:36:04.546477+00:00",
+  "slug": "f-15-city-war-1990-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/f-15-city-war-1990-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/f-15-city-war-1990-nes/1.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2022-04-14T00:00:00+00:00",
+  "developers": {
+    "American Video Entertainment": "https://downloads.khinsider.com/game-soundtracks/developer/american-video-entertainment"
+  },
+  "publishers": {
+    "American Video Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/american-video-entertainment"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2925527,
+      "filesize_mp3_bytes": 2002780,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/f-15-city-war-1990-nes/phoumgvpqz/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/f-15-city-war-1990-nes/phoumgvpqz/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/f-15-city-war-1990-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 692060,
+      "filesize_mp3_bytes": 335544,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 19,
+      "source_mp3": "https://vgmsite.com/soundtracks/f-15-city-war-1990-nes/zphspntbpt/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/f-15-city-war-1990-nes/zphspntbpt/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/f-15-city-war-1990-nes/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2485125,
+      "filesize_mp3_bytes": 1929379,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/f-15-city-war-1990-nes/kpzpbnnuel/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/f-15-city-war-1990-nes/kpzpbnnuel/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/f-15-city-war-1990-nes/03.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 379,
+    "filesize_mp3_bytes": 4267703,
+    "filesize_flac_bytes": 6102712,
+    "tracks": 3
+  }
+}

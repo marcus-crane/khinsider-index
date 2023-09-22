@@ -1,0 +1,37 @@
+{
+  "title": "Epic",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T21:45:27.705209+00:00",
+  "slug": "epic-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/epic-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/epic-amiga/Epic%20Amiga%20back%20cover.jpg"
+  ],
+  "year": 2014,
+  "date_added": "2020-09-27T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11806965,
+      "title": "Title Screen",
+      "runtime": 268,
+      "source_mp3": "https://vgmsite.com/soundtracks/epic-amiga/yshwstcijl/Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/epic-amiga/Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 268,
+    "filesize_mp3_bytes": 11806965,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

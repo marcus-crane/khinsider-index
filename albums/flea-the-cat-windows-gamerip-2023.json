@@ -1,0 +1,54 @@
+{
+  "title": "Flea the Cat",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T00:55:43.586876+00:00",
+  "slug": "flea-the-cat-windows-gamerip-2023",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/flea-the-cat-windows-gamerip-2023",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/flea-the-cat-windows-gamerip-2023/ftc_1.jpg"
+  ],
+  "year": 2023,
+  "date_added": "2023-09-12T00:00:00+00:00",
+  "developers": {
+    "Stefan Yeung": "https://downloads.khinsider.com/game-soundtracks/developer/stefan-yeung"
+  },
+  "publishers": {
+    "Stefan Yeung": "https://downloads.khinsider.com/game-soundtracks/publisher/stefan-yeung"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6018826,
+      "filesize_mp3_bytes": 2956984,
+      "track_number": 1,
+      "title": "Flea the cat",
+      "runtime": 87,
+      "source_mp3": "https://vgmsite.com/soundtracks/flea-the-cat-windows-gamerip-2023/inqtdhzyvd/1.%20Flea%20the%20cat.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/flea-the-cat-windows-gamerip-2023/inqtdhzyvd/1.%20Flea%20the%20cat.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/flea-the-cat-windows-gamerip-2023/1.%2520Flea%2520the%2520cat.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2097152,
+      "filesize_mp3_bytes": 1006632,
+      "track_number": 2,
+      "title": "Flea the cat 2",
+      "runtime": 29,
+      "source_mp3": "https://vgmsite.com/soundtracks/flea-the-cat-windows-gamerip-2023/nevlvtdcqj/2.%20Flea%20the%20cat%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/flea-the-cat-windows-gamerip-2023/nevlvtdcqj/2.%20Flea%20the%20cat%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/flea-the-cat-windows-gamerip-2023/2.%2520Flea%2520the%2520cat%25202.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 116,
+    "filesize_mp3_bytes": 3963616,
+    "filesize_flac_bytes": 8115978,
+    "tracks": 2
+  }
+}

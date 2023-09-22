@@ -1,0 +1,89 @@
+{
+  "title": "Emma at the Farm",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T21:27:54.170559+00:00",
+  "slug": "emma-at-the-farm-2008-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/emma-at-the-farm-2008-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/emma-at-the-farm-2008-nds-gamerip/Emma%20at%20the%20Farm.jpg"
+  ],
+  "year": 2008,
+  "date_added": "2020-06-05T00:00:00+00:00",
+  "developers": {
+    "Otaboo": "https://downloads.khinsider.com/game-soundtracks/developer/otaboo",
+    "White Birds": "https://downloads.khinsider.com/game-soundtracks/developer/white-birds"
+  },
+  "publishers": {
+    "Aspyr": "https://downloads.khinsider.com/game-soundtracks/publisher/aspyr",
+    "Nobilis": "https://downloads.khinsider.com/game-soundtracks/publisher/nobilis"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6637486,
+      "filesize_mp3_bytes": 2264924,
+      "track_number": 1,
+      "title": "Music Calme",
+      "runtime": 70,
+      "source_mp3": "https://vgmsite.com/soundtracks/emma-at-the-farm-2008-nds-gamerip/sjgwdfsywn/01%20-%20Music%20Calme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/emma-at-the-farm-2008-nds-gamerip/sjgwdfsywn/01%20-%20Music%20Calme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/emma-at-the-farm-2008-nds-gamerip/01%2520-%2520Music%2520Calme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6008340,
+      "filesize_mp3_bytes": 2139095,
+      "track_number": 2,
+      "title": "Music Action",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/emma-at-the-farm-2008-nds-gamerip/blpcxluusl/02%20-%20Music%20Action.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/emma-at-the-farm-2008-nds-gamerip/blpcxluusl/02%20-%20Music%20Action.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/emma-at-the-farm-2008-nds-gamerip/02%2520-%2520Music%2520Action.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9646899,
+      "filesize_mp3_bytes": 3365928,
+      "track_number": 3,
+      "title": "Music Douce",
+      "runtime": 101,
+      "source_mp3": "https://vgmsite.com/soundtracks/emma-at-the-farm-2008-nds-gamerip/ipuqwmlsjg/03%20-%20Music%20Douce.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/emma-at-the-farm-2008-nds-gamerip/ipuqwmlsjg/03%20-%20Music%20Douce.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/emma-at-the-farm-2008-nds-gamerip/03%2520-%2520Music%2520Douce.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4844421,
+      "filesize_mp3_bytes": 1646264,
+      "track_number": 4,
+      "title": "Music Menu",
+      "runtime": 45,
+      "source_mp3": "https://vgmsite.com/soundtracks/emma-at-the-farm-2008-nds-gamerip/tueijabzgl/04%20-%20Music%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/emma-at-the-farm-2008-nds-gamerip/tueijabzgl/04%20-%20Music%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/emma-at-the-farm-2008-nds-gamerip/04%2520-%2520Music%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9846128,
+      "filesize_mp3_bytes": 3229614,
+      "track_number": 5,
+      "title": "Music Stress",
+      "runtime": 100,
+      "source_mp3": "https://vgmsite.com/soundtracks/emma-at-the-farm-2008-nds-gamerip/bokfqqfezj/05%20-%20Music%20Stress.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/emma-at-the-farm-2008-nds-gamerip/bokfqqfezj/05%20-%20Music%20Stress.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/emma-at-the-farm-2008-nds-gamerip/05%2520-%2520Music%2520Stress.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 380,
+    "filesize_mp3_bytes": 12645825,
+    "filesize_flac_bytes": 36983274,
+    "tracks": 5
+  }
+}

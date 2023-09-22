@@ -1,0 +1,57 @@
+{
+  "title": "Euro Truck Simulator",
+  "titles_alternative": [
+    "\u0421 \u0433\u0440\u0443\u0437\u043e\u043c \u043f\u043e \u0415\u0432\u0440\u043e\u043f\u0435",
+    "Big Rig Europe"
+  ],
+  "crawled_at": "2023-09-21T22:08:03.674675+00:00",
+  "slug": "euro-truck-simulator-macos-windows-gamerip-2008",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/euro-truck-simulator-macos-windows-gamerip-2008",
+  "platforms": {
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/euro-truck-simulator-macos-windows-gamerip-2008/Euro%20Truck%20Simulator.png"
+  ],
+  "year": 2008,
+  "date_added": "2023-09-15T00:00:00+00:00",
+  "developers": {
+    "SCS Software": "https://downloads.khinsider.com/game-soundtracks/developer/scs-software"
+  },
+  "publishers": {
+    "Akella": "https://downloads.khinsider.com/game-soundtracks/publisher/akella",
+    "Excalibur Publishing": "https://downloads.khinsider.com/game-soundtracks/publisher/excalibur-publishing"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3649044,
+      "track_number": 1,
+      "title": "Main",
+      "runtime": 91,
+      "source_mp3": "https://vgmsite.com/soundtracks/euro-truck-simulator-macos-windows-gamerip-2008/ctxxvcpkrj/01%20Main.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/euro-truck-simulator-macos-windows-gamerip-2008/01%2520Main.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5043650,
+      "track_number": 2,
+      "title": "Truck Dealer",
+      "runtime": 126,
+      "source_mp3": "https://vgmsite.com/soundtracks/euro-truck-simulator-macos-windows-gamerip-2008/qjsemnddmb/02%20Truck%20Dealer.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/euro-truck-simulator-macos-windows-gamerip-2008/02%2520Truck%2520Dealer.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 217,
+    "filesize_mp3_bytes": 8692694,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

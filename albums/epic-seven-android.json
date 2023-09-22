@@ -1,0 +1,36 @@
+{
+  "title": "Epic Seven",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T21:46:51.841739+00:00",
+  "slug": "epic-seven-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/epic-seven-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/epic-seven-android/screen-0.jpg"
+  ],
+  "date_added": "2019-03-02T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1478492,
+      "title": "bgm",
+      "runtime": 123,
+      "source_mp3": "https://vgmsite.com/soundtracks/epic-seven-android/snjfpuhv/bgm.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/epic-seven-android/bgm.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 123,
+    "filesize_mp3_bytes": 1478492,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

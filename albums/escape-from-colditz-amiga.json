@@ -1,0 +1,62 @@
+{
+  "title": "Escape from Colditz",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T21:50:48.682064+00:00",
+  "slug": "escape-from-colditz-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/escape-from-colditz-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/escape-from-colditz-amiga/C1.png"
+  ],
+  "year": 1990,
+  "date_added": "2019-06-10T00:00:00+00:00",
+  "developers": {
+    "Digital Magic": "https://downloads.khinsider.com/game-soundtracks/developer/digital-magic"
+  },
+  "publishers": {
+    "Digital Magic": "https://downloads.khinsider.com/game-soundtracks/publisher/digital-magic"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5861539,
+      "track_number": 1,
+      "title": "Niagra (Main Menu)",
+      "runtime": 208,
+      "source_mp3": "https://vgmsite.com/soundtracks/escape-from-colditz-amiga/lpmoifcdlt/01_Niagra%20%28Main%20Menu%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/escape-from-colditz-amiga/01_Niagra%2520%2528Main%2520Menu%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4603248,
+      "track_number": 2,
+      "title": "Ending",
+      "runtime": 174,
+      "source_mp3": "https://vgmsite.com/soundtracks/escape-from-colditz-amiga/pkqndldcph/02_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/escape-from-colditz-amiga/02_Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2118123,
+      "track_number": 3,
+      "title": "Game Over",
+      "runtime": 79,
+      "source_mp3": "https://vgmsite.com/soundtracks/escape-from-colditz-amiga/pndzpxfkjw/03_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/escape-from-colditz-amiga/03_Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 461,
+    "filesize_mp3_bytes": 12582910,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

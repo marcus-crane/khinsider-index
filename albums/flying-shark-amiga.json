@@ -1,0 +1,77 @@
+{
+  "title": "Flying Shark",
+  "titles_alternative": [
+    "Sky Shark",
+    "Hishouzame",
+    "\u98db\u7fd4\u9bab"
+  ],
+  "crawled_at": "2023-09-22T01:04:55.361660+00:00",
+  "slug": "flying-shark-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/flying-shark-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/flying-shark-amiga/Flying%20Shark%20%28Amiga%29.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2019-03-25T00:00:00+00:00",
+  "developers": {
+    "Images Software": "https://downloads.khinsider.com/game-soundtracks/developer/images-software",
+    "Toaplan": "https://downloads.khinsider.com/game-soundtracks/developer/toaplan"
+  },
+  "publishers": {
+    "Firebird": "https://downloads.khinsider.com/game-soundtracks/publisher/firebird"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1709178,
+      "track_number": 1,
+      "title": "Forgive Your All (Attract Mode  Name Entry)",
+      "runtime": 62,
+      "source_mp3": "https://vgmsite.com/soundtracks/flying-shark-amiga/stqnihbm/01_Forgive%20Your%20All%20%28Attract%20Mode%20%20Name%20Entry%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/flying-shark-amiga/01_Forgive%2520Your%2520All%2520%2528Attract%2520Mode%2520%2520Name%2520Entry%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1803550,
+      "track_number": 2,
+      "title": "Sky Shark (BGM 1)",
+      "runtime": 67,
+      "source_mp3": "https://vgmsite.com/soundtracks/flying-shark-amiga/bvpijppr/02_Sky%20Shark%20%28BGM%201%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/flying-shark-amiga/02_Sky%2520Shark%2520%2528BGM%25201%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2977955,
+      "track_number": 3,
+      "title": "Asia (BGM 2)",
+      "runtime": 110,
+      "source_mp3": "https://vgmsite.com/soundtracks/flying-shark-amiga/hdkrlgxn/03_Asia%20%28BGM%202%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/flying-shark-amiga/03_Asia%2520%2528BGM%25202%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3995074,
+      "track_number": 4,
+      "title": "Water Front (BGM 3)",
+      "runtime": 148,
+      "source_mp3": "https://vgmsite.com/soundtracks/flying-shark-amiga/qqebsyuj/04_Water%20Front%20%28BGM%203%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/flying-shark-amiga/04_Water%2520Front%2520%2528BGM%25203%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 387,
+    "filesize_mp3_bytes": 10485757,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

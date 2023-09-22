@@ -1,0 +1,45 @@
+{
+  "title": "Friday Night Funkin' - Funkin' Date Night (Single)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T01:45:43.909692+00:00",
+  "slug": "friday-night-funkin-funkin-date-night-single",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/friday-night-funkin-funkin-date-night-single",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/friday-night-funkin-funkin-date-night-single/Cover.png"
+  ],
+  "date_added": "2021-02-15T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4026531,
+      "track_number": 1,
+      "title": "Funkin' Date Night",
+      "runtime": 124,
+      "source_mp3": "https://vgmsite.com/soundtracks/friday-night-funkin-funkin-date-night-single/ktjffkehnz/1.%20Funkin%27%20Date%20Night.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/friday-night-funkin-funkin-date-night-single/1.%2520Funkin%2527%2520Date%2520Night.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4089446,
+      "track_number": 2,
+      "title": "Funkin' Date Night (Instrumental)",
+      "runtime": 124,
+      "source_mp3": "https://vgmsite.com/soundtracks/friday-night-funkin-funkin-date-night-single/jhgecawxxp/2.%20Funkin%27%20Date%20Night%20%28Instrumental%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/friday-night-funkin-funkin-date-night-single/2.%2520Funkin%2527%2520Date%2520Night%2520%2528Instrumental%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 248,
+    "filesize_mp3_bytes": 8115977,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

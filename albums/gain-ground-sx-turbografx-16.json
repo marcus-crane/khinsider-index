@@ -1,0 +1,93 @@
+{
+  "title": "Gain Ground SX (PC Engine CD)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T02:57:31.703169+00:00",
+  "slug": "gain-ground-sx-turbografx-16",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/gain-ground-sx-turbografx-16",
+  "platforms": {
+    "TurboGrafx-16": "https://downloads.khinsider.com/game-soundtracks/turbografx-16"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/gain-ground-sx-turbografx-16/GaingroundPCECD.PNG"
+  ],
+  "year": 1992,
+  "catalog_number": null,
+  "date_added": "2016-08-03T00:00:00+00:00",
+  "developers": {
+    "Bits Laboratory": "https://downloads.khinsider.com/game-soundtracks/developer/bits-laboratory"
+  },
+  "publishers": {
+    "NEC Avenue, Ltd.": "https://downloads.khinsider.com/game-soundtracks/publisher/nec-avenue"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6333399,
+      "track_number": 1,
+      "title": "Stage 1 - SEGA",
+      "runtime": 264,
+      "source_mp3": "https://vgmsite.com/soundtracks/gain-ground-sx-turbografx-16/honfhutm/01-Stage%201%20-%20SEGA.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gain-ground-sx-turbografx-16/01-Stage%25201%2520-%2520SEGA.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6616514,
+      "track_number": 2,
+      "title": "Stage 2 - SEGA",
+      "runtime": 276,
+      "source_mp3": "https://vgmsite.com/soundtracks/gain-ground-sx-turbografx-16/crxnustu/02-Stage%202%20-%20SEGA.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gain-ground-sx-turbografx-16/02-Stage%25202%2520-%2520SEGA.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6165626,
+      "track_number": 3,
+      "title": "Stage 3 - SEGA",
+      "runtime": 257,
+      "source_mp3": "https://vgmsite.com/soundtracks/gain-ground-sx-turbografx-16/yatlitrv/03-Stage%203%20-%20SEGA.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gain-ground-sx-turbografx-16/03-Stage%25203%2520-%2520SEGA.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6134169,
+      "track_number": 4,
+      "title": "Stage 4 - SEGA",
+      "runtime": 255,
+      "source_mp3": "https://vgmsite.com/soundtracks/gain-ground-sx-turbografx-16/wrtdnpcb/04-Stage%204%20-%20SEGA.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gain-ground-sx-turbografx-16/04-Stage%25204%2520-%2520SEGA.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 199229,
+      "track_number": 5,
+      "title": "Round clear - SEGA",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/gain-ground-sx-turbografx-16/mmrvfvuf/05-Round%20clear%20-%20SEGA.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gain-ground-sx-turbografx-16/05-Round%2520clear%2520-%2520SEGA.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2055208,
+      "track_number": 6,
+      "title": "Ending - SEGA",
+      "runtime": 86,
+      "source_mp3": "https://vgmsite.com/soundtracks/gain-ground-sx-turbografx-16/yacxgmaa/06-Ending%20-%20SEGA.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gain-ground-sx-turbografx-16/06-Ending%2520-%2520SEGA.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1146,
+    "filesize_mp3_bytes": 27504145,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

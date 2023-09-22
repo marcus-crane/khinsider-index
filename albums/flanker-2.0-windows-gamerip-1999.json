@@ -1,0 +1,59 @@
+{
+  "title": "Flanker 2.0",
+  "titles_alternative": [
+    "Flanker 2.5"
+  ],
+  "crawled_at": "2023-09-22T00:53:16.972363+00:00",
+  "slug": "flanker-2.0-windows-gamerip-1999",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/flanker-2.0-windows-gamerip-1999",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/flanker-2.0-windows-gamerip-1999/3737_front.jpg"
+  ],
+  "year": 1999,
+  "date_added": "2023-06-28T00:00:00+00:00",
+  "developers": {
+    "Eagle Dynamics": "https://downloads.khinsider.com/game-soundtracks/developer/eagle-dynamics"
+  },
+  "publishers": {
+    "1C Company": "https://downloads.khinsider.com/game-soundtracks/publisher/1c-company",
+    "Buka Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/buka-entertainment",
+    "Strategic Simulations": "https://downloads.khinsider.com/game-soundtracks/publisher/strategic-simulations",
+    "Ubisoft": "https://downloads.khinsider.com/game-soundtracks/publisher/ubisoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1436549,
+      "filesize_mp3_bytes": 408944,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 45,
+      "source_mp3": "https://vgmsite.com/soundtracks/flanker-2.0-windows-gamerip-1999/caeoawecqb/01.%20Intro.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/flanker-2.0-windows-gamerip-1999/caeoawecqb/01.%20Intro.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/flanker-2.0-windows-gamerip-1999/01.%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3397386,
+      "filesize_mp3_bytes": 901775,
+      "track_number": 2,
+      "title": "Loop",
+      "runtime": 100,
+      "source_mp3": "https://vgmsite.com/soundtracks/flanker-2.0-windows-gamerip-1999/cvacawlesc/02.%20Loop.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/flanker-2.0-windows-gamerip-1999/cvacawlesc/02.%20Loop.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/flanker-2.0-windows-gamerip-1999/02.%2520Loop.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 145,
+    "filesize_mp3_bytes": 1310719,
+    "filesize_flac_bytes": 4833935,
+    "tracks": 2
+  }
+}

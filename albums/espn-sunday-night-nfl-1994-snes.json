@@ -1,0 +1,76 @@
+{
+  "title": "ESPN Sunday Night NFL",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T21:55:38.547561+00:00",
+  "slug": "espn-sunday-night-nfl-1994-snes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/espn-sunday-night-nfl-1994-snes",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/espn-sunday-night-nfl-1994-snes/E1.png"
+  ],
+  "year": 1994,
+  "date_added": "2019-08-07T00:00:00+00:00",
+  "developers": {
+    "Ringler": "https://downloads.khinsider.com/game-soundtracks/developer/ringler"
+  },
+  "publishers": {
+    "Sony Imagesoft": "https://downloads.khinsider.com/game-soundtracks/publisher/sony-imagesoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 136314,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 1,
+      "title": "Ringler Studios Logo",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/espn-sunday-night-nfl-1994-snes/ciwaucpgsz/01%20Ringler%20Studios%20Logo.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/espn-sunday-night-nfl-1994-snes/ciwaucpgsz/01%20Ringler%20Studios%20Logo.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/espn-sunday-night-nfl-1994-snes/01%2520Ringler%2520Studios%2520Logo.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 146800,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 2,
+      "title": "Absolute Entertainment Logo",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/espn-sunday-night-nfl-1994-snes/nhoidtjhom/02%20Absolute%20Entertainment%20Logo.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/espn-sunday-night-nfl-1994-snes/nhoidtjhom/02%20Absolute%20Entertainment%20Logo.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/espn-sunday-night-nfl-1994-snes/02%2520Absolute%2520Entertainment%2520Logo.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1405091,
+      "filesize_mp3_bytes": 713031,
+      "track_number": 3,
+      "title": "Title Screen",
+      "runtime": 41,
+      "source_mp3": "https://vgmsite.com/soundtracks/espn-sunday-night-nfl-1994-snes/myljzxzblq/03%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/espn-sunday-night-nfl-1994-snes/myljzxzblq/03%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/espn-sunday-night-nfl-1994-snes/03%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2306867,
+      "filesize_mp3_bytes": 1226833,
+      "track_number": 4,
+      "title": "Main Theme",
+      "runtime": 68,
+      "source_mp3": "https://vgmsite.com/soundtracks/espn-sunday-night-nfl-1994-snes/fsvsqeavij/04%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/espn-sunday-night-nfl-1994-snes/fsvsqeavij/04%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/espn-sunday-night-nfl-1994-snes/04%2520Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 123,
+    "filesize_mp3_bytes": 2128606,
+    "filesize_flac_bytes": 3995072,
+    "tracks": 4
+  }
+}

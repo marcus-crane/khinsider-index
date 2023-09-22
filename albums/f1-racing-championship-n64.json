@@ -1,0 +1,73 @@
+{
+  "title": "F1 Racing Championship",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T22:43:34.832841+00:00",
+  "slug": "f1-racing-championship-n64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/f1-racing-championship-n64",
+  "platforms": {
+    "N64": "https://downloads.khinsider.com/game-soundtracks/nintendo-64",
+    "PS2": "https://downloads.khinsider.com/game-soundtracks/playstation-2"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/f1-racing-championship-n64/3307210400987_l%5B1%5D.jpg"
+  ],
+  "year": 2001,
+  "date_added": "2018-07-13T00:00:00+00:00",
+  "developers": {
+    "Ubisoft": "https://downloads.khinsider.com/game-soundtracks/developer/ubisoft"
+  },
+  "publishers": {
+    "Ubisoft": "https://downloads.khinsider.com/game-soundtracks/publisher/ubisoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1310720,
+      "track_number": 1,
+      "title": "Demo",
+      "runtime": 76,
+      "source_mp3": "https://vgmsite.com/soundtracks/f1-racing-championship-n64/wllrcjzc/001%20-%20Demo.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/f1-racing-championship-n64/001%2520-%2520Demo.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2495610,
+      "track_number": 2,
+      "title": "Menu",
+      "runtime": 128,
+      "source_mp3": "https://vgmsite.com/soundtracks/f1-racing-championship-n64/lrcffmfz/002%20-%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/f1-racing-championship-n64/002%2520-%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2390753,
+      "track_number": 3,
+      "title": "Race 1",
+      "runtime": 126,
+      "source_mp3": "https://vgmsite.com/soundtracks/f1-racing-championship-n64/sifpjyul/003%20-%20Race%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/f1-racing-championship-n64/003%2520-%2520Race%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2411724,
+      "track_number": 4,
+      "title": "Race 2",
+      "runtime": 146,
+      "source_mp3": "https://vgmsite.com/soundtracks/f1-racing-championship-n64/pnxvuene/004%20-%20Race%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/f1-racing-championship-n64/004%2520-%2520Race%25202.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 476,
+    "filesize_mp3_bytes": 8608807,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

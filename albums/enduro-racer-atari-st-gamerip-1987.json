@@ -1,0 +1,69 @@
+{
+  "title": "Enduro Racer",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T21:38:25.188379+00:00",
+  "slug": "enduro-racer-atari-st-gamerip-1987",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/enduro-racer-atari-st-gamerip-1987",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/enduro-racer-atari-st-gamerip-1987/E1.jpg"
+  ],
+  "year": 1987,
+  "date_added": "2023-04-05T00:00:00+00:00",
+  "developers": {
+    "Icon Design": "https://downloads.khinsider.com/game-soundtracks/developer/icon-design",
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega",
+    "Sega AM2": "https://downloads.khinsider.com/game-soundtracks/developer/sega-am2"
+  },
+  "publishers": {
+    "Activision": "https://downloads.khinsider.com/game-soundtracks/publisher/activision",
+    "Activision Blizzard": "https://downloads.khinsider.com/game-soundtracks/publisher/activision-blizzard",
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2495610,
+      "filesize_mp3_bytes": 912261,
+      "track_number": 1,
+      "title": "Name Entry 2 (Title Demo)",
+      "runtime": 44,
+      "source_mp3": "https://vgmsite.com/soundtracks/enduro-racer-atari-st-gamerip-1987/lyliypwpkd/01.%20Name%20Entry%202%20%28Title%20Demo%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/enduro-racer-atari-st-gamerip-1987/lyliypwpkd/01.%20Name%20Entry%202%20%28Title%20Demo%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/enduro-racer-atari-st-gamerip-1987/01.%2520Name%2520Entry%25202%2520%2528Title%2520Demo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 19807600,
+      "filesize_mp3_bytes": 8199864,
+      "track_number": 2,
+      "title": "Main BGM",
+      "runtime": 352,
+      "source_mp3": "https://vgmsite.com/soundtracks/enduro-racer-atari-st-gamerip-1987/tabawajbsd/02.%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/enduro-racer-atari-st-gamerip-1987/tabawajbsd/02.%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/enduro-racer-atari-st-gamerip-1987/02.%2520Main%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4131389,
+      "filesize_mp3_bytes": 1971322,
+      "track_number": 3,
+      "title": "Opening (Main BGM 2)",
+      "runtime": 78,
+      "source_mp3": "https://vgmsite.com/soundtracks/enduro-racer-atari-st-gamerip-1987/cxzyfghucy/03.%20Opening%20%28Main%20BGM%202%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/enduro-racer-atari-st-gamerip-1987/cxzyfghucy/03.%20Opening%20%28Main%20BGM%202%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/enduro-racer-atari-st-gamerip-1987/03.%2520Opening%2520%2528Main%2520BGM%25202%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 474,
+    "filesize_mp3_bytes": 11083447,
+    "filesize_flac_bytes": 26434599,
+    "tracks": 3
+  }
+}

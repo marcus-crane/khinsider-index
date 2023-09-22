@@ -1,0 +1,89 @@
+{
+  "title": "Exciting Basket",
+  "titles_alternative": [
+    "\u30a8\u30ad\u30b5\u30a4\u30c6\u30a3\u30f3\u30b0 \u30d0\u30b9\u30b1\u30c3\u30c8"
+  ],
+  "crawled_at": "2023-09-21T22:27:30.402904+00:00",
+  "slug": "exciting-basket-fds",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/exciting-basket-fds",
+  "platforms": {
+    "FDS": "https://downloads.khinsider.com/game-soundtracks/famicom-disk-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/exciting-basket-fds/Exciting%20Basket.png"
+  ],
+  "year": 1987,
+  "date_added": "2022-04-14T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami"
+  },
+  "publishers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 62914,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 1,
+      "title": "Start",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/exciting-basket-fds/gnczkmxmhv/01%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/exciting-basket-fds/gnczkmxmhv/01%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/exciting-basket-fds/01%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1845493,
+      "filesize_mp3_bytes": 775946,
+      "track_number": 2,
+      "title": "Options",
+      "runtime": 40,
+      "source_mp3": "https://vgmsite.com/soundtracks/exciting-basket-fds/caxotjvujh/02%20Options.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/exciting-basket-fds/caxotjvujh/02%20Options.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/exciting-basket-fds/02%2520Options.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4183818,
+      "filesize_mp3_bytes": 1992294,
+      "track_number": 3,
+      "title": "Main BGM",
+      "runtime": 88,
+      "source_mp3": "https://vgmsite.com/soundtracks/exciting-basket-fds/lebnhiwygh/03%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/exciting-basket-fds/lebnhiwygh/03%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/exciting-basket-fds/03%2520Main%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1981808,
+      "filesize_mp3_bytes": 796917,
+      "track_number": 4,
+      "title": "Half Time",
+      "runtime": 41,
+      "source_mp3": "https://vgmsite.com/soundtracks/exciting-basket-fds/yqilxypvxf/04%20Half%20Time.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/exciting-basket-fds/yqilxypvxf/04%20Half%20Time.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/exciting-basket-fds/04%2520Half%2520Time.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1310720,
+      "filesize_mp3_bytes": 534773,
+      "track_number": 5,
+      "title": "Game Set",
+      "runtime": 27,
+      "source_mp3": "https://vgmsite.com/soundtracks/exciting-basket-fds/rhzqkbpwgn/05%20Game%20Set.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/exciting-basket-fds/rhzqkbpwgn/05%20Game%20Set.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/exciting-basket-fds/05%2520Game%2520Set.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 198,
+    "filesize_mp3_bytes": 4131387,
+    "filesize_flac_bytes": 9384753,
+    "tracks": 5
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "title": "The Flintstones",
+  "titles_alternative": [
+    "\u30d5\u30ea\u30f3\u30c8\u30b9\u30c8\u30fc\u30f3"
+  ],
+  "crawled_at": "2023-09-22T00:58:03.023977+00:00",
+  "slug": "flintstones-the-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/flintstones-the-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/flintstones-the-master-system/Flintstones-SMS.png"
+  ],
+  "year": 1991,
+  "date_added": "2018-02-08T00:00:00+00:00",
+  "developers": {
+    "Grandslam": "https://downloads.khinsider.com/game-soundtracks/developer/grandslam"
+  },
+  "publishers": {
+    "Tiertex": "https://downloads.khinsider.com/game-soundtracks/publisher/tiertex"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3890216,
+      "filesize_mp3_bytes": 2673868,
+      "track_number": 1,
+      "title": "Theme",
+      "runtime": 67,
+      "source_mp3": "https://vgmsite.com/soundtracks/flintstones-the-master-system/tsjudmxd/01%20-%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/flintstones-the-master-system/tsjudmxd/01%20-%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/flintstones-the-master-system/01%2520-%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11838423,
+      "filesize_mp3_bytes": 7916748,
+      "track_number": 2,
+      "title": "Game",
+      "runtime": 198,
+      "source_mp3": "https://vgmsite.com/soundtracks/flintstones-the-master-system/urqaclkz/02%20-%20Game.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/flintstones-the-master-system/urqaclkz/02%20-%20Game.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/flintstones-the-master-system/02%2520-%2520Game.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 265,
+    "filesize_mp3_bytes": 10590616,
+    "filesize_flac_bytes": 15728639,
+    "tracks": 2
+  }
+}

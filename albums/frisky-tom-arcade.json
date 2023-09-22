@@ -1,0 +1,114 @@
+{
+  "title": "Frisky Tom",
+  "titles_alternative": [
+    "\u30d5\u30ea\u30b9\u30ad\u30fc\u30fb\u30c8\u30e0"
+  ],
+  "crawled_at": "2023-09-22T02:22:21.808405+00:00",
+  "slug": "frisky-tom-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/frisky-tom-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/frisky-tom-arcade/FT.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2017-05-20T00:00:00+00:00",
+  "developers": {
+    "Jorudan": "https://downloads.khinsider.com/game-soundtracks/developer/jorudan"
+  },
+  "publishers": {
+    "Nichibutsu": "https://downloads.khinsider.com/game-soundtracks/publisher/nichibutsu"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 1,
+      "title": "Coin",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/frisky-tom-arcade/buwbtlld/01_Coin.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/frisky-tom-arcade/01_Coin.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 2,
+      "title": "Get Ready!",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/frisky-tom-arcade/xxsurlde/02_Get%20Ready%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/frisky-tom-arcade/02_Get%2520Ready%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 975175,
+      "track_number": 3,
+      "title": "Main BGM",
+      "runtime": 51,
+      "source_mp3": "https://vgmsite.com/soundtracks/frisky-tom-arcade/muvvudpy/03_Main%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/frisky-tom-arcade/03_Main%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 4,
+      "title": "Purple Mouse",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/frisky-tom-arcade/nskyofes/04_Purple%20Mouse.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/frisky-tom-arcade/04_Purple%2520Mouse.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 5,
+      "title": "Alert",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/frisky-tom-arcade/xzosafqm/05_Alert.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/frisky-tom-arcade/05_Alert.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 283115,
+      "track_number": 6,
+      "title": "Bathing Scene",
+      "runtime": 15,
+      "source_mp3": "https://vgmsite.com/soundtracks/frisky-tom-arcade/ljosseda/06_Bathing%20Scene.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/frisky-tom-arcade/06_Bathing%2520Scene.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 7,
+      "title": "Game Over",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/frisky-tom-arcade/drdndrxe/07_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/frisky-tom-arcade/07_Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 199229,
+      "track_number": 8,
+      "title": "Unknown",
+      "runtime": 13,
+      "source_mp3": "https://vgmsite.com/soundtracks/frisky-tom-arcade/lrhepwxw/08_Unknown.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/frisky-tom-arcade/08_Unknown.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 103,
+    "filesize_mp3_bytes": 1824519,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

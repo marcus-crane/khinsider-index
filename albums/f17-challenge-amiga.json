@@ -1,0 +1,82 @@
+{
+  "title": "F17 Challenge",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T22:44:33.346074+00:00",
+  "slug": "f17-challenge-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/f17-challenge-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/f17-challenge-amiga/C1.png"
+  ],
+  "year": 1993,
+  "date_added": "2018-01-22T00:00:00+00:00",
+  "developers": {
+    "Holodream": "https://downloads.khinsider.com/game-soundtracks/developer/holodream"
+  },
+  "publishers": {
+    "Team 17": "https://downloads.khinsider.com/game-soundtracks/publisher/team-17"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7497318,
+      "track_number": 1,
+      "title": "Intro Sequence",
+      "runtime": 263,
+      "source_mp3": "https://vgmsite.com/soundtracks/f17-challenge-amiga/ivrnubem/01_Intro%20Sequence.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/f17-challenge-amiga/01_Intro%2520Sequence.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6815744,
+      "track_number": 2,
+      "title": "Menu Theme",
+      "runtime": 234,
+      "source_mp3": "https://vgmsite.com/soundtracks/f17-challenge-amiga/eatgzknb/02_Menu%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/f17-challenge-amiga/02_Menu%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2202009,
+      "track_number": 3,
+      "title": "Results Screen",
+      "runtime": 83,
+      "source_mp3": "https://vgmsite.com/soundtracks/f17-challenge-amiga/coanxidh/03_Results%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/f17-challenge-amiga/03_Results%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3743416,
+      "track_number": 4,
+      "title": "Race Winner",
+      "runtime": 131,
+      "source_mp3": "https://vgmsite.com/soundtracks/f17-challenge-amiga/eyfuacli/04_Race%20Winner.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/f17-challenge-amiga/04_Race%2520Winner.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4141875,
+      "track_number": 5,
+      "title": "World Champion",
+      "runtime": 155,
+      "source_mp3": "https://vgmsite.com/soundtracks/f17-challenge-amiga/fqoksxpi/05_World%20Champion.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/f17-challenge-amiga/05_World%2520Champion.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 866,
+    "filesize_mp3_bytes": 24400362,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

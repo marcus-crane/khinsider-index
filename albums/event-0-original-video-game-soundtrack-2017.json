@@ -1,0 +1,84 @@
+{
+  "title": "Event[0] Original Video Game Soundtrack",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T22:14:35.041436+00:00",
+  "slug": "event-0-original-video-game-soundtrack-2017",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/event-0-original-video-game-soundtrack-2017",
+  "platforms": {
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/event-0-original-video-game-soundtrack-2017/Cover.jpg"
+  ],
+  "year": 2017,
+  "catalog_number": null,
+  "date_added": "2023-05-16T00:00:00+00:00",
+  "developers": {
+    "Ocelot Society": "https://downloads.khinsider.com/game-soundtracks/developer/ocelot-society"
+  },
+  "publishers": {
+    "Ocelot Society": "https://downloads.khinsider.com/game-soundtracks/publisher/ocelot-society"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7497318,
+      "track_number": 1,
+      "title": "Transmission",
+      "runtime": 185,
+      "source_mp3": "https://vgmsite.com/soundtracks/event-0-original-video-game-soundtrack-2017/djfleqxqjm/01.%20Transmission.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/event-0-original-video-game-soundtrack-2017/01.%2520Transmission.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7497318,
+      "track_number": 2,
+      "title": "Hey Judy",
+      "runtime": 185,
+      "source_mp3": "https://vgmsite.com/soundtracks/event-0-original-video-game-soundtrack-2017/sntkkpchwj/02.%20Hey%20Judy.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/event-0-original-video-game-soundtrack-2017/02.%2520Hey%2520Judy.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5106565,
+      "track_number": 3,
+      "title": "Corridor",
+      "runtime": 125,
+      "source_mp3": "https://vgmsite.com/soundtracks/event-0-original-video-game-soundtrack-2017/ssxumdozpw/03.%20Corridor.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/event-0-original-video-game-soundtrack-2017/03.%2520Corridor.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10747904,
+      "track_number": 4,
+      "title": "Merge",
+      "runtime": 266,
+      "source_mp3": "https://vgmsite.com/soundtracks/event-0-original-video-game-soundtrack-2017/afpbpsrqrj/04.%20Merge.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/event-0-original-video-game-soundtrack-2017/04.%2520Merge.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7518289,
+      "track_number": 5,
+      "title": "Kaizen",
+      "runtime": 185,
+      "source_mp3": "https://vgmsite.com/soundtracks/event-0-original-video-game-soundtrack-2017/wqfthcyxlc/05.%20Kaizen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/event-0-original-video-game-soundtrack-2017/05.%2520Kaizen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 946,
+    "filesize_mp3_bytes": 38367394,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

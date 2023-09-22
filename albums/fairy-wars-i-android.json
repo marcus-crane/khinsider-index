@@ -1,0 +1,45 @@
+{
+  "title": "Fairy Wars I",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T22:49:46.052565+00:00",
+  "slug": "fairy-wars-i-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/fairy-wars-i-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/fairy-wars-i-android/icon.png"
+  ],
+  "date_added": "2018-03-06T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2076180,
+      "title": "gamebgm",
+      "runtime": 99,
+      "source_mp3": "https://vgmsite.com/soundtracks/fairy-wars-i-android/fuyrdurd/gamebgm.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fairy-wars-i-android/gamebgm.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 912261,
+      "title": "maintheme",
+      "runtime": 43,
+      "source_mp3": "https://vgmsite.com/soundtracks/fairy-wars-i-android/uesmzxhs/maintheme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fairy-wars-i-android/maintheme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 142,
+    "filesize_mp3_bytes": 2988441,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

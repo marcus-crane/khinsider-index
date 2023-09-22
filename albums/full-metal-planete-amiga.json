@@ -1,0 +1,42 @@
+{
+  "title": "Full Metal Planete",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T02:35:27.510681+00:00",
+  "slug": "full-metal-planete-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/full-metal-planete-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/full-metal-planete-amiga/Full%20Metal%20Planete.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2017-03-25T00:00:00+00:00",
+  "developers": {
+    "Hitech Productions": "https://downloads.khinsider.com/game-soundtracks/developer/hitech-productions"
+  },
+  "publishers": {
+    "Infogrames": "https://downloads.khinsider.com/game-soundtracks/publisher/infogrames"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5211422,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 176,
+      "source_mp3": "https://vgmsite.com/soundtracks/full-metal-planete-amiga/baitsmtt/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/full-metal-planete-amiga/01_Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 176,
+    "filesize_mp3_bytes": 5211422,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

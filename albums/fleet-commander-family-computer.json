@@ -1,0 +1,57 @@
+{
+  "title": "Fleet Commander",
+  "titles_alternative": [
+    "\u30d5\u30ea\u30fc\u30c8\u30b3\u30de\u30f3\u30c0\u30fc"
+  ],
+  "crawled_at": "2023-09-22T00:56:38.449945+00:00",
+  "slug": "fleet-commander-family-computer",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/fleet-commander-family-computer",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/fleet-commander-family-computer/F1.jpg"
+  ],
+  "year": 1988,
+  "date_added": "2022-04-21T00:00:00+00:00",
+  "developers": {
+    "ASCII": "https://downloads.khinsider.com/game-soundtracks/developer/ascii"
+  },
+  "publishers": {
+    "ASCII": "https://downloads.khinsider.com/game-soundtracks/publisher/ascii"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 922746,
+      "filesize_mp3_bytes": 367001,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 18,
+      "source_mp3": "https://vgmsite.com/soundtracks/fleet-commander-family-computer/mohpobqfld/01%20Title.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/fleet-commander-family-computer/mohpobqfld/01%20Title.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fleet-commander-family-computer/01%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6343884,
+      "filesize_mp3_bytes": 2327838,
+      "track_number": 2,
+      "title": "Ending",
+      "runtime": 114,
+      "source_mp3": "https://vgmsite.com/soundtracks/fleet-commander-family-computer/uooyqlvpiv/02%20Ending.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/fleet-commander-family-computer/uooyqlvpiv/02%20Ending.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fleet-commander-family-computer/02%2520Ending.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 132,
+    "filesize_mp3_bytes": 2694839,
+    "filesize_flac_bytes": 7266630,
+    "tracks": 2
+  }
+}

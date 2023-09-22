@@ -1,0 +1,92 @@
+{
+  "title": "Fantastic Voyage",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T23:16:54.624227+00:00",
+  "slug": "fantastic-voyage-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/fantastic-voyage-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/fantastic-voyage-amiga/F1.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2017-05-30T00:00:00+00:00",
+  "developers": {
+    "Centaur Software": "https://downloads.khinsider.com/game-soundtracks/developer/centaur-software"
+  },
+  "publishers": {
+    "Centaur Software": "https://downloads.khinsider.com/game-soundtracks/publisher/centaur-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6731857,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 246,
+      "source_mp3": "https://vgmsite.com/soundtracks/fantastic-voyage-amiga/awaszeks/01_Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fantastic-voyage-amiga/01_Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7371489,
+      "track_number": 2,
+      "title": "Blood (Stage 1)",
+      "runtime": 256,
+      "source_mp3": "https://vgmsite.com/soundtracks/fantastic-voyage-amiga/pyvibmdo/02_Blood%20%28Stage%201%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fantastic-voyage-amiga/02_Blood%2520%2528Stage%25201%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7486832,
+      "track_number": 3,
+      "title": "Molecular (Stage 2)",
+      "runtime": 253,
+      "source_mp3": "https://vgmsite.com/soundtracks/fantastic-voyage-amiga/txwpctwe/03_Molecular%20%28Stage%202%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fantastic-voyage-amiga/03_Molecular%2520%2528Stage%25202%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7224688,
+      "track_number": 4,
+      "title": "Brain (Stage 3)",
+      "runtime": 260,
+      "source_mp3": "https://vgmsite.com/soundtracks/fantastic-voyage-amiga/yhxluqmr/04_Brain%20%28Stage%203%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fantastic-voyage-amiga/04_Brain%2520%2528Stage%25203%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1593835,
+      "track_number": 5,
+      "title": "Name Entry",
+      "runtime": 52,
+      "source_mp3": "https://vgmsite.com/soundtracks/fantastic-voyage-amiga/xsenfqks/05_Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fantastic-voyage-amiga/05_Name%2520Entry.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 901775,
+      "track_number": 6,
+      "title": "Game Over",
+      "runtime": 35,
+      "source_mp3": "https://vgmsite.com/soundtracks/fantastic-voyage-amiga/kawyynns/06_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fantastic-voyage-amiga/06_Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1102,
+    "filesize_mp3_bytes": 31310476,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

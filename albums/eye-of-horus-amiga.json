@@ -1,0 +1,122 @@
+{
+  "title": "Eye of Horus",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-21T22:33:50.317123+00:00",
+  "slug": "eye-of-horus-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/eye-of-horus-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/eye-of-horus-amiga/E1.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2019-06-10T00:00:00+00:00",
+  "developers": {
+    "Denton Designs": "https://downloads.khinsider.com/game-soundtracks/developer/denton-designs"
+  },
+  "publishers": {
+    "Logotron": "https://downloads.khinsider.com/game-soundtracks/publisher/logotron"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3187671,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 102,
+      "source_mp3": "https://vgmsite.com/soundtracks/eye-of-horus-amiga/hwogrlegin/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/eye-of-horus-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7895777,
+      "track_number": 2,
+      "title": "In-Game BGM",
+      "runtime": 248,
+      "source_mp3": "https://vgmsite.com/soundtracks/eye-of-horus-amiga/ifkjmfxvod/02_In-Game%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/eye-of-horus-amiga/02_In-Game%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 3,
+      "title": "Death",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/eye-of-horus-amiga/dremufsnmc/03_Death.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/eye-of-horus-amiga/03_Death.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 220200,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/eye-of-horus-amiga/kuttscjpai/04_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/eye-of-horus-amiga/04_Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1279262,
+      "track_number": 5,
+      "title": "Unknown 1",
+      "runtime": 43,
+      "source_mp3": "https://vgmsite.com/soundtracks/eye-of-horus-amiga/hhwiqebquh/05_Unknown%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/eye-of-horus-amiga/05_Unknown%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 335544,
+      "track_number": 6,
+      "title": "Unknown 2",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/eye-of-horus-amiga/jnccstvwow/06_Unknown%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/eye-of-horus-amiga/06_Unknown%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1478492,
+      "track_number": 7,
+      "title": "Unknown 3",
+      "runtime": 53,
+      "source_mp3": "https://vgmsite.com/soundtracks/eye-of-horus-amiga/cwcpcmakao/07_Unknown%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/eye-of-horus-amiga/07_Unknown%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1488977,
+      "track_number": 8,
+      "title": "Unknown 4",
+      "runtime": 53,
+      "source_mp3": "https://vgmsite.com/soundtracks/eye-of-horus-amiga/gdcgcikuqg/08_Unknown%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/eye-of-horus-amiga/08_Unknown%25204.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2275409,
+      "track_number": 9,
+      "title": "Unknown 5",
+      "runtime": 63,
+      "source_mp3": "https://vgmsite.com/soundtracks/eye-of-horus-amiga/nkznbvhydm/09_Unknown%205.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/eye-of-horus-amiga/09_Unknown%25205.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 584,
+    "filesize_mp3_bytes": 18287161,
+    "filesize_flac_bytes": 0,
+    "tracks": 9
+  }
+}
