@@ -1,0 +1,114 @@
+{
+  "title": "Naomi",
+  "titles_alternative": [
+    "\u5948\u7dd2\u7f8e"
+  ],
+  "crawled_at": "2023-09-23T12:23:04.357833+00:00",
+  "slug": "naomi-pc-9801",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/naomi-pc-9801",
+  "platforms": {
+    "PC-98": "https://downloads.khinsider.com/game-soundtracks/pc-9801"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/naomi-pc-9801/Naomi%20%28PC-9801%29.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2018-04-09T00:00:00+00:00",
+  "developers": {
+    "Red-Zone": "https://downloads.khinsider.com/game-soundtracks/developer/red-zone"
+  },
+  "publishers": {
+    "IDES": "https://downloads.khinsider.com/game-soundtracks/publisher/ides"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2873098,
+      "track_number": 1,
+      "title": "EX_20",
+      "runtime": 98,
+      "source_mp3": "https://vgmsite.com/soundtracks/naomi-pc-9801/gxrnqoyc/01_EX_20.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/naomi-pc-9801/01_EX_20.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4791992,
+      "track_number": 2,
+      "title": "ST_02",
+      "runtime": 162,
+      "source_mp3": "https://vgmsite.com/soundtracks/naomi-pc-9801/ssvslxab/02_ST_02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/naomi-pc-9801/02_ST_02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3858759,
+      "track_number": 3,
+      "title": "N_01",
+      "runtime": 140,
+      "source_mp3": "https://vgmsite.com/soundtracks/naomi-pc-9801/rghayevi/03_N_01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/naomi-pc-9801/03_N_01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2443182,
+      "track_number": 4,
+      "title": "N_02",
+      "runtime": 89,
+      "source_mp3": "https://vgmsite.com/soundtracks/naomi-pc-9801/npgylytq/04_N_02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/naomi-pc-9801/04_N_02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3282042,
+      "track_number": 5,
+      "title": "N_03",
+      "runtime": 111,
+      "source_mp3": "https://vgmsite.com/soundtracks/naomi-pc-9801/egibiiiv/05_N_03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/naomi-pc-9801/05_N_03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3219128,
+      "track_number": 6,
+      "title": "N_04",
+      "runtime": 111,
+      "source_mp3": "https://vgmsite.com/soundtracks/naomi-pc-9801/kzyjupxy/06_N_04.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/naomi-pc-9801/06_N_04.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2380267,
+      "track_number": 7,
+      "title": "N_05",
+      "runtime": 82,
+      "source_mp3": "https://vgmsite.com/soundtracks/naomi-pc-9801/ghivitee/07_N_05.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/naomi-pc-9801/07_N_05.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2768240,
+      "track_number": 8,
+      "title": "N_06",
+      "runtime": 90,
+      "source_mp3": "https://vgmsite.com/soundtracks/naomi-pc-9801/nokvrzrc/08_N_06.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/naomi-pc-9801/08_N_06.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 883,
+    "filesize_mp3_bytes": 25616708,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

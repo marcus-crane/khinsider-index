@@ -1,0 +1,45 @@
+{
+  "title": "Miss Dota",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T10:01:34.934691+00:00",
+  "slug": "miss-dota-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/miss-dota-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/miss-dota-android/1.png"
+  ],
+  "date_added": "2017-03-14T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 891289,
+      "title": "BGM_battle",
+      "runtime": 37,
+      "source_mp3": "https://vgmsite.com/soundtracks/miss-dota-android/jfsskjzf/BGM_battle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/miss-dota-android/BGM_battle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1698693,
+      "title": "BGM_main",
+      "runtime": 71,
+      "source_mp3": "https://vgmsite.com/soundtracks/miss-dota-android/drmueylz/BGM_main.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/miss-dota-android/BGM_main.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 108,
+    "filesize_mp3_bytes": 2589982,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "title": "Monster Busters - Link Flash",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T10:26:07.621975+00:00",
+  "slug": "monster-busters-link-flash-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/monster-busters-link-flash-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/monster-busters-link-flash-android/1.png"
+  ],
+  "date_added": "2017-03-14T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1247805,
+      "title": "stage_bgm",
+      "runtime": 58,
+      "source_mp3": "https://vgmsite.com/soundtracks/monster-busters-link-flash-android/muaajycm/stage_bgm.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monster-busters-link-flash-android/stage_bgm.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1142947,
+      "title": "stage_bgm_boss",
+      "runtime": 54,
+      "source_mp3": "https://vgmsite.com/soundtracks/monster-busters-link-flash-android/bvbywjru/stage_bgm_boss.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monster-busters-link-flash-android/stage_bgm_boss.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1331691,
+      "title": "stage_bgm_hero",
+      "runtime": 61,
+      "source_mp3": "https://vgmsite.com/soundtracks/monster-busters-link-flash-android/ynyknjlj/stage_bgm_hero.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monster-busters-link-flash-android/stage_bgm_hero.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 817889,
+      "title": "tower_bgm",
+      "runtime": 51,
+      "source_mp3": "https://vgmsite.com/soundtracks/monster-busters-link-flash-android/wxwsktlc/tower_bgm.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monster-busters-link-flash-android/tower_bgm.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 660602,
+      "title": "tower_bgm_day",
+      "runtime": 31,
+      "source_mp3": "https://vgmsite.com/soundtracks/monster-busters-link-flash-android/fltcgnyy/tower_bgm_day.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monster-busters-link-flash-android/tower_bgm_day.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 671088,
+      "title": "tower_bgm_night",
+      "runtime": 31,
+      "source_mp3": "https://vgmsite.com/soundtracks/monster-busters-link-flash-android/qsxjkprd/tower_bgm_night.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monster-busters-link-flash-android/tower_bgm_night.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 534773,
+      "title": "tower_weekly_bgm",
+      "runtime": 33,
+      "source_mp3": "https://vgmsite.com/soundtracks/monster-busters-link-flash-android/jqylzuyi/tower_weekly_bgm.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monster-busters-link-flash-android/tower_weekly_bgm.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 319,
+    "filesize_mp3_bytes": 6406795,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

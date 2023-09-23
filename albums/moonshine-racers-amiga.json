@@ -1,0 +1,78 @@
+{
+  "title": "Moonshine Racers",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T10:52:08.667354+00:00",
+  "slug": "moonshine-racers-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/moonshine-racers-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/moonshine-racers-amiga/Moonshine%20Racers.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2021-03-07T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1488977,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 93,
+      "source_mp3": "https://vgmsite.com/soundtracks/moonshine-racers-amiga/lbuxqzovpv/01%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/moonshine-racers-amiga/01%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3082813,
+      "track_number": 2,
+      "title": "Moon",
+      "runtime": 192,
+      "source_mp3": "https://vgmsite.com/soundtracks/moonshine-racers-amiga/vqqyhyptms/02%20Moon.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/moonshine-racers-amiga/02%2520Moon.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 440401,
+      "track_number": 3,
+      "title": "Bar",
+      "runtime": 27,
+      "source_mp3": "https://vgmsite.com/soundtracks/moonshine-racers-amiga/fkyqfzcoyw/03%20Bar.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/moonshine-racers-amiga/03%2520Bar.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 838860,
+      "track_number": 4,
+      "title": "Shop",
+      "runtime": 52,
+      "source_mp3": "https://vgmsite.com/soundtracks/moonshine-racers-amiga/fkcryyioxu/04%20Shop.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/moonshine-racers-amiga/04%2520Shop.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 209715,
+      "track_number": 5,
+      "title": "Sad",
+      "runtime": 13,
+      "source_mp3": "https://vgmsite.com/soundtracks/moonshine-racers-amiga/xopvksjecn/05%20Sad.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/moonshine-racers-amiga/05%2520Sad.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 377,
+    "filesize_mp3_bytes": 6060766,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

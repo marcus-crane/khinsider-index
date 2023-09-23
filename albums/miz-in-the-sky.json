@@ -1,0 +1,71 @@
+{
+  "title": "In the Sky",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T10:04:24.980930+00:00",
+  "slug": "miz-in-the-sky",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/miz-in-the-sky",
+  "platforms": {
+    "PS2": "https://downloads.khinsider.com/game-soundtracks/playstation-2"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/miz-in-the-sky/Miz%20-%20In%20The%20Sky.jpg"
+  ],
+  "year": 2005,
+  "catalog_number": "VICL-35861",
+  "date_added": "2006-11-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Victor": "https://downloads.khinsider.com/game-soundtracks/publisher/victor"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5672796,
+      "track_number": 1,
+      "title": "in the sky",
+      "runtime": 185,
+      "source_mp3": "https://vgmsite.com/soundtracks/miz-in-the-sky/ohrqkmcf/01%20in%20the%20sky.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/miz-in-the-sky/01%2520in%2520the%2520sky.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8608808,
+      "track_number": 2,
+      "title": "what difference",
+      "runtime": 278,
+      "source_mp3": "https://vgmsite.com/soundtracks/miz-in-the-sky/cnwmhest/02%20what%20difference.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/miz-in-the-sky/02%2520what%2520difference.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5735710,
+      "track_number": 3,
+      "title": "in the sky -remix-",
+      "runtime": 191,
+      "source_mp3": "https://vgmsite.com/soundtracks/miz-in-the-sky/poahgmsn/03%20in%20the%20sky%20-remix-.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/miz-in-the-sky/03%2520in%2520the%2520sky%2520-remix-.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5882511,
+      "track_number": 4,
+      "title": "in the sky (music track)",
+      "runtime": 184,
+      "source_mp3": "https://vgmsite.com/soundtracks/miz-in-the-sky/uhcyfwol/04%20in%20the%20sky%20%28music%20track%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/miz-in-the-sky/04%2520in%2520the%2520sky%2520%2528music%2520track%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 838,
+    "filesize_mp3_bytes": 25899825,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

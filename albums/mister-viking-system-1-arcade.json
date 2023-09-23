@@ -1,0 +1,79 @@
+{
+  "title": "Mister Viking (System 1)",
+  "titles_alternative": [
+    "\u30df\u30b9\u30bf\u30fc\u30d0\u30a4\u30ad\u30f3\u30b0"
+  ],
+  "crawled_at": "2023-09-23T10:03:02.207180+00:00",
+  "slug": "mister-viking-system-1-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mister-viking-system-1-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mister-viking-system-1-arcade/M1.jpg"
+  ],
+  "year": 1984,
+  "date_added": "2022-05-11T00:00:00+00:00",
+  "developers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Bally Midway": "https://downloads.khinsider.com/game-soundtracks/publisher/bally-midway",
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2705326,
+      "filesize_mp3_bytes": 985661,
+      "track_number": 1,
+      "title": "Start ~ Main BGM",
+      "runtime": 47,
+      "source_mp3": "https://vgmsite.com/soundtracks/mister-viking-system-1-arcade/aosqhxfcpd/01%20Start%20~%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mister-viking-system-1-arcade/aosqhxfcpd/01%20Start%20~%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mister-viking-system-1-arcade/01%2520Start%2520~%2520Main%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 283115,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 2,
+      "title": "Round Clear",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/mister-viking-system-1-arcade/qqzxmtsvet/02%20Round%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mister-viking-system-1-arcade/qqzxmtsvet/02%20Round%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mister-viking-system-1-arcade/02%2520Round%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 167772,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 3,
+      "title": "Miss",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/mister-viking-system-1-arcade/mzzcvtbhzf/03%20Miss.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mister-viking-system-1-arcade/mzzcvtbhzf/03%20Miss.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mister-viking-system-1-arcade/03%2520Miss.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2380267,
+      "filesize_mp3_bytes": 796917,
+      "track_number": 4,
+      "title": "Name Entry",
+      "runtime": 46,
+      "source_mp3": "https://vgmsite.com/soundtracks/mister-viking-system-1-arcade/khyjzmrgtg/04%20Name%20Entry.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mister-viking-system-1-arcade/khyjzmrgtg/04%20Name%20Entry.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mister-viking-system-1-arcade/04%2520Name%2520Entry.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 102,
+    "filesize_mp3_bytes": 1939863,
+    "filesize_flac_bytes": 5536480,
+    "tracks": 4
+  }
+}

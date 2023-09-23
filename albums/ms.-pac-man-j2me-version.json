@@ -1,0 +1,70 @@
+{
+  "title": "Ms. Pac-Man (Java)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T11:22:39.060302+00:00",
+  "slug": "ms.-pac-man-j2me-version",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ms.-pac-man-j2me-version",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/ms.-pac-man-j2me-version/Ms-pac-man-j2me_1.png"
+  ],
+  "year": 2007,
+  "date_added": "2022-01-22T00:00:00+00:00",
+  "developers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/developer/namco"
+  },
+  "publishers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/publisher/namco"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 178257,
+      "track_number": 1,
+      "title": "Game Start",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/ms.-pac-man-j2me-version/umppkfgzpc/1.%20Game%20Start.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ms.-pac-man-j2me-version/1.%2520Game%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 408944,
+      "track_number": 2,
+      "title": "They Meet",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/ms.-pac-man-j2me-version/kmrjmujwmx/2.%20They%20Meet.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ms.-pac-man-j2me-version/2.%2520They%2520Meet.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 933232,
+      "track_number": 3,
+      "title": "The Chase",
+      "runtime": 23,
+      "source_mp3": "https://vgmsite.com/soundtracks/ms.-pac-man-j2me-version/bvwzefcnbj/3.%20The%20Chase.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ms.-pac-man-j2me-version/3.%2520The%2520Chase.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 283115,
+      "track_number": 4,
+      "title": "Junior",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/ms.-pac-man-j2me-version/ynklqmeedt/4.%20Junior.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ms.-pac-man-j2me-version/4.%2520Junior.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 44,
+    "filesize_mp3_bytes": 1803548,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

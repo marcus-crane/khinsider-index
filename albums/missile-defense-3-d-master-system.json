@@ -1,0 +1,76 @@
+{
+  "title": "Missile Defense 3-D",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T10:01:50.978070+00:00",
+  "slug": "missile-defense-3-d-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/missile-defense-3-d-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/missile-defense-3-d-master-system/MD1.jpg"
+  ],
+  "year": 1987,
+  "date_added": "2020-07-15T00:00:00+00:00",
+  "developers": {
+    "Sega R&D2": "https://downloads.khinsider.com/game-soundtracks/developer/sega-r-d2"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7151288,
+      "filesize_mp3_bytes": 2537553,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 124,
+      "source_mp3": "https://vgmsite.com/soundtracks/missile-defense-3-d-master-system/ojkrwczvcl/01%20-%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/missile-defense-3-d-master-system/ojkrwczvcl/01%20-%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/missile-defense-3-d-master-system/01%2520-%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7591690,
+      "filesize_mp3_bytes": 2778726,
+      "track_number": 2,
+      "title": "Launch Base",
+      "runtime": 133,
+      "source_mp3": "https://vgmsite.com/soundtracks/missile-defense-3-d-master-system/fkinexfbqw/02%20-%20Launch%20Base.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/missile-defense-3-d-master-system/fkinexfbqw/02%20-%20Launch%20Base.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/missile-defense-3-d-master-system/02%2520-%2520Launch%2520Base.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4508876,
+      "filesize_mp3_bytes": 1572864,
+      "track_number": 3,
+      "title": "North Pole & Space",
+      "runtime": 79,
+      "source_mp3": "https://vgmsite.com/soundtracks/missile-defense-3-d-master-system/diltjkasfk/03%20-%20North%20Pole%20%26%20Space.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/missile-defense-3-d-master-system/diltjkasfk/03%20-%20North%20Pole%20%26%20Space.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/missile-defense-3-d-master-system/03%2520-%2520North%2520Pole%2520%2526%2520Space.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7686062,
+      "filesize_mp3_bytes": 2474639,
+      "track_number": 4,
+      "title": "City",
+      "runtime": 133,
+      "source_mp3": "https://vgmsite.com/soundtracks/missile-defense-3-d-master-system/qfhlkswmkz/04%20-%20City.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/missile-defense-3-d-master-system/qfhlkswmkz/04%20-%20City.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/missile-defense-3-d-master-system/04%2520-%2520City.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 469,
+    "filesize_mp3_bytes": 9363782,
+    "filesize_flac_bytes": 26937916,
+    "tracks": 4
+  }
+}

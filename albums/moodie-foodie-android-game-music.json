@@ -1,0 +1,34 @@
+{
+  "title": "Moodie Foodie (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T10:49:02.499340+00:00",
+  "slug": "moodie-foodie-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/moodie-foodie-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/moodie-foodie-android-game-music/1.jpg"
+  ],
+  "date_added": "2016-06-20T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1950351,
+      "title": "Moodie Foodie",
+      "runtime": 69,
+      "source_mp3": "https://vgmsite.com/soundtracks/moodie-foodie-android-game-music/yjgpfqfi/Moodie%20Foodie.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/moodie-foodie-android-game-music/Moodie%2520Foodie.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 69,
+    "filesize_mp3_bytes": 1950351,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

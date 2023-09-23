@@ -1,0 +1,34 @@
+{
+  "title": "Moe Hoi (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T10:11:10.530431+00:00",
+  "slug": "moe-hoi-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/moe-hoi-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/moe-hoi-android-game-music/1.jpeg"
+  ],
+  "date_added": "2016-06-04T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1195376,
+      "title": "bgm",
+      "runtime": 75,
+      "source_mp3": "https://vgmsite.com/soundtracks/moe-hoi-android-game-music/lvwnumom/bgm.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/moe-hoi-android-game-music/bgm.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 75,
+    "filesize_mp3_bytes": 1195376,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

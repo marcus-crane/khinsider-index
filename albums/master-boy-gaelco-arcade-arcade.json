@@ -1,0 +1,89 @@
+{
+  "title": "Master Boy (Gaelco Arcade)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T07:41:18.010111+00:00",
+  "slug": "master-boy-gaelco-arcade-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/master-boy-gaelco-arcade-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/master-boy-gaelco-arcade-arcade/Master%20Boy.png"
+  ],
+  "year": 1991,
+  "date_added": "2022-05-09T00:00:00+00:00",
+  "developers": {
+    "Gaelco": "https://downloads.khinsider.com/game-soundtracks/developer/gaelco",
+    "S.A.": "https://downloads.khinsider.com/game-soundtracks/developer/s.a"
+  },
+  "publishers": {
+    "Gaelco": "https://downloads.khinsider.com/game-soundtracks/publisher/gaelco",
+    "S.A.": "https://downloads.khinsider.com/game-soundtracks/publisher/s.a"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 31457,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 1,
+      "title": "Coin",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/master-boy-gaelco-arcade-arcade/fsjhrcmmxl/01%20Coin.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/master-boy-gaelco-arcade-arcade/fsjhrcmmxl/01%20Coin.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/master-boy-gaelco-arcade-arcade/01%2520Coin.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2191523,
+      "filesize_mp3_bytes": 1195376,
+      "track_number": 2,
+      "title": "Unknown Track",
+      "runtime": 52,
+      "source_mp3": "https://vgmsite.com/soundtracks/master-boy-gaelco-arcade-arcade/ixvqmmdbyd/02%20Unknown%20Track.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/master-boy-gaelco-arcade-arcade/ixvqmmdbyd/02%20Unknown%20Track.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/master-boy-gaelco-arcade-arcade/02%2520Unknown%2520Track.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2527068,
+      "filesize_mp3_bytes": 1363148,
+      "track_number": 3,
+      "title": "Question",
+      "runtime": 71,
+      "source_mp3": "https://vgmsite.com/soundtracks/master-boy-gaelco-arcade-arcade/hzdgltaalm/03%20Question.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/master-boy-gaelco-arcade-arcade/hzdgltaalm/03%20Question.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/master-boy-gaelco-arcade-arcade/03%2520Question.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2181038,
+      "filesize_mp3_bytes": 1101004,
+      "track_number": 4,
+      "title": "Selecting a Category",
+      "runtime": 55,
+      "source_mp3": "https://vgmsite.com/soundtracks/master-boy-gaelco-arcade-arcade/ooqmizszqv/04%20Selecting%20a%20Category.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/master-boy-gaelco-arcade-arcade/ooqmizszqv/04%20Selecting%20a%20Category.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/master-boy-gaelco-arcade-arcade/04%2520Selecting%2520a%2520Category.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 178257,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 5,
+      "title": "Game Over",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/master-boy-gaelco-arcade-arcade/rxdvwymqty/05%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/master-boy-gaelco-arcade-arcade/rxdvwymqty/05%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/master-boy-gaelco-arcade-arcade/05%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 183,
+    "filesize_mp3_bytes": 3785356,
+    "filesize_flac_bytes": 7109343,
+    "tracks": 5
+  }
+}

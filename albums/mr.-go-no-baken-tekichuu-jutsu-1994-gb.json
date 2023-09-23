@@ -1,0 +1,56 @@
+{
+  "title": "Mr. Go no Baken Tekichuu Jutsu",
+  "titles_alternative": [
+    "Mr.GO\u306e\u99ac\u5238\u7684\u4e2d\u8853"
+  ],
+  "crawled_at": "2023-09-23T11:21:16.075712+00:00",
+  "slug": "mr.-go-no-baken-tekichuu-jutsu-1994-gb",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mr.-go-no-baken-tekichuu-jutsu-1994-gb",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mr.-go-no-baken-tekichuu-jutsu-1994-gb/Mr.%20Go%20no%20Baken%20Tekichuu%20Jutsu.jpg"
+  ],
+  "year": 1994,
+  "date_added": "2022-05-21T00:00:00+00:00",
+  "developers": {
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/developer/taito"
+  },
+  "publishers": {
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/publisher/taito"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8797552,
+      "filesize_mp3_bytes": 3858759,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/mr.-go-no-baken-tekichuu-jutsu-1994-gb/arrfmqpiqj/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mr.-go-no-baken-tekichuu-jutsu-1994-gb/arrfmqpiqj/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mr.-go-no-baken-tekichuu-jutsu-1994-gb/01%2520BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8441036,
+      "filesize_mp3_bytes": 3072327,
+      "track_number": 2,
+      "title": "BGM #02",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/mr.-go-no-baken-tekichuu-jutsu-1994-gb/asuzqujjwd/02%20BGM%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mr.-go-no-baken-tekichuu-jutsu-1994-gb/asuzqujjwd/02%20BGM%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mr.-go-no-baken-tekichuu-jutsu-1994-gb/02%2520BGM%2520%252302.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 360,
+    "filesize_mp3_bytes": 6931086,
+    "filesize_flac_bytes": 17238588,
+    "tracks": 2
+  }
+}

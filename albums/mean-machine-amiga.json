@@ -1,0 +1,102 @@
+{
+  "title": "Mean Machine",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T07:51:34.013871+00:00",
+  "slug": "mean-machine-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mean-machine-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mean-machine-amiga/Mean%20Machine.png"
+  ],
+  "year": 1991,
+  "date_added": "2019-04-29T00:00:00+00:00",
+  "developers": {
+    "Optimus": "https://downloads.khinsider.com/game-soundtracks/developer/optimus"
+  },
+  "publishers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/publisher/codemasters"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4267704,
+      "track_number": 1,
+      "title": "Title Screen  Level 3",
+      "runtime": 157,
+      "source_mp3": "https://vgmsite.com/soundtracks/mean-machine-amiga/oenmixxc/01_Title%20Screen%20%20Level%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mean-machine-amiga/01_Title%2520Screen%2520%2520Level%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 2,
+      "title": "Get Ready!",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/mean-machine-amiga/ptimqcse/02_Get%20Ready%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mean-machine-amiga/02_Get%2520Ready%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3890216,
+      "track_number": 3,
+      "title": "Level 1",
+      "runtime": 127,
+      "source_mp3": "https://vgmsite.com/soundtracks/mean-machine-amiga/netpoopp/03_Level%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mean-machine-amiga/03_Level%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 4,
+      "title": "Qualified!",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/mean-machine-amiga/vsslwrsf/04_Qualified%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mean-machine-amiga/04_Qualified%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4078960,
+      "track_number": 5,
+      "title": "Level 2",
+      "runtime": 124,
+      "source_mp3": "https://vgmsite.com/soundtracks/mean-machine-amiga/rscvljsf/05_Level%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mean-machine-amiga/05_Level%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5368709,
+      "track_number": 6,
+      "title": "Level 4",
+      "runtime": 175,
+      "source_mp3": "https://vgmsite.com/soundtracks/mean-machine-amiga/knwsslbu/06_Level%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mean-machine-amiga/06_Level%25204.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 7,
+      "title": "Game Over",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/mean-machine-amiga/gvdeibka/07_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mean-machine-amiga/07_Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 600,
+    "filesize_mp3_bytes": 17993560,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

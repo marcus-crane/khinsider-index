@@ -1,0 +1,36 @@
+{
+  "title": "Mega Run Meets Pac-Man",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T08:21:11.593262+00:00",
+  "slug": "mega-run-meets-pac-man-ios",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mega-run-meets-pac-man-ios",
+  "platforms": {
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mega-run-meets-pac-man-ios/megarun-splashscreen-winSurface.png"
+  ],
+  "date_added": "2022-01-22T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 576716,
+      "title": "Main Menu (Mega Run Meets Pac-Man)",
+      "runtime": 14,
+      "source_mp3": "https://vgmsite.com/soundtracks/mega-run-meets-pac-man-ios/lopzfxykpu/Main%20Menu%20%28Mega%20Run%20Meets%20Pac-Man%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mega-run-meets-pac-man-ios/Main%2520Menu%2520%2528Mega%2520Run%2520Meets%2520Pac-Man%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 14,
+    "filesize_mp3_bytes": 576716,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

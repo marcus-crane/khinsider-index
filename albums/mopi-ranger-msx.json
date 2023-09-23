@@ -1,0 +1,90 @@
+{
+  "title": "Mopi Ranger",
+  "titles_alternative": [
+    "Mopiranger",
+    "\u30e2\u30d4\u30ec\u30f3\u30b8\u30e3\u30fc"
+  ],
+  "crawled_at": "2023-09-23T10:52:58.856907+00:00",
+  "slug": "mopi-ranger-msx",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mopi-ranger-msx",
+  "platforms": {
+    "MSX": "https://downloads.khinsider.com/game-soundtracks/msx"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mopi-ranger-msx/M1.jpg"
+  ],
+  "year": 1985,
+  "date_added": "2022-05-23T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami"
+  },
+  "publishers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 891289,
+      "filesize_mp3_bytes": 450887,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 25,
+      "source_mp3": "https://vgmsite.com/soundtracks/mopi-ranger-msx/kcapvdpyrq/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mopi-ranger-msx/kcapvdpyrq/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mopi-ranger-msx/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 209715,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 2,
+      "title": "Stage Start",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/mopi-ranger-msx/zoxswtcoks/02%20Stage%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mopi-ranger-msx/zoxswtcoks/02%20Stage%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mopi-ranger-msx/02%2520Stage%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 220200,
+      "filesize_mp3_bytes": 209715,
+      "track_number": 3,
+      "title": "Main BGM",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/mopi-ranger-msx/hwxabibaye/03%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mopi-ranger-msx/hwxabibaye/03%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mopi-ranger-msx/03%2520Main%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 62914,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 4,
+      "title": "Stage Clear",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/mopi-ranger-msx/ohgnclsiqp/04%20Stage%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mopi-ranger-msx/ohgnclsiqp/04%20Stage%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mopi-ranger-msx/04%2520Stage%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 157286,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 5,
+      "title": "Game Over",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/mopi-ranger-msx/yffigyqihu/05%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mopi-ranger-msx/yffigyqihu/05%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mopi-ranger-msx/05%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 47,
+    "filesize_mp3_bytes": 859830,
+    "filesize_flac_bytes": 1541404,
+    "tracks": 5
+  }
+}

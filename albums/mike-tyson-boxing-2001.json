@@ -1,0 +1,63 @@
+{
+  "title": "Mike Tyson Boxing",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T09:39:00.716225+00:00",
+  "slug": "mike-tyson-boxing-2001",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mike-tyson-boxing-2001",
+  "platforms": {
+    "GBA": "https://downloads.khinsider.com/game-soundtracks/gameboy-advance"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mike-tyson-boxing-2001/Mike_Tyson_Boxing.jpg"
+  ],
+  "year": 2001,
+  "date_added": "2022-09-30T00:00:00+00:00",
+  "developers": {
+    "Virtucraft": "https://downloads.khinsider.com/game-soundtracks/developer/virtucraft"
+  },
+  "publishers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/publisher/codemasters",
+    "Ubisoft": "https://downloads.khinsider.com/game-soundtracks/publisher/ubisoft"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1205862,
+      "track_number": 1,
+      "title": "Title Tune",
+      "runtime": 75,
+      "source_mp3": "https://vgmsite.com/soundtracks/mike-tyson-boxing-2001/twsdjbvlol/01.%20Title%20Tune.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mike-tyson-boxing-2001/01.%2520Title%2520Tune.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 964689,
+      "track_number": 2,
+      "title": "VS Tune",
+      "runtime": 60,
+      "source_mp3": "https://vgmsite.com/soundtracks/mike-tyson-boxing-2001/hssvfkjykm/02.%20VS%20Tune.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mike-tyson-boxing-2001/02.%2520VS%2520Tune.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1205862,
+      "track_number": 3,
+      "title": "Showcase",
+      "runtime": 75,
+      "source_mp3": "https://vgmsite.com/soundtracks/mike-tyson-boxing-2001/axjdbprxfb/03.%20Showcase.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mike-tyson-boxing-2001/03.%2520Showcase.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 210,
+    "filesize_mp3_bytes": 3376413,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

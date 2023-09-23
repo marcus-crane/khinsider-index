@@ -1,0 +1,89 @@
+{
+  "title": "Nebulus",
+  "titles_alternative": [
+    "Tower Toppler",
+    "Subline",
+    "Castelian",
+    "Kyorochan Land",
+    "\u30ad\u30e7\u30ed\u3061\u3083\u3093\u30e9\u30f3\u30c9"
+  ],
+  "crawled_at": "2023-09-23T12:55:32.373810+00:00",
+  "slug": "nebulus-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/nebulus-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/nebulus-amiga/N1.png"
+  ],
+  "year": 1988,
+  "date_added": "2017-03-25T00:00:00+00:00",
+  "developers": {
+    "Hewson": "https://downloads.khinsider.com/game-soundtracks/developer/hewson"
+  },
+  "publishers": {
+    "Hewson": "https://downloads.khinsider.com/game-soundtracks/publisher/hewson",
+    "U.S. Gold": "https://downloads.khinsider.com/game-soundtracks/publisher/u.s.-gold"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4508876,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 141,
+      "source_mp3": "https://vgmsite.com/soundtracks/nebulus-amiga/vkjwxrbb/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nebulus-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 2,
+      "title": "Game On",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/nebulus-amiga/reuihqig/02_Game%20On.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nebulus-amiga/02_Game%2520On.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 178257,
+      "track_number": 3,
+      "title": "Tower Completed !!",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/nebulus-amiga/mdgfeonr/03_Tower%20Completed%20%21%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nebulus-amiga/03_Tower%2520Completed%2520%2521%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/nebulus-amiga/hdijxsay/04_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nebulus-amiga/04_Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 5,
+      "title": "Unknown",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/nebulus-amiga/sswhpsxw/05_Unknown.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nebulus-amiga/05_Unknown.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 160,
+    "filesize_mp3_bytes": 4959761,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

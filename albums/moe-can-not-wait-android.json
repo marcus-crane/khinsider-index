@@ -1,0 +1,36 @@
+{
+  "title": "Moe Can not wait!",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T10:10:56.146328+00:00",
+  "slug": "moe-can-not-wait-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/moe-can-not-wait-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/moe-can-not-wait-android/screen-0.jpg"
+  ],
+  "date_added": "2018-11-08T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3732930,
+      "title": "Moe Can not wait!",
+      "runtime": 93,
+      "source_mp3": "https://vgmsite.com/soundtracks/moe-can-not-wait-android/tbjfbrfh/Moe%20Can%20not%20wait%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/moe-can-not-wait-android/Moe%2520Can%2520not%2520wait%2521.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 93,
+    "filesize_mp3_bytes": 3732930,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

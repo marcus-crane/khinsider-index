@@ -1,0 +1,73 @@
+{
+  "title": "NASCAR Heat (GBC)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T12:41:02.064765+00:00",
+  "slug": "nascar-heat-gbc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/nascar-heat-gbc",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/nascar-heat-gbc/NASCAR%20Heat.jpg"
+  ],
+  "year": 2000,
+  "date_added": "2015-05-11T00:00:00+00:00",
+  "developers": {
+    "Game Titan": "https://downloads.khinsider.com/game-soundtracks/developer/game-titan",
+    "Pipe Dream": "https://downloads.khinsider.com/game-soundtracks/developer/pipe-dream"
+  },
+  "publishers": {
+    "Majesco": "https://downloads.khinsider.com/game-soundtracks/publisher/majesco"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 975175,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 61,
+      "source_mp3": "https://vgmsite.com/soundtracks/nascar-heat-gbc/ssxiahug/01_Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nascar-heat-gbc/01_Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1824522,
+      "track_number": 2,
+      "title": "Ingame",
+      "runtime": 114,
+      "source_mp3": "https://vgmsite.com/soundtracks/nascar-heat-gbc/etmkijnv/02_Ingame.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nascar-heat-gbc/02_Ingame.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 3,
+      "title": "Won Race",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/nascar-heat-gbc/bmrjtpyc/03_Won%20Race.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nascar-heat-gbc/03_Won%2520Race.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 398458,
+      "track_number": 4,
+      "title": "Won Race Long",
+      "runtime": 25,
+      "source_mp3": "https://vgmsite.com/soundtracks/nascar-heat-gbc/jbzcojet/04_Won%20Race%20Long.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nascar-heat-gbc/04_Won%2520Race%2520Long.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 203,
+    "filesize_mp3_bytes": 3250583,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

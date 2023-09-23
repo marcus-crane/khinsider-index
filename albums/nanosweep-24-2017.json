@@ -1,0 +1,96 @@
+{
+  "title": "NANOSWEEP 24",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T12:22:19.588687+00:00",
+  "slug": "nanosweep-24-2017",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-24-2017",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/nanosweep-24-2017/Disc.jpg"
+  ],
+  "year": 2017,
+  "catalog_number": "NS-024",
+  "date_added": "2023-09-22T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "nanosounds": "https://downloads.khinsider.com/game-soundtracks/publisher/nanosounds",
+    "SuperSweep": "https://downloads.khinsider.com/game-soundtracks/publisher/supersweep"
+  },
+  "genres": {
+    "Inspired By": "https://downloads.khinsider.com/game-soundtracks/inspired-by"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 38650511,
+      "filesize_mp3_bytes": 10003415,
+      "track_number": 1,
+      "title": "techsaints",
+      "runtime": 276,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-24-2017/lbpmgnhsrb/01.%20techsaints.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-24-2017/lbpmgnhsrb/01.%20techsaints.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-24-2017/01.%2520techsaints.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 32296140,
+      "filesize_mp3_bytes": 9237954,
+      "track_number": 2,
+      "title": "Vernon's Grog",
+      "runtime": 258,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-24-2017/giccawevcd/02.%20Vernon%27s%20Grog.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-24-2017/giccawevcd/02.%20Vernon%27s%20Grog.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-24-2017/02.%2520Vernon%2527s%2520Grog.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 41796239,
+      "filesize_mp3_bytes": 10202644,
+      "track_number": 3,
+      "title": "Ultra Boomerang",
+      "runtime": 298,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-24-2017/ndlkkqpgnm/03.%20Ultra%20Boomerang.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-24-2017/ndlkkqpgnm/03.%20Ultra%20Boomerang.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-24-2017/03.%2520Ultra%2520Boomerang.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 52292485,
+      "filesize_mp3_bytes": 13149143,
+      "track_number": 4,
+      "title": "Don't send me around",
+      "runtime": 388,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-24-2017/yrqbztodnx/04.%20Don%27t%20send%20me%20around.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-24-2017/yrqbztodnx/04.%20Don%27t%20send%20me%20around.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-24-2017/04.%2520Don%2527t%2520send%2520me%2520around.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 24872222,
+      "filesize_mp3_bytes": 7172259,
+      "track_number": 5,
+      "title": "Loft titan",
+      "runtime": 203,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-24-2017/cquwyphftb/05.%20Loft%20titan.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-24-2017/cquwyphftb/05.%20Loft%20titan.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-24-2017/05.%2520Loft%2520titan.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 28699525,
+      "filesize_mp3_bytes": 6354370,
+      "track_number": 6,
+      "title": "Admission",
+      "runtime": 199,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-24-2017/vkiethroil/06.%20Admission.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-24-2017/vkiethroil/06.%20Admission.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-24-2017/06.%2520Admission.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1622,
+    "filesize_mp3_bytes": 56119785,
+    "filesize_flac_bytes": 218607122,
+    "tracks": 6
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "title": "Meow Country Story (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T08:36:04.537496+00:00",
+  "slug": "meow-country-story-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/meow-country-story-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/meow-country-story-android-game-music/1.jpeg"
+  ],
+  "date_added": "2016-06-04T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 293601,
+      "track_number": 1,
+      "title": "bgm-village",
+      "runtime": 30,
+      "source_mp3": "https://vgmsite.com/soundtracks/meow-country-story-android-game-music/smiipbiv/1%20bgm-village.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/meow-country-story-android-game-music/1%2520bgm-village.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 2,
+      "title": "bgm-map",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/meow-country-story-android-game-music/hpylqbfc/2%20bgm-map.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/meow-country-story-android-game-music/2%2520bgm-map.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 304087,
+      "track_number": 3,
+      "title": "bgm-battle",
+      "runtime": 33,
+      "source_mp3": "https://vgmsite.com/soundtracks/meow-country-story-android-game-music/dylnhomm/3%20bgm-battle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/meow-country-story-android-game-music/3%2520bgm-battle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 4,
+      "title": "battle-win",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/meow-country-story-android-game-music/zbcqifyc/4%20battle-win.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/meow-country-story-android-game-music/4%2520battle-win.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 5,
+      "title": "battle-lose",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/meow-country-story-android-game-music/sfyezayh/5%20battle-lose.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/meow-country-story-android-game-music/5%2520battle-lose.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 83,
+    "filesize_mp3_bytes": 786430,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "title": "NBA Jam Tournament Edition",
+  "titles_alternative": [
+    "NBA JAM\u30c8\u30fc\u30ca\u30e1\u30f3\u30c8\u30a8\u30c7\u30a3\u30b7\u30e7\u30f3"
+  ],
+  "crawled_at": "2023-09-23T12:50:20.789207+00:00",
+  "slug": "nba-jam-tournament-edition-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/nba-jam-tournament-edition-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/nba-jam-tournament-edition-genesis/J1.jpg"
+  ],
+  "year": 1995,
+  "date_added": "2015-03-04T00:00:00+00:00",
+  "developers": {
+    "Iguana UK": "https://downloads.khinsider.com/game-soundtracks/developer/iguana-uk",
+    "Midway": "https://downloads.khinsider.com/game-soundtracks/developer/midway"
+  },
+  "publishers": {
+    "Acclaim": "https://downloads.khinsider.com/game-soundtracks/publisher/acclaim"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3365928,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 98,
+      "source_mp3": "https://vgmsite.com/soundtracks/nba-jam-tournament-edition-genesis/rjigopka/01_Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nba-jam-tournament-edition-genesis/01_Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3649044,
+      "track_number": 2,
+      "title": "BGM 1",
+      "runtime": 116,
+      "source_mp3": "https://vgmsite.com/soundtracks/nba-jam-tournament-edition-genesis/bbssnuzj/02_BGM%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nba-jam-tournament-edition-genesis/02_BGM%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4498391,
+      "track_number": 3,
+      "title": "Final Results",
+      "runtime": 133,
+      "source_mp3": "https://vgmsite.com/soundtracks/nba-jam-tournament-edition-genesis/loongyyo/03_Final%20Results.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nba-jam-tournament-edition-genesis/03_Final%2520Results.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3145728,
+      "track_number": 4,
+      "title": "Unknown (Sound Code 00)",
+      "runtime": 101,
+      "source_mp3": "https://vgmsite.com/soundtracks/nba-jam-tournament-edition-genesis/afoglyvz/04_Unknown%20%28Sound%20Code%2000%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nba-jam-tournament-edition-genesis/04_Unknown%2520%2528Sound%2520Code%252000%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3166699,
+      "track_number": 5,
+      "title": "Unknown (Sound Code 08)",
+      "runtime": 91,
+      "source_mp3": "https://vgmsite.com/soundtracks/nba-jam-tournament-edition-genesis/cvjmyfgz/05_Unknown%20%28Sound%20Code%2008%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nba-jam-tournament-edition-genesis/05_Unknown%2520%2528Sound%2520Code%252008%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2411724,
+      "track_number": 6,
+      "title": "Unknown (Sound Code 09)",
+      "runtime": 69,
+      "source_mp3": "https://vgmsite.com/soundtracks/nba-jam-tournament-edition-genesis/lqqwwzfa/06_Unknown%20%28Sound%20Code%2009%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nba-jam-tournament-edition-genesis/06_Unknown%2520%2528Sound%2520Code%252009%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 608,
+    "filesize_mp3_bytes": 20237514,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

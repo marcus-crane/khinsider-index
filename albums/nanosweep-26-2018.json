@@ -1,0 +1,85 @@
+{
+  "title": "NANOSWEEP 26",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T12:22:23.214776+00:00",
+  "slug": "nanosweep-26-2018",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-26-2018",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/nanosweep-26-2018/Disc.jpg"
+  ],
+  "year": 2018,
+  "catalog_number": "NS-026",
+  "date_added": "2023-09-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "nanosounds": "https://downloads.khinsider.com/game-soundtracks/publisher/nanosounds",
+    "SuperSweep": "https://downloads.khinsider.com/game-soundtracks/publisher/supersweep"
+  },
+  "genres": {
+    "Inspired By": "https://downloads.khinsider.com/game-soundtracks/inspired-by"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 36102471,
+      "filesize_mp3_bytes": 10747904,
+      "track_number": 1,
+      "title": "Passengers",
+      "runtime": 313,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-26-2018/vavbsjcfth/01.%20Passengers.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-26-2018/vavbsjcfth/01.%20Passengers.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-26-2018/01.%2520Passengers.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 34487664,
+      "filesize_mp3_bytes": 8944353,
+      "track_number": 2,
+      "title": "Imaginary activity",
+      "runtime": 261,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-26-2018/dbycowknbk/02.%20Imaginary%20activity.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-26-2018/dbycowknbk/02.%20Imaginary%20activity.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-26-2018/02.%2520Imaginary%2520activity.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 45088768,
+      "filesize_mp3_bytes": 11356078,
+      "track_number": 3,
+      "title": "Tokyo Deadline",
+      "runtime": 334,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-26-2018/gclybkkfza/03.%20Tokyo%20Deadline.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-26-2018/gclybkkfza/03.%20Tokyo%20Deadline.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-26-2018/03.%2520Tokyo%2520Deadline.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 29014097,
+      "filesize_mp3_bytes": 7539261,
+      "track_number": 4,
+      "title": "IQ",
+      "runtime": 218,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-26-2018/ejgvzksilg/04.%20IQ.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-26-2018/ejgvzksilg/04.%20IQ.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-26-2018/04.%2520IQ.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 25941770,
+      "filesize_mp3_bytes": 6301941,
+      "track_number": 5,
+      "title": "Welcome Mats",
+      "runtime": 198,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-26-2018/taveorqvwb/05.%20Welcome%20Mats.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-26-2018/taveorqvwb/05.%20Welcome%20Mats.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-26-2018/05.%2520Welcome%2520Mats.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1324,
+    "filesize_mp3_bytes": 44889537,
+    "filesize_flac_bytes": 170634770,
+    "tracks": 5
+  }
+}

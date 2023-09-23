@@ -1,0 +1,43 @@
+{
+  "title": "Mon Premier Bescherelle",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T10:19:43.401547+00:00",
+  "slug": "mon-premier-bescherelle-2009-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mon-premier-bescherelle-2009-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mon-premier-bescherelle-2009-nds-gamerip/Mon%20Premier%20Bescherelle.jpg"
+  ],
+  "year": 2009,
+  "date_added": "2020-06-17T00:00:00+00:00",
+  "developers": {
+    "Anuman": "https://downloads.khinsider.com/game-soundtracks/developer/anuman"
+  },
+  "publishers": {
+    "Atari": "https://downloads.khinsider.com/game-soundtracks/publisher/atari"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2820669,
+      "filesize_mp3_bytes": 1237319,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 57,
+      "source_mp3": "https://vgmsite.com/soundtracks/mon-premier-bescherelle-2009-nds-gamerip/dimoqoukwb/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mon-premier-bescherelle-2009-nds-gamerip/dimoqoukwb/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mon-premier-bescherelle-2009-nds-gamerip/01.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 57,
+    "filesize_mp3_bytes": 1237319,
+    "filesize_flac_bytes": 2820669,
+    "tracks": 1
+  }
+}

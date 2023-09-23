@@ -1,0 +1,57 @@
+{
+  "title": "Mega Swirl (Homebrew)",
+  "titles_alternative": [
+    "Sega Swirl Genesis"
+  ],
+  "crawled_at": "2023-09-23T08:21:15.024150+00:00",
+  "slug": "mega-swirl-homebrew-genesis-gamerip-2013",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mega-swirl-homebrew-genesis-gamerip-2013",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mega-swirl-homebrew-genesis-gamerip-2013/Mega%20Swirl%20Title%20Screen.png"
+  ],
+  "year": 2013,
+  "date_added": "2022-12-16T00:00:00+00:00",
+  "developers": {
+    "Delek": "https://downloads.khinsider.com/game-soundtracks/developer/delek",
+    "Zontar": "https://downloads.khinsider.com/game-soundtracks/developer/zontar"
+  },
+  "publishers": {
+    "Zontar": "https://downloads.khinsider.com/game-soundtracks/publisher/zontar"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 16661872,
+      "filesize_mp3_bytes": 3323985,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 150,
+      "source_mp3": "https://vgmsite.com/soundtracks/mega-swirl-homebrew-genesis-gamerip-2013/xdvkjunoay/01.%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mega-swirl-homebrew-genesis-gamerip-2013/xdvkjunoay/01.%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mega-swirl-homebrew-genesis-gamerip-2013/01.%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 12970885,
+      "filesize_mp3_bytes": 2883584,
+      "track_number": 2,
+      "title": "Main Theme",
+      "runtime": 127,
+      "source_mp3": "https://vgmsite.com/soundtracks/mega-swirl-homebrew-genesis-gamerip-2013/davdnmfgwa/02.%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mega-swirl-homebrew-genesis-gamerip-2013/davdnmfgwa/02.%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mega-swirl-homebrew-genesis-gamerip-2013/02.%2520Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 277,
+    "filesize_mp3_bytes": 6207569,
+    "filesize_flac_bytes": 29632757,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "title": "Miami Chase",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T09:17:43.770740+00:00",
+  "slug": "miami-chase-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/miami-chase-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/miami-chase-amiga/M1.png"
+  ],
+  "year": 1990,
+  "date_added": "2017-10-26T00:00:00+00:00",
+  "developers": {
+    "Team 7": "https://downloads.khinsider.com/game-soundtracks/developer/team-7"
+  },
+  "publishers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/publisher/codemasters"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7948206,
+      "track_number": 1,
+      "title": "Miami (Intro)",
+      "runtime": 258,
+      "source_mp3": "https://vgmsite.com/soundtracks/miami-chase-amiga/jfedlnkh/01_Miami%20%28Intro%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/miami-chase-amiga/01_Miami%2520%2528Intro%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6752829,
+      "track_number": 2,
+      "title": "Main Menu",
+      "runtime": 236,
+      "source_mp3": "https://vgmsite.com/soundtracks/miami-chase-amiga/cpdrrpvr/02_Main%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/miami-chase-amiga/02_Main%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7633633,
+      "track_number": 3,
+      "title": "Streets",
+      "runtime": 268,
+      "source_mp3": "https://vgmsite.com/soundtracks/miami-chase-amiga/oeyruwzx/03_Streets.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/miami-chase-amiga/03_Streets.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6364856,
+      "track_number": 4,
+      "title": "Plant",
+      "runtime": 225,
+      "source_mp3": "https://vgmsite.com/soundtracks/miami-chase-amiga/zhrebfih/04_Plant.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/miami-chase-amiga/04_Plant.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5599395,
+      "track_number": 5,
+      "title": "New York",
+      "runtime": 212,
+      "source_mp3": "https://vgmsite.com/soundtracks/miami-chase-amiga/kxtvjaqs/05_New%20York.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/miami-chase-amiga/05_New%2520York.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4928307,
+      "track_number": 6,
+      "title": "Dock",
+      "runtime": 175,
+      "source_mp3": "https://vgmsite.com/soundtracks/miami-chase-amiga/xgvuvgck/06_Dock.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/miami-chase-amiga/06_Dock.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5232394,
+      "track_number": 7,
+      "title": "Shop",
+      "runtime": 167,
+      "source_mp3": "https://vgmsite.com/soundtracks/miami-chase-amiga/wdcvlvqi/07_Shop.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/miami-chase-amiga/07_Shop.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7256145,
+      "track_number": 8,
+      "title": "High Score",
+      "runtime": 261,
+      "source_mp3": "https://vgmsite.com/soundtracks/miami-chase-amiga/dtitcegc/08_High%20Score.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/miami-chase-amiga/08_High%2520Score.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1802,
+    "filesize_mp3_bytes": 51715765,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

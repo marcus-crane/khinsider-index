@@ -1,0 +1,92 @@
+{
+  "title": "Menace",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T08:35:53.880490+00:00",
+  "slug": "menace-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/menace-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/menace-commodore-64/Menace%20Cover.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2016-03-22T00:00:00+00:00",
+  "developers": {
+    "Mr. Micro": "https://downloads.khinsider.com/game-soundtracks/developer/mr.-micro"
+  },
+  "publishers": {
+    "Psyclapse": "https://downloads.khinsider.com/game-soundtracks/publisher/psyclapse"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2034237,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 87,
+      "source_mp3": "https://vgmsite.com/soundtracks/menace-commodore-64/iardijum/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/menace-commodore-64/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2768240,
+      "track_number": 2,
+      "title": "In-Game Music",
+      "runtime": 141,
+      "source_mp3": "https://vgmsite.com/soundtracks/menace-commodore-64/raadipxq/02_In-Game%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/menace-commodore-64/02_In-Game%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1153433,
+      "track_number": 3,
+      "title": "Boss Theme",
+      "runtime": 63,
+      "source_mp3": "https://vgmsite.com/soundtracks/menace-commodore-64/xzlzjdab/03_Boss%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/menace-commodore-64/03_Boss%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3575644,
+      "track_number": 4,
+      "title": "Title Screen (SID Stereo)",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/menace-commodore-64/kzjwkqjf/04_Title%20Screen%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/menace-commodore-64/04_Title%2520Screen%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5096079,
+      "track_number": 5,
+      "title": "In-Game Music (SID Stereo)",
+      "runtime": 150,
+      "source_mp3": "https://vgmsite.com/soundtracks/menace-commodore-64/tvfwpygb/05_In-Game%20Music%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/menace-commodore-64/05_In-Game%2520Music%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2181038,
+      "track_number": 6,
+      "title": "Boss Theme (SID Stereo)",
+      "runtime": 72,
+      "source_mp3": "https://vgmsite.com/soundtracks/menace-commodore-64/wpwhmujz/06_Boss%20Theme%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/menace-commodore-64/06_Boss%2520Theme%2520%2528SID%2520Stereo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 609,
+    "filesize_mp3_bytes": 16808671,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

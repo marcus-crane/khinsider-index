@@ -1,0 +1,82 @@
+{
+  "title": "MiniGolf Resort",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T09:52:54.668614+00:00",
+  "slug": "minigolf-resort-2011-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/minigolf-resort-2011-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/minigolf-resort-2011-nds-gamerip/MiniGolf%20Resort.jpg"
+  ],
+  "year": 2011,
+  "date_added": "2020-06-17T00:00:00+00:00",
+  "developers": {
+    "Teyon": "https://downloads.khinsider.com/game-soundtracks/developer/teyon"
+  },
+  "publishers": {
+    "S.A.D.": "https://downloads.khinsider.com/game-soundtracks/publisher/s.a.d"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9143582,
+      "filesize_mp3_bytes": 2998927,
+      "title": "Egypt",
+      "runtime": 113,
+      "source_mp3": "https://vgmsite.com/soundtracks/minigolf-resort-2011-nds-gamerip/lhgthfzxcl/Egypt.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/minigolf-resort-2011-nds-gamerip/lhgthfzxcl/Egypt.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/minigolf-resort-2011-nds-gamerip/Egypt.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8787066,
+      "filesize_mp3_bytes": 3303014,
+      "title": "Greece",
+      "runtime": 123,
+      "source_mp3": "https://vgmsite.com/soundtracks/minigolf-resort-2011-nds-gamerip/njoicztcff/Greece.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/minigolf-resort-2011-nds-gamerip/njoicztcff/Greece.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/minigolf-resort-2011-nds-gamerip/Greece.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 16850616,
+      "filesize_mp3_bytes": 6134169,
+      "title": "Halloween",
+      "runtime": 231,
+      "source_mp3": "https://vgmsite.com/soundtracks/minigolf-resort-2011-nds-gamerip/xovjquxcqn/Halloween.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/minigolf-resort-2011-nds-gamerip/xovjquxcqn/Halloween.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/minigolf-resort-2011-nds-gamerip/Halloween.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9667870,
+      "filesize_mp3_bytes": 3764387,
+      "title": "Music1",
+      "runtime": 148,
+      "source_mp3": "https://vgmsite.com/soundtracks/minigolf-resort-2011-nds-gamerip/rdobqqptyf/Music1.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/minigolf-resort-2011-nds-gamerip/rdobqqptyf/Music1.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/minigolf-resort-2011-nds-gamerip/Music1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6417285,
+      "filesize_mp3_bytes": 2527068,
+      "title": "Pirates",
+      "runtime": 110,
+      "source_mp3": "https://vgmsite.com/soundtracks/minigolf-resort-2011-nds-gamerip/rduoaomlul/Pirates.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/minigolf-resort-2011-nds-gamerip/rduoaomlul/Pirates.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/minigolf-resort-2011-nds-gamerip/Pirates.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 725,
+    "filesize_mp3_bytes": 18727565,
+    "filesize_flac_bytes": 50866419,
+    "tracks": 5
+  }
+}

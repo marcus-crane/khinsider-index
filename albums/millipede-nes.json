@@ -1,0 +1,59 @@
+{
+  "title": "Millipede",
+  "titles_alternative": [
+    "Milli-Pede: Kyodai Konch\u016b no Gyakush\u016b",
+    "\u30df\u30ea\u30d4\u30fc\u30c9 \u5de8\u5927\u6606\u866b\u306e\u9006\u8972"
+  ],
+  "crawled_at": "2023-09-23T09:42:52.582363+00:00",
+  "slug": "millipede-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/millipede-nes",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/millipede-nes/Millipede%20-%20Kyodai%20Konchuu%20no%20Gyakushuu%20%28J%29.png"
+  ],
+  "year": 1987,
+  "date_added": "2022-06-15T00:00:00+00:00",
+  "developers": {
+    "Atari": "https://downloads.khinsider.com/game-soundtracks/developer/atari",
+    "HAL Laboratory": "https://downloads.khinsider.com/game-soundtracks/developer/hal-laboratory"
+  },
+  "publishers": {
+    "HAL Laboratory": "https://downloads.khinsider.com/game-soundtracks/publisher/hal-laboratory"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 859832,
+      "filesize_mp3_bytes": 304087,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 17,
+      "source_mp3": "https://vgmsite.com/soundtracks/millipede-nes/azwivondah/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/millipede-nes/azwivondah/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/millipede-nes/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 83886,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 2,
+      "title": "Extend",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/millipede-nes/efcmlmxahi/02%20Extend.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/millipede-nes/efcmlmxahi/02%20Extend.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/millipede-nes/02%2520Extend.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 20,
+    "filesize_mp3_bytes": 356515,
+    "filesize_flac_bytes": 943718,
+    "tracks": 2
+  }
+}

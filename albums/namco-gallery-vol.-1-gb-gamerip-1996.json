@@ -1,0 +1,93 @@
+{
+  "title": "Namco Gallery Vol. 1",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T12:09:03.762542+00:00",
+  "slug": "namco-gallery-vol.-1-gb-gamerip-1996",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/namco-gallery-vol.-1-gb-gamerip-1996",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/namco-gallery-vol.-1-gb-gamerip-1996/Namco%20Gallery%20Vol.%201%20%28Back%20Side%29.jpg"
+  ],
+  "year": 1996,
+  "catalog_number": null,
+  "date_added": "2022-10-24T00:00:00+00:00",
+  "developers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/developer/namco"
+  },
+  "publishers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/publisher/namco"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 36008099,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 900,
+      "source_mp3": "https://vgmsite.com/soundtracks/namco-gallery-vol.-1-gb-gamerip-1996/upneaedipw/01.%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/namco-gallery-vol.-1-gb-gamerip-1996/01.%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 36008099,
+      "track_number": 2,
+      "title": "Game Select",
+      "runtime": 900,
+      "source_mp3": "https://vgmsite.com/soundtracks/namco-gallery-vol.-1-gb-gamerip-1996/dytockqkln/02.%20Game%20Select.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/namco-gallery-vol.-1-gb-gamerip-1996/02.%2520Game%2520Select.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 36008099,
+      "track_number": 3,
+      "title": "Instructions",
+      "runtime": 900,
+      "source_mp3": "https://vgmsite.com/soundtracks/namco-gallery-vol.-1-gb-gamerip-1996/axbvrzjdzv/03.%20Instructions.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/namco-gallery-vol.-1-gb-gamerip-1996/03.%2520Instructions.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 36008099,
+      "track_number": 4,
+      "title": "Password",
+      "runtime": 900,
+      "source_mp3": "https://vgmsite.com/soundtracks/namco-gallery-vol.-1-gb-gamerip-1996/ngaydhguan/04.%20Password.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/namco-gallery-vol.-1-gb-gamerip-1996/04.%2520Password.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 36008099,
+      "track_number": 5,
+      "title": "Ranking",
+      "runtime": 900,
+      "source_mp3": "https://vgmsite.com/soundtracks/namco-gallery-vol.-1-gb-gamerip-1996/yiurdwjrip/05.%20Ranking.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/namco-gallery-vol.-1-gb-gamerip-1996/05.%2520Ranking.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 36008099,
+      "track_number": 6,
+      "title": "Special Panel Sequence",
+      "runtime": 900,
+      "source_mp3": "https://vgmsite.com/soundtracks/namco-gallery-vol.-1-gb-gamerip-1996/iservtfofc/06.%20Special%20Panel%20Sequence.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/namco-gallery-vol.-1-gb-gamerip-1996/06.%2520Special%2520Panel%2520Sequence.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 5400,
+    "filesize_mp3_bytes": 216048594,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

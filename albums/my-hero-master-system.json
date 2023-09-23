@@ -1,0 +1,105 @@
+{
+  "title": "My Hero",
+  "titles_alternative": [
+    "Seishun Scandal",
+    "Gang's Fighter",
+    "\u9752\u6625\u30b9\u30ad\u30e3\u30f3\u30c0\u30eb",
+    "\u5feb\u6253\u5c0f\u5b50",
+    "\ub618\uc774\uc758\ubaa8\ud5d8"
+  ],
+  "crawled_at": "2023-09-23T11:46:58.186112+00:00",
+  "slug": "my-hero-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/my-hero-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/my-hero-master-system/My%20Hero.png"
+  ],
+  "year": 1986,
+  "date_added": "2020-07-15T00:00:00+00:00",
+  "developers": {
+    "Coreland": "https://downloads.khinsider.com/game-soundtracks/developer/coreland",
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 754974,
+      "filesize_mp3_bytes": 220200,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 13,
+      "source_mp3": "https://vgmsite.com/soundtracks/my-hero-master-system/tyecvhunnt/01%20-%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/my-hero-master-system/tyecvhunnt/01%20-%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/my-hero-master-system/01%2520-%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5788139,
+      "filesize_mp3_bytes": 1803550,
+      "track_number": 2,
+      "title": "In Game",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/my-hero-master-system/qepohpdylr/02%20-%20In%20Game.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/my-hero-master-system/qepohpdylr/02%20-%20In%20Game.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/my-hero-master-system/02%2520-%2520In%2520Game.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2841640,
+      "filesize_mp3_bytes": 891289,
+      "track_number": 3,
+      "title": "Battling With Mohikan",
+      "runtime": 49,
+      "source_mp3": "https://vgmsite.com/soundtracks/my-hero-master-system/zmfzmchwvh/03%20-%20Battling%20With%20Mohikan.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/my-hero-master-system/zmfzmchwvh/03%20-%20Battling%20With%20Mohikan.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/my-hero-master-system/03%2520-%2520Battling%2520With%2520Mohikan.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 807403,
+      "filesize_mp3_bytes": 251658,
+      "track_number": 4,
+      "title": "Reunion With Remy",
+      "runtime": 14,
+      "source_mp3": "https://vgmsite.com/soundtracks/my-hero-master-system/vjuohpcsay/04%20-%20Reunion%20With%20Remy.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/my-hero-master-system/vjuohpcsay/04%20-%20Reunion%20With%20Remy.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/my-hero-master-system/04%2520-%2520Reunion%2520With%2520Remy.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 83886,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 5,
+      "title": "Lost A Life",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/my-hero-master-system/gylcxoddvj/05%20-%20Lost%20A%20Life.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/my-hero-master-system/gylcxoddvj/05%20-%20Lost%20A%20Life.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/my-hero-master-system/05%2520-%2520Lost%2520A%2520Life.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 325058,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 6,
+      "title": "Game Over",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/my-hero-master-system/kpokimewrs/06%20-%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/my-hero-master-system/kpokimewrs/06%20-%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/my-hero-master-system/06%2520-%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 178,
+    "filesize_mp3_bytes": 3292525,
+    "filesize_flac_bytes": 10601100,
+    "tracks": 6
+  }
+}

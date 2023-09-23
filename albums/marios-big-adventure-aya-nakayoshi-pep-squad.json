@@ -1,0 +1,55 @@
+{
+  "title": "Marios Big Adventure",
+  "titles_alternative": [
+    "\u30de\u30ea\u30aa\u306e\u5927\u5192\u967a",
+    "Mario no Daibouken"
+  ],
+  "crawled_at": "2023-09-23T07:16:06.163567+00:00",
+  "slug": "marios-big-adventure-aya-nakayoshi-pep-squad",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/marios-big-adventure-aya-nakayoshi-pep-squad",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/marios-big-adventure-aya-nakayoshi-pep-squad/00-scan-1-cover-7g0083-.jpg"
+  ],
+  "year": 1986,
+  "catalog_number": "7G-0083",
+  "date_added": "2006-11-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "CANYON": "https://downloads.khinsider.com/game-soundtracks/publisher/canyon"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5064622,
+      "track_number": 1,
+      "title": "side a - mario's big adventure",
+      "runtime": 211,
+      "source_mp3": "https://vgmsite.com/soundtracks/marios-big-adventure-aya-nakayoshi-pep-squad/gofvyaqy/01%20side%20a%20-%20mario%27s%20big%20adventure.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/marios-big-adventure-aya-nakayoshi-pep-squad/01%2520side%2520a%2520-%2520mario%2527s%2520big%2520adventure.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5515509,
+      "track_number": 2,
+      "title": "side b - koopa's counting song",
+      "runtime": 240,
+      "source_mp3": "https://vgmsite.com/soundtracks/marios-big-adventure-aya-nakayoshi-pep-squad/rplobbwb/02%20side%20b%20-%20koopa%27s%20counting%20song.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/marios-big-adventure-aya-nakayoshi-pep-squad/02%2520side%2520b%2520-%2520koopa%2527s%2520counting%2520song.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 451,
+    "filesize_mp3_bytes": 10580131,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

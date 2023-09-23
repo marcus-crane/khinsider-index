@@ -1,0 +1,40 @@
+{
+  "title": "Mind Walker",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T09:44:14.949082+00:00",
+  "slug": "mind-walker-1986",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mind-walker-1986",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/mind-walker-1986/MindwalkerBoxShotAmiga.jpg"
+  ],
+  "year": 1986,
+  "date_added": "2023-09-11T00:00:00+00:00",
+  "developers": {
+    "Synapse Software": "https://downloads.khinsider.com/game-soundtracks/developer/synapse-software"
+  },
+  "publishers": {
+    "Commdore": "https://downloads.khinsider.com/game-soundtracks/publisher/commdore"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 27000832,
+      "track_number": 1,
+      "title": "Mind Walker (background music)",
+      "runtime": 1125,
+      "source_mp3": "https://vgmsite.com/soundtracks/mind-walker-1986/ctckemidxc/01.%20Mind%20Walker%20%28background%20music%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mind-walker-1986/01.%2520Mind%2520Walker%2520%2528background%2520music%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1125,
+    "filesize_mp3_bytes": 27000832,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

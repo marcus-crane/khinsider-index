@@ -1,0 +1,37 @@
+{
+  "title": "My Sweet Roomies",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T11:51:52.863460+00:00",
+  "slug": "my-sweet-roomies-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/my-sweet-roomies-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/my-sweet-roomies-android/screen-0.jpg"
+  ],
+  "year": 2014,
+  "date_added": "2018-06-21T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3344957,
+      "title": "Opening",
+      "runtime": 84,
+      "source_mp3": "https://vgmsite.com/soundtracks/my-sweet-roomies-android/kgntyguq/Opening.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/my-sweet-roomies-android/Opening.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 84,
+    "filesize_mp3_bytes": 3344957,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

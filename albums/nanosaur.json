@@ -1,0 +1,58 @@
+{
+  "title": "Nanosaur",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T12:21:31.168472+00:00",
+  "slug": "nanosaur",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/nanosaur",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/nanosaur/coverart.jpg"
+  ],
+  "year": 1998,
+  "date_added": "2014-05-10T00:00:00+00:00",
+  "developers": {
+    "Pangea Software": "https://downloads.khinsider.com/game-soundtracks/developer/pangea-software"
+  },
+  "publishers": {
+    "Pangea Software": "https://downloads.khinsider.com/game-soundtracks/publisher/pangea-software"
+  },
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 199229,
+      "track_number": 1,
+      "title": "Pangea Software Jingle",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosaur/ihhkxwpu/01%20Pangea%20Software%20Jingle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosaur/01%2520Pangea%2520Software%2520Jingle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1772093,
+      "track_number": 2,
+      "title": "Title Song",
+      "runtime": 70,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosaur/dxdoqoeb/02%20Title%20Song.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosaur/02%2520Title%2520Song.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1992294,
+      "track_number": 3,
+      "title": "Nanosaur Game Song",
+      "runtime": 84,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosaur/ktoozqyf/03%20Nanosaur%20Game%20Song.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosaur/03%2520Nanosaur%2520Game%2520Song.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 163,
+    "filesize_mp3_bytes": 3963616,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

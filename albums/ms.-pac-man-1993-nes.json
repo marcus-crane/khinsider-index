@@ -1,0 +1,94 @@
+{
+  "title": "Ms. Pac-Man",
+  "titles_alternative": [
+    "\u30df\u30ba\u30fb\u30d1\u30c3\u30af\u30de\u30f3"
+  ],
+  "crawled_at": "2023-09-23T11:22:34.227022+00:00",
+  "slug": "ms.-pac-man-1993-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ms.-pac-man-1993-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ms.-pac-man-1993-nes/2515--ms-pac-man.png"
+  ],
+  "year": 1993,
+  "date_added": "2018-02-17T00:00:00+00:00",
+  "developers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/developer/namco"
+  },
+  "publishers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/publisher/namco"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/ms.-pac-man-1993-nes/oztepjvg/1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ms.-pac-man-1993-nes/1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/ms.-pac-man-1993-nes/izlxeqly/2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ms.-pac-man-1993-nes/2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/ms.-pac-man-1993-nes/qkzvrabf/3.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ms.-pac-man-1993-nes/3.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 346030,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 22,
+      "source_mp3": "https://vgmsite.com/soundtracks/ms.-pac-man-1993-nes/ggvewgbw/4.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ms.-pac-man-1993-nes/4.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3208642,
+      "track_number": 5,
+      "title": "Track 5",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/ms.-pac-man-1993-nes/nwqhkivw/5.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ms.-pac-man-1993-nes/5.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2967470,
+      "track_number": 6,
+      "title": "Track 6",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/ms.-pac-man-1993-nes/cbiqdhxe/6.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ms.-pac-man-1993-nes/6.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 402,
+    "filesize_mp3_bytes": 6794771,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Myth",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T12:00:52.870008+00:00",
+  "slug": "myth-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/myth-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/myth-amiga/Myth.jpg"
+  ],
+  "year": 1992,
+  "date_added": "2015-10-30T00:00:00+00:00",
+  "developers": {
+    "Magnetic Scrolls": "https://downloads.khinsider.com/game-soundtracks/developer/magnetic-scrolls"
+  },
+  "publishers": {
+    "Rainbird": "https://downloads.khinsider.com/game-soundtracks/publisher/rainbird"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4886364,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 184,
+      "source_mp3": "https://vgmsite.com/soundtracks/myth-amiga/vallapsz/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/myth-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 629145,
+      "track_number": 2,
+      "title": "Game Over",
+      "runtime": 24,
+      "source_mp3": "https://vgmsite.com/soundtracks/myth-amiga/fceuoand/02_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/myth-amiga/02_Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 208,
+    "filesize_mp3_bytes": 5515509,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "NBA Jam Tournament Edition",
+  "titles_alternative": [
+    "NBA JAM\u30c8\u30fc\u30ca\u30e1\u30f3\u30c8\u30a8\u30c7\u30a3\u30b7\u30e7\u30f3"
+  ],
+  "crawled_at": "2023-09-23T12:50:19.969731+00:00",
+  "slug": "nba-jam-tournament-edition-atari-jaguar",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/nba-jam-tournament-edition-atari-jaguar",
+  "platforms": {
+    "Atari Jaguar": "https://downloads.khinsider.com/game-soundtracks/atari-jaguar"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/nba-jam-tournament-edition-atari-jaguar/NBA%20Jam%20Tournament%20Edition%20Jaguar%20back%20cover.jpg"
+  ],
+  "year": 1995,
+  "date_added": "2020-09-27T00:00:00+00:00",
+  "developers": {
+    "High Voltage": "https://downloads.khinsider.com/game-soundtracks/developer/high-voltage"
+  },
+  "publishers": {
+    "Acclaim": "https://downloads.khinsider.com/game-soundtracks/publisher/acclaim"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11051991,
+      "title": "Intro Theme",
+      "runtime": 275,
+      "source_mp3": "https://vgmsite.com/soundtracks/nba-jam-tournament-edition-atari-jaguar/xrajovxkxa/Intro%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nba-jam-tournament-edition-atari-jaguar/Intro%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 275,
+    "filesize_mp3_bytes": 11051991,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

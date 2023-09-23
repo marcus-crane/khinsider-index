@@ -1,0 +1,44 @@
+{
+  "title": "Missile Ground Zero",
+  "titles_alternative": [
+    "Sinclair Action Pack: Lightgun Games"
+  ],
+  "crawled_at": "2023-09-23T10:01:52.601415+00:00",
+  "slug": "missile-ground-zero-zx-spectrum",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/missile-ground-zero-zx-spectrum",
+  "platforms": {
+    "Spectrum": "https://downloads.khinsider.com/game-soundtracks/spectrum"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/missile-ground-zero-zx-spectrum/Missile%20-%20Ground%20Zero.png"
+  ],
+  "year": 1989,
+  "date_added": "2022-05-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Software Creations": "https://downloads.khinsider.com/game-soundtracks/publisher/software-creations",
+    "Virgin Mastertronic": "https://downloads.khinsider.com/game-soundtracks/publisher/virgin-mastertronic"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7717519,
+      "filesize_mp3_bytes": 3365928,
+      "track_number": 1,
+      "title": "Title Theme",
+      "runtime": 142,
+      "source_mp3": "https://vgmsite.com/soundtracks/missile-ground-zero-zx-spectrum/datdtjpjcf/01%20Title%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/missile-ground-zero-zx-spectrum/datdtjpjcf/01%20Title%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/missile-ground-zero-zx-spectrum/01%2520Title%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 142,
+    "filesize_mp3_bytes": 3365928,
+    "filesize_flac_bytes": 7717519,
+    "tracks": 1
+  }
+}

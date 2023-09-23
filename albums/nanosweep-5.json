@@ -1,0 +1,87 @@
+{
+  "title": "NanoSweep.5",
+  "titles_alternative": [
+    "Nanosweep 05"
+  ],
+  "crawled_at": "2023-09-23T12:22:32.900473+00:00",
+  "slug": "nanosweep-5",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-5",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/nanosweep-5/Nanosweep%2005.jpg"
+  ],
+  "year": 2007,
+  "catalog_number": "NS-005",
+  "date_added": "2023-09-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "nanosounds": "https://downloads.khinsider.com/game-soundtracks/publisher/nanosounds",
+    "SuperSweep": "https://downloads.khinsider.com/game-soundtracks/publisher/supersweep"
+  },
+  "genres": {
+    "Inspired By": "https://downloads.khinsider.com/game-soundtracks/inspired-by"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 48811212,
+      "filesize_mp3_bytes": 15623782,
+      "track_number": 1,
+      "title": "Sacred Mushroom",
+      "runtime": 465,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-5/zeezuptcrz/01.%20Sacred%20Mushroom.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-5/zeezuptcrz/01.%20Sacred%20Mushroom.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-5/01.%2520Sacred%2520Mushroom.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 41167093,
+      "filesize_mp3_bytes": 10391388,
+      "track_number": 2,
+      "title": "Stargaze",
+      "runtime": 301,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-5/vlwszjtzbv/02.%20Stargaze.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-5/vlwszjtzbv/02.%20Stargaze.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-5/02.%2520Stargaze.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 39877345,
+      "filesize_mp3_bytes": 10359930,
+      "track_number": 3,
+      "title": "SignOn",
+      "runtime": 303,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-5/kzklgtmvtc/03.%20SignOn.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-5/kzklgtmvtc/03.%20SignOn.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-5/03.%2520SignOn.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 28573696,
+      "filesize_mp3_bytes": 8619294,
+      "track_number": 4,
+      "title": "Dyspepsia",
+      "runtime": 248,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-5/hkeekecaxi/04.%20Dyspepsia.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-5/hkeekecaxi/04.%20Dyspepsia.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-5/04.%2520Dyspepsia.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 49608130,
+      "filesize_mp3_bytes": 13474201,
+      "track_number": 5,
+      "title": "Jacaranda",
+      "runtime": 386,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-5/jbznzsobfs/05.%20Jacaranda.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-5/jbznzsobfs/05.%20Jacaranda.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-5/05.%2520Jacaranda.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1703,
+    "filesize_mp3_bytes": 58468595,
+    "filesize_flac_bytes": 208037476,
+    "tracks": 5
+  }
+}

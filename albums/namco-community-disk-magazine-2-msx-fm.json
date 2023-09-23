@@ -1,0 +1,54 @@
+{
+  "title": "Namco Community Disk Magazine 2 (FM)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T12:08:53.796762+00:00",
+  "slug": "namco-community-disk-magazine-2-msx-fm",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/namco-community-disk-magazine-2-msx-fm",
+  "platforms": {
+    "MSX2": "https://downloads.khinsider.com/game-soundtracks/msx2"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/namco-community-disk-magazine-2-msx-fm/Namco%20Community%20Disk%20Magazine%202%20%28FM%29.png"
+  ],
+  "year": 1990,
+  "date_added": "2022-05-23T00:00:00+00:00",
+  "developers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/developer/namco"
+  },
+  "publishers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/publisher/namco"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 639631,
+      "filesize_mp3_bytes": 356515,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 17,
+      "source_mp3": "https://vgmsite.com/soundtracks/namco-community-disk-magazine-2-msx-fm/ilfnhvctwu/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/namco-community-disk-magazine-2-msx-fm/ilfnhvctwu/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/namco-community-disk-magazine-2-msx-fm/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 629145,
+      "filesize_mp3_bytes": 545259,
+      "track_number": 2,
+      "title": "Game Select",
+      "runtime": 21,
+      "source_mp3": "https://vgmsite.com/soundtracks/namco-community-disk-magazine-2-msx-fm/gwnofxwzsa/02%20Game%20Select.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/namco-community-disk-magazine-2-msx-fm/gwnofxwzsa/02%20Game%20Select.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/namco-community-disk-magazine-2-msx-fm/02%2520Game%2520Select.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 38,
+    "filesize_mp3_bytes": 901774,
+    "filesize_flac_bytes": 1268776,
+    "tracks": 2
+  }
+}

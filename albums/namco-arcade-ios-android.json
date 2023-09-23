@@ -1,0 +1,39 @@
+{
+  "title": "Namco Arcade",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T12:06:15.657477+00:00",
+  "slug": "namco-arcade-ios-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/namco-arcade-ios-android",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/namco-arcade-ios-android/icon.png"
+  ],
+  "year": 2016,
+  "date_added": "2022-02-10T00:00:00+00:00",
+  "developers": {
+    "Bandai Namco Games": "https://downloads.khinsider.com/game-soundtracks/developer/bandai-namco-games"
+  },
+  "publishers": {
+    "Bandai Namco Games": "https://downloads.khinsider.com/game-soundtracks/publisher/bandai-namco-games"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1373634,
+      "title": "Title Screen - Main Menu",
+      "runtime": 34,
+      "source_mp3": "https://vgmsite.com/soundtracks/namco-arcade-ios-android/hkusgpasvt/Title%20Screen%20-%20Main%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/namco-arcade-ios-android/Title%2520Screen%2520-%2520Main%2520Menu.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 34,
+    "filesize_mp3_bytes": 1373634,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

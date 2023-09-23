@@ -1,0 +1,62 @@
+{
+  "title": "Minute Dungeon (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T09:56:12.636962+00:00",
+  "slug": "minute-dungeon-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/minute-dungeon-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/minute-dungeon-android-game-music/1.png"
+  ],
+  "year": 2010,
+  "date_added": "2016-06-10T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1488977,
+      "title": "BGM074-100119-urarakanahirusagari-mp3",
+      "runtime": 74,
+      "source_mp3": "https://vgmsite.com/soundtracks/minute-dungeon-android-game-music/prpevpsy/BGM074-100119-urarakanahirusagari-mp3.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/minute-dungeon-android-game-music/BGM074-100119-urarakanahirusagari-mp3.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3313500,
+      "title": "BGM138-121031-saranarukunan-mp3_cut",
+      "runtime": 160,
+      "source_mp3": "https://vgmsite.com/soundtracks/minute-dungeon-android-game-music/unbgoath/BGM138-121031-saranarukunan-mp3_cut.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/minute-dungeon-android-game-music/BGM138-121031-saranarukunan-mp3_cut.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3449815,
+      "title": "BGM140-121031-jaakunakokoro-mp3",
+      "runtime": 169,
+      "source_mp3": "https://vgmsite.com/soundtracks/minute-dungeon-android-game-music/oykrrodc/BGM140-121031-jaakunakokoro-mp3.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/minute-dungeon-android-game-music/BGM140-121031-jaakunakokoro-mp3.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9657384,
+      "title": "Minute Dungeon (merged)",
+      "runtime": 402,
+      "source_mp3": "https://vgmsite.com/soundtracks/minute-dungeon-android-game-music/gzgheccm/Minute%20Dungeon%20%28merged%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/minute-dungeon-android-game-music/Minute%2520Dungeon%2520%2528merged%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 805,
+    "filesize_mp3_bytes": 17909676,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

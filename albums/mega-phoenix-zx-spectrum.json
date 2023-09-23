@@ -1,0 +1,41 @@
+{
+  "title": "Mega Phoenix",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T08:21:10.763642+00:00",
+  "slug": "mega-phoenix-zx-spectrum",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mega-phoenix-zx-spectrum",
+  "platforms": {
+    "Spectrum": "https://downloads.khinsider.com/game-soundtracks/spectrum"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mega-phoenix-zx-spectrum/Megaphoenix_Back.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2021-02-07T00:00:00+00:00",
+  "developers": {
+    "Creepsoft": "https://downloads.khinsider.com/game-soundtracks/developer/creepsoft"
+  },
+  "publishers": {
+    "Dinamic Software": "https://downloads.khinsider.com/game-soundtracks/publisher/dinamic-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1447034,
+      "title": "Title Screen",
+      "runtime": 60,
+      "source_mp3": "https://vgmsite.com/soundtracks/mega-phoenix-zx-spectrum/sbcsdjeosw/Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mega-phoenix-zx-spectrum/Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 60,
+    "filesize_mp3_bytes": 1447034,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

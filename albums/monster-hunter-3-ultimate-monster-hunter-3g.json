@@ -1,0 +1,60 @@
+{
+  "title": "Monster Hunter 3 Ultimate (Monster Hunter 3G)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T10:30:56.212964+00:00",
+  "slug": "monster-hunter-3-ultimate-monster-hunter-3g",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/monster-hunter-3-ultimate-monster-hunter-3g",
+  "platforms": {
+    "3DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-3ds",
+    "Wii U": "https://downloads.khinsider.com/game-soundtracks/nintendo-wii-u"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/monster-hunter-3-ultimate-monster-hunter-3g/MonsterHunter3G.png"
+  ],
+  "year": 2011,
+  "date_added": "2018-11-27T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 22187868,
+      "filesize_mp3_bytes": 8619294,
+      "track_number": 1,
+      "title": "Green ~ Port Tanzia",
+      "runtime": 215,
+      "source_mp3": "https://vgmsite.com/soundtracks/monster-hunter-3-ultimate-monster-hunter-3g/nwstcydn/01%20Green%20~%20Port%20Tanzia.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/monster-hunter-3-ultimate-monster-hunter-3g/nwstcydn/01%20Green%20~%20Port%20Tanzia.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monster-hunter-3-ultimate-monster-hunter-3g/01%2520Green%2520~%2520Port%2520Tanzia.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 19000197,
+      "filesize_mp3_bytes": 6595543,
+      "track_number": 2,
+      "title": "Fearless Indigo",
+      "runtime": 165,
+      "source_mp3": "https://vgmsite.com/soundtracks/monster-hunter-3-ultimate-monster-hunter-3g/tjsenudd/02%20Fearless%20Indigo.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/monster-hunter-3-ultimate-monster-hunter-3g/tjsenudd/02%20Fearless%20Indigo.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monster-hunter-3-ultimate-monster-hunter-3g/02%2520Fearless%2520Indigo.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 23645388,
+      "filesize_mp3_bytes": 8829009,
+      "track_number": 3,
+      "title": "The Black Flame of Calamity",
+      "runtime": 221,
+      "source_mp3": "https://vgmsite.com/soundtracks/monster-hunter-3-ultimate-monster-hunter-3g/ufxsmikq/03%20The%20Black%20Flame%20of%20Calamity.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/monster-hunter-3-ultimate-monster-hunter-3g/ufxsmikq/03%20The%20Black%20Flame%20of%20Calamity.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monster-hunter-3-ultimate-monster-hunter-3g/03%2520The%2520Black%2520Flame%2520of%2520Calamity.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 601,
+    "filesize_mp3_bytes": 24043846,
+    "filesize_flac_bytes": 64833453,
+    "tracks": 3
+  }
+}

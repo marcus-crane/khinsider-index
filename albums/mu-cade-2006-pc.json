@@ -1,0 +1,70 @@
+{
+  "title": "Mu-cade",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T11:23:19.254429+00:00",
+  "slug": "mu-cade-2006-pc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mu-cade-2006-pc",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mu-cade-2006-pc/mcd.png"
+  ],
+  "year": 2006,
+  "date_added": "2022-06-24T00:00:00+00:00",
+  "developers": {
+    "ABA Games": "https://downloads.khinsider.com/game-soundtracks/developer/aba-games"
+  },
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1384120,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 77,
+      "source_mp3": "https://vgmsite.com/soundtracks/mu-cade-2006-pc/ipqztevomm/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mu-cade-2006-pc/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1121976,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/mu-cade-2006-pc/hmyusmchjl/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mu-cade-2006-pc/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1226833,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 70,
+      "source_mp3": "https://vgmsite.com/soundtracks/mu-cade-2006-pc/rjryrlwngf/03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mu-cade-2006-pc/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 954204,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 51,
+      "source_mp3": "https://vgmsite.com/soundtracks/mu-cade-2006-pc/rezusetdxo/04.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mu-cade-2006-pc/04.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 262,
+    "filesize_mp3_bytes": 4687133,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

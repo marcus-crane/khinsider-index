@@ -1,0 +1,54 @@
+{
+  "title": "Monopoly Soundtrack",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T10:24:36.239015+00:00",
+  "slug": "monopoly-soundtrack-ios",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/monopoly-soundtrack-ios",
+  "platforms": {
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/monopoly-soundtrack-ios/Folder.jpg"
+  ],
+  "date_added": "2018-05-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4886364,
+      "title": "Lounge - Monopoly iOS",
+      "runtime": 122,
+      "source_mp3": "https://vgmsite.com/soundtracks/monopoly-soundtrack-ios/xmwpwbwp/Lounge%20-%20Monopoly%20iOS.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monopoly-soundtrack-ios/Lounge%2520-%2520Monopoly%2520iOS.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5043650,
+      "title": "Smooth - Monopoly iOS",
+      "runtime": 126,
+      "source_mp3": "https://vgmsite.com/soundtracks/monopoly-soundtrack-ios/plrsdwrf/Smooth%20-%20Monopoly%20iOS.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monopoly-soundtrack-ios/Smooth%2520-%2520Monopoly%2520iOS.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4875878,
+      "title": "Swing - Monopoly iOS",
+      "runtime": 122,
+      "source_mp3": "https://vgmsite.com/soundtracks/monopoly-soundtrack-ios/mmqhocfe/Swing%20-%20Monopoly%20iOS.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monopoly-soundtrack-ios/Swing%2520-%2520Monopoly%2520iOS.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 370,
+    "filesize_mp3_bytes": 14805892,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "title": "Moon Patrol (Irem M52)",
+  "titles_alternative": [
+    "\u30e0\u30fc\u30f3\u30d1\u30c8\u30ed\u30fc\u30eb"
+  ],
+  "crawled_at": "2023-09-23T10:49:54.342406+00:00",
+  "slug": "moon-patrol-irem-m52-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/moon-patrol-irem-m52-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/moon-patrol-irem-m52-arcade/Moon%20Patrol.png"
+  ],
+  "year": 1982,
+  "date_added": "2021-10-02T00:00:00+00:00",
+  "developers": {
+    "Irem": "https://downloads.khinsider.com/game-soundtracks/developer/irem"
+  },
+  "publishers": {
+    "Irem": "https://downloads.khinsider.com/game-soundtracks/publisher/irem",
+    "Williams": "https://downloads.khinsider.com/game-soundtracks/publisher/williams"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 304087,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 1,
+      "title": "Opening",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/moon-patrol-irem-m52-arcade/zobinsoefz/01%20Opening.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/moon-patrol-irem-m52-arcade/zobinsoefz/01%20Opening.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/moon-patrol-irem-m52-arcade/01%2520Opening.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3282042,
+      "filesize_mp3_bytes": 1352663,
+      "track_number": 2,
+      "title": "BGM",
+      "runtime": 60,
+      "source_mp3": "https://vgmsite.com/soundtracks/moon-patrol-irem-m52-arcade/bwgctkoukm/02%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/moon-patrol-irem-m52-arcade/bwgctkoukm/02%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/moon-patrol-irem-m52-arcade/02%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 230686,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 3,
+      "title": "Step Passage",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/moon-patrol-irem-m52-arcade/xyjiuklgxn/03%20Step%20Passage.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/moon-patrol-irem-m52-arcade/xyjiuklgxn/03%20Step%20Passage.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/moon-patrol-irem-m52-arcade/03%2520Step%2520Passage.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 524288,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 4,
+      "title": "Congratulations",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/moon-patrol-irem-m52-arcade/hukopxzarv/04%20Congratulations.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/moon-patrol-irem-m52-arcade/hukopxzarv/04%20Congratulations.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/moon-patrol-irem-m52-arcade/04%2520Congratulations.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 157286,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 5,
+      "title": "Ending",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/moon-patrol-irem-m52-arcade/ffvwuwnzcc/05%20Ending.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/moon-patrol-irem-m52-arcade/ffvwuwnzcc/05%20Ending.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/moon-patrol-irem-m52-arcade/05%2520Ending.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 82,
+    "filesize_mp3_bytes": 1730148,
+    "filesize_flac_bytes": 4498389,
+    "tracks": 5
+  }
+}

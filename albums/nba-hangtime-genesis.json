@@ -1,0 +1,99 @@
+{
+  "title": "NBA Hang Time",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T12:49:09.875205+00:00",
+  "slug": "nba-hangtime-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/nba-hangtime-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/nba-hangtime-genesis/H1.jpg"
+  ],
+  "year": 1996,
+  "date_added": "2023-04-21T00:00:00+00:00",
+  "developers": {
+    "Funcom Oslo A/S": "https://downloads.khinsider.com/game-soundtracks/developer/funcom-oslo-a-s",
+    "Midway": "https://downloads.khinsider.com/game-soundtracks/developer/midway"
+  },
+  "publishers": {
+    "Midway": "https://downloads.khinsider.com/game-soundtracks/publisher/midway"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6501171,
+      "filesize_mp3_bytes": 2967470,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 168,
+      "source_mp3": "https://vgmsite.com/soundtracks/nba-hangtime-genesis/cquahjduim/01.%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nba-hangtime-genesis/cquahjduim/01.%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nba-hangtime-genesis/01.%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2883584,
+      "filesize_mp3_bytes": 1373634,
+      "track_number": 2,
+      "title": "Game BGM 1",
+      "runtime": 66,
+      "source_mp3": "https://vgmsite.com/soundtracks/nba-hangtime-genesis/wkupkpzeev/02.%20Game%20BGM%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nba-hangtime-genesis/wkupkpzeev/02.%20Game%20BGM%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nba-hangtime-genesis/02.%2520Game%2520BGM%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1572864,
+      "filesize_mp3_bytes": 702545,
+      "track_number": 3,
+      "title": "Halftime Stats - Coaching Tips",
+      "runtime": 36,
+      "source_mp3": "https://vgmsite.com/soundtracks/nba-hangtime-genesis/rawtkfbzsx/03.%20Halftime%20Stats%20-%20Coaching%20Tips.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nba-hangtime-genesis/rawtkfbzsx/03.%20Halftime%20Stats%20-%20Coaching%20Tips.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nba-hangtime-genesis/03.%2520Halftime%2520Stats%2520-%2520Coaching%2520Tips.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2485125,
+      "filesize_mp3_bytes": 1279262,
+      "track_number": 4,
+      "title": "Game BGM 2",
+      "runtime": 69,
+      "source_mp3": "https://vgmsite.com/soundtracks/nba-hangtime-genesis/vmvksjznmc/04.%20Game%20BGM%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nba-hangtime-genesis/vmvksjznmc/04.%20Game%20BGM%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nba-hangtime-genesis/04.%2520Game%2520BGM%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 293601,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 5,
+      "title": "The Winner is...",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/nba-hangtime-genesis/ziggskppha/05.%20The%20Winner%20is....mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nba-hangtime-genesis/ziggskppha/05.%20The%20Winner%20is....flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nba-hangtime-genesis/05.%2520The%2520Winner%2520is....mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2191523,
+      "filesize_mp3_bytes": 1216348,
+      "track_number": 6,
+      "title": "Defeated All 29 NBA Teams!",
+      "runtime": 61,
+      "source_mp3": "https://vgmsite.com/soundtracks/nba-hangtime-genesis/oaulzjrjvj/06.%20Defeated%20All%2029%20NBA%20Teams%21.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nba-hangtime-genesis/oaulzjrjvj/06.%20Defeated%20All%2029%20NBA%20Teams%21.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nba-hangtime-genesis/06.%2520Defeated%2520All%252029%2520NBA%2520Teams%2521.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 406,
+    "filesize_mp3_bytes": 7665088,
+    "filesize_flac_bytes": 15927868,
+    "tracks": 6
+  }
+}

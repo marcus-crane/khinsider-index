@@ -1,0 +1,52 @@
+{
+  "title": "Mummy Maze Deluxe",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T11:26:10.123103+00:00",
+  "slug": "mummy-maze-deluxe-windows-gamerip-2002",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mummy-maze-deluxe-windows-gamerip-2002",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mummy-maze-deluxe-windows-gamerip-2002/Mummy%20maze.jpg"
+  ],
+  "year": 2002,
+  "date_added": "2023-04-03T00:00:00+00:00",
+  "developers": {
+    "PopCap Games": "https://downloads.khinsider.com/game-soundtracks/developer/popcap-games"
+  },
+  "publishers": {
+    "PopCap Games": "https://downloads.khinsider.com/game-soundtracks/publisher/popcap-games"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6522142,
+      "track_number": 1,
+      "title": "Ingame",
+      "runtime": 407,
+      "source_mp3": "https://vgmsite.com/soundtracks/mummy-maze-deluxe-windows-gamerip-2002/hwnqnbyyik/01.%20Ingame.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mummy-maze-deluxe-windows-gamerip-2002/01.%2520Ingame.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3313500,
+      "track_number": 2,
+      "title": "Title",
+      "runtime": 207,
+      "source_mp3": "https://vgmsite.com/soundtracks/mummy-maze-deluxe-windows-gamerip-2002/rnbtvaywri/02.%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mummy-maze-deluxe-windows-gamerip-2002/02.%2520Title.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 614,
+    "filesize_mp3_bytes": 9835642,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "title": "Wii Mii Channel",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T09:37:01.470846+00:00",
+  "slug": "mii-channel",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mii-channel",
+  "platforms": {
+    "Wii": "https://downloads.khinsider.com/game-soundtracks/nintendo-wii"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mii-channel/maxresdefault.jpg"
+  ],
+  "year": 2006,
+  "date_added": "2023-05-01T00:00:00+00:00",
+  "developers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/developer/nintendo"
+  },
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 513802,
+      "track_number": 1,
+      "title": "Channel Intro",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/mii-channel/mrrblakpvv/01.%20Channel%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mii-channel/01.%2520Channel%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5525995,
+      "track_number": 2,
+      "title": "Mii Channel (Plaza)",
+      "runtime": 214,
+      "source_mp3": "https://vgmsite.com/soundtracks/mii-channel/ituvilwxxa/02.%20Mii%20Channel%20%28Plaza%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mii-channel/02.%2520Mii%2520Channel%2520%2528Plaza%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2956984,
+      "track_number": 3,
+      "title": "Mii Channel (Editing)",
+      "runtime": 106,
+      "source_mp3": "https://vgmsite.com/soundtracks/mii-channel/dmjlibgdtg/03.%20Mii%20Channel%20%28Editing%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mii-channel/03.%2520Mii%2520Channel%2520%2528Editing%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2977955,
+      "track_number": 4,
+      "title": "Mii Channel (Parade)",
+      "runtime": 107,
+      "source_mp3": "https://vgmsite.com/soundtracks/mii-channel/zpxaivslip/04.%20Mii%20Channel%20%28Parade%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mii-channel/04.%2520Mii%2520Channel%2520%2528Parade%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 432,
+    "filesize_mp3_bytes": 11974736,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

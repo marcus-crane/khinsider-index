@@ -1,0 +1,53 @@
+{
+  "title": "Metal Wolf REV Music CD",
+  "titles_alternative": [
+    "\u30e1\u30bf\u30eb\u30a6\u30eb\u30d5REV \u97f3\u697dCD"
+  ],
+  "crawled_at": "2023-09-23T09:01:42.360568+00:00",
+  "slug": "metal-wolf-rev-privilege-music-cd",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/metal-wolf-rev-privilege-music-cd",
+  "platforms": {
+    "PS2": "https://downloads.khinsider.com/game-soundtracks/playstation-2"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/metal-wolf-rev-privilege-music-cd/Metal%20Wolf%20REV%20Privilege%20Music%20CD.jpg"
+  ],
+  "year": 2006,
+  "catalog_number": "OSPS-0001",
+  "date_added": "2022-08-01T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "OAKS": "https://downloads.khinsider.com/game-soundtracks/publisher/oaks"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9961472,
+      "track_number": 1,
+      "title": "Moonlight",
+      "runtime": 292,
+      "source_mp3": "https://vgmsite.com/soundtracks/metal-wolf-rev-privilege-music-cd/vrfgjivcnf/01%20Moonlight.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/metal-wolf-rev-privilege-music-cd/01%2520Moonlight.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10202644,
+      "track_number": 2,
+      "title": "Moonlight (KARAOKE)",
+      "runtime": 289,
+      "source_mp3": "https://vgmsite.com/soundtracks/metal-wolf-rev-privilege-music-cd/dytcielajq/02%20Moonlight%20%28KARAOKE%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/metal-wolf-rev-privilege-music-cd/02%2520Moonlight%2520%2528KARAOKE%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 581,
+    "filesize_mp3_bytes": 20164116,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

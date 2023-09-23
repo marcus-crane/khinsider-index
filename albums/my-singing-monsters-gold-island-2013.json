@@ -1,0 +1,46 @@
+{
+  "title": "Gold Island",
+  "titles_alternative": [
+    "My Singing Monsters - Gold Island"
+  ],
+  "crawled_at": "2023-09-23T11:51:10.356561+00:00",
+  "slug": "my-singing-monsters-gold-island-2013",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/my-singing-monsters-gold-island-2013",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios",
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/my-singing-monsters-gold-island-2013/cover.jpg"
+  ],
+  "year": 2013,
+  "date_added": "2023-01-01T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Big Blue Bubble": "https://downloads.khinsider.com/game-soundtracks/publisher/big-blue-bubble"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 31226593,
+      "filesize_mp3_bytes": 8619294,
+      "track_number": 1,
+      "title": "Gold Island",
+      "runtime": 247,
+      "source_mp3": "https://vgmsite.com/soundtracks/my-singing-monsters-gold-island-2013/duywvuomfr/01%20Gold%20Island.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/my-singing-monsters-gold-island-2013/duywvuomfr/01%20Gold%20Island.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/my-singing-monsters-gold-island-2013/01%2520Gold%2520Island.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 247,
+    "filesize_mp3_bytes": 8619294,
+    "filesize_flac_bytes": 31226593,
+    "tracks": 1
+  }
+}

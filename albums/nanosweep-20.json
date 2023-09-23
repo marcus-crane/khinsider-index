@@ -1,0 +1,85 @@
+{
+  "title": "NANOSWEEP 20",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T12:22:11.747423+00:00",
+  "slug": "nanosweep-20",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-20",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/nanosweep-20/01%20CD.jpg"
+  ],
+  "year": 2015,
+  "catalog_number": "NS-020",
+  "date_added": "2023-09-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "nanosounds": "https://downloads.khinsider.com/game-soundtracks/publisher/nanosounds",
+    "SuperSweep": "https://downloads.khinsider.com/game-soundtracks/publisher/supersweep"
+  },
+  "genres": {
+    "Inspired By": "https://downloads.khinsider.com/game-soundtracks/inspired-by"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 31058821,
+      "filesize_mp3_bytes": 10957619,
+      "track_number": 1,
+      "title": "Echo",
+      "runtime": 313,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-20/ucpiqezuxb/01.%20Echo.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-20/ucpiqezuxb/01.%20Echo.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-20/01.%2520Echo.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 35536240,
+      "filesize_mp3_bytes": 9667870,
+      "track_number": 2,
+      "title": "Nove",
+      "runtime": 278,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-20/zediceipoe/02.%20Nove.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-20/zediceipoe/02.%20Nove.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-20/02.%2520Nove.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 39573258,
+      "filesize_mp3_bytes": 11922309,
+      "track_number": 3,
+      "title": "Nap of the Goldfish",
+      "runtime": 352,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-20/lexkcoselz/03.%20Nap%20of%20the%20Goldfish.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-20/lexkcoselz/03.%20Nap%20of%20the%20Goldfish.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-20/03.%2520Nap%2520of%2520the%2520Goldfish.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 28647096,
+      "filesize_mp3_bytes": 9258926,
+      "track_number": 4,
+      "title": "Out-of-body",
+      "runtime": 264,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-20/vrjjhhczri/04.%20Out-of-body.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-20/vrjjhhczri/04.%20Out-of-body.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-20/04.%2520Out-of-body.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 28479324,
+      "filesize_mp3_bytes": 7654604,
+      "track_number": 5,
+      "title": "Unicorn's Horn",
+      "runtime": 233,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-20/xbzlmekugx/05.%20Unicorn%27s%20Horn.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-20/xbzlmekugx/05.%20Unicorn%27s%20Horn.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-20/05.%2520Unicorn%2527s%2520Horn.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1440,
+    "filesize_mp3_bytes": 49461328,
+    "filesize_flac_bytes": 163294739,
+    "tracks": 5
+  }
+}

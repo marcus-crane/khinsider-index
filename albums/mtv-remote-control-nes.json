@@ -1,0 +1,43 @@
+{
+  "title": "MTV - Remote Control",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T11:23:12.010679+00:00",
+  "slug": "mtv-remote-control-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mtv-remote-control-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mtv-remote-control-nes/MTV%20Remote%20Control.png"
+  ],
+  "year": 1990,
+  "date_added": "2022-06-15T00:00:00+00:00",
+  "developers": {
+    "RSP": "https://downloads.khinsider.com/game-soundtracks/developer/rsp"
+  },
+  "publishers": {
+    "Hi-Tech Expressions": "https://downloads.khinsider.com/game-soundtracks/publisher/hi-tech-expressions"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7560232,
+      "filesize_mp3_bytes": 5567938,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 234,
+      "source_mp3": "https://vgmsite.com/soundtracks/mtv-remote-control-nes/nzhtruqecr/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mtv-remote-control-nes/nzhtruqecr/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mtv-remote-control-nes/01%2520Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 234,
+    "filesize_mp3_bytes": 5567938,
+    "filesize_flac_bytes": 7560232,
+    "tracks": 1
+  }
+}

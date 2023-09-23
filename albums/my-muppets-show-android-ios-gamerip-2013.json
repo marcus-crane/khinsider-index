@@ -1,0 +1,83 @@
+{
+  "title": "My Muppets Show",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T11:49:47.574114+00:00",
+  "slug": "my-muppets-show-android-ios-gamerip-2013",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/my-muppets-show-android-ios-gamerip-2013",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/my-muppets-show-android-ios-gamerip-2013/Title%20Screen.png"
+  ],
+  "year": 2013,
+  "date_added": "2023-06-19T00:00:00+00:00",
+  "developers": {
+    "Big Blue Bubble": "https://downloads.khinsider.com/game-soundtracks/developer/big-blue-bubble"
+  },
+  "publishers": {
+    "Disney Mobile": "https://downloads.khinsider.com/game-soundtracks/publisher/disney-mobile"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3848273,
+      "track_number": 1,
+      "title": "Muppet Theater",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/my-muppets-show-android-ios-gamerip-2013/gbpebrkvsm/01.%20Muppet%20Theater.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/my-muppets-show-android-ios-gamerip-2013/01.%2520Muppet%2520Theater.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3848273,
+      "track_number": 2,
+      "title": "Kitchen",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/my-muppets-show-android-ios-gamerip-2013/tjfetxjoyn/02.%20Kitchen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/my-muppets-show-android-ios-gamerip-2013/02.%2520Kitchen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3544186,
+      "track_number": 3,
+      "title": "Rooftop",
+      "runtime": 89,
+      "source_mp3": "https://vgmsite.com/soundtracks/my-muppets-show-android-ios-gamerip-2013/qgoipbcpzb/03.%20Rooftop.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/my-muppets-show-android-ios-gamerip-2013/03.%2520Rooftop.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3544186,
+      "track_number": 4,
+      "title": "Ship",
+      "runtime": 89,
+      "source_mp3": "https://vgmsite.com/soundtracks/my-muppets-show-android-ios-gamerip-2013/qzagmdumzq/04.%20Ship.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/my-muppets-show-android-ios-gamerip-2013/04.%2520Ship.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2747269,
+      "track_number": 5,
+      "title": "Big House",
+      "runtime": 69,
+      "source_mp3": "https://vgmsite.com/soundtracks/my-muppets-show-android-ios-gamerip-2013/lrluomktxl/05.%20Big%20House.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/my-muppets-show-android-ios-gamerip-2013/05.%2520Big%2520House.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 439,
+    "filesize_mp3_bytes": 17532187,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

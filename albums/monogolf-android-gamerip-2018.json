@@ -1,0 +1,74 @@
+{
+  "title": "Monogolf",
+  "titles_alternative": [
+    "mono golf masters"
+  ],
+  "crawled_at": "2023-09-23T10:23:43.444898+00:00",
+  "slug": "monogolf-android-gamerip-2018",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/monogolf-android-gamerip-2018",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/monogolf-android-gamerip-2018/image.png"
+  ],
+  "year": 2018,
+  "date_added": "2023-03-06T00:00:00+00:00",
+  "developers": {
+    "Tesalia": "https://downloads.khinsider.com/game-soundtracks/developer/tesalia"
+  },
+  "publishers": {
+    "Master MGame": "https://downloads.khinsider.com/game-soundtracks/publisher/master-mgame"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 545259,
+      "track_number": 1,
+      "title": "Mus Challenge",
+      "runtime": 18,
+      "source_mp3": "https://vgmsite.com/soundtracks/monogolf-android-gamerip-2018/fcrrwcbycc/01.%20Mus%20Challenge.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monogolf-android-gamerip-2018/01.%2520Mus%2520Challenge.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2946498,
+      "track_number": 2,
+      "title": "Mus Editor",
+      "runtime": 117,
+      "source_mp3": "https://vgmsite.com/soundtracks/monogolf-android-gamerip-2018/msakkupfzf/02.%20Mus%20Editor.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monogolf-android-gamerip-2018/02.%2520Mus%2520Editor.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1205862,
+      "track_number": 3,
+      "title": "Mus Game",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/monogolf-android-gamerip-2018/geeywtdwcx/03.%20Mus%20Game.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monogolf-android-gamerip-2018/03.%2520Mus%2520Game.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2212495,
+      "track_number": 4,
+      "title": "Mus Packs",
+      "runtime": 72,
+      "source_mp3": "https://vgmsite.com/soundtracks/monogolf-android-gamerip-2018/waqopmxhnj/04.%20Mus%20Packs.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monogolf-android-gamerip-2018/04.%2520Mus%2520Packs.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 255,
+    "filesize_mp3_bytes": 6910114,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

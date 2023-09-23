@@ -1,0 +1,114 @@
+{
+  "title": "Mayumi",
+  "titles_alternative": [
+    "\u307e\u3086\u307f"
+  ],
+  "crawled_at": "2023-09-23T07:49:31.985595+00:00",
+  "slug": "mayumi-x68000",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mayumi-x68000",
+  "platforms": {
+    "X68000": "https://downloads.khinsider.com/game-soundtracks/x68000"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mayumi-x68000/Mayumi.jpg"
+  ],
+  "year": 1992,
+  "date_added": "2016-08-22T00:00:00+00:00",
+  "developers": {
+    "COCKTAIL SOFT": "https://downloads.khinsider.com/game-soundtracks/developer/cocktail-soft"
+  },
+  "publishers": {
+    "Cocktail Soft": "https://downloads.khinsider.com/game-soundtracks/publisher/cocktail-soft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6805258,
+      "track_number": 1,
+      "title": "THEME",
+      "runtime": 210,
+      "source_mp3": "https://vgmsite.com/soundtracks/mayumi-x68000/bjlvdpbi/01_THEME.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mayumi-x68000/01_THEME.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2055208,
+      "track_number": 2,
+      "title": "GIRLS",
+      "runtime": 71,
+      "source_mp3": "https://vgmsite.com/soundtracks/mayumi-x68000/kaccljgg/02_GIRLS.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mayumi-x68000/02_GIRLS.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3365928,
+      "track_number": 3,
+      "title": "HAGEYAMA",
+      "runtime": 101,
+      "source_mp3": "https://vgmsite.com/soundtracks/mayumi-x68000/edgezcep/03_HAGEYAMA.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mayumi-x68000/03_HAGEYAMA.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5651824,
+      "track_number": 4,
+      "title": "IDOU",
+      "runtime": 208,
+      "source_mp3": "https://vgmsite.com/soundtracks/mayumi-x68000/kqxskmmr/04_IDOU.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mayumi-x68000/04_IDOU.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4991221,
+      "track_number": 5,
+      "title": "KAISOU",
+      "runtime": 165,
+      "source_mp3": "https://vgmsite.com/soundtracks/mayumi-x68000/clhjkjva/05_KAISOU.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mayumi-x68000/05_KAISOU.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2474639,
+      "track_number": 6,
+      "title": "KONRAN",
+      "runtime": 83,
+      "source_mp3": "https://vgmsite.com/soundtracks/mayumi-x68000/zumuaacv/06_KONRAN.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mayumi-x68000/06_KONRAN.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3795845,
+      "track_number": 7,
+      "title": "KYOUTEKI",
+      "runtime": 114,
+      "source_mp3": "https://vgmsite.com/soundtracks/mayumi-x68000/otwbvpab/07_KYOUTEKI.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mayumi-x68000/07_KYOUTEKI.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3449815,
+      "track_number": 8,
+      "title": "SHOCK",
+      "runtime": 122,
+      "source_mp3": "https://vgmsite.com/soundtracks/mayumi-x68000/qpyrypqq/08_SHOCK.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mayumi-x68000/08_SHOCK.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1074,
+    "filesize_mp3_bytes": 32589738,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

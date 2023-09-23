@@ -1,0 +1,55 @@
+{
+  "title": "Minecraft Earth",
+  "titles_alternative": [
+    "Minecraft Earth (Original Game Soundtrack)"
+  ],
+  "crawled_at": "2023-09-23T09:46:04.196239+00:00",
+  "slug": "minecraft-earth",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/minecraft-earth",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios",
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/minecraft-earth/cover.jpg"
+  ],
+  "year": 2021,
+  "catalog_number": "MSM0055",
+  "date_added": "2021-06-24T00:00:00+00:00",
+  "developers": {
+    "Mojang Studios": "https://downloads.khinsider.com/game-soundtracks/developer/mojang-studios"
+  },
+  "publishers": {
+    "Microsoft Studios Music": "https://downloads.khinsider.com/game-soundtracks/publisher/microsoft-studios-music"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 14050918,
+      "title": "Earth",
+      "runtime": 348,
+      "source_mp3": "https://vgmsite.com/soundtracks/minecraft-earth/nyojhbcvmd/Earth.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/minecraft-earth/Earth.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6029312,
+      "title": "Sprouting",
+      "runtime": 148,
+      "source_mp3": "https://vgmsite.com/soundtracks/minecraft-earth/fyfgwblmke/Sprouting.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/minecraft-earth/Sprouting.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 496,
+    "filesize_mp3_bytes": 20080230,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "title": "NBA Live '96",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T12:50:57.827188+00:00",
+  "slug": "nba-live-96-1995-snes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/nba-live-96-1995-snes",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/nba-live-96-1995-snes/N1.jpg"
+  ],
+  "year": 1995,
+  "date_added": "2020-08-21T00:00:00+00:00",
+  "developers": {
+    "Hitmen Productions": "https://downloads.khinsider.com/game-soundtracks/developer/hitmen-productions"
+  },
+  "publishers": {
+    "EA": "https://downloads.khinsider.com/game-soundtracks/publisher/ea"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2778726,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 116,
+      "source_mp3": "https://vgmsite.com/soundtracks/nba-live-96-1995-snes/heksjiaocy/01%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nba-live-96-1995-snes/01%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2495610,
+      "track_number": 2,
+      "title": "Menu",
+      "runtime": 104,
+      "source_mp3": "https://vgmsite.com/soundtracks/nba-live-96-1995-snes/rrrbbgwjsr/02%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nba-live-96-1995-snes/02%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2139095,
+      "track_number": 3,
+      "title": "Options",
+      "runtime": 89,
+      "source_mp3": "https://vgmsite.com/soundtracks/nba-live-96-1995-snes/hohqkoahcj/03%20Options.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nba-live-96-1995-snes/03%2520Options.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3649044,
+      "track_number": 4,
+      "title": "Results",
+      "runtime": 152,
+      "source_mp3": "https://vgmsite.com/soundtracks/nba-live-96-1995-snes/vmvpxpiqcl/04%20Results.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nba-live-96-1995-snes/04%2520Results.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3187671,
+      "track_number": 5,
+      "title": "Results 2",
+      "runtime": 133,
+      "source_mp3": "https://vgmsite.com/soundtracks/nba-live-96-1995-snes/hdzoijaxdt/05%20Results%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nba-live-96-1995-snes/05%2520Results%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4288675,
+      "track_number": 6,
+      "title": "Victory",
+      "runtime": 179,
+      "source_mp3": "https://vgmsite.com/soundtracks/nba-live-96-1995-snes/ywydkjgfxy/06%20Victory.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nba-live-96-1995-snes/06%2520Victory.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 773,
+    "filesize_mp3_bytes": 18538821,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

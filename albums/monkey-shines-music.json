@@ -1,0 +1,77 @@
+{
+  "title": "Monkey Shines Music",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T10:22:44.310521+00:00",
+  "slug": "monkey-shines-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/monkey-shines-music",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/monkey-shines-music/coverart.jpg"
+  ],
+  "date_added": "2020-12-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2789212,
+      "title": "House",
+      "runtime": 174,
+      "source_mp3": "https://vgmsite.com/soundtracks/monkey-shines-music/jijhmrskmd/House.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monkey-shines-music/House.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4456448,
+      "title": "Jungle",
+      "runtime": 278,
+      "source_mp3": "https://vgmsite.com/soundtracks/monkey-shines-music/crxabsqkqa/Jungle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monkey-shines-music/Jungle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3565158,
+      "title": "Nightmare",
+      "runtime": 223,
+      "source_mp3": "https://vgmsite.com/soundtracks/monkey-shines-music/tbjmpzxbfz/Nightmare.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monkey-shines-music/Nightmare.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2862612,
+      "title": "Space",
+      "runtime": 179,
+      "source_mp3": "https://vgmsite.com/soundtracks/monkey-shines-music/kndbzdfifl/Space.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monkey-shines-music/Space.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2065694,
+      "title": "Title",
+      "runtime": 129,
+      "source_mp3": "https://vgmsite.com/soundtracks/monkey-shines-music/umfcucrqse/Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monkey-shines-music/Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3690987,
+      "title": "Water",
+      "runtime": 230,
+      "source_mp3": "https://vgmsite.com/soundtracks/monkey-shines-music/gjgpbzlgrn/Water.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monkey-shines-music/Water.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1213,
+    "filesize_mp3_bytes": 19430111,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

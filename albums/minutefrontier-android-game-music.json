@@ -1,0 +1,56 @@
+{
+  "title": "MinuteFrontier (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T09:56:29.809135+00:00",
+  "slug": "minutefrontier-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/minutefrontier-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/minutefrontier-android-game-music/1.png"
+  ],
+  "year": 2015,
+  "date_added": "2016-06-15T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2936012,
+      "track_number": 1,
+      "title": "8bit-Town01",
+      "runtime": 124,
+      "source_mp3": "https://vgmsite.com/soundtracks/minutefrontier-android-game-music/nxqpivwt/1%208bit-Town01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/minutefrontier-android-game-music/1%25208bit-Town01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2506096,
+      "track_number": 2,
+      "title": "8bit-Dungeon02",
+      "runtime": 104,
+      "source_mp3": "https://vgmsite.com/soundtracks/minutefrontier-android-game-music/auupglzm/2%208bit-Dungeon02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/minutefrontier-android-game-music/2%25208bit-Dungeon02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2464153,
+      "track_number": 3,
+      "title": "8bit-Battle01",
+      "runtime": 102,
+      "source_mp3": "https://vgmsite.com/soundtracks/minutefrontier-android-game-music/tzhlyhfr/3%208bit-Battle01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/minutefrontier-android-game-music/3%25208bit-Battle01.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 330,
+    "filesize_mp3_bytes": 7906261,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

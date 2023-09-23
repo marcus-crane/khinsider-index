@@ -1,0 +1,78 @@
+{
+  "title": "Mi ni Ikuzo! Hedgehog (Homebrew)",
+  "titles_alternative": [
+    "\u898b\u306b\u884c\u304f\u305e\uff01HEDGEHOG"
+  ],
+  "crawled_at": "2023-09-23T09:17:31.888976+00:00",
+  "slug": "mi-ni-ikuzo-hedgehog-x68000-homebrew-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mi-ni-ikuzo-hedgehog-x68000-homebrew-gamerip",
+  "platforms": {
+    "X68000": "https://downloads.khinsider.com/game-soundtracks/x68000"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mi-ni-ikuzo-hedgehog-x68000-homebrew-gamerip/Mi%20ni%20Ikuzo%21%20Hedgehog%20%28Minic%20The%20Hedgehog%29%20Title%20Screen.png"
+  ],
+  "year": 1993,
+  "date_added": "2021-08-18T00:00:00+00:00",
+  "developers": {
+    "Sakai": "https://downloads.khinsider.com/game-soundtracks/developer/sakai"
+  },
+  "publishers": {
+    "Sakai": "https://downloads.khinsider.com/game-soundtracks/publisher/sakai"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 60439920,
+      "filesize_mp3_bytes": 7140802,
+      "track_number": 1,
+      "title": "Final Zone",
+      "runtime": 208,
+      "source_mp3": "https://vgmsite.com/soundtracks/mi-ni-ikuzo-hedgehog-x68000-homebrew-gamerip/npjbrgvyla/01.%20Final%20Zone.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mi-ni-ikuzo-hedgehog-x68000-homebrew-gamerip/npjbrgvyla/01.%20Final%20Zone.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mi-ni-ikuzo-hedgehog-x68000-homebrew-gamerip/01.%2520Final%2520Zone.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 37916508,
+      "filesize_mp3_bytes": 3974103,
+      "track_number": 2,
+      "title": "Special Stage",
+      "runtime": 122,
+      "source_mp3": "https://vgmsite.com/soundtracks/mi-ni-ikuzo-hedgehog-x68000-homebrew-gamerip/xgruxrvqip/02.%20Special%20Stage.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mi-ni-ikuzo-hedgehog-x68000-homebrew-gamerip/xgruxrvqip/02.%20Special%20Stage.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mi-ni-ikuzo-hedgehog-x68000-homebrew-gamerip/02.%2520Special%2520Stage.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 25784483,
+      "filesize_mp3_bytes": 2998927,
+      "track_number": 3,
+      "title": "Act Cleared",
+      "runtime": 94,
+      "source_mp3": "https://vgmsite.com/soundtracks/mi-ni-ikuzo-hedgehog-x68000-homebrew-gamerip/zqsrpfpknt/03.%20Act%20Cleared.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mi-ni-ikuzo-hedgehog-x68000-homebrew-gamerip/zqsrpfpknt/03.%20Act%20Cleared.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mi-ni-ikuzo-hedgehog-x68000-homebrew-gamerip/03.%2520Act%2520Cleared.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7948206,
+      "filesize_mp3_bytes": 954204,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 30,
+      "source_mp3": "https://vgmsite.com/soundtracks/mi-ni-ikuzo-hedgehog-x68000-homebrew-gamerip/apyrzqxzdj/04.%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mi-ni-ikuzo-hedgehog-x68000-homebrew-gamerip/apyrzqxzdj/04.%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mi-ni-ikuzo-hedgehog-x68000-homebrew-gamerip/04.%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 454,
+    "filesize_mp3_bytes": 15068036,
+    "filesize_flac_bytes": 132089117,
+    "tracks": 4
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Mashed - Drive to Survive",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T07:28:06.576790+00:00",
+  "slug": "mashed-drive-to-survive-gamerip-2004-pc-ps2-xbox",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mashed-drive-to-survive-gamerip-2004-pc-ps2-xbox",
+  "platforms": {
+    "PS2": "https://downloads.khinsider.com/game-soundtracks/playstation-2",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows",
+    "Xbox": "https://downloads.khinsider.com/game-soundtracks/xbox"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mashed-drive-to-survive-gamerip-2004-pc-ps2-xbox/cover.jpg"
+  ],
+  "year": 2004,
+  "date_added": "2022-05-17T00:00:00+00:00",
+  "developers": {
+    "Supersonic Software": "https://downloads.khinsider.com/game-soundtracks/developer/supersonic-software"
+  },
+  "publishers": {
+    "Empire Interactive": "https://downloads.khinsider.com/game-soundtracks/publisher/empire-interactive"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4529848,
+      "filesize_mp3_bytes": 1352663,
+      "title": "Intro",
+      "runtime": 52,
+      "source_mp3": "https://vgmsite.com/soundtracks/mashed-drive-to-survive-gamerip-2004-pc-ps2-xbox/nuezdahqvo/Intro.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mashed-drive-to-survive-gamerip-2004-pc-ps2-xbox/nuezdahqvo/Intro.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mashed-drive-to-survive-gamerip-2004-pc-ps2-xbox/Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5651824,
+      "filesize_mp3_bytes": 2076180,
+      "title": "Main Menu",
+      "runtime": 74,
+      "source_mp3": "https://vgmsite.com/soundtracks/mashed-drive-to-survive-gamerip-2004-pc-ps2-xbox/pgppjatgus/Main%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mashed-drive-to-survive-gamerip-2004-pc-ps2-xbox/pgppjatgus/Main%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mashed-drive-to-survive-gamerip-2004-pc-ps2-xbox/Main%2520Menu.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 126,
+    "filesize_mp3_bytes": 3428843,
+    "filesize_flac_bytes": 10181672,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "title": "My Boyfriend",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T11:44:57.212497+00:00",
+  "slug": "my-boyfriend-windows-gamerip-2006",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/my-boyfriend-windows-gamerip-2006",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/my-boyfriend-windows-gamerip-2006/Image.jpg"
+  ],
+  "year": 2006,
+  "date_added": "2023-09-13T00:00:00+00:00",
+  "developers": {
+    "4HEAD Studios": "https://downloads.khinsider.com/game-soundtracks/developer/4head-studios"
+  },
+  "publishers": {
+    "dtp": "https://downloads.khinsider.com/game-soundtracks/publisher/dtp",
+    "Viva Media": "https://downloads.khinsider.com/game-soundtracks/publisher/viva-media"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 18255708,
+      "filesize_mp3_bytes": 5809111,
+      "track_number": 1,
+      "title": "Ingame Club",
+      "runtime": 187,
+      "source_mp3": "https://vgmsite.com/soundtracks/my-boyfriend-windows-gamerip-2006/hxflmxtfpv/01.%20Ingame%20Club.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/my-boyfriend-windows-gamerip-2006/hxflmxtfpv/01.%20Ingame%20Club.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/my-boyfriend-windows-gamerip-2006/01.%2520Ingame%2520Club.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 17941135,
+      "filesize_mp3_bytes": 6155141,
+      "track_number": 2,
+      "title": "Ingame Main",
+      "runtime": 198,
+      "source_mp3": "https://vgmsite.com/soundtracks/my-boyfriend-windows-gamerip-2006/cbfmvzupoa/02.%20Ingame%20Main.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/my-boyfriend-windows-gamerip-2006/cbfmvzupoa/02.%20Ingame%20Main.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/my-boyfriend-windows-gamerip-2006/02.%2520Ingame%2520Main.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 14984151,
+      "filesize_mp3_bytes": 5913968,
+      "track_number": 3,
+      "title": "Menu Main",
+      "runtime": 192,
+      "source_mp3": "https://vgmsite.com/soundtracks/my-boyfriend-windows-gamerip-2006/nfblkqbkfu/03.%20Menu%20Main.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/my-boyfriend-windows-gamerip-2006/nfblkqbkfu/03.%20Menu%20Main.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/my-boyfriend-windows-gamerip-2006/03.%2520Menu%2520Main.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 577,
+    "filesize_mp3_bytes": 17878220,
+    "filesize_flac_bytes": 51180994,
+    "tracks": 3
+  }
+}

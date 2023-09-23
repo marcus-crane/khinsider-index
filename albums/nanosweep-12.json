@@ -1,0 +1,87 @@
+{
+  "title": "NANOSWEEP12",
+  "titles_alternative": [
+    "Nanosweep 12"
+  ],
+  "crawled_at": "2023-09-23T12:21:53.410832+00:00",
+  "slug": "nanosweep-12",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-12",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/nanosweep-12/Nanosweep%2012.jpg"
+  ],
+  "year": 2011,
+  "catalog_number": "NS-012",
+  "date_added": "2023-09-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "nanosounds": "https://downloads.khinsider.com/game-soundtracks/publisher/nanosounds",
+    "SuperSweep": "https://downloads.khinsider.com/game-soundtracks/publisher/supersweep"
+  },
+  "genres": {
+    "Inspired By": "https://downloads.khinsider.com/game-soundtracks/inspired-by"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 30565990,
+      "filesize_mp3_bytes": 8399093,
+      "track_number": 1,
+      "title": "Wob.",
+      "runtime": 247,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-12/ypthgbtsvn/01.%20Wob..mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-12/ypthgbtsvn/01.%20Wob..flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-12/01.%2520Wob..mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 32411484,
+      "filesize_mp3_bytes": 9500098,
+      "track_number": 2,
+      "title": "Brutal",
+      "runtime": 265,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-12/iakbuwtzmu/02.%20Brutal.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-12/iakbuwtzmu/02.%20Brutal.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-12/02.%2520Brutal.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 31960596,
+      "filesize_mp3_bytes": 9583984,
+      "track_number": 3,
+      "title": "The cluster",
+      "runtime": 285,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-12/mqmirdbges/03.%20The%20cluster.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-12/mqmirdbges/03.%20The%20cluster.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-12/03.%2520The%2520cluster.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 46535802,
+      "filesize_mp3_bytes": 12499025,
+      "track_number": 4,
+      "title": "Stalking Darkness",
+      "runtime": 366,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-12/kmhtqczsuq/04.%20Stalking%20Darkness.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-12/kmhtqczsuq/04.%20Stalking%20Darkness.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-12/04.%2520Stalking%2520Darkness.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 35997614,
+      "filesize_mp3_bytes": 8545894,
+      "track_number": 5,
+      "title": "Blue screen",
+      "runtime": 257,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-12/eiactpqgha/05.%20Blue%20screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-12/eiactpqgha/05.%20Blue%20screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-12/05.%2520Blue%2520screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1420,
+    "filesize_mp3_bytes": 48528094,
+    "filesize_flac_bytes": 177471486,
+    "tracks": 5
+  }
+}

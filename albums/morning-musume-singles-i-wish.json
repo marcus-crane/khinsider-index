@@ -1,0 +1,54 @@
+{
+  "title": "Morning Musume Singles I Wish",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T10:53:55.391377+00:00",
+  "slug": "morning-musume-singles-i-wish",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/morning-musume-singles-i-wish",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/morning-musume-singles-i-wish/3282-enmqowumld.jpg"
+  ],
+  "year": 2000,
+  "date_added": "2006-11-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5756682,
+      "track_number": 1,
+      "title": "i wish",
+      "runtime": 288,
+      "source_mp3": "https://vgmsite.com/soundtracks/morning-musume-singles-i-wish/wbsnfasj/01%20-%20i%20wish.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/morning-musume-singles-i-wish/01%2520-%2520i%2520wish.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6606028,
+      "track_number": 2,
+      "title": "akogare my boy",
+      "runtime": 330,
+      "source_mp3": "https://vgmsite.com/soundtracks/morning-musume-singles-i-wish/yclhtsou/02%20-%20akogare%20my%20boy.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/morning-musume-singles-i-wish/02%2520-%2520akogare%2520my%2520boy.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5735710,
+      "track_number": 3,
+      "title": "i wish (instrumental)",
+      "runtime": 287,
+      "source_mp3": "https://vgmsite.com/soundtracks/morning-musume-singles-i-wish/sumehzub/03%20-%20i%20wish%20%28instrumental%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/morning-musume-singles-i-wish/03%2520-%2520i%2520wish%2520%2528instrumental%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 905,
+    "filesize_mp3_bytes": 18098420,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

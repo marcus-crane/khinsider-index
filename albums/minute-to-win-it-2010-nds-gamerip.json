@@ -1,0 +1,72 @@
+{
+  "title": "Minute to Win It",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T09:56:28.189984+00:00",
+  "slug": "minute-to-win-it-2010-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/minute-to-win-it-2010-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/minute-to-win-it-2010-nds-gamerip/M1.png"
+  ],
+  "year": 2010,
+  "date_added": "2020-06-17T00:00:00+00:00",
+  "developers": {
+    "Smack Down": "https://downloads.khinsider.com/game-soundtracks/developer/smack-down"
+  },
+  "publishers": {
+    "Zoo": "https://downloads.khinsider.com/game-soundtracks/publisher/zoo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5368709,
+      "filesize_mp3_bytes": 1688207,
+      "title": "Fortitude",
+      "runtime": 65,
+      "source_mp3": "https://vgmsite.com/soundtracks/minute-to-win-it-2010-nds-gamerip/hzqnczjydz/Fortitude.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/minute-to-win-it-2010-nds-gamerip/hzqnczjydz/Fortitude.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/minute-to-win-it-2010-nds-gamerip/Fortitude.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8808038,
+      "filesize_mp3_bytes": 2631925,
+      "title": "Mellow2",
+      "runtime": 90,
+      "source_mp3": "https://vgmsite.com/soundtracks/minute-to-win-it-2010-nds-gamerip/rqybmulxka/Mellow2.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/minute-to-win-it-2010-nds-gamerip/rqybmulxka/Mellow2.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/minute-to-win-it-2010-nds-gamerip/Mellow2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4949278,
+      "filesize_mp3_bytes": 1604321,
+      "title": "Rockerz",
+      "runtime": 57,
+      "source_mp3": "https://vgmsite.com/soundtracks/minute-to-win-it-2010-nds-gamerip/woqslyiyul/Rockerz.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/minute-to-win-it-2010-nds-gamerip/woqslyiyul/Rockerz.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/minute-to-win-it-2010-nds-gamerip/Rockerz.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7633633,
+      "filesize_mp3_bytes": 2411724,
+      "title": "Toys",
+      "runtime": 79,
+      "source_mp3": "https://vgmsite.com/soundtracks/minute-to-win-it-2010-nds-gamerip/ptarukgzld/Toys.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/minute-to-win-it-2010-nds-gamerip/ptarukgzld/Toys.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/minute-to-win-it-2010-nds-gamerip/Toys.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 291,
+    "filesize_mp3_bytes": 8336177,
+    "filesize_flac_bytes": 26759658,
+    "tracks": 4
+  }
+}

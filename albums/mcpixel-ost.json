@@ -1,0 +1,95 @@
+{
+  "title": "McPixel OST",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T07:51:17.980964+00:00",
+  "slug": "mcpixel-ost",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mcpixel-ost",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios",
+    "Linux": "https://downloads.khinsider.com/game-soundtracks/linux",
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mcpixel-ost/coverart.jpg"
+  ],
+  "year": 2012,
+  "catalog_number": null,
+  "date_added": "2015-12-03T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Miko\u0142aj Kami\u0144ski": "https://downloads.khinsider.com/game-soundtracks/publisher/miko-aj-kami-ski"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8063549,
+      "track_number": 1,
+      "title": "McPixel Theme",
+      "runtime": 200,
+      "source_mp3": "https://vgmsite.com/soundtracks/mcpixel-ost/qyijpvwf/01.%20McPixel%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mcpixel-ost/01.%2520McPixel%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7738490,
+      "track_number": 2,
+      "title": "Lunch Break",
+      "runtime": 192,
+      "source_mp3": "https://vgmsite.com/soundtracks/mcpixel-ost/qpifqbew/02.%20Lunch%20Break.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mcpixel-ost/02.%2520Lunch%2520Break.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7046430,
+      "track_number": 3,
+      "title": "Oh, look!",
+      "runtime": 175,
+      "source_mp3": "https://vgmsite.com/soundtracks/mcpixel-ost/rkyfxjzh/03.%20Oh%2C%20look%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mcpixel-ost/03.%2520Oh%252C%2520look%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7738490,
+      "track_number": 4,
+      "title": "Will It Blow_",
+      "runtime": 192,
+      "source_mp3": "https://vgmsite.com/soundtracks/mcpixel-ost/srgfcsoh/04.%20Will%20It%20Blow_.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mcpixel-ost/04.%2520Will%2520It%2520Blow_.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7738490,
+      "track_number": 5,
+      "title": "It Will Blow, Won't It_",
+      "runtime": 192,
+      "source_mp3": "https://vgmsite.com/soundtracks/mcpixel-ost/lpzsraip/05.%20It%20Will%20Blow%2C%20Won%27t%20It_.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mcpixel-ost/05.%2520It%2520Will%2520Blow%252C%2520Won%2527t%2520It_.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7465861,
+      "track_number": 6,
+      "title": "Bonusness",
+      "runtime": 185,
+      "source_mp3": "https://vgmsite.com/soundtracks/mcpixel-ost/wjxzrmxo/06.%20Bonusness.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mcpixel-ost/06.%2520Bonusness.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1136,
+    "filesize_mp3_bytes": 45791310,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

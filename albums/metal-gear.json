@@ -1,0 +1,168 @@
+{
+  "title": "Metal Gear",
+  "titles_alternative": [
+    "\u30e1\u30bf\u30eb\u30ae\u30a2"
+  ],
+  "crawled_at": "2023-09-23T08:41:26.382782+00:00",
+  "slug": "metal-gear",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/metal-gear",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/metal-gear/cover.png"
+  ],
+  "year": 1987,
+  "date_added": "2023-06-08T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami"
+  },
+  "publishers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami",
+    "Ultra": "https://downloads.khinsider.com/game-soundtracks/publisher/ultra"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4330618,
+      "filesize_mp3_bytes": 408944,
+      "track_number": 1,
+      "title": "Game Start",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/metal-gear/fhizjexocb/01.%20Game%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/metal-gear/fhizjexocb/01.%20Game%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/metal-gear/01.%2520Game%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10380902,
+      "filesize_mp3_bytes": 2579496,
+      "track_number": 2,
+      "title": "Jungle",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/metal-gear/pwivricpje/02.%20Jungle.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/metal-gear/pwivricpje/02.%20Jungle.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/metal-gear/02.%2520Jungle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10695475,
+      "filesize_mp3_bytes": 2663383,
+      "track_number": 3,
+      "title": "Outer Heaven",
+      "runtime": 102,
+      "source_mp3": "https://vgmsite.com/soundtracks/metal-gear/mguexmaazh/03.%20Outer%20Heaven.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/metal-gear/mguexmaazh/03.%20Outer%20Heaven.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/metal-gear/03.%2520Outer%2520Heaven.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10213130,
+      "filesize_mp3_bytes": 2663383,
+      "track_number": 4,
+      "title": "Alert",
+      "runtime": 95,
+      "source_mp3": "https://vgmsite.com/soundtracks/metal-gear/vdzlsdvbju/04.%20Alert.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/metal-gear/vdzlsdvbju/04.%20Alert.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/metal-gear/04.%2520Alert.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10276044,
+      "filesize_mp3_bytes": 2694840,
+      "track_number": 5,
+      "title": "Alert 2",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/metal-gear/vmcoyqhwcj/05.%20Alert%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/metal-gear/vmcoyqhwcj/05.%20Alert%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/metal-gear/05.%2520Alert%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10517217,
+      "filesize_mp3_bytes": 2757754,
+      "track_number": 6,
+      "title": "Alert 3",
+      "runtime": 99,
+      "source_mp3": "https://vgmsite.com/soundtracks/metal-gear/kyyjqhtgar/06.%20Alert%203.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/metal-gear/kyyjqhtgar/06.%20Alert%203.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/metal-gear/06.%2520Alert%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4236247,
+      "filesize_mp3_bytes": 387973,
+      "track_number": 7,
+      "title": "Just Another Dead Soldier",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/metal-gear/odeqbiydik/07.%20Just%20Another%20Dead%20Soldier.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/metal-gear/odeqbiydik/07.%20Just%20Another%20Dead%20Soldier.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/metal-gear/07.%2520Just%2520Another%2520Dead%2520Soldier.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7235174,
+      "filesize_mp3_bytes": 1363148,
+      "track_number": 8,
+      "title": "Password",
+      "runtime": 50,
+      "source_mp3": "https://vgmsite.com/soundtracks/metal-gear/qxsidrosrs/08.%20Password.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/metal-gear/qxsidrosrs/08.%20Password.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/metal-gear/08.%2520Password.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6836715,
+      "filesize_mp3_bytes": 1373634,
+      "track_number": 9,
+      "title": "Mercenary",
+      "runtime": 45,
+      "source_mp3": "https://vgmsite.com/soundtracks/metal-gear/qateybfydc/09.%20Mercenary.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/metal-gear/qateybfydc/09.%20Mercenary.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/metal-gear/09.%2520Mercenary.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6312427,
+      "filesize_mp3_bytes": 1174405,
+      "track_number": 10,
+      "title": "TX-55 Metal Gear",
+      "runtime": 37,
+      "source_mp3": "https://vgmsite.com/soundtracks/metal-gear/gqmqiovjfz/10.%20TX-55%20Metal%20Gear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/metal-gear/gqmqiovjfz/10.%20TX-55%20Metal%20Gear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/metal-gear/10.%2520TX-55%2520Metal%2520Gear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9185525,
+      "filesize_mp3_bytes": 2149580,
+      "track_number": 11,
+      "title": "Escape",
+      "runtime": 77,
+      "source_mp3": "https://vgmsite.com/soundtracks/metal-gear/zuafyljpsn/11.%20Escape.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/metal-gear/zuafyljpsn/11.%20Escape.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/metal-gear/11.%2520Escape.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11041505,
+      "filesize_mp3_bytes": 2642411,
+      "track_number": 12,
+      "title": "Return of Fox Hounder",
+      "runtime": 106,
+      "source_mp3": "https://vgmsite.com/soundtracks/metal-gear/rbtrklmdth/12.%20Return%20of%20Fox%20Hounder.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/metal-gear/rbtrklmdth/12.%20Return%20of%20Fox%20Hounder.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/metal-gear/12.%2520Return%2520of%2520Fox%2520Hounder.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 822,
+    "filesize_mp3_bytes": 22858951,
+    "filesize_flac_bytes": 101260979,
+    "tracks": 12
+  }
+}

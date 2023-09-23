@@ -1,0 +1,104 @@
+{
+  "title": "Ms. Pac-Man (Unlicensed)",
+  "titles_alternative": [
+    "\u30df\u30ba\u30fb\u30d1\u30c3\u30af\u30de\u30f3"
+  ],
+  "crawled_at": "2023-09-23T11:22:31.843954+00:00",
+  "slug": "ms.-pac-man-1990-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ms.-pac-man-1990-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ms.-pac-man-1990-nes/253238-ms-pac-man-nes-front-cover.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2018-02-17T00:00:00+00:00",
+  "developers": {
+    "Tengen": "https://downloads.khinsider.com/game-soundtracks/developer/tengen"
+  },
+  "publishers": {
+    "Tengen": "https://downloads.khinsider.com/game-soundtracks/publisher/tengen"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 220200,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 17,
+      "source_mp3": "https://vgmsite.com/soundtracks/ms.-pac-man-1990-nes/tiiyjiyf/1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ms.-pac-man-1990-nes/1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/ms.-pac-man-1990-nes/lmywclfk/2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ms.-pac-man-1990-nes/2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 293601,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 23,
+      "source_mp3": "https://vgmsite.com/soundtracks/ms.-pac-man-1990-nes/gurizokb/3.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ms.-pac-man-1990-nes/3.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 335544,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 17,
+      "source_mp3": "https://vgmsite.com/soundtracks/ms.-pac-man-1990-nes/perjibkg/4.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ms.-pac-man-1990-nes/4.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 5,
+      "title": "Track 5",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/ms.-pac-man-1990-nes/alcxsjgj/5.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ms.-pac-man-1990-nes/5.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 6,
+      "title": "Track 6",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/ms.-pac-man-1990-nes/rgnidoto/6.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ms.-pac-man-1990-nes/6.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3722444,
+      "track_number": 7,
+      "title": "Track 7",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/ms.-pac-man-1990-nes/lnyhfalv/7.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ms.-pac-man-1990-nes/7.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 255,
+    "filesize_mp3_bytes": 4823446,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

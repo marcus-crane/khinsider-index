@@ -1,0 +1,101 @@
+{
+  "title": "Metal Gear",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T08:42:24.435544+00:00",
+  "slug": "metal-gear-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/metal-gear-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/metal-gear-commodore-64/MG-comodore-cover.png"
+  ],
+  "year": 1990,
+  "date_added": "2018-05-21T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami",
+    "Ultra Games": "https://downloads.khinsider.com/game-soundtracks/publisher/ultra-games"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4183818,
+      "track_number": 1,
+      "title": "Title Screen  Loading (SID Stereo)",
+      "runtime": 109,
+      "source_mp3": "https://vgmsite.com/soundtracks/metal-gear-commodore-64/lhuivnze/01_Title%20Screen%20%20Loading%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/metal-gear-commodore-64/01_Title%2520Screen%2520%2520Loading%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 629145,
+      "track_number": 2,
+      "title": "Aerial Insertion (SID Stereo)",
+      "runtime": 20,
+      "source_mp3": "https://vgmsite.com/soundtracks/metal-gear-commodore-64/rcyjvalt/02_Aerial%20Insertion%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/metal-gear-commodore-64/02_Aerial%2520Insertion%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4550819,
+      "track_number": 3,
+      "title": "Jungle Infiltration (SID Stereo)",
+      "runtime": 138,
+      "source_mp3": "https://vgmsite.com/soundtracks/metal-gear-commodore-64/qwkrodgv/03_Jungle%20Infiltration%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/metal-gear-commodore-64/03_Jungle%2520Infiltration%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2160066,
+      "track_number": 4,
+      "title": "Base Infiltration (SID Stereo)",
+      "runtime": 68,
+      "source_mp3": "https://vgmsite.com/soundtracks/metal-gear-commodore-64/fwoixboi/04_Base%20Infiltration%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/metal-gear-commodore-64/04_Base%2520Infiltration%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3586129,
+      "track_number": 5,
+      "title": "Intruder Detected (SID Stereo)",
+      "runtime": 106,
+      "source_mp3": "https://vgmsite.com/soundtracks/metal-gear-commodore-64/rljftmsp/05_Intruder%20Detected%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/metal-gear-commodore-64/05_Intruder%2520Detected%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2401239,
+      "track_number": 6,
+      "title": "Mercenary (SID Stereo)",
+      "runtime": 63,
+      "source_mp3": "https://vgmsite.com/soundtracks/metal-gear-commodore-64/rqwssqjh/06_Mercenary%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/metal-gear-commodore-64/06_Mercenary%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 188743,
+      "track_number": 7,
+      "title": "Game Over (SID Stereo)",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/metal-gear-commodore-64/tqiujvzm/07_Game%20Over%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/metal-gear-commodore-64/07_Game%2520Over%2520%2528SID%2520Stereo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 511,
+    "filesize_mp3_bytes": 17699959,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

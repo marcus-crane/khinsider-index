@@ -1,0 +1,99 @@
+{
+  "title": "NBA Live 96",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T12:51:06.205786+00:00",
+  "slug": "nba-live-96-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/nba-live-96-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/nba-live-96-genesis/NBA%20Live%2096.png"
+  ],
+  "year": 1995,
+  "date_added": "2020-03-16T00:00:00+00:00",
+  "developers": {
+    "EA": "https://downloads.khinsider.com/game-soundtracks/developer/ea",
+    "Hitmen Productions": "https://downloads.khinsider.com/game-soundtracks/developer/hitmen-productions"
+  },
+  "publishers": {
+    "EA": "https://downloads.khinsider.com/game-soundtracks/publisher/ea"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10391388,
+      "filesize_mp3_bytes": 4047503,
+      "track_number": 1,
+      "title": "Title Theme",
+      "runtime": 134,
+      "source_mp3": "https://vgmsite.com/soundtracks/nba-live-96-genesis/rnujrumqbr/01%20-%20Title%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nba-live-96-genesis/rnujrumqbr/01%20-%20Title%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nba-live-96-genesis/01%2520-%2520Title%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7612661,
+      "filesize_mp3_bytes": 3502243,
+      "track_number": 2,
+      "title": "Main Menu",
+      "runtime": 157,
+      "source_mp3": "https://vgmsite.com/soundtracks/nba-live-96-genesis/jksgnqrwhn/02%20-%20Main%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nba-live-96-genesis/jksgnqrwhn/02%20-%20Main%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nba-live-96-genesis/02%2520-%2520Main%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 17070817,
+      "filesize_mp3_bytes": 6322913,
+      "track_number": 3,
+      "title": "Menu Theme 1",
+      "runtime": 179,
+      "source_mp3": "https://vgmsite.com/soundtracks/nba-live-96-genesis/mgodxzdszt/03%20-%20Menu%20Theme%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nba-live-96-genesis/mgodxzdszt/03%20-%20Menu%20Theme%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nba-live-96-genesis/03%2520-%2520Menu%2520Theme%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8147435,
+      "filesize_mp3_bytes": 3523215,
+      "track_number": 4,
+      "title": "Menu Theme 2",
+      "runtime": 149,
+      "source_mp3": "https://vgmsite.com/soundtracks/nba-live-96-genesis/ncahatdaat/04%20-%20Menu%20Theme%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nba-live-96-genesis/ncahatdaat/04%20-%20Menu%20Theme%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nba-live-96-genesis/04%2520-%2520Menu%2520Theme%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 18570280,
+      "filesize_mp3_bytes": 6836715,
+      "track_number": 5,
+      "title": "Menu Theme 3",
+      "runtime": 210,
+      "source_mp3": "https://vgmsite.com/soundtracks/nba-live-96-genesis/ulqsytmgbo/05%20-%20Menu%20Theme%203.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nba-live-96-genesis/ulqsytmgbo/05%20-%20Menu%20Theme%203.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nba-live-96-genesis/05%2520-%2520Menu%2520Theme%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7759462,
+      "filesize_mp3_bytes": 3198156,
+      "track_number": 6,
+      "title": "Victory",
+      "runtime": 121,
+      "source_mp3": "https://vgmsite.com/soundtracks/nba-live-96-genesis/tzjzgswegb/06%20-%20Victory.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nba-live-96-genesis/tzjzgswegb/06%20-%20Victory.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nba-live-96-genesis/06%2520-%2520Victory.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 950,
+    "filesize_mp3_bytes": 27430745,
+    "filesize_flac_bytes": 69552043,
+    "tracks": 6
+  }
+}

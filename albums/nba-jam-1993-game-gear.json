@@ -1,0 +1,87 @@
+{
+  "title": "NBA Jam",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T12:49:57.718121+00:00",
+  "slug": "nba-jam-1993-game-gear",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/nba-jam-1993-game-gear",
+  "platforms": {
+    "Game Gear": "https://downloads.khinsider.com/game-soundtracks/sega-game-gear"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/nba-jam-1993-game-gear/NBA%20Jam%20%28USA%2C%20Europe%29.png"
+  ],
+  "year": 1993,
+  "date_added": "2020-07-16T00:00:00+00:00",
+  "developers": {
+    "Acclaim": "https://downloads.khinsider.com/game-soundtracks/developer/acclaim",
+    "Iguana": "https://downloads.khinsider.com/game-soundtracks/developer/iguana",
+    "Midway": "https://downloads.khinsider.com/game-soundtracks/developer/midway"
+  },
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8965324,
+      "filesize_mp3_bytes": 4047503,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/nba-jam-1993-game-gear/ulkizqqvqp/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nba-jam-1993-game-gear/ulkizqqvqp/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nba-jam-1993-game-gear/01%2520BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9353297,
+      "filesize_mp3_bytes": 3848273,
+      "track_number": 2,
+      "title": "BGM #02",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/nba-jam-1993-game-gear/wgdwprglys/02%20BGM%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nba-jam-1993-game-gear/wgdwprglys/02%20BGM%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nba-jam-1993-game-gear/02%2520BGM%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8021606,
+      "filesize_mp3_bytes": 4320133,
+      "track_number": 3,
+      "title": "BGM #03",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/nba-jam-1993-game-gear/jcmxhmfwkz/03%20BGM%20%2303.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nba-jam-1993-game-gear/jcmxhmfwkz/03%20BGM%20%2303.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nba-jam-1993-game-gear/03%2520BGM%2520%252303.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 136314,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 4,
+      "title": "Jingle #01",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/nba-jam-1993-game-gear/uijtqrkcss/04%20Jingle%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nba-jam-1993-game-gear/uijtqrkcss/04%20Jingle%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nba-jam-1993-game-gear/04%2520Jingle%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 283115,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 5,
+      "title": "Jingle #02",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/nba-jam-1993-game-gear/jkvgligstl/05%20Jingle%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nba-jam-1993-game-gear/jkvgligstl/05%20Jingle%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nba-jam-1993-game-gear/05%2520Jingle%2520%252302.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 550,
+    "filesize_mp3_bytes": 12383680,
+    "filesize_flac_bytes": 26759656,
+    "tracks": 5
+  }
+}

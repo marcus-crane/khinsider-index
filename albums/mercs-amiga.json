@@ -1,0 +1,115 @@
+{
+  "title": "Mercs",
+  "titles_alternative": [
+    "Wolf of the Battlefield II",
+    "\u6226\u5834\u306e\u72fc\u2161"
+  ],
+  "crawled_at": "2023-09-23T08:36:42.890190+00:00",
+  "slug": "mercs-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mercs-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mercs-amiga/Mercs%20%28Amiga%29.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2017-04-06T00:00:00+00:00",
+  "developers": {
+    "Capcom": "https://downloads.khinsider.com/game-soundtracks/developer/capcom"
+  },
+  "publishers": {
+    "U.S. Gold": "https://downloads.khinsider.com/game-soundtracks/publisher/u.s.-gold"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5358223,
+      "track_number": 1,
+      "title": "Opening  Main Theme",
+      "runtime": 202,
+      "source_mp3": "https://vgmsite.com/soundtracks/mercs-amiga/dabeokow/01_Opening%20%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mercs-amiga/01_Opening%2520%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1027604,
+      "track_number": 2,
+      "title": "Title Screen",
+      "runtime": 38,
+      "source_mp3": "https://vgmsite.com/soundtracks/mercs-amiga/wctzxstl/02_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mercs-amiga/02_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1132462,
+      "track_number": 3,
+      "title": "Boss Theme",
+      "runtime": 40,
+      "source_mp3": "https://vgmsite.com/soundtracks/mercs-amiga/kesgihbe/03_Boss%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mercs-amiga/03_Boss%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1352663,
+      "track_number": 4,
+      "title": "Mission Completed",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/mercs-amiga/uirtgkbp/04_Mission%20Completed.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mercs-amiga/04_Mission%2520Completed.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 167772,
+      "track_number": 5,
+      "title": "SFX 1",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/mercs-amiga/fmoudynn/05_SFX%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mercs-amiga/05_SFX%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 6,
+      "title": "SFX 2",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/mercs-amiga/ygrmcvia/06_SFX%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mercs-amiga/06_SFX%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 7,
+      "title": "SFX 3",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/mercs-amiga/ejwskxvw/07_SFX%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mercs-amiga/07_SFX%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 8,
+      "title": "SFX 4",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/mercs-amiga/vkdqutcz/08_SFX%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mercs-amiga/08_SFX%25204.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 346,
+    "filesize_mp3_bytes": 9279895,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

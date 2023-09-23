@@ -1,0 +1,116 @@
+{
+  "title": "Mikie (SC-3000)",
+  "titles_alternative": [
+    "Shinnyuushain Tooru-Kun",
+    "\u65b0\u5165\u793e\u54e1\u3068\u304a\u308b\u304f\u3093"
+  ],
+  "crawled_at": "2023-09-23T09:39:28.160328+00:00",
+  "slug": "mikie-sc-3000",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mikie-sc-3000",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mikie-sc-3000/M1.jpg"
+  ],
+  "year": 1985,
+  "date_added": "2019-06-03T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami",
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 1,
+      "title": "START",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/mikie-sc-3000/zldzgmpeyc/01_START.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mikie-sc-3000/01_START.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1562378,
+      "track_number": 2,
+      "title": "OFFICE ROOM",
+      "runtime": 60,
+      "source_mp3": "https://vgmsite.com/soundtracks/mikie-sc-3000/wfybhalqli/02_OFFICE%20ROOM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mikie-sc-3000/02_OFFICE%2520ROOM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 3,
+      "title": "DOOR OPEN",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/mikie-sc-3000/zqlhwksujn/03_DOOR%20OPEN.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mikie-sc-3000/03_DOOR%2520OPEN.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1132462,
+      "track_number": 4,
+      "title": "HALL WAY",
+      "runtime": 42,
+      "source_mp3": "https://vgmsite.com/soundtracks/mikie-sc-3000/ncdofgjmvv/04_HALL%20WAY.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mikie-sc-3000/04_HALL%2520WAY.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 209715,
+      "track_number": 5,
+      "title": "STEP CLEAR",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/mikie-sc-3000/ieigoubkfe/05_STEP%20CLEAR.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mikie-sc-3000/05_STEP%2520CLEAR.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 178257,
+      "track_number": 6,
+      "title": "CAR",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/mikie-sc-3000/jhdxowmcfz/06_CAR.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mikie-sc-3000/06_CAR.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 7,
+      "title": "PLAYER OUT",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/mikie-sc-3000/kiemzgpotl/07_PLAYER%20OUT.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mikie-sc-3000/07_PLAYER%2520OUT.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 8,
+      "title": "GAME OVER",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/mikie-sc-3000/lkycxocias/08_GAME%20OVER.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mikie-sc-3000/08_GAME%2520OVER.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 135,
+    "filesize_mp3_bytes": 3449811,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

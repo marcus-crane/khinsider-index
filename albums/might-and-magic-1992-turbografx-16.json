@@ -1,0 +1,78 @@
+{
+  "title": "Might and Magic",
+  "titles_alternative": [
+    "\u30de\u30a4\u30c8\u30a2\u30f3\u30c9\u30de\u30b8\u30c3\u30af"
+  ],
+  "crawled_at": "2023-09-23T09:30:50.558033+00:00",
+  "slug": "might-and-magic-1992-turbografx-16",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/might-and-magic-1992-turbografx-16",
+  "platforms": {
+    "TurboGrafx-16": "https://downloads.khinsider.com/game-soundtracks/turbografx-16"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/might-and-magic-1992-turbografx-16/Might%20and%20Magic%20Cover.jpg"
+  ],
+  "year": 1992,
+  "date_added": "2019-05-11T00:00:00+00:00",
+  "developers": {
+    "NEC": "https://downloads.khinsider.com/game-soundtracks/developer/nec"
+  },
+  "publishers": {
+    "NEC": "https://downloads.khinsider.com/game-soundtracks/publisher/nec"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10297016,
+      "filesize_mp3_bytes": 3523215,
+      "track_number": 1,
+      "title": "Prologue 2",
+      "runtime": 88,
+      "source_mp3": "https://vgmsite.com/soundtracks/might-and-magic-1992-turbografx-16/jjavsttr/01%20Prologue%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/might-and-magic-1992-turbografx-16/jjavsttr/01%20Prologue%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/might-and-magic-1992-turbografx-16/01%2520Prologue%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 21527265,
+      "filesize_mp3_bytes": 10024386,
+      "track_number": 2,
+      "title": "Opening (Birth)",
+      "runtime": 250,
+      "source_mp3": "https://vgmsite.com/soundtracks/might-and-magic-1992-turbografx-16/jjsyktgo/02%20Opening%20%28Birth%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/might-and-magic-1992-turbografx-16/jjsyktgo/02%20Opening%20%28Birth%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/might-and-magic-1992-turbografx-16/02%2520Opening%2520%2528Birth%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 18601738,
+      "filesize_mp3_bytes": 9447669,
+      "track_number": 3,
+      "title": "Ending (Mysterious Love)",
+      "runtime": 236,
+      "source_mp3": "https://vgmsite.com/soundtracks/might-and-magic-1992-turbografx-16/bzxiekds/03%20Ending%20%28Mysterious%20Love%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/might-and-magic-1992-turbografx-16/bzxiekds/03%20Ending%20%28Mysterious%20Love%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/might-and-magic-1992-turbografx-16/03%2520Ending%2520%2528Mysterious%2520Love%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 18140364,
+      "filesize_mp3_bytes": 8556380,
+      "track_number": 4,
+      "title": "Credits",
+      "runtime": 214,
+      "source_mp3": "https://vgmsite.com/soundtracks/might-and-magic-1992-turbografx-16/prhrppcy/04%20Credits.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/might-and-magic-1992-turbografx-16/prhrppcy/04%20Credits.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/might-and-magic-1992-turbografx-16/04%2520Credits.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 788,
+    "filesize_mp3_bytes": 31551650,
+    "filesize_flac_bytes": 68566383,
+    "tracks": 4
+  }
+}

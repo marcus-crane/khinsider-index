@@ -1,0 +1,46 @@
+{
+  "title": "Moe Moe Battle 2",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T10:11:11.330346+00:00",
+  "slug": "moe-moe-battle-2-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/moe-moe-battle-2-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/moe-moe-battle-2-android-game-music/1.jpg"
+  ],
+  "year": 2010,
+  "date_added": "2016-06-04T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 838860,
+      "title": "battle1",
+      "runtime": 52,
+      "source_mp3": "https://vgmsite.com/soundtracks/moe-moe-battle-2-android-game-music/avpjxtsl/battle1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/moe-moe-battle-2-android-game-music/battle1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1142947,
+      "title": "boss1",
+      "runtime": 71,
+      "source_mp3": "https://vgmsite.com/soundtracks/moe-moe-battle-2-android-game-music/eezvkkkf/boss1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/moe-moe-battle-2-android-game-music/boss1.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 123,
+    "filesize_mp3_bytes": 1981807,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

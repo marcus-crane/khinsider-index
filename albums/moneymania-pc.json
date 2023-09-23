@@ -1,0 +1,86 @@
+{
+  "title": "MoneyMania",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T10:20:44.786212+00:00",
+  "slug": "moneymania-pc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/moneymania-pc",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/moneymania-pc/cover.jpg"
+  ],
+  "year": 2002,
+  "date_added": "2021-03-13T00:00:00+00:00",
+  "developers": {
+    "AxySoft": "https://downloads.khinsider.com/game-soundtracks/developer/axysoft"
+  },
+  "publishers": {
+    "AxySoft": "https://downloads.khinsider.com/game-soundtracks/publisher/axysoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 429916,
+      "title": "Track 1",
+      "runtime": 46,
+      "source_mp3": "https://vgmsite.com/soundtracks/moneymania-pc/acpthwelcv/Track%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/moneymania-pc/Track%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 325058,
+      "title": "Track 2",
+      "runtime": 33,
+      "source_mp3": "https://vgmsite.com/soundtracks/moneymania-pc/nqaflzzewp/Track%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/moneymania-pc/Track%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 314572,
+      "title": "Track 3",
+      "runtime": 31,
+      "source_mp3": "https://vgmsite.com/soundtracks/moneymania-pc/yeuzcwhssz/Track%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/moneymania-pc/Track%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 262144,
+      "title": "Track 4",
+      "runtime": 27,
+      "source_mp3": "https://vgmsite.com/soundtracks/moneymania-pc/vgsbfztjet/Track%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/moneymania-pc/Track%25204.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 377487,
+      "title": "Track 5",
+      "runtime": 40,
+      "source_mp3": "https://vgmsite.com/soundtracks/moneymania-pc/owcqspzmti/Track%205.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/moneymania-pc/Track%25205.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 367001,
+      "title": "Track 6",
+      "runtime": 38,
+      "source_mp3": "https://vgmsite.com/soundtracks/moneymania-pc/cxhcorflmz/Track%206.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/moneymania-pc/Track%25206.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 215,
+    "filesize_mp3_bytes": 2076178,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

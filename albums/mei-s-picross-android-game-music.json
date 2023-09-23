@@ -1,0 +1,53 @@
+{
+  "title": "Mei's Picross (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T08:29:11.075309+00:00",
+  "slug": "mei-s-picross-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mei-s-picross-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mei-s-picross-android-game-music/1.jpg"
+  ],
+  "year": 2014,
+  "date_added": "2016-10-27T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3124756,
+      "title": "bgm",
+      "runtime": 97,
+      "source_mp3": "https://vgmsite.com/soundtracks/mei-s-picross-android-game-music/omicisrz/bgm.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mei-s-picross-android-game-music/bgm.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2002780,
+      "title": "bgm_cat",
+      "runtime": 83,
+      "source_mp3": "https://vgmsite.com/soundtracks/mei-s-picross-android-game-music/qlhwoegu/bgm_cat.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mei-s-picross-android-game-music/bgm_cat.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3334471,
+      "title": "bgm_title",
+      "runtime": 104,
+      "source_mp3": "https://vgmsite.com/soundtracks/mei-s-picross-android-game-music/okwpuzxt/bgm_title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mei-s-picross-android-game-music/bgm_title.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 284,
+    "filesize_mp3_bytes": 8462007,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

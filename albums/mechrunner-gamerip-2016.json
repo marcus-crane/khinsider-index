@@ -1,0 +1,86 @@
+{
+  "title": "MechRunner",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T07:53:26.790067+00:00",
+  "slug": "mechrunner-gamerip-2016",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mechrunner-gamerip-2016",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/mechrunner-gamerip-2016/Front.jpg"
+  ],
+  "year": 2016,
+  "date_added": "2018-09-30T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5054136,
+      "track_number": 1,
+      "title": "Main Menu",
+      "runtime": 126,
+      "source_mp3": "https://vgmsite.com/soundtracks/mechrunner-gamerip-2016/nzdhcljs/01.%20Main%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mechrunner-gamerip-2016/01.%2520Main%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5588910,
+      "track_number": 2,
+      "title": "City Environment Loop",
+      "runtime": 140,
+      "source_mp3": "https://vgmsite.com/soundtracks/mechrunner-gamerip-2016/ozmmmsou/02.%20City%20Environment%20Loop.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mechrunner-gamerip-2016/02.%2520City%2520Environment%2520Loop.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5211422,
+      "track_number": 3,
+      "title": "Industrial Loop",
+      "runtime": 130,
+      "source_mp3": "https://vgmsite.com/soundtracks/mechrunner-gamerip-2016/urixrywl/03.%20Industrial%20Loop.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mechrunner-gamerip-2016/03.%2520Industrial%2520Loop.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2747269,
+      "track_number": 4,
+      "title": "Boss",
+      "runtime": 69,
+      "source_mp3": "https://vgmsite.com/soundtracks/mechrunner-gamerip-2016/cxvblidr/04.%20Boss.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mechrunner-gamerip-2016/04.%2520Boss.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5347737,
+      "track_number": 5,
+      "title": "Sewers",
+      "runtime": 134,
+      "source_mp3": "https://vgmsite.com/soundtracks/mechrunner-gamerip-2016/wfdtjusr/05.%20Sewers.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mechrunner-gamerip-2016/05.%2520Sewers.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 251658,
+      "track_number": 6,
+      "title": "Game Over",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/mechrunner-gamerip-2016/kkzhdjdt/06.%20Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mechrunner-gamerip-2016/06.%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 605,
+    "filesize_mp3_bytes": 24201132,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

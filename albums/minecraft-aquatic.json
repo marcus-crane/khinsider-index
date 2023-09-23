@@ -1,0 +1,81 @@
+{
+  "title": "Minecraft Aquatic Update",
+  "titles_alternative": [
+    "Untitled Minecraft Album",
+    "Minecraft - Aquatic"
+  ],
+  "crawled_at": "2023-09-23T09:44:33.470212+00:00",
+  "slug": "minecraft-aquatic",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/minecraft-aquatic",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios",
+    "Linux": "https://downloads.khinsider.com/game-soundtracks/linux",
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile",
+    "PS Vita": "https://downloads.khinsider.com/game-soundtracks/playstation-vita",
+    "PS3": "https://downloads.khinsider.com/game-soundtracks/playstation-3",
+    "PS4": "https://downloads.khinsider.com/game-soundtracks/playstation-4",
+    "Switch": "https://downloads.khinsider.com/game-soundtracks/nintendo-switch",
+    "Wii U": "https://downloads.khinsider.com/game-soundtracks/nintendo-wii-u",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows",
+    "Xbox 360": "https://downloads.khinsider.com/game-soundtracks/xbox-360",
+    "Xbox One": "https://downloads.khinsider.com/game-soundtracks/xbox-one"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/minecraft-aquatic/axolotl.jpg"
+  ],
+  "year": 2018,
+  "date_added": "2022-09-27T00:00:00+00:00",
+  "developers": {
+    "Mojang": "https://downloads.khinsider.com/game-soundtracks/developer/mojang"
+  },
+  "publishers": {
+    "Mojang": "https://downloads.khinsider.com/game-soundtracks/publisher/mojang",
+    "Xbox Game Studios": "https://downloads.khinsider.com/game-soundtracks/publisher/xbox-game-studios"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 52219084,
+      "filesize_mp3_bytes": 9563013,
+      "track_number": 1,
+      "title": "Axolotl",
+      "runtime": 303,
+      "source_mp3": "https://vgmsite.com/soundtracks/minecraft-aquatic/tdmuszleuz/01%20Axolotl.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/minecraft-aquatic/tdmuszleuz/01%20Axolotl.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/minecraft-aquatic/01%2520Axolotl.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 63963136,
+      "filesize_mp3_bytes": 11072962,
+      "track_number": 2,
+      "title": "Dragon Fish",
+      "runtime": 372,
+      "source_mp3": "https://vgmsite.com/soundtracks/minecraft-aquatic/vvdzfptaiq/02%20Dragon%20Fish.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/minecraft-aquatic/vvdzfptaiq/02%20Dragon%20Fish.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/minecraft-aquatic/02%2520Dragon%2520Fish.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 42488299,
+      "filesize_mp3_bytes": 7539261,
+      "track_number": 3,
+      "title": "Shuniji",
+      "runtime": 244,
+      "source_mp3": "https://vgmsite.com/soundtracks/minecraft-aquatic/kgpbcizzeg/03%20Shuniji.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/minecraft-aquatic/kgpbcizzeg/03%20Shuniji.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/minecraft-aquatic/03%2520Shuniji.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 919,
+    "filesize_mp3_bytes": 28175236,
+    "filesize_flac_bytes": 158670519,
+    "tracks": 3
+  }
+}

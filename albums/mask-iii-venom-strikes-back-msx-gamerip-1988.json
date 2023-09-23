@@ -1,0 +1,65 @@
+{
+  "title": "Mask III - Venom Strikes Back",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T07:28:22.943615+00:00",
+  "slug": "mask-iii-venom-strikes-back-msx-gamerip-1988",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mask-iii-venom-strikes-back-msx-gamerip-1988",
+  "platforms": {
+    "MSX": "https://downloads.khinsider.com/game-soundtracks/msx"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mask-iii-venom-strikes-back-msx-gamerip-1988/Mask%20III%20-%20Venom%20Strikes%20Back.png"
+  ],
+  "year": 1988,
+  "date_added": "2022-12-29T00:00:00+00:00",
+  "developers": {
+    "Gremlin Graphics": "https://downloads.khinsider.com/game-soundtracks/developer/gremlin-graphics"
+  },
+  "publishers": {
+    "Gremlin Graphics": "https://downloads.khinsider.com/game-soundtracks/publisher/gremlin-graphics"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9950986,
+      "filesize_mp3_bytes": 4634705,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 181,
+      "source_mp3": "https://vgmsite.com/soundtracks/mask-iii-venom-strikes-back-msx-gamerip-1988/mpvvxnqtgp/01%20Intro.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mask-iii-venom-strikes-back-msx-gamerip-1988/mpvvxnqtgp/01%20Intro.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mask-iii-venom-strikes-back-msx-gamerip-1988/01%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 94371,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 2,
+      "title": "Game start",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/mask-iii-venom-strikes-back-msx-gamerip-1988/cckpvmisio/02%20Game%20start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mask-iii-venom-strikes-back-msx-gamerip-1988/cckpvmisio/02%20Game%20start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mask-iii-venom-strikes-back-msx-gamerip-1988/02%2520Game%2520start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 503316,
+      "filesize_mp3_bytes": 188743,
+      "track_number": 3,
+      "title": "Mission terminated",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/mask-iii-venom-strikes-back-msx-gamerip-1988/wlgklzqxlo/03%20Mission%20terminated.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mask-iii-venom-strikes-back-msx-gamerip-1988/wlgklzqxlo/03%20Mission%20terminated.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mask-iii-venom-strikes-back-msx-gamerip-1988/03%2520Mission%2520terminated.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 192,
+    "filesize_mp3_bytes": 4886362,
+    "filesize_flac_bytes": 10548673,
+    "tracks": 3
+  }
+}

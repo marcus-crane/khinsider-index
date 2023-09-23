@@ -1,0 +1,87 @@
+{
+  "title": "NANOSWEEP11",
+  "titles_alternative": [
+    "Nanosweep 11"
+  ],
+  "crawled_at": "2023-09-23T12:21:51.501346+00:00",
+  "slug": "nanosweep-11",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-11",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/nanosweep-11/cover.jpg"
+  ],
+  "year": 2010,
+  "catalog_number": "NS-011",
+  "date_added": "2023-09-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "nanosounds": "https://downloads.khinsider.com/game-soundtracks/publisher/nanosounds",
+    "SuperSweep": "https://downloads.khinsider.com/game-soundtracks/publisher/supersweep"
+  },
+  "genres": {
+    "Inspired By": "https://downloads.khinsider.com/game-soundtracks/inspired-by"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 38923141,
+      "filesize_mp3_bytes": 12016680,
+      "track_number": 1,
+      "title": "Coincide",
+      "runtime": 362,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-11/ehsjphlmug/01.%20Coincide.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-11/ehsjphlmug/01.%20Coincide.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-11/01.%2520Coincide.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 32778485,
+      "filesize_mp3_bytes": 8608808,
+      "track_number": 2,
+      "title": "Platinum Circuit",
+      "runtime": 251,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-11/qlctclwvsi/02.%20Platinum%20Circuit.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-11/qlctclwvsi/02.%20Platinum%20Circuit.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-11/02.%2520Platinum%2520Circuit.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 22974300,
+      "filesize_mp3_bytes": 6333399,
+      "track_number": 3,
+      "title": "Bloody Mary",
+      "runtime": 187,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-11/prrtxxjzck/03.%20Bloody%20Mary.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-11/prrtxxjzck/03.%20Bloody%20Mary.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-11/03.%2520Bloody%2520Mary.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 55144611,
+      "filesize_mp3_bytes": 14512291,
+      "track_number": 4,
+      "title": "Apture Sun",
+      "runtime": 428,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-11/hbmuyeqtug/04.%20Apture%20Sun.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-11/hbmuyeqtug/04.%20Apture%20Sun.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-11/04.%2520Apture%2520Sun.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 43589304,
+      "filesize_mp3_bytes": 10674503,
+      "track_number": 5,
+      "title": "Indigo Wind",
+      "runtime": 320,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-11/ecuuhbkebk/05.%20Indigo%20Wind.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-11/ecuuhbkebk/05.%20Indigo%20Wind.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-11/05.%2520Indigo%2520Wind.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1548,
+    "filesize_mp3_bytes": 52145681,
+    "filesize_flac_bytes": 193409841,
+    "tracks": 5
+  }
+}

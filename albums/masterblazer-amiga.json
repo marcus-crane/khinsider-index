@@ -1,0 +1,222 @@
+{
+  "title": "Masterblazer",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T07:43:26.958597+00:00",
+  "slug": "masterblazer-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/masterblazer-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/masterblazer-amiga/Masterblazer.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2016-05-11T00:00:00+00:00",
+  "developers": {
+    "Rainbow Arts": "https://downloads.khinsider.com/game-soundtracks/developer/rainbow-arts"
+  },
+  "publishers": {
+    "Lucasfilm Games": "https://downloads.khinsider.com/game-soundtracks/publisher/lucasfilm-games"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 1,
+      "title": "Lucasfilm Logo",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/masterblazer-amiga/qrzllhna/01_Lucasfilm%20Logo.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/masterblazer-amiga/01_Lucasfilm%2520Logo.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 12383682,
+      "track_number": 2,
+      "title": "Intro",
+      "runtime": 402,
+      "source_mp3": "https://vgmsite.com/soundtracks/masterblazer-amiga/ltaaoycq/02_Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/masterblazer-amiga/02_Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6490685,
+      "track_number": 3,
+      "title": "Main Menu",
+      "runtime": 223,
+      "source_mp3": "https://vgmsite.com/soundtracks/masterblazer-amiga/suowlywk/03_Main%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/masterblazer-amiga/03_Main%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1163919,
+      "track_number": 4,
+      "title": "Loader",
+      "runtime": 37,
+      "source_mp3": "https://vgmsite.com/soundtracks/masterblazer-amiga/rimrkbht/04_Loader.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/masterblazer-amiga/04_Loader.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5043650,
+      "track_number": 5,
+      "title": "Ballblazer - Pre-Start",
+      "runtime": 158,
+      "source_mp3": "https://vgmsite.com/soundtracks/masterblazer-amiga/ckowrxkn/05_Ballblazer%20-%20Pre-Start.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/masterblazer-amiga/05_Ballblazer%2520-%2520Pre-Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 6,
+      "title": "Get Ready!",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/masterblazer-amiga/chdxyrst/06_Get%20Ready%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/masterblazer-amiga/06_Get%2520Ready%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1677721,
+      "track_number": 7,
+      "title": "Ballblazer BGM",
+      "runtime": 46,
+      "source_mp3": "https://vgmsite.com/soundtracks/masterblazer-amiga/cyphrgws/07_Ballblazer%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/masterblazer-amiga/07_Ballblazer%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3680501,
+      "track_number": 8,
+      "title": "Race - Pre-Start",
+      "runtime": 118,
+      "source_mp3": "https://vgmsite.com/soundtracks/masterblazer-amiga/utjvwbal/08_Race%20-%20Pre-Start.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/masterblazer-amiga/08_Race%2520-%2520Pre-Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 817889,
+      "track_number": 9,
+      "title": "Race BGM",
+      "runtime": 25,
+      "source_mp3": "https://vgmsite.com/soundtracks/masterblazer-amiga/xhezxaer/09_Race%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/masterblazer-amiga/09_Race%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4498391,
+      "track_number": 10,
+      "title": "In-Game BGM",
+      "runtime": 134,
+      "source_mp3": "https://vgmsite.com/soundtracks/masterblazer-amiga/gtyrpsqs/10_In-Game%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/masterblazer-amiga/10_In-Game%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1814036,
+      "track_number": 11,
+      "title": "Demonstration Mode",
+      "runtime": 54,
+      "source_mp3": "https://vgmsite.com/soundtracks/masterblazer-amiga/meolbowm/11_Demonstration%20Mode.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/masterblazer-amiga/11_Demonstration%2520Mode.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4162846,
+      "track_number": 12,
+      "title": "Museum",
+      "runtime": 149,
+      "source_mp3": "https://vgmsite.com/soundtracks/masterblazer-amiga/fixqlzjn/12_Museum.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/masterblazer-amiga/12_Museum.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 671088,
+      "track_number": 13,
+      "title": "Options",
+      "runtime": 23,
+      "source_mp3": "https://vgmsite.com/soundtracks/masterblazer-amiga/mdofxmdm/13_Options.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/masterblazer-amiga/13_Options.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3816816,
+      "track_number": 14,
+      "title": "High Score",
+      "runtime": 135,
+      "source_mp3": "https://vgmsite.com/soundtracks/masterblazer-amiga/lhfjkboq/14_High%20Score.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/masterblazer-amiga/14_High%2520Score.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 15,
+      "title": "Jingle #1",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/masterblazer-amiga/envzzqbf/15_Jingle%20%231.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/masterblazer-amiga/15_Jingle%2520%25231.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 16,
+      "title": "Jingle #2",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/masterblazer-amiga/hdnsqpjz/16_Jingle%20%232.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/masterblazer-amiga/16_Jingle%2520%25232.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 17,
+      "title": "Jingle #3",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/masterblazer-amiga/tbdkustz/17_Jingle%20%233.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/masterblazer-amiga/17_Jingle%2520%25233.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 18,
+      "title": "Jingle #4",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/masterblazer-amiga/pjyaskvw/18_Jingle%20%234.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/masterblazer-amiga/18_Jingle%2520%25234.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 19,
+      "title": "Jingle #5",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/masterblazer-amiga/rbpnghlk/19_Jingle%20%235.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/masterblazer-amiga/19_Jingle%2520%25235.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1523,
+    "filesize_mp3_bytes": 46808424,
+    "filesize_flac_bytes": 0,
+    "tracks": 19
+  }
+}

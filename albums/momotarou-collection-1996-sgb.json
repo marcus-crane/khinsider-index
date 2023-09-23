@@ -1,0 +1,56 @@
+{
+  "title": "Momotarou Collection",
+  "titles_alternative": [
+    "\u6843\u592a\u90ce\u30b3\u30ec\u30af\u30b7\u30e7\u30f3"
+  ],
+  "crawled_at": "2023-09-23T10:16:55.442687+00:00",
+  "slug": "momotarou-collection-1996-sgb",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/momotarou-collection-1996-sgb",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/momotarou-collection-1996-sgb/Momotarou%20Collection.jpg"
+  ],
+  "year": 1996,
+  "date_added": "2022-05-18T00:00:00+00:00",
+  "developers": {
+    "Hudson": "https://downloads.khinsider.com/game-soundtracks/developer/hudson"
+  },
+  "publishers": {
+    "Hudson": "https://downloads.khinsider.com/game-soundtracks/publisher/hudson"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9804185,
+      "filesize_mp3_bytes": 4078960,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/momotarou-collection-1996-sgb/ndwzxicbwq/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/momotarou-collection-1996-sgb/ndwzxicbwq/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/momotarou-collection-1996-sgb/01%2520BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2076180,
+      "filesize_mp3_bytes": 3774873,
+      "track_number": 2,
+      "title": "Jingle #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/momotarou-collection-1996-sgb/yjxffpcgcl/02%20Jingle%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/momotarou-collection-1996-sgb/yjxffpcgcl/02%20Jingle%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/momotarou-collection-1996-sgb/02%2520Jingle%2520%252301.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 360,
+    "filesize_mp3_bytes": 7853833,
+    "filesize_flac_bytes": 11880365,
+    "tracks": 2
+  }
+}

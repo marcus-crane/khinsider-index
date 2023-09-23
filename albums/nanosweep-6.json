@@ -1,0 +1,87 @@
+{
+  "title": "NANOSWEEP6",
+  "titles_alternative": [
+    "Nanosweep 06"
+  ],
+  "crawled_at": "2023-09-23T12:22:34.742016+00:00",
+  "slug": "nanosweep-6",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-6",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/nanosweep-6/Nanosweep%2006.jpg"
+  ],
+  "year": 2008,
+  "catalog_number": "NS-006",
+  "date_added": "2023-09-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "nanosounds": "https://downloads.khinsider.com/game-soundtracks/publisher/nanosounds",
+    "SuperSweep": "https://downloads.khinsider.com/game-soundtracks/publisher/supersweep"
+  },
+  "genres": {
+    "Inspired By": "https://downloads.khinsider.com/game-soundtracks/inspired-by"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 32568770,
+      "filesize_mp3_bytes": 9552527,
+      "track_number": 1,
+      "title": "Futurefront",
+      "runtime": 277,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-6/iotxdrlxeb/01.%20Futurefront.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-6/iotxdrlxeb/01.%20Futurefront.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-6/01.%2520Futurefront.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 38220595,
+      "filesize_mp3_bytes": 9321840,
+      "track_number": 2,
+      "title": "Flare",
+      "runtime": 291,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-6/hveprrlhdl/02.%20Flare.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-6/hveprrlhdl/02.%20Flare.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-6/02.%2520Flare.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 39206256,
+      "filesize_mp3_bytes": 12467568,
+      "track_number": 3,
+      "title": "4 -00pm",
+      "runtime": 356,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-6/jqvbmpvzqd/03.%204%20-00pm.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-6/jqvbmpvzqd/03.%204%20-00pm.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-6/03.%25204%2520-00pm.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 34582036,
+      "filesize_mp3_bytes": 10076815,
+      "track_number": 4,
+      "title": "Pollution field",
+      "runtime": 277,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-6/aommvzgfuo/04.%20Pollution%20field.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-6/aommvzgfuo/04.%20Pollution%20field.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-6/04.%2520Pollution%2520field.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 38335938,
+      "filesize_mp3_bytes": 9919528,
+      "track_number": 5,
+      "title": "true or false",
+      "runtime": 295,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-6/tnrsnuyrwp/05.%20true%20or%20false.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-6/tnrsnuyrwp/05.%20true%20or%20false.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-6/05.%2520true%2520or%2520false.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1496,
+    "filesize_mp3_bytes": 51338278,
+    "filesize_flac_bytes": 182913595,
+    "tracks": 5
+  }
+}

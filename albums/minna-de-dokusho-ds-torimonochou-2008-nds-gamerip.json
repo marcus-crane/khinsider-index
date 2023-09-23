@@ -1,0 +1,56 @@
+{
+  "title": "Minna de Dokusho DS - Torimonochou",
+  "titles_alternative": [
+    "\u307f\u3093\u306a\u3067\u8aad\u66f8DS \u6355\u7269\u5e33 \u534a\u4e03&\u53f3\u9580&\u5b89\u543e&\u984e\u5341\u90ce&\u65d7\u672c\u9000\u5c48\u7537"
+  ],
+  "crawled_at": "2023-09-23T09:53:26.662050+00:00",
+  "slug": "minna-de-dokusho-ds-torimonochou-2008-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/minna-de-dokusho-ds-torimonochou-2008-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/minna-de-dokusho-ds-torimonochou-2008-nds-gamerip/Minna%20de%20Dokusho%20DS%20-%20Torimonochou.jpg"
+  ],
+  "year": 2008,
+  "date_added": "2020-06-17T00:00:00+00:00",
+  "developers": {
+    "Dorart": "https://downloads.khinsider.com/game-soundtracks/developer/dorart"
+  },
+  "publishers": {
+    "Dorart": "https://downloads.khinsider.com/game-soundtracks/publisher/dorart"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7790919,
+      "filesize_mp3_bytes": 2936012,
+      "track_number": 1,
+      "title": "BGM01",
+      "runtime": 86,
+      "source_mp3": "https://vgmsite.com/soundtracks/minna-de-dokusho-ds-torimonochou-2008-nds-gamerip/rsokuiaqlw/01%20-%20BGM01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/minna-de-dokusho-ds-torimonochou-2008-nds-gamerip/rsokuiaqlw/01%20-%20BGM01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/minna-de-dokusho-ds-torimonochou-2008-nds-gamerip/01%2520-%2520BGM01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 34110177,
+      "filesize_mp3_bytes": 10894704,
+      "track_number": 2,
+      "title": "BGM03",
+      "runtime": 335,
+      "source_mp3": "https://vgmsite.com/soundtracks/minna-de-dokusho-ds-torimonochou-2008-nds-gamerip/zakyxlkqoa/02%20-%20BGM03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/minna-de-dokusho-ds-torimonochou-2008-nds-gamerip/zakyxlkqoa/02%20-%20BGM03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/minna-de-dokusho-ds-torimonochou-2008-nds-gamerip/02%2520-%2520BGM03.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 421,
+    "filesize_mp3_bytes": 13830716,
+    "filesize_flac_bytes": 41901096,
+    "tracks": 2
+  }
+}

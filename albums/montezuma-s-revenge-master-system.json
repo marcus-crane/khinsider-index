@@ -1,0 +1,72 @@
+{
+  "title": "Montezuma's Revenge",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T10:48:39.709654+00:00",
+  "slug": "montezuma-s-revenge-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/montezuma-s-revenge-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/montezuma-s-revenge-master-system/Montezuma%27s%20Revenge.png"
+  ],
+  "year": 1989,
+  "date_added": "2020-07-15T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1268776,
+      "filesize_mp3_bytes": 450887,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 25,
+      "source_mp3": "https://vgmsite.com/soundtracks/montezuma-s-revenge-master-system/pqhapbuaoj/01%20-%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/montezuma-s-revenge-master-system/pqhapbuaoj/01%20-%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/montezuma-s-revenge-master-system/01%2520-%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 325058,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 2,
+      "title": "Opening",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/montezuma-s-revenge-master-system/djepxjessy/02%20-%20Opening.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/montezuma-s-revenge-master-system/djepxjessy/02%20-%20Opening.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/montezuma-s-revenge-master-system/02%2520-%2520Opening.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 31457,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 3,
+      "title": "Obtain Item",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/montezuma-s-revenge-master-system/mbzgmiphbr/03%20-%20Obtain%20Item.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/montezuma-s-revenge-master-system/mbzgmiphbr/03%20-%20Obtain%20Item.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/montezuma-s-revenge-master-system/03%2520-%2520Obtain%2520Item.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 94371,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 4,
+      "title": "Extra Life",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/montezuma-s-revenge-master-system/xxibgjytpm/04%20-%20Extra%20Life.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/montezuma-s-revenge-master-system/xxibgjytpm/04%20-%20Extra%20Life.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/montezuma-s-revenge-master-system/04%2520-%2520Extra%2520Life.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 35,
+    "filesize_mp3_bytes": 639630,
+    "filesize_flac_bytes": 1719662,
+    "tracks": 4
+  }
+}

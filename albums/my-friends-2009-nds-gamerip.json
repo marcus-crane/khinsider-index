@@ -1,0 +1,87 @@
+{
+  "title": "My Friends",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T11:46:21.568553+00:00",
+  "slug": "my-friends-2009-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/my-friends-2009-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/my-friends-2009-nds-gamerip/F1.png"
+  ],
+  "year": 2009,
+  "date_added": "2020-06-17T00:00:00+00:00",
+  "developers": {
+    "Oxygen": "https://downloads.khinsider.com/game-soundtracks/developer/oxygen"
+  },
+  "publishers": {
+    "Oxygen": "https://downloads.khinsider.com/game-soundtracks/publisher/oxygen"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 335544,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 1,
+      "title": "Game Enter",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/my-friends-2009-nds-gamerip/hwatdibuip/01%20-%20Game%20Enter.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/my-friends-2009-nds-gamerip/hwatdibuip/01%20-%20Game%20Enter.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/my-friends-2009-nds-gamerip/01%2520-%2520Game%2520Enter.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 209715,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 2,
+      "title": "Game Win",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/my-friends-2009-nds-gamerip/xhkwsxyetc/02%20-%20Game%20Win.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/my-friends-2009-nds-gamerip/xhkwsxyetc/02%20-%20Game%20Win.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/my-friends-2009-nds-gamerip/02%2520-%2520Game%2520Win.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4445962,
+      "filesize_mp3_bytes": 1876951,
+      "track_number": 3,
+      "title": "BGM1",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/my-friends-2009-nds-gamerip/acpnyioniw/03%20-%20BGM1.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/my-friends-2009-nds-gamerip/acpnyioniw/03%20-%20BGM1.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/my-friends-2009-nds-gamerip/03%2520-%2520BGM1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4666163,
+      "filesize_mp3_bytes": 1929379,
+      "track_number": 4,
+      "title": "BGM2",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/my-friends-2009-nds-gamerip/gyrfmkablg/04%20-%20BGM2.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/my-friends-2009-nds-gamerip/gyrfmkablg/04%20-%20BGM2.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/my-friends-2009-nds-gamerip/04%2520-%2520BGM2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4550819,
+      "filesize_mp3_bytes": 1929379,
+      "track_number": 5,
+      "title": "BGM3",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/my-friends-2009-nds-gamerip/hugexqlkpb/05%20-%20BGM3.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/my-friends-2009-nds-gamerip/hugexqlkpb/05%20-%20BGM3.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/my-friends-2009-nds-gamerip/05%2520-%2520BGM3.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 202,
+    "filesize_mp3_bytes": 5966394,
+    "filesize_flac_bytes": 14208203,
+    "tracks": 5
+  }
+}

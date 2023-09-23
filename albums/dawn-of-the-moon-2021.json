@@ -1,0 +1,43 @@
+{
+  "title": "Dawn of the Moon",
+  "titles_alternative": [
+    "Mobile Legends: Bang Bang"
+  ],
+  "crawled_at": "2023-09-23T07:01:37.915664+00:00",
+  "slug": "dawn-of-the-moon-2021",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dawn-of-the-moon-2021",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dawn-of-the-moon-2021/cover.png"
+  ],
+  "year": 2021,
+  "date_added": "2023-09-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Moonton": "https://downloads.khinsider.com/game-soundtracks/publisher/moonton"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7560232,
+      "track_number": 1,
+      "title": "Dawn of the Moon",
+      "runtime": 185,
+      "source_mp3": "https://vgmsite.com/soundtracks/dawn-of-the-moon-2021/plwstszqgg/01.%20Dawn%20of%20the%20Moon.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dawn-of-the-moon-2021/01.%2520Dawn%2520of%2520the%2520Moon.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 185,
+    "filesize_mp3_bytes": 7560232,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

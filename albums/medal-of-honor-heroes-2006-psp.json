@@ -1,0 +1,54 @@
+{
+  "title": "Medal of Honor - Heroes",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T07:56:19.902974+00:00",
+  "slug": "medal-of-honor-heroes-2006-psp",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/medal-of-honor-heroes-2006-psp",
+  "platforms": {
+    "PSP": "https://downloads.khinsider.com/game-soundtracks/playstation-portable-psp"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/medal-of-honor-heroes-2006-psp/Medal%20of%20Honor%20-%20Heroes.jpg"
+  ],
+  "year": 2006,
+  "date_added": "2021-11-25T00:00:00+00:00",
+  "developers": {
+    "Team Fusion": "https://downloads.khinsider.com/game-soundtracks/developer/team-fusion"
+  },
+  "publishers": {
+    "EA Games": "https://downloads.khinsider.com/game-soundtracks/publisher/ea-games"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6794772,
+      "filesize_mp3_bytes": 2107637,
+      "track_number": 1,
+      "title": "PFE Theme",
+      "runtime": 74,
+      "source_mp3": "https://vgmsite.com/soundtracks/medal-of-honor-heroes-2006-psp/tmplncsrnc/01%20PFE%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/medal-of-honor-heroes-2006-psp/tmplncsrnc/01%20PFE%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/medal-of-honor-heroes-2006-psp/01%2520PFE%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1960837,
+      "filesize_mp3_bytes": 723517,
+      "track_number": 2,
+      "title": "Sound",
+      "runtime": 25,
+      "source_mp3": "https://vgmsite.com/soundtracks/medal-of-honor-heroes-2006-psp/jlvtvkaoou/02%20Sound.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/medal-of-honor-heroes-2006-psp/jlvtvkaoou/02%20Sound.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/medal-of-honor-heroes-2006-psp/02%2520Sound.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 99,
+    "filesize_mp3_bytes": 2831154,
+    "filesize_flac_bytes": 8755609,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Metro Exodus: Sam's Story",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T09:05:27.804102+00:00",
+  "slug": "metro-exodus-sams-story-2020",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/metro-exodus-sams-story-2020",
+  "platforms": {
+    "PS4": "https://downloads.khinsider.com/game-soundtracks/playstation-4",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/metro-exodus-sams-story-2020/ab67616d0000b273f3acf31668a550c4161f51cd.jpeg"
+  ],
+  "year": 2020,
+  "catalog_number": null,
+  "date_added": "2023-07-26T00:00:00+00:00",
+  "developers": {
+    "4A Games": "https://downloads.khinsider.com/game-soundtracks/developer/4a-games"
+  },
+  "publishers": {
+    "Deep Silver": "https://downloads.khinsider.com/game-soundtracks/publisher/deep-silver"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8283750,
+      "track_number": 1,
+      "title": "One More Step",
+      "runtime": 204,
+      "source_mp3": "https://vgmsite.com/soundtracks/metro-exodus-sams-story-2020/hvsvsmkcwn/01.%20One%20More%20Step.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/metro-exodus-sams-story-2020/01.%2520One%2520More%2520Step.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6868172,
+      "track_number": 2,
+      "title": "The Price of Silence",
+      "runtime": 169,
+      "source_mp3": "https://vgmsite.com/soundtracks/metro-exodus-sams-story-2020/mpupogosaw/02.%20The%20Price%20of%20Silence.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/metro-exodus-sams-story-2020/02.%2520The%2520Price%2520of%2520Silence.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 373,
+    "filesize_mp3_bytes": 15151922,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

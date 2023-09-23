@@ -1,0 +1,68 @@
+{
+  "title": "NASCAR 2000",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T12:40:46.541585+00:00",
+  "slug": "nascar-2000-ps1",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/nascar-2000-ps1",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/nascar-2000-ps1/NASCAR_2000_PlayStation_Coverart.jpg"
+  ],
+  "year": 2000,
+  "date_added": "2021-12-30T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4750049,
+      "track_number": 1,
+      "title": "Mean Streak",
+      "runtime": 165,
+      "source_mp3": "https://vgmsite.com/soundtracks/nascar-2000-ps1/ilwdqyzhtj/01.%20Mean%20Streak.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nascar-2000-ps1/01.%2520Mean%2520Streak.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5358223,
+      "track_number": 2,
+      "title": "Love And Greed",
+      "runtime": 205,
+      "source_mp3": "https://vgmsite.com/soundtracks/nascar-2000-ps1/cuoccekhvc/02.%20Love%20And%20Greed.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nascar-2000-ps1/02.%2520Love%2520And%2520Greed.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3261071,
+      "track_number": 3,
+      "title": "Crash & Burn",
+      "runtime": 120,
+      "source_mp3": "https://vgmsite.com/soundtracks/nascar-2000-ps1/jvdgrlvgzb/03.%20Crash%20%26%20Burn.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nascar-2000-ps1/03.%2520Crash%2520%2526%2520Burn.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5955911,
+      "track_number": 4,
+      "title": "NY Prophesie",
+      "runtime": 192,
+      "source_mp3": "https://vgmsite.com/soundtracks/nascar-2000-ps1/owuftcmlew/04.%20NY%20Prophesie.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nascar-2000-ps1/04.%2520NY%2520Prophesie.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 682,
+    "filesize_mp3_bytes": 19325254,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

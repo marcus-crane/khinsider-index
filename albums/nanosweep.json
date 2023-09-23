@@ -1,0 +1,109 @@
+{
+  "title": "Nanosweep",
+  "titles_alternative": [
+    "Nanosweep 01"
+  ],
+  "crawled_at": "2023-09-23T12:21:46.925271+00:00",
+  "slug": "nanosweep",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/nanosweep/Nanosweep%2001.jpg"
+  ],
+  "year": 2004,
+  "catalog_number": "NS-001",
+  "date_added": "2023-09-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "nanosounds": "https://downloads.khinsider.com/game-soundtracks/publisher/nanosounds",
+    "SuperSweep": "https://downloads.khinsider.com/game-soundtracks/publisher/supersweep"
+  },
+  "genres": {
+    "Inspired By": "https://downloads.khinsider.com/game-soundtracks/inspired-by"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 31205621,
+      "filesize_mp3_bytes": 9552527,
+      "track_number": 1,
+      "title": "Red-eye",
+      "runtime": 286,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep/cekgnlutxy/01.%20Red-eye.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep/cekgnlutxy/01.%20Red-eye.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep/01.%2520Red-eye.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 58237911,
+      "filesize_mp3_bytes": 15235809,
+      "track_number": 2,
+      "title": "Recycle",
+      "runtime": 436,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep/phpvvzjfbf/02.%20Recycle.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep/phpvvzjfbf/02.%20Recycle.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep/02.%2520Recycle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 23477616,
+      "filesize_mp3_bytes": 6847201,
+      "track_number": 3,
+      "title": "DENKI GIRL (Part.I)",
+      "runtime": 190,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep/zbxdcfeyzc/03.%20DENKI%20GIRL%20%28Part.I%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep/zbxdcfeyzc/03.%20DENKI%20GIRL%20%28Part.I%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep/03.%2520DENKI%2520GIRL%2520%2528Part.I%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 18612224,
+      "filesize_mp3_bytes": 4582277,
+      "track_number": 4,
+      "title": "FLOOD",
+      "runtime": 139,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep/oirqwddvhc/04.%20FLOOD.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep/oirqwddvhc/04.%20FLOOD.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep/04.%2520FLOOD.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 29255270,
+      "filesize_mp3_bytes": 8902410,
+      "track_number": 5,
+      "title": "nova prospect",
+      "runtime": 246,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep/hqjgxanppe/05.%20nova%20prospect.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep/hqjgxanppe/05.%20nova%20prospect.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep/05.%2520nova%2520prospect.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 24526192,
+      "filesize_mp3_bytes": 7895777,
+      "track_number": 6,
+      "title": "Primitive recycling",
+      "runtime": 218,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep/sakmrftrrl/06.%20Primitive%20recycling.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep/sakmrftrrl/06.%20Primitive%20recycling.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep/06.%2520Primitive%2520recycling.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 46567260,
+      "filesize_mp3_bytes": 12163481,
+      "track_number": 7,
+      "title": "matoryoshka",
+      "runtime": 355,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep/fdegxoexhb/07.%20matoryoshka.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep/fdegxoexhb/07.%20matoryoshka.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep/07.%2520matoryoshka.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1870,
+    "filesize_mp3_bytes": 65179482,
+    "filesize_flac_bytes": 231882094,
+    "tracks": 7
+  }
+}

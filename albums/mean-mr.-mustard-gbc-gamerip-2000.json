@@ -1,0 +1,54 @@
+{
+  "title": "Mean Mr. Mustard (GBC)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T07:51:36.298988+00:00",
+  "slug": "mean-mr.-mustard-gbc-gamerip-2000",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mean-mr.-mustard-gbc-gamerip-2000",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mean-mr.-mustard-gbc-gamerip-2000/Mean%20Mr.%20Mustard.png"
+  ],
+  "year": 2000,
+  "date_added": "2022-12-22T00:00:00+00:00",
+  "developers": {
+    "Lik Sang": "https://downloads.khinsider.com/game-soundtracks/developer/lik-sang"
+  },
+  "publishers": {
+    "Lik Sang": "https://downloads.khinsider.com/game-soundtracks/publisher/lik-sang"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8724152,
+      "filesize_mp3_bytes": 2715811,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 130,
+      "source_mp3": "https://vgmsite.com/soundtracks/mean-mr.-mustard-gbc-gamerip-2000/fosjelaxyz/01%20Title.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mean-mr.-mustard-gbc-gamerip-2000/fosjelaxyz/01%20Title.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mean-mr.-mustard-gbc-gamerip-2000/01%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 16882073,
+      "filesize_mp3_bytes": 6092226,
+      "track_number": 2,
+      "title": "Cute (In-Game BGM)",
+      "runtime": 203,
+      "source_mp3": "https://vgmsite.com/soundtracks/mean-mr.-mustard-gbc-gamerip-2000/xvmvgwkesl/02%20Cute%20%28In-Game%20BGM%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mean-mr.-mustard-gbc-gamerip-2000/xvmvgwkesl/02%20Cute%20%28In-Game%20BGM%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mean-mr.-mustard-gbc-gamerip-2000/02%2520Cute%2520%2528In-Game%2520BGM%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 333,
+    "filesize_mp3_bytes": 8808037,
+    "filesize_flac_bytes": 25606225,
+    "tracks": 2
+  }
+}

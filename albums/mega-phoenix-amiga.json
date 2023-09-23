@@ -1,0 +1,52 @@
+{
+  "title": "Mega Phoenix",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T08:21:09.731649+00:00",
+  "slug": "mega-phoenix-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mega-phoenix-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mega-phoenix-amiga/Mega_Phoenix_-_Box_scan_n%C3%AF%C2%BF%C2%BD1.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2021-02-07T00:00:00+00:00",
+  "developers": {
+    "Creepsoft": "https://downloads.khinsider.com/game-soundtracks/developer/creepsoft"
+  },
+  "publishers": {
+    "Dinamic Software": "https://downloads.khinsider.com/game-soundtracks/publisher/dinamic-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 314572,
+      "track_number": 1,
+      "title": "Dinamic Software",
+      "runtime": 19,
+      "source_mp3": "https://vgmsite.com/soundtracks/mega-phoenix-amiga/ymnnjeebzg/1.%20Dinamic%20Software.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mega-phoenix-amiga/1.%2520Dinamic%2520Software.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1908408,
+      "track_number": 2,
+      "title": "Title Screen",
+      "runtime": 119,
+      "source_mp3": "https://vgmsite.com/soundtracks/mega-phoenix-amiga/yillljxxle/2.%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mega-phoenix-amiga/2.%2520Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 138,
+    "filesize_mp3_bytes": 2222980,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "title": "Medal City",
+  "titles_alternative": [
+    "\u30e1\u30c0\u30eb\u30b7\u30c6\u30a3"
+  ],
+  "crawled_at": "2023-09-23T07:55:21.763426+00:00",
+  "slug": "medal-city-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/medal-city-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/medal-city-genesis/Medal%20City.png"
+  ],
+  "year": 1991,
+  "date_added": "2020-05-23T00:00:00+00:00",
+  "developers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3680501,
+      "filesize_mp3_bytes": 2065694,
+      "track_number": 1,
+      "title": "Title Theme",
+      "runtime": 82,
+      "source_mp3": "https://vgmsite.com/soundtracks/medal-city-genesis/gynpffecgs/01%20-%20Title%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/medal-city-genesis/gynpffecgs/01%20-%20Title%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/medal-city-genesis/01%2520-%2520Title%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2631925,
+      "filesize_mp3_bytes": 1572864,
+      "track_number": 2,
+      "title": "Menu",
+      "runtime": 76,
+      "source_mp3": "https://vgmsite.com/soundtracks/medal-city-genesis/xunavibybb/02%20-%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/medal-city-genesis/xunavibybb/02%20-%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/medal-city-genesis/02%2520-%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5578424,
+      "filesize_mp3_bytes": 2642411,
+      "track_number": 3,
+      "title": "Poker",
+      "runtime": 131,
+      "source_mp3": "https://vgmsite.com/soundtracks/medal-city-genesis/jrypofhgub/03%20-%20Poker.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/medal-city-genesis/jrypofhgub/03%20-%20Poker.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/medal-city-genesis/03%2520-%2520Poker.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3984588,
+      "filesize_mp3_bytes": 1719664,
+      "track_number": 4,
+      "title": "Blackjack",
+      "runtime": 84,
+      "source_mp3": "https://vgmsite.com/soundtracks/medal-city-genesis/tgzgdiybfn/04%20-%20Blackjack.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/medal-city-genesis/tgzgdiybfn/04%20-%20Blackjack.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/medal-city-genesis/04%2520-%2520Blackjack.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5158993,
+      "filesize_mp3_bytes": 2485125,
+      "track_number": 5,
+      "title": "Slot Machine",
+      "runtime": 128,
+      "source_mp3": "https://vgmsite.com/soundtracks/medal-city-genesis/eupvfslpel/05%20-%20Slot%20Machine.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/medal-city-genesis/eupvfslpel/05%20-%20Slot%20Machine.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/medal-city-genesis/05%2520-%2520Slot%2520Machine.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 125829,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 6,
+      "title": "Game Over",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/medal-city-genesis/vuopscnbip/06%20-%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/medal-city-genesis/vuopscnbip/06%20-%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/medal-city-genesis/06%2520-%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 505,
+    "filesize_mp3_bytes": 10538186,
+    "filesize_flac_bytes": 21160260,
+    "tracks": 6
+  }
+}

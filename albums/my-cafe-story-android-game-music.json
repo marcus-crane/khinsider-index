@@ -1,0 +1,65 @@
+{
+  "title": "My Cafe Story (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T11:44:58.580646+00:00",
+  "slug": "my-cafe-story-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/my-cafe-story-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/my-cafe-story-android-game-music/1.jpg"
+  ],
+  "date_added": "2017-11-24T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4812963,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 120,
+      "source_mp3": "https://vgmsite.com/soundtracks/my-cafe-story-android-game-music/vbgzvbxz/1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/my-cafe-story-android-game-music/1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5609881,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 140,
+      "source_mp3": "https://vgmsite.com/soundtracks/my-cafe-story-android-game-music/ycsfmhxv/2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/my-cafe-story-android-game-music/2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4896849,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 123,
+      "source_mp3": "https://vgmsite.com/soundtracks/my-cafe-story-android-game-music/urlvvgoe/3.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/my-cafe-story-android-game-music/3.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4571791,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 114,
+      "source_mp3": "https://vgmsite.com/soundtracks/my-cafe-story-android-game-music/ngqcsjrm/4.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/my-cafe-story-android-game-music/4.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 497,
+    "filesize_mp3_bytes": 19891484,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

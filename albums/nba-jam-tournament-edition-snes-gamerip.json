@@ -1,0 +1,90 @@
+{
+  "title": "NBA Jam Tournament Edition",
+  "titles_alternative": [
+    "NBA JAM\u30c8\u30fc\u30ca\u30e1\u30f3\u30c8\u30a8\u30c7\u30a3\u30b7\u30e7\u30f3"
+  ],
+  "crawled_at": "2023-09-23T12:50:22.958594+00:00",
+  "slug": "nba-jam-tournament-edition-snes-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/nba-jam-tournament-edition-snes-gamerip",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/nba-jam-tournament-edition-snes-gamerip/N1.jpg"
+  ],
+  "year": 1994,
+  "date_added": "2019-08-27T00:00:00+00:00",
+  "developers": {
+    "Iguana UK": "https://downloads.khinsider.com/game-soundtracks/developer/iguana-uk",
+    "Midway": "https://downloads.khinsider.com/game-soundtracks/developer/midway"
+  },
+  "publishers": {
+    "Acclaim": "https://downloads.khinsider.com/game-soundtracks/publisher/acclaim"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9930014,
+      "filesize_mp3_bytes": 3701473,
+      "track_number": 1,
+      "title": "Theme",
+      "runtime": 121,
+      "source_mp3": "https://vgmsite.com/soundtracks/nba-jam-tournament-edition-snes-gamerip/irelaklido/01%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nba-jam-tournament-edition-snes-gamerip/irelaklido/01%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nba-jam-tournament-edition-snes-gamerip/01%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 293601,
+      "filesize_mp3_bytes": 157286,
+      "track_number": 2,
+      "title": "Name Entry",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/nba-jam-tournament-edition-snes-gamerip/lecwcqmoyu/02%20Name%20Entry.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nba-jam-tournament-edition-snes-gamerip/lecwcqmoyu/02%20Name%20Entry.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nba-jam-tournament-edition-snes-gamerip/02%2520Name%2520Entry.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1803550,
+      "filesize_mp3_bytes": 744488,
+      "track_number": 3,
+      "title": "Team Select",
+      "runtime": 25,
+      "source_mp3": "https://vgmsite.com/soundtracks/nba-jam-tournament-edition-snes-gamerip/ajnhrxjrbz/03%20Team%20Select.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nba-jam-tournament-edition-snes-gamerip/ajnhrxjrbz/03%20Team%20Select.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nba-jam-tournament-edition-snes-gamerip/03%2520Team%2520Select.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2810183,
+      "filesize_mp3_bytes": 1153433,
+      "track_number": 4,
+      "title": "End of Quarter",
+      "runtime": 39,
+      "source_mp3": "https://vgmsite.com/soundtracks/nba-jam-tournament-edition-snes-gamerip/ziotmkgost/04%20End%20of%20Quarter.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nba-jam-tournament-edition-snes-gamerip/ziotmkgost/04%20End%20of%20Quarter.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nba-jam-tournament-edition-snes-gamerip/04%2520End%2520of%2520Quarter.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9783214,
+      "filesize_mp3_bytes": 4183818,
+      "track_number": 5,
+      "title": "End of Game",
+      "runtime": 130,
+      "source_mp3": "https://vgmsite.com/soundtracks/nba-jam-tournament-edition-snes-gamerip/jinptgqzcf/05%20End%20of%20Game.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nba-jam-tournament-edition-snes-gamerip/jinptgqzcf/05%20End%20of%20Game.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nba-jam-tournament-edition-snes-gamerip/05%2520End%2520of%2520Game.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 323,
+    "filesize_mp3_bytes": 9940498,
+    "filesize_flac_bytes": 24620562,
+    "tracks": 5
+  }
+}

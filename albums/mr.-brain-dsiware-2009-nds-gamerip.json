@@ -1,0 +1,67 @@
+{
+  "title": "Mr. Brain (DSiWare)",
+  "titles_alternative": [
+    "\u30df\u30b9\u30bf\u30fc \u30d6\u30ec\u30a4\u30f3"
+  ],
+  "crawled_at": "2023-09-23T11:19:24.199465+00:00",
+  "slug": "mr.-brain-dsiware-2009-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mr.-brain-dsiware-2009-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mr.-brain-dsiware-2009-nds-gamerip/Mr.%20Brain.png"
+  ],
+  "year": 2009,
+  "date_added": "2020-06-17T00:00:00+00:00",
+  "developers": {
+    "h.a.n.d.": "https://downloads.khinsider.com/game-soundtracks/developer/h.a.n.d"
+  },
+  "publishers": {
+    "Square Enix": "https://downloads.khinsider.com/game-soundtracks/publisher/square-enix"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 18087936,
+      "filesize_mp3_bytes": 4634705,
+      "track_number": 1,
+      "title": "BGM13",
+      "runtime": 154,
+      "source_mp3": "https://vgmsite.com/soundtracks/mr.-brain-dsiware-2009-nds-gamerip/ymoryhflqe/01%20-%20BGM13.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mr.-brain-dsiware-2009-nds-gamerip/ymoryhflqe/01%20-%20BGM13.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mr.-brain-dsiware-2009-nds-gamerip/01%2520-%2520BGM13.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11796480,
+      "filesize_mp3_bytes": 3533701,
+      "track_number": 2,
+      "title": "BGM10",
+      "runtime": 101,
+      "source_mp3": "https://vgmsite.com/soundtracks/mr.-brain-dsiware-2009-nds-gamerip/gvzmfzprkd/02%20-%20BGM10.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mr.-brain-dsiware-2009-nds-gamerip/gvzmfzprkd/02%20-%20BGM10.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mr.-brain-dsiware-2009-nds-gamerip/02%2520-%2520BGM10.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 12582912,
+      "filesize_mp3_bytes": 4057989,
+      "track_number": 3,
+      "title": "BGM Title",
+      "runtime": 123,
+      "source_mp3": "https://vgmsite.com/soundtracks/mr.-brain-dsiware-2009-nds-gamerip/oxvbsgdjax/03%20-%20BGM%20Title.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mr.-brain-dsiware-2009-nds-gamerip/oxvbsgdjax/03%20-%20BGM%20Title.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mr.-brain-dsiware-2009-nds-gamerip/03%2520-%2520BGM%2520Title.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 378,
+    "filesize_mp3_bytes": 12226395,
+    "filesize_flac_bytes": 42467328,
+    "tracks": 3
+  }
+}

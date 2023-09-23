@@ -1,0 +1,83 @@
+{
+  "title": "Monopoly",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T10:24:19.329545+00:00",
+  "slug": "monopoly-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/monopoly-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/monopoly-master-system/Monopoly-SMS.png"
+  ],
+  "year": 1987,
+  "date_added": "2018-12-25T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1488977,
+      "filesize_mp3_bytes": 1048576,
+      "track_number": 1,
+      "title": "The Entertainer",
+      "runtime": 26,
+      "source_mp3": "https://vgmsite.com/soundtracks/monopoly-master-system/ncxcrnms/01%20-%20The%20Entertainer.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/monopoly-master-system/ncxcrnms/01%20-%20The%20Entertainer.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monopoly-master-system/01%2520-%2520The%2520Entertainer.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2621440,
+      "filesize_mp3_bytes": 2453667,
+      "track_number": 2,
+      "title": "Menu",
+      "runtime": 61,
+      "source_mp3": "https://vgmsite.com/soundtracks/monopoly-master-system/zfwwspii/02%20-%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/monopoly-master-system/zfwwspii/02%20-%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monopoly-master-system/02%2520-%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 346030,
+      "filesize_mp3_bytes": 251658,
+      "track_number": 3,
+      "title": "Going to Jail",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/monopoly-master-system/ojewyxta/03%20-%20Going%20to%20Jail.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/monopoly-master-system/ojewyxta/03%20-%20Going%20to%20Jail.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monopoly-master-system/03%2520-%2520Going%2520to%2520Jail.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 146800,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 4,
+      "title": "Free from Jail",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/monopoly-master-system/etwckdno/04%20-%20Free%20from%20Jail.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/monopoly-master-system/etwckdno/04%20-%20Free%20from%20Jail.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monopoly-master-system/04%2520-%2520Free%2520from%2520Jail.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 870318,
+      "filesize_mp3_bytes": 838860,
+      "track_number": 5,
+      "title": "Happy Days are Here Again",
+      "runtime": 21,
+      "source_mp3": "https://vgmsite.com/soundtracks/monopoly-master-system/qkffnecp/05%20-%20Happy%20Days%20are%20Here%20Again.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/monopoly-master-system/qkffnecp/05%20-%20Happy%20Days%20are%20Here%20Again.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monopoly-master-system/05%2520-%2520Happy%2520Days%2520are%2520Here%2520Again.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 117,
+    "filesize_mp3_bytes": 4708104,
+    "filesize_flac_bytes": 5473565,
+    "tracks": 5
+  }
+}

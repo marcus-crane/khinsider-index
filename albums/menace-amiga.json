@@ -1,0 +1,62 @@
+{
+  "title": "Menace",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T08:35:50.226278+00:00",
+  "slug": "menace-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/menace-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/menace-amiga/M1.jpg"
+  ],
+  "year": 1988,
+  "date_added": "2016-03-22T00:00:00+00:00",
+  "developers": {
+    "DMA Design": "https://downloads.khinsider.com/game-soundtracks/developer/dma-design"
+  },
+  "publishers": {
+    "Psygnosis": "https://downloads.khinsider.com/game-soundtracks/publisher/psygnosis"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1866465,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 62,
+      "source_mp3": "https://vgmsite.com/soundtracks/menace-amiga/ululftuk/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/menace-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5232394,
+      "track_number": 2,
+      "title": "In-Game Music",
+      "runtime": 164,
+      "source_mp3": "https://vgmsite.com/soundtracks/menace-amiga/wrqpbfky/02_In-Game%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/menace-amiga/02_In-Game%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1132462,
+      "track_number": 3,
+      "title": "Boss Theme",
+      "runtime": 42,
+      "source_mp3": "https://vgmsite.com/soundtracks/menace-amiga/ptpnmwmg/03_Boss%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/menace-amiga/03_Boss%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 268,
+    "filesize_mp3_bytes": 8231321,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

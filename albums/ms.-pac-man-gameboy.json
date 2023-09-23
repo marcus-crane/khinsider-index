@@ -1,0 +1,56 @@
+{
+  "title": "Ms. Pac-Man",
+  "titles_alternative": [
+    "\u30df\u30ba\u30fb\u30d1\u30c3\u30af\u30de\u30f3"
+  ],
+  "crawled_at": "2023-09-23T11:22:37.971389+00:00",
+  "slug": "ms.-pac-man-gameboy",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ms.-pac-man-gameboy",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ms.-pac-man-gameboy/33825--ms-pac-man.png"
+  ],
+  "year": 1993,
+  "date_added": "2022-05-25T00:00:00+00:00",
+  "developers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/developer/namco"
+  },
+  "publishers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/publisher/namco"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 293601,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 1,
+      "title": "Game Start",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/ms.-pac-man-gameboy/ebukikwzvj/01%20Game%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ms.-pac-man-gameboy/ebukikwzvj/01%20Game%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ms.-pac-man-gameboy/01%2520Game%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 534773,
+      "filesize_mp3_bytes": 209715,
+      "track_number": 2,
+      "title": "Intermission",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/ms.-pac-man-gameboy/bctipesgmh/02%20Intermission.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ms.-pac-man-gameboy/bctipesgmh/02%20Intermission.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ms.-pac-man-gameboy/02%2520Intermission.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 15,
+    "filesize_mp3_bytes": 304086,
+    "filesize_flac_bytes": 828374,
+    "tracks": 2
+  }
+}

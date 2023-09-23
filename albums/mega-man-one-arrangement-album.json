@@ -1,0 +1,76 @@
+{
+  "title": "Mega Man - ONE Arrangement Album",
+  "titles_alternative": [
+    "ONE / CAP-JAMS",
+    "ONE / \u30ab\u30d7\u30c1\u30e5\u30fc\u30f3"
+  ],
+  "crawled_at": "2023-09-23T08:13:50.965631+00:00",
+  "slug": "mega-man-one-arrangement-album",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mega-man-one-arrangement-album",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "GBA": "https://downloads.khinsider.com/game-soundtracks/gameboy-advance",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mega-man-one-arrangement-album/Cover.jpg"
+  ],
+  "year": 2021,
+  "catalog_number": "CPDA-10150",
+  "date_added": "2022-04-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Capcom": "https://downloads.khinsider.com/game-soundtracks/publisher/capcom"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3114270,
+      "track_number": 1,
+      "title": "We are CAP-JAMS!",
+      "runtime": 38,
+      "source_mp3": "https://vgmsite.com/soundtracks/mega-man-one-arrangement-album/lomumxuevz/01.%20We%20are%20CAP-JAMS%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mega-man-one-arrangement-album/01.%2520We%2520are%2520CAP-JAMS%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11471421,
+      "track_number": 2,
+      "title": "Running Through The Cyber World CAP-JAMS ver.",
+      "runtime": 247,
+      "source_mp3": "https://vgmsite.com/soundtracks/mega-man-one-arrangement-album/uigzvoeolp/02.%20Running%20Through%20The%20Cyber%20World%20CAP-JAMS%20ver..mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mega-man-one-arrangement-album/02.%2520Running%2520Through%2520The%2520Cyber%2520World%2520CAP-JAMS%2520ver..mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 12582912,
+      "track_number": 3,
+      "title": "Esperanto CAP-JAMS ver.",
+      "runtime": 275,
+      "source_mp3": "https://vgmsite.com/soundtracks/mega-man-one-arrangement-album/egeeqgylge/03.%20Esperanto%20CAP-JAMS%20ver..mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mega-man-one-arrangement-album/03.%2520Esperanto%2520CAP-JAMS%2520ver..mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10999562,
+      "track_number": 4,
+      "title": "Dr. WILY STAGE 1 CAP-JAMS ver.",
+      "runtime": 235,
+      "source_mp3": "https://vgmsite.com/soundtracks/mega-man-one-arrangement-album/lcvzfhkwty/04.%20Dr.%20WILY%20STAGE%201%20CAP-JAMS%20ver..mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mega-man-one-arrangement-album/04.%2520Dr.%2520WILY%2520STAGE%25201%2520CAP-JAMS%2520ver..mp3"
+    }
+  ],
+  "total": {
+    "runtime": 795,
+    "filesize_mp3_bytes": 38168165,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

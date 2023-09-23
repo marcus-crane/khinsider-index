@@ -1,0 +1,43 @@
+{
+  "title": "Immortal Hero",
+  "titles_alternative": [
+    "Mobile Legends: Bang Bang"
+  ],
+  "crawled_at": "2023-09-23T07:02:35.263732+00:00",
+  "slug": "immortal-hero-2021",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/immortal-hero-2021",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/immortal-hero-2021/cover.png"
+  ],
+  "year": 2021,
+  "date_added": "2023-09-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Moonton": "https://downloads.khinsider.com/game-soundtracks/publisher/moonton"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8881438,
+      "track_number": 1,
+      "title": "Immortal Hero",
+      "runtime": 218,
+      "source_mp3": "https://vgmsite.com/soundtracks/immortal-hero-2021/jameayvawg/01.%20Immortal%20Hero.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/immortal-hero-2021/01.%2520Immortal%2520Hero.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 218,
+    "filesize_mp3_bytes": 8881438,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

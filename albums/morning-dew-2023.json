@@ -1,0 +1,55 @@
+{
+  "title": "Morning Dew",
+  "titles_alternative": [
+    "Arknights"
+  ],
+  "crawled_at": "2023-09-23T10:53:47.000701+00:00",
+  "slug": "morning-dew-2023",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/morning-dew-2023",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios",
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/morning-dew-2023/01.png"
+  ],
+  "year": 2023,
+  "date_added": "2023-05-22T00:00:00+00:00",
+  "developers": {
+    "HyperGryph": "https://downloads.khinsider.com/game-soundtracks/developer/hypergryph",
+    "Monster Siren Records": "https://downloads.khinsider.com/game-soundtracks/developer/monster-siren-records"
+  },
+  "publishers": {},
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 24578621,
+      "filesize_mp3_bytes": 6899630,
+      "title": "\u585e\u58ec\u5531\u7247-MSR,Adam Gubman - Morning Dew (Instrumental)",
+      "runtime": 202,
+      "source_mp3": "https://vgmsite.com/soundtracks/morning-dew-2023/afazgipqjl/%E5%A1%9E%E5%A3%AC%E5%94%B1%E7%89%87-MSR%2CAdam%20Gubman%20-%20Morning%20Dew%20%28Instrumental%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/morning-dew-2023/afazgipqjl/%E5%A1%9E%E5%A3%AC%E5%94%B1%E7%89%87-MSR%2CAdam%20Gubman%20-%20Morning%20Dew%20%28Instrumental%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/morning-dew-2023/%25E5%25A1%259E%25E5%25A3%25AC%25E5%2594%25B1%25E7%2589%2587-MSR%252CAdam%2520Gubman%2520-%2520Morning%2520Dew%2520%2528Instrumental%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 42446356,
+      "filesize_mp3_bytes": 6815744,
+      "title": "\u585e\u58ec\u5531\u7247-MSR,Adam Gubman,Nini Guerry - Morning Dew",
+      "runtime": 201,
+      "source_mp3": "https://vgmsite.com/soundtracks/morning-dew-2023/agepdlawrz/%E5%A1%9E%E5%A3%AC%E5%94%B1%E7%89%87-MSR%2CAdam%20Gubman%2CNini%20Guerry%20-%20Morning%20Dew.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/morning-dew-2023/agepdlawrz/%E5%A1%9E%E5%A3%AC%E5%94%B1%E7%89%87-MSR%2CAdam%20Gubman%2CNini%20Guerry%20-%20Morning%20Dew.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/morning-dew-2023/%25E5%25A1%259E%25E5%25A3%25AC%25E5%2594%25B1%25E7%2589%2587-MSR%252CAdam%2520Gubman%252CNini%2520Guerry%2520-%2520Morning%2520Dew.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 403,
+    "filesize_mp3_bytes": 13715374,
+    "filesize_flac_bytes": 67024977,
+    "tracks": 2
+  }
+}

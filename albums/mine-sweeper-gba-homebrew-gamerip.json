@@ -1,0 +1,61 @@
+{
+  "title": "Mine-Sweeper (Homebrew)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T09:44:29.008246+00:00",
+  "slug": "mine-sweeper-gba-homebrew-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mine-sweeper-gba-homebrew-gamerip",
+  "platforms": {
+    "GBA": "https://downloads.khinsider.com/game-soundtracks/gameboy-advance"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mine-sweeper-gba-homebrew-gamerip/Mine-Sweeper%20Title%20Screen.png"
+  ],
+  "year": 2007,
+  "date_added": "2022-01-01T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5746196,
+      "filesize_mp3_bytes": 922746,
+      "track_number": 1,
+      "title": "BG Cave",
+      "runtime": 44,
+      "source_mp3": "https://vgmsite.com/soundtracks/mine-sweeper-gba-homebrew-gamerip/vzqlyyeyzi/01.%20BG%20Cave.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mine-sweeper-gba-homebrew-gamerip/vzqlyyeyzi/01.%20BG%20Cave.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mine-sweeper-gba-homebrew-gamerip/01.%2520BG%2520Cave.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 440401,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 2,
+      "title": "Bang",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/mine-sweeper-gba-homebrew-gamerip/hniaiwvllj/02.%20Bang.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mine-sweeper-gba-homebrew-gamerip/hniaiwvllj/02.%20Bang.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mine-sweeper-gba-homebrew-gamerip/02.%2520Bang.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 188743,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 3,
+      "title": "Boom",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/mine-sweeper-gba-homebrew-gamerip/oigcvmraer/03.%20Boom.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mine-sweeper-gba-homebrew-gamerip/oigcvmraer/03.%20Boom.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mine-sweeper-gba-homebrew-gamerip/03.%2520Boom.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 48,
+    "filesize_mp3_bytes": 1111489,
+    "filesize_flac_bytes": 6375340,
+    "tracks": 3
+  }
+}

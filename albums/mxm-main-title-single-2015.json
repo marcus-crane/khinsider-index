@@ -1,0 +1,52 @@
+{
+  "title": "MXM - Main Title Single",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T11:44:12.584671+00:00",
+  "slug": "mxm-main-title-single-2015",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mxm-main-title-single-2015",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/mxm-main-title-single-2015/folder.jpg"
+  ],
+  "year": 2015,
+  "catalog_number": null,
+  "date_added": "2022-09-12T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "NCSoft": "https://downloads.khinsider.com/game-soundtracks/publisher/ncsoft",
+    "NCSOUND": "https://downloads.khinsider.com/game-soundtracks/publisher/ncsound"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 36018585,
+      "filesize_mp3_bytes": 5379194,
+      "track_number": 1,
+      "title": "MxM Main Title",
+      "runtime": 150,
+      "source_mp3": "https://vgmsite.com/soundtracks/mxm-main-title-single-2015/chyqmpofvd/01%20-%20MxM%20Main%20Title.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mxm-main-title-single-2015/chyqmpofvd/01%20-%20MxM%20Main%20Title.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mxm-main-title-single-2015/01%2520-%2520MxM%2520Main%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 38776340,
+      "filesize_mp3_bytes": 5358223,
+      "track_number": 2,
+      "title": "MxM Sub Title",
+      "runtime": 157,
+      "source_mp3": "https://vgmsite.com/soundtracks/mxm-main-title-single-2015/maxbxbuxxa/02%20-%20MxM%20Sub%20Title.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mxm-main-title-single-2015/maxbxbuxxa/02%20-%20MxM%20Sub%20Title.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mxm-main-title-single-2015/02%2520-%2520MxM%2520Sub%2520Title.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 307,
+    "filesize_mp3_bytes": 10737417,
+    "filesize_flac_bytes": 74794925,
+    "tracks": 2
+  }
+}

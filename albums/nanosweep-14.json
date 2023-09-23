@@ -1,0 +1,87 @@
+{
+  "title": "NANOSWEEP14",
+  "titles_alternative": [
+    "Nanosweep 14"
+  ],
+  "crawled_at": "2023-09-23T12:21:57.178461+00:00",
+  "slug": "nanosweep-14",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-14",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/nanosweep-14/NS-014.jpg"
+  ],
+  "year": 2012,
+  "catalog_number": "NS-014",
+  "date_added": "2023-09-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "nanosounds": "https://downloads.khinsider.com/game-soundtracks/publisher/nanosounds",
+    "SuperSweep": "https://downloads.khinsider.com/game-soundtracks/publisher/supersweep"
+  },
+  "genres": {
+    "Inspired By": "https://downloads.khinsider.com/game-soundtracks/inspired-by"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 38451281,
+      "filesize_mp3_bytes": 11114905,
+      "track_number": 1,
+      "title": "Blue",
+      "runtime": 326,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-14/hdcaskujxa/01.%20Blue.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-14/hdcaskujxa/01.%20Blue.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-14/01.%2520Blue.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 35609640,
+      "filesize_mp3_bytes": 9458155,
+      "track_number": 2,
+      "title": "Luz",
+      "runtime": 270,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-14/dcwzmvhzgp/02.%20Luz.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-14/dcwzmvhzgp/02.%20Luz.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-14/02.%2520Luz.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 36406558,
+      "filesize_mp3_bytes": 9405726,
+      "track_number": 3,
+      "title": "Deep Freeze Gun",
+      "runtime": 272,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-14/zwtmwyrnol/03.%20Deep%20Freeze%20Gun.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-14/zwtmwyrnol/03.%20Deep%20Freeze%20Gun.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-14/03.%2520Deep%2520Freeze%2520Gun.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 49325015,
+      "filesize_mp3_bytes": 11324620,
+      "track_number": 4,
+      "title": "A Midsummer Night's Dream",
+      "runtime": 351,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-14/lgagokvyxz/04.%20A%20Midsummer%20Night%27s%20Dream.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-14/lgagokvyxz/04.%20A%20Midsummer%20Night%27s%20Dream.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-14/04.%2520A%2520Midsummer%2520Night%2527s%2520Dream.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 33994833,
+      "filesize_mp3_bytes": 7937720,
+      "track_number": 5,
+      "title": "Welcome(Flex)",
+      "runtime": 243,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-14/yhcxmjklym/05.%20Welcome%28Flex%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-14/yhcxmjklym/05.%20Welcome%28Flex%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-14/05.%2520Welcome%2528Flex%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1462,
+    "filesize_mp3_bytes": 49241126,
+    "filesize_flac_bytes": 193787327,
+    "tracks": 5
+  }
+}

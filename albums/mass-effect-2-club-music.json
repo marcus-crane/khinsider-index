@@ -1,0 +1,62 @@
+{
+  "title": "Mass Effect 2 - Club Music",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T07:29:22.680215+00:00",
+  "slug": "mass-effect-2-club-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mass-effect-2-club-music",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows",
+    "Xbox 360": "https://downloads.khinsider.com/game-soundtracks/xbox-360"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mass-effect-2-club-music/Mass%20Effect%202%20-%20Club%20Music.jpg"
+  ],
+  "date_added": "2014-07-17T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4760535,
+      "title": "Callista",
+      "runtime": 154,
+      "source_mp3": "https://vgmsite.com/soundtracks/mass-effect-2-club-music/kmuistym/Callista.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mass-effect-2-club-music/Callista.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11083448,
+      "title": "Happiness",
+      "runtime": 352,
+      "source_mp3": "https://vgmsite.com/soundtracks/mass-effect-2-club-music/sxosolaa/Happiness.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mass-effect-2-club-music/Happiness.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7507804,
+      "title": "Hide to Seek",
+      "runtime": 234,
+      "source_mp3": "https://vgmsite.com/soundtracks/mass-effect-2-club-music/ouohlghy/Hide%20to%20Seek.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mass-effect-2-club-music/Hide%2520to%2520Seek.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4613734,
+      "title": "Lo Fi Epic (The Techno Madness Mix)",
+      "runtime": 147,
+      "source_mp3": "https://vgmsite.com/soundtracks/mass-effect-2-club-music/ircmcpup/Lo%20Fi%20Epic%20%28The%20Techno%20Madness%20Mix%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mass-effect-2-club-music/Lo%2520Fi%2520Epic%2520%2528The%2520Techno%2520Madness%2520Mix%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 887,
+    "filesize_mp3_bytes": 27965521,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

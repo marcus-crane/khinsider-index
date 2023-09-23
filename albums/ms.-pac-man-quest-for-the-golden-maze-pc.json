@@ -1,0 +1,92 @@
+{
+  "title": "Ms. Pac-Man: Quest For The Golden Maze",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T11:22:48.934261+00:00",
+  "slug": "ms.-pac-man-quest-for-the-golden-maze-pc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ms.-pac-man-quest-for-the-golden-maze-pc",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ms.-pac-man-quest-for-the-golden-maze-pc/533271_23012_front.jpg"
+  ],
+  "year": 2001,
+  "date_added": "2022-01-22T00:00:00+00:00",
+  "developers": {
+    "Creature Labs": "https://downloads.khinsider.com/game-soundtracks/developer/creature-labs"
+  },
+  "publishers": {
+    "Infogrames": "https://downloads.khinsider.com/game-soundtracks/publisher/infogrames"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6102712,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 152,
+      "source_mp3": "https://vgmsite.com/soundtracks/ms.-pac-man-quest-for-the-golden-maze-pc/jggrthugpa/01.%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ms.-pac-man-quest-for-the-golden-maze-pc/01.%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2883584,
+      "track_number": 2,
+      "title": "Ingame",
+      "runtime": 72,
+      "source_mp3": "https://vgmsite.com/soundtracks/ms.-pac-man-quest-for-the-golden-maze-pc/lypyfevwoh/02.%20Ingame.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ms.-pac-man-quest-for-the-golden-maze-pc/02.%2520Ingame.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1205862,
+      "track_number": 3,
+      "title": "Ingame (Uptempo)",
+      "runtime": 30,
+      "source_mp3": "https://vgmsite.com/soundtracks/ms.-pac-man-quest-for-the-golden-maze-pc/hbtclpqnge/03.%20Ingame%20%28Uptempo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ms.-pac-man-quest-for-the-golden-maze-pc/03.%2520Ingame%2520%2528Uptempo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3114270,
+      "track_number": 4,
+      "title": "The Golden Maze",
+      "runtime": 78,
+      "source_mp3": "https://vgmsite.com/soundtracks/ms.-pac-man-quest-for-the-golden-maze-pc/ppyytlglya/04.%20The%20Golden%20Maze.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ms.-pac-man-quest-for-the-golden-maze-pc/04.%2520The%2520Golden%2520Maze.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 765460,
+      "track_number": 5,
+      "title": "Continue",
+      "runtime": 19,
+      "source_mp3": "https://vgmsite.com/soundtracks/ms.-pac-man-quest-for-the-golden-maze-pc/jiooegdoir/05.%20Continue.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ms.-pac-man-quest-for-the-golden-maze-pc/05.%2520Continue.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2873098,
+      "track_number": 6,
+      "title": "High Score",
+      "runtime": 72,
+      "source_mp3": "https://vgmsite.com/soundtracks/ms.-pac-man-quest-for-the-golden-maze-pc/hmgrhjizvf/06.%20High%20Score.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ms.-pac-man-quest-for-the-golden-maze-pc/06.%2520High%2520Score.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 423,
+    "filesize_mp3_bytes": 16944986,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

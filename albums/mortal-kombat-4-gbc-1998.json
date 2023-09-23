@@ -1,0 +1,62 @@
+{
+  "title": "Mortal Kombat 4 (GBC)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T10:57:38.199751+00:00",
+  "slug": "mortal-kombat-4-gbc-1998",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mortal-kombat-4-gbc-1998",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mortal-kombat-4-gbc-1998/Cover_zpsa90b179b.jpg"
+  ],
+  "year": 1998,
+  "date_added": "2014-11-18T00:00:00+00:00",
+  "developers": {
+    "Digital Eclipse": "https://downloads.khinsider.com/game-soundtracks/developer/digital-eclipse"
+  },
+  "publishers": {
+    "Midway": "https://downloads.khinsider.com/game-soundtracks/publisher/midway"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5096079,
+      "track_number": 1,
+      "title": "Fight Theme 1",
+      "runtime": 126,
+      "source_mp3": "https://vgmsite.com/soundtracks/mortal-kombat-4-gbc-1998/qjousdna/01%20-%20Fight%20Theme%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mortal-kombat-4-gbc-1998/01%2520-%2520Fight%2520Theme%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8210350,
+      "track_number": 2,
+      "title": "Fight Theme 2",
+      "runtime": 204,
+      "source_mp3": "https://vgmsite.com/soundtracks/mortal-kombat-4-gbc-1998/ekwiqvba/02%20-%20Fight%20Theme%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mortal-kombat-4-gbc-1998/02%2520-%2520Fight%2520Theme%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7528775,
+      "track_number": 3,
+      "title": "Fight Theme 3 & Title",
+      "runtime": 187,
+      "source_mp3": "https://vgmsite.com/soundtracks/mortal-kombat-4-gbc-1998/zhyaykqm/03%20-%20Fight%20Theme%203%20%26%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mortal-kombat-4-gbc-1998/03%2520-%2520Fight%2520Theme%25203%2520%2526%2520Title.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 517,
+    "filesize_mp3_bytes": 20835204,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

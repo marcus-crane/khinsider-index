@@ -1,0 +1,61 @@
+{
+  "title": "NANACA+CRASH!! (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T12:17:57.023273+00:00",
+  "slug": "nanaca-crash-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/nanaca-crash-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/nanaca-crash-android-game-music/1.jpg"
+  ],
+  "date_added": "2016-06-10T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2296381,
+      "title": "bgm0",
+      "runtime": 86,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanaca-crash-android-game-music/hsretjef/bgm0.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanaca-crash-android-game-music/bgm0.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3061841,
+      "title": "bgm1",
+      "runtime": 118,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanaca-crash-android-game-music/nbouanhb/bgm1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanaca-crash-android-game-music/bgm1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2506096,
+      "title": "bgm2",
+      "runtime": 94,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanaca-crash-android-game-music/bpvdfcla/bgm2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanaca-crash-android-game-music/bgm2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2306867,
+      "title": "bgm3",
+      "runtime": 97,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanaca-crash-android-game-music/zyrzzhik/bgm3.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanaca-crash-android-game-music/bgm3.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 395,
+    "filesize_mp3_bytes": 10171185,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

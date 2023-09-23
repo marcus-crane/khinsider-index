@@ -1,0 +1,88 @@
+{
+  "title": "NARC",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T12:24:09.162649+00:00",
+  "slug": "narc-1990-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/narc-1990-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/narc-1990-nes/N3.png"
+  ],
+  "year": 1990,
+  "date_added": "2022-04-18T00:00:00+00:00",
+  "developers": {
+    "Rare": "https://downloads.khinsider.com/game-soundtracks/developer/rare",
+    "Williams": "https://downloads.khinsider.com/game-soundtracks/developer/williams"
+  },
+  "publishers": {
+    "Acclaim": "https://downloads.khinsider.com/game-soundtracks/publisher/acclaim"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10601103,
+      "filesize_mp3_bytes": 6291456,
+      "track_number": 1,
+      "title": "Levels 1, 5, 8, & 9",
+      "runtime": 249,
+      "source_mp3": "https://vgmsite.com/soundtracks/narc-1990-nes/zdlxsrimmd/01%20Levels%201%2C%205%2C%208%2C%20%26%209.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/narc-1990-nes/zdlxsrimmd/01%20Levels%201%2C%205%2C%208%2C%20%26%209.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/narc-1990-nes/01%2520Levels%25201%252C%25205%252C%25208%252C%2520%2526%25209.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9720299,
+      "filesize_mp3_bytes": 4445962,
+      "track_number": 2,
+      "title": "Levels 2 & 7",
+      "runtime": 187,
+      "source_mp3": "https://vgmsite.com/soundtracks/narc-1990-nes/coqegufuuk/02%20Levels%202%20%26%207.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/narc-1990-nes/coqegufuuk/02%20Levels%202%20%26%207.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/narc-1990-nes/02%2520Levels%25202%2520%2526%25207.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8336179,
+      "filesize_mp3_bytes": 3470786,
+      "track_number": 3,
+      "title": "Levels 3 & 6",
+      "runtime": 159,
+      "source_mp3": "https://vgmsite.com/soundtracks/narc-1990-nes/fidtlqcemr/03%20Levels%203%20%26%206.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/narc-1990-nes/fidtlqcemr/03%20Levels%203%20%26%206.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/narc-1990-nes/03%2520Levels%25203%2520%2526%25206.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2977955,
+      "filesize_mp3_bytes": 1604321,
+      "track_number": 4,
+      "title": "Levels 4 & Last Boss (Mr Big)",
+      "runtime": 69,
+      "source_mp3": "https://vgmsite.com/soundtracks/narc-1990-nes/gajtxzwrmo/04%20Levels%204%20%26%20Last%20Boss%20%28Mr%20Big%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/narc-1990-nes/gajtxzwrmo/04%20Levels%204%20%26%20Last%20Boss%20%28Mr%20Big%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/narc-1990-nes/04%2520Levels%25204%2520%2526%2520Last%2520Boss%2520%2528Mr%2520Big%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3030384,
+      "filesize_mp3_bytes": 1247805,
+      "track_number": 5,
+      "title": "Track 5",
+      "runtime": 69,
+      "source_mp3": "https://vgmsite.com/soundtracks/narc-1990-nes/wtjisapehc/05%20Track%205.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/narc-1990-nes/wtjisapehc/05%20Track%205.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/narc-1990-nes/05%2520Track%25205.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 733,
+    "filesize_mp3_bytes": 17060330,
+    "filesize_flac_bytes": 34665920,
+    "tracks": 5
+  }
+}

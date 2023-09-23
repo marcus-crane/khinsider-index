@@ -1,0 +1,43 @@
+{
+  "title": "Natsu\u2606Natsu Preorder Tokuten Disc",
+  "titles_alternative": [
+    "\u306a\u3064\u2606\u306a\u3064 \u4e88\u7d04\u7279\u5178DISC"
+  ],
+  "crawled_at": "2023-09-23T12:42:17.078059+00:00",
+  "slug": "natsu-natsu-special-disc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/natsu-natsu-special-disc",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/natsu-natsu-special-disc/Natsu%20Natsu%20Special%20Disc.jpg"
+  ],
+  "year": 2005,
+  "catalog_number": "ANK-003S",
+  "date_added": "2022-07-10T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Ankh": "https://downloads.khinsider.com/game-soundtracks/publisher/ankh"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3219128,
+      "track_number": 1,
+      "title": "nachu nachu",
+      "runtime": 93,
+      "source_mp3": "https://vgmsite.com/soundtracks/natsu-natsu-special-disc/amoruewvcm/01%20nachu%20nachu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/natsu-natsu-special-disc/01%2520nachu%2520nachu.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 93,
+    "filesize_mp3_bytes": 3219128,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Navy Seals",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T12:46:49.768016+00:00",
+  "slug": "navy-seals-1991-gb",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/navy-seals-1991-gb",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/navy-seals-1991-gb/Navy%20Seals%20Cover.png"
+  ],
+  "year": 1991,
+  "date_added": "2022-05-23T00:00:00+00:00",
+  "developers": {
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/developer/ocean"
+  },
+  "publishers": {
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/publisher/ocean"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 24085790,
+      "filesize_mp3_bytes": 9500098,
+      "title": "DMG-NV-USA",
+      "runtime": 417,
+      "source_mp3": "https://vgmsite.com/soundtracks/navy-seals-1991-gb/riqrwtxwhn/DMG-NV-USA.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/navy-seals-1991-gb/riqrwtxwhn/DMG-NV-USA.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/navy-seals-1991-gb/DMG-NV-USA.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 417,
+    "filesize_mp3_bytes": 9500098,
+    "filesize_flac_bytes": 24085790,
+    "tracks": 1
+  }
+}

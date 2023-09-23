@@ -1,0 +1,69 @@
+{
+  "title": "Mekorama OST",
+  "titles_alternative": [
+    "\u673a\u68b0\u8ff7\u5bab"
+  ],
+  "crawled_at": "2023-09-23T08:30:31.490609+00:00",
+  "slug": "mekorama-ost-android-ios-macos-gamerip-2016",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mekorama-ost-android-ios-macos-gamerip-2016",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios",
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mekorama-ost-android-ios-macos-gamerip-2016/Mekorama%20OST%20Cover.png"
+  ],
+  "year": 2016,
+  "date_added": "2023-08-27T00:00:00+00:00",
+  "developers": {
+    "Martin Magni": "https://downloads.khinsider.com/game-soundtracks/developer/martin-magni"
+  },
+  "publishers": {
+    "Martin Magni": "https://downloads.khinsider.com/game-soundtracks/publisher/martin-magni"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2736783,
+      "filesize_mp3_bytes": 650117,
+      "track_number": 1,
+      "title": "Main Menu",
+      "runtime": 34,
+      "source_mp3": "https://vgmsite.com/soundtracks/mekorama-ost-android-ios-macos-gamerip-2016/ufauekxrrb/01.%20Main%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mekorama-ost-android-ios-macos-gamerip-2016/ufauekxrrb/01.%20Main%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mekorama-ost-android-ios-macos-gamerip-2016/01.%2520Main%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5347737,
+      "filesize_mp3_bytes": 1426063,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 87,
+      "source_mp3": "https://vgmsite.com/soundtracks/mekorama-ost-android-ios-macos-gamerip-2016/hklnskbhrx/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mekorama-ost-android-ios-macos-gamerip-2016/hklnskbhrx/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mekorama-ost-android-ios-macos-gamerip-2016/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7675576,
+      "filesize_mp3_bytes": 2002780,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 123,
+      "source_mp3": "https://vgmsite.com/soundtracks/mekorama-ost-android-ios-macos-gamerip-2016/irqkwiynvi/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mekorama-ost-android-ios-macos-gamerip-2016/irqkwiynvi/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mekorama-ost-android-ios-macos-gamerip-2016/03.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 244,
+    "filesize_mp3_bytes": 4078960,
+    "filesize_flac_bytes": 15760096,
+    "tracks": 3
+  }
+}

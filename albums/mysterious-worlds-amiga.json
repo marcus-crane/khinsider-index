@@ -1,0 +1,102 @@
+{
+  "title": "Mysterious Worlds",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T11:57:55.047220+00:00",
+  "slug": "mysterious-worlds-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mysterious-worlds-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mysterious-worlds-amiga/Mysterious%20Worlds.png"
+  ],
+  "year": 1990,
+  "date_added": "2015-10-25T00:00:00+00:00",
+  "developers": {
+    "PlayStone": "https://downloads.khinsider.com/game-soundtracks/developer/playstone"
+  },
+  "publishers": {
+    "Amiga Fun": "https://downloads.khinsider.com/game-soundtracks/publisher/amiga-fun"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6228541,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 220,
+      "source_mp3": "https://vgmsite.com/soundtracks/mysterious-worlds-amiga/prothenb/01_Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mysterious-worlds-amiga/01_Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3019898,
+      "track_number": 2,
+      "title": "Title Screen",
+      "runtime": 102,
+      "source_mp3": "https://vgmsite.com/soundtracks/mysterious-worlds-amiga/cjwrinni/02_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mysterious-worlds-amiga/02_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1184890,
+      "track_number": 3,
+      "title": "Loading Tune",
+      "runtime": 38,
+      "source_mp3": "https://vgmsite.com/soundtracks/mysterious-worlds-amiga/hdmqgsaw/03_Loading%20Tune.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mysterious-worlds-amiga/03_Loading%2520Tune.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3764387,
+      "track_number": 4,
+      "title": "Stage 1 Forest",
+      "runtime": 129,
+      "source_mp3": "https://vgmsite.com/soundtracks/mysterious-worlds-amiga/iarlxpdv/04_Stage%201%20Forest.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mysterious-worlds-amiga/04_Stage%25201%2520Forest.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6501171,
+      "track_number": 5,
+      "title": "Stage 2 Caves",
+      "runtime": 212,
+      "source_mp3": "https://vgmsite.com/soundtracks/mysterious-worlds-amiga/iogcqjvc/05_Stage%202%20Caves.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mysterious-worlds-amiga/05_Stage%25202%2520Caves.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3858759,
+      "track_number": 6,
+      "title": "Stage 4 Space Cabin",
+      "runtime": 136,
+      "source_mp3": "https://vgmsite.com/soundtracks/mysterious-worlds-amiga/wabdtbpb/06_Stage%204%20Space%20Cabin.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mysterious-worlds-amiga/06_Stage%25204%2520Space%2520Cabin.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5127536,
+      "track_number": 7,
+      "title": "Ending",
+      "runtime": 169,
+      "source_mp3": "https://vgmsite.com/soundtracks/mysterious-worlds-amiga/nqlkmwds/07_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mysterious-worlds-amiga/07_Ending.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1006,
+    "filesize_mp3_bytes": 29685182,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

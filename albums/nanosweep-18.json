@@ -1,0 +1,85 @@
+{
+  "title": "NANOSWEEP 18",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T12:22:05.552054+00:00",
+  "slug": "nanosweep-18",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-18",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/nanosweep-18/BK.jpg"
+  ],
+  "year": 2014,
+  "catalog_number": "NS-018",
+  "date_added": "2023-09-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "nanosounds": "https://downloads.khinsider.com/game-soundtracks/publisher/nanosounds",
+    "SuperSweep": "https://downloads.khinsider.com/game-soundtracks/publisher/supersweep"
+  },
+  "genres": {
+    "Inspired By": "https://downloads.khinsider.com/game-soundtracks/inspired-by"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 44207964,
+      "filesize_mp3_bytes": 12499025,
+      "track_number": 1,
+      "title": "Inverse regression",
+      "runtime": 343,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-18/zokhyypiff/01.%20Inverse%20regression.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-18/zokhyypiff/01.%20Inverse%20regression.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-18/01.%2520Inverse%2520regression.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 52009369,
+      "filesize_mp3_bytes": 13872660,
+      "track_number": 2,
+      "title": "Afternoon of summer",
+      "runtime": 404,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-18/bvhsvubqce/02.%20Afternoon%20of%20summer.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-18/bvhsvubqce/02.%20Afternoon%20of%20summer.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-18/02.%2520Afternoon%2520of%2520summer.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 72288829,
+      "filesize_mp3_bytes": 19734200,
+      "track_number": 3,
+      "title": "Cold blue",
+      "runtime": 572,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-18/prnjsygycv/03.%20Cold%20blue.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-18/prnjsygycv/03.%20Cold%20blue.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-18/03.%2520Cold%2520blue.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 34477178,
+      "filesize_mp3_bytes": 9143582,
+      "track_number": 4,
+      "title": "Glanz",
+      "runtime": 273,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-18/flpdfkvuqh/04.%20Glanz.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-18/flpdfkvuqh/04.%20Glanz.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-18/04.%2520Glanz.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 36511416,
+      "filesize_mp3_bytes": 10674503,
+      "track_number": 5,
+      "title": "That's Right",
+      "runtime": 317,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-18/nfybsfcypm/05.%20That%27s%20Right.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-18/nfybsfcypm/05.%20That%27s%20Right.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-18/05.%2520That%2527s%2520Right.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1909,
+    "filesize_mp3_bytes": 65923970,
+    "filesize_flac_bytes": 239494756,
+    "tracks": 5
+  }
+}

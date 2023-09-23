@@ -1,0 +1,71 @@
+{
+  "title": "Mugi Show Chuu (PC-Indie)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T11:25:24.848940+00:00",
+  "slug": "mugi-show-chuu-pc-indie",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mugi-show-chuu-pc-indie",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mugi-show-chuu-pc-indie/01.jpg"
+  ],
+  "year": 2003,
+  "date_added": "2016-08-04T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 73400,
+      "title": "main2_a",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/mugi-show-chuu-pc-indie/rakydeuv/main2_a.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mugi-show-chuu-pc-indie/main2_a.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1677721,
+      "title": "main2_b",
+      "runtime": 56,
+      "source_mp3": "https://vgmsite.com/soundtracks/mugi-show-chuu-pc-indie/eihdofuv/main2_b.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mugi-show-chuu-pc-indie/main2_b.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 251658,
+      "title": "main_a",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/mugi-show-chuu-pc-indie/uglfpbic/main_a.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mugi-show-chuu-pc-indie/main_a.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2306867,
+      "title": "main_b",
+      "runtime": 78,
+      "source_mp3": "https://vgmsite.com/soundtracks/mugi-show-chuu-pc-indie/sryfjqph/main_b.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mugi-show-chuu-pc-indie/main_b.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 387973,
+      "title": "nanashi",
+      "runtime": 13,
+      "source_mp3": "https://vgmsite.com/soundtracks/mugi-show-chuu-pc-indie/tlvjnfmq/nanashi.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mugi-show-chuu-pc-indie/nanashi.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 159,
+    "filesize_mp3_bytes": 4697619,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

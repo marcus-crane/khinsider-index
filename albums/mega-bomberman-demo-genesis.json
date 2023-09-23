@@ -1,0 +1,44 @@
+{
+  "title": "Mega Bomberman Demo",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T08:05:43.363252+00:00",
+  "slug": "mega-bomberman-demo-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mega-bomberman-demo-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mega-bomberman-demo-genesis/Mega%20Bomberman%20Demo.png"
+  ],
+  "year": 1994,
+  "date_added": "2020-03-16T00:00:00+00:00",
+  "developers": {
+    "Factor 5": "https://downloads.khinsider.com/game-soundtracks/developer/factor-5"
+  },
+  "publishers": {
+    "Hudson Soft": "https://downloads.khinsider.com/game-soundtracks/publisher/hudson-soft",
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5913968,
+      "filesize_mp3_bytes": 1814036,
+      "track_number": 1,
+      "title": "BGM",
+      "runtime": 85,
+      "source_mp3": "https://vgmsite.com/soundtracks/mega-bomberman-demo-genesis/hbgdrrrnms/01%20-%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mega-bomberman-demo-genesis/hbgdrrrnms/01%20-%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mega-bomberman-demo-genesis/01%2520-%2520BGM.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 85,
+    "filesize_mp3_bytes": 1814036,
+    "filesize_flac_bytes": 5913968,
+    "tracks": 1
+  }
+}

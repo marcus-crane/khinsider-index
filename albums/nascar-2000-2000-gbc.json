@@ -1,0 +1,76 @@
+{
+  "title": "NASCAR 2000 (GBC)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T12:40:44.902701+00:00",
+  "slug": "nascar-2000-2000-gbc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/nascar-2000-2000-gbc",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/nascar-2000-2000-gbc/N1.png"
+  ],
+  "year": 2000,
+  "date_added": "2022-05-23T00:00:00+00:00",
+  "developers": {
+    "Software Creations": "https://downloads.khinsider.com/game-soundtracks/developer/software-creations"
+  },
+  "publishers": {
+    "THQ": "https://downloads.khinsider.com/game-soundtracks/publisher/thq"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11439964,
+      "filesize_mp3_bytes": 3974103,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/nascar-2000-2000-gbc/cihwlgdqbk/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nascar-2000-2000-gbc/cihwlgdqbk/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nascar-2000-2000-gbc/01%2520BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11827937,
+      "filesize_mp3_bytes": 3701473,
+      "track_number": 2,
+      "title": "BGM #02",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/nascar-2000-2000-gbc/wnhdspddso/02%20BGM%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nascar-2000-2000-gbc/wnhdspddso/02%20BGM%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nascar-2000-2000-gbc/02%2520BGM%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 325058,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 3,
+      "title": "Jingle #01",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/nascar-2000-2000-gbc/hirqvfzfpx/03%20Jingle%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nascar-2000-2000-gbc/hirqvfzfpx/03%20Jingle%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nascar-2000-2000-gbc/03%2520Jingle%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 775946,
+      "filesize_mp3_bytes": 262144,
+      "track_number": 4,
+      "title": "Jingle #02",
+      "runtime": 13,
+      "source_mp3": "https://vgmsite.com/soundtracks/nascar-2000-2000-gbc/bonewrhlmx/04%20Jingle%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nascar-2000-2000-gbc/bonewrhlmx/04%20Jingle%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nascar-2000-2000-gbc/04%2520Jingle%2520%252302.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 379,
+    "filesize_mp3_bytes": 8042577,
+    "filesize_flac_bytes": 24368905,
+    "tracks": 4
+  }
+}

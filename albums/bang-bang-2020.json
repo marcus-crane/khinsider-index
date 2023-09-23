@@ -1,0 +1,43 @@
+{
+  "title": "Bang Bang",
+  "titles_alternative": [
+    "Mobile Legends: Bang Bang"
+  ],
+  "crawled_at": "2023-09-23T07:01:16.772271+00:00",
+  "slug": "bang-bang-2020",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/bang-bang-2020",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/bang-bang-2020/cover.png"
+  ],
+  "year": 2020,
+  "date_added": "2023-09-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Moonton": "https://downloads.khinsider.com/game-soundtracks/publisher/moonton"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6197084,
+      "track_number": 1,
+      "title": "Bang Bang",
+      "runtime": 151,
+      "source_mp3": "https://vgmsite.com/soundtracks/bang-bang-2020/vpemldjztg/01.%20Bang%20Bang.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bang-bang-2020/01.%2520Bang%2520Bang.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 151,
+    "filesize_mp3_bytes": 6197084,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

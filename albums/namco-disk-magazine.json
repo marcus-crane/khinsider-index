@@ -1,0 +1,44 @@
+{
+  "title": "Namco Disk Magazine",
+  "titles_alternative": [
+    "Namco Community Disk Magazine"
+  ],
+  "crawled_at": "2023-09-23T12:08:54.941826+00:00",
+  "slug": "namco-disk-magazine",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/namco-disk-magazine",
+  "platforms": {
+    "MSX2": "https://downloads.khinsider.com/game-soundtracks/msx2"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/namco-disk-magazine/Namco%20Community%20Disk%20Magazine.png"
+  ],
+  "year": 1989,
+  "date_added": "2022-05-23T00:00:00+00:00",
+  "developers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/developer/namco"
+  },
+  "publishers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/publisher/namco"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3439329,
+      "filesize_mp3_bytes": 1782579,
+      "title": "Namco Community Disk Magazine - 01 - Title Screen",
+      "runtime": 85,
+      "source_mp3": "https://vgmsite.com/soundtracks/namco-disk-magazine/hvkxpvcqav/Namco%20Community%20Disk%20Magazine%20-%2001%20-%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/namco-disk-magazine/hvkxpvcqav/Namco%20Community%20Disk%20Magazine%20-%2001%20-%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/namco-disk-magazine/Namco%2520Community%2520Disk%2520Magazine%2520-%252001%2520-%2520Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 85,
+    "filesize_mp3_bytes": 1782579,
+    "filesize_flac_bytes": 3439329,
+    "tracks": 1
+  }
+}

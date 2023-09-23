@@ -1,0 +1,65 @@
+{
+  "title": "Monopoly",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T10:24:03.576524+00:00",
+  "slug": "monopoly-2010-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/monopoly-2010-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/monopoly-2010-nds-gamerip/M1.png"
+  ],
+  "year": 2010,
+  "date_added": "2020-06-17T00:00:00+00:00",
+  "developers": {
+    "Venan": "https://downloads.khinsider.com/game-soundtracks/developer/venan"
+  },
+  "publishers": {
+    "Electronic Arts": "https://downloads.khinsider.com/game-soundtracks/publisher/electronic-arts"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 21349007,
+      "filesize_mp3_bytes": 7497318,
+      "track_number": 21,
+      "title": "BGM Gameplay 01",
+      "runtime": 249,
+      "source_mp3": "https://vgmsite.com/soundtracks/monopoly-2010-nds-gamerip/pwjvtetfzg/0021%20-%20BGM%20Gameplay%2001.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/monopoly-2010-nds-gamerip/pwjvtetfzg/0021%20-%20BGM%20Gameplay%2001.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monopoly-2010-nds-gamerip/0021%2520-%2520BGM%2520Gameplay%252001.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 22995271,
+      "filesize_mp3_bytes": 7088373,
+      "track_number": 22,
+      "title": "BGM Gameplay 02",
+      "runtime": 254,
+      "source_mp3": "https://vgmsite.com/soundtracks/monopoly-2010-nds-gamerip/qgmjvpdmhv/0022%20-%20BGM%20Gameplay%2002.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/monopoly-2010-nds-gamerip/qgmjvpdmhv/0022%20-%20BGM%20Gameplay%2002.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monopoly-2010-nds-gamerip/0022%2520-%2520BGM%2520Gameplay%252002.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 22166896,
+      "filesize_mp3_bytes": 8178892,
+      "track_number": 23,
+      "title": "BGM Gameplay 03",
+      "runtime": 249,
+      "source_mp3": "https://vgmsite.com/soundtracks/monopoly-2010-nds-gamerip/vzdxqxojvf/0023%20-%20BGM%20Gameplay%2003.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/monopoly-2010-nds-gamerip/vzdxqxojvf/0023%20-%20BGM%20Gameplay%2003.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monopoly-2010-nds-gamerip/0023%2520-%2520BGM%2520Gameplay%252003.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 752,
+    "filesize_mp3_bytes": 22764583,
+    "filesize_flac_bytes": 66511174,
+    "tracks": 3
+  }
+}

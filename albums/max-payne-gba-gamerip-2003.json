@@ -1,0 +1,68 @@
+{
+  "title": "Max Payne",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T07:48:12.855091+00:00",
+  "slug": "max-payne-gba-gamerip-2003",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/max-payne-gba-gamerip-2003",
+  "platforms": {
+    "GBA": "https://downloads.khinsider.com/game-soundtracks/gameboy-advance"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/max-payne-gba-gamerip-2003/Max_Payne_Game_Boy_Advance_Front_Cover.jpg"
+  ],
+  "year": 2003,
+  "date_added": "2022-04-29T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8409579,
+      "track_number": 1,
+      "title": "Calm Ambience",
+      "runtime": 207,
+      "source_mp3": "https://vgmsite.com/soundtracks/max-payne-gba-gamerip-2003/tdxpyapeky/1.%20Calm%20Ambience.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/max-payne-gba-gamerip-2003/1.%2520Calm%2520Ambience.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7056916,
+      "track_number": 2,
+      "title": "Cutscene",
+      "runtime": 173,
+      "source_mp3": "https://vgmsite.com/soundtracks/max-payne-gba-gamerip-2003/kbijjjpywq/2.%20Cutscene.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/max-payne-gba-gamerip-2003/2.%2520Cutscene.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8074035,
+      "track_number": 3,
+      "title": "War",
+      "runtime": 199,
+      "source_mp3": "https://vgmsite.com/soundtracks/max-payne-gba-gamerip-2003/amcjhfkjns/3.%20War.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/max-payne-gba-gamerip-2003/3.%2520War.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7528775,
+      "track_number": 4,
+      "title": "Menu And Credits",
+      "runtime": 185,
+      "source_mp3": "https://vgmsite.com/soundtracks/max-payne-gba-gamerip-2003/ljqtvfghpm/4.%20Menu%20And%20Credits.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/max-payne-gba-gamerip-2003/4.%2520Menu%2520And%2520Credits.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 764,
+    "filesize_mp3_bytes": 31069305,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

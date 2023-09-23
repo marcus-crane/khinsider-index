@@ -1,0 +1,112 @@
+{
+  "title": "Monster Business",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T10:26:01.714068+00:00",
+  "slug": "monster-business-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/monster-business-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/monster-business-amiga/MB.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2019-06-03T00:00:00+00:00",
+  "developers": {
+    "Eclipse": "https://downloads.khinsider.com/game-soundtracks/developer/eclipse"
+  },
+  "publishers": {
+    "Ascon": "https://downloads.khinsider.com/game-soundtracks/publisher/ascon"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6522142,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 222,
+      "source_mp3": "https://vgmsite.com/soundtracks/monster-business-amiga/mshggzbcio/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monster-business-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5525995,
+      "track_number": 2,
+      "title": "BGM 1",
+      "runtime": 188,
+      "source_mp3": "https://vgmsite.com/soundtracks/monster-business-amiga/fkkesqrqai/02_BGM%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monster-business-amiga/02_BGM%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6385827,
+      "track_number": 3,
+      "title": "BGM 2",
+      "runtime": 214,
+      "source_mp3": "https://vgmsite.com/soundtracks/monster-business-amiga/nwvazxxrye/03_BGM%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monster-business-amiga/03_BGM%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4529848,
+      "track_number": 4,
+      "title": "BGM 3",
+      "runtime": 163,
+      "source_mp3": "https://vgmsite.com/soundtracks/monster-business-amiga/focuaadurc/04_BGM%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monster-business-amiga/04_BGM%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5347737,
+      "track_number": 5,
+      "title": "BGM 4",
+      "runtime": 174,
+      "source_mp3": "https://vgmsite.com/soundtracks/monster-business-amiga/mogicribrq/05_BGM%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monster-business-amiga/05_BGM%25204.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6606028,
+      "track_number": 6,
+      "title": "BGM 5",
+      "runtime": 217,
+      "source_mp3": "https://vgmsite.com/soundtracks/monster-business-amiga/fqgknwxgnp/06_BGM%205.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monster-business-amiga/06_BGM%25205.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5358223,
+      "track_number": 7,
+      "title": "BGM 6",
+      "runtime": 166,
+      "source_mp3": "https://vgmsite.com/soundtracks/monster-business-amiga/wzgnipmlam/07_BGM%206.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monster-business-amiga/07_BGM%25206.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4812963,
+      "track_number": 8,
+      "title": "BGM 7",
+      "runtime": 166,
+      "source_mp3": "https://vgmsite.com/soundtracks/monster-business-amiga/lgqcxyzakh/08_BGM%207.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monster-business-amiga/08_BGM%25207.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1510,
+    "filesize_mp3_bytes": 45088763,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

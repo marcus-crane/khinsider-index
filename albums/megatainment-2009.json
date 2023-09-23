@@ -1,0 +1,74 @@
+{
+  "title": "Megatainment",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T08:27:43.358124+00:00",
+  "slug": "megatainment-2009",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/megatainment-2009",
+  "platforms": {
+    "CD-i": "https://downloads.khinsider.com/game-soundtracks/cd-i",
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/megatainment-2009/250x250-000000-80-0-0.jpg"
+  ],
+  "year": 2009,
+  "catalog_number": "DLN03",
+  "date_added": "2023-05-04T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Entertainment System": "https://downloads.khinsider.com/game-soundtracks/publisher/entertainment-system",
+    "The Megas": "https://downloads.khinsider.com/game-soundtracks/publisher/the-megas"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4519362,
+      "track_number": 1,
+      "title": "Evolution of Circuitry\u200b (Elecman)",
+      "runtime": 274,
+      "source_mp3": "https://vgmsite.com/soundtracks/megatainment-2009/vozoknjktk/01.%20Evolution%20of%20Circuitry%E2%80%8B%20%28Elecman%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/megatainment-2009/01.%2520Evolution%2520of%2520Circuitry%25E2%2580%258B%2520%2528Elecman%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5179965,
+      "track_number": 2,
+      "title": "Beneath the Steel (Bombman)",
+      "runtime": 315,
+      "source_mp3": "https://vgmsite.com/soundtracks/megatainment-2009/omsjvsjgpp/02.%20Beneath%20the%20Steel%20%28Bombman%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/megatainment-2009/02.%2520Beneath%2520the%2520Steel%2520%2528Bombman%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3376414,
+      "track_number": 3,
+      "title": "Hell Has Frozen over (Fire & Ice)",
+      "runtime": 202,
+      "source_mp3": "https://vgmsite.com/soundtracks/megatainment-2009/hqhxvdheae/03.%20Hell%20Has%20Frozen%20over%20%28Fire%20%26%20Ice%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/megatainment-2009/03.%2520Hell%2520Has%2520Frozen%2520over%2520%2528Fire%2520%2526%2520Ice%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5609881,
+      "track_number": 4,
+      "title": "Look What You\u2019ve Done (Dr. Wily)",
+      "runtime": 342,
+      "source_mp3": "https://vgmsite.com/soundtracks/megatainment-2009/tyctxookay/04.%20Look%20What%20You%E2%80%99ve%20Done%20%28Dr.%20Wily%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/megatainment-2009/04.%2520Look%2520What%2520You%25E2%2580%2599ve%2520Done%2520%2528Dr.%2520Wily%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1133,
+    "filesize_mp3_bytes": 18685622,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

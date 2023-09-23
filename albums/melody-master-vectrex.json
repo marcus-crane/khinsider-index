@@ -1,0 +1,41 @@
+{
+  "title": "Melody Master (Vectrex)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T08:31:31.020125+00:00",
+  "slug": "melody-master-vectrex",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/melody-master-vectrex",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/melody-master-vectrex/Melody%20Master.png"
+  ],
+  "year": 1983,
+  "date_added": "2022-05-21T00:00:00+00:00",
+  "developers": {
+    "General Consumer Electronics": "https://downloads.khinsider.com/game-soundtracks/developer/general-consumer-electronics"
+  },
+  "publishers": {
+    "General Consumer Electronics": "https://downloads.khinsider.com/game-soundtracks/publisher/general-consumer-electronics"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 94371,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/melody-master-vectrex/tzydvdlzst/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/melody-master-vectrex/tzydvdlzst/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/melody-master-vectrex/01%2520Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2,
+    "filesize_mp3_bytes": 31457,
+    "filesize_flac_bytes": 94371,
+    "tracks": 1
+  }
+}
