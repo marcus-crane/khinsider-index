@@ -1,0 +1,122 @@
+{
+  "title": "Omega Agent",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T16:20:58.553556+00:00",
+  "slug": "omega-agent",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/omega-agent",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/omega-agent/coverart.jpg"
+  ],
+  "year": 2016,
+  "date_added": "2019-08-31T00:00:00+00:00",
+  "developers": {
+    "Fireproof Games": "https://downloads.khinsider.com/game-soundtracks/developer/fireproof-games"
+  },
+  "publishers": {
+    "Fireproof Games": "https://downloads.khinsider.com/game-soundtracks/publisher/fireproof-games"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1730150,
+      "track_number": 1,
+      "title": "Omega Title",
+      "runtime": 70,
+      "source_mp3": "https://vgmsite.com/soundtracks/omega-agent/pccrbvcyaa/01%20Omega%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/omega-agent/01%2520Omega%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 199229,
+      "track_number": 2,
+      "title": "3.. 2.. 1.. GO!",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/omega-agent/pbndnbiipl/02%203..%202..%201..%20GO%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/omega-agent/02%25203..%25202..%25201..%2520GO%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1142947,
+      "track_number": 3,
+      "title": "Boss Music",
+      "runtime": 45,
+      "source_mp3": "https://vgmsite.com/soundtracks/omega-agent/culmixamzc/03%20Boss%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/omega-agent/03%2520Boss%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 199229,
+      "track_number": 4,
+      "title": "Mission Complete 1",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/omega-agent/hfynugfwrw/04%20Mission%20Complete%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/omega-agent/04%2520Mission%2520Complete%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 199229,
+      "track_number": 5,
+      "title": "Mission Complete 2",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/omega-agent/iftwvrmsbq/05%20Mission%20Complete%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/omega-agent/05%2520Mission%2520Complete%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 199229,
+      "track_number": 6,
+      "title": "Rank Up!",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/omega-agent/roehdcfkwv/06%20Rank%20Up%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/omega-agent/06%2520Rank%2520Up%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 429916,
+      "track_number": 7,
+      "title": "New Entrances",
+      "runtime": 16,
+      "source_mp3": "https://vgmsite.com/soundtracks/omega-agent/xcvdmejuct/07%20New%20Entrances.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/omega-agent/07%2520New%2520Entrances.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 167772,
+      "track_number": 8,
+      "title": "Attach\u00e9 Case Recovered",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/omega-agent/qqnqiqcujb/08%20Attach%C3%A9%20Case%20Recovered.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/omega-agent/08%2520Attach%25C3%25A9%2520Case%2520Recovered.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 9,
+      "title": "Blueprint Recovered",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/omega-agent/xrctgsylaf/09%20Blueprint%20Recovered.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/omega-agent/09%2520Blueprint%2520Recovered.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 163,
+    "filesize_mp3_bytes": 4404015,
+    "filesize_flac_bytes": 0,
+    "tracks": 9
+  }
+}

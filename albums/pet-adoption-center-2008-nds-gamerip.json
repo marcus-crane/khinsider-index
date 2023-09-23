@@ -1,0 +1,77 @@
+{
+  "title": "Pet Adoption Center",
+  "titles_alternative": [
+    "My Own Pet Shelter",
+    "Emily - My Animal Shelter"
+  ],
+  "crawled_at": "2023-09-23T19:07:08.155492+00:00",
+  "slug": "pet-adoption-center-2008-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pet-adoption-center-2008-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pet-adoption-center-2008-nds-gamerip/Pet%20Adoption%20Center.jpg"
+  ],
+  "year": 2008,
+  "date_added": "2020-06-19T00:00:00+00:00",
+  "developers": {
+    "Tivola": "https://downloads.khinsider.com/game-soundtracks/developer/tivola"
+  },
+  "publishers": {
+    "Atari": "https://downloads.khinsider.com/game-soundtracks/publisher/atari",
+    "Tivola": "https://downloads.khinsider.com/game-soundtracks/publisher/tivola",
+    "Ubisoft": "https://downloads.khinsider.com/game-soundtracks/publisher/ubisoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6406799,
+      "filesize_mp3_bytes": 2317352,
+      "title": "In Game",
+      "runtime": 74,
+      "source_mp3": "https://vgmsite.com/soundtracks/pet-adoption-center-2008-nds-gamerip/kfchdxmcar/In%20Game.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pet-adoption-center-2008-nds-gamerip/kfchdxmcar/In%20Game.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pet-adoption-center-2008-nds-gamerip/In%2520Game.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6396313,
+      "filesize_mp3_bytes": 2275409,
+      "title": "In Game (1)",
+      "runtime": 67,
+      "source_mp3": "https://vgmsite.com/soundtracks/pet-adoption-center-2008-nds-gamerip/ytissftyns/In%20Game%20%281%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pet-adoption-center-2008-nds-gamerip/ytissftyns/In%20Game%20%281%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pet-adoption-center-2008-nds-gamerip/In%2520Game%2520%25281%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8640266,
+      "filesize_mp3_bytes": 2191523,
+      "title": "Main",
+      "runtime": 76,
+      "source_mp3": "https://vgmsite.com/soundtracks/pet-adoption-center-2008-nds-gamerip/zbanbdintx/Main.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pet-adoption-center-2008-nds-gamerip/zbanbdintx/Main.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pet-adoption-center-2008-nds-gamerip/Main.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5106565,
+      "filesize_mp3_bytes": 1415577,
+      "title": "Tierschule1",
+      "runtime": 46,
+      "source_mp3": "https://vgmsite.com/soundtracks/pet-adoption-center-2008-nds-gamerip/slaytmwclv/Tierschule1.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pet-adoption-center-2008-nds-gamerip/slaytmwclv/Tierschule1.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pet-adoption-center-2008-nds-gamerip/Tierschule1.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 263,
+    "filesize_mp3_bytes": 8199861,
+    "filesize_flac_bytes": 26549943,
+    "tracks": 4
+  }
+}

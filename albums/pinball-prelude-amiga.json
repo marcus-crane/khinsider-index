@@ -1,0 +1,102 @@
+{
+  "title": "Pinball Prelude",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T19:53:55.032740+00:00",
+  "slug": "pinball-prelude-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pinball-prelude-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pinball-prelude-amiga/P1.jpg"
+  ],
+  "year": 1995,
+  "date_added": "2016-06-21T00:00:00+00:00",
+  "developers": {
+    "Effigy Software": "https://downloads.khinsider.com/game-soundtracks/developer/effigy-software"
+  },
+  "publishers": {
+    "Effigy Software": "https://downloads.khinsider.com/game-soundtracks/publisher/effigy-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4383047,
+      "track_number": 1,
+      "title": "Theoretical ~Past~",
+      "runtime": 160,
+      "source_mp3": "https://vgmsite.com/soundtracks/pinball-prelude-amiga/hriwpipd/01_Theoretical%20~Past~.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pinball-prelude-amiga/01_Theoretical%2520~Past~.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5284823,
+      "track_number": 2,
+      "title": "Lard (Tripping) ~Present~",
+      "runtime": 179,
+      "source_mp3": "https://vgmsite.com/soundtracks/pinball-prelude-amiga/cgedtskc/02_Lard%20%28Tripping%29%20~Present~%20.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pinball-prelude-amiga/02_Lard%2520%2528Tripping%2529%2520~Present~%2520.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5546967,
+      "track_number": 3,
+      "title": "Nemoralis ~Future~",
+      "runtime": 201,
+      "source_mp3": "https://vgmsite.com/soundtracks/pinball-prelude-amiga/grvddzst/03_Nemoralis%20~Future~.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pinball-prelude-amiga/03_Nemoralis%2520~Future~.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3586129,
+      "track_number": 4,
+      "title": "Chaotic Dawn",
+      "runtime": 136,
+      "source_mp3": "https://vgmsite.com/soundtracks/pinball-prelude-amiga/zwnvkibw/04_Chaotic%20Dawn.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pinball-prelude-amiga/04_Chaotic%2520Dawn.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2097152,
+      "track_number": 5,
+      "title": "Pathways Trainer",
+      "runtime": 71,
+      "source_mp3": "https://vgmsite.com/soundtracks/pinball-prelude-amiga/auyghmpq/05_Pathways%20Trainer.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pinball-prelude-amiga/05_Pathways%2520Trainer.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5274337,
+      "track_number": 6,
+      "title": "Cheese Hazard",
+      "runtime": 174,
+      "source_mp3": "https://vgmsite.com/soundtracks/pinball-prelude-amiga/mhcbrlpd/06_Cheese%20Hazard.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pinball-prelude-amiga/06_Cheese%2520Hazard.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5588910,
+      "track_number": 7,
+      "title": "Nemoralis (AGA)",
+      "runtime": 202,
+      "source_mp3": "https://vgmsite.com/soundtracks/pinball-prelude-amiga/fakigokm/07_Nemoralis%20%28AGA%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pinball-prelude-amiga/07_Nemoralis%2520%2528AGA%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1123,
+    "filesize_mp3_bytes": 31761365,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

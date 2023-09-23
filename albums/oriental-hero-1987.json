@@ -1,0 +1,42 @@
+{
+  "title": "Oriental Hero",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T16:52:29.005126+00:00",
+  "slug": "oriental-hero-1987",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/oriental-hero-1987",
+  "platforms": {
+    "Spectrum": "https://downloads.khinsider.com/game-soundtracks/spectrum"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/oriental-hero-1987/Oriental_Hero.jpg"
+  ],
+  "year": 1987,
+  "date_added": "2023-05-21T00:00:00+00:00",
+  "developers": {
+    "Tron Software": "https://downloads.khinsider.com/game-soundtracks/developer/tron-software"
+  },
+  "publishers": {
+    "Firebird": "https://downloads.khinsider.com/game-soundtracks/publisher/firebird"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1782579,
+      "track_number": 1,
+      "title": "Title Music",
+      "runtime": 111,
+      "source_mp3": "https://vgmsite.com/soundtracks/oriental-hero-1987/rrlitolasy/01.%20Title%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/oriental-hero-1987/01.%2520Title%2520Music.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 111,
+    "filesize_mp3_bytes": 1782579,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

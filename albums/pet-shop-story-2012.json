@@ -1,0 +1,42 @@
+{
+  "title": "Pet Shop Story",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T19:07:26.318885+00:00",
+  "slug": "pet-shop-story-2012",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pet-shop-story-2012",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pet-shop-story-2012/banner.png"
+  ],
+  "year": 2012,
+  "date_added": "2023-09-01T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "LLC": "https://downloads.khinsider.com/game-soundtracks/publisher/llc",
+    "TeamLava": "https://downloads.khinsider.com/game-soundtracks/publisher/teamlava"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1226833,
+      "track_number": 1,
+      "title": "Pet Shop Story",
+      "runtime": 57,
+      "source_mp3": "https://vgmsite.com/soundtracks/pet-shop-story-2012/nerdbyswep/01.%20Pet%20Shop%20Story.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pet-shop-story-2012/01.%2520Pet%2520Shop%2520Story.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 57,
+    "filesize_mp3_bytes": 1226833,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "title": "Nick Jr. - Phone",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T14:52:34.724513+00:00",
+  "slug": "nick-jr.-phone-flash-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/nick-jr.-phone-flash-gamerip",
+  "platforms": {
+    "Online": "https://downloads.khinsider.com/game-soundtracks/online"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/nick-jr.-phone-flash-gamerip/coverart.jpg"
+  ],
+  "year": 2001,
+  "date_added": "2022-04-12T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 220200,
+      "title": "Sound 1 at frame 142",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/nick-jr.-phone-flash-gamerip/yecwuvtmgl/Sound%201%20at%20frame%20142.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nick-jr.-phone-flash-gamerip/Sound%25201%2520at%2520frame%2520142.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 754974,
+      "title": "Stream",
+      "runtime": 269,
+      "source_mp3": "https://vgmsite.com/soundtracks/nick-jr.-phone-flash-gamerip/dapllsmnuf/Stream.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nick-jr.-phone-flash-gamerip/Stream.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 270,
+    "filesize_mp3_bytes": 975174,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

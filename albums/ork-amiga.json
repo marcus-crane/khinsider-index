@@ -1,0 +1,52 @@
+{
+  "title": "Ork",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T16:53:03.686816+00:00",
+  "slug": "ork-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ork-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ork-amiga/O1.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2016-06-11T00:00:00+00:00",
+  "developers": {
+    "WJS Design": "https://downloads.khinsider.com/game-soundtracks/developer/wjs-design"
+  },
+  "publishers": {
+    "Psygnosis": "https://downloads.khinsider.com/game-soundtracks/publisher/psygnosis"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5442109,
+      "track_number": 1,
+      "title": "The Chase",
+      "runtime": 200,
+      "source_mp3": "https://vgmsite.com/soundtracks/ork-amiga/grtbculh/01%20The%20Chase.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ork-amiga/01%2520The%2520Chase.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1384120,
+      "track_number": 2,
+      "title": "Game Over",
+      "runtime": 55,
+      "source_mp3": "https://vgmsite.com/soundtracks/ork-amiga/oxeodech/02%20Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ork-amiga/02%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 255,
+    "filesize_mp3_bytes": 6826229,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

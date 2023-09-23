@@ -1,0 +1,66 @@
+{
+  "title": "Pepsiman / James & Gang",
+  "titles_alternative": [
+    "\u30da\u30d7\u30b7\u30de\u30f3 / James & Gang"
+  ],
+  "crawled_at": "2023-09-23T18:38:48.951029+00:00",
+  "slug": "pepsiman-zadl-1061",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pepsiman-zadl-1061",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pepsiman-zadl-1061/R-477444-1473201017-4583.png.jpg"
+  ],
+  "year": 1996,
+  "catalog_number": "ZADL-1061",
+  "date_added": "2021-04-26T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "ZAIN RECORDS": "https://downloads.khinsider.com/game-soundtracks/publisher/zain-records"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 33680261,
+      "filesize_mp3_bytes": 8220835,
+      "track_number": 1,
+      "title": "PEPSI MAN(ORIGINAL MIX)",
+      "runtime": 248,
+      "source_mp3": "https://vgmsite.com/soundtracks/pepsiman-zadl-1061/mjfhwavdiu/01%20PEPSI%20MAN%28ORIGINAL%20MIX%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pepsiman-zadl-1061/mjfhwavdiu/01%20PEPSI%20MAN%28ORIGINAL%20MIX%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pepsiman-zadl-1061/01%2520PEPSI%2520MAN%2528ORIGINAL%2520MIX%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 38377881,
+      "filesize_mp3_bytes": 10684989,
+      "track_number": 2,
+      "title": "PEPSI MAN(JUNGLE MIX)",
+      "runtime": 309,
+      "source_mp3": "https://vgmsite.com/soundtracks/pepsiman-zadl-1061/vtbkpltzgj/02%20PEPSI%20MAN%28JUNGLE%20MIX%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pepsiman-zadl-1061/vtbkpltzgj/02%20PEPSI%20MAN%28JUNGLE%20MIX%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pepsiman-zadl-1061/02%2520PEPSI%2520MAN%2528JUNGLE%2520MIX%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 60492349,
+      "filesize_mp3_bytes": 15351152,
+      "track_number": 3,
+      "title": "PEPSI MAN(TECHNO MIX)",
+      "runtime": 443,
+      "source_mp3": "https://vgmsite.com/soundtracks/pepsiman-zadl-1061/erthhsmldh/03%20PEPSI%20MAN%28TECHNO%20MIX%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pepsiman-zadl-1061/erthhsmldh/03%20PEPSI%20MAN%28TECHNO%20MIX%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pepsiman-zadl-1061/03%2520PEPSI%2520MAN%2528TECHNO%2520MIX%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1000,
+    "filesize_mp3_bytes": 34256976,
+    "filesize_flac_bytes": 132550491,
+    "tracks": 3
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Niizuma Capriccio! Drama CD ~Sodatete Capriccio!~",
+  "titles_alternative": [
+    "\u308a\u3077\u308b - \u30bd\u30d5\u30de\u30c3\u30d7\u7279\u5178 \u80b2\u3066\u3066\u304b\u3077\u308a\u3063\u3061\u3087\uff01"
+  ],
+  "crawled_at": "2023-09-23T15:06:20.471529+00:00",
+  "slug": "niiduma-capriccio-drama-cd-sodatete-capriccio",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/niiduma-capriccio-drama-cd-sodatete-capriccio",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/niiduma-capriccio-drama-cd-sodatete-capriccio/00%20Disc.jpg"
+  ],
+  "year": 2007,
+  "catalog_number": "PRNK-0706",
+  "date_added": "2022-08-08T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Libre": "https://downloads.khinsider.com/game-soundtracks/publisher/libre"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 43159388,
+      "track_number": 1,
+      "title": "Sodatete Capriccio!",
+      "runtime": 1690,
+      "source_mp3": "https://vgmsite.com/soundtracks/niiduma-capriccio-drama-cd-sodatete-capriccio/wrmegihpjk/01%20Sodatete%20Capriccio%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/niiduma-capriccio-drama-cd-sodatete-capriccio/01%2520Sodatete%2520Capriccio%2521.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1690,
+    "filesize_mp3_bytes": 43159388,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

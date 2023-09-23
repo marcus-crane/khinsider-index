@@ -1,0 +1,55 @@
+{
+  "title": "Net de Para",
+  "titles_alternative": [
+    "Net de Para: Nekosogi Paradise",
+    "\u306d\u3063\u3068DE\u3071\u3089 \u306d\u3053\u305d\u304e\u30d1\u30e9\u30c0\u30a4\u30b9"
+  ],
+  "crawled_at": "2023-09-23T14:26:58.554224+00:00",
+  "slug": "net-de-para-2000-dreamcast-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/net-de-para-2000-dreamcast-gamerip",
+  "platforms": {
+    "Dreamcast": "https://downloads.khinsider.com/game-soundtracks/sega-dreamcast"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/net-de-para-2000-dreamcast-gamerip/Net%20de%20Para.jpg"
+  ],
+  "year": 2000,
+  "date_added": "2020-05-18T00:00:00+00:00",
+  "developers": {
+    "Takuyo": "https://downloads.khinsider.com/game-soundtracks/developer/takuyo"
+  },
+  "publishers": {
+    "Takuyo": "https://downloads.khinsider.com/game-soundtracks/publisher/takuyo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2600468,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 103,
+      "source_mp3": "https://vgmsite.com/soundtracks/net-de-para-2000-dreamcast-gamerip/agfhmsnktt/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/net-de-para-2000-dreamcast-gamerip/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2652897,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 116,
+      "source_mp3": "https://vgmsite.com/soundtracks/net-de-para-2000-dreamcast-gamerip/rubgcfhybr/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/net-de-para-2000-dreamcast-gamerip/02.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 219,
+    "filesize_mp3_bytes": 5253365,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

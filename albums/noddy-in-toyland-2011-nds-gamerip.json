@@ -1,0 +1,52 @@
+{
+  "title": "Noddy in Toyland",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T15:49:24.662127+00:00",
+  "slug": "noddy-in-toyland-2011-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/noddy-in-toyland-2011-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/noddy-in-toyland-2011-nds-gamerip/Noddy%20in%20Toyland.jpg"
+  ],
+  "year": 2011,
+  "date_added": "2020-06-18T00:00:00+00:00",
+  "developers": {
+    "Uacari": "https://downloads.khinsider.com/game-soundtracks/developer/uacari"
+  },
+  "publishers": {
+    "Avanquest": "https://downloads.khinsider.com/game-soundtracks/publisher/avanquest"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1562378,
+      "filesize_mp3_bytes": 650117,
+      "title": "Theme Fr01",
+      "runtime": 44,
+      "source_mp3": "https://vgmsite.com/soundtracks/noddy-in-toyland-2011-nds-gamerip/pvlopnnrpj/Theme%20Fr01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/noddy-in-toyland-2011-nds-gamerip/pvlopnnrpj/Theme%20Fr01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/noddy-in-toyland-2011-nds-gamerip/Theme%2520Fr01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1593835,
+      "filesize_mp3_bytes": 660602,
+      "title": "Theme Gb00",
+      "runtime": 44,
+      "source_mp3": "https://vgmsite.com/soundtracks/noddy-in-toyland-2011-nds-gamerip/zdsrleevun/Theme%20Gb00.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/noddy-in-toyland-2011-nds-gamerip/zdsrleevun/Theme%20Gb00.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/noddy-in-toyland-2011-nds-gamerip/Theme%2520Gb00.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 88,
+    "filesize_mp3_bytes": 1310719,
+    "filesize_flac_bytes": 3156213,
+    "tracks": 2
+  }
+}

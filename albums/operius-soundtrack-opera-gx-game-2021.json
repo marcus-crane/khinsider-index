@@ -1,0 +1,54 @@
+{
+  "title": "Operius Soundtrack (Opera GX game)",
+  "titles_alternative": [
+    "Opera, Opera GX"
+  ],
+  "crawled_at": "2023-09-23T16:42:41.550171+00:00",
+  "slug": "operius-soundtrack-opera-gx-game-2021",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/operius-soundtrack-opera-gx-game-2021",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/operius-soundtrack-opera-gx-game-2021/cover.png"
+  ],
+  "year": 2021,
+  "date_added": "2023-06-18T00:00:00+00:00",
+  "developers": {
+    "Mors": "https://downloads.khinsider.com/game-soundtracks/developer/mors"
+  },
+  "publishers": {},
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 15351152,
+      "filesize_mp3_bytes": 4487905,
+      "track_number": 1,
+      "title": "Operius",
+      "runtime": 133,
+      "source_mp3": "https://vgmsite.com/soundtracks/operius-soundtrack-opera-gx-game-2021/ojxrqlkexw/01.%20Operius.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/operius-soundtrack-opera-gx-game-2021/ojxrqlkexw/01.%20Operius.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/operius-soundtrack-opera-gx-game-2021/01.%2520Operius.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 46651146,
+      "filesize_mp3_bytes": 13358858,
+      "track_number": 2,
+      "title": "Polycity",
+      "runtime": 410,
+      "source_mp3": "https://vgmsite.com/soundtracks/operius-soundtrack-opera-gx-game-2021/cnfkdraknm/02.%20Polycity.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/operius-soundtrack-opera-gx-game-2021/cnfkdraknm/02.%20Polycity.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/operius-soundtrack-opera-gx-game-2021/02.%2520Polycity.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 543,
+    "filesize_mp3_bytes": 17846763,
+    "filesize_flac_bytes": 62002298,
+    "tracks": 2
+  }
+}

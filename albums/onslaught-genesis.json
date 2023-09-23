@@ -1,0 +1,66 @@
+{
+  "title": "Onslaught",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T16:38:54.771304+00:00",
+  "slug": "onslaught-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/onslaught-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/onslaught-genesis/Onslaught.png"
+  ],
+  "year": 1991,
+  "date_added": "2020-03-17T00:00:00+00:00",
+  "developers": {
+    "Nextgrand": "https://downloads.khinsider.com/game-soundtracks/developer/nextgrand",
+    "Realms": "https://downloads.khinsider.com/game-soundtracks/developer/realms"
+  },
+  "publishers": {
+    "Ballistic": "https://downloads.khinsider.com/game-soundtracks/publisher/ballistic"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 15791554,
+      "filesize_mp3_bytes": 5955911,
+      "track_number": 1,
+      "title": "Main Theme ~ Boss Theme",
+      "runtime": 172,
+      "source_mp3": "https://vgmsite.com/soundtracks/onslaught-genesis/hkndyekadg/01%20-%20Main%20Theme%20~%20Boss%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/onslaught-genesis/hkndyekadg/01%20-%20Main%20Theme%20~%20Boss%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/onslaught-genesis/01%2520-%2520Main%2520Theme%2520~%2520Boss%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 21495808,
+      "filesize_mp3_bytes": 8378122,
+      "track_number": 2,
+      "title": "Main BGM",
+      "runtime": 277,
+      "source_mp3": "https://vgmsite.com/soundtracks/onslaught-genesis/vcbyaqfzto/02%20-%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/onslaught-genesis/vcbyaqfzto/02%20-%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/onslaught-genesis/02%2520-%2520Main%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11167334,
+      "filesize_mp3_bytes": 4697620,
+      "track_number": 3,
+      "title": "Ending Theme",
+      "runtime": 151,
+      "source_mp3": "https://vgmsite.com/soundtracks/onslaught-genesis/zwudjivhrs/03%20-%20Ending%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/onslaught-genesis/zwudjivhrs/03%20-%20Ending%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/onslaught-genesis/03%2520-%2520Ending%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 600,
+    "filesize_mp3_bytes": 19031653,
+    "filesize_flac_bytes": 48454696,
+    "tracks": 3
+  }
+}

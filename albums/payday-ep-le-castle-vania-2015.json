@@ -1,0 +1,66 @@
+{
+  "title": "Payday EP",
+  "titles_alternative": [
+    "Le Castle Vania - Payday EP"
+  ],
+  "crawled_at": "2023-09-23T18:30:56.150718+00:00",
+  "slug": "payday-ep-le-castle-vania-2015",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/payday-ep-le-castle-vania-2015",
+  "platforms": {
+    "Linux": "https://downloads.khinsider.com/game-soundtracks/linux",
+    "PS3": "https://downloads.khinsider.com/game-soundtracks/playstation-3",
+    "PS4": "https://downloads.khinsider.com/game-soundtracks/playstation-4",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows",
+    "Xbox 360": "https://downloads.khinsider.com/game-soundtracks/xbox-360",
+    "Xbox One": "https://downloads.khinsider.com/game-soundtracks/xbox-one"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/payday-ep-le-castle-vania-2015/cover.jpg"
+  ],
+  "year": 2015,
+  "catalog_number": null,
+  "date_added": "2023-04-25T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4016046,
+      "track_number": 1,
+      "title": "Infinite Ammo",
+      "runtime": 233,
+      "source_mp3": "https://vgmsite.com/soundtracks/payday-ep-le-castle-vania-2015/mtyojjwacr/01.%20Infinite%20Ammo.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/payday-ep-le-castle-vania-2015/01.%2520Infinite%2520Ammo.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3282042,
+      "track_number": 2,
+      "title": "Fully Loaded Epic Win",
+      "runtime": 187,
+      "source_mp3": "https://vgmsite.com/soundtracks/payday-ep-le-castle-vania-2015/gpipwrchtk/02.%20Fully%20Loaded%20Epic%20Win.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/payday-ep-le-castle-vania-2015/02.%2520Fully%2520Loaded%2520Epic%2520Win.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3900702,
+      "track_number": 3,
+      "title": "Use of Force",
+      "runtime": 226,
+      "source_mp3": "https://vgmsite.com/soundtracks/payday-ep-le-castle-vania-2015/fzpsvqeywo/03.%20Use%20of%20Force.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/payday-ep-le-castle-vania-2015/03.%2520Use%2520of%2520Force.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 646,
+    "filesize_mp3_bytes": 11198790,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

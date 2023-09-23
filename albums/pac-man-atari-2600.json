@@ -1,0 +1,62 @@
+{
+  "title": "Pac-Man (Atari 2600)",
+  "titles_alternative": [
+    "\u30d1\u30c3\u30af\u30de\u30f3"
+  ],
+  "crawled_at": "2023-09-23T17:27:17.485175+00:00",
+  "slug": "pac-man-atari-2600",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-atari-2600",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/pac-man-atari-2600/20097-pac-man-atari-2600-front-cover.png"
+  ],
+  "year": 1982,
+  "date_added": "2020-01-26T00:00:00+00:00",
+  "developers": {
+    "Atari": "https://downloads.khinsider.com/game-soundtracks/developer/atari"
+  },
+  "publishers": {
+    "Atari": "https://downloads.khinsider.com/game-soundtracks/publisher/atari"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 1,
+      "title": "Game Start",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-man-atari-2600/aoqijtgqvf/01%20-%20Game%20Start.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-atari-2600/01%2520-%2520Game%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 2,
+      "title": "Power Pellet",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-man-atari-2600/gkgolfpurp/02%20-%20Power%20Pellet.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-atari-2600/02%2520-%2520Power%2520Pellet.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 3,
+      "title": "Death",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-man-atari-2600/vbmvzygjgu/03%20-%20Death.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-atari-2600/03%2520-%2520Death.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 6,
+    "filesize_mp3_bytes": 115342,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "title": "Operation Harrier",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T16:41:47.036387+00:00",
+  "slug": "operation-harrier-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/operation-harrier-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/operation-harrier-amiga/Operation%20Harrier.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2019-06-10T00:00:00+00:00",
+  "developers": {
+    "Creative Materials": "https://downloads.khinsider.com/game-soundtracks/developer/creative-materials"
+  },
+  "publishers": {
+    "U.S. Gold": "https://downloads.khinsider.com/game-soundtracks/publisher/u.s.-gold"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4194304,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 156,
+      "source_mp3": "https://vgmsite.com/soundtracks/operation-harrier-amiga/azjvylipvw/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/operation-harrier-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3292528,
+      "track_number": 2,
+      "title": "Weapon Selection",
+      "runtime": 125,
+      "source_mp3": "https://vgmsite.com/soundtracks/operation-harrier-amiga/skvfzhqtvf/02_Weapon%20Selection.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/operation-harrier-amiga/02_Weapon%2520Selection.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1101004,
+      "track_number": 3,
+      "title": "Take Off",
+      "runtime": 42,
+      "source_mp3": "https://vgmsite.com/soundtracks/operation-harrier-amiga/zxxntqsrai/03_Take%20Off.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/operation-harrier-amiga/03_Take%2520Off.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 4,
+      "title": "Promotion",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/operation-harrier-amiga/uzkztdhopq/04_Promotion.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/operation-harrier-amiga/04_Promotion.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 5,
+      "title": "Ditched",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/operation-harrier-amiga/uyvspwmpss/05_Ditched.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/operation-harrier-amiga/05_Ditched.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 6,
+      "title": "Game Over",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/operation-harrier-amiga/yyhinolpje/06_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/operation-harrier-amiga/06_Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 341,
+    "filesize_mp3_bytes": 9007264,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

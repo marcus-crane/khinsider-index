@@ -1,0 +1,93 @@
+{
+  "title": "Outer Ridge",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T17:06:51.552809+00:00",
+  "slug": "outer-ridge-ms-dos",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/outer-ridge-ms-dos",
+  "platforms": {
+    "MS-DOS": "https://downloads.khinsider.com/game-soundtracks/ms-dos"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/outer-ridge-ms-dos/coverart.jpg"
+  ],
+  "year": 1994,
+  "date_added": "2017-06-28T00:00:00+00:00",
+  "developers": {
+    "GraphicWares": "https://downloads.khinsider.com/game-soundtracks/developer/graphicwares"
+  },
+  "publishers": {
+    "Ticsoft": "https://downloads.khinsider.com/game-soundtracks/publisher/ticsoft",
+    "Wizard Software": "https://downloads.khinsider.com/game-soundtracks/publisher/wizard-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5924454,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 205,
+      "source_mp3": "https://vgmsite.com/soundtracks/outer-ridge-ms-dos/bcabyqcv/01_Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/outer-ridge-ms-dos/01_Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6291456,
+      "track_number": 2,
+      "title": "Music 1",
+      "runtime": 219,
+      "source_mp3": "https://vgmsite.com/soundtracks/outer-ridge-ms-dos/kunuirld/02_Music%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/outer-ridge-ms-dos/02_Music%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7885291,
+      "track_number": 3,
+      "title": "Music 2",
+      "runtime": 255,
+      "source_mp3": "https://vgmsite.com/soundtracks/outer-ridge-ms-dos/ixvrgmdl/03_Music%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/outer-ridge-ms-dos/03_Music%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8503951,
+      "track_number": 4,
+      "title": "Music 3",
+      "runtime": 303,
+      "source_mp3": "https://vgmsite.com/soundtracks/outer-ridge-ms-dos/atlikjyl/04_Music%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/outer-ridge-ms-dos/04_Music%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6385827,
+      "track_number": 5,
+      "title": "Music 4",
+      "runtime": 212,
+      "source_mp3": "https://vgmsite.com/soundtracks/outer-ridge-ms-dos/pufihdjp/05_Music%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/outer-ridge-ms-dos/05_Music%25204.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4278190,
+      "track_number": 6,
+      "title": "High Score",
+      "runtime": 145,
+      "source_mp3": "https://vgmsite.com/soundtracks/outer-ridge-ms-dos/dteddakq/06_High%20Score.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/outer-ridge-ms-dos/06_High%2520Score.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1339,
+    "filesize_mp3_bytes": 39269169,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

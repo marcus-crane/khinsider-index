@@ -1,0 +1,54 @@
+{
+  "title": "Phineas and Ferb (Java)",
+  "titles_alternative": [
+    "Phineas and Ferb: Battle of the Robot King"
+  ],
+  "crawled_at": "2023-09-23T19:30:05.158333+00:00",
+  "slug": "phineas-and-ferb-java-mobile-gamerip-2010",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/phineas-and-ferb-java-mobile-gamerip-2010",
+  "platforms": {
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/phineas-and-ferb-java-mobile-gamerip-2010/Screenshot_31.png"
+  ],
+  "year": 2010,
+  "date_added": "2022-09-12T00:00:00+00:00",
+  "developers": {
+    "Disney Interactive Studios": "https://downloads.khinsider.com/game-soundtracks/developer/disney-interactive-studios"
+  },
+  "publishers": {
+    "Disney Interactive Studios": "https://downloads.khinsider.com/game-soundtracks/publisher/disney-interactive-studios"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 367001,
+      "track_number": 1,
+      "title": "In-Game Theme",
+      "runtime": 28,
+      "source_mp3": "https://vgmsite.com/soundtracks/phineas-and-ferb-java-mobile-gamerip-2010/fqcjtupefx/01%20In-Game%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/phineas-and-ferb-java-mobile-gamerip-2010/01%2520In-Game%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 492830,
+      "track_number": 2,
+      "title": "Main Theme",
+      "runtime": 37,
+      "source_mp3": "https://vgmsite.com/soundtracks/phineas-and-ferb-java-mobile-gamerip-2010/dhntmsaetp/02%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/phineas-and-ferb-java-mobile-gamerip-2010/02%2520Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 65,
+    "filesize_mp3_bytes": 859831,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

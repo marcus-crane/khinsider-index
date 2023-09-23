@@ -1,0 +1,78 @@
+{
+  "title": "Pac-Mania",
+  "titles_alternative": [
+    "\u30d1\u30c3\u30af\u30de\u30cb\u30a2"
+  ],
+  "crawled_at": "2023-09-23T17:33:43.989588+00:00",
+  "slug": "pac-mania-msx",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pac-mania-msx",
+  "platforms": {
+    "MSX": "https://downloads.khinsider.com/game-soundtracks/msx"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pac-mania-msx/185765-pac-mania-msx-front-cover.jpg"
+  ],
+  "year": 1988,
+  "date_added": "2022-06-01T00:00:00+00:00",
+  "developers": {
+    "Namco Limited": "https://downloads.khinsider.com/game-soundtracks/developer/namco-limited"
+  },
+  "publishers": {
+    "Grandslam Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/grandslam-entertainment"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 178257,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 1,
+      "title": "Game Start",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-mania-msx/prbtwlmgav/01%20Game%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pac-mania-msx/prbtwlmgav/01%20Game%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-mania-msx/01%2520Game%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8000634,
+      "filesize_mp3_bytes": 3418357,
+      "track_number": 2,
+      "title": "Block Town",
+      "runtime": 152,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-mania-msx/hvulsyqeav/02%20Block%20Town.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pac-mania-msx/hvulsyqeav/02%20Block%20Town.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-mania-msx/02%2520Block%2520Town.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6144655,
+      "filesize_mp3_bytes": 3061841,
+      "track_number": 3,
+      "title": "Pac-Theatre",
+      "runtime": 121,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-mania-msx/pnrgefrbuj/03%20Pac-Theatre.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pac-mania-msx/pnrgefrbuj/03%20Pac-Theatre.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-mania-msx/03%2520Pac-Theatre.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4508876,
+      "filesize_mp3_bytes": 2589982,
+      "track_number": 4,
+      "title": "Jungly Steps",
+      "runtime": 105,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-mania-msx/kobeatrkrv/04%20Jungly%20Steps.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pac-mania-msx/kobeatrkrv/04%20Jungly%20Steps.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-mania-msx/04%2520Jungly%2520Steps.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 382,
+    "filesize_mp3_bytes": 9143580,
+    "filesize_flac_bytes": 18832422,
+    "tracks": 4
+  }
+}

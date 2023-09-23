@@ -1,0 +1,75 @@
+{
+  "title": "Passing by/SWAY",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T18:23:56.737628+00:00",
+  "slug": "passing-by-sway-2006",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/passing-by-sway-2006",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/passing-by-sway-2006/Back.jpg"
+  ],
+  "year": 2006,
+  "catalog_number": "KMCD-0000",
+  "date_added": "2023-08-15T00:00:00+00:00",
+  "developers": {
+    "KAZAHA": "https://downloads.khinsider.com/game-soundtracks/developer/kazaha",
+    "MintJam": "https://downloads.khinsider.com/game-soundtracks/developer/mintjam",
+    "TERRA": "https://downloads.khinsider.com/game-soundtracks/developer/terra"
+  },
+  "publishers": {},
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 26728202,
+      "filesize_mp3_bytes": 7340032,
+      "track_number": 1,
+      "title": "Passing by",
+      "runtime": 212,
+      "source_mp3": "https://vgmsite.com/soundtracks/passing-by-sway-2006/uvczmhjmtz/01.%20Passing%20by.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/passing-by-sway-2006/uvczmhjmtz/01.%20Passing%20by.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/passing-by-sway-2006/01.%2520Passing%2520by.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 36532387,
+      "filesize_mp3_bytes": 9563013,
+      "track_number": 2,
+      "title": "SWAY",
+      "runtime": 286,
+      "source_mp3": "https://vgmsite.com/soundtracks/passing-by-sway-2006/jmhyzhnaep/02.%20SWAY.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/passing-by-sway-2006/jmhyzhnaep/02.%20SWAY.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/passing-by-sway-2006/02.%2520SWAY.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 26172456,
+      "filesize_mp3_bytes": 7549747,
+      "track_number": 3,
+      "title": "Passing by (backing track)",
+      "runtime": 212,
+      "source_mp3": "https://vgmsite.com/soundtracks/passing-by-sway-2006/plvqyzivjg/03.%20Passing%20by%20%28backing%20track%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/passing-by-sway-2006/plvqyzivjg/03.%20Passing%20by%20%28backing%20track%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/passing-by-sway-2006/03.%2520Passing%2520by%2520%2528backing%2520track%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 34089205,
+      "filesize_mp3_bytes": 9531555,
+      "track_number": 4,
+      "title": "SWAY (backing track)",
+      "runtime": 286,
+      "source_mp3": "https://vgmsite.com/soundtracks/passing-by-sway-2006/fqbwgjbcgv/04.%20SWAY%20%28backing%20track%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/passing-by-sway-2006/fqbwgjbcgv/04.%20SWAY%20%28backing%20track%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/passing-by-sway-2006/04.%2520SWAY%2520%2528backing%2520track%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 996,
+    "filesize_mp3_bytes": 33984347,
+    "filesize_flac_bytes": 123522250,
+    "tracks": 4
+  }
+}

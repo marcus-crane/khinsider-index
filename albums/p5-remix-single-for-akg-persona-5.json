@@ -1,0 +1,54 @@
+{
+  "title": "P5 Remix Single for AKG",
+  "titles_alternative": [
+    "Persona 5 Remix Single for AKG"
+  ],
+  "crawled_at": "2023-09-23T17:22:24.056936+00:00",
+  "slug": "p5-remix-single-for-akg-persona-5",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/p5-remix-single-for-akg-persona-5",
+  "platforms": {
+    "PS3": "https://downloads.khinsider.com/game-soundtracks/playstation-3",
+    "PS4": "https://downloads.khinsider.com/game-soundtracks/playstation-4"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/p5-remix-single-for-akg-persona-5/coverart.jpg"
+  ],
+  "year": 2016,
+  "catalog_number": "EBCD-0069",
+  "date_added": "2019-03-10T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "KADOKAWA CORPORATION": "https://downloads.khinsider.com/game-soundtracks/publisher/kadokawa-corporation"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10422845,
+      "track_number": 1,
+      "title": "Keeper Of Lust (Ultra-Cool Guitar Mix For AKG)",
+      "runtime": 251,
+      "source_mp3": "https://vgmsite.com/soundtracks/p5-remix-single-for-akg-persona-5/nkcozydy/01%20Keeper%20Of%20Lust%20%28Ultra-Cool%20Guitar%20Mix%20For%20AKG%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/p5-remix-single-for-akg-persona-5/01%2520Keeper%2520Of%2520Lust%2520%2528Ultra-Cool%2520Guitar%2520Mix%2520For%2520AKG%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 12656312,
+      "track_number": 2,
+      "title": "Sunset Bridge (Very Comfortable Mix For AKG)",
+      "runtime": 307,
+      "source_mp3": "https://vgmsite.com/soundtracks/p5-remix-single-for-akg-persona-5/dwesqzia/02%20Sunset%20Bridge%20%28Very%20Comfortable%20Mix%20For%20AKG%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/p5-remix-single-for-akg-persona-5/02%2520Sunset%2520Bridge%2520%2528Very%2520Comfortable%2520Mix%2520For%2520AKG%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 558,
+    "filesize_mp3_bytes": 23079157,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

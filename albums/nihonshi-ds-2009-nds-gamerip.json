@@ -1,0 +1,56 @@
+{
+  "title": "Nihonshi DS",
+  "titles_alternative": [
+    "\u65e5\u672c\u53f2DS"
+  ],
+  "crawled_at": "2023-09-23T15:06:19.298928+00:00",
+  "slug": "nihonshi-ds-2009-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/nihonshi-ds-2009-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/nihonshi-ds-2009-nds-gamerip/Nihonshi%20DS.jpg"
+  ],
+  "year": 2009,
+  "date_added": "2020-06-18T00:00:00+00:00",
+  "developers": {
+    "Mechanic Arms": "https://downloads.khinsider.com/game-soundtracks/developer/mechanic-arms"
+  },
+  "publishers": {
+    "IE Institute": "https://downloads.khinsider.com/game-soundtracks/publisher/ie-institute"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7832862,
+      "filesize_mp3_bytes": 2789212,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 105,
+      "source_mp3": "https://vgmsite.com/soundtracks/nihonshi-ds-2009-nds-gamerip/gevydxzabx/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nihonshi-ds-2009-nds-gamerip/gevydxzabx/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nihonshi-ds-2009-nds-gamerip/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8650752,
+      "filesize_mp3_bytes": 3250585,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 108,
+      "source_mp3": "https://vgmsite.com/soundtracks/nihonshi-ds-2009-nds-gamerip/kzuyipatql/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nihonshi-ds-2009-nds-gamerip/kzuyipatql/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nihonshi-ds-2009-nds-gamerip/02.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 213,
+    "filesize_mp3_bytes": 6039797,
+    "filesize_flac_bytes": 16483614,
+    "tracks": 2
+  }
+}

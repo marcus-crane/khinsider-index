@@ -1,0 +1,78 @@
+{
+  "title": "Nidhogg Original Soundtrack",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T14:55:52.676793+00:00",
+  "slug": "nidhogg-original-soundtrack",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/nidhogg-original-soundtrack",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/nidhogg-original-soundtrack/Nidhogg_OST.png"
+  ],
+  "year": 2014,
+  "date_added": "2023-03-19T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Steam": "https://downloads.khinsider.com/game-soundtracks/publisher/steam"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5117050,
+      "track_number": 1,
+      "title": "Mines",
+      "runtime": 127,
+      "source_mp3": "https://vgmsite.com/soundtracks/nidhogg-original-soundtrack/uhtrxksuaa/01.%20Mines.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nidhogg-original-soundtrack/01.%2520Mines.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6280970,
+      "track_number": 2,
+      "title": "Clouds",
+      "runtime": 156,
+      "source_mp3": "https://vgmsite.com/soundtracks/nidhogg-original-soundtrack/vbolcozadi/02.%20Clouds.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nidhogg-original-soundtrack/02.%2520Clouds.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5913968,
+      "track_number": 3,
+      "title": "Wilds",
+      "runtime": 147,
+      "source_mp3": "https://vgmsite.com/soundtracks/nidhogg-original-soundtrack/msufwqrbwi/03.%20Wilds.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nidhogg-original-soundtrack/03.%2520Wilds.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7350517,
+      "track_number": 4,
+      "title": "Castle",
+      "runtime": 183,
+      "source_mp3": "https://vgmsite.com/soundtracks/nidhogg-original-soundtrack/xuwqdlmact/04.%20Castle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nidhogg-original-soundtrack/04.%2520Castle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6721372,
+      "track_number": 5,
+      "title": "Fields",
+      "runtime": 168,
+      "source_mp3": "https://vgmsite.com/soundtracks/nidhogg-original-soundtrack/votpbkwthp/05.%20Fields.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nidhogg-original-soundtrack/05.%2520Fields.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 781,
+    "filesize_mp3_bytes": 31383877,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "title": "Niko^2",
+  "titles_alternative": [
+    "Niko\u00b2",
+    "\u30cb\u30b3\u30cb\u30b3"
+  ],
+  "crawled_at": "2023-09-23T15:07:23.216366+00:00",
+  "slug": "niko-2-x68000",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/niko-2-x68000",
+  "platforms": {
+    "X68000": "https://downloads.khinsider.com/game-soundtracks/x68000"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/niko-2-x68000/N1.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2016-06-24T00:00:00+00:00",
+  "developers": {
+    "Wolf Team": "https://downloads.khinsider.com/game-soundtracks/developer/wolf-team"
+  },
+  "publishers": {
+    "Wolf Team": "https://downloads.khinsider.com/game-soundtracks/publisher/wolf-team"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3701473,
+      "track_number": 1,
+      "title": "Opening",
+      "runtime": 125,
+      "source_mp3": "https://vgmsite.com/soundtracks/niko-2-x68000/elsgcypx/01_Opening.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/niko-2-x68000/01_Opening.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 230686,
+      "track_number": 2,
+      "title": "Start",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/niko-2-x68000/yffgfbjh/02_Start.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/niko-2-x68000/02_Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5043650,
+      "track_number": 3,
+      "title": "Main BGM",
+      "runtime": 141,
+      "source_mp3": "https://vgmsite.com/soundtracks/niko-2-x68000/cnfogbzs/03_Main%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/niko-2-x68000/03_Main%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 4,
+      "title": "Win!",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/niko-2-x68000/dvravela/04_Win%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/niko-2-x68000/04_Win%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 5,
+      "title": "Lost",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/niko-2-x68000/hgajiljw/05_Lost.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/niko-2-x68000/05_Lost.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 304087,
+      "track_number": 6,
+      "title": "Jingle",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/niko-2-x68000/uvxmmrky/06_Jingle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/niko-2-x68000/06_Jingle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5190451,
+      "track_number": 7,
+      "title": "Congratulations! ~ Staff Roll",
+      "runtime": 174,
+      "source_mp3": "https://vgmsite.com/soundtracks/niko-2-x68000/lcshmpfm/07_Congratulations%21%20~%20Staff%20Roll.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/niko-2-x68000/07_Congratulations%2521%2520~%2520Staff%2520Roll.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 167772,
+      "track_number": 8,
+      "title": "Game Over",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/niko-2-x68000/xvggcwrq/08_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/niko-2-x68000/08_Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4844421,
+      "track_number": 9,
+      "title": "Unused",
+      "runtime": 160,
+      "source_mp3": "https://vgmsite.com/soundtracks/niko-2-x68000/gabycemk/09_Unused.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/niko-2-x68000/09_Unused.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 632,
+    "filesize_mp3_bytes": 19734197,
+    "filesize_flac_bytes": 0,
+    "tracks": 9
+  }
+}

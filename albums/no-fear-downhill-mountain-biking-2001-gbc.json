@@ -1,0 +1,45 @@
+{
+  "title": "No Fear - Downhill Mountain Biking (GBC)",
+  "titles_alternative": [
+    "No Fear Downhill Mountain Bike Racing"
+  ],
+  "crawled_at": "2023-09-23T15:33:56.405600+00:00",
+  "slug": "no-fear-downhill-mountain-biking-2001-gbc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/no-fear-downhill-mountain-biking-2001-gbc",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/no-fear-downhill-mountain-biking-2001-gbc/No%20Fear%20-%20Downhill%20Mountain%20Biking%20%282001%29%20%28GBC%29.jpg"
+  ],
+  "year": 2001,
+  "date_added": "2022-05-25T00:00:00+00:00",
+  "developers": {
+    "Spellbound": "https://downloads.khinsider.com/game-soundtracks/developer/spellbound"
+  },
+  "publishers": {
+    "THQ": "https://downloads.khinsider.com/game-soundtracks/publisher/thq"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10181672,
+      "filesize_mp3_bytes": 4309647,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/no-fear-downhill-mountain-biking-2001-gbc/xedzcaivse/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/no-fear-downhill-mountain-biking-2001-gbc/xedzcaivse/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/no-fear-downhill-mountain-biking-2001-gbc/01%2520BGM%2520%252301.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 180,
+    "filesize_mp3_bytes": 4309647,
+    "filesize_flac_bytes": 10181672,
+    "tracks": 1
+  }
+}

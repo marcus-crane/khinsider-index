@@ -1,0 +1,74 @@
+{
+  "title": "Pac-Mania",
+  "titles_alternative": [
+    "\u30d1\u30c3\u30af\u30de\u30cb\u30a2"
+  ],
+  "crawled_at": "2023-09-23T17:33:32.365504+00:00",
+  "slug": "pac-mania-c64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pac-mania-c64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pac-mania-c64/99394-pac-mania-commodore-64-front-cover.jpg"
+  ],
+  "year": 1988,
+  "date_added": "2020-07-11T00:00:00+00:00",
+  "developers": {
+    "Teque Software": "https://downloads.khinsider.com/game-soundtracks/developer/teque-software"
+  },
+  "publishers": {
+    "Grandslam": "https://downloads.khinsider.com/game-soundtracks/publisher/grandslam"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1268776,
+      "track_number": 1,
+      "title": "Coffee Break - Cinematic (C64)",
+      "runtime": 17,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-mania-c64/lmkajevcrj/01%20Coffee%20Break%20-%20Cinematic%20%28C64%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-mania-c64/01%2520Coffee%2520Break%2520-%2520Cinematic%2520%2528C64%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3869245,
+      "track_number": 2,
+      "title": "Block Town - Sandbox Land (C64)",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-mania-c64/hgvbxuikyy/02%20Block%20Town%20-%20Sandbox%20Land%20%28C64%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-mania-c64/02%2520Block%2520Town%2520-%2520Sandbox%2520Land%2520%2528C64%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3166699,
+      "track_number": 3,
+      "title": "Pac-Man's Park (C64)",
+      "runtime": 136,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-mania-c64/znaoipcubt/03%20Pac-Man%27s%20Park%20%28C64%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-mania-c64/03%2520Pac-Man%2527s%2520Park%2520%2528C64%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2831155,
+      "track_number": 4,
+      "title": "Jungly Steps (C64)",
+      "runtime": 115,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-mania-c64/svzylhguyh/04%20Jungly%20Steps%20%28C64%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-mania-c64/04%2520Jungly%2520Steps%2520%2528C64%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 448,
+    "filesize_mp3_bytes": 11135875,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

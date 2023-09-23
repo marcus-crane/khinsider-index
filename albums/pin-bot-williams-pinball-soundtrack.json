@@ -1,0 +1,92 @@
+{
+  "title": "Pin-Bot (Williams Pinball)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T19:51:38.328349+00:00",
+  "slug": "pin-bot-williams-pinball-soundtrack",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pin-bot-williams-pinball-soundtrack",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pin-bot-williams-pinball-soundtrack/1796f1.jpg"
+  ],
+  "year": 1986,
+  "date_added": "2020-02-29T00:00:00+00:00",
+  "developers": {
+    "Williams": "https://downloads.khinsider.com/game-soundtracks/developer/williams"
+  },
+  "publishers": {
+    "Williams": "https://downloads.khinsider.com/game-soundtracks/publisher/williams"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10338959,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 258,
+      "source_mp3": "https://vgmsite.com/soundtracks/pin-bot-williams-pinball-soundtrack/hosqztdkai/01%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pin-bot-williams-pinball-soundtrack/01%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7266631,
+      "track_number": 2,
+      "title": "Visor Theme",
+      "runtime": 181,
+      "source_mp3": "https://vgmsite.com/soundtracks/pin-bot-williams-pinball-soundtrack/nimldvgneu/02%20Visor%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pin-bot-williams-pinball-soundtrack/02%2520Visor%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10894704,
+      "track_number": 3,
+      "title": "Linkup Theme",
+      "runtime": 272,
+      "source_mp3": "https://vgmsite.com/soundtracks/pin-bot-williams-pinball-soundtrack/oslptaohjk/03%20Linkup%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pin-bot-williams-pinball-soundtrack/03%2520Linkup%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 13075742,
+      "track_number": 4,
+      "title": "Multiball",
+      "runtime": 326,
+      "source_mp3": "https://vgmsite.com/soundtracks/pin-bot-williams-pinball-soundtrack/dgrmmybnun/04%20Multiball.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pin-bot-williams-pinball-soundtrack/04%2520Multiball.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5001707,
+      "track_number": 5,
+      "title": "Shoot For Solar Value!",
+      "runtime": 125,
+      "source_mp3": "https://vgmsite.com/soundtracks/pin-bot-williams-pinball-soundtrack/phmgolxbsa/05%20Shoot%20For%20Solar%20Value%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pin-bot-williams-pinball-soundtrack/05%2520Shoot%2520For%2520Solar%2520Value%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9248440,
+      "track_number": 6,
+      "title": "High Score Theme",
+      "runtime": 231,
+      "source_mp3": "https://vgmsite.com/soundtracks/pin-bot-williams-pinball-soundtrack/vaedrvmwvb/06%20High%20Score%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pin-bot-williams-pinball-soundtrack/06%2520High%2520Score%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1393,
+    "filesize_mp3_bytes": 55826183,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

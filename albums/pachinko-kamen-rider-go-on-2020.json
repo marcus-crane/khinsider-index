@@ -1,0 +1,58 @@
+{
+  "title": "Pachinko Kamen Rider Go-On",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T17:40:02.525618+00:00",
+  "slug": "pachinko-kamen-rider-go-on-2020",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pachinko-kamen-rider-go-on-2020",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/pachinko-kamen-rider-go-on-2020/296x296bb.jpg"
+  ],
+  "year": 2020,
+  "date_added": "2023-06-02T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Kyoraku Industrial Holdings Co.,Ltd": "https://downloads.khinsider.com/game-soundtracks/publisher/kyoraku-industrial-holdings"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3890216,
+      "track_number": 1,
+      "title": "GO ON! ~Gouon~",
+      "runtime": 240,
+      "source_mp3": "https://vgmsite.com/soundtracks/pachinko-kamen-rider-go-on-2020/dxexpauhru/01.%20GO%20ON%21%20~Gouon~.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pachinko-kamen-rider-go-on-2020/01.%2520GO%2520ON%2521%2520~Gouon~.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4445962,
+      "track_number": 2,
+      "title": "HEARTBEAT GRAVITY",
+      "runtime": 275,
+      "source_mp3": "https://vgmsite.com/soundtracks/pachinko-kamen-rider-go-on-2020/dzcbkvoxun/02.%20HEARTBEAT%20GRAVITY.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pachinko-kamen-rider-go-on-2020/02.%2520HEARTBEAT%2520GRAVITY.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3659530,
+      "track_number": 3,
+      "title": "Harukamirai",
+      "runtime": 226,
+      "source_mp3": "https://vgmsite.com/soundtracks/pachinko-kamen-rider-go-on-2020/brknmbjftw/03.%20Harukamirai.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pachinko-kamen-rider-go-on-2020/03.%2520Harukamirai.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 741,
+    "filesize_mp3_bytes": 11995708,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

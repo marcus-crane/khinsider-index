@@ -1,0 +1,114 @@
+{
+  "title": "Nicky Boom",
+  "titles_alternative": [
+    "Nicky Boum"
+  ],
+  "crawled_at": "2023-09-23T14:55:28.234498+00:00",
+  "slug": "nicky-boom-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/nicky-boom-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/nicky-boom-amiga/NB.png"
+  ],
+  "year": 1992,
+  "date_added": "2016-06-01T00:00:00+00:00",
+  "developers": {
+    "Microids": "https://downloads.khinsider.com/game-soundtracks/developer/microids"
+  },
+  "publishers": {
+    "Micro\u00efds": "https://downloads.khinsider.com/game-soundtracks/publisher/micro-ds"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3303014,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 119,
+      "source_mp3": "https://vgmsite.com/soundtracks/nicky-boom-amiga/uyhblnnx/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nicky-boom-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 12960399,
+      "track_number": 2,
+      "title": "World 1",
+      "runtime": 444,
+      "source_mp3": "https://vgmsite.com/soundtracks/nicky-boom-amiga/kmsqsqcg/02_World%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nicky-boom-amiga/02_World%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1478492,
+      "track_number": 3,
+      "title": "Boss Theme",
+      "runtime": 52,
+      "source_mp3": "https://vgmsite.com/soundtracks/nicky-boom-amiga/mpmyggss/03_Boss%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nicky-boom-amiga/03_Boss%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9395240,
+      "track_number": 4,
+      "title": "World 2",
+      "runtime": 337,
+      "source_mp3": "https://vgmsite.com/soundtracks/nicky-boom-amiga/cdimtykz/04_World%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nicky-boom-amiga/04_World%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10317987,
+      "track_number": 5,
+      "title": "World 3",
+      "runtime": 355,
+      "source_mp3": "https://vgmsite.com/soundtracks/nicky-boom-amiga/lvfgwurw/05_World%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nicky-boom-amiga/05_World%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5976883,
+      "track_number": 6,
+      "title": "World 4",
+      "runtime": 210,
+      "source_mp3": "https://vgmsite.com/soundtracks/nicky-boom-amiga/hnrggvnc/06_World%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nicky-boom-amiga/06_World%25204.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4026531,
+      "track_number": 7,
+      "title": "Ending",
+      "runtime": 138,
+      "source_mp3": "https://vgmsite.com/soundtracks/nicky-boom-amiga/fdzwshwh/07_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nicky-boom-amiga/07_Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3365928,
+      "track_number": 8,
+      "title": "Game Over",
+      "runtime": 118,
+      "source_mp3": "https://vgmsite.com/soundtracks/nicky-boom-amiga/ffrmcdxa/08_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nicky-boom-amiga/08_Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1773,
+    "filesize_mp3_bytes": 50824474,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

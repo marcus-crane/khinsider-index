@@ -1,0 +1,63 @@
+{
+  "title": "Night Shift",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T14:58:00.440995+00:00",
+  "slug": "night-shift-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/night-shift-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/night-shift-amiga/Night%20Shift%20%28Amiga%29%20%28gamerip%29%20%281990%29.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2018-03-18T00:00:00+00:00",
+  "developers": {
+    "Attention to Detail": "https://downloads.khinsider.com/game-soundtracks/developer/attention-to-detail"
+  },
+  "publishers": {
+    "Lucasfilm Games": "https://downloads.khinsider.com/game-soundtracks/publisher/lucasfilm-games",
+    "U.S. Gold": "https://downloads.khinsider.com/game-soundtracks/publisher/u.s.-gold"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3051356,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 99,
+      "source_mp3": "https://vgmsite.com/soundtracks/night-shift-amiga/mlcpjmhc/01_Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/night-shift-amiga/01_Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 734003,
+      "track_number": 2,
+      "title": "In-Game BGM",
+      "runtime": 24,
+      "source_mp3": "https://vgmsite.com/soundtracks/night-shift-amiga/vshfcrys/02_In-Game%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/night-shift-amiga/02_In-Game%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1363148,
+      "track_number": 3,
+      "title": "Unknown",
+      "runtime": 44,
+      "source_mp3": "https://vgmsite.com/soundtracks/night-shift-amiga/wfhudxne/03_Unknown.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/night-shift-amiga/03_Unknown.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 167,
+    "filesize_mp3_bytes": 5148507,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

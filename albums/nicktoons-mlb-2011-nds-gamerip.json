@@ -1,0 +1,43 @@
+{
+  "title": "Nicktoons MLB",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T14:54:48.571664+00:00",
+  "slug": "nicktoons-mlb-2011-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/nicktoons-mlb-2011-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/nicktoons-mlb-2011-nds-gamerip/Nicktoons%20MLB.jpg"
+  ],
+  "year": 2011,
+  "date_added": "2020-06-18T00:00:00+00:00",
+  "developers": {
+    "Black Lantern": "https://downloads.khinsider.com/game-soundtracks/developer/black-lantern"
+  },
+  "publishers": {
+    "2K": "https://downloads.khinsider.com/game-soundtracks/publisher/2k"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6627000,
+      "filesize_mp3_bytes": 2684354,
+      "track_number": 1,
+      "title": "Menu",
+      "runtime": 77,
+      "source_mp3": "https://vgmsite.com/soundtracks/nicktoons-mlb-2011-nds-gamerip/tounjabcmm/01%20-%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nicktoons-mlb-2011-nds-gamerip/tounjabcmm/01%20-%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nicktoons-mlb-2011-nds-gamerip/01%2520-%2520Menu.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 77,
+    "filesize_mp3_bytes": 2684354,
+    "filesize_flac_bytes": 6627000,
+    "tracks": 1
+  }
+}

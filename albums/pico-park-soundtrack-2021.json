@@ -1,0 +1,85 @@
+{
+  "title": "PICO PARK Soundtrack",
+  "titles_alternative": [
+    "Picollecitta"
+  ],
+  "crawled_at": "2023-09-23T19:37:35.162611+00:00",
+  "slug": "pico-park-soundtrack-2021",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pico-park-soundtrack-2021",
+  "platforms": {
+    "Switch": "https://downloads.khinsider.com/game-soundtracks/nintendo-switch",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pico-park-soundtrack-2021/cover.png"
+  ],
+  "year": 2021,
+  "catalog_number": null,
+  "date_added": "2023-01-01T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "TADOSUKE": "https://downloads.khinsider.com/game-soundtracks/publisher/tadosuke",
+    "TECOPARK": "https://downloads.khinsider.com/game-soundtracks/publisher/tecopark"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2306867,
+      "track_number": 1,
+      "title": "Spring",
+      "runtime": 144,
+      "source_mp3": "https://vgmsite.com/soundtracks/pico-park-soundtrack-2021/zqnfgymqky/01%20-%20Spring.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pico-park-soundtrack-2021/01%2520-%2520Spring.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 880803,
+      "track_number": 2,
+      "title": "Bounds",
+      "runtime": 55,
+      "source_mp3": "https://vgmsite.com/soundtracks/pico-park-soundtrack-2021/rcatryfgyw/02%20-%20Bounds.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pico-park-soundtrack-2021/02%2520-%2520Bounds.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 660602,
+      "track_number": 3,
+      "title": "Doremi",
+      "runtime": 41,
+      "source_mp3": "https://vgmsite.com/soundtracks/pico-park-soundtrack-2021/qslnhangjn/03%20-%20Doremi.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pico-park-soundtrack-2021/03%2520-%2520Doremi.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 555745,
+      "track_number": 4,
+      "title": "Hands",
+      "runtime": 34,
+      "source_mp3": "https://vgmsite.com/soundtracks/pico-park-soundtrack-2021/tjtkasdgbj/04%20-%20Hands.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pico-park-soundtrack-2021/04%2520-%2520Hands.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2076180,
+      "track_number": 5,
+      "title": "Flying",
+      "runtime": 130,
+      "source_mp3": "https://vgmsite.com/soundtracks/pico-park-soundtrack-2021/mcbtieywwn/05%20-%20Flying.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pico-park-soundtrack-2021/05%2520-%2520Flying.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 404,
+    "filesize_mp3_bytes": 6480197,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

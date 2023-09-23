@@ -1,0 +1,48 @@
+{
+  "title": "Penguin-kun Wars",
+  "titles_alternative": [
+    "\u307a\u3093\u304e\u3093\u304f\u3093WARS"
+  ],
+  "crawled_at": "2023-09-23T18:36:07.495997+00:00",
+  "slug": "penguin-kun-wars-1985-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/penguin-kun-wars-1985-nes",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/penguin-kun-wars-1985-nes/P1.png"
+  ],
+  "year": 1985,
+  "date_added": "2022-05-30T00:00:00+00:00",
+  "developers": {
+    "Home Data": "https://downloads.khinsider.com/game-soundtracks/developer/home-data",
+    "Pax Softnica": "https://downloads.khinsider.com/game-soundtracks/developer/pax-softnica",
+    "UPL": "https://downloads.khinsider.com/game-soundtracks/developer/upl"
+  },
+  "publishers": {
+    "ASCII": "https://downloads.khinsider.com/game-soundtracks/publisher/ascii"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3282042,
+      "filesize_mp3_bytes": 1069547,
+      "track_number": 1,
+      "title": "Main BGM",
+      "runtime": 62,
+      "source_mp3": "https://vgmsite.com/soundtracks/penguin-kun-wars-1985-nes/txmdzghbsf/01.%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/penguin-kun-wars-1985-nes/txmdzghbsf/01.%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/penguin-kun-wars-1985-nes/01.%2520Main%2520BGM.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 62,
+    "filesize_mp3_bytes": 1069547,
+    "filesize_flac_bytes": 3282042,
+    "tracks": 1
+  }
+}

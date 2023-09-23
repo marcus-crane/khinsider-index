@@ -1,0 +1,44 @@
+{
+  "title": "Novastorm (SCD)",
+  "titles_alternative": [
+    "\u30ce\u30d0\u30b9\u30c8\u30fc\u30e0"
+  ],
+  "crawled_at": "2023-09-23T15:55:46.948195+00:00",
+  "slug": "novastorm-scd-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/novastorm-scd-gamerip",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/novastorm-scd-gamerip/N1.jpg"
+  ],
+  "year": 1994,
+  "date_added": "2017-07-12T00:00:00+00:00",
+  "developers": {
+    "Psygnosis": "https://downloads.khinsider.com/game-soundtracks/developer/psygnosis"
+  },
+  "publishers": {
+    "Psygnosis": "https://downloads.khinsider.com/game-soundtracks/publisher/psygnosis",
+    "Sony": "https://downloads.khinsider.com/game-soundtracks/publisher/sony"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4550819,
+      "title": "Track 01",
+      "runtime": 184,
+      "source_mp3": "https://vgmsite.com/soundtracks/novastorm-scd-gamerip/rkkekpwh/Track%2001.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/novastorm-scd-gamerip/Track%252001.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 184,
+    "filesize_mp3_bytes": 4550819,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

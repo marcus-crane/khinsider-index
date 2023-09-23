@@ -1,0 +1,67 @@
+{
+  "title": "Neo Geo Pocket Color BIOS",
+  "titles_alternative": [
+    "\u30cd\u30aa\u30b8\u30aa\u30dd\u30b1\u30c3\u30c8\u30ab\u30e9\u30fc"
+  ],
+  "crawled_at": "2023-09-23T14:18:24.049529+00:00",
+  "slug": "neo-geo-pocket-color-bios-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/neo-geo-pocket-color-bios-gamerip",
+  "platforms": {
+    "Neo Geo": "https://downloads.khinsider.com/game-soundtracks/neo-geo"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/neo-geo-pocket-color-bios-gamerip/Neo%20Geo%20Pocket%20BIOS%20Startup.png"
+  ],
+  "year": 1998,
+  "date_added": "2021-09-13T00:00:00+00:00",
+  "developers": {
+    "SNK": "https://downloads.khinsider.com/game-soundtracks/developer/snk"
+  },
+  "publishers": {
+    "SNK": "https://downloads.khinsider.com/game-soundtracks/publisher/snk"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1488977,
+      "filesize_mp3_bytes": 262144,
+      "track_number": 1,
+      "title": "Startup",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/neo-geo-pocket-color-bios-gamerip/wbdgajqbhw/01.%20Startup.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/neo-geo-pocket-color-bios-gamerip/wbdgajqbhw/01.%20Startup.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/neo-geo-pocket-color-bios-gamerip/01.%2520Startup.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 18958254,
+      "filesize_mp3_bytes": 3208642,
+      "track_number": 2,
+      "title": "Main Menu",
+      "runtime": 94,
+      "source_mp3": "https://vgmsite.com/soundtracks/neo-geo-pocket-color-bios-gamerip/kxmjawissj/02.%20Main%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/neo-geo-pocket-color-bios-gamerip/kxmjawissj/02.%20Main%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/neo-geo-pocket-color-bios-gamerip/02.%2520Main%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 157286,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 3,
+      "title": "Battery Dead",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/neo-geo-pocket-color-bios-gamerip/hidtaxrbil/03.%20Battery%20Dead.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/neo-geo-pocket-color-bios-gamerip/hidtaxrbil/03.%20Battery%20Dead.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/neo-geo-pocket-color-bios-gamerip/03.%2520Battery%2520Dead.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 102,
+    "filesize_mp3_bytes": 3512729,
+    "filesize_flac_bytes": 20604517,
+    "tracks": 3
+  }
+}

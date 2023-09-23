@@ -1,0 +1,85 @@
+{
+  "title": "Nintendo GameCube System Soundtrack",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T15:21:15.938921+00:00",
+  "slug": "nintendo-gamecube-system-soundtrack-gc-gamerip-2001",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/nintendo-gamecube-system-soundtrack-gc-gamerip-2001",
+  "platforms": {
+    "GC": "https://downloads.khinsider.com/game-soundtracks/nintendo-gamecube"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/nintendo-gamecube-system-soundtrack-gc-gamerip-2001/cover.png"
+  ],
+  "year": 2001,
+  "date_added": "2023-01-18T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 576716,
+      "filesize_mp3_bytes": 230686,
+      "track_number": 1,
+      "title": "Startup Sound (Standard)",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/nintendo-gamecube-system-soundtrack-gc-gamerip-2001/lkidtlisnn/1.%20Startup%20Sound%20%28Standard%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nintendo-gamecube-system-soundtrack-gc-gamerip-2001/lkidtlisnn/1.%20Startup%20Sound%20%28Standard%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nintendo-gamecube-system-soundtrack-gc-gamerip-2001/1.%2520Startup%2520Sound%2520%2528Standard%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 639631,
+      "filesize_mp3_bytes": 241172,
+      "track_number": 2,
+      "title": "Startup Sound (Whimsical)",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/nintendo-gamecube-system-soundtrack-gc-gamerip-2001/ajxgthyiqp/2.%20Startup%20Sound%20%28Whimsical%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nintendo-gamecube-system-soundtrack-gc-gamerip-2001/ajxgthyiqp/2.%20Startup%20Sound%20%28Whimsical%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nintendo-gamecube-system-soundtrack-gc-gamerip-2001/2.%2520Startup%2520Sound%2520%2528Whimsical%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 650117,
+      "filesize_mp3_bytes": 241172,
+      "track_number": 3,
+      "title": "Startup Sound (Kabuki)",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/nintendo-gamecube-system-soundtrack-gc-gamerip-2001/sfmktbddri/3.%20Startup%20Sound%20%28Kabuki%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nintendo-gamecube-system-soundtrack-gc-gamerip-2001/sfmktbddri/3.%20Startup%20Sound%20%28Kabuki%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nintendo-gamecube-system-soundtrack-gc-gamerip-2001/3.%2520Startup%2520Sound%2520%2528Kabuki%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9709813,
+      "filesize_mp3_bytes": 6207569,
+      "track_number": 4,
+      "title": "Main Menu (Version A)",
+      "runtime": 245,
+      "source_mp3": "https://vgmsite.com/soundtracks/nintendo-gamecube-system-soundtrack-gc-gamerip-2001/udnyxzfrmt/4.%20Main%20Menu%20%28Version%20A%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nintendo-gamecube-system-soundtrack-gc-gamerip-2001/udnyxzfrmt/4.%20Main%20Menu%20%28Version%20A%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nintendo-gamecube-system-soundtrack-gc-gamerip-2001/4.%2520Main%2520Menu%2520%2528Version%2520A%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10527703,
+      "filesize_mp3_bytes": 6113198,
+      "track_number": 5,
+      "title": "Main Menu (Version B)",
+      "runtime": 237,
+      "source_mp3": "https://vgmsite.com/soundtracks/nintendo-gamecube-system-soundtrack-gc-gamerip-2001/ocpfzcncrk/5.%20Main%20Menu%20%28Version%20B%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nintendo-gamecube-system-soundtrack-gc-gamerip-2001/ocpfzcncrk/5.%20Main%20Menu%20%28Version%20B%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nintendo-gamecube-system-soundtrack-gc-gamerip-2001/5.%2520Main%2520Menu%2520%2528Version%2520B%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 498,
+    "filesize_mp3_bytes": 13033797,
+    "filesize_flac_bytes": 22103980,
+    "tracks": 5
+  }
+}

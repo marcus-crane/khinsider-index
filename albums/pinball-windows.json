@@ -1,0 +1,46 @@
+{
+  "title": "Pinball",
+  "titles_alternative": [
+    "Full Tilt! Pinball",
+    "3D Pinball: Space Cadet"
+  ],
+  "crawled_at": "2023-09-23T19:54:09.905315+00:00",
+  "slug": "pinball-windows",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pinball-windows",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pinball-windows/3D_Pinball-_Space_Cadet-title.png"
+  ],
+  "year": 1995,
+  "date_added": "2018-07-14T00:00:00+00:00",
+  "developers": {
+    "Cinematronics": "https://downloads.khinsider.com/game-soundtracks/developer/cinematronics",
+    "LLC": "https://downloads.khinsider.com/game-soundtracks/developer/llc"
+  },
+  "publishers": {
+    "Maxis": "https://downloads.khinsider.com/game-soundtracks/publisher/maxis"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 26864517,
+      "track_number": 1,
+      "title": "Jerry Schroeder - Pinball Theme",
+      "runtime": 1067,
+      "source_mp3": "https://vgmsite.com/soundtracks/pinball-windows/gmdofgxf/001%20-%20Jerry%20Schroeder%20-%20Pinball%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pinball-windows/001%2520-%2520Jerry%2520Schroeder%2520-%2520Pinball%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1067,
+    "filesize_mp3_bytes": 26864517,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "title": "Paradroid 90",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T18:12:33.058594+00:00",
+  "slug": "paradroid-90-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/paradroid-90-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/paradroid-90-amiga/P1.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2016-05-01T00:00:00+00:00",
+  "developers": {
+    "Graftgold": "https://downloads.khinsider.com/game-soundtracks/developer/graftgold"
+  },
+  "publishers": {
+    "Hewson Consultants": "https://downloads.khinsider.com/game-soundtracks/publisher/hewson-consultants"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5389680,
+      "track_number": 1,
+      "title": "Loading Theme",
+      "runtime": 164,
+      "source_mp3": "https://vgmsite.com/soundtracks/paradroid-90-amiga/pbtuxhue/01_Loading%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/paradroid-90-amiga/01_Loading%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6752829,
+      "track_number": 2,
+      "title": "Title Screen",
+      "runtime": 217,
+      "source_mp3": "https://vgmsite.com/soundtracks/paradroid-90-amiga/tcaxjqdd/02_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/paradroid-90-amiga/02_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 817889,
+      "track_number": 3,
+      "title": "Get Ready! (In-Game Loading Theme)",
+      "runtime": 23,
+      "source_mp3": "https://vgmsite.com/soundtracks/paradroid-90-amiga/yqqklpeu/03_Get%20Ready%21%20%28In-Game%20Loading%20Theme%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/paradroid-90-amiga/03_Get%2520Ready%2521%2520%2528In-Game%2520Loading%2520Theme%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 796917,
+      "track_number": 4,
+      "title": "BGM #1",
+      "runtime": 23,
+      "source_mp3": "https://vgmsite.com/soundtracks/paradroid-90-amiga/mjipzyzw/04_BGM%20%231.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/paradroid-90-amiga/04_BGM%2520%25231.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1908408,
+      "track_number": 5,
+      "title": "High Score",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/paradroid-90-amiga/jrbsggyi/05_High%20Score.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/paradroid-90-amiga/05_High%2520Score.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 209715,
+      "track_number": 6,
+      "title": "Jingle #1",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/paradroid-90-amiga/oztuxzjr/06_Jingle%20%231.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/paradroid-90-amiga/06_Jingle%2520%25231.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 499,
+    "filesize_mp3_bytes": 15875438,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "title": "Nintendo World Championships 1990",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T15:28:36.820654+00:00",
+  "slug": "nintendo-world-championships-1990-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/nintendo-world-championships-1990-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/nintendo-world-championships-1990-nes/Nintendo%20World%20Championships%201990.png"
+  ],
+  "year": 1990,
+  "date_added": "2022-06-13T00:00:00+00:00",
+  "developers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/developer/nintendo"
+  },
+  "publishers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 744488,
+      "filesize_mp3_bytes": 377487,
+      "track_number": 1,
+      "title": "Start Game",
+      "runtime": 18,
+      "source_mp3": "https://vgmsite.com/soundtracks/nintendo-world-championships-1990-nes/llakgspqll/01%20Start%20Game.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nintendo-world-championships-1990-nes/llakgspqll/01%20Start%20Game.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nintendo-world-championships-1990-nes/01%2520Start%2520Game.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 94371,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 2,
+      "title": "Game End",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/nintendo-world-championships-1990-nes/voudpchddl/02%20Game%20End.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nintendo-world-championships-1990-nes/voudpchddl/02%20Game%20End.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nintendo-world-championships-1990-nes/02%2520Game%2520End.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3848273,
+      "filesize_mp3_bytes": 1405091,
+      "track_number": 3,
+      "title": "Results",
+      "runtime": 74,
+      "source_mp3": "https://vgmsite.com/soundtracks/nintendo-world-championships-1990-nes/ngtdvyeodp/03%20Results.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nintendo-world-championships-1990-nes/ngtdvyeodp/03%20Results.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nintendo-world-championships-1990-nes/03%2520Results.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1447034,
+      "filesize_mp3_bytes": 713031,
+      "track_number": 4,
+      "title": "Unknown",
+      "runtime": 33,
+      "source_mp3": "https://vgmsite.com/soundtracks/nintendo-world-championships-1990-nes/fnmxxznopo/04%20Unknown.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nintendo-world-championships-1990-nes/fnmxxznopo/04%20Unknown.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nintendo-world-championships-1990-nes/04%2520Unknown.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 128,
+    "filesize_mp3_bytes": 2537552,
+    "filesize_flac_bytes": 6134166,
+    "tracks": 4
+  }
+}

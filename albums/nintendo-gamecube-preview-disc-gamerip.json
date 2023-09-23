@@ -1,0 +1,50 @@
+{
+  "title": "Nintendo GameCube Preview Disc",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T15:21:14.640744+00:00",
+  "slug": "nintendo-gamecube-preview-disc-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/nintendo-gamecube-preview-disc-gamerip",
+  "platforms": {
+    "GC": "https://downloads.khinsider.com/game-soundtracks/nintendo-gamecube"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/nintendo-gamecube-preview-disc-gamerip/GCN_preview_disc.jpg"
+  ],
+  "year": 2003,
+  "date_added": "2006-11-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 1,
+      "title": "power on",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/nintendo-gamecube-preview-disc-gamerip/hldyjkxd/01%20power%20on.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nintendo-gamecube-preview-disc-gamerip/01%2520power%2520on.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2128609,
+      "track_number": 2,
+      "title": "main menu",
+      "runtime": 91,
+      "source_mp3": "https://vgmsite.com/soundtracks/nintendo-gamecube-preview-disc-gamerip/iljhtqse/02%20main%20menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nintendo-gamecube-preview-disc-gamerip/02%2520main%2520menu.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 98,
+    "filesize_mp3_bytes": 2233466,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

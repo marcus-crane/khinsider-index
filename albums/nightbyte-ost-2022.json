@@ -1,0 +1,79 @@
+{
+  "title": "NightByte OST",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T15:00:51.795065+00:00",
+  "slug": "nightbyte-ost-2022",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/nightbyte-ost-2022",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/nightbyte-ost-2022/NightByte%D1%81%D0%B0%D1%83%D0%BD%D0%B4.png"
+  ],
+  "year": 2022,
+  "date_added": "2023-07-10T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2579496,
+      "track_number": 1,
+      "title": "Ambience",
+      "runtime": 107,
+      "source_mp3": "https://vgmsite.com/soundtracks/nightbyte-ost-2022/tjlwqndgai/01.%20Ambience.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nightbyte-ost-2022/01.%2520Ambience.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1038090,
+      "track_number": 2,
+      "title": "Ending",
+      "runtime": 43,
+      "source_mp3": "https://vgmsite.com/soundtracks/nightbyte-ost-2022/gsombujnuw/02.%20Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nightbyte-ost-2022/02.%2520Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1457520,
+      "track_number": 3,
+      "title": "Extras",
+      "runtime": 61,
+      "source_mp3": "https://vgmsite.com/soundtracks/nightbyte-ost-2022/dbibzwuppv/03.%20Extras.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nightbyte-ost-2022/03.%2520Extras.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1572864,
+      "track_number": 4,
+      "title": "Main Menu",
+      "runtime": 65,
+      "source_mp3": "https://vgmsite.com/soundtracks/nightbyte-ost-2022/jjtirqxgvr/04.%20Main%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nightbyte-ost-2022/04.%2520Main%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 314572,
+      "track_number": 5,
+      "title": "Night Complete",
+      "runtime": 13,
+      "source_mp3": "https://vgmsite.com/soundtracks/nightbyte-ost-2022/ucplmlvrhs/05.%20Night%20Complete.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nightbyte-ost-2022/05.%2520Night%2520Complete.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 289,
+    "filesize_mp3_bytes": 6962542,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

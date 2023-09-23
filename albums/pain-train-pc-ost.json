@@ -1,0 +1,37 @@
+{
+  "title": "Pain Train OST",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T17:51:26.486705+00:00",
+  "slug": "pain-train-pc-ost",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pain-train-pc-ost",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pain-train-pc-ost/PT%201.png"
+  ],
+  "year": 2017,
+  "date_added": "2020-12-02T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4959764,
+      "title": "PainTrain Main Menu",
+      "runtime": 124,
+      "source_mp3": "https://vgmsite.com/soundtracks/pain-train-pc-ost/moimuygehh/PainTrain%20Main%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pain-train-pc-ost/PainTrain%2520Main%2520Menu.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 124,
+    "filesize_mp3_bytes": 4959764,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

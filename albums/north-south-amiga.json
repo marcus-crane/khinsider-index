@@ -1,0 +1,85 @@
+{
+  "title": "North & South",
+  "titles_alternative": [
+    "North & South: Wakuwaku Nanboku Sens\u014d",
+    "\u30ce\u30fc\u30b9&\u30b5\u30a6\u30b9 \u308f\u304f\u308f\u304f\u5357\u5317\u6226\u4e89"
+  ],
+  "crawled_at": "2023-09-23T15:52:03.590134+00:00",
+  "slug": "north-south-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/north-south-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/north-south-amiga/N1.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2016-02-10T00:00:00+00:00",
+  "developers": {
+    "Infogrames": "https://downloads.khinsider.com/game-soundtracks/developer/infogrames"
+  },
+  "publishers": {
+    "Infogrames": "https://downloads.khinsider.com/game-soundtracks/publisher/infogrames"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4739563,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 146,
+      "source_mp3": "https://vgmsite.com/soundtracks/north-south-amiga/pmamvghr/01_Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/north-south-amiga/01_Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1384120,
+      "track_number": 2,
+      "title": "National Anthems",
+      "runtime": 44,
+      "source_mp3": "https://vgmsite.com/soundtracks/north-south-amiga/srhboyeq/02_National%20Anthems.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/north-south-amiga/02_National%2520Anthems.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2694840,
+      "track_number": 3,
+      "title": "Train Level",
+      "runtime": 83,
+      "source_mp3": "https://vgmsite.com/soundtracks/north-south-amiga/vbvrypfl/03_Train%20Level.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/north-south-amiga/03_Train%2520Level.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1845493,
+      "track_number": 4,
+      "title": "Ending 1",
+      "runtime": 57,
+      "source_mp3": "https://vgmsite.com/soundtracks/north-south-amiga/kgiljgus/04_Ending%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/north-south-amiga/04_Ending%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3355443,
+      "track_number": 5,
+      "title": "Ending 2",
+      "runtime": 105,
+      "source_mp3": "https://vgmsite.com/soundtracks/north-south-amiga/vluylswp/05_Ending%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/north-south-amiga/05_Ending%25202.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 435,
+    "filesize_mp3_bytes": 14019459,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

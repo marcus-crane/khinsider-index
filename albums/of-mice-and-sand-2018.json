@@ -1,0 +1,62 @@
+{
+  "title": "Of Mice and Sand",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T16:11:35.202380+00:00",
+  "slug": "of-mice-and-sand-2018",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/of-mice-and-sand-2018",
+  "platforms": {
+    "3DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-3ds",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/of-mice-and-sand-2018/of-mice-and-sand--revised--cover.cover_large.jpg"
+  ],
+  "year": 2018,
+  "date_added": "2019-11-20T00:00:00+00:00",
+  "developers": {
+    "Arc System Works": "https://downloads.khinsider.com/game-soundtracks/developer/arc-system-works"
+  },
+  "publishers": {
+    "Arc System Works": "https://downloads.khinsider.com/game-soundtracks/publisher/arc-system-works",
+    "Circle Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/circle-entertainment"
+  },
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5158993,
+      "track_number": 3,
+      "title": "Wasteland Scavenger",
+      "runtime": 129,
+      "source_mp3": "https://vgmsite.com/soundtracks/of-mice-and-sand-2018/jyksqszdno/03%20Wasteland%20Scavenger.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/of-mice-and-sand-2018/03%2520Wasteland%2520Scavenger.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5316280,
+      "track_number": 4,
+      "title": "Chronopolis",
+      "runtime": 133,
+      "source_mp3": "https://vgmsite.com/soundtracks/of-mice-and-sand-2018/twpycxslvf/04%20Chronopolis.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/of-mice-and-sand-2018/04%2520Chronopolis.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4162846,
+      "track_number": 8,
+      "title": "Golden Sunset",
+      "runtime": 133,
+      "source_mp3": "https://vgmsite.com/soundtracks/of-mice-and-sand-2018/fboyylgwlh/08%20Golden%20Sunset.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/of-mice-and-sand-2018/08%2520Golden%2520Sunset.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 395,
+    "filesize_mp3_bytes": 14638119,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

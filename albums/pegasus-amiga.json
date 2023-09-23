@@ -1,0 +1,52 @@
+{
+  "title": "Pegasus",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T18:34:12.897928+00:00",
+  "slug": "pegasus-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pegasus-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pegasus-amiga/P1.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2017-07-19T00:00:00+00:00",
+  "developers": {
+    "Optimus": "https://downloads.khinsider.com/game-soundtracks/developer/optimus"
+  },
+  "publishers": {
+    "Gremlin Graphics": "https://downloads.khinsider.com/game-soundtracks/publisher/gremlin-graphics"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4299161,
+      "track_number": 1,
+      "title": "Sad Pegasus (Intro)",
+      "runtime": 157,
+      "source_mp3": "https://vgmsite.com/soundtracks/pegasus-amiga/vwglcwje/01_Sad%20Pegasus%20%28Intro%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pegasus-amiga/01_Sad%2520Pegasus%2520%2528Intro%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6102712,
+      "track_number": 2,
+      "title": "High Score (Unused)",
+      "runtime": 230,
+      "source_mp3": "https://vgmsite.com/soundtracks/pegasus-amiga/jmwokcqs/02_High%20Score%20%28Unused%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pegasus-amiga/02_High%2520Score%2520%2528Unused%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 387,
+    "filesize_mp3_bytes": 10401873,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

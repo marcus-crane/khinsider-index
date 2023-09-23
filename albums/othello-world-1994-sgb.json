@@ -1,0 +1,78 @@
+{
+  "title": "Othello World",
+  "titles_alternative": [
+    "\u30aa\u30bb\u30ed\u30ef\u30fc\u30eb\u30c9"
+  ],
+  "crawled_at": "2023-09-23T16:58:49.408974+00:00",
+  "slug": "othello-world-1994-sgb",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/othello-world-1994-sgb",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/othello-world-1994-sgb/Othello%20World%20%28GB%29%20%28gamerip%29%20%281994%29.jpg"
+  ],
+  "year": 1994,
+  "date_added": "2022-05-28T00:00:00+00:00",
+  "developers": {
+    "Dice": "https://downloads.khinsider.com/game-soundtracks/developer/dice"
+  },
+  "publishers": {
+    "Tsukuda Original": "https://downloads.khinsider.com/game-soundtracks/publisher/tsukuda-original"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 19451084,
+      "filesize_mp3_bytes": 5861539,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/othello-world-1994-sgb/vaesjarfay/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/othello-world-1994-sgb/vaesjarfay/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/othello-world-1994-sgb/01%2520BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7277117,
+      "filesize_mp3_bytes": 3187671,
+      "track_number": 2,
+      "title": "BGM #02",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/othello-world-1994-sgb/mldfhvwjgq/02%20BGM%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/othello-world-1994-sgb/mldfhvwjgq/02%20BGM%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/othello-world-1994-sgb/02%2520BGM%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 461373,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 3,
+      "title": "Jingle #01",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/othello-world-1994-sgb/bmijmwcuoz/03%20Jingle%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/othello-world-1994-sgb/bmijmwcuoz/03%20Jingle%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/othello-world-1994-sgb/03%2520Jingle%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 367001,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 4,
+      "title": "Jingle #02",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/othello-world-1994-sgb/pdjlzjblqc/04%20Jingle%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/othello-world-1994-sgb/pdjlzjblqc/04%20Jingle%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/othello-world-1994-sgb/04%2520Jingle%2520%252302.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 369,
+    "filesize_mp3_bytes": 9279896,
+    "filesize_flac_bytes": 27556575,
+    "tracks": 4
+  }
+}

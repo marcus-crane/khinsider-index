@@ -1,0 +1,98 @@
+{
+  "title": "Outrage",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T17:10:53.266053+00:00",
+  "slug": "outrage-windows-gamerip-1998",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/outrage-windows-gamerip-1998",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/outrage-windows-gamerip-1998/bbaa42cc-c491-4367-bc73-2ebe7156dfcf.jpeg"
+  ],
+  "year": 1998,
+  "date_added": "2023-05-21T00:00:00+00:00",
+  "developers": {
+    "NMS Software": "https://downloads.khinsider.com/game-soundtracks/developer/nms-software"
+  },
+  "publishers": {
+    "GT Interactive": "https://downloads.khinsider.com/game-soundtracks/publisher/gt-interactive"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 28772925,
+      "filesize_mp3_bytes": 8724152,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 256,
+      "source_mp3": "https://vgmsite.com/soundtracks/outrage-windows-gamerip-1998/mrrprgserv/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/outrage-windows-gamerip-1998/mrrprgserv/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/outrage-windows-gamerip-1998/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 24505221,
+      "filesize_mp3_bytes": 8703180,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 273,
+      "source_mp3": "https://vgmsite.com/soundtracks/outrage-windows-gamerip-1998/ymnmxebrfy/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/outrage-windows-gamerip-1998/ymnmxebrfy/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/outrage-windows-gamerip-1998/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 27703377,
+      "filesize_mp3_bytes": 8776581,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 233,
+      "source_mp3": "https://vgmsite.com/soundtracks/outrage-windows-gamerip-1998/fiwbgvusja/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/outrage-windows-gamerip-1998/fiwbgvusja/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/outrage-windows-gamerip-1998/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 32013025,
+      "filesize_mp3_bytes": 9583984,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 282,
+      "source_mp3": "https://vgmsite.com/soundtracks/outrage-windows-gamerip-1998/uvgqtsdlgp/04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/outrage-windows-gamerip-1998/uvgqtsdlgp/04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/outrage-windows-gamerip-1998/04.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 17878220,
+      "filesize_mp3_bytes": 6847201,
+      "track_number": 5,
+      "title": "Track 5",
+      "runtime": 227,
+      "source_mp3": "https://vgmsite.com/soundtracks/outrage-windows-gamerip-1998/jwzjfcvezm/05.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/outrage-windows-gamerip-1998/jwzjfcvezm/05.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/outrage-windows-gamerip-1998/05.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 26109542,
+      "filesize_mp3_bytes": 8189378,
+      "track_number": 6,
+      "title": "Track 6",
+      "runtime": 232,
+      "source_mp3": "https://vgmsite.com/soundtracks/outrage-windows-gamerip-1998/qzihwmhxrc/06.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/outrage-windows-gamerip-1998/qzihwmhxrc/06.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/outrage-windows-gamerip-1998/06.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1503,
+    "filesize_mp3_bytes": 50824476,
+    "filesize_flac_bytes": 156982310,
+    "tracks": 6
+  }
+}

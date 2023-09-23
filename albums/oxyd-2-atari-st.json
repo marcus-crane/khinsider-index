@@ -1,0 +1,42 @@
+{
+  "title": "Oxyd 2",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T17:19:33.749990+00:00",
+  "slug": "oxyd-2-atari-st",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/oxyd-2-atari-st",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/oxyd-2-atari-st/Oxyd%202.png"
+  ],
+  "year": 1991,
+  "date_added": "2016-03-20T00:00:00+00:00",
+  "developers": {
+    "Dongleware": "https://downloads.khinsider.com/game-soundtracks/developer/dongleware"
+  },
+  "publishers": {
+    "Dongleware": "https://downloads.khinsider.com/game-soundtracks/publisher/dongleware"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6889144,
+      "track_number": 1,
+      "title": "Oxyd 2 Main Theme",
+      "runtime": 227,
+      "source_mp3": "https://vgmsite.com/soundtracks/oxyd-2-atari-st/gjqrzjew/01_Oxyd%202%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/oxyd-2-atari-st/01_Oxyd%25202%2520Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 227,
+    "filesize_mp3_bytes": 6889144,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

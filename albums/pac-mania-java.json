@@ -1,0 +1,92 @@
+{
+  "title": "Pac-Mania (Java)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T17:33:41.620813+00:00",
+  "slug": "pac-mania-java",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pac-mania-java",
+  "platforms": {
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pac-mania-java/title.png"
+  ],
+  "year": 2004,
+  "date_added": "2022-01-22T00:00:00+00:00",
+  "developers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/developer/namco"
+  },
+  "publishers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/publisher/namco"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3575644,
+      "track_number": 1,
+      "title": "Block Town",
+      "runtime": 89,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-mania-java/gdawemxmpm/01.%20Block%20Town.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-mania-java/01.%2520Block%2520Town.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3051356,
+      "track_number": 2,
+      "title": "Pac-Man's Park",
+      "runtime": 76,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-mania-java/awxehxkqus/02.%20Pac-Man%27s%20Park.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-mania-java/02.%2520Pac-Man%2527s%2520Park.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1709178,
+      "track_number": 3,
+      "title": "Sandbox Land",
+      "runtime": 43,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-mania-java/ihxklzwjvz/03.%20Sandbox%20Land.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-mania-java/03.%2520Sandbox%2520Land.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2243952,
+      "track_number": 4,
+      "title": "Jungly Steps",
+      "runtime": 56,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-mania-java/ncjovrcolv/04.%20Jungly%20Steps.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-mania-java/04.%2520Jungly%2520Steps.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 157286,
+      "track_number": 5,
+      "title": "Life Lost",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-mania-java/ymshnmarcu/05.%20Life%20Lost.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-mania-java/05.%2520Life%2520Lost.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 199229,
+      "track_number": 6,
+      "title": "Game Over (See You)",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-mania-java/jiqaitywdc/06.%20Game%20Over%20%28See%20You%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-mania-java/06.%2520Game%2520Over%2520%2528See%2520You%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 273,
+    "filesize_mp3_bytes": 10936645,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

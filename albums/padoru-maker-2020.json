@@ -1,0 +1,62 @@
+{
+  "title": "Padoru Maker",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T17:51:03.739512+00:00",
+  "slug": "padoru-maker-2020",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/padoru-maker-2020",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/padoru-maker-2020/cover.png"
+  ],
+  "year": 2020,
+  "catalog_number": null,
+  "date_added": "2022-12-25T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 14910750,
+      "filesize_mp3_bytes": 4613734,
+      "track_number": 1,
+      "title": "Main 1 - Blanca Navidad",
+      "runtime": 140,
+      "source_mp3": "https://vgmsite.com/soundtracks/padoru-maker-2020/tvbfocwpih/01.%20Main%201%20-%20Blanca%20Navidad.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/padoru-maker-2020/tvbfocwpih/01.%20Main%201%20-%20Blanca%20Navidad.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/padoru-maker-2020/01.%2520Main%25201%2520-%2520Blanca%2520Navidad.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 21233664,
+      "filesize_mp3_bytes": 5955911,
+      "track_number": 2,
+      "title": "Main 2 - Jingle Bells",
+      "runtime": 171,
+      "source_mp3": "https://vgmsite.com/soundtracks/padoru-maker-2020/tnhdslobmp/02.%20Main%202%20-%20Jingle%20Bells.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/padoru-maker-2020/tnhdslobmp/02.%20Main%202%20-%20Jingle%20Bells.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/padoru-maker-2020/02.%2520Main%25202%2520-%2520Jingle%2520Bells.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20740833,
+      "filesize_mp3_bytes": 5494538,
+      "track_number": 3,
+      "title": "Main 3 - Ice Cap Zone Remix",
+      "runtime": 167,
+      "source_mp3": "https://vgmsite.com/soundtracks/padoru-maker-2020/jzfihqimfp/03.%20Main%203%20-%20Ice%20Cap%20Zone%20Remix.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/padoru-maker-2020/jzfihqimfp/03.%20Main%203%20-%20Ice%20Cap%20Zone%20Remix.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/padoru-maker-2020/03.%2520Main%25203%2520-%2520Ice%2520Cap%2520Zone%2520Remix.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 478,
+    "filesize_mp3_bytes": 16064183,
+    "filesize_flac_bytes": 56885247,
+    "tracks": 3
+  }
+}

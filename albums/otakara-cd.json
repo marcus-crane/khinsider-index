@@ -1,0 +1,88 @@
+{
+  "title": "Oni-gokko! Otakara CD",
+  "titles_alternative": [
+    "\u9b3c\u3054\u3063\u3053! \u5c0f\u5b9dCD"
+  ],
+  "crawled_at": "2023-09-23T16:57:51.930953+00:00",
+  "slug": "otakara-cd",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/otakara-cd",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/otakara-cd/AL-ON-003_01.jpg"
+  ],
+  "year": 2011,
+  "catalog_number": "AL-ON-003",
+  "date_added": "2020-04-20T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "ALcot": "https://downloads.khinsider.com/game-soundtracks/publisher/alcot"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 29926359,
+      "filesize_mp3_bytes": 8587837,
+      "track_number": 1,
+      "title": "Hyakka Ryouran Phantasm",
+      "runtime": 241,
+      "source_mp3": "https://vgmsite.com/soundtracks/otakara-cd/wieqgipftv/01%20-%20Hyakka%20Ryouran%20Phantasm.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/otakara-cd/wieqgipftv/01%20-%20Hyakka%20Ryouran%20Phantasm.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/otakara-cd/01%2520-%2520Hyakka%2520Ryouran%2520Phantasm.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 34707865,
+      "filesize_mp3_bytes": 9374269,
+      "track_number": 2,
+      "title": "Momoiro no Hanasaku Koro Ni",
+      "runtime": 262,
+      "source_mp3": "https://vgmsite.com/soundtracks/otakara-cd/nlhgjksrzi/02%20-%20Momoiro%20no%20Hanasaku%20Koro%20Ni.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/otakara-cd/nlhgjksrzi/02%20-%20Momoiro%20no%20Hanasaku%20Koro%20Ni.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/otakara-cd/02%2520-%2520Momoiro%2520no%2520Hanasaku%2520Koro%2520Ni.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 84064337,
+      "filesize_mp3_bytes": 29192355,
+      "track_number": 3,
+      "title": "Saionji Otome no tamatebako naito",
+      "runtime": 930,
+      "source_mp3": "https://vgmsite.com/soundtracks/otakara-cd/ofyxcjnfxg/03%20-%20Saionji%20Otome%20no%20tamatebako%20naito.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/otakara-cd/ofyxcjnfxg/03%20-%20Saionji%20Otome%20no%20tamatebako%20naito.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/otakara-cd/03%2520-%2520Saionji%2520Otome%2520no%2520tamatebako%2520naito.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 29496442,
+      "filesize_mp3_bytes": 8493465,
+      "track_number": 4,
+      "title": "Hyakka Ryouran Phantasm (off vocal Ver.)",
+      "runtime": 241,
+      "source_mp3": "https://vgmsite.com/soundtracks/otakara-cd/vzsprueduw/04%20-%20Hyakka%20Ryouran%20Phantasm%20%28off%20vocal%20Ver.%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/otakara-cd/vzsprueduw/04%20-%20Hyakka%20Ryouran%20Phantasm%20%28off%20vocal%20Ver.%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/otakara-cd/04%2520-%2520Hyakka%2520Ryouran%2520Phantasm%2520%2528off%2520vocal%2520Ver.%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 34466693,
+      "filesize_mp3_bytes": 9353297,
+      "track_number": 5,
+      "title": "Momoiro no Hanasaku Koro Ni (off vocal Ver.)",
+      "runtime": 260,
+      "source_mp3": "https://vgmsite.com/soundtracks/otakara-cd/ogywgpquly/05%20-%20Momoiro%20no%20Hanasaku%20Koro%20Ni%20%28off%20vocal%20Ver.%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/otakara-cd/ogywgpquly/05%20-%20Momoiro%20no%20Hanasaku%20Koro%20Ni%20%28off%20vocal%20Ver.%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/otakara-cd/05%2520-%2520Momoiro%2520no%2520Hanasaku%2520Koro%2520Ni%2520%2528off%2520vocal%2520Ver.%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1934,
+    "filesize_mp3_bytes": 65001223,
+    "filesize_flac_bytes": 212661696,
+    "tracks": 5
+  }
+}

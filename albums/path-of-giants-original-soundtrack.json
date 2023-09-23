@@ -1,0 +1,81 @@
+{
+  "title": "Path of Giants",
+  "titles_alternative": [
+    "Path of Giants (Original Game Soundtrack)"
+  ],
+  "crawled_at": "2023-09-23T18:26:37.326577+00:00",
+  "slug": "path-of-giants-original-soundtrack",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/path-of-giants-original-soundtrack",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/path-of-giants-original-soundtrack/cover.jpg"
+  ],
+  "year": 2020,
+  "catalog_number": null,
+  "date_added": "2020-06-21T00:00:00+00:00",
+  "developers": {
+    "Journey Bound Games, Journey Bound Games Inc.": "https://downloads.khinsider.com/game-soundtracks/developer/journey-bound-games-journey-bound-games"
+  },
+  "publishers": {
+    "Clark Aboud": "https://downloads.khinsider.com/game-soundtracks/publisher/clark-aboud"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20719861,
+      "filesize_mp3_bytes": 7119831,
+      "track_number": 1,
+      "title": "The Grand Hall",
+      "runtime": 224,
+      "source_mp3": "https://vgmsite.com/soundtracks/path-of-giants-original-soundtrack/jukowcuapp/01%20The%20Grand%20Hall.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/path-of-giants-original-soundtrack/jukowcuapp/01%20The%20Grand%20Hall.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/path-of-giants-original-soundtrack/01%2520The%2520Grand%2520Hall.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 12415139,
+      "filesize_mp3_bytes": 4257218,
+      "track_number": 2,
+      "title": "Echoes of the Lost",
+      "runtime": 134,
+      "source_mp3": "https://vgmsite.com/soundtracks/path-of-giants-original-soundtrack/xoomotdcxp/02%20Echoes%20of%20the%20Lost.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/path-of-giants-original-soundtrack/xoomotdcxp/02%20Echoes%20of%20the%20Lost.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/path-of-giants-original-soundtrack/02%2520Echoes%2520of%2520the%2520Lost.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 13841203,
+      "filesize_mp3_bytes": 4833935,
+      "track_number": 3,
+      "title": "Breath of Life",
+      "runtime": 144,
+      "source_mp3": "https://vgmsite.com/soundtracks/path-of-giants-original-soundtrack/ddjwfwjscw/03%20Breath%20of%20Life.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/path-of-giants-original-soundtrack/ddjwfwjscw/03%20Breath%20of%20Life.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/path-of-giants-original-soundtrack/03%2520Breath%2520of%2520Life.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 18161336,
+      "filesize_mp3_bytes": 5976883,
+      "track_number": 4,
+      "title": "Final Chamber",
+      "runtime": 179,
+      "source_mp3": "https://vgmsite.com/soundtracks/path-of-giants-original-soundtrack/ptqshkhrsz/04%20Final%20Chamber.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/path-of-giants-original-soundtrack/ptqshkhrsz/04%20Final%20Chamber.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/path-of-giants-original-soundtrack/04%2520Final%2520Chamber.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 681,
+    "filesize_mp3_bytes": 22187867,
+    "filesize_flac_bytes": 65137539,
+    "tracks": 4
+  }
+}

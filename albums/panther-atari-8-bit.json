@@ -1,0 +1,38 @@
+{
+  "title": "Panther",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T17:59:07.464591+00:00",
+  "slug": "panther-atari-8-bit",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/panther-atari-8-bit",
+  "platforms": {
+    "Atari 8-Bit": "https://downloads.khinsider.com/game-soundtracks/atari-8bit"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/panther-atari-8-bit/coverart.jpg"
+  ],
+  "year": 1987,
+  "date_added": "2016-07-06T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3932160,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 176,
+      "source_mp3": "https://vgmsite.com/soundtracks/panther-atari-8-bit/rivnabmz/01_Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/panther-atari-8-bit/01_Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 176,
+    "filesize_mp3_bytes": 3932160,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

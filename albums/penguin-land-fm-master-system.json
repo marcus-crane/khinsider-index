@@ -1,0 +1,102 @@
+{
+  "title": "Penguin Land (FM)",
+  "titles_alternative": [
+    "Doki Doki Penguin Land Uch\u016b Daib\u014dken",
+    "\u3069\u304d\u3069\u304d\u30da\u30f3\u30ae\u30f3\u30e9\u30f3\u30c9\u5b87\u5b99\u5927\u5192\u967a",
+    "\u5b87\u5b99\u5927\u5192\u96aa"
+  ],
+  "crawled_at": "2023-09-23T18:36:12.451503+00:00",
+  "slug": "penguin-land-fm-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/penguin-land-fm-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/penguin-land-fm-master-system/Penguin%20Land%20%28FM%29.png"
+  ],
+  "year": 1987,
+  "date_added": "2020-07-17T00:00:00+00:00",
+  "developers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1960837,
+      "filesize_mp3_bytes": 954204,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 45,
+      "source_mp3": "https://vgmsite.com/soundtracks/penguin-land-fm-master-system/gycfaooqei/01%20-%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/penguin-land-fm-master-system/gycfaooqei/01%20-%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/penguin-land-fm-master-system/01%2520-%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 293601,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 2,
+      "title": "Round Start",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/penguin-land-fm-master-system/ixaslfeaub/02%20-%20Round%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/penguin-land-fm-master-system/ixaslfeaub/02%20-%20Round%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/penguin-land-fm-master-system/02%2520-%2520Round%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 272629,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 3,
+      "title": "Game Start",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/penguin-land-fm-master-system/mjykpqzhfo/03%20-%20Game%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/penguin-land-fm-master-system/mjykpqzhfo/03%20-%20Game%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/penguin-land-fm-master-system/03%2520-%2520Game%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3502243,
+      "filesize_mp3_bytes": 1677721,
+      "track_number": 4,
+      "title": "Main Theme",
+      "runtime": 77,
+      "source_mp3": "https://vgmsite.com/soundtracks/penguin-land-fm-master-system/bqsoiyrpuy/04%20-%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/penguin-land-fm-master-system/bqsoiyrpuy/04%20-%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/penguin-land-fm-master-system/04%2520-%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 744488,
+      "filesize_mp3_bytes": 346030,
+      "track_number": 5,
+      "title": "Round Clear",
+      "runtime": 16,
+      "source_mp3": "https://vgmsite.com/soundtracks/penguin-land-fm-master-system/uszzrnbxxh/05%20-%20Round%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/penguin-land-fm-master-system/uszzrnbxxh/05%20-%20Round%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/penguin-land-fm-master-system/05%2520-%2520Round%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 398458,
+      "filesize_mp3_bytes": 199229,
+      "track_number": 6,
+      "title": "Unknown Music",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/penguin-land-fm-master-system/cofworvmxp/06%20-%20Unknown%20Music.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/penguin-land-fm-master-system/cofworvmxp/06%20-%20Unknown%20Music.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/penguin-land-fm-master-system/06%2520-%2520Unknown%2520Music.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 160,
+    "filesize_mp3_bytes": 3449812,
+    "filesize_flac_bytes": 7172256,
+    "tracks": 6
+  }
+}

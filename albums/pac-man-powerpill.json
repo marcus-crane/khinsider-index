@@ -1,0 +1,90 @@
+{
+  "title": "Pac-Man: The Music Album",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T17:31:20.223123+00:00",
+  "slug": "pac-man-powerpill",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-powerpill",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/pac-man-powerpill/R-244742-1455365420-9695.jpg"
+  ],
+  "year": 1992,
+  "date_added": "2006-11-23T00:00:00+00:00",
+  "developers": {
+    "Ilijatown": "https://downloads.khinsider.com/game-soundtracks/developer/ilijatown"
+  },
+  "publishers": {
+    "Powerpill": "https://downloads.khinsider.com/game-soundtracks/publisher/powerpill"
+  },
+  "genres": {
+    "Remix": "https://downloads.khinsider.com/game-soundtracks/remixes"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3365928,
+      "track_number": 1,
+      "title": "Pac-Man Main Theme",
+      "runtime": 210,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-man-powerpill/hjjqomwu/01.%20Pac-Man%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-powerpill/01.%2520Pac-Man%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3953131,
+      "track_number": 2,
+      "title": "The Ghosts' Crew",
+      "runtime": 247,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-man-powerpill/cmnygavw/02.%20The%20Ghosts%27%20Crew.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-powerpill/02.%2520The%2520Ghosts%2527%2520Crew.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5284823,
+      "track_number": 3,
+      "title": "Pac's Scoring!",
+      "runtime": 330,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-man-powerpill/firyfsbs/03.%20Pac%27s%20Scoring%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-powerpill/03.%2520Pac%2527s%2520Scoring%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4791992,
+      "track_number": 4,
+      "title": "Yum Yum, Pac-Dots!",
+      "runtime": 299,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-man-powerpill/vtrfovzp/04.%20Yum%20Yum%2C%20Pac-Dots%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-powerpill/04.%2520Yum%2520Yum%252C%2520Pac-Dots%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3900702,
+      "track_number": 5,
+      "title": "Pacfunk",
+      "runtime": 243,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-man-powerpill/npczfhxq/05.%20Pacfunk.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-powerpill/05.%2520Pacfunk.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3900702,
+      "track_number": 6,
+      "title": "Pacfunk (Techno Remix)",
+      "runtime": 243,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-man-powerpill/bvdsmrcg/06.%20Pacfunk%20%28Techno%20Remix%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-powerpill/06.%2520Pacfunk%2520%2528Techno%2520Remix%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1572,
+    "filesize_mp3_bytes": 25197278,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "title": "Pachislot Dokaben",
+  "titles_alternative": [
+    "\u30d1\u30c1\u30b9\u30ed \u30c9\u30ab\u30d9\u30f3"
+  ],
+  "crawled_at": "2023-09-23T17:44:51.639696+00:00",
+  "slug": "pachislot-dokaben-2020",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pachislot-dokaben-2020",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pachislot-dokaben-2020/cover.jpg"
+  ],
+  "year": 2020,
+  "catalog_number": "RSFC-9488",
+  "date_added": "2021-01-12T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Sammy": "https://downloads.khinsider.com/game-soundtracks/publisher/sammy"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 13820231,
+      "filesize_mp3_bytes": 3449815,
+      "track_number": 1,
+      "title": "Big Bonus BGM -Aka7-",
+      "runtime": 105,
+      "source_mp3": "https://vgmsite.com/soundtracks/pachislot-dokaben-2020/uyaugqstmj/01%20Big%20Bonus%20BGM%20-Aka7-.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pachislot-dokaben-2020/uyaugqstmj/01%20Big%20Bonus%20BGM%20-Aka7-.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pachislot-dokaben-2020/01%2520Big%2520Bonus%2520BGM%2520-Aka7-.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9877585,
+      "filesize_mp3_bytes": 2558525,
+      "track_number": 2,
+      "title": "Big Bonus BGM -Midori7-",
+      "runtime": 74,
+      "source_mp3": "https://vgmsite.com/soundtracks/pachislot-dokaben-2020/allutbecjz/02%20Big%20Bonus%20BGM%20-Midori7-.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pachislot-dokaben-2020/allutbecjz/02%20Big%20Bonus%20BGM%20-Midori7-.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pachislot-dokaben-2020/02%2520Big%2520Bonus%2520BGM%2520-Midori7-.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8346664,
+      "filesize_mp3_bytes": 2401239,
+      "track_number": 3,
+      "title": "Regular Bonus BGM",
+      "runtime": 69,
+      "source_mp3": "https://vgmsite.com/soundtracks/pachislot-dokaben-2020/yllzmbsikp/03%20Regular%20Bonus%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pachislot-dokaben-2020/yllzmbsikp/03%20Regular%20Bonus%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pachislot-dokaben-2020/03%2520Regular%2520Bonus%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11377049,
+      "filesize_mp3_bytes": 2956984,
+      "track_number": 4,
+      "title": "Dokaben Chance BGM",
+      "runtime": 90,
+      "source_mp3": "https://vgmsite.com/soundtracks/pachislot-dokaben-2020/vbqiuqihfu/04%20Dokaben%20Chance%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pachislot-dokaben-2020/vbqiuqihfu/04%20Dokaben%20Chance%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pachislot-dokaben-2020/04%2520Dokaben%2520Chance%2520BGM.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 338,
+    "filesize_mp3_bytes": 11366563,
+    "filesize_flac_bytes": 43421529,
+    "tracks": 4
+  }
+}

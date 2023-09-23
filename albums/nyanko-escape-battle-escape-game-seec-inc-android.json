@@ -1,0 +1,46 @@
+{
+  "title": "Nyanko Escape Battle (Escape Game) (SEEC Inc)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T16:00:00.727343+00:00",
+  "slug": "nyanko-escape-battle-escape-game-seec-inc-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/nyanko-escape-battle-escape-game-seec-inc-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/nyanko-escape-battle-escape-game-seec-inc-android/1.jpg"
+  ],
+  "year": 2010,
+  "date_added": "2017-07-22T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 901775,
+      "title": "animeBgm",
+      "runtime": 54,
+      "source_mp3": "https://vgmsite.com/soundtracks/nyanko-escape-battle-escape-game-seec-inc-android/wbxgucbv/animeBgm.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nyanko-escape-battle-escape-game-seec-inc-android/animeBgm.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 702545,
+      "title": "game_maoudamashii_5_town22",
+      "runtime": 44,
+      "source_mp3": "https://vgmsite.com/soundtracks/nyanko-escape-battle-escape-game-seec-inc-android/hjnooqvr/game_maoudamashii_5_town22.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nyanko-escape-battle-escape-game-seec-inc-android/game_maoudamashii_5_town22.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 98,
+    "filesize_mp3_bytes": 1604320,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

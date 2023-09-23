@@ -1,0 +1,102 @@
+{
+  "title": "Penguin Land",
+  "titles_alternative": [
+    "Doki Doki Penguin Land Uch\u016b Daib\u014dken",
+    "\u3069\u304d\u3069\u304d\u30da\u30f3\u30ae\u30f3\u30e9\u30f3\u30c9\u5b87\u5b99\u5927\u5192\u967a",
+    "\u5b87\u5b99\u5927\u5192\u96aa"
+  ],
+  "crawled_at": "2023-09-23T18:36:18.668238+00:00",
+  "slug": "penguin-land-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/penguin-land-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/penguin-land-master-system/Penguin%20Land%20-%20Cover.jpg"
+  ],
+  "year": 1987,
+  "date_added": "2020-07-17T00:00:00+00:00",
+  "developers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2401239,
+      "filesize_mp3_bytes": 859832,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 45,
+      "source_mp3": "https://vgmsite.com/soundtracks/penguin-land-master-system/ihsryrrdlb/01%20-%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/penguin-land-master-system/ihsryrrdlb/01%20-%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/penguin-land-master-system/01%2520-%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 356515,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 2,
+      "title": "Status Screen",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/penguin-land-master-system/pvnruijiek/02%20-%20Status%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/penguin-land-master-system/pvnruijiek/02%20-%20Status%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/penguin-land-master-system/02%2520-%2520Status%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 283115,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 3,
+      "title": "Game Start",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/penguin-land-master-system/vnrhrkbmqr/03%20-%20Game%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/penguin-land-master-system/vnrhrkbmqr/03%20-%20Game%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/penguin-land-master-system/03%2520-%2520Game%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3942645,
+      "filesize_mp3_bytes": 1572864,
+      "track_number": 4,
+      "title": "In Game",
+      "runtime": 77,
+      "source_mp3": "https://vgmsite.com/soundtracks/penguin-land-master-system/dfnmedjbxf/04%20-%20In%20Game.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/penguin-land-master-system/dfnmedjbxf/04%20-%20In%20Game.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/penguin-land-master-system/04%2520-%2520In%2520Game.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 975175,
+      "filesize_mp3_bytes": 335544,
+      "track_number": 5,
+      "title": "Round Complete",
+      "runtime": 16,
+      "source_mp3": "https://vgmsite.com/soundtracks/penguin-land-master-system/jrsqxxnigi/05%20-%20Round%20Complete.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/penguin-land-master-system/jrsqxxnigi/05%20-%20Round%20Complete.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/penguin-land-master-system/05%2520-%2520Round%2520Complete.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 555745,
+      "filesize_mp3_bytes": 178257,
+      "track_number": 6,
+      "title": "Ending",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/penguin-land-master-system/rpvojlqwxr/06%20-%20Ending.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/penguin-land-master-system/rpvojlqwxr/06%20-%20Ending.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/penguin-land-master-system/06%2520-%2520Ending.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 160,
+    "filesize_mp3_bytes": 3177183,
+    "filesize_flac_bytes": 8514434,
+    "tracks": 6
+  }
+}

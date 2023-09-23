@@ -1,0 +1,86 @@
+{
+  "title": "Origin Audio CD - Vol. 1",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T16:52:29.884397+00:00",
+  "slug": "origin-audio-cd-vol.-1",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/origin-audio-cd-vol.-1",
+  "platforms": {
+    "MS-DOS": "https://downloads.khinsider.com/game-soundtracks/ms-dos"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/origin-audio-cd-vol.-1/back.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2006-11-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 39919288,
+      "track_number": 1,
+      "title": "wing commander two",
+      "runtime": 1564,
+      "source_mp3": "https://vgmsite.com/soundtracks/origin-audio-cd-vol.-1/ffzuvvtz/01%20-%20wing%20commander%20two.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/origin-audio-cd-vol.-1/01%2520-%2520wing%2520commander%2520two.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 23855104,
+      "track_number": 2,
+      "title": "martian dreams",
+      "runtime": 922,
+      "source_mp3": "https://vgmsite.com/soundtracks/origin-audio-cd-vol.-1/jamouooj/02%20-%20martian%20dreams.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/origin-audio-cd-vol.-1/02%2520-%2520martian%2520dreams.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 14061404,
+      "track_number": 3,
+      "title": "bad blood",
+      "runtime": 585,
+      "source_mp3": "https://vgmsite.com/soundtracks/origin-audio-cd-vol.-1/lisnxzza/03%20-%20bad%20blood.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/origin-audio-cd-vol.-1/03%2520-%2520bad%2520blood.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 14942208,
+      "track_number": 4,
+      "title": "ultima vi - the false prophet",
+      "runtime": 584,
+      "source_mp3": "https://vgmsite.com/soundtracks/origin-audio-cd-vol.-1/wylbzatn/04%20-%20ultima%20vi%20-%20the%20false%20prophet.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/origin-audio-cd-vol.-1/04%2520-%2520ultima%2520vi%2520-%2520the%2520false%2520prophet.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9573498,
+      "track_number": 5,
+      "title": "the savage empire",
+      "runtime": 408,
+      "source_mp3": "https://vgmsite.com/soundtracks/origin-audio-cd-vol.-1/hbsbpqrf/05%20-%20the%20savage%20empire.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/origin-audio-cd-vol.-1/05%2520-%2520the%2520savage%2520empire.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 13883146,
+      "track_number": 6,
+      "title": "wing commander",
+      "runtime": 547,
+      "source_mp3": "https://vgmsite.com/soundtracks/origin-audio-cd-vol.-1/ernfpmre/06%20-%20wing%20commander.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/origin-audio-cd-vol.-1/06%2520-%2520wing%2520commander.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 4610,
+    "filesize_mp3_bytes": 116234648,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Paperboy",
+  "titles_alternative": [
+    "\u30da\u30fc\u30d1\u30fc\u30dc\u30fc\u30a4",
+    "\u9280\u8272\u5148\u92d2"
+  ],
+  "crawled_at": "2023-09-23T18:10:06.886422+00:00",
+  "slug": "paperboy-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/paperboy-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/paperboy-master-system/P1.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2018-12-06T00:00:00+00:00",
+  "developers": {
+    "Atari": "https://downloads.khinsider.com/game-soundtracks/developer/atari",
+    "Tiertex": "https://downloads.khinsider.com/game-soundtracks/developer/tiertex"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega",
+    "Tec Toy": "https://downloads.khinsider.com/game-soundtracks/publisher/tec-toy",
+    "U.S. Gold": "https://downloads.khinsider.com/game-soundtracks/publisher/u.s.-gold"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10150215,
+      "filesize_mp3_bytes": 7612661,
+      "track_number": 1,
+      "title": "Theme",
+      "runtime": 190,
+      "source_mp3": "https://vgmsite.com/soundtracks/paperboy-master-system/eflpderf/01%20-%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/paperboy-master-system/eflpderf/01%20-%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/paperboy-master-system/01%2520-%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1551892,
+      "filesize_mp3_bytes": 1226833,
+      "track_number": 2,
+      "title": "Test",
+      "runtime": 31,
+      "source_mp3": "https://vgmsite.com/soundtracks/paperboy-master-system/faaqwkal/02%20-%20Test.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/paperboy-master-system/faaqwkal/02%20-%20Test.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/paperboy-master-system/02%2520-%2520Test.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 221,
+    "filesize_mp3_bytes": 8839494,
+    "filesize_flac_bytes": 11702107,
+    "tracks": 2
+  }
+}

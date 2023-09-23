@@ -1,0 +1,52 @@
+{
+  "title": "Oxxonian",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T17:19:32.496438+00:00",
+  "slug": "oxxonian-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/oxxonian-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/oxxonian-amiga/Oxxonian.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2019-06-10T00:00:00+00:00",
+  "developers": {
+    "Rainbow Arts": "https://downloads.khinsider.com/game-soundtracks/developer/rainbow-arts"
+  },
+  "publishers": {
+    "Rainbow Arts": "https://downloads.khinsider.com/game-soundtracks/publisher/rainbow-arts"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8357150,
+      "track_number": 1,
+      "title": "Action Game",
+      "runtime": 272,
+      "source_mp3": "https://vgmsite.com/soundtracks/oxxonian-amiga/vaolaqrrse/01_Action%20Game.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/oxxonian-amiga/01_Action%2520Game.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8514437,
+      "track_number": 2,
+      "title": "Strategy Game",
+      "runtime": 233,
+      "source_mp3": "https://vgmsite.com/soundtracks/oxxonian-amiga/lptyxeikod/02_Strategy%20Game.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/oxxonian-amiga/02_Strategy%2520Game.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 505,
+    "filesize_mp3_bytes": 16871587,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

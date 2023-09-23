@@ -1,0 +1,89 @@
+{
+  "title": "Pac-Man",
+  "titles_alternative": [
+    "\u30d1\u30c3\u30af\u30de\u30f3"
+  ],
+  "crawled_at": "2023-09-23T17:29:46.837415+00:00",
+  "slug": "pac-man-game-gear",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-game-gear",
+  "platforms": {
+    "Game Gear": "https://downloads.khinsider.com/game-soundtracks/sega-game-gear"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pac-man-game-gear/Pac-Man%20%28USA%29.png"
+  ],
+  "year": 1991,
+  "date_added": "2020-07-17T00:00:00+00:00",
+  "developers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/developer/namco"
+  },
+  "publishers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/publisher/namco"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 230686,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 1,
+      "title": "Jingle #01",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-man-game-gear/yiqqscolle/01%20Jingle%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pac-man-game-gear/yiqqscolle/01%20Jingle%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-game-gear/01%2520Jingle%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 356515,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 2,
+      "title": "Jingle #02",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-man-game-gear/sqvbgvcqld/02%20Jingle%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pac-man-game-gear/sqvbgvcqld/02%20Jingle%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-game-gear/02%2520Jingle%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 346030,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 3,
+      "title": "Jingle #03",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-man-game-gear/exntuaganf/03%20Jingle%20%2303.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pac-man-game-gear/exntuaganf/03%20Jingle%20%2303.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-game-gear/03%2520Jingle%2520%252303.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 398458,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 4,
+      "title": "Jingle #04",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-man-game-gear/purfufcycq/04%20Jingle%20%2304.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pac-man-game-gear/purfufcycq/04%20Jingle%20%2304.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-game-gear/04%2520Jingle%2520%252304.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 283115,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 5,
+      "title": "Jingle #05",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-man-game-gear/wbrhpjjphg/05%20Jingle%20%2305.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pac-man-game-gear/wbrhpjjphg/05%20Jingle%20%2305.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-game-gear/05%2520Jingle%2520%252305.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 28,
+    "filesize_mp3_bytes": 545258,
+    "filesize_flac_bytes": 1614804,
+    "tracks": 5
+  }
+}

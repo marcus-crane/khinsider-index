@@ -1,0 +1,84 @@
+{
+  "title": "Pac-Man",
+  "titles_alternative": [
+    "\u30d1\u30c3\u30af\u30de\u30f3"
+  ],
+  "crawled_at": "2023-09-23T17:29:51.630420+00:00",
+  "slug": "pac-man-gameboy",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-gameboy",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pac-man-gameboy/642093-pac-man-game-boy-screenshot-title-screen-with-players-to-select.png"
+  ],
+  "year": 1990,
+  "date_added": "2016-08-24T00:00:00+00:00",
+  "developers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/developer/namco"
+  },
+  "publishers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/publisher/namco"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 1,
+      "title": "Track 01 - Pac-Man",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-man-gameboy/fpkhsvwz/01_Track%2001%20-%20Pac-Man.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-gameboy/01_Track%252001%2520-%2520Pac-Man.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 178257,
+      "track_number": 2,
+      "title": "Track 02 - Pac-Man",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-man-gameboy/uzkibfdq/02_Track%2002%20-%20Pac-Man.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-gameboy/02_Track%252002%2520-%2520Pac-Man.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 167772,
+      "track_number": 3,
+      "title": "Track 03 - Pac-Man",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-man-gameboy/rcgutqpq/03_Track%2003%20-%20Pac-Man.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-gameboy/03_Track%252003%2520-%2520Pac-Man.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 199229,
+      "track_number": 4,
+      "title": "Track 04 - Pac-Man",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-man-gameboy/jmhbrujq/04_Track%2004%20-%20Pac-Man.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-gameboy/04_Track%252004%2520-%2520Pac-Man.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 5,
+      "title": "Track 05 - Pac-Man",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-man-gameboy/yooljlyd/05_Track%2005%20-%20Pac-Man.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-gameboy/05_Track%252005%2520-%2520Pac-Man.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 27,
+    "filesize_mp3_bytes": 786429,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

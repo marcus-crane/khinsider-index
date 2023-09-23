@@ -1,0 +1,68 @@
+{
+  "title": "Pac-Man Plus (Mobile)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T17:31:18.410157+00:00",
+  "slug": "pac-man-plus-mobile-mobile-gamerip-2007",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-plus-mobile-mobile-gamerip-2007",
+  "platforms": {
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pac-man-plus-mobile-mobile-gamerip-2007/Thumbnail.png"
+  ],
+  "year": 2007,
+  "date_added": "2022-12-27T00:00:00+00:00",
+  "developers": {
+    "Namco Networks America Inc.": "https://downloads.khinsider.com/game-soundtracks/developer/namco-networks-america"
+  },
+  "publishers": {
+    "Namco Networks America Inc.": "https://downloads.khinsider.com/game-soundtracks/publisher/namco-networks-america"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 220200,
+      "title": "Intermission 1",
+      "runtime": 13,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-man-plus-mobile-mobile-gamerip-2007/bjqktrxzei/Intermission%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-plus-mobile-mobile-gamerip-2007/Intermission%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 157286,
+      "title": "Intermission 2",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-man-plus-mobile-mobile-gamerip-2007/molfyvxihi/Intermission%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-plus-mobile-mobile-gamerip-2007/Intermission%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 178257,
+      "title": "Intermission 3",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-man-plus-mobile-mobile-gamerip-2007/jwwlieodkl/Intermission%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-plus-mobile-mobile-gamerip-2007/Intermission%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 83886,
+      "title": "Start",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-man-plus-mobile-mobile-gamerip-2007/savmbixpcf/Start.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-plus-mobile-mobile-gamerip-2007/Start.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 36,
+    "filesize_mp3_bytes": 639629,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

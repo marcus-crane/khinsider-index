@@ -1,0 +1,42 @@
+{
+  "title": "No Exit",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T15:33:37.098556+00:00",
+  "slug": "no-exit-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/no-exit-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/no-exit-amiga/No%20Exit.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2017-09-21T00:00:00+00:00",
+  "developers": {
+    "Tomahawk": "https://downloads.khinsider.com/game-soundtracks/developer/tomahawk"
+  },
+  "publishers": {
+    "Tomahawk": "https://downloads.khinsider.com/game-soundtracks/publisher/tomahawk"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5966397,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 207,
+      "source_mp3": "https://vgmsite.com/soundtracks/no-exit-amiga/xwiofjzj/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/no-exit-amiga/01_Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 207,
+    "filesize_mp3_bytes": 5966397,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

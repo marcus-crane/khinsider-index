@@ -1,0 +1,84 @@
+{
+  "title": "Pac-Mania",
+  "titles_alternative": [
+    "\u30d1\u30c3\u30af\u30de\u30cb\u30a2"
+  ],
+  "crawled_at": "2023-09-23T17:33:54.549757+00:00",
+  "slug": "pac-mania-sega-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pac-mania-sega-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pac-mania-sega-master-system/Pac-Mania%20%28Europe%29.png"
+  ],
+  "year": 1991,
+  "date_added": "2022-01-22T00:00:00+00:00",
+  "developers": {
+    "TekMagik": "https://downloads.khinsider.com/game-soundtracks/developer/tekmagik"
+  },
+  "publishers": {
+    "Tengen": "https://downloads.khinsider.com/game-soundtracks/publisher/tengen"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 178257,
+      "track_number": 1,
+      "title": "Game Start",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-mania-sega-master-system/xfxblvcacc/01.%20Game%20Start.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-mania-sega-master-system/01.%2520Game%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2673868,
+      "track_number": 2,
+      "title": "Block Town - Sandbox Land",
+      "runtime": 67,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-mania-sega-master-system/mrcezcetjl/02.%20Block%20Town%20-%20Sandbox%20Land.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-mania-sega-master-system/02.%2520Block%2520Town%2520-%2520Sandbox%2520Land.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2579496,
+      "track_number": 3,
+      "title": "Pac-Man's Park",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-mania-sega-master-system/kvdsztgejr/03.%20Pac-Man%27s%20Park.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-mania-sega-master-system/03.%2520Pac-Man%2527s%2520Park.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 346030,
+      "track_number": 4,
+      "title": "Game Start (Jungly Steps)",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-mania-sega-master-system/nmxymfrpmv/04.%20Game%20Start%20%28Jungly%20Steps%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-mania-sega-master-system/04.%2520Game%2520Start%2520%2528Jungly%2520Steps%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1751121,
+      "track_number": 5,
+      "title": "Jungly Steps",
+      "runtime": 44,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-mania-sega-master-system/ykdeivwceq/05.%20Jungly%20Steps.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-mania-sega-master-system/05.%2520Jungly%2520Steps.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 188,
+    "filesize_mp3_bytes": 7528772,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

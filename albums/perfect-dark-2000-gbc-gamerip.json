@@ -1,0 +1,65 @@
+{
+  "title": "Perfect Dark (GBC)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T18:39:56.994350+00:00",
+  "slug": "perfect-dark-2000-gbc-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/perfect-dark-2000-gbc-gamerip",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/perfect-dark-2000-gbc-gamerip/perfect-dark-gbc-ntsc-na-2000-back.png"
+  ],
+  "year": 2000,
+  "date_added": "2022-02-21T00:00:00+00:00",
+  "developers": {
+    "Rare": "https://downloads.khinsider.com/game-soundtracks/developer/rare"
+  },
+  "publishers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10055843,
+      "filesize_mp3_bytes": 4047503,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/perfect-dark-2000-gbc-gamerip/euvljtivsm/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/perfect-dark-2000-gbc-gamerip/euvljtivsm/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/perfect-dark-2000-gbc-gamerip/01%2520BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10076815,
+      "filesize_mp3_bytes": 3806330,
+      "track_number": 2,
+      "title": "BGM #02",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/perfect-dark-2000-gbc-gamerip/inkeczqgwi/02%20BGM%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/perfect-dark-2000-gbc-gamerip/inkeczqgwi/02%20BGM%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/perfect-dark-2000-gbc-gamerip/02%2520BGM%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10485760,
+      "filesize_mp3_bytes": 3848273,
+      "track_number": 3,
+      "title": "BGM #03",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/perfect-dark-2000-gbc-gamerip/yynqjgojmj/03%20BGM%20%2303.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/perfect-dark-2000-gbc-gamerip/yynqjgojmj/03%20BGM%20%2303.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/perfect-dark-2000-gbc-gamerip/03%2520BGM%2520%252303.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 540,
+    "filesize_mp3_bytes": 11702106,
+    "filesize_flac_bytes": 30618418,
+    "tracks": 3
+  }
+}

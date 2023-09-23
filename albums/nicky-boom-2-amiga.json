@@ -1,0 +1,84 @@
+{
+  "title": "Nicky Boom 2",
+  "titles_alternative": [
+    "Nicky 2"
+  ],
+  "crawled_at": "2023-09-23T14:55:26.141224+00:00",
+  "slug": "nicky-boom-2-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/nicky-boom-2-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/nicky-boom-2-amiga/NB2.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2016-06-01T00:00:00+00:00",
+  "developers": {
+    "Microids": "https://downloads.khinsider.com/game-soundtracks/developer/microids"
+  },
+  "publishers": {
+    "Micro\u00efds": "https://downloads.khinsider.com/game-soundtracks/publisher/micro-ds"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5337251,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 181,
+      "source_mp3": "https://vgmsite.com/soundtracks/nicky-boom-2-amiga/bhuvozdd/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nicky-boom-2-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3816816,
+      "track_number": 2,
+      "title": "World 1 The Forest",
+      "runtime": 120,
+      "source_mp3": "https://vgmsite.com/soundtracks/nicky-boom-2-amiga/fgpimxej/02_World%201%20The%20Forest.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nicky-boom-2-amiga/02_World%25201%2520The%2520Forest.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1751121,
+      "track_number": 3,
+      "title": "World 2 The Swamp",
+      "runtime": 59,
+      "source_mp3": "https://vgmsite.com/soundtracks/nicky-boom-2-amiga/qkeyfdyk/03_World%202%20The%20Swamp.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nicky-boom-2-amiga/03_World%25202%2520The%2520Swamp.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6847201,
+      "track_number": 4,
+      "title": "World 3 Cloud Ship",
+      "runtime": 227,
+      "source_mp3": "https://vgmsite.com/soundtracks/nicky-boom-2-amiga/hozimakb/04_World%203%20Cloud%20Ship.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nicky-boom-2-amiga/04_World%25203%2520Cloud%2520Ship.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3722444,
+      "track_number": 5,
+      "title": "World 4 Lava Caves",
+      "runtime": 124,
+      "source_mp3": "https://vgmsite.com/soundtracks/nicky-boom-2-amiga/fxnoznke/05_World%204%20Lava%20Caves.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nicky-boom-2-amiga/05_World%25204%2520Lava%2520Caves.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 711,
+    "filesize_mp3_bytes": 21474833,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

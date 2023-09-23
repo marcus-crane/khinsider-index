@@ -1,0 +1,53 @@
+{
+  "title": "PERSONA3 ORIGINAL DESKTOP ACCESSORY",
+  "titles_alternative": [
+    "Persona 3 ODA"
+  ],
+  "crawled_at": "2023-09-23T18:51:17.242358+00:00",
+  "slug": "persona-3-original-desktop-accessory",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/persona-3-original-desktop-accessory",
+  "platforms": {
+    "PS2": "https://downloads.khinsider.com/game-soundtracks/playstation-2"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/persona-3-original-desktop-accessory/coverart.jpg"
+  ],
+  "year": 2006,
+  "catalog_number": null,
+  "date_added": "2019-03-10T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Atlus": "https://downloads.khinsider.com/game-soundtracks/publisher/atlus"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5012193,
+      "track_number": 1,
+      "title": "Burn My Dread -Long Version-",
+      "runtime": 108,
+      "source_mp3": "https://vgmsite.com/soundtracks/persona-3-original-desktop-accessory/arkldead/01%20Burn%20My%20Dread%20-Long%20Version-.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/persona-3-original-desktop-accessory/01%2520Burn%2520My%2520Dread%2520-Long%2520Version-.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 33239859,
+      "track_number": 2,
+      "title": "P3 Heaven's Remix",
+      "runtime": 814,
+      "source_mp3": "https://vgmsite.com/soundtracks/persona-3-original-desktop-accessory/oeqzznfr/02%20P3%20Heaven%27s%20Remix.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/persona-3-original-desktop-accessory/02%2520P3%2520Heaven%2527s%2520Remix.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 922,
+    "filesize_mp3_bytes": 38252052,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

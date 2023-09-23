@@ -1,0 +1,56 @@
+{
+  "title": "Neo Geo CD BIOS",
+  "titles_alternative": [
+    "\u30cd\u30aa\u30b8\u30aaCD"
+  ],
+  "crawled_at": "2023-09-23T14:17:29.539399+00:00",
+  "slug": "neo-geo-cd-bios-snk-neo-geo-cd",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/neo-geo-cd-bios-snk-neo-geo-cd",
+  "platforms": {
+    "Neo Geo": "https://downloads.khinsider.com/game-soundtracks/neo-geo"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/neo-geo-cd-bios-snk-neo-geo-cd/Neo%20Geo%20CD%20BIOS.png"
+  ],
+  "year": 1994,
+  "date_added": "2022-05-23T00:00:00+00:00",
+  "developers": {
+    "SNK": "https://downloads.khinsider.com/game-soundtracks/developer/snk"
+  },
+  "publishers": {
+    "SNK": "https://downloads.khinsider.com/game-soundtracks/publisher/snk"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 838860,
+      "filesize_mp3_bytes": 230686,
+      "track_number": 1,
+      "title": "CD BIOS",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/neo-geo-cd-bios-snk-neo-geo-cd/ahrlupoqko/01%20CD%20BIOS.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/neo-geo-cd-bios-snk-neo-geo-cd/ahrlupoqko/01%20CD%20BIOS.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/neo-geo-cd-bios-snk-neo-geo-cd/01%2520CD%2520BIOS.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1363148,
+      "filesize_mp3_bytes": 408944,
+      "track_number": 2,
+      "title": "CDZ BIOS",
+      "runtime": 17,
+      "source_mp3": "https://vgmsite.com/soundtracks/neo-geo-cd-bios-snk-neo-geo-cd/ubrlclddmr/02%20CDZ%20BIOS.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/neo-geo-cd-bios-snk-neo-geo-cd/ubrlclddmr/02%20CDZ%20BIOS.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/neo-geo-cd-bios-snk-neo-geo-cd/02%2520CDZ%2520BIOS.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 25,
+    "filesize_mp3_bytes": 639630,
+    "filesize_flac_bytes": 2202008,
+    "tracks": 2
+  }
+}

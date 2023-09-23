@@ -1,0 +1,63 @@
+{
+  "title": "Onslaught",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T16:38:53.282367+00:00",
+  "slug": "onslaught-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/onslaught-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/onslaught-amiga/Onslaught.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2016-02-28T00:00:00+00:00",
+  "developers": {
+    "Realms": "https://downloads.khinsider.com/game-soundtracks/developer/realms"
+  },
+  "publishers": {
+    "Hewson": "https://downloads.khinsider.com/game-soundtracks/publisher/hewson",
+    "Mirrorsoft": "https://downloads.khinsider.com/game-soundtracks/publisher/mirrorsoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2432696,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 88,
+      "source_mp3": "https://vgmsite.com/soundtracks/onslaught-amiga/ngvqaxyg/01_Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/onslaught-amiga/01_Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7518289,
+      "track_number": 2,
+      "title": "Main Theme",
+      "runtime": 273,
+      "source_mp3": "https://vgmsite.com/soundtracks/onslaught-amiga/oirqwddv/02_Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/onslaught-amiga/02_Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3323985,
+      "track_number": 3,
+      "title": "High Score",
+      "runtime": 114,
+      "source_mp3": "https://vgmsite.com/soundtracks/onslaught-amiga/ucevxicu/03_High%20Score.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/onslaught-amiga/03_High%2520Score.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 475,
+    "filesize_mp3_bytes": 13274970,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

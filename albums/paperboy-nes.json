@@ -1,0 +1,75 @@
+{
+  "title": "Paperboy",
+  "titles_alternative": [
+    "\u30da\u30fc\u30d1\u30fc\u30dc\u30fc\u30a4",
+    "\u9280\u8272\u5148\u92d2"
+  ],
+  "crawled_at": "2023-09-23T18:10:08.101432+00:00",
+  "slug": "paperboy-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/paperboy-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/paperboy-nes/Paperboy.jpg"
+  ],
+  "year": 1988,
+  "date_added": "2017-01-23T00:00:00+00:00",
+  "developers": {
+    "Tengen": "https://downloads.khinsider.com/game-soundtracks/developer/tengen"
+  },
+  "publishers": {
+    "Mindscape": "https://downloads.khinsider.com/game-soundtracks/publisher/mindscape"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5609881,
+      "track_number": 1,
+      "title": "Paper Route",
+      "runtime": 189,
+      "source_mp3": "https://vgmsite.com/soundtracks/paperboy-nes/bsvpwslu/01_Paper%20Route.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/paperboy-nes/01_Paper%2520Route.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3942645,
+      "track_number": 2,
+      "title": "Training",
+      "runtime": 123,
+      "source_mp3": "https://vgmsite.com/soundtracks/paperboy-nes/txojxnbm/02_Training.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/paperboy-nes/02_Training.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2097152,
+      "track_number": 3,
+      "title": "Training (No Intro)",
+      "runtime": 65,
+      "source_mp3": "https://vgmsite.com/soundtracks/paperboy-nes/avwikfjt/03_Training%20%28No%20Intro%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/paperboy-nes/03_Training%2520%2528No%2520Intro%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 4,
+      "title": "Finished Training",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/paperboy-nes/ceooschz/04_Finished%20Training.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/paperboy-nes/04_Finished%2520Training.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 381,
+    "filesize_mp3_bytes": 11733564,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

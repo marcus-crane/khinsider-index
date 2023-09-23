@@ -1,0 +1,76 @@
+{
+  "title": "Peppa Pig - The Game",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T18:38:38.244418+00:00",
+  "slug": "peppa-pig-the-game-2008-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/peppa-pig-the-game-2008-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/peppa-pig-the-game-2008-nds-gamerip/Peppa%20Pig%20-%20The%20Game.jpg"
+  ],
+  "year": 2008,
+  "date_added": "2020-06-19T00:00:00+00:00",
+  "developers": {
+    "Asylum": "https://downloads.khinsider.com/game-soundtracks/developer/asylum"
+  },
+  "publishers": {
+    "Pinnacle": "https://downloads.khinsider.com/game-soundtracks/publisher/pinnacle"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 618659,
+      "filesize_mp3_bytes": 220200,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 21,
+      "source_mp3": "https://vgmsite.com/soundtracks/peppa-pig-the-game-2008-nds-gamerip/uyiaoonujd/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/peppa-pig-the-game-2008-nds-gamerip/uyiaoonujd/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/peppa-pig-the-game-2008-nds-gamerip/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 734003,
+      "filesize_mp3_bytes": 262144,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 25,
+      "source_mp3": "https://vgmsite.com/soundtracks/peppa-pig-the-game-2008-nds-gamerip/skpmdwhnjq/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/peppa-pig-the-game-2008-nds-gamerip/skpmdwhnjq/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/peppa-pig-the-game-2008-nds-gamerip/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 513802,
+      "filesize_mp3_bytes": 167772,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 15,
+      "source_mp3": "https://vgmsite.com/soundtracks/peppa-pig-the-game-2008-nds-gamerip/ykunokjwet/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/peppa-pig-the-game-2008-nds-gamerip/ykunokjwet/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/peppa-pig-the-game-2008-nds-gamerip/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 587202,
+      "filesize_mp3_bytes": 199229,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 18,
+      "source_mp3": "https://vgmsite.com/soundtracks/peppa-pig-the-game-2008-nds-gamerip/opqfmuwfmh/04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/peppa-pig-the-game-2008-nds-gamerip/opqfmuwfmh/04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/peppa-pig-the-game-2008-nds-gamerip/04.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 79,
+    "filesize_mp3_bytes": 849345,
+    "filesize_flac_bytes": 2453666,
+    "tracks": 4
+  }
+}

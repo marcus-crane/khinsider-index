@@ -1,0 +1,112 @@
+{
+  "title": "Paramax",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T18:12:50.828147+00:00",
+  "slug": "paramax-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/paramax-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/paramax-amiga/30078--paramax.png"
+  ],
+  "year": 1991,
+  "date_added": "2019-04-15T00:00:00+00:00",
+  "developers": {
+    "CrossTechnics.": "https://downloads.khinsider.com/game-soundtracks/developer/crosstechnics"
+  },
+  "publishers": {
+    "Kingsoft GmbH": "https://downloads.khinsider.com/game-soundtracks/publisher/kingsoft-gmbh"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5463080,
+      "track_number": 1,
+      "title": "Yazzbox (Title Screen)",
+      "runtime": 187,
+      "source_mp3": "https://vgmsite.com/soundtracks/paramax-amiga/kzxlqmev/01_Yazzbox%20%28Title%20Screen%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/paramax-amiga/01_Yazzbox%2520%2528Title%2520Screen%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 2,
+      "title": "Get Ready!",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/paramax-amiga/zbeqmnfo/02_Get%20Ready%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/paramax-amiga/02_Get%2520Ready%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3921674,
+      "track_number": 3,
+      "title": "Deepwood Adventures (World Techno)",
+      "runtime": 146,
+      "source_mp3": "https://vgmsite.com/soundtracks/paramax-amiga/stperdxg/03_Deepwood%20Adventures%20%28World%20Techno%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/paramax-amiga/03_Deepwood%2520Adventures%2520%2528World%2520Techno%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 367001,
+      "track_number": 4,
+      "title": "Stage Clear",
+      "runtime": 12,
+      "source_mp3": "https://vgmsite.com/soundtracks/paramax-amiga/hvlonobv/04_Stage%20Clear.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/paramax-amiga/04_Stage%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8514437,
+      "track_number": 5,
+      "title": "Paramaxad (World Mino & Tropico)",
+      "runtime": 286,
+      "source_mp3": "https://vgmsite.com/soundtracks/paramax-amiga/kpupippd/05_Paramaxad%20%28World%20Mino%20%26%20Tropico%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/paramax-amiga/05_Paramaxad%2520%2528World%2520Mino%2520%2526%2520Tropico%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4928307,
+      "track_number": 6,
+      "title": "Accordian (Ending)",
+      "runtime": 176,
+      "source_mp3": "https://vgmsite.com/soundtracks/paramax-amiga/dhxcfznm/06_Accordian%20%28Ending%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/paramax-amiga/06_Accordian%2520%2528Ending%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 188743,
+      "track_number": 7,
+      "title": "Hurry Up!",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/paramax-amiga/aovqyrgl/07_Hurry%20Up%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/paramax-amiga/07_Hurry%2520Up%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 8,
+      "title": "Unknown",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/paramax-amiga/zuudymuh/08_Unknown.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/paramax-amiga/08_Unknown.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 822,
+    "filesize_mp3_bytes": 23582470,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

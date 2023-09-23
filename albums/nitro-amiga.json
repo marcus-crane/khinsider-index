@@ -1,0 +1,102 @@
+{
+  "title": "Nitro",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T15:31:35.917758+00:00",
+  "slug": "nitro-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/nitro-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/nitro-amiga/N1.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2016-05-01T00:00:00+00:00",
+  "developers": {
+    "Psygnosis": "https://downloads.khinsider.com/game-soundtracks/developer/psygnosis"
+  },
+  "publishers": {
+    "Psygnosis": "https://downloads.khinsider.com/game-soundtracks/publisher/psygnosis"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 754974,
+      "track_number": 1,
+      "title": "Loading Tune",
+      "runtime": 28,
+      "source_mp3": "https://vgmsite.com/soundtracks/nitro-amiga/ofwvqnnj/01_Loading%20Tune.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nitro-amiga/01_Loading%2520Tune.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4037017,
+      "track_number": 2,
+      "title": "In-Game Music",
+      "runtime": 122,
+      "source_mp3": "https://vgmsite.com/soundtracks/nitro-amiga/tyniapjv/02_In-Game%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nitro-amiga/02_In-Game%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 346030,
+      "track_number": 3,
+      "title": "Results",
+      "runtime": 13,
+      "source_mp3": "https://vgmsite.com/soundtracks/nitro-amiga/zzyrqpfz/03_Results.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nitro-amiga/03_Results.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 943718,
+      "track_number": 4,
+      "title": "Shop",
+      "runtime": 31,
+      "source_mp3": "https://vgmsite.com/soundtracks/nitro-amiga/jwvvjene/04_Shop.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nitro-amiga/04_Shop.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 178257,
+      "track_number": 5,
+      "title": "Game Over",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/nitro-amiga/lcleiimh/05_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nitro-amiga/05_Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 6,
+      "title": "Unknown",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/nitro-amiga/mwsymzkp/06_Unknown.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nitro-amiga/06_Unknown.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3470786,
+      "track_number": 7,
+      "title": "In-Game Music (4 Channel Version)",
+      "runtime": 122,
+      "source_mp3": "https://vgmsite.com/soundtracks/nitro-amiga/tajtqtqr/07_In-Game%20Music%20%284%20Channel%20Version%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nitro-amiga/07_In-Game%2520Music%2520%25284%2520Channel%2520Version%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 328,
+    "filesize_mp3_bytes": 9867096,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

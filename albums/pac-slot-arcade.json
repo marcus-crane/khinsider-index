@@ -1,0 +1,111 @@
+{
+  "title": "Pac-Slot",
+  "titles_alternative": [
+    "\u30d1\u30c3\u30af\u30b9\u30ed\u30c3\u30c8"
+  ],
+  "crawled_at": "2023-09-23T17:34:27.718924+00:00",
+  "slug": "pac-slot-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pac-slot-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pac-slot-arcade/Pac-Slot%20%28Type-B%29.png"
+  ],
+  "year": 1996,
+  "date_added": "2022-05-18T00:00:00+00:00",
+  "developers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/developer/namco"
+  },
+  "publishers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/publisher/namco"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 272629,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 1,
+      "title": "Music 1",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-slot-arcade/hqhkcarwhr/01%20Music%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pac-slot-arcade/hqhkcarwhr/01%20Music%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-slot-arcade/01%2520Music%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 209715,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 2,
+      "title": "Music 2",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-slot-arcade/cnhaaikuzm/02%20Music%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pac-slot-arcade/cnhaaikuzm/02%20Music%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-slot-arcade/02%2520Music%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 136314,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 3,
+      "title": "Music 3",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-slot-arcade/fqiqxnzgpj/03%20Music%203.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pac-slot-arcade/fqiqxnzgpj/03%20Music%203.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-slot-arcade/03%2520Music%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 178257,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 4,
+      "title": "Music 4",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-slot-arcade/rzcdfmeetl/04%20Music%204.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pac-slot-arcade/rzcdfmeetl/04%20Music%204.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-slot-arcade/04%2520Music%25204.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 220200,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 5,
+      "title": "Music 5",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-slot-arcade/unxghhlhap/05%20Music%205.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pac-slot-arcade/unxghhlhap/05%20Music%205.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-slot-arcade/05%2520Music%25205.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 199229,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 6,
+      "title": "Music 6",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-slot-arcade/mwonkqipbk/06%20Music%206.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pac-slot-arcade/mwonkqipbk/06%20Music%206.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-slot-arcade/06%2520Music%25206.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 450887,
+      "filesize_mp3_bytes": 251658,
+      "track_number": 7,
+      "title": "Music 7",
+      "runtime": 14,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-slot-arcade/eutspfthgt/07%20Music%207.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pac-slot-arcade/eutspfthgt/07%20Music%207.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-slot-arcade/07%2520Music%25207.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 56,
+    "filesize_mp3_bytes": 985659,
+    "filesize_flac_bytes": 1667231,
+    "tracks": 7
+  }
+}

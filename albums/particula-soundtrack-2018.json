@@ -1,0 +1,76 @@
+{
+  "title": "Particula Soundtrack",
+  "titles_alternative": [
+    "Particula"
+  ],
+  "crawled_at": "2023-09-23T18:22:55.125903+00:00",
+  "slug": "particula-soundtrack-2018",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/particula-soundtrack-2018",
+  "platforms": {
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/particula-soundtrack-2018/cover.png"
+  ],
+  "year": 2018,
+  "catalog_number": null,
+  "date_added": "2023-01-26T00:00:00+00:00",
+  "developers": {
+    "SA Industry": "https://downloads.khinsider.com/game-soundtracks/developer/sa-industry"
+  },
+  "publishers": {
+    "SA Industry": "https://downloads.khinsider.com/game-soundtracks/publisher/sa-industry"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3114270,
+      "track_number": 1,
+      "title": "Igo Carminatti - Particula",
+      "runtime": 78,
+      "source_mp3": "https://vgmsite.com/soundtracks/particula-soundtrack-2018/rqjbnjjxgp/01.%20Igo%20Carminatti%20-%20Particula.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/particula-soundtrack-2018/01.%2520Igo%2520Carminatti%2520-%2520Particula.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2610954,
+      "track_number": 2,
+      "title": "Frost Orb - Dreaming",
+      "runtime": 65,
+      "source_mp3": "https://vgmsite.com/soundtracks/particula-soundtrack-2018/sbfuqpbszj/02.%20Frost%20Orb%20-%20Dreaming.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/particula-soundtrack-2018/02.%2520Frost%2520Orb%2520-%2520Dreaming.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3449815,
+      "track_number": 3,
+      "title": "Igo Carminatti - Star Friends",
+      "runtime": 86,
+      "source_mp3": "https://vgmsite.com/soundtracks/particula-soundtrack-2018/huhkvpyjaq/03.%20Igo%20Carminatti%20-%20Star%20Friends.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/particula-soundtrack-2018/03.%2520Igo%2520Carminatti%2520-%2520Star%2520Friends.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4183818,
+      "track_number": 4,
+      "title": "Igo Carminatti - Distant",
+      "runtime": 104,
+      "source_mp3": "https://vgmsite.com/soundtracks/particula-soundtrack-2018/gkkbeonhcw/04.%20Igo%20Carminatti%20-%20Distant.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/particula-soundtrack-2018/04.%2520Igo%2520Carminatti%2520-%2520Distant.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 333,
+    "filesize_mp3_bytes": 13358857,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

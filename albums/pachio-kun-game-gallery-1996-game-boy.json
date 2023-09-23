@@ -1,0 +1,47 @@
+{
+  "title": "Pachio-kun - Game Gallery",
+  "titles_alternative": [
+    "\u30d1\u30c1\u592b\u304f\u3093 \u30b2\u30fc\u30e0\u30ae\u30e3\u30e9\u30ea\u30fc"
+  ],
+  "crawled_at": "2023-09-23T17:42:22.425113+00:00",
+  "slug": "pachio-kun-game-gallery-1996-game-boy",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pachio-kun-game-gallery-1996-game-boy",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pachio-kun-game-gallery-1996-game-boy/Pachio-kun%20-%20Game%20Gallery.jpg"
+  ],
+  "year": 1996,
+  "date_added": "2020-08-22T00:00:00+00:00",
+  "developers": {
+    "Aisystem Tokyo": "https://downloads.khinsider.com/game-soundtracks/developer/aisystem-tokyo",
+    "Marionette": "https://downloads.khinsider.com/game-soundtracks/developer/marionette",
+    "Soft Machine": "https://downloads.khinsider.com/game-soundtracks/developer/soft-machine"
+  },
+  "publishers": {
+    "Coconuts Japan": "https://downloads.khinsider.com/game-soundtracks/publisher/coconuts-japan"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10590617,
+      "filesize_mp3_bytes": 3344957,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/pachio-kun-game-gallery-1996-game-boy/udmzeygrgq/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pachio-kun-game-gallery-1996-game-boy/udmzeygrgq/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pachio-kun-game-gallery-1996-game-boy/01%2520BGM%2520%252301.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 180,
+    "filesize_mp3_bytes": 3344957,
+    "filesize_flac_bytes": 10590617,
+    "tracks": 1
+  }
+}

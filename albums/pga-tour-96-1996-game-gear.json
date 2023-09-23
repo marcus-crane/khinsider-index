@@ -1,0 +1,87 @@
+{
+  "title": "PGA Tour 96",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T19:12:00.423052+00:00",
+  "slug": "pga-tour-96-1996-game-gear",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pga-tour-96-1996-game-gear",
+  "platforms": {
+    "Game Gear": "https://downloads.khinsider.com/game-soundtracks/sega-game-gear"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pga-tour-96-1996-game-gear/PGA%20Tour%2096%20%28USA%2C%20Europe%29.png"
+  ],
+  "year": 1996,
+  "date_added": "2020-07-17T00:00:00+00:00",
+  "developers": {
+    "Ceris": "https://downloads.khinsider.com/game-soundtracks/developer/ceris"
+  },
+  "publishers": {
+    "Black Pearl": "https://downloads.khinsider.com/game-soundtracks/publisher/black-pearl"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10464788,
+      "filesize_mp3_bytes": 3135242,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/pga-tour-96-1996-game-gear/spqbwpenkf/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pga-tour-96-1996-game-gear/spqbwpenkf/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pga-tour-96-1996-game-gear/01%2520BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10747904,
+      "filesize_mp3_bytes": 3208642,
+      "track_number": 2,
+      "title": "BGM #02",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/pga-tour-96-1996-game-gear/pnejymejrb/02%20BGM%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pga-tour-96-1996-game-gear/pnejymejrb/02%20BGM%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pga-tour-96-1996-game-gear/02%2520BGM%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11083448,
+      "filesize_mp3_bytes": 3219128,
+      "track_number": 3,
+      "title": "BGM #03",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/pga-tour-96-1996-game-gear/awgockuohb/03%20BGM%20%2303.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pga-tour-96-1996-game-gear/awgockuohb/03%20BGM%20%2303.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pga-tour-96-1996-game-gear/03%2520BGM%2520%252303.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10401873,
+      "filesize_mp3_bytes": 3323985,
+      "track_number": 4,
+      "title": "BGM #04",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/pga-tour-96-1996-game-gear/bcqftxktor/04%20BGM%20%2304.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pga-tour-96-1996-game-gear/bcqftxktor/04%20BGM%20%2304.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pga-tour-96-1996-game-gear/04%2520BGM%2520%252304.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8482979,
+      "filesize_mp3_bytes": 3114270,
+      "track_number": 5,
+      "title": "BGM #05",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/pga-tour-96-1996-game-gear/eignxskgsi/05%20BGM%20%2305.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pga-tour-96-1996-game-gear/eignxskgsi/05%20BGM%20%2305.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pga-tour-96-1996-game-gear/05%2520BGM%2520%252305.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 900,
+    "filesize_mp3_bytes": 16001267,
+    "filesize_flac_bytes": 51180992,
+    "tracks": 5
+  }
+}

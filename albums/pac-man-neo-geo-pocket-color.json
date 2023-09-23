@@ -1,0 +1,68 @@
+{
+  "title": "Pac-Man (Neo Geo Pocket Color)",
+  "titles_alternative": [
+    "\u30d1\u30c3\u30af\u30de\u30f3"
+  ],
+  "crawled_at": "2023-09-23T17:30:40.030391+00:00",
+  "slug": "pac-man-neo-geo-pocket-color",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-neo-geo-pocket-color",
+  "platforms": {
+    "Neo Geo": "https://downloads.khinsider.com/game-soundtracks/neo-geo"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pac-man-neo-geo-pocket-color/Pac-Man%20%28J%29.png"
+  ],
+  "year": 1999,
+  "date_added": "2022-12-16T00:00:00+00:00",
+  "developers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/developer/namco"
+  },
+  "publishers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/publisher/namco",
+    "SNK": "https://downloads.khinsider.com/game-soundtracks/publisher/snk"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 891289,
+      "filesize_mp3_bytes": 199229,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-man-neo-geo-pocket-color/owmoofaeun/01.%20Intro.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pac-man-neo-geo-pocket-color/owmoofaeun/01.%20Intro.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-neo-geo-pocket-color/01.%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2243952,
+      "filesize_mp3_bytes": 398458,
+      "track_number": 2,
+      "title": "Intermission",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-man-neo-geo-pocket-color/jtdvqrieux/02.%20Intermission.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pac-man-neo-geo-pocket-color/jtdvqrieux/02.%20Intermission.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-neo-geo-pocket-color/02.%2520Intermission.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 440401,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 3,
+      "title": "Life Lost",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-man-neo-geo-pocket-color/xxjykpocnk/03.%20Life%20Lost.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pac-man-neo-geo-pocket-color/xxjykpocnk/03.%20Life%20Lost.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-neo-geo-pocket-color/03.%2520Life%2520Lost.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 17,
+    "filesize_mp3_bytes": 713030,
+    "filesize_flac_bytes": 3575642,
+    "tracks": 3
+  }
+}

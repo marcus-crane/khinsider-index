@@ -1,0 +1,74 @@
+{
+  "title": "Neko Neko Bakery DS",
+  "titles_alternative": [
+    "\u306d\u3053\u306d\u3053\u30d9\u30fc\u30ab\u30ea\u30fcDS"
+  ],
+  "crawled_at": "2023-09-23T14:11:49.695124+00:00",
+  "slug": "neko-neko-bakery-ds-2009-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/neko-neko-bakery-ds-2009-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/neko-neko-bakery-ds-2009-nds-gamerip/Neko%20Neko%20Bakery%20DS.jpg"
+  ],
+  "year": 2009,
+  "date_added": "2020-06-18T00:00:00+00:00",
+  "developers": {
+    "Hoget": "https://downloads.khinsider.com/game-soundtracks/developer/hoget"
+  },
+  "publishers": {
+    "Hoget": "https://downloads.khinsider.com/game-soundtracks/publisher/hoget"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 419430,
+      "filesize_mp3_bytes": 136314,
+      "title": "J Get",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/neko-neko-bakery-ds-2009-nds-gamerip/gkpvvbinzf/J%20Get.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/neko-neko-bakery-ds-2009-nds-gamerip/gkpvvbinzf/J%20Get.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/neko-neko-bakery-ds-2009-nds-gamerip/J%2520Get.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 807403,
+      "filesize_mp3_bytes": 262144,
+      "title": "J Max",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/neko-neko-bakery-ds-2009-nds-gamerip/ieipgowpev/J%20Max.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/neko-neko-bakery-ds-2009-nds-gamerip/ieipgowpev/J%20Max.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/neko-neko-bakery-ds-2009-nds-gamerip/J%2520Max.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 251658,
+      "filesize_mp3_bytes": 83886,
+      "title": "J Over",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/neko-neko-bakery-ds-2009-nds-gamerip/ajdkaggslm/J%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/neko-neko-bakery-ds-2009-nds-gamerip/ajdkaggslm/J%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/neko-neko-bakery-ds-2009-nds-gamerip/J%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8095006,
+      "filesize_mp3_bytes": 2936012,
+      "title": "Mini Game",
+      "runtime": 95,
+      "source_mp3": "https://vgmsite.com/soundtracks/neko-neko-bakery-ds-2009-nds-gamerip/qbiehymdmt/Mini%20Game.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/neko-neko-bakery-ds-2009-nds-gamerip/qbiehymdmt/Mini%20Game.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/neko-neko-bakery-ds-2009-nds-gamerip/Mini%2520Game.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 110,
+    "filesize_mp3_bytes": 3418356,
+    "filesize_flac_bytes": 9573497,
+    "tracks": 4
+  }
+}

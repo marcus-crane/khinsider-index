@@ -1,0 +1,84 @@
+{
+  "title": "New Rally-X",
+  "titles_alternative": [
+    "\u30cb\u30e5\u30fc\u30e9\u30ea\u30fcX"
+  ],
+  "crawled_at": "2023-09-23T14:34:30.955351+00:00",
+  "slug": "new-rally-x-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/new-rally-x-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/new-rally-x-arcade/NRX.png"
+  ],
+  "year": 1981,
+  "date_added": "2018-05-01T00:00:00+00:00",
+  "developers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/developer/namco"
+  },
+  "publishers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/publisher/namco"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 157286,
+      "track_number": 1,
+      "title": "High Score",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/new-rally-x-arcade/sefzgdms/01_High%20Score.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/new-rally-x-arcade/01_High%2520Score.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1069547,
+      "track_number": 2,
+      "title": "Level BGM",
+      "runtime": 62,
+      "source_mp3": "https://vgmsite.com/soundtracks/new-rally-x-arcade/aoyewpzg/02_Level%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/new-rally-x-arcade/02_Level%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 3,
+      "title": "Level Finish",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/new-rally-x-arcade/mjrgbsdt/03_Level%20Finish.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/new-rally-x-arcade/03_Level%2520Finish.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 4,
+      "title": "Bonus Round Start",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/new-rally-x-arcade/zjwinlnr/04_Bonus%20Round%20Start.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/new-rally-x-arcade/04_Bonus%2520Round%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 5,
+      "title": "Game Start",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/new-rally-x-arcade/quoloukn/05_Game%20Start.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/new-rally-x-arcade/05_Game%2520Start.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 83,
+    "filesize_mp3_bytes": 1447033,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

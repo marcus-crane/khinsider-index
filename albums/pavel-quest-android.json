@@ -1,0 +1,87 @@
+{
+  "title": "Pavel Quest",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T18:29:10.048591+00:00",
+  "slug": "pavel-quest-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pavel-quest-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pavel-quest-android/1.jpg"
+  ],
+  "date_added": "2017-03-14T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1279262,
+      "track_number": 1,
+      "title": "intro",
+      "runtime": 32,
+      "source_mp3": "https://vgmsite.com/soundtracks/pavel-quest-android/rzyvdnto/01%20intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pavel-quest-android/01%2520intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1331691,
+      "track_number": 2,
+      "title": "adventure ho!",
+      "runtime": 83,
+      "source_mp3": "https://vgmsite.com/soundtracks/pavel-quest-android/egpdmuro/02%20adventure%20ho%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pavel-quest-android/02%2520adventure%2520ho%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1530920,
+      "track_number": 3,
+      "title": "crystal cavern",
+      "runtime": 95,
+      "source_mp3": "https://vgmsite.com/soundtracks/pavel-quest-android/jsunchnt/03%20crystal%20cavern.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pavel-quest-android/03%2520crystal%2520cavern.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1845493,
+      "track_number": 4,
+      "title": "strange dungeon",
+      "runtime": 115,
+      "source_mp3": "https://vgmsite.com/soundtracks/pavel-quest-android/dochjztt/04%20strange%20dungeon.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pavel-quest-android/04%2520strange%2520dungeon.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1415577,
+      "track_number": 5,
+      "title": "symphony of chaos",
+      "runtime": 88,
+      "source_mp3": "https://vgmsite.com/soundtracks/pavel-quest-android/ibvadger/05%20symphony%20of%20chaos.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pavel-quest-android/05%2520symphony%2520of%2520chaos.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 429916,
+      "track_number": 6,
+      "title": "fight",
+      "runtime": 27,
+      "source_mp3": "https://vgmsite.com/soundtracks/pavel-quest-android/azlmsxur/06%20fight.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pavel-quest-android/06%2520fight.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 440,
+    "filesize_mp3_bytes": 7832859,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

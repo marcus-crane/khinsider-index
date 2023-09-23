@@ -1,0 +1,112 @@
+{
+  "title": "Phantom of the Asteroid",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T19:28:22.537723+00:00",
+  "slug": "phantom-of-the-asteroid-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/phantom-of-the-asteroid-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/phantom-of-the-asteroid-commodore-64/Phantom%20of%20the%20Asteroid.jpg"
+  ],
+  "year": 1986,
+  "date_added": "2019-03-25T00:00:00+00:00",
+  "developers": {
+    "Mastertronic": "https://downloads.khinsider.com/game-soundtracks/developer/mastertronic"
+  },
+  "publishers": {
+    "Mastertronic": "https://downloads.khinsider.com/game-soundtracks/publisher/mastertronic"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5054136,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 273,
+      "source_mp3": "https://vgmsite.com/soundtracks/phantom-of-the-asteroid-commodore-64/tkceqdqj/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/phantom-of-the-asteroid-commodore-64/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6616514,
+      "track_number": 2,
+      "title": "In-Game BGM",
+      "runtime": 280,
+      "source_mp3": "https://vgmsite.com/soundtracks/phantom-of-the-asteroid-commodore-64/fflocghj/02_In-Game%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/phantom-of-the-asteroid-commodore-64/02_In-Game%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2600468,
+      "track_number": 3,
+      "title": "Ending",
+      "runtime": 155,
+      "source_mp3": "https://vgmsite.com/soundtracks/phantom-of-the-asteroid-commodore-64/ajhngwef/03_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/phantom-of-the-asteroid-commodore-64/03_Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 346030,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 21,
+      "source_mp3": "https://vgmsite.com/soundtracks/phantom-of-the-asteroid-commodore-64/zmovzuuz/04_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/phantom-of-the-asteroid-commodore-64/04_Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8430551,
+      "track_number": 5,
+      "title": "Title Screen (SID Stereo)",
+      "runtime": 272,
+      "source_mp3": "https://vgmsite.com/soundtracks/phantom-of-the-asteroid-commodore-64/whvqsuvj/05_Title%20Screen%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/phantom-of-the-asteroid-commodore-64/05_Title%2520Screen%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10370416,
+      "track_number": 6,
+      "title": "In-Game BGM (SID Stereo)",
+      "runtime": 279,
+      "source_mp3": "https://vgmsite.com/soundtracks/phantom-of-the-asteroid-commodore-64/kpvwvqqg/06_In-Game%20BGM%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/phantom-of-the-asteroid-commodore-64/06_In-Game%2520BGM%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4477419,
+      "track_number": 7,
+      "title": "Ending (SID Stereo)",
+      "runtime": 154,
+      "source_mp3": "https://vgmsite.com/soundtracks/phantom-of-the-asteroid-commodore-64/ojcxhzti/07_Ending%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/phantom-of-the-asteroid-commodore-64/07_Ending%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 587202,
+      "track_number": 8,
+      "title": "Game Over (SID Stereo)",
+      "runtime": 21,
+      "source_mp3": "https://vgmsite.com/soundtracks/phantom-of-the-asteroid-commodore-64/sxzxmasr/08_Game%20Over%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/phantom-of-the-asteroid-commodore-64/08_Game%2520Over%2520%2528SID%2520Stereo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1455,
+    "filesize_mp3_bytes": 38482736,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

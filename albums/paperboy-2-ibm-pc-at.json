@@ -1,0 +1,50 @@
+{
+  "title": "Paperboy 2",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T18:09:39.156180+00:00",
+  "slug": "paperboy-2-ibm-pc-at",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/paperboy-2-ibm-pc-at",
+  "platforms": {
+    "IBM PC/AT": "https://downloads.khinsider.com/game-soundtracks/ibm-pc-at"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/paperboy-2-ibm-pc-at/Paperboy%202.png"
+  ],
+  "year": 1991,
+  "date_added": "2022-05-25T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6616514,
+      "filesize_mp3_bytes": 3596615,
+      "track_number": 1,
+      "title": "Paper Route",
+      "runtime": 187,
+      "source_mp3": "https://vgmsite.com/soundtracks/paperboy-2-ibm-pc-at/sukxklxrfj/01%20Paper%20Route.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/paperboy-2-ibm-pc-at/sukxklxrfj/01%20Paper%20Route.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/paperboy-2-ibm-pc-at/01%2520Paper%2520Route.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1635778,
+      "filesize_mp3_bytes": 859832,
+      "track_number": 2,
+      "title": "Training Course",
+      "runtime": 41,
+      "source_mp3": "https://vgmsite.com/soundtracks/paperboy-2-ibm-pc-at/lafvcxfvcv/02%20Training%20Course.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/paperboy-2-ibm-pc-at/lafvcxfvcv/02%20Training%20Course.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/paperboy-2-ibm-pc-at/02%2520Training%2520Course.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 228,
+    "filesize_mp3_bytes": 4456447,
+    "filesize_flac_bytes": 8252292,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "title": "Pac-Man Game Sound Effects",
+  "titles_alternative": [
+    "\u30d1\u30c3\u30af\u30de\u30f3"
+  ],
+  "crawled_at": "2023-09-23T17:29:48.941425+00:00",
+  "slug": "pac-man-game-sound-effects",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-game-sound-effects",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pac-man-game-sound-effects/PM.jpg"
+  ],
+  "year": 1980,
+  "date_added": "2018-08-19T00:00:00+00:00",
+  "developers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/developer/namco"
+  },
+  "publishers": {
+    "Midway": "https://downloads.khinsider.com/game-soundtracks/publisher/midway",
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/publisher/namco"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10485,
+      "title": "Chomp",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-man-game-sound-effects/knwtmadt/Chomp.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-game-sound-effects/Chomp.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 73400,
+      "title": "Cutscene",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-man-game-sound-effects/rlgcahmx/Cutscene.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-game-sound-effects/Cutscene.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 20971,
+      "title": "Death",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-man-game-sound-effects/yfkgsbwu/Death.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-game-sound-effects/Death.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 20971,
+      "title": "Extra",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-man-game-sound-effects/gthloiiq/Extra.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-game-sound-effects/Extra.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10485,
+      "title": "Fruit",
+      "runtime": 0,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-man-game-sound-effects/kfxtrstc/Fruit.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-game-sound-effects/Fruit.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10485,
+      "title": "Ghost",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-man-game-sound-effects/zaehkcsz/Ghost.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-game-sound-effects/Ghost.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 52428,
+      "title": "Intro",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-man-game-sound-effects/gmiffyvl/Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-game-sound-effects/Intro.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 15,
+    "filesize_mp3_bytes": 199225,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

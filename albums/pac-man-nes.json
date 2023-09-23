@@ -1,0 +1,59 @@
+{
+  "title": "Pac-Man",
+  "titles_alternative": [
+    "\u30d1\u30c3\u30af\u30de\u30f3"
+  ],
+  "crawled_at": "2023-09-23T17:30:41.533251+00:00",
+  "slug": "pac-man-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-nes",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pac-man-nes/118690-pac-man-nes-front-cover.jpg"
+  ],
+  "year": 1984,
+  "date_added": "2022-06-13T00:00:00+00:00",
+  "developers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/developer/namco",
+    "Tengen": "https://downloads.khinsider.com/game-soundtracks/developer/tengen"
+  },
+  "publishers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/publisher/namco",
+    "Tengen": "https://downloads.khinsider.com/game-soundtracks/publisher/tengen"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 199229,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 1,
+      "title": "Game Start",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-man-nes/sfjninxjof/01%20Game%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pac-man-nes/sfjninxjof/01%20Game%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-nes/01%2520Game%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 293601,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 2,
+      "title": "Intermission",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-man-nes/gtxzzuoofa/02%20Intermission.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pac-man-nes/gtxzzuoofa/02%20Intermission.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-nes/02%2520Intermission.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 12,
+    "filesize_mp3_bytes": 188743,
+    "filesize_flac_bytes": 492830,
+    "tracks": 2
+  }
+}

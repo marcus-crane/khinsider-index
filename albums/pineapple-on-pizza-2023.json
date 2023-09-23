@@ -1,0 +1,52 @@
+{
+  "title": "Pineapple on pizza",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T19:54:32.250457+00:00",
+  "slug": "pineapple-on-pizza-2023",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pineapple-on-pizza-2023",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pineapple-on-pizza-2023/pizza.jpg"
+  ],
+  "year": 2023,
+  "date_added": "2023-04-18T00:00:00+00:00",
+  "developers": {
+    "Majorariatto": "https://downloads.khinsider.com/game-soundtracks/developer/majorariatto"
+  },
+  "publishers": {
+    "Majorariatto": "https://downloads.khinsider.com/game-soundtracks/publisher/majorariatto"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11219763,
+      "track_number": 1,
+      "title": "The Floor Is Lava With Extra Flavor",
+      "runtime": 280,
+      "source_mp3": "https://vgmsite.com/soundtracks/pineapple-on-pizza-2023/vsolxqqqon/01.%20The%20Floor%20Is%20Lava%20With%20Extra%20Flavor.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pineapple-on-pizza-2023/01.%2520The%2520Floor%2520Is%2520Lava%2520With%2520Extra%2520Flavor.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11167334,
+      "track_number": 2,
+      "title": "The Floor Is Lava",
+      "runtime": 279,
+      "source_mp3": "https://vgmsite.com/soundtracks/pineapple-on-pizza-2023/yztcoeuggf/02.%20The%20Floor%20Is%20Lava.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pineapple-on-pizza-2023/02.%2520The%2520Floor%2520Is%2520Lava.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 559,
+    "filesize_mp3_bytes": 22387097,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

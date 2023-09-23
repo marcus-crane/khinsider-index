@@ -1,0 +1,101 @@
+{
+  "title": "Ninja Remix",
+  "titles_alternative": [
+    "The Last Ninja"
+  ],
+  "crawled_at": "2023-09-23T15:16:07.719312+00:00",
+  "slug": "ninja-remix-atari-st",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ninja-remix-atari-st",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ninja-remix-atari-st/Ninja%20Remix.png"
+  ],
+  "year": 1990,
+  "date_added": "2022-12-03T00:00:00+00:00",
+  "developers": {
+    "Eclipse": "https://downloads.khinsider.com/game-soundtracks/developer/eclipse",
+    "System 3": "https://downloads.khinsider.com/game-soundtracks/developer/system-3"
+  },
+  "publishers": {
+    "System 3": "https://downloads.khinsider.com/game-soundtracks/publisher/system-3"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 31981568,
+      "filesize_mp3_bytes": 12173967,
+      "track_number": 1,
+      "title": "Title, The Palace",
+      "runtime": 528,
+      "source_mp3": "https://vgmsite.com/soundtracks/ninja-remix-atari-st/ecgcuzmfis/01%20Title%2C%20The%20Palace.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ninja-remix-atari-st/ecgcuzmfis/01%20Title%2C%20The%20Palace.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ninja-remix-atari-st/01%2520Title%252C%2520The%2520Palace.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 27441233,
+      "filesize_mp3_bytes": 10674503,
+      "track_number": 2,
+      "title": "Wastelands",
+      "runtime": 470,
+      "source_mp3": "https://vgmsite.com/soundtracks/ninja-remix-atari-st/mcpmgukbdh/02%20Wastelands.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ninja-remix-atari-st/mcpmgukbdh/02%20Wastelands.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ninja-remix-atari-st/02%2520Wastelands.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 36322672,
+      "filesize_mp3_bytes": 14459863,
+      "track_number": 3,
+      "title": "The Wilderness",
+      "runtime": 611,
+      "source_mp3": "https://vgmsite.com/soundtracks/ninja-remix-atari-st/ixmfyfwgfq/03%20The%20Wilderness.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ninja-remix-atari-st/ixmfyfwgfq/03%20The%20Wilderness.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ninja-remix-atari-st/03%2520The%2520Wilderness.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 30733762,
+      "filesize_mp3_bytes": 12299796,
+      "track_number": 4,
+      "title": "Palace Gardens",
+      "runtime": 528,
+      "source_mp3": "https://vgmsite.com/soundtracks/ninja-remix-atari-st/grmsonpbvs/04%20Palace%20Gardens.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ninja-remix-atari-st/grmsonpbvs/04%20Palace%20Gardens.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ninja-remix-atari-st/04%2520Palace%2520Gardens.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 28164751,
+      "filesize_mp3_bytes": 11681136,
+      "track_number": 5,
+      "title": "The Dungeons",
+      "runtime": 533,
+      "source_mp3": "https://vgmsite.com/soundtracks/ninja-remix-atari-st/rzgjtiafey/05%20The%20Dungeons.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ninja-remix-atari-st/rzgjtiafey/05%20The%20Dungeons.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ninja-remix-atari-st/05%2520The%2520Dungeons.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 23823646,
+      "filesize_mp3_bytes": 8839495,
+      "track_number": 6,
+      "title": "The Inner Sanctum",
+      "runtime": 410,
+      "source_mp3": "https://vgmsite.com/soundtracks/ninja-remix-atari-st/kwmtroovsy/06%20The%20Inner%20Sanctum.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ninja-remix-atari-st/kwmtroovsy/06%20The%20Inner%20Sanctum.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ninja-remix-atari-st/06%2520The%2520Inner%2520Sanctum.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 3080,
+    "filesize_mp3_bytes": 70128760,
+    "filesize_flac_bytes": 178467632,
+    "tracks": 6
+  }
+}

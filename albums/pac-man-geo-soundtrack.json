@@ -1,0 +1,78 @@
+{
+  "title": "Pac-Man Geo",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T17:29:54.949498+00:00",
+  "slug": "pac-man-geo-soundtrack",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-geo-soundtrack",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pac-man-geo-soundtrack/60e3f6c7b64bb.png"
+  ],
+  "year": 2020,
+  "date_added": "2021-08-04T00:00:00+00:00",
+  "developers": {
+    "Bandai Namco Entertainment": "https://downloads.khinsider.com/game-soundtracks/developer/bandai-namco-entertainment"
+  },
+  "publishers": {
+    "Bandai Namco Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/bandai-namco-entertainment"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 52428,
+      "title": "Clear",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-man-geo-soundtrack/scheskujsd/Clear.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-geo-soundtrack/Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 178257,
+      "title": "Coffee Break",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-man-geo-soundtrack/gebpcmdnos/Coffee%20Break.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-geo-soundtrack/Coffee%2520Break.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 503316,
+      "title": "Menu Theme",
+      "runtime": 32,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-man-geo-soundtrack/pqejxwsfzz/Menu%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-geo-soundtrack/Menu%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 387973,
+      "title": "Score",
+      "runtime": 24,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-man-geo-soundtrack/ewohaexinj/Score.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-geo-soundtrack/Score.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 83886,
+      "title": "Start",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-man-geo-soundtrack/ypeainsmgd/Start.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-man-geo-soundtrack/Start.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 75,
+    "filesize_mp3_bytes": 1205860,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

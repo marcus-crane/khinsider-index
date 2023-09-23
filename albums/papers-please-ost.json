@@ -1,0 +1,70 @@
+{
+  "title": "Papers, Please",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T18:10:41.436000+00:00",
+  "slug": "papers-please-ost",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/papers-please-ost",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios",
+    "Linux": "https://downloads.khinsider.com/game-soundtracks/linux",
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "PS Vita": "https://downloads.khinsider.com/game-soundtracks/playstation-vita",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/papers-please-ost/coverart.jpg"
+  ],
+  "year": 2013,
+  "date_added": "2021-04-23T00:00:00+00:00",
+  "developers": {
+    "Lucas Pope": "https://downloads.khinsider.com/game-soundtracks/developer/lucas-pope"
+  },
+  "publishers": {
+    "3909": "https://downloads.khinsider.com/game-soundtracks/publisher/3909"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10873733,
+      "filesize_mp3_bytes": 3491758,
+      "track_number": 1,
+      "title": "Glory to Arstotzka (Main Theme)",
+      "runtime": 103,
+      "source_mp3": "https://vgmsite.com/soundtracks/papers-please-ost/nxwkmorjih/01.%20Glory%20to%20Arstotzka%20%28Main%20Theme%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/papers-please-ost/nxwkmorjih/01.%20Glory%20to%20Arstotzka%20%28Main%20Theme%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/papers-please-ost/01.%2520Glory%2520to%2520Arstotzka%2520%2528Main%2520Theme%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 15047065,
+      "filesize_mp3_bytes": 4781506,
+      "track_number": 2,
+      "title": "Good Ending",
+      "runtime": 158,
+      "source_mp3": "https://vgmsite.com/soundtracks/papers-please-ost/qemqjqcjrv/02.%20Good%20Ending.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/papers-please-ost/qemqjqcjrv/02.%20Good%20Ending.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/papers-please-ost/02.%2520Good%2520Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7098859,
+      "filesize_mp3_bytes": 3051356,
+      "track_number": 3,
+      "title": "Bad Ending",
+      "runtime": 93,
+      "source_mp3": "https://vgmsite.com/soundtracks/papers-please-ost/athskjvmhe/03.%20Bad%20Ending.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/papers-please-ost/athskjvmhe/03.%20Bad%20Ending.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/papers-please-ost/03.%2520Bad%2520Ending.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 354,
+    "filesize_mp3_bytes": 11324620,
+    "filesize_flac_bytes": 33019657,
+    "tracks": 3
+  }
+}

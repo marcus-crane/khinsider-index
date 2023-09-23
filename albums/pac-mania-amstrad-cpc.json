@@ -1,0 +1,73 @@
+{
+  "title": "Pac-Mania (Amstrad CPC)",
+  "titles_alternative": [
+    "\u30d1\u30c3\u30af\u30de\u30cb\u30a2"
+  ],
+  "crawled_at": "2023-09-23T17:33:30.573261+00:00",
+  "slug": "pac-mania-amstrad-cpc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pac-mania-amstrad-cpc",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/pac-mania-amstrad-cpc/9023--pac-mania.png"
+  ],
+  "year": 1988,
+  "date_added": "2017-04-28T00:00:00+00:00",
+  "developers": {
+    "Krisalis Software": "https://downloads.khinsider.com/game-soundtracks/developer/krisalis-software"
+  },
+  "publishers": {
+    "Grandslam": "https://downloads.khinsider.com/game-soundtracks/publisher/grandslam",
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/publisher/namco"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 1,
+      "title": "Game Start",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-mania-amstrad-cpc/btymbrgo/01%20-%20Game%20Start.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-mania-amstrad-cpc/01%2520-%2520Game%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5725224,
+      "track_number": 2,
+      "title": "Block Town",
+      "runtime": 178,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-mania-amstrad-cpc/isvxdcav/02%20-%20Block%20Town.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-mania-amstrad-cpc/02%2520-%2520Block%2520Town.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5494538,
+      "track_number": 3,
+      "title": "Pacman Park",
+      "runtime": 142,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-mania-amstrad-cpc/rkxpscdi/03%20-%20Pacman%20Park.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-mania-amstrad-cpc/03%2520-%2520Pacman%2520Park.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4383047,
+      "track_number": 4,
+      "title": "Jungly Steps",
+      "runtime": 119,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-mania-amstrad-cpc/nvydlahn/04%20-%20Jungly%20Steps.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-mania-amstrad-cpc/04%2520-%2520Jungly%2520Steps.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 443,
+    "filesize_mp3_bytes": 15728638,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

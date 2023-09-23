@@ -1,0 +1,73 @@
+{
+  "title": "Ninjabread Man",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T15:17:55.733798+00:00",
+  "slug": "ninjabread-man-2007-wii",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ninjabread-man-2007-wii",
+  "platforms": {
+    "Wii": "https://downloads.khinsider.com/game-soundtracks/nintendo-wii"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ninjabread-man-2007-wii/NM.jpg"
+  ],
+  "year": 2007,
+  "date_added": "2020-02-22T00:00:00+00:00",
+  "developers": {
+    "Data Design Interactive": "https://downloads.khinsider.com/game-soundtracks/developer/data-design-interactive"
+  },
+  "publishers": {
+    "Conspiracy Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/conspiracy-entertainment",
+    "Data Design Interactive": "https://downloads.khinsider.com/game-soundtracks/publisher/data-design-interactive"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3344957,
+      "filesize_mp3_bytes": 859832,
+      "title": "Title",
+      "runtime": 69,
+      "source_mp3": "https://vgmsite.com/soundtracks/ninjabread-man-2007-wii/jvxfpbpmim/Title.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ninjabread-man-2007-wii/jvxfpbpmim/Title.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ninjabread-man-2007-wii/Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8577351,
+      "filesize_mp3_bytes": 2191523,
+      "title": "Track 1",
+      "runtime": 176,
+      "source_mp3": "https://vgmsite.com/soundtracks/ninjabread-man-2007-wii/urizvauxmi/Track%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ninjabread-man-2007-wii/urizvauxmi/Track%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ninjabread-man-2007-wii/Track%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7130316,
+      "filesize_mp3_bytes": 1992294,
+      "title": "Track 2",
+      "runtime": 153,
+      "source_mp3": "https://vgmsite.com/soundtracks/ninjabread-man-2007-wii/octbfupygr/Track%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ninjabread-man-2007-wii/octbfupygr/Track%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ninjabread-man-2007-wii/Track%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9059696,
+      "filesize_mp3_bytes": 2369781,
+      "title": "Track 3",
+      "runtime": 189,
+      "source_mp3": "https://vgmsite.com/soundtracks/ninjabread-man-2007-wii/jflgxywyfx/Track%203.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ninjabread-man-2007-wii/jflgxywyfx/Track%203.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ninjabread-man-2007-wii/Track%25203.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 587,
+    "filesize_mp3_bytes": 7413430,
+    "filesize_flac_bytes": 28112320,
+    "tracks": 4
+  }
+}

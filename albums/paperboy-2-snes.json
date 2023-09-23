@@ -1,0 +1,50 @@
+{
+  "title": "Paperboy 2",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T18:09:41.331627+00:00",
+  "slug": "paperboy-2-snes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/paperboy-2-snes",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/paperboy-2-snes/P1.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2018-12-06T00:00:00+00:00",
+  "developers": {
+    "Tengen": "https://downloads.khinsider.com/game-soundtracks/developer/tengen"
+  },
+  "publishers": {
+    "Mindscape": "https://downloads.khinsider.com/game-soundtracks/publisher/mindscape"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3156213,
+      "title": "Paper Route",
+      "runtime": 187,
+      "source_mp3": "https://vgmsite.com/soundtracks/paperboy-2-snes/ylcthyuv/Paper%20Route.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/paperboy-2-snes/Paper%2520Route.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 754974,
+      "title": "Training Course",
+      "runtime": 41,
+      "source_mp3": "https://vgmsite.com/soundtracks/paperboy-2-snes/zwyqykhz/Training%20Course.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/paperboy-2-snes/Training%2520Course.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 228,
+    "filesize_mp3_bytes": 3911187,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

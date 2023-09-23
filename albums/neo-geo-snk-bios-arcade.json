@@ -1,0 +1,57 @@
+{
+  "title": "Neo-Geo SNK BIOS",
+  "titles_alternative": [
+    "\u30cd\u30aa\u30b8\u30aa"
+  ],
+  "crawled_at": "2023-09-23T14:18:25.551388+00:00",
+  "slug": "neo-geo-snk-bios-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/neo-geo-snk-bios-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade",
+    "Neo Geo": "https://downloads.khinsider.com/game-soundtracks/neo-geo"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/neo-geo-snk-bios-arcade/Neo-Geo%20SNK%20BIOS.png"
+  ],
+  "year": 1990,
+  "date_added": "2022-05-12T00:00:00+00:00",
+  "developers": {
+    "SNK": "https://downloads.khinsider.com/game-soundtracks/developer/snk"
+  },
+  "publishers": {
+    "SNK": "https://downloads.khinsider.com/game-soundtracks/publisher/snk"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 461373,
+      "filesize_mp3_bytes": 220200,
+      "track_number": 1,
+      "title": "Neo-Geo SNK BIOS 1",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/neo-geo-snk-bios-arcade/ravhssdwcm/01%20-%20Neo-Geo%20SNK%20BIOS%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/neo-geo-snk-bios-arcade/ravhssdwcm/01%20-%20Neo-Geo%20SNK%20BIOS%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/neo-geo-snk-bios-arcade/01%2520-%2520Neo-Geo%2520SNK%2520BIOS%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 608174,
+      "filesize_mp3_bytes": 220200,
+      "track_number": 2,
+      "title": "Neo-Geo SNK BIOS 2",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/neo-geo-snk-bios-arcade/mwgkuqnatp/02%20-%20Neo-Geo%20SNK%20BIOS%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/neo-geo-snk-bios-arcade/mwgkuqnatp/02%20-%20Neo-Geo%20SNK%20BIOS%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/neo-geo-snk-bios-arcade/02%2520-%2520Neo-Geo%2520SNK%2520BIOS%25202.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 16,
+    "filesize_mp3_bytes": 440400,
+    "filesize_flac_bytes": 1069547,
+    "tracks": 2
+  }
+}

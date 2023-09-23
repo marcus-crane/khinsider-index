@@ -1,0 +1,45 @@
+{
+  "title": "Pachicom",
+  "titles_alternative": [
+    "\u30d1\u30c1\u30b3\u30f3"
+  ],
+  "crawled_at": "2023-09-23T17:37:18.328791+00:00",
+  "slug": "pachicom-msx",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pachicom-msx",
+  "platforms": {
+    "MSX": "https://downloads.khinsider.com/game-soundtracks/msx"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pachicom-msx/P1.jpg"
+  ],
+  "year": 1985,
+  "date_added": "2022-05-25T00:00:00+00:00",
+  "developers": {
+    "Bear's Corporation": "https://downloads.khinsider.com/game-soundtracks/developer/bears-corporation"
+  },
+  "publishers": {
+    "Toshiba EMI": "https://downloads.khinsider.com/game-soundtracks/publisher/toshiba-emi"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 576716,
+      "filesize_mp3_bytes": 199229,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/pachicom-msx/hlktcwidxy/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pachicom-msx/hlktcwidxy/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pachicom-msx/01%2520Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 11,
+    "filesize_mp3_bytes": 199229,
+    "filesize_flac_bytes": 576716,
+    "tracks": 1
+  }
+}

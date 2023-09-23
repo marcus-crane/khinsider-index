@@ -1,0 +1,67 @@
+{
+  "title": "Pac-Chomp",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T17:23:34.697700+00:00",
+  "slug": "pac-chomp-ios",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pac-chomp-ios",
+  "platforms": {
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pac-chomp-ios/IMG_0032.png"
+  ],
+  "date_added": "2022-01-22T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2369781,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 59,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-chomp-ios/kuupgvechh/01.%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-chomp-ios/01.%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2401239,
+      "track_number": 2,
+      "title": "Main Theme",
+      "runtime": 60,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-chomp-ios/vfygfnhnpd/02.%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-chomp-ios/02.%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 167772,
+      "track_number": 3,
+      "title": "Level Up",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-chomp-ios/cunvkitzwy/03.%20Level%20Up.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-chomp-ios/03.%2520Level%2520Up.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 4,
+      "title": "Time Up",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-chomp-ios/qztqoclazu/04.%20Time%20Up.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-chomp-ios/04.%2520Time%2520Up.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 126,
+    "filesize_mp3_bytes": 5064621,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

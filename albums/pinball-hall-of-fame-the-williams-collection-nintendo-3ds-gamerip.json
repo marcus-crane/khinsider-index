@@ -1,0 +1,52 @@
+{
+  "title": "Pinball Hall of Fame - The Williams Collection",
+  "titles_alternative": [
+    "Williams Pinball Classics"
+  ],
+  "crawled_at": "2023-09-23T19:53:13.149766+00:00",
+  "slug": "pinball-hall-of-fame-the-williams-collection-nintendo-3ds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pinball-hall-of-fame-the-williams-collection-nintendo-3ds-gamerip",
+  "platforms": {
+    "3DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-3ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pinball-hall-of-fame-the-williams-collection-nintendo-3ds-gamerip/Pinball%20Hall%20of%20Fame%20-%20The%20Williams%20Collection.png"
+  ],
+  "year": 2011,
+  "date_added": "2017-10-02T00:00:00+00:00",
+  "developers": {
+    "Crave": "https://downloads.khinsider.com/game-soundtracks/developer/crave"
+  },
+  "publishers": {
+    "Crave": "https://downloads.khinsider.com/game-soundtracks/publisher/crave"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2747269,
+      "title": "instructions01",
+      "runtime": 138,
+      "source_mp3": "https://vgmsite.com/soundtracks/pinball-hall-of-fame-the-williams-collection-nintendo-3ds-gamerip/rckjqjtf/instructions01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pinball-hall-of-fame-the-williams-collection-nintendo-3ds-gamerip/instructions01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2485125,
+      "title": "Original PHOF Theme",
+      "runtime": 124,
+      "source_mp3": "https://vgmsite.com/soundtracks/pinball-hall-of-fame-the-williams-collection-nintendo-3ds-gamerip/bchdxuhu/Original%20PHOF%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pinball-hall-of-fame-the-williams-collection-nintendo-3ds-gamerip/Original%2520PHOF%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 262,
+    "filesize_mp3_bytes": 5232394,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

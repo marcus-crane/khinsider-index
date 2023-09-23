@@ -1,0 +1,75 @@
+{
+  "title": "Pac-Land",
+  "titles_alternative": [
+    "\u30d1\u30c3\u30af\u30e9\u30f3\u30c9"
+  ],
+  "crawled_at": "2023-09-23T17:23:58.898792+00:00",
+  "slug": "pac-land-1985-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pac-land-1985-nes",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pac-land-1985-nes/Pac-Land%20Logo.png"
+  ],
+  "year": 1985,
+  "date_added": "2022-03-09T00:00:00+00:00",
+  "developers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/developer/namco"
+  },
+  "publishers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/publisher/namco"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2569011,
+      "track_number": 1,
+      "title": "Outward",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-land-1985-nes/fdxoegznac/01.%20Outward.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-land-1985-nes/01.%2520Outward.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2317352,
+      "track_number": 2,
+      "title": "Homeward",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-land-1985-nes/wnvunxvsry/02.%20Homeward.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-land-1985-nes/02.%2520Homeward.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 3,
+      "title": "Round Clear (Break Time)",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-land-1985-nes/mzzvbqmrsd/03.%20Round%20Clear%20%28Break%20Time%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-land-1985-nes/03.%2520Round%2520Clear%2520%2528Break%2520Time%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 4,
+      "title": "Life Lost",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/pac-land-1985-nes/ziedjnsmvr/04.%20Life%20Lost.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pac-land-1985-nes/04.%2520Life%2520Lost.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 367,
+    "filesize_mp3_bytes": 4980734,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

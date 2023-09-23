@@ -1,0 +1,65 @@
+{
+  "title": "Nemesis",
+  "titles_alternative": [
+    "Gradius",
+    "\u30b0\u30e9\u30c7\u30a3\u30a6\u30b9"
+  ],
+  "crawled_at": "2023-09-23T14:15:26.847610+00:00",
+  "slug": "nemesis-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/nemesis-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/nemesis-commodore-64/N1.jpg"
+  ],
+  "year": 1986,
+  "date_added": "2017-11-16T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami"
+  },
+  "publishers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 1,
+      "title": "Nemesis - The Final Challenge (SID Stereo)",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/nemesis-commodore-64/czgnurwl/01_Nemesis%20-%20The%20Final%20Challenge%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nemesis-commodore-64/01_Nemesis%2520-%2520The%2520Final%2520Challenge%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2558525,
+      "track_number": 2,
+      "title": "Beginning of History (SID Stereo)",
+      "runtime": 69,
+      "source_mp3": "https://vgmsite.com/soundtracks/nemesis-commodore-64/tkphnldx/02_Beginning%20of%20History%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nemesis-commodore-64/02_Beginning%2520of%2520History%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2558525,
+      "track_number": 3,
+      "title": "Challenger 1985 (SID Stereo)",
+      "runtime": 67,
+      "source_mp3": "https://vgmsite.com/soundtracks/nemesis-commodore-64/iscdgnna/03_Challenger%201985%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nemesis-commodore-64/03_Challenger%25201985%2520%2528SID%2520Stereo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 141,
+    "filesize_mp3_bytes": 5242879,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

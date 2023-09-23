@@ -1,0 +1,43 @@
+{
+  "title": "Party Legends",
+  "titles_alternative": [
+    "Mobile Legends: Bang Bang"
+  ],
+  "crawled_at": "2023-09-23T18:23:12.615651+00:00",
+  "slug": "party-legends-2020",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/party-legends-2020",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/party-legends-2020/cover.png"
+  ],
+  "year": 2020,
+  "date_added": "2023-09-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Moonton": "https://downloads.khinsider.com/game-soundtracks/publisher/moonton"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7623147,
+      "track_number": 1,
+      "title": "Party Legends",
+      "runtime": 186,
+      "source_mp3": "https://vgmsite.com/soundtracks/party-legends-2020/tnumksegyb/01.%20Party%20Legends.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/party-legends-2020/01.%2520Party%2520Legends.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 186,
+    "filesize_mp3_bytes": 7623147,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}
