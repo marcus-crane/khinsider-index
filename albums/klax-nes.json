@@ -1,0 +1,103 @@
+{
+  "title": "Klax",
+  "titles_alternative": [
+    "\u30af\u30e9\u30c3\u30af\u30b9"
+  ],
+  "crawled_at": "2023-09-22T21:20:38.812759+00:00",
+  "slug": "klax-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/klax-nes",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/klax-nes/K1.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2022-05-23T00:00:00+00:00",
+  "developers": {
+    "Atari": "https://downloads.khinsider.com/game-soundtracks/developer/atari",
+    "Tengen": "https://downloads.khinsider.com/game-soundtracks/developer/tengen"
+  },
+  "publishers": {
+    "Hudson Soft": "https://downloads.khinsider.com/game-soundtracks/publisher/hudson-soft",
+    "Tengen": "https://downloads.khinsider.com/game-soundtracks/publisher/tengen"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3177185,
+      "filesize_mp3_bytes": 1426063,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 58,
+      "source_mp3": "https://vgmsite.com/soundtracks/klax-nes/azrvgfvoih/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/klax-nes/azrvgfvoih/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/klax-nes/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5316280,
+      "filesize_mp3_bytes": 2443182,
+      "track_number": 2,
+      "title": "Led Fut",
+      "runtime": 101,
+      "source_mp3": "https://vgmsite.com/soundtracks/klax-nes/viicenfxsw/02%20Led%20Fut.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/klax-nes/viicenfxsw/02%20Led%20Fut.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/klax-nes/02%2520Led%2520Fut.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5924454,
+      "filesize_mp3_bytes": 2348810,
+      "track_number": 3,
+      "title": "Giganticus Breathalizer",
+      "runtime": 107,
+      "source_mp3": "https://vgmsite.com/soundtracks/klax-nes/hynfzosvct/03%20Giganticus%20Breathalizer.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/klax-nes/hynfzosvct/03%20Giganticus%20Breathalizer.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/klax-nes/03%2520Giganticus%2520Breathalizer.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 46955233,
+      "filesize_mp3_bytes": 18633195,
+      "track_number": 4,
+      "title": "Dance of the Fairies",
+      "runtime": 828,
+      "source_mp3": "https://vgmsite.com/soundtracks/klax-nes/vikydcrvoa/04%20Dance%20of%20the%20Fairies.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/klax-nes/vikydcrvoa/04%20Dance%20of%20the%20Fairies.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/klax-nes/04%2520Dance%2520of%2520the%2520Fairies.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 15130951,
+      "filesize_mp3_bytes": 6522142,
+      "track_number": 5,
+      "title": "Caverns of Cthulu",
+      "runtime": 266,
+      "source_mp3": "https://vgmsite.com/soundtracks/klax-nes/fycbvmkvak/05%20Caverns%20of%20Cthulu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/klax-nes/fycbvmkvak/05%20Caverns%20of%20Cthulu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/klax-nes/05%2520Caverns%2520of%2520Cthulu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4666163,
+      "filesize_mp3_bytes": 1814036,
+      "track_number": 6,
+      "title": "Rottweiler",
+      "runtime": 81,
+      "source_mp3": "https://vgmsite.com/soundtracks/klax-nes/cypjaesnuj/06%20Rottweiler.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/klax-nes/cypjaesnuj/06%20Rottweiler.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/klax-nes/06%2520Rottweiler.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1441,
+    "filesize_mp3_bytes": 33187428,
+    "filesize_flac_bytes": 81170266,
+    "tracks": 6
+  }
+}

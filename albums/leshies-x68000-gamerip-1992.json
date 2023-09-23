@@ -1,0 +1,76 @@
+{
+  "title": "Leshies",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T00:05:20.043746+00:00",
+  "slug": "leshies-x68000-gamerip-1992",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/leshies-x68000-gamerip-1992",
+  "platforms": {
+    "X68000": "https://downloads.khinsider.com/game-soundtracks/x68000"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/leshies-x68000-gamerip-1992/Leshies.png"
+  ],
+  "year": 1992,
+  "date_added": "2022-12-22T00:00:00+00:00",
+  "developers": {
+    "Login Soft": "https://downloads.khinsider.com/game-soundtracks/developer/login-soft"
+  },
+  "publishers": {
+    "Login Soft": "https://downloads.khinsider.com/game-soundtracks/publisher/login-soft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10485,
+      "filesize_mp3_bytes": 10485,
+      "track_number": 1,
+      "title": "Select",
+      "runtime": 0,
+      "source_mp3": "https://vgmsite.com/soundtracks/leshies-x68000-gamerip-1992/stmmcphpme/01%20Select.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/leshies-x68000-gamerip-1992/stmmcphpme/01%20Select.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/leshies-x68000-gamerip-1992/01%2520Select.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 21841838,
+      "filesize_mp3_bytes": 8451522,
+      "track_number": 2,
+      "title": "Main BGM",
+      "runtime": 286,
+      "source_mp3": "https://vgmsite.com/soundtracks/leshies-x68000-gamerip-1992/moeejuyawh/02%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/leshies-x68000-gamerip-1992/moeejuyawh/02%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/leshies-x68000-gamerip-1992/02%2520Main%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 41943,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 3,
+      "title": "Game Over",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/leshies-x68000-gamerip-1992/ysxehkthhr/03%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/leshies-x68000-gamerip-1992/ysxehkthhr/03%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/leshies-x68000-gamerip-1992/03%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1562378,
+      "filesize_mp3_bytes": 702545,
+      "track_number": 4,
+      "title": "Ranking",
+      "runtime": 27,
+      "source_mp3": "https://vgmsite.com/soundtracks/leshies-x68000-gamerip-1992/sggpbkacnv/04%20Ranking.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/leshies-x68000-gamerip-1992/sggpbkacnv/04%20Ranking.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/leshies-x68000-gamerip-1992/04%2520Ranking.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 314,
+    "filesize_mp3_bytes": 9185523,
+    "filesize_flac_bytes": 23456644,
+    "tracks": 4
+  }
+}

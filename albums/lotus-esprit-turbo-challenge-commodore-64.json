@@ -1,0 +1,92 @@
+{
+  "title": "Lotus Esprit Turbo Challenge",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T01:02:15.125912+00:00",
+  "slug": "lotus-esprit-turbo-challenge-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/lotus-esprit-turbo-challenge-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/lotus-esprit-turbo-challenge-commodore-64/10032147-lotus-esprit-turbo-challenge-front-cover.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2019-04-29T00:00:00+00:00",
+  "developers": {
+    "Magnetic Fields": "https://downloads.khinsider.com/game-soundtracks/developer/magnetic-fields"
+  },
+  "publishers": {
+    "Gremlin Graphics": "https://downloads.khinsider.com/game-soundtracks/publisher/gremlin-graphics"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3785359,
+      "track_number": 1,
+      "title": "Title Screen  Radio Track 1",
+      "runtime": 191,
+      "source_mp3": "https://vgmsite.com/soundtracks/lotus-esprit-turbo-challenge-commodore-64/ppffmdwu/01_Title%20Screen%20%20Radio%20Track%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lotus-esprit-turbo-challenge-commodore-64/01_Title%2520Screen%2520%2520Radio%2520Track%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5033164,
+      "track_number": 2,
+      "title": "Radio Track 2",
+      "runtime": 181,
+      "source_mp3": "https://vgmsite.com/soundtracks/lotus-esprit-turbo-challenge-commodore-64/bxhtpxlv/02_Radio%20Track%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lotus-esprit-turbo-challenge-commodore-64/02_Radio%2520Track%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5442109,
+      "track_number": 3,
+      "title": "Radio Track 3",
+      "runtime": 242,
+      "source_mp3": "https://vgmsite.com/soundtracks/lotus-esprit-turbo-challenge-commodore-64/quwdsyfy/03_Radio%20Track%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lotus-esprit-turbo-challenge-commodore-64/03_Radio%2520Track%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6039797,
+      "track_number": 4,
+      "title": "Title Screen  Radio Track 1 (SID Stereo)",
+      "runtime": 191,
+      "source_mp3": "https://vgmsite.com/soundtracks/lotus-esprit-turbo-challenge-commodore-64/uwobvjid/04_Title%20Screen%20%20Radio%20Track%201%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lotus-esprit-turbo-challenge-commodore-64/04_Title%2520Screen%2520%2520Radio%2520Track%25201%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7046430,
+      "track_number": 5,
+      "title": "Radio Track 2 (SID Stereo)",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/lotus-esprit-turbo-challenge-commodore-64/aqlszrsa/05_Radio%20Track%202%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lotus-esprit-turbo-challenge-commodore-64/05_Radio%2520Track%25202%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8566865,
+      "track_number": 6,
+      "title": "Radio Track 3 (SID Stereo)",
+      "runtime": 241,
+      "source_mp3": "https://vgmsite.com/soundtracks/lotus-esprit-turbo-challenge-commodore-64/wktxcevo/06_Radio%20Track%203%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lotus-esprit-turbo-challenge-commodore-64/06_Radio%2520Track%25203%2520%2528SID%2520Stereo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1226,
+    "filesize_mp3_bytes": 35913724,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

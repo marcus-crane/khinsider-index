@@ -1,0 +1,42 @@
+{
+  "title": "LEGO LOCO",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T23:49:38.676343+00:00",
+  "slug": "lego-loco-windows-gamerip-1998",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/lego-loco-windows-gamerip-1998",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/lego-loco-windows-gamerip-1998/legoloco-1675213976060.jpg"
+  ],
+  "year": 1998,
+  "date_added": "2023-03-17T00:00:00+00:00",
+  "developers": {
+    "Intelligent Games": "https://downloads.khinsider.com/game-soundtracks/developer/intelligent-games"
+  },
+  "publishers": {
+    "Lego Media": "https://downloads.khinsider.com/game-soundtracks/publisher/lego-media"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2558525,
+      "track_number": 1,
+      "title": "Title Screen  -  Intro Movie",
+      "runtime": 87,
+      "source_mp3": "https://vgmsite.com/soundtracks/lego-loco-windows-gamerip-1998/bcoriygkgl/01.%20Title%20Screen%20%20-%20%20Intro%20Movie.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lego-loco-windows-gamerip-1998/01.%2520Title%2520Screen%2520%2520-%2520%2520Intro%2520Movie.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 87,
+    "filesize_mp3_bytes": 2558525,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

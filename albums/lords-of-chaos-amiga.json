@@ -1,0 +1,36 @@
+{
+  "title": "Lords of Chaos",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T00:52:06.787746+00:00",
+  "slug": "lords-of-chaos-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/lords-of-chaos-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/lords-of-chaos-amiga/497px-LordsOfChaos.jpg"
+  ],
+  "date_added": "2020-12-21T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2097152,
+      "title": "Title Screen",
+      "runtime": 87,
+      "source_mp3": "https://vgmsite.com/soundtracks/lords-of-chaos-amiga/ygatrcnvau/Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lords-of-chaos-amiga/Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 87,
+    "filesize_mp3_bytes": 2097152,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

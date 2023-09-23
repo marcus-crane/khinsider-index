@@ -1,0 +1,56 @@
+{
+  "title": "Magic Johnson's Super Slam Dunk",
+  "titles_alternative": [
+    "\u30de\u30b8\u30c3\u30af\u30fb\u30b8\u30e7\u30f3\u30bd\u30f3\u306e\u30b9\u30fc\u30d1\u30fc\u30b9\u30e9\u30e0\u30c0\u30f3\u30af"
+  ],
+  "crawled_at": "2023-09-23T01:52:24.165288+00:00",
+  "slug": "magic-johnson-s-super-slam-dunk-1993-snes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/magic-johnson-s-super-slam-dunk-1993-snes",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/magic-johnson-s-super-slam-dunk-1993-snes/M1.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2019-05-17T00:00:00+00:00",
+  "developers": {
+    "Park Place Productions": "https://downloads.khinsider.com/game-soundtracks/developer/park-place-productions"
+  },
+  "publishers": {
+    "Virgin Interactive Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/virgin-interactive-entertainment"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3365928,
+      "filesize_mp3_bytes": 5127536,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 128,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-johnson-s-super-slam-dunk-1993-snes/qvmcmeqe/01%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/magic-johnson-s-super-slam-dunk-1993-snes/qvmcmeqe/01%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-johnson-s-super-slam-dunk-1993-snes/01%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 629145,
+      "filesize_mp3_bytes": 1080033,
+      "track_number": 2,
+      "title": "Unknown Song",
+      "runtime": 27,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-johnson-s-super-slam-dunk-1993-snes/hztcialy/02%20Unknown%20Song.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/magic-johnson-s-super-slam-dunk-1993-snes/hztcialy/02%20Unknown%20Song.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-johnson-s-super-slam-dunk-1993-snes/02%2520Unknown%2520Song.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 155,
+    "filesize_mp3_bytes": 6207569,
+    "filesize_flac_bytes": 3995073,
+    "tracks": 2
+  }
+}

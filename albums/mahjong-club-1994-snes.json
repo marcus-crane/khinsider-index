@@ -1,0 +1,56 @@
+{
+  "title": "Mahjong Club",
+  "titles_alternative": [
+    "\u9ebb\u96c0\u5036\u697d\u90e8"
+  ],
+  "crawled_at": "2023-09-23T02:06:31.977342+00:00",
+  "slug": "mahjong-club-1994-snes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mahjong-club-1994-snes",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mahjong-club-1994-snes/Mahjong%20Club.jpg"
+  ],
+  "year": 1994,
+  "date_added": "2019-08-16T00:00:00+00:00",
+  "developers": {
+    "Natsu System": "https://downloads.khinsider.com/game-soundtracks/developer/natsu-system"
+  },
+  "publishers": {
+    "Hect": "https://downloads.khinsider.com/game-soundtracks/publisher/hect"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2338324,
+      "filesize_mp3_bytes": 1080033,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 36,
+      "source_mp3": "https://vgmsite.com/soundtracks/mahjong-club-1994-snes/rcaajnbydx/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mahjong-club-1994-snes/rcaajnbydx/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mahjong-club-1994-snes/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7979663,
+      "filesize_mp3_bytes": 2495610,
+      "track_number": 2,
+      "title": "Main Menu",
+      "runtime": 80,
+      "source_mp3": "https://vgmsite.com/soundtracks/mahjong-club-1994-snes/avuaermeqy/02%20Main%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mahjong-club-1994-snes/avuaermeqy/02%20Main%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mahjong-club-1994-snes/02%2520Main%2520Menu.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 116,
+    "filesize_mp3_bytes": 3575643,
+    "filesize_flac_bytes": 10317987,
+    "tracks": 2
+  }
+}

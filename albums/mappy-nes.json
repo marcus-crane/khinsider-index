@@ -1,0 +1,112 @@
+{
+  "title": "Mappy",
+  "titles_alternative": [
+    "\u30de\u30c3\u30d4\u30fc"
+  ],
+  "crawled_at": "2023-09-23T02:33:23.384386+00:00",
+  "slug": "mappy-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mappy-nes",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mappy-nes/251123-mappy-nes-front-cover.jpg"
+  ],
+  "year": 1984,
+  "date_added": "2022-05-30T00:00:00+00:00",
+  "developers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/developer/namco"
+  },
+  "publishers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/publisher/namco"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4246732,
+      "filesize_mp3_bytes": 2139095,
+      "track_number": 1,
+      "title": "Main",
+      "runtime": 86,
+      "source_mp3": "https://vgmsite.com/soundtracks/mappy-nes/znttgkgpab/01%20Main.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mappy-nes/znttgkgpab/01%20Main.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mappy-nes/01%2520Main.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 104857,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 2,
+      "title": "Round Clear",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/mappy-nes/mygnqyfxaw/02%20Round%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mappy-nes/mygnqyfxaw/02%20Round%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mappy-nes/02%2520Round%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2023751,
+      "filesize_mp3_bytes": 870318,
+      "track_number": 3,
+      "title": "Bonus Round Start ~ Bonus Round",
+      "runtime": 42,
+      "source_mp3": "https://vgmsite.com/soundtracks/mappy-nes/nwbbguallb/03%20Bonus%20Round%20Start%20~%20Bonus%20Round.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mappy-nes/nwbbguallb/03%20Bonus%20Round%20Start%20~%20Bonus%20Round.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mappy-nes/03%2520Bonus%2520Round%2520Start%2520~%2520Bonus%2520Round.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 492830,
+      "filesize_mp3_bytes": 251658,
+      "track_number": 4,
+      "title": "Compiling Bonus Points",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/mappy-nes/kfoymzmtgz/04%20Compiling%20Bonus%20Points.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mappy-nes/kfoymzmtgz/04%20Compiling%20Bonus%20Points.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mappy-nes/04%2520Compiling%2520Bonus%2520Points.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 115343,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 5,
+      "title": "Extend",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/mappy-nes/vicejavmkj/05%20Extend.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mappy-nes/vicejavmkj/05%20Extend.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mappy-nes/05%2520Extend.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 125829,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 6,
+      "title": "Touched Enemy",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/mappy-nes/hvydktwbzr/06%20Touched%20Enemy.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mappy-nes/hvydktwbzr/06%20Touched%20Enemy.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mappy-nes/06%2520Touched%2520Enemy.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 408944,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 7,
+      "title": "Game Over",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/mappy-nes/kxjpfbzshb/07%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mappy-nes/kxjpfbzshb/07%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mappy-nes/07%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 156,
+    "filesize_mp3_bytes": 3586127,
+    "filesize_flac_bytes": 7518286,
+    "tracks": 7
+  }
+}

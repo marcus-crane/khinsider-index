@@ -1,0 +1,42 @@
+{
+  "title": "Les Aventures de Tchoupi a Lecole",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T00:04:59.964442+00:00",
+  "slug": "les-aventures-de-tchoupi-a-lecole-2014-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/les-aventures-de-tchoupi-a-lecole-2014-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/les-aventures-de-tchoupi-a-lecole-2014-nds-gamerip/Les%20Aventures%20de%20Tchoupi%20a%20Lecole.jpg"
+  ],
+  "year": 2014,
+  "date_added": "2020-06-16T00:00:00+00:00",
+  "developers": {
+    "Emme": "https://downloads.khinsider.com/game-soundtracks/developer/emme"
+  },
+  "publishers": {
+    "Emme": "https://downloads.khinsider.com/game-soundtracks/publisher/emme"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1268776,
+      "filesize_mp3_bytes": 398458,
+      "title": "Theme 00",
+      "runtime": 25,
+      "source_mp3": "https://vgmsite.com/soundtracks/les-aventures-de-tchoupi-a-lecole-2014-nds-gamerip/kxpnpxqvap/Theme%2000.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/les-aventures-de-tchoupi-a-lecole-2014-nds-gamerip/kxpnpxqvap/Theme%2000.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/les-aventures-de-tchoupi-a-lecole-2014-nds-gamerip/Theme%252000.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 25,
+    "filesize_mp3_bytes": 398458,
+    "filesize_flac_bytes": 1268776,
+    "tracks": 1
+  }
+}

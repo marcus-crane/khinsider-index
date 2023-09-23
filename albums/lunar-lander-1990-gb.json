@@ -1,0 +1,78 @@
+{
+  "title": "Lunar Lander",
+  "titles_alternative": [
+    "\u30eb\u30ca \u30e9\u30f3\u30c0\u30fc"
+  ],
+  "crawled_at": "2023-09-23T01:23:46.423676+00:00",
+  "slug": "lunar-lander-1990-gb",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/lunar-lander-1990-gb",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/lunar-lander-1990-gb/L1.png"
+  ],
+  "year": 1990,
+  "date_added": "2022-05-11T00:00:00+00:00",
+  "developers": {
+    "Pack-In-Video": "https://downloads.khinsider.com/game-soundtracks/developer/pack-in-video"
+  },
+  "publishers": {
+    "Pack-In-Video": "https://downloads.khinsider.com/game-soundtracks/publisher/pack-in-video"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 880803,
+      "filesize_mp3_bytes": 283115,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 17,
+      "source_mp3": "https://vgmsite.com/soundtracks/lunar-lander-1990-gb/hwyirehkgp/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lunar-lander-1990-gb/hwyirehkgp/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lunar-lander-1990-gb/01%2520BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1929379,
+      "filesize_mp3_bytes": 471859,
+      "track_number": 2,
+      "title": "BGM #02",
+      "runtime": 17,
+      "source_mp3": "https://vgmsite.com/soundtracks/lunar-lander-1990-gb/uamoqvcaqj/02%20BGM%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lunar-lander-1990-gb/uamoqvcaqj/02%20BGM%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lunar-lander-1990-gb/02%2520BGM%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1195376,
+      "filesize_mp3_bytes": 471859,
+      "track_number": 3,
+      "title": "BGM #03",
+      "runtime": 16,
+      "source_mp3": "https://vgmsite.com/soundtracks/lunar-lander-1990-gb/qijktbumzc/03%20BGM%20%2303.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lunar-lander-1990-gb/qijktbumzc/03%20BGM%20%2303.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lunar-lander-1990-gb/03%2520BGM%2520%252303.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 178257,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 4,
+      "title": "Jingle #01",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/lunar-lander-1990-gb/wpyvqabocf/04%20Jingle%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lunar-lander-1990-gb/wpyvqabocf/04%20Jingle%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lunar-lander-1990-gb/04%2520Jingle%2520%252301.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 52,
+    "filesize_mp3_bytes": 1279261,
+    "filesize_flac_bytes": 4183815,
+    "tracks": 4
+  }
+}

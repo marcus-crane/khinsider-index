@@ -1,0 +1,67 @@
+{
+  "title": "Konami's Boxing (PSG)",
+  "titles_alternative": [
+    "\u30b3\u30ca\u30df\u306e\u30dc\u30af\u30b7\u30f3\u30b0"
+  ],
+  "crawled_at": "2023-09-22T21:46:59.550475+00:00",
+  "slug": "konami-s-boxing-msx-psg",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/konami-s-boxing-msx-psg",
+  "platforms": {
+    "MSX": "https://downloads.khinsider.com/game-soundtracks/msx"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/konami-s-boxing-msx-psg/B1.jpg"
+  ],
+  "year": 1985,
+  "date_added": "2022-05-12T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami"
+  },
+  "publishers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 209715,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 1,
+      "title": "Game Start",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/konami-s-boxing-msx-psg/tmstmyhryq/01%20Game%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/konami-s-boxing-msx-psg/tmstmyhryq/01%20Game%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/konami-s-boxing-msx-psg/01%2520Game%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 241172,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 2,
+      "title": "3 Wins",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/konami-s-boxing-msx-psg/ciuvayunug/02%203%20Wins.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/konami-s-boxing-msx-psg/ciuvayunug/02%203%20Wins.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/konami-s-boxing-msx-psg/02%25203%2520Wins.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 262144,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 3,
+      "title": "Game Over",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/konami-s-boxing-msx-psg/hcexyasslr/03%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/konami-s-boxing-msx-psg/hcexyasslr/03%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/konami-s-boxing-msx-psg/03%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 15,
+    "filesize_mp3_bytes": 272628,
+    "filesize_flac_bytes": 713031,
+    "tracks": 3
+  }
+}

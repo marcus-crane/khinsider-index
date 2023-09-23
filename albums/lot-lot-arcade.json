@@ -1,0 +1,89 @@
+{
+  "title": "Lot Lot",
+  "titles_alternative": [
+    "\u30ed\u30c3\u30c8\u30ed\u30c3\u30c8"
+  ],
+  "crawled_at": "2023-09-23T01:02:11.522721+00:00",
+  "slug": "lot-lot-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/lot-lot-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/lot-lot-arcade/L1.jpg"
+  ],
+  "year": 1985,
+  "date_added": "2021-07-11T00:00:00+00:00",
+  "developers": {
+    "Irem": "https://downloads.khinsider.com/game-soundtracks/developer/irem"
+  },
+  "publishers": {
+    "Irem": "https://downloads.khinsider.com/game-soundtracks/publisher/irem"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 157286,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 1,
+      "title": "Round Start",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/lot-lot-arcade/rpngkggwck/01%20-%20Round%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lot-lot-arcade/rpngkggwck/01%20-%20Round%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lot-lot-arcade/01%2520-%2520Round%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1730150,
+      "filesize_mp3_bytes": 650117,
+      "track_number": 2,
+      "title": "Main Music",
+      "runtime": 35,
+      "source_mp3": "https://vgmsite.com/soundtracks/lot-lot-arcade/synuclkrke/02%20-%20Main%20Music.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lot-lot-arcade/synuclkrke/02%20-%20Main%20Music.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lot-lot-arcade/02%2520-%2520Main%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 146800,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 3,
+      "title": "Round Clear",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/lot-lot-arcade/crmsnomgva/03%20-%20Round%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lot-lot-arcade/crmsnomgva/03%20-%20Round%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lot-lot-arcade/03%2520-%2520Round%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 178257,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/lot-lot-arcade/wjbfmtmohl/04%20-%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lot-lot-arcade/wjbfmtmohl/04%20-%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lot-lot-arcade/04%2520-%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 692060,
+      "filesize_mp3_bytes": 283115,
+      "track_number": 5,
+      "title": "Name Entry",
+      "runtime": 16,
+      "source_mp3": "https://vgmsite.com/soundtracks/lot-lot-arcade/cdzcjmusdh/05%20-%20Name%20Entry.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lot-lot-arcade/cdzcjmusdh/05%20-%20Name%20Entry.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lot-lot-arcade/05%2520-%2520Name%2520Entry.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 60,
+    "filesize_mp3_bytes": 1080031,
+    "filesize_flac_bytes": 2904553,
+    "tracks": 5
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "title": "Maniac Mansion",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T02:30:16.041685+00:00",
+  "slug": "maniac-mansion-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/maniac-mansion-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/maniac-mansion-commodore-64/Maniac%20Mansion%20Cover.jpg"
+  ],
+  "year": 1987,
+  "date_added": "2016-02-12T00:00:00+00:00",
+  "developers": {
+    "Lucasfilm Games": "https://downloads.khinsider.com/game-soundtracks/developer/lucasfilm-games"
+  },
+  "publishers": {
+    "Lucasfilm Games": "https://downloads.khinsider.com/game-soundtracks/publisher/lucasfilm-games",
+    "Rushware": "https://downloads.khinsider.com/game-soundtracks/publisher/rushware"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1845493,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 87,
+      "source_mp3": "https://vgmsite.com/soundtracks/maniac-mansion-commodore-64/llbqylak/01_Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/maniac-mansion-commodore-64/01_Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 587202,
+      "track_number": 2,
+      "title": "Piano Tune",
+      "runtime": 26,
+      "source_mp3": "https://vgmsite.com/soundtracks/maniac-mansion-commodore-64/nwtnzdbl/02_Piano%20Tune.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/maniac-mansion-commodore-64/02_Piano%2520Tune.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2998927,
+      "track_number": 3,
+      "title": "Intro (SID Stereo)",
+      "runtime": 88,
+      "source_mp3": "https://vgmsite.com/soundtracks/maniac-mansion-commodore-64/iulxafxp/03_Intro%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/maniac-mansion-commodore-64/03_Intro%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 975175,
+      "track_number": 4,
+      "title": "Piano Tune (SID Stereo)",
+      "runtime": 26,
+      "source_mp3": "https://vgmsite.com/soundtracks/maniac-mansion-commodore-64/dwwrxwqk/04_Piano%20Tune%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/maniac-mansion-commodore-64/04_Piano%2520Tune%2520%2528SID%2520Stereo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 227,
+    "filesize_mp3_bytes": 6406797,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

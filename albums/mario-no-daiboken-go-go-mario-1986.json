@@ -1,0 +1,53 @@
+{
+  "title": "Mario's Big Adventure/GO GO Mario!!",
+  "titles_alternative": [
+    "\u30de\u30ea\u30aa\u306e\u5927\u5192\u967a/GO GO \u30de\u30ea\u30aa!!",
+    "Mario no Daibouken/GO GO Mario!!"
+  ],
+  "crawled_at": "2023-09-23T02:52:45.627391+00:00",
+  "slug": "mario-no-daiboken-go-go-mario-1986",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mario-no-daiboken-go-go-mario-1986",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mario-no-daiboken-go-go-mario-1986/PR-93_cover.jpg"
+  ],
+  "year": 1986,
+  "catalog_number": "PR-93",
+  "date_added": "2014-12-01T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "CANYON": "https://downloads.khinsider.com/game-soundtracks/publisher/canyon"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3313500,
+      "title": "A1 Mario's great adventure",
+      "runtime": 207,
+      "source_mp3": "https://vgmsite.com/soundtracks/mario-no-daiboken-go-go-mario-1986/kgwiricu/A1%20Mario%27s%20great%20adventure.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mario-no-daiboken-go-go-mario-1986/A1%2520Mario%2527s%2520great%2520adventure.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3512729,
+      "title": "B1 Go, go Mario!!",
+      "runtime": 220,
+      "source_mp3": "https://vgmsite.com/soundtracks/mario-no-daiboken-go-go-mario-1986/qdfcwaan/B1%20Go%2C%20go%20Mario%21%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mario-no-daiboken-go-go-mario-1986/B1%2520Go%252C%2520go%2520Mario%2521%2521.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 427,
+    "filesize_mp3_bytes": 6826229,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Konami's Golf",
+  "titles_alternative": [
+    "\u30b3\u30ca\u30df\u306e\u30b4\u30eb\u30d5"
+  ],
+  "crawled_at": "2023-09-22T21:47:02.350689+00:00",
+  "slug": "konami-s-golf-msx",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/konami-s-golf-msx",
+  "platforms": {
+    "MSX": "https://downloads.khinsider.com/game-soundtracks/msx"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/konami-s-golf-msx/G1.jpg"
+  ],
+  "year": 1985,
+  "date_added": "2022-05-12T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami"
+  },
+  "publishers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 188743,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 1,
+      "title": "Play Start",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/konami-s-golf-msx/bkzbyvjajo/01%20Play%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/konami-s-golf-msx/bkzbyvjajo/01%20Play%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/konami-s-golf-msx/01%2520Play%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 104857,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 2,
+      "title": "Next Hole",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/konami-s-golf-msx/litehbdgvn/02%20Next%20Hole.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/konami-s-golf-msx/litehbdgvn/02%20Next%20Hole.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/konami-s-golf-msx/02%2520Next%2520Hole.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 199229,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 3,
+      "title": "Hole Out",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/konami-s-golf-msx/ipxchndlrn/03%20Hole%20Out.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/konami-s-golf-msx/ipxchndlrn/03%20Hole%20Out.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/konami-s-golf-msx/03%2520Hole%2520Out.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 13,
+    "filesize_mp3_bytes": 241171,
+    "filesize_flac_bytes": 492829,
+    "tracks": 3
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Krazy Kreatures (Unlicensed)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T22:01:44.088919+00:00",
+  "slug": "krazy-kreatures-1990-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/krazy-kreatures-1990-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/krazy-kreatures-1990-nes/KK.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2022-05-11T00:00:00+00:00",
+  "developers": {
+    "Bitmasters": "https://downloads.khinsider.com/game-soundtracks/developer/bitmasters"
+  },
+  "publishers": {
+    "American Video Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/american-video-entertainment"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 272629,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/krazy-kreatures-1990-nes/erjbnwxxyu/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/krazy-kreatures-1990-nes/erjbnwxxyu/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/krazy-kreatures-1990-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 178257,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/krazy-kreatures-1990-nes/uxduxukfzz/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/krazy-kreatures-1990-nes/uxduxukfzz/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/krazy-kreatures-1990-nes/02.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 9,
+    "filesize_mp3_bytes": 146800,
+    "filesize_flac_bytes": 450886,
+    "tracks": 2
+  }
+}

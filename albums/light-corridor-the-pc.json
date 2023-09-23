@@ -1,0 +1,54 @@
+{
+  "title": "The Light Corridor",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T00:18:21.160567+00:00",
+  "slug": "light-corridor-the-pc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/light-corridor-the-pc",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/light-corridor-the-pc/The%20Light%20Corridor.png"
+  ],
+  "year": 1990,
+  "date_added": "2022-05-18T00:00:00+00:00",
+  "developers": {
+    "Infogrames": "https://downloads.khinsider.com/game-soundtracks/developer/infogrames"
+  },
+  "publishers": {
+    "Infogrames": "https://downloads.khinsider.com/game-soundtracks/publisher/infogrames"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7476346,
+      "filesize_mp3_bytes": 2726297,
+      "track_number": 1,
+      "title": "Opening",
+      "runtime": 127,
+      "source_mp3": "https://vgmsite.com/soundtracks/light-corridor-the-pc/sjttzwafxa/01%20Opening.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/light-corridor-the-pc/sjttzwafxa/01%20Opening.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/light-corridor-the-pc/01%2520Opening.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9699328,
+      "filesize_mp3_bytes": 3743416,
+      "track_number": 2,
+      "title": "Title Screen",
+      "runtime": 174,
+      "source_mp3": "https://vgmsite.com/soundtracks/light-corridor-the-pc/nhavjclnkb/02%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/light-corridor-the-pc/nhavjclnkb/02%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/light-corridor-the-pc/02%2520Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 301,
+    "filesize_mp3_bytes": 6469713,
+    "filesize_flac_bytes": 17175674,
+    "tracks": 2
+  }
+}

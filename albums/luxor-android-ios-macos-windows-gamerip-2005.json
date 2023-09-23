@@ -1,0 +1,65 @@
+{
+  "title": "Luxor",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T01:30:11.286565+00:00",
+  "slug": "luxor-android-ios-macos-windows-gamerip-2005",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/luxor-android-ios-macos-windows-gamerip-2005",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios",
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/luxor-android-ios-macos-windows-gamerip-2005/Luxor%20Picture.jpg"
+  ],
+  "year": 2005,
+  "date_added": "2023-06-19T00:00:00+00:00",
+  "developers": {
+    "MumboJumbo": "https://downloads.khinsider.com/game-soundtracks/developer/mumbojumbo"
+  },
+  "publishers": {
+    "MumboJumbo": "https://downloads.khinsider.com/game-soundtracks/publisher/mumbojumbo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 419430,
+      "track_number": 1,
+      "title": "Danger",
+      "runtime": 27,
+      "source_mp3": "https://vgmsite.com/soundtracks/luxor-android-ios-macos-windows-gamerip-2005/hdlnfnzqfd/01.%20Danger.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/luxor-android-ios-macos-windows-gamerip-2005/01.%2520Danger.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2631925,
+      "track_number": 2,
+      "title": "Level",
+      "runtime": 172,
+      "source_mp3": "https://vgmsite.com/soundtracks/luxor-android-ios-macos-windows-gamerip-2005/essnryxhpw/02.%20Level.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/luxor-android-ios-macos-windows-gamerip-2005/02.%2520Level.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 870318,
+      "track_number": 3,
+      "title": "Main Menu",
+      "runtime": 56,
+      "source_mp3": "https://vgmsite.com/soundtracks/luxor-android-ios-macos-windows-gamerip-2005/ibuwgsrayr/03.%20Main%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/luxor-android-ios-macos-windows-gamerip-2005/03.%2520Main%2520Menu.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 255,
+    "filesize_mp3_bytes": 3921673,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

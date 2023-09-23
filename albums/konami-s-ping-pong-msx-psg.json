@@ -1,0 +1,68 @@
+{
+  "title": "Konami's Ping Pong (PSG)",
+  "titles_alternative": [
+    "Ping Pong",
+    "\u30b3\u30ca\u30df\u306e\u30d4\u30f3\u30dd\u30f3"
+  ],
+  "crawled_at": "2023-09-22T21:47:05.413607+00:00",
+  "slug": "konami-s-ping-pong-msx-psg",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/konami-s-ping-pong-msx-psg",
+  "platforms": {
+    "MSX": "https://downloads.khinsider.com/game-soundtracks/msx"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/konami-s-ping-pong-msx-psg/Konami%27s%20Ping%20Pong.png"
+  ],
+  "year": 1985,
+  "date_added": "2022-05-12T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami"
+  },
+  "publishers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 251658,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 1,
+      "title": "Play Start",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/konami-s-ping-pong-msx-psg/gkpdbqfhzc/01%20Play%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/konami-s-ping-pong-msx-psg/gkpdbqfhzc/01%20Play%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/konami-s-ping-pong-msx-psg/01%2520Play%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 146800,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 2,
+      "title": "Game",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/konami-s-ping-pong-msx-psg/peuojvzyep/02%20Game.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/konami-s-ping-pong-msx-psg/peuojvzyep/02%20Game.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/konami-s-ping-pong-msx-psg/02%2520Game.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 136314,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 3,
+      "title": "Game Set",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/konami-s-ping-pong-msx-psg/ocozerlpje/03%20Game%20Set.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/konami-s-ping-pong-msx-psg/ocozerlpje/03%20Game%20Set.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/konami-s-ping-pong-msx-psg/03%2520Game%2520Set.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 13,
+    "filesize_mp3_bytes": 230685,
+    "filesize_flac_bytes": 534772,
+    "tracks": 3
+  }
+}

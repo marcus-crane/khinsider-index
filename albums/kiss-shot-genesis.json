@@ -1,0 +1,100 @@
+{
+  "title": "Kiss Shot",
+  "titles_alternative": [
+    "\u30ad\u30b9\u30b7\u30e7\u30c3\u30c8"
+  ],
+  "crawled_at": "2023-09-22T21:18:11.722460+00:00",
+  "slug": "kiss-shot-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/kiss-shot-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/kiss-shot-genesis/Kiss%20Shot.png"
+  ],
+  "year": 1992,
+  "date_added": "2020-03-12T00:00:00+00:00",
+  "developers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5169479,
+      "filesize_mp3_bytes": 1772093,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/kiss-shot-genesis/lodvmoutrk/01%20-%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kiss-shot-genesis/lodvmoutrk/01%20-%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kiss-shot-genesis/01%2520-%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 16116613,
+      "filesize_mp3_bytes": 5305794,
+      "track_number": 2,
+      "title": "Nineball Game",
+      "runtime": 183,
+      "source_mp3": "https://vgmsite.com/soundtracks/kiss-shot-genesis/ikqalzcugy/02%20-%20Nineball%20Game.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kiss-shot-genesis/ikqalzcugy/02%20-%20Nineball%20Game.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kiss-shot-genesis/02%2520-%2520Nineball%2520Game.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7235174,
+      "filesize_mp3_bytes": 2390753,
+      "track_number": 3,
+      "title": "Billards Game",
+      "runtime": 87,
+      "source_mp3": "https://vgmsite.com/soundtracks/kiss-shot-genesis/ejsmzjhxvm/03%20-%20Billards%20Game.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kiss-shot-genesis/ejsmzjhxvm/03%20-%20Billards%20Game.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kiss-shot-genesis/03%2520-%2520Billards%2520Game.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5819596,
+      "filesize_mp3_bytes": 1908408,
+      "track_number": 4,
+      "title": "Win Theme",
+      "runtime": 69,
+      "source_mp3": "https://vgmsite.com/soundtracks/kiss-shot-genesis/waqjpmvvpt/04%20-%20Win%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kiss-shot-genesis/waqjpmvvpt/04%20-%20Win%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kiss-shot-genesis/04%2520-%2520Win%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3240099,
+      "filesize_mp3_bytes": 1447034,
+      "track_number": 5,
+      "title": "Lose Theme",
+      "runtime": 71,
+      "source_mp3": "https://vgmsite.com/soundtracks/kiss-shot-genesis/dppbugmvvq/05%20-%20Lose%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kiss-shot-genesis/dppbugmvvq/05%20-%20Lose%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kiss-shot-genesis/05%2520-%2520Lose%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 15225323,
+      "filesize_mp3_bytes": 4771020,
+      "track_number": 6,
+      "title": "Ending Theme",
+      "runtime": 183,
+      "source_mp3": "https://vgmsite.com/soundtracks/kiss-shot-genesis/hbcykoaqol/06%20-%20Ending%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kiss-shot-genesis/hbcykoaqol/06%20-%20Ending%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kiss-shot-genesis/06%2520-%2520Ending%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 657,
+    "filesize_mp3_bytes": 17595102,
+    "filesize_flac_bytes": 52806284,
+    "tracks": 6
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "title": "KORIBALL",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T21:55:13.817096+00:00",
+  "slug": "koriball-2016",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/koriball-2016",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/koriball-2016/cover.jpg"
+  ],
+  "year": 2016,
+  "date_added": "2023-05-08T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "GilvaSunner": "https://downloads.khinsider.com/game-soundtracks/publisher/gilvasunner"
+  },
+  "genres": {
+    "Remix": "https://downloads.khinsider.com/game-soundtracks/remixes"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5075107,
+      "track_number": 1,
+      "title": "Koriball",
+      "runtime": 306,
+      "source_mp3": "https://vgmsite.com/soundtracks/koriball-2016/dxkmvcjvol/01.%20Koriball.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/koriball-2016/01.%2520Koriball.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3166699,
+      "track_number": 2,
+      "title": "Giegabowsah",
+      "runtime": 187,
+      "source_mp3": "https://vgmsite.com/soundtracks/koriball-2016/czoukgukef/02.%20Giegabowsah.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/koriball-2016/02.%2520Giegabowsah.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1887436,
+      "track_number": 3,
+      "title": "Kori Cho Taihen Spacejam 2",
+      "runtime": 107,
+      "source_mp3": "https://vgmsite.com/soundtracks/koriball-2016/ikmffwgazg/03.%20Kori%20Cho%20Taihen%20Spacejam%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/koriball-2016/03.%2520Kori%2520Cho%2520Taihen%2520Spacejam%25202.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 600,
+    "filesize_mp3_bytes": 10129242,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

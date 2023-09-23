@@ -1,0 +1,105 @@
+{
+  "title": "Lightning Vaccus",
+  "titles_alternative": [
+    "Lightning Vaccus: The Knight of Iron",
+    "\u30e9\u30a4\u30c8\u30cb\u30f3\u30b0\u30d0\u30c3\u30ab\u30b9"
+  ],
+  "crawled_at": "2023-09-23T00:19:53.382015+00:00",
+  "slug": "lightning-vaccus-x68000",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/lightning-vaccus-x68000",
+  "platforms": {
+    "X68000": "https://downloads.khinsider.com/game-soundtracks/x68000"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/lightning-vaccus-x68000/Lightning%20Vaccus%20%28X68000%29%20%28gamerip%29%20%281989%29.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2019-03-25T00:00:00+00:00",
+  "developers": {
+    "NCS": "https://downloads.khinsider.com/game-soundtracks/developer/ncs"
+  },
+  "publishers": {
+    "Masaya": "https://downloads.khinsider.com/game-soundtracks/publisher/masaya"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4288675,
+      "track_number": 1,
+      "title": "Opening",
+      "runtime": 134,
+      "source_mp3": "https://vgmsite.com/soundtracks/lightning-vaccus-x68000/bwkioezr/01_Opening.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lightning-vaccus-x68000/01_Opening.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2243952,
+      "track_number": 2,
+      "title": "Select",
+      "runtime": 87,
+      "source_mp3": "https://vgmsite.com/soundtracks/lightning-vaccus-x68000/urrgmuad/02_Select.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lightning-vaccus-x68000/02_Select.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3198156,
+      "track_number": 3,
+      "title": "Scenario Story",
+      "runtime": 115,
+      "source_mp3": "https://vgmsite.com/soundtracks/lightning-vaccus-x68000/fbddommz/03_Scenario%20Story.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lightning-vaccus-x68000/03_Scenario%2520Story.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1562378,
+      "track_number": 4,
+      "title": "Scenario Clear",
+      "runtime": 53,
+      "source_mp3": "https://vgmsite.com/soundtracks/lightning-vaccus-x68000/xmrkjamf/04_Scenario%20Clear.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lightning-vaccus-x68000/04_Scenario%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5966397,
+      "track_number": 5,
+      "title": "Main Theme",
+      "runtime": 188,
+      "source_mp3": "https://vgmsite.com/soundtracks/lightning-vaccus-x68000/fnbvgndp/05_Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lightning-vaccus-x68000/05_Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1279262,
+      "track_number": 6,
+      "title": "Ending",
+      "runtime": 40,
+      "source_mp3": "https://vgmsite.com/soundtracks/lightning-vaccus-x68000/qjimrxtp/06_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lightning-vaccus-x68000/06_Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5043650,
+      "track_number": 7,
+      "title": "Game Over",
+      "runtime": 163,
+      "source_mp3": "https://vgmsite.com/soundtracks/lightning-vaccus-x68000/vqcqbued/07_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lightning-vaccus-x68000/07_Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 780,
+    "filesize_mp3_bytes": 23582470,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

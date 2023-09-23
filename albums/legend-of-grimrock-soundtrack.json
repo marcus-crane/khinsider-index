@@ -1,0 +1,36 @@
+{
+  "title": "Legend of Grimrock Soundtrack",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T23:06:31.400173+00:00",
+  "slug": "legend-of-grimrock-soundtrack",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/legend-of-grimrock-soundtrack",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/legend-of-grimrock-soundtrack/coverart.jpg"
+  ],
+  "year": 2012,
+  "date_added": "2015-11-16T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9196011,
+      "track_number": 1,
+      "title": "Legend of Grimrock Main Theme",
+      "runtime": 228,
+      "source_mp3": "https://vgmsite.com/soundtracks/legend-of-grimrock-soundtrack/capnthnp/01%20Legend%20of%20Grimrock%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/legend-of-grimrock-soundtrack/01%2520Legend%2520of%2520Grimrock%2520Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 228,
+    "filesize_mp3_bytes": 9196011,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

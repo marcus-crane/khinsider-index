@@ -1,0 +1,108 @@
+{
+  "title": "Last Ninja 3",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T22:39:19.398832+00:00",
+  "slug": "last-ninja-3-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/last-ninja-3-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/last-ninja-3-commodore-64/Folder.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2015-05-26T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7822376,
+      "track_number": 1,
+      "title": "Last Ninja 3 (Intro)",
+      "runtime": 287,
+      "source_mp3": "https://vgmsite.com/soundtracks/last-ninja-3-commodore-64/ufizrcbx/01-Last%20Ninja%203%20%28Intro%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/last-ninja-3-commodore-64/01-Last%2520Ninja%25203%2520%2528Intro%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5148508,
+      "track_number": 2,
+      "title": "Level 1 - Earth",
+      "runtime": 172,
+      "source_mp3": "https://vgmsite.com/soundtracks/last-ninja-3-commodore-64/ruycpmfa/02-Level%201%20-%20Earth.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/last-ninja-3-commodore-64/02-Level%25201%2520-%2520Earth.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7161774,
+      "track_number": 3,
+      "title": "Level 2 - Wind",
+      "runtime": 245,
+      "source_mp3": "https://vgmsite.com/soundtracks/last-ninja-3-commodore-64/kwujtzyc/03-Level%202%20-%20Wind.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/last-ninja-3-commodore-64/03-Level%25202%2520-%2520Wind.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5788139,
+      "track_number": 4,
+      "title": "Level 3 - Water",
+      "runtime": 259,
+      "source_mp3": "https://vgmsite.com/soundtracks/last-ninja-3-commodore-64/qvfdcpuv/04-Level%203%20-%20Water.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/last-ninja-3-commodore-64/04-Level%25203%2520-%2520Water.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5525995,
+      "track_number": 5,
+      "title": "Level 4 - Fire",
+      "runtime": 193,
+      "source_mp3": "https://vgmsite.com/soundtracks/last-ninja-3-commodore-64/gdnudonq/05-Level%204%20-%20Fire.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/last-ninja-3-commodore-64/05-Level%25204%2520-%2520Fire.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5609881,
+      "track_number": 6,
+      "title": "Level 5 - Void",
+      "runtime": 221,
+      "source_mp3": "https://vgmsite.com/soundtracks/last-ninja-3-commodore-64/pukfusqc/06-Level%205%20-%20Void.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/last-ninja-3-commodore-64/06-Level%25205%2520-%2520Void.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4498391,
+      "track_number": 7,
+      "title": "End Sequence",
+      "runtime": 170,
+      "source_mp3": "https://vgmsite.com/soundtracks/last-ninja-3-commodore-64/vcarqgzg/07-End%20Sequence.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/last-ninja-3-commodore-64/07-End%2520Sequence.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 838860,
+      "track_number": 8,
+      "title": "Game Over",
+      "runtime": 38,
+      "source_mp3": "https://vgmsite.com/soundtracks/last-ninja-3-commodore-64/hfsmriuo/08-Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/last-ninja-3-commodore-64/08-Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1585,
+    "filesize_mp3_bytes": 42393924,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

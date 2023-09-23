@@ -1,0 +1,87 @@
+{
+  "title": "Kwirk",
+  "titles_alternative": [
+    "Puzzle Boy"
+  ],
+  "crawled_at": "2023-09-22T22:13:18.674678+00:00",
+  "slug": "kwirk-1989-gb",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/kwirk-1989-gb",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/kwirk-1989-gb/Kwirk%20%281989%29%20%28GB%29.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2022-05-09T00:00:00+00:00",
+  "developers": {
+    "Atlus": "https://downloads.khinsider.com/game-soundtracks/developer/atlus"
+  },
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1352663,
+      "filesize_mp3_bytes": 492830,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 17,
+      "source_mp3": "https://vgmsite.com/soundtracks/kwirk-1989-gb/mjrratptyw/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kwirk-1989-gb/mjrratptyw/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kwirk-1989-gb/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 13453230,
+      "filesize_mp3_bytes": 4131389,
+      "track_number": 2,
+      "title": "Menu",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/kwirk-1989-gb/mefxqykbfi/02%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kwirk-1989-gb/mefxqykbfi/02%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kwirk-1989-gb/02%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10412359,
+      "filesize_mp3_bytes": 3502243,
+      "track_number": 3,
+      "title": "Going Up",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/kwirk-1989-gb/hqiihoucrd/03%20Going%20Up.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kwirk-1989-gb/hqiihoucrd/03%20Going%20Up.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kwirk-1989-gb/03%2520Going%2520Up.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9835642,
+      "filesize_mp3_bytes": 3439329,
+      "track_number": 4,
+      "title": "Heading Out",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/kwirk-1989-gb/yvemsgqdcu/04%20Heading%20Out.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kwirk-1989-gb/yvemsgqdcu/04%20Heading%20Out.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kwirk-1989-gb/04%2520Heading%2520Out.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 157286,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 5,
+      "title": "Level Completed",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/kwirk-1989-gb/sdnvqxopnq/05%20Level%20Completed.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kwirk-1989-gb/sdnvqxopnq/05%20Level%20Completed.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kwirk-1989-gb/05%2520Level%2520Completed.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 561,
+    "filesize_mp3_bytes": 11628705,
+    "filesize_flac_bytes": 35211180,
+    "tracks": 5
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "title": "M.A.S.H (ColecoVision)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T01:32:39.539151+00:00",
+  "slug": "m.a.s.h-colecovision-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/m.a.s.h-colecovision-master-system",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/m.a.s.h-colecovision-master-system/M.A.S.H%20%28ColecoVision%29.png"
+  ],
+  "year": 1983,
+  "date_added": "2020-07-15T00:00:00+00:00",
+  "developers": {
+    "Doug Neubauer": "https://downloads.khinsider.com/game-soundtracks/developer/doug-neubauer"
+  },
+  "publishers": {
+    "Fox Video Games": "https://downloads.khinsider.com/game-soundtracks/publisher/fox-video-games"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2820669,
+      "filesize_mp3_bytes": 1069547,
+      "track_number": 1,
+      "title": "Suicide is Painless",
+      "runtime": 61,
+      "source_mp3": "https://vgmsite.com/soundtracks/m.a.s.h-colecovision-master-system/mohummeejp/01%20-%20Suicide%20is%20Painless.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/m.a.s.h-colecovision-master-system/mohummeejp/01%20-%20Suicide%20is%20Painless.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/m.a.s.h-colecovision-master-system/01%2520-%2520Suicide%2520is%2520Painless.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 61,
+    "filesize_mp3_bytes": 1069547,
+    "filesize_flac_bytes": 2820669,
+    "tracks": 1
+  }
+}

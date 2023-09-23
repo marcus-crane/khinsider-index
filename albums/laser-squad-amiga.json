@@ -1,0 +1,52 @@
+{
+  "title": "Laser Squad",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T22:33:57.051288+00:00",
+  "slug": "laser-squad-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/laser-squad-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/laser-squad-amiga/LS.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2018-01-30T00:00:00+00:00",
+  "developers": {
+    "Target Games": "https://downloads.khinsider.com/game-soundtracks/developer/target-games"
+  },
+  "publishers": {
+    "Blade Software": "https://downloads.khinsider.com/game-soundtracks/publisher/blade-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4928307,
+      "track_number": 1,
+      "title": "The Assassins",
+      "runtime": 174,
+      "source_mp3": "https://vgmsite.com/soundtracks/laser-squad-amiga/bjhhpcna/01_The%20Assassins.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/laser-squad-amiga/01_The%2520Assassins.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9426698,
+      "track_number": 2,
+      "title": "Moonbase Assault",
+      "runtime": 299,
+      "source_mp3": "https://vgmsite.com/soundtracks/laser-squad-amiga/nheqwrcd/02_Moonbase%20Assault.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/laser-squad-amiga/02_Moonbase%2520Assault.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 473,
+    "filesize_mp3_bytes": 14355005,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

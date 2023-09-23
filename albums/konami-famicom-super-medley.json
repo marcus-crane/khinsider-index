@@ -1,0 +1,65 @@
+{
+  "title": "Konami Famicom Super Medley",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T21:42:13.207339+00:00",
+  "slug": "konami-famicom-super-medley",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/konami-famicom-super-medley",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/konami-famicom-super-medley/4644-1190299115.jpg"
+  ],
+  "year": 2005,
+  "catalog_number": "SCDC-00467",
+  "date_added": "2019-04-21T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Scitron Digital Contents Inc.": "https://downloads.khinsider.com/game-soundtracks/publisher/scitron-digital-contents"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 64372080,
+      "filesize_mp3_bytes": 20289945,
+      "track_number": 1,
+      "title": "Famicom Arrange Medley",
+      "runtime": 507,
+      "source_mp3": "https://vgmsite.com/soundtracks/konami-famicom-super-medley/bvksodqb/01%20Famicom%20Arrange%20Medley.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/konami-famicom-super-medley/bvksodqb/01%20Famicom%20Arrange%20Medley.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/konami-famicom-super-medley/01%2520Famicom%2520Arrange%2520Medley.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 63323504,
+      "filesize_mp3_bytes": 20132659,
+      "track_number": 2,
+      "title": "Famicom Original Remix Medley",
+      "runtime": 503,
+      "source_mp3": "https://vgmsite.com/soundtracks/konami-famicom-super-medley/frojpbxw/02%20Famicom%20Original%20Remix%20Medley.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/konami-famicom-super-medley/frojpbxw/02%20Famicom%20Original%20Remix%20Medley.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/konami-famicom-super-medley/02%2520Famicom%2520Original%2520Remix%2520Medley.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 62253957,
+      "filesize_mp3_bytes": 19776143,
+      "track_number": 3,
+      "title": "Famicom Super Medley",
+      "runtime": 494,
+      "source_mp3": "https://vgmsite.com/soundtracks/konami-famicom-super-medley/numofkfl/03%20Famicom%20Super%20Medley.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/konami-famicom-super-medley/numofkfl/03%20Famicom%20Super%20Medley.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/konami-famicom-super-medley/03%2520Famicom%2520Super%2520Medley.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1504,
+    "filesize_mp3_bytes": 60198747,
+    "filesize_flac_bytes": 189949541,
+    "tracks": 3
+  }
+}

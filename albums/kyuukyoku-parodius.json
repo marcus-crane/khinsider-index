@@ -1,0 +1,71 @@
+{
+  "title": "Kyuukyoku Parodius",
+  "titles_alternative": [
+    "\u7a76\u6975\u30d1\u30ed\u30c7\u30a3\u30a6\u30b9"
+  ],
+  "crawled_at": "2023-09-22T22:16:20.687509+00:00",
+  "slug": "kyuukyoku-parodius",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/kyuukyoku-parodius",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/kyuukyoku-parodius/Folder.jpg"
+  ],
+  "year": 1997,
+  "catalog_number": "KICA-7759",
+  "date_added": "2015-02-21T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "King Record Co., Ltd.": "https://downloads.khinsider.com/game-soundtracks/publisher/king-record"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 40485519,
+      "track_number": 1,
+      "title": "Conspiracy on Satellite Rishichia ~ First Part",
+      "runtime": 1662,
+      "source_mp3": "https://vgmsite.com/soundtracks/kyuukyoku-parodius/ppxoysbz/01%20Conspiracy%20on%20Satellite%20Rishichia%20~%20First%20Part.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kyuukyoku-parodius/01%2520Conspiracy%2520on%2520Satellite%2520Rishichia%2520~%2520First%2520Part.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4026531,
+      "track_number": 2,
+      "title": "Kyuukyoku Parodius Characters File 1",
+      "runtime": 143,
+      "source_mp3": "https://vgmsite.com/soundtracks/kyuukyoku-parodius/euiolfgj/02%20Kyuukyoku%20Parodius%20Characters%20File%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kyuukyoku-parodius/02%2520Kyuukyoku%2520Parodius%2520Characters%2520File%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 44333793,
+      "track_number": 3,
+      "title": "Conspiracy on Satellite Rishichia ~ Last Part",
+      "runtime": 1822,
+      "source_mp3": "https://vgmsite.com/soundtracks/kyuukyoku-parodius/uarqjrfn/03%20Conspiracy%20on%20Satellite%20Rishichia%20~%20Last%20Part.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kyuukyoku-parodius/03%2520Conspiracy%2520on%2520Satellite%2520Rishichia%2520~%2520Last%2520Part.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4666163,
+      "track_number": 4,
+      "title": "Kyuukyoku Parodius Characters File 2",
+      "runtime": 169,
+      "source_mp3": "https://vgmsite.com/soundtracks/kyuukyoku-parodius/jqankwqy/04%20Kyuukyoku%20Parodius%20Characters%20File%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kyuukyoku-parodius/04%2520Kyuukyoku%2520Parodius%2520Characters%2520File%25202.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 3796,
+    "filesize_mp3_bytes": 93512006,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

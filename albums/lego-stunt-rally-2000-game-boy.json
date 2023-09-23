@@ -1,0 +1,87 @@
+{
+  "title": "LEGO Stunt Rally (GBC)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T23:55:36.010830+00:00",
+  "slug": "lego-stunt-rally-2000-game-boy",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/lego-stunt-rally-2000-game-boy",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/lego-stunt-rally-2000-game-boy/146138-lego-stunt-rally-game-boy-color-front-cover.jpg"
+  ],
+  "year": 2000,
+  "date_added": "2022-05-16T00:00:00+00:00",
+  "developers": {
+    "Graphic State": "https://downloads.khinsider.com/game-soundtracks/developer/graphic-state"
+  },
+  "publishers": {
+    "Lego Media": "https://downloads.khinsider.com/game-soundtracks/publisher/lego-media"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7759462,
+      "filesize_mp3_bytes": 3114270,
+      "track_number": 1,
+      "title": "Main Menu",
+      "runtime": 139,
+      "source_mp3": "https://vgmsite.com/soundtracks/lego-stunt-rally-2000-game-boy/elibmxvoov/01%20Main%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lego-stunt-rally-2000-game-boy/elibmxvoov/01%20Main%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lego-stunt-rally-2000-game-boy/01%2520Main%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9101639,
+      "filesize_mp3_bytes": 3019898,
+      "track_number": 2,
+      "title": "Construction Mode",
+      "runtime": 147,
+      "source_mp3": "https://vgmsite.com/soundtracks/lego-stunt-rally-2000-game-boy/ivcmysninz/02%20Construction%20Mode.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lego-stunt-rally-2000-game-boy/ivcmysninz/02%20Construction%20Mode.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lego-stunt-rally-2000-game-boy/02%2520Construction%2520Mode.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4959764,
+      "filesize_mp3_bytes": 1897922,
+      "track_number": 3,
+      "title": "Win Race",
+      "runtime": 87,
+      "source_mp3": "https://vgmsite.com/soundtracks/lego-stunt-rally-2000-game-boy/owccnlerzc/03%20Win%20Race.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lego-stunt-rally-2000-game-boy/owccnlerzc/03%20Win%20Race.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lego-stunt-rally-2000-game-boy/03%2520Win%2520Race.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 94371,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 4,
+      "title": "Lose Race",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/lego-stunt-rally-2000-game-boy/ajpemzsovf/04%20Lose%20Race.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lego-stunt-rally-2000-game-boy/ajpemzsovf/04%20Lose%20Race.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lego-stunt-rally-2000-game-boy/04%2520Lose%2520Race.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6543114,
+      "filesize_mp3_bytes": 2118123,
+      "track_number": 5,
+      "title": "Credits",
+      "runtime": 98,
+      "source_mp3": "https://vgmsite.com/soundtracks/lego-stunt-rally-2000-game-boy/xgnvkfiuol/05%20Credits.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lego-stunt-rally-2000-game-boy/xgnvkfiuol/05%20Credits.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lego-stunt-rally-2000-game-boy/05%2520Credits.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 473,
+    "filesize_mp3_bytes": 10181670,
+    "filesize_flac_bytes": 28458350,
+    "tracks": 5
+  }
+}

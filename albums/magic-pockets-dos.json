@@ -1,0 +1,41 @@
+{
+  "title": "Magic Pockets",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T01:53:29.309122+00:00",
+  "slug": "magic-pockets-dos",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/magic-pockets-dos",
+  "platforms": {
+    "MS-DOS": "https://downloads.khinsider.com/game-soundtracks/ms-dos"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/magic-pockets-dos/408403-magic-pockets-dos-front-cover.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2020-12-11T00:00:00+00:00",
+  "developers": {
+    "The Bitmap Brothers": "https://downloads.khinsider.com/game-soundtracks/developer/the-bitmap-brothers"
+  },
+  "publishers": {
+    "Renegade": "https://downloads.khinsider.com/game-soundtracks/publisher/renegade"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1184890,
+      "title": "Title",
+      "runtime": 65,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-pockets-dos/kqqbnsrmxq/Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-pockets-dos/Title.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 65,
+    "filesize_mp3_bytes": 1184890,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

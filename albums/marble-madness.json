@@ -1,0 +1,125 @@
+{
+  "title": "Marble Madness",
+  "titles_alternative": [
+    "\u30de\u30fc\u30d6\u30eb\u30de\u30c3\u30c9\u30cd\u30b9"
+  ],
+  "crawled_at": "2023-09-23T02:34:16.309464+00:00",
+  "slug": "marble-madness",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/marble-madness",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/marble-madness/Marble%20Madness%20Cover.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2016-11-07T00:00:00+00:00",
+  "developers": {
+    "Atari": "https://downloads.khinsider.com/game-soundtracks/developer/atari",
+    "Rare": "https://downloads.khinsider.com/game-soundtracks/developer/rare"
+  },
+  "publishers": {
+    "Milton Bradley": "https://downloads.khinsider.com/game-soundtracks/publisher/milton-bradley"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 1,
+      "title": "Round Start",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/marble-madness/ynulrvab/01_Round%20Start.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/marble-madness/01_Round%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1730150,
+      "track_number": 2,
+      "title": "Practice",
+      "runtime": 51,
+      "source_mp3": "https://vgmsite.com/soundtracks/marble-madness/gxgzstvj/02_Practice.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/marble-madness/02_Practice.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4236247,
+      "track_number": 3,
+      "title": "Beginner",
+      "runtime": 125,
+      "source_mp3": "https://vgmsite.com/soundtracks/marble-madness/nlefqegi/03_Beginner.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/marble-madness/03_Beginner.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4445962,
+      "track_number": 4,
+      "title": "Intermediate",
+      "runtime": 124,
+      "source_mp3": "https://vgmsite.com/soundtracks/marble-madness/doqfigyd/04_Intermediate.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/marble-madness/04_Intermediate.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2243952,
+      "track_number": 5,
+      "title": "Aerial",
+      "runtime": 76,
+      "source_mp3": "https://vgmsite.com/soundtracks/marble-madness/mzznopou/05_Aerial.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/marble-madness/05_Aerial.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2936012,
+      "track_number": 6,
+      "title": "Silly",
+      "runtime": 80,
+      "source_mp3": "https://vgmsite.com/soundtracks/marble-madness/phachoky/06_Silly.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/marble-madness/06_Silly.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 220200,
+      "track_number": 7,
+      "title": "Game Over",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/marble-madness/lmurvnvr/07_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/marble-madness/07_Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3135242,
+      "track_number": 8,
+      "title": "Ultimate",
+      "runtime": 89,
+      "source_mp3": "https://vgmsite.com/soundtracks/marble-madness/oizqxyfk/08_Ultimate.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/marble-madness/08_Ultimate.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1017118,
+      "track_number": 9,
+      "title": "Congratulations",
+      "runtime": 32,
+      "source_mp3": "https://vgmsite.com/soundtracks/marble-madness/cahpfwhf/09_Congratulations.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/marble-madness/09_Congratulations.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 587,
+    "filesize_mp3_bytes": 20048769,
+    "filesize_flac_bytes": 0,
+    "tracks": 9
+  }
+}

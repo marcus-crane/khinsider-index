@@ -1,0 +1,46 @@
+{
+  "title": "MAD MAX",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T01:39:19.674062+00:00",
+  "slug": "mad-max-1990-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mad-max-1990-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mad-max-1990-nes/MADMAX.png"
+  ],
+  "year": 1990,
+  "date_added": "2015-01-20T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1751121,
+      "title": "MAD MAX - NES - Soundtrack - 1990 - MINDSCAPE - 1",
+      "runtime": 112,
+      "source_mp3": "https://vgmsite.com/soundtracks/mad-max-1990-nes/baphpwrq/MAD%20MAX%20-%20NES%20-%20Soundtrack%20-%201990%20-%20MINDSCAPE%20-%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mad-max-1990-nes/MAD%2520MAX%2520-%2520NES%2520-%2520Soundtrack%2520-%25201990%2520-%2520MINDSCAPE%2520-%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 325058,
+      "title": "MAD MAX - NES - Soundtrack - 1990 - MINDSCAPE - 2",
+      "runtime": 20,
+      "source_mp3": "https://vgmsite.com/soundtracks/mad-max-1990-nes/lksaupds/MAD%20MAX%20-%20NES%20-%20Soundtrack%20-%201990%20-%20MINDSCAPE%20-%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mad-max-1990-nes/MAD%2520MAX%2520-%2520NES%2520-%2520Soundtrack%2520-%25201990%2520-%2520MINDSCAPE%2520-%25202.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 132,
+    "filesize_mp3_bytes": 2076179,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

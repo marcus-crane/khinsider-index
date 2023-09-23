@@ -1,0 +1,75 @@
+{
+  "title": "Lamento Sound Disc -Prelude-",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T22:27:27.823283+00:00",
+  "slug": "lamento-sound-disc-prelude",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/lamento-sound-disc-prelude",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/lamento-sound-disc-prelude/00-booklet.jpg"
+  ],
+  "year": 2005,
+  "catalog_number": "SKR-1076",
+  "date_added": "2020-04-15T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Nitro+CHiRAL": "https://downloads.khinsider.com/game-soundtracks/publisher/nitro-chiral"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 16934502,
+      "filesize_mp3_bytes": 5882511,
+      "track_number": 1,
+      "title": "Time of Legend -Nervus-",
+      "runtime": 164,
+      "source_mp3": "https://vgmsite.com/soundtracks/lamento-sound-disc-prelude/plcqupnrkp/01%20Time%20of%20Legend%20-Nervus-.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lamento-sound-disc-prelude/plcqupnrkp/01%20Time%20of%20Legend%20-Nervus-.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lamento-sound-disc-prelude/01%2520Time%2520of%2520Legend%2520-Nervus-.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 23152558,
+      "filesize_mp3_bytes": 8011120,
+      "track_number": 2,
+      "title": "Town of Ransen",
+      "runtime": 215,
+      "source_mp3": "https://vgmsite.com/soundtracks/lamento-sound-disc-prelude/pkkpxqbfej/02%20Town%20of%20Ransen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lamento-sound-disc-prelude/pkkpxqbfej/02%20Town%20of%20Ransen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lamento-sound-disc-prelude/02%2520Town%2520of%2520Ransen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 22596812,
+      "filesize_mp3_bytes": 7686062,
+      "track_number": 3,
+      "title": "Forest of Hesitation",
+      "runtime": 205,
+      "source_mp3": "https://vgmsite.com/soundtracks/lamento-sound-disc-prelude/jmmpyuwsxg/03%20Forest%20of%20Hesitation.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lamento-sound-disc-prelude/jmmpyuwsxg/03%20Forest%20of%20Hesitation.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lamento-sound-disc-prelude/03%2520Forest%2520of%2520Hesitation.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 14134804,
+      "filesize_mp3_bytes": 5138022,
+      "track_number": 4,
+      "title": "Time of Legend -Vox-",
+      "runtime": 139,
+      "source_mp3": "https://vgmsite.com/soundtracks/lamento-sound-disc-prelude/gveglfqwvz/04%20Time%20of%20Legend%20-Vox-.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lamento-sound-disc-prelude/gveglfqwvz/04%20Time%20of%20Legend%20-Vox-.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lamento-sound-disc-prelude/04%2520Time%2520of%2520Legend%2520-Vox-.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 723,
+    "filesize_mp3_bytes": 26717715,
+    "filesize_flac_bytes": 76818676,
+    "tracks": 4
+  }
+}

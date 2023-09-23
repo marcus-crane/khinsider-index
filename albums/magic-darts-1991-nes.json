@@ -1,0 +1,80 @@
+{
+  "title": "Magic Darts",
+  "titles_alternative": [
+    "\u30de\u30b8\u30c3\u30af\u30c0\u30fc\u30c4"
+  ],
+  "crawled_at": "2023-09-23T01:52:03.509398+00:00",
+  "slug": "magic-darts-1991-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/magic-darts-1991-nes",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/magic-darts-1991-nes/Magic%20Darts.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2022-05-16T00:00:00+00:00",
+  "developers": {
+    "Seta": "https://downloads.khinsider.com/game-soundtracks/developer/seta"
+  },
+  "publishers": {
+    "Romstar": "https://downloads.khinsider.com/game-soundtracks/publisher/romstar",
+    "Seta": "https://downloads.khinsider.com/game-soundtracks/publisher/seta"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9489612,
+      "filesize_mp3_bytes": 3323985,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-darts-1991-nes/zekaupvkwm/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/magic-darts-1991-nes/zekaupvkwm/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-darts-1991-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9363783,
+      "filesize_mp3_bytes": 3711959,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-darts-1991-nes/tflersapuq/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/magic-darts-1991-nes/tflersapuq/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-darts-1991-nes/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9667870,
+      "filesize_mp3_bytes": 3554672,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-darts-1991-nes/laqdeyvosg/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/magic-darts-1991-nes/laqdeyvosg/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-darts-1991-nes/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 136314,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-darts-1991-nes/xnhjhjmqfx/04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/magic-darts-1991-nes/xnhjhjmqfx/04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-darts-1991-nes/04.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 543,
+    "filesize_mp3_bytes": 10643044,
+    "filesize_flac_bytes": 28657579,
+    "tracks": 4
+  }
+}

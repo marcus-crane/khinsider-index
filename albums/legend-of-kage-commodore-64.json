@@ -1,0 +1,54 @@
+{
+  "title": "Legend of Kage",
+  "titles_alternative": [
+    "\u5f71\u306e\u4f1d\u8aac"
+  ],
+  "crawled_at": "2023-09-22T23:13:48.707652+00:00",
+  "slug": "legend-of-kage-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/legend-of-kage-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/legend-of-kage-commodore-64/The-Legend-of-Kage-Commodore-64-Back-cover.jpg"
+  ],
+  "year": 1987,
+  "date_added": "2016-06-29T00:00:00+00:00",
+  "developers": {
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/developer/taito"
+  },
+  "publishers": {
+    "Imagine Software": "https://downloads.khinsider.com/game-soundtracks/publisher/imagine-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2422210,
+      "track_number": 1,
+      "title": "Legend of Kage - BGM1 [Run!]",
+      "runtime": 137,
+      "source_mp3": "https://vgmsite.com/soundtracks/legend-of-kage-commodore-64/nqheymrl/01_Legend%20of%20Kage%20-%20BGM1%20%5BRun%21%5D.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/legend-of-kage-commodore-64/01_Legend%2520of%2520Kage%2520-%2520BGM1%2520%255BRun%2521%255D.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4309647,
+      "track_number": 2,
+      "title": "Legend of Kage - BGM1 [Run!] (SID Stereo)",
+      "runtime": 138,
+      "source_mp3": "https://vgmsite.com/soundtracks/legend-of-kage-commodore-64/fbcromvx/02_Legend%20of%20Kage%20-%20BGM1%20%5BRun%21%5D%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/legend-of-kage-commodore-64/02_Legend%2520of%2520Kage%2520-%2520BGM1%2520%255BRun%2521%255D%2520%2528SID%2520Stereo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 275,
+    "filesize_mp3_bytes": 6731857,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

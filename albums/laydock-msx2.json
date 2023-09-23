@@ -1,0 +1,45 @@
+{
+  "title": "Laydock",
+  "titles_alternative": [
+    "\u30ec\u30a4\u30c9\u30c3\u30af"
+  ],
+  "crawled_at": "2023-09-22T22:41:43.766905+00:00",
+  "slug": "laydock-msx2",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/laydock-msx2",
+  "platforms": {
+    "MSX2": "https://downloads.khinsider.com/game-soundtracks/msx2"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/laydock-msx2/Laydock.png"
+  ],
+  "year": 1985,
+  "date_added": "2022-05-12T00:00:00+00:00",
+  "developers": {
+    "T&E Soft": "https://downloads.khinsider.com/game-soundtracks/developer/t-e-soft"
+  },
+  "publishers": {
+    "T&E Soft": "https://downloads.khinsider.com/game-soundtracks/publisher/t-e-soft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1824522,
+      "filesize_mp3_bytes": 671088,
+      "track_number": 1,
+      "title": "Asteroid Belt",
+      "runtime": 36,
+      "source_mp3": "https://vgmsite.com/soundtracks/laydock-msx2/slijsblcty/01%20Asteroid%20Belt.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/laydock-msx2/slijsblcty/01%20Asteroid%20Belt.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/laydock-msx2/01%2520Asteroid%2520Belt.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 36,
+    "filesize_mp3_bytes": 671088,
+    "filesize_flac_bytes": 1824522,
+    "tracks": 1
+  }
+}

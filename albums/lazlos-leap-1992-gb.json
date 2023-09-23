@@ -1,0 +1,102 @@
+{
+  "title": "Lazlos' Leap",
+  "titles_alternative": [
+    "Solitaire",
+    "\u30bd\u30ea\u30c6\u30a2"
+  ],
+  "crawled_at": "2023-09-22T22:42:51.778069+00:00",
+  "slug": "lazlos-leap-1992-gb",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/lazlos-leap-1992-gb",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/lazlos-leap-1992-gb/L1.png"
+  ],
+  "year": 1992,
+  "date_added": "2022-05-09T00:00:00+00:00",
+  "developers": {
+    "Hect": "https://downloads.khinsider.com/game-soundtracks/developer/hect"
+  },
+  "publishers": {
+    "DTMC": "https://downloads.khinsider.com/game-soundtracks/publisher/dtmc",
+    "Hect": "https://downloads.khinsider.com/game-soundtracks/publisher/hect"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10894704,
+      "filesize_mp3_bytes": 3586129,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/lazlos-leap-1992-gb/rjmtvzicai/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lazlos-leap-1992-gb/rjmtvzicai/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lazlos-leap-1992-gb/01%2520BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9594470,
+      "filesize_mp3_bytes": 3628072,
+      "track_number": 2,
+      "title": "BGM #02",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/lazlos-leap-1992-gb/gmplnkfndn/02%20BGM%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lazlos-leap-1992-gb/gmplnkfndn/02%20BGM%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lazlos-leap-1992-gb/02%2520BGM%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 12855541,
+      "filesize_mp3_bytes": 5337251,
+      "track_number": 3,
+      "title": "BGM #03",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/lazlos-leap-1992-gb/cqzkzvyfwg/03%20BGM%20%2303.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lazlos-leap-1992-gb/cqzkzvyfwg/03%20BGM%20%2303.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lazlos-leap-1992-gb/03%2520BGM%2520%252303.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 367001,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 4,
+      "title": "Jingle #01",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/lazlos-leap-1992-gb/kpfpmroptv/04%20Jingle%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lazlos-leap-1992-gb/kpfpmroptv/04%20Jingle%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lazlos-leap-1992-gb/04%2520Jingle%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 314572,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 5,
+      "title": "Jingle #02",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/lazlos-leap-1992-gb/exifgwtmpu/05%20Jingle%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lazlos-leap-1992-gb/exifgwtmpu/05%20Jingle%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lazlos-leap-1992-gb/05%2520Jingle%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 440401,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 6,
+      "title": "Jingle #03",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/lazlos-leap-1992-gb/jmcdbsumzx/06%20Jingle%20%2303.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lazlos-leap-1992-gb/jmcdbsumzx/06%20Jingle%20%2303.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lazlos-leap-1992-gb/06%2520Jingle%2520%252303.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 559,
+    "filesize_mp3_bytes": 12897481,
+    "filesize_flac_bytes": 34466689,
+    "tracks": 6
+  }
+}

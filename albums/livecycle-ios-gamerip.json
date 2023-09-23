@@ -1,0 +1,72 @@
+{
+  "title": "LiveCycle",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T00:39:13.149495+00:00",
+  "slug": "livecycle-ios-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/livecycle-ios-gamerip",
+  "platforms": {
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/livecycle-ios-gamerip/LiveCycle.png"
+  ],
+  "date_added": "2015-12-15T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 20971,
+      "title": "buttonClick_primary",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/livecycle-ios-gamerip/bvqvfycz/buttonClick_primary.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/livecycle-ios-gamerip/buttonClick_primary.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1981808,
+      "title": "Loop_Game",
+      "runtime": 102,
+      "source_mp3": "https://vgmsite.com/soundtracks/livecycle-ios-gamerip/nnbpgawk/Loop_Game.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/livecycle-ios-gamerip/Loop_Game.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1237319,
+      "title": "Loop_MenuScreen",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/livecycle-ios-gamerip/hacpsbyr/Loop_MenuScreen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/livecycle-ios-gamerip/Loop_MenuScreen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10485,
+      "title": "TRON_BEEP_3",
+      "runtime": 0,
+      "source_mp3": "https://vgmsite.com/soundtracks/livecycle-ios-gamerip/zjktgqtr/TRON_BEEP_3.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/livecycle-ios-gamerip/TRON_BEEP_3.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 73400,
+      "title": "Tron_Crash_110710_1",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/livecycle-ios-gamerip/dpjxlbxf/Tron_Crash_110710_1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/livecycle-ios-gamerip/Tron_Crash_110710_1.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 154,
+    "filesize_mp3_bytes": 3323983,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

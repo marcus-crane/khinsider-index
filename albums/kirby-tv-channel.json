@@ -1,0 +1,92 @@
+{
+  "title": "Kirby TV Channel",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T21:12:07.301214+00:00",
+  "slug": "kirby-tv-channel",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/kirby-tv-channel",
+  "platforms": {
+    "Wii": "https://downloads.khinsider.com/game-soundtracks/nintendo-wii"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/kirby-tv-channel/Kirby%20TV%20Channel.jpg"
+  ],
+  "year": 2011,
+  "date_added": "2018-07-12T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 293601,
+      "filesize_mp3_bytes": 157286,
+      "track_number": 1,
+      "title": "Channel Intro",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/kirby-tv-channel/nwpbjwvj/001%20-%20Channel%20Intro.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kirby-tv-channel/nwpbjwvj/001%20-%20Channel%20Intro.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kirby-tv-channel/001%2520-%2520Channel%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 723517,
+      "filesize_mp3_bytes": 597688,
+      "track_number": 2,
+      "title": "Loading",
+      "runtime": 15,
+      "source_mp3": "https://vgmsite.com/soundtracks/kirby-tv-channel/vpvwxkdl/002%20-%20Loading.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kirby-tv-channel/vpvwxkdl/002%20-%20Loading.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kirby-tv-channel/002%2520-%2520Loading.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3261071,
+      "filesize_mp3_bytes": 922746,
+      "track_number": 3,
+      "title": "Title Screen",
+      "runtime": 46,
+      "source_mp3": "https://vgmsite.com/soundtracks/kirby-tv-channel/fidzsefl/003%20-%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kirby-tv-channel/fidzsefl/003%20-%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kirby-tv-channel/003%2520-%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3795845,
+      "filesize_mp3_bytes": 1688207,
+      "track_number": 4,
+      "title": "Main",
+      "runtime": 84,
+      "source_mp3": "https://vgmsite.com/soundtracks/kirby-tv-channel/ilcbqfvx/004%20-%20Main.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kirby-tv-channel/ilcbqfvx/004%20-%20Main.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kirby-tv-channel/004%2520-%2520Main.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6543114,
+      "filesize_mp3_bytes": 2160066,
+      "track_number": 5,
+      "title": "Episode List",
+      "runtime": 108,
+      "source_mp3": "https://vgmsite.com/soundtracks/kirby-tv-channel/itxtsvkj/005%20-%20Episode%20List.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kirby-tv-channel/itxtsvkj/005%20-%20Episode%20List.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kirby-tv-channel/005%2520-%2520Episode%2520List.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3124756,
+      "filesize_mp3_bytes": 1027604,
+      "track_number": 6,
+      "title": "Get Key",
+      "runtime": 51,
+      "source_mp3": "https://vgmsite.com/soundtracks/kirby-tv-channel/wtlcbpku/006%20-%20Get%20Key.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kirby-tv-channel/wtlcbpku/006%20-%20Get%20Key.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kirby-tv-channel/006%2520-%2520Get%2520Key.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 308,
+    "filesize_mp3_bytes": 6553597,
+    "filesize_flac_bytes": 17741904,
+    "tracks": 6
+  }
+}

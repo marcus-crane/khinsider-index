@@ -1,0 +1,102 @@
+{
+  "title": "Marble Madness",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T02:34:19.348656+00:00",
+  "slug": "marble-madness-1991-gb",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/marble-madness-1991-gb",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/marble-madness-1991-gb/Marble%20Madness%20%28USA%2C%20Europe%29.png"
+  ],
+  "year": 1991,
+  "date_added": "2022-05-12T00:00:00+00:00",
+  "developers": {
+    "Atari Games": "https://downloads.khinsider.com/game-soundtracks/developer/atari-games",
+    "Mindscape": "https://downloads.khinsider.com/game-soundtracks/developer/mindscape"
+  },
+  "publishers": {
+    "Electronic Arts": "https://downloads.khinsider.com/game-soundtracks/publisher/electronic-arts",
+    "Midway Games West Inc": "https://downloads.khinsider.com/game-soundtracks/publisher/midway-games-west",
+    "MORE": "https://downloads.khinsider.com/game-soundtracks/publisher/more",
+    "Tengen": "https://downloads.khinsider.com/game-soundtracks/publisher/tengen"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 18056478,
+      "filesize_mp3_bytes": 7098859,
+      "track_number": 1,
+      "title": "Practice",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/marble-madness-1991-gb/ywunjljrkk/01%20Practice.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/marble-madness-1991-gb/ywunjljrkk/01%20Practice.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/marble-madness-1991-gb/01%2520Practice.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 17867735,
+      "filesize_mp3_bytes": 6585057,
+      "track_number": 2,
+      "title": "Beginner",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/marble-madness-1991-gb/vqsxvovpof/02%20Beginner.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/marble-madness-1991-gb/vqsxvovpof/02%20Beginner.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/marble-madness-1991-gb/02%2520Beginner.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 18056478,
+      "filesize_mp3_bytes": 6501171,
+      "track_number": 3,
+      "title": "Intermediate",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/marble-madness-1991-gb/ggitrqzrdj/03%20Intermediate.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/marble-madness-1991-gb/ggitrqzrdj/03%20Intermediate.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/marble-madness-1991-gb/03%2520Intermediate.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 19482542,
+      "filesize_mp3_bytes": 5211422,
+      "track_number": 4,
+      "title": "Aerial",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/marble-madness-1991-gb/xyzlvymney/04%20Aerial.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/marble-madness-1991-gb/xyzlvymney/04%20Aerial.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/marble-madness-1991-gb/04%2520Aerial.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 16934502,
+      "filesize_mp3_bytes": 6983516,
+      "track_number": 5,
+      "title": "Silly",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/marble-madness-1991-gb/ngahvbduhn/05%20Silly.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/marble-madness-1991-gb/ngahvbduhn/05%20Silly.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/marble-madness-1991-gb/05%2520Silly.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 377487,
+      "filesize_mp3_bytes": 199229,
+      "track_number": 6,
+      "title": "Game Over",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/marble-madness-1991-gb/urazbpvzvn/06%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/marble-madness-1991-gb/urazbpvzvn/06%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/marble-madness-1991-gb/06%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 906,
+    "filesize_mp3_bytes": 32579254,
+    "filesize_flac_bytes": 90775222,
+    "tracks": 6
+  }
+}

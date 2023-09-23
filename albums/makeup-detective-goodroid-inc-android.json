@@ -1,0 +1,54 @@
+{
+  "title": "Makeup detective (GOODROID, Inc)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T02:25:37.904753+00:00",
+  "slug": "makeup-detective-goodroid-inc-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/makeup-detective-goodroid-inc-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/makeup-detective-goodroid-inc-android/1.jpg"
+  ],
+  "date_added": "2017-03-14T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1226833,
+      "title": "note",
+      "runtime": 77,
+      "source_mp3": "https://vgmsite.com/soundtracks/makeup-detective-goodroid-inc-android/dmltxnbs/note.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/makeup-detective-goodroid-inc-android/note.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3292528,
+      "title": "opening",
+      "runtime": 82,
+      "source_mp3": "https://vgmsite.com/soundtracks/makeup-detective-goodroid-inc-android/hpcirent/opening.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/makeup-detective-goodroid-inc-android/opening.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 891289,
+      "title": "talk",
+      "runtime": 58,
+      "source_mp3": "https://vgmsite.com/soundtracks/makeup-detective-goodroid-inc-android/hulmrixe/talk.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/makeup-detective-goodroid-inc-android/talk.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 217,
+    "filesize_mp3_bytes": 5410650,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

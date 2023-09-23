@@ -1,0 +1,89 @@
+{
+  "title": "Konami's Baseball",
+  "titles_alternative": [
+    "\u30b3\u30ca\u30df\u306e\u30d9\u30fc\u30b9\u30dc\u30fc\u30eb"
+  ],
+  "crawled_at": "2023-09-22T21:46:57.634279+00:00",
+  "slug": "konami-s-baseball-msx",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/konami-s-baseball-msx",
+  "platforms": {
+    "MSX": "https://downloads.khinsider.com/game-soundtracks/msx"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/konami-s-baseball-msx/B1.jpg"
+  ],
+  "year": 1985,
+  "date_added": "2022-05-12T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami"
+  },
+  "publishers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 272629,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 1,
+      "title": "Play Start",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/konami-s-baseball-msx/niiuhwpaxk/01%20Play%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/konami-s-baseball-msx/niiuhwpaxk/01%20Play%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/konami-s-baseball-msx/01%2520Play%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 73400,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 2,
+      "title": "Switch",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/konami-s-baseball-msx/gkeppwgqjp/02%20Switch.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/konami-s-baseball-msx/gkeppwgqjp/02%20Switch.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/konami-s-baseball-msx/02%2520Switch.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 146800,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 3,
+      "title": "Home Run",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/konami-s-baseball-msx/dskoqrzcea/03%20Home%20Run.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/konami-s-baseball-msx/dskoqrzcea/03%20Home%20Run.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/konami-s-baseball-msx/03%2520Home%2520Run.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1048576,
+      "filesize_mp3_bytes": 545259,
+      "track_number": 4,
+      "title": "All Home",
+      "runtime": 29,
+      "source_mp3": "https://vgmsite.com/soundtracks/konami-s-baseball-msx/xgxwaegtro/04%20All%20Home.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/konami-s-baseball-msx/xgxwaegtro/04%20All%20Home.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/konami-s-baseball-msx/04%2520All%2520Home.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 188743,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 5,
+      "title": "Game Set",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/konami-s-baseball-msx/cvqyeeyxrh/05%20Game%20Set.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/konami-s-baseball-msx/cvqyeeyxrh/05%20Game%20Set.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/konami-s-baseball-msx/05%2520Game%2520Set.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 45,
+    "filesize_mp3_bytes": 859830,
+    "filesize_flac_bytes": 1730148,
+    "tracks": 5
+  }
+}

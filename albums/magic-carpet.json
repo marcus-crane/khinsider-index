@@ -1,0 +1,114 @@
+{
+  "title": "Magic Carpet",
+  "titles_alternative": [
+    "\u30de\u30b8\u30c3\u30af\u30ab\u30fc\u30da\u30c3\u30c8"
+  ],
+  "crawled_at": "2023-09-23T01:51:54.057652+00:00",
+  "slug": "magic-carpet",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/magic-carpet",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/magic-carpet/Magic%20Carpet.jpg"
+  ],
+  "year": 1996,
+  "date_added": "2018-12-09T00:00:00+00:00",
+  "developers": {
+    "Krisalis": "https://downloads.khinsider.com/game-soundtracks/developer/krisalis"
+  },
+  "publishers": {
+    "EA": "https://downloads.khinsider.com/game-soundtracks/publisher/ea"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5599395,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 280,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-carpet/hxhovhmg/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-carpet/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5599395,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 280,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-carpet/fheazdxy/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-carpet/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6658457,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 333,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-carpet/xyjhfqud/03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-carpet/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6438256,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 322,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-carpet/afoyrzop/04.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-carpet/04.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4540334,
+      "track_number": 5,
+      "title": "Track 5",
+      "runtime": 227,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-carpet/qghyuxad/05.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-carpet/05.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4540334,
+      "track_number": 6,
+      "title": "Track 6",
+      "runtime": 227,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-carpet/rcgnmnki/06.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-carpet/06.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5326766,
+      "track_number": 7,
+      "title": "Track 7",
+      "runtime": 266,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-carpet/hrowtnts/07.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-carpet/07.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5326766,
+      "track_number": 8,
+      "title": "Track 8",
+      "runtime": 266,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-carpet/oqkonsba/08.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-carpet/08.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2201,
+    "filesize_mp3_bytes": 44029703,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

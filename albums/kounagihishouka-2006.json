@@ -1,0 +1,55 @@
+{
+  "title": "Kounagihishouka",
+  "titles_alternative": [
+    "\u5deb\u79d8\u6284\u6b4c"
+  ],
+  "crawled_at": "2023-09-22T21:58:56.932070+00:00",
+  "slug": "kounagihishouka-2006",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/kounagihishouka-2006",
+  "platforms": {
+    "PS2": "https://downloads.khinsider.com/game-soundtracks/playstation-2"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/kounagihishouka-2006/Kounagihishouka.jpg"
+  ],
+  "year": 2006,
+  "catalog_number": "PCPX-96205",
+  "date_added": "2022-09-15T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Sony Computer Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/sony-computer-entertainment"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 27546091,
+      "filesize_mp3_bytes": 8808038,
+      "track_number": 1,
+      "title": "Konagihishoka",
+      "runtime": 304,
+      "source_mp3": "https://vgmsite.com/soundtracks/kounagihishouka-2006/fkuzbvqigc/01%20Konagihishoka.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kounagihishouka-2006/fkuzbvqigc/01%20Konagihishoka.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kounagihishouka-2006/01%2520Konagihishoka.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10328473,
+      "filesize_mp3_bytes": 2946498,
+      "track_number": 2,
+      "title": "Happy Birthday",
+      "runtime": 89,
+      "source_mp3": "https://vgmsite.com/soundtracks/kounagihishouka-2006/snycoxuwqt/02%20Happy%20Birthday.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kounagihishouka-2006/snycoxuwqt/02%20Happy%20Birthday.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kounagihishouka-2006/02%2520Happy%2520Birthday.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 393,
+    "filesize_mp3_bytes": 11754536,
+    "filesize_flac_bytes": 37874564,
+    "tracks": 2
+  }
+}

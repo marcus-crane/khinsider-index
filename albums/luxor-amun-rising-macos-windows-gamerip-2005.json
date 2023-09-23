@@ -1,0 +1,63 @@
+{
+  "title": "Luxor: Amun Rising",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T01:30:09.905463+00:00",
+  "slug": "luxor-amun-rising-macos-windows-gamerip-2005",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/luxor-amun-rising-macos-windows-gamerip-2005",
+  "platforms": {
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/luxor-amun-rising-macos-windows-gamerip-2005/Luxor%20Amun%20Rising%20Picture.jpg"
+  ],
+  "year": 2005,
+  "date_added": "2023-06-19T00:00:00+00:00",
+  "developers": {
+    "MumboJumbo": "https://downloads.khinsider.com/game-soundtracks/developer/mumbojumbo"
+  },
+  "publishers": {
+    "MumboJumbo": "https://downloads.khinsider.com/game-soundtracks/publisher/mumbojumbo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 283115,
+      "track_number": 1,
+      "title": "Danger",
+      "runtime": 30,
+      "source_mp3": "https://vgmsite.com/soundtracks/luxor-amun-rising-macos-windows-gamerip-2005/pzgfcrdifx/01.%20Danger.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/luxor-amun-rising-macos-windows-gamerip-2005/01.%2520Danger.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1719664,
+      "track_number": 2,
+      "title": "Level",
+      "runtime": 179,
+      "source_mp3": "https://vgmsite.com/soundtracks/luxor-amun-rising-macos-windows-gamerip-2005/maemnecode/02.%20Level.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/luxor-amun-rising-macos-windows-gamerip-2005/02.%2520Level.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 576716,
+      "track_number": 3,
+      "title": "Main Menu",
+      "runtime": 61,
+      "source_mp3": "https://vgmsite.com/soundtracks/luxor-amun-rising-macos-windows-gamerip-2005/nroafyzele/03.%20Main%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/luxor-amun-rising-macos-windows-gamerip-2005/03.%2520Main%2520Menu.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 270,
+    "filesize_mp3_bytes": 2579495,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

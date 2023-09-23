@@ -1,0 +1,54 @@
+{
+  "title": "Mappy",
+  "titles_alternative": [
+    "\u30de\u30c3\u30d4\u30fc"
+  ],
+  "crawled_at": "2023-09-23T02:33:08.906852+00:00",
+  "slug": "mappy-ios",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mappy-ios",
+  "platforms": {
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mappy-ios/IMG_0038.png"
+  ],
+  "year": 2011,
+  "date_added": "2022-01-22T00:00:00+00:00",
+  "developers": {
+    "Bandai Namco Entertainment": "https://downloads.khinsider.com/game-soundtracks/developer/bandai-namco-entertainment"
+  },
+  "publishers": {
+    "Bandai Namco Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/bandai-namco-entertainment"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2086666,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 52,
+      "source_mp3": "https://vgmsite.com/soundtracks/mappy-ios/zjfdvijbnr/01%20-%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mappy-ios/01%2520-%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1929379,
+      "track_number": 2,
+      "title": "Main Menu",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/mappy-ios/flqkeagpas/02%20-%20Main%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mappy-ios/02%2520-%2520Main%2520Menu.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 100,
+    "filesize_mp3_bytes": 4016045,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

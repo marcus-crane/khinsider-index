@@ -1,0 +1,72 @@
+{
+  "title": "LeapPad2 Explorer",
+  "titles_alternative": [
+    "LeapPad2"
+  ],
+  "crawled_at": "2023-09-22T22:48:25.037609+00:00",
+  "slug": "leappad2-explorer-2011",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/leappad2-explorer-2011",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/leappad2-explorer-2011/cover.png"
+  ],
+  "year": 2011,
+  "date_added": "2023-08-23T00:00:00+00:00",
+  "developers": {
+    "LeapFrog": "https://downloads.khinsider.com/game-soundtracks/developer/leapfrog"
+  },
+  "publishers": {
+    "LeapFrog Enterprises": "https://downloads.khinsider.com/game-soundtracks/publisher/leapfrog-enterprises"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1971322,
+      "track_number": 1,
+      "title": "Art Studio",
+      "runtime": 277,
+      "source_mp3": "https://vgmsite.com/soundtracks/leappad2-explorer-2011/yuvynuocsh/01.%20Art%20Studio.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/leappad2-explorer-2011/01.%2520Art%2520Studio.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3869245,
+      "track_number": 2,
+      "title": "Home",
+      "runtime": 254,
+      "source_mp3": "https://vgmsite.com/soundtracks/leappad2-explorer-2011/ioqfwectdb/02.%20Home.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/leappad2-explorer-2011/02.%2520Home.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4414504,
+      "track_number": 3,
+      "title": "Pet Pad",
+      "runtime": 286,
+      "source_mp3": "https://vgmsite.com/soundtracks/leappad2-explorer-2011/rsjdqumdpq/03.%20Pet%20Pad.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/leappad2-explorer-2011/03.%2520Pet%2520Pad.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6543114,
+      "track_number": 4,
+      "title": "Photo Lab",
+      "runtime": 262,
+      "source_mp3": "https://vgmsite.com/soundtracks/leappad2-explorer-2011/kwbpobetmb/04.%20Photo%20Lab.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/leappad2-explorer-2011/04.%2520Photo%2520Lab.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1079,
+    "filesize_mp3_bytes": 16798185,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Lucy in the Sky with Dynamites",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T01:14:41.051355+00:00",
+  "slug": "lucy-in-the-sky-with-dynamites",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/lucy-in-the-sky-with-dynamites",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/lucy-in-the-sky-with-dynamites/cover.jpg"
+  ],
+  "year": 1998,
+  "catalog_number": "LSD 0001",
+  "date_added": "2022-03-05T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Asmik Ace": "https://downloads.khinsider.com/game-soundtracks/publisher/asmik-ace"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 386966487,
+      "filesize_mp3_bytes": 118866575,
+      "track_number": 1,
+      "title": "Lucy in the Sky with Dynamites",
+      "runtime": 3600,
+      "source_mp3": "https://vgmsite.com/soundtracks/lucy-in-the-sky-with-dynamites/ulsutulyaw/01.%20Lucy%20in%20the%20Sky%20with%20Dynamites.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lucy-in-the-sky-with-dynamites/ulsutulyaw/01.%20Lucy%20in%20the%20Sky%20with%20Dynamites.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lucy-in-the-sky-with-dynamites/01.%2520Lucy%2520in%2520the%2520Sky%2520with%2520Dynamites.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 3600,
+    "filesize_mp3_bytes": 118866575,
+    "filesize_flac_bytes": 386966487,
+    "tracks": 1
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "title": "magic \"a\" ride Vocal CD",
+  "titles_alternative": [
+    "\u30de\u30b8\u30ab\u30e9\u30a4\u30c9 Vocal CD",
+    "Magicaride Vocal CD"
+  ],
+  "crawled_at": "2023-09-23T01:51:40.031100+00:00",
+  "slug": "magic-a-ride-vocal-cd",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/magic-a-ride-vocal-cd",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/magic-a-ride-vocal-cd/coverart.jpg"
+  ],
+  "year": 2008,
+  "catalog_number": "OP0862A",
+  "date_added": "2020-04-16T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Studio Ryokucha": "https://downloads.khinsider.com/game-soundtracks/publisher/studio-ryokucha"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 37926993,
+      "filesize_mp3_bytes": 8954839,
+      "track_number": 1,
+      "title": "Magic A Ride!",
+      "runtime": 270,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-a-ride-vocal-cd/ckhswklmta/01%20-%20Magic%20A%20Ride%21.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/magic-a-ride-vocal-cd/ckhswklmta/01%20-%20Magic%20A%20Ride%21.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-a-ride-vocal-cd/01%2520-%2520Magic%2520A%2520Ride%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 37266391,
+      "filesize_mp3_bytes": 9070182,
+      "track_number": 2,
+      "title": "Proud Hero",
+      "runtime": 276,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-a-ride-vocal-cd/glvngyqnby/02%20-%20Proud%20Hero.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/magic-a-ride-vocal-cd/glvngyqnby/02%20-%20Proud%20Hero.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-a-ride-vocal-cd/02%2520-%2520Proud%2520Hero.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 546,
+    "filesize_mp3_bytes": 18025021,
+    "filesize_flac_bytes": 75193384,
+    "tracks": 2
+  }
+}

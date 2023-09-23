@@ -1,0 +1,105 @@
+{
+  "title": "L.E.D. Storm",
+  "titles_alternative": [
+    "Mad Gear",
+    "\u30de\u30c3\u30c9\u30ae\u30a2"
+  ],
+  "crawled_at": "2023-09-22T22:19:35.465403+00:00",
+  "slug": "l.e.d.-storm-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/l.e.d.-storm-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/l.e.d.-storm-amiga/L.E.D.%20Storm%20%28Amiga%29.jpg"
+  ],
+  "year": 1988,
+  "date_added": "2016-05-20T00:00:00+00:00",
+  "developers": {
+    "Capcom": "https://downloads.khinsider.com/game-soundtracks/developer/capcom"
+  },
+  "publishers": {
+    "U.S. Gold": "https://downloads.khinsider.com/game-soundtracks/publisher/u.s.-gold"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3701473,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 138,
+      "source_mp3": "https://vgmsite.com/soundtracks/l.e.d.-storm-amiga/kxbttkyu/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/l.e.d.-storm-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 943718,
+      "track_number": 2,
+      "title": "Checkpoint Music",
+      "runtime": 33,
+      "source_mp3": "https://vgmsite.com/soundtracks/l.e.d.-storm-amiga/jpswgfuu/02_Checkpoint%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/l.e.d.-storm-amiga/02_Checkpoint%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6186598,
+      "track_number": 3,
+      "title": "BGM Stages 1,4,7",
+      "runtime": 207,
+      "source_mp3": "https://vgmsite.com/soundtracks/l.e.d.-storm-amiga/sxgvujsh/03_BGM%20Stages%201%2C4%2C7.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/l.e.d.-storm-amiga/03_BGM%2520Stages%25201%252C4%252C7.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4225761,
+      "track_number": 4,
+      "title": "BGM Stages 2,5,6",
+      "runtime": 152,
+      "source_mp3": "https://vgmsite.com/soundtracks/l.e.d.-storm-amiga/fcuncwqu/04_BGM%20Stages%202%2C5%2C6.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/l.e.d.-storm-amiga/04_BGM%2520Stages%25202%252C5%252C6.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4246732,
+      "track_number": 5,
+      "title": "BGM Stages 3,6,9",
+      "runtime": 137,
+      "source_mp3": "https://vgmsite.com/soundtracks/l.e.d.-storm-amiga/innmxgtp/05_BGM%20Stages%203%2C6%2C9.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/l.e.d.-storm-amiga/05_BGM%2520Stages%25203%252C6%252C9.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6637486,
+      "track_number": 6,
+      "title": "Name Entry",
+      "runtime": 218,
+      "source_mp3": "https://vgmsite.com/soundtracks/l.e.d.-storm-amiga/fhvoqqtr/06_Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/l.e.d.-storm-amiga/06_Name%2520Entry.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 7,
+      "title": "Game Over",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/l.e.d.-storm-amiga/objiwkwg/07_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/l.e.d.-storm-amiga/07_Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 888,
+    "filesize_mp3_bytes": 26036139,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

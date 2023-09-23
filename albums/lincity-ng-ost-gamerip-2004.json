@@ -1,0 +1,69 @@
+{
+  "title": "LinCity-NG OST",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T00:22:14.327076+00:00",
+  "slug": "lincity-ng-ost-gamerip-2004",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/lincity-ng-ost-gamerip-2004",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga",
+    "Linux": "https://downloads.khinsider.com/game-soundtracks/linux",
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "MS-DOS": "https://downloads.khinsider.com/game-soundtracks/ms-dos",
+    "PC-88": "https://downloads.khinsider.com/game-soundtracks/pc-8801",
+    "PC-98": "https://downloads.khinsider.com/game-soundtracks/pc-9801",
+    "PC-9821": "https://downloads.khinsider.com/game-soundtracks/pc-9821",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/lincity-ng-ost-gamerip-2004/LinCity-NG%20OST%20Cover.png"
+  ],
+  "year": 2004,
+  "date_added": "2023-08-18T00:00:00+00:00",
+  "developers": {
+    "I. J. Peters": "https://downloads.khinsider.com/game-soundtracks/developer/i.-j.-peters"
+  },
+  "publishers": {
+    "I. J. Peters": "https://downloads.khinsider.com/game-soundtracks/publisher/i.-j.-peters"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6448742,
+      "track_number": 1,
+      "title": "Pronobozo - Lincity",
+      "runtime": 211,
+      "source_mp3": "https://vgmsite.com/soundtracks/lincity-ng-ost-gamerip-2004/dxdaleipig/01.%20Pronobozo%20-%20Lincity.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lincity-ng-ost-gamerip-2004/01.%2520Pronobozo%2520-%2520Lincity.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6134169,
+      "track_number": 2,
+      "title": "Robert Van Herk - City Blues",
+      "runtime": 224,
+      "source_mp3": "https://vgmsite.com/soundtracks/lincity-ng-ost-gamerip-2004/skscrosflx/02.%20Robert%20Van%20Herk%20-%20City%20Blues.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lincity-ng-ost-gamerip-2004/02.%2520Robert%2520Van%2520Herk%2520-%2520City%2520Blues.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3229614,
+      "track_number": 3,
+      "title": "Robert Van Herk - Architectural Contemplations",
+      "runtime": 129,
+      "source_mp3": "https://vgmsite.com/soundtracks/lincity-ng-ost-gamerip-2004/fomeewwzpy/03.%20Robert%20Van%20Herk%20-%20Architectural%20Contemplations.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lincity-ng-ost-gamerip-2004/03.%2520Robert%2520Van%2520Herk%2520-%2520Architectural%2520Contemplations.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 564,
+    "filesize_mp3_bytes": 15812525,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

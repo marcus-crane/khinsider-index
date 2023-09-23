@@ -1,0 +1,92 @@
+{
+  "title": "Kretacz",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T22:01:49.818358+00:00",
+  "slug": "kretacz-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/kretacz-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/kretacz-amiga/K1.jpg"
+  ],
+  "year": 1995,
+  "date_added": "2016-06-22T00:00:00+00:00",
+  "developers": {
+    "Mirage Software": "https://downloads.khinsider.com/game-soundtracks/developer/mirage-software"
+  },
+  "publishers": {
+    "Mirage Software": "https://downloads.khinsider.com/game-soundtracks/publisher/mirage-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7707033,
+      "track_number": 1,
+      "title": "Kretacz Theme",
+      "runtime": 266,
+      "source_mp3": "https://vgmsite.com/soundtracks/kretacz-amiga/knsrklaa/01_Kretacz%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kretacz-amiga/01_Kretacz%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6847201,
+      "track_number": 2,
+      "title": "Quadroscope",
+      "runtime": 229,
+      "source_mp3": "https://vgmsite.com/soundtracks/kretacz-amiga/xupvgavj/02_Quadroscope.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kretacz-amiga/02_Quadroscope.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5746196,
+      "track_number": 3,
+      "title": "The Waves of Fire",
+      "runtime": 198,
+      "source_mp3": "https://vgmsite.com/soundtracks/kretacz-amiga/apfdiqnl/03_The%20Waves%20of%20Fire.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kretacz-amiga/03_The%2520Waves%2520of%2520Fire.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4278190,
+      "track_number": 4,
+      "title": "Destanation Phobos",
+      "runtime": 155,
+      "source_mp3": "https://vgmsite.com/soundtracks/kretacz-amiga/hdpzmncb/04_Destanation%20Phobos.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kretacz-amiga/04_Destanation%2520Phobos.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6878658,
+      "track_number": 5,
+      "title": "Visual Distance",
+      "runtime": 234,
+      "source_mp3": "https://vgmsite.com/soundtracks/kretacz-amiga/iorokwve/05_Visual%20Distance.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kretacz-amiga/05_Visual%2520Distance.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6018826,
+      "track_number": 6,
+      "title": "Innocent Dream",
+      "runtime": 215,
+      "source_mp3": "https://vgmsite.com/soundtracks/kretacz-amiga/aohnuhml/06_Innocent%20Dream.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kretacz-amiga/06_Innocent%2520Dream.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1297,
+    "filesize_mp3_bytes": 37476104,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "title": "Margot's Word Brain",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T02:36:20.467301+00:00",
+  "slug": "margot-s-word-brain-2008-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/margot-s-word-brain-2008-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/margot-s-word-brain-2008-nds-gamerip/Margot%27s%20Word%20Brain.jpg"
+  ],
+  "year": 2008,
+  "date_added": "2020-06-17T00:00:00+00:00",
+  "developers": {
+    "Slam": "https://downloads.khinsider.com/game-soundtracks/developer/slam"
+  },
+  "publishers": {
+    "Zoo": "https://downloads.khinsider.com/game-soundtracks/publisher/zoo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 12645826,
+      "filesize_mp3_bytes": 3198156,
+      "track_number": 1,
+      "title": "Title Tune",
+      "runtime": 119,
+      "source_mp3": "https://vgmsite.com/soundtracks/margot-s-word-brain-2008-nds-gamerip/rvxwmavoeh/01%20-%20Title%20Tune.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/margot-s-word-brain-2008-nds-gamerip/rvxwmavoeh/01%20-%20Title%20Tune.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/margot-s-word-brain-2008-nds-gamerip/01%2520-%2520Title%2520Tune.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 587202,
+      "filesize_mp3_bytes": 167772,
+      "track_number": 2,
+      "title": "Game Over",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/margot-s-word-brain-2008-nds-gamerip/wyoqwhqzzm/02%20-%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/margot-s-word-brain-2008-nds-gamerip/wyoqwhqzzm/02%20-%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/margot-s-word-brain-2008-nds-gamerip/02%2520-%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 524288,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 3,
+      "title": "Level Intro Stabs",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/margot-s-word-brain-2008-nds-gamerip/uernnqqaul/03%20-%20Level%20Intro%20Stabs.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/margot-s-word-brain-2008-nds-gamerip/uernnqqaul/03%20-%20Level%20Intro%20Stabs.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/margot-s-word-brain-2008-nds-gamerip/03%2520-%2520Level%2520Intro%2520Stabs.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 131,
+    "filesize_mp3_bytes": 3512728,
+    "filesize_flac_bytes": 13757316,
+    "tracks": 3
+  }
+}

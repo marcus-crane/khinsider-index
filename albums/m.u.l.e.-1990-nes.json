@@ -1,0 +1,55 @@
+{
+  "title": "M.U.L.E.",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T01:33:12.470605+00:00",
+  "slug": "m.u.l.e.-1990-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/m.u.l.e.-1990-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/m.u.l.e.-1990-nes/M.U.L.E.%20%28NES%29%20%28gamerip%29%20%281990%29.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2022-05-16T00:00:00+00:00",
+  "developers": {
+    "Eastridge Technology": "https://downloads.khinsider.com/game-soundtracks/developer/eastridge-technology",
+    "Ozark Softscape": "https://downloads.khinsider.com/game-soundtracks/developer/ozark-softscape"
+  },
+  "publishers": {
+    "Mindscape": "https://downloads.khinsider.com/game-soundtracks/publisher/mindscape"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3554672,
+      "filesize_mp3_bytes": 1321205,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 69,
+      "source_mp3": "https://vgmsite.com/soundtracks/m.u.l.e.-1990-nes/mskxbuwthu/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/m.u.l.e.-1990-nes/mskxbuwthu/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/m.u.l.e.-1990-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 157286,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/m.u.l.e.-1990-nes/llgfigwaua/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/m.u.l.e.-1990-nes/llgfigwaua/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/m.u.l.e.-1990-nes/02.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 73,
+    "filesize_mp3_bytes": 1384119,
+    "filesize_flac_bytes": 3711958,
+    "tracks": 2
+  }
+}

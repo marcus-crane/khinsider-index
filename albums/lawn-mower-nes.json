@@ -1,0 +1,87 @@
+{
+  "title": "Lawn Mower",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T22:41:30.559228+00:00",
+  "slug": "lawn-mower-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/lawn-mower-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/lawn-mower-nes/Lawn%20Mower.png"
+  ],
+  "year": 2011,
+  "date_added": "2022-02-11T00:00:00+00:00",
+  "developers": {
+    "Shiru": "https://downloads.khinsider.com/game-soundtracks/developer/shiru"
+  },
+  "publishers": {
+    "Shiru": "https://downloads.khinsider.com/game-soundtracks/publisher/shiru"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4267704,
+      "filesize_mp3_bytes": 2076180,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 95,
+      "source_mp3": "https://vgmsite.com/soundtracks/lawn-mower-nes/hlttzcrwup/01%20Title.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lawn-mower-nes/hlttzcrwup/01%20Title.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lawn-mower-nes/01%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4466933,
+      "filesize_mp3_bytes": 2894069,
+      "track_number": 2,
+      "title": "Game",
+      "runtime": 117,
+      "source_mp3": "https://vgmsite.com/soundtracks/lawn-mower-nes/idexbrtyzw/02%20Game.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lawn-mower-nes/idexbrtyzw/02%20Game.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lawn-mower-nes/02%2520Game.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 115343,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 3,
+      "title": "Level Clear",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/lawn-mower-nes/lqkwwimiqd/03%20Level%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lawn-mower-nes/lqkwwimiqd/03%20Level%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lawn-mower-nes/03%2520Level%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 104857,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 4,
+      "title": "Out of Fuel",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/lawn-mower-nes/oqpnshjzlw/04%20Out%20of%20Fuel.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lawn-mower-nes/oqpnshjzlw/04%20Out%20of%20Fuel.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lawn-mower-nes/04%2520Out%2520of%2520Fuel.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4487905,
+      "filesize_mp3_bytes": 2222981,
+      "track_number": 5,
+      "title": "Well Done",
+      "runtime": 95,
+      "source_mp3": "https://vgmsite.com/soundtracks/lawn-mower-nes/muocfqkykq/05%20Well%20Done.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lawn-mower-nes/muocfqkykq/05%20Well%20Done.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lawn-mower-nes/05%2520Well%2520Done.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 313,
+    "filesize_mp3_bytes": 7319058,
+    "filesize_flac_bytes": 13442742,
+    "tracks": 5
+  }
+}

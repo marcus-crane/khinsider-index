@@ -1,0 +1,68 @@
+{
+  "title": "Konami's Soccer",
+  "titles_alternative": [
+    "Konami's Football",
+    "\u30b3\u30ca\u30df\u306e\u30b5\u30c3\u30ab\u30fc"
+  ],
+  "crawled_at": "2023-09-22T21:47:08.236955+00:00",
+  "slug": "konami-s-soccer-msx",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/konami-s-soccer-msx",
+  "platforms": {
+    "MSX": "https://downloads.khinsider.com/game-soundtracks/msx"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/konami-s-soccer-msx/Konami%27s%20Soccer.png"
+  ],
+  "year": 1985,
+  "date_added": "2022-05-12T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami"
+  },
+  "publishers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 828375,
+      "filesize_mp3_bytes": 429916,
+      "track_number": 1,
+      "title": "Team Selection",
+      "runtime": 23,
+      "source_mp3": "https://vgmsite.com/soundtracks/konami-s-soccer-msx/juhbkymsit/01%20Team%20Selection.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/konami-s-soccer-msx/juhbkymsit/01%20Team%20Selection.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/konami-s-soccer-msx/01%2520Team%2520Selection.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 314572,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 2,
+      "title": "Into the Play Field",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/konami-s-soccer-msx/hjwuudlgwy/02%20Into%20the%20Play%20Field.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/konami-s-soccer-msx/hjwuudlgwy/02%20Into%20the%20Play%20Field.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/konami-s-soccer-msx/02%2520Into%2520the%2520Play%2520Field.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 387973,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 3,
+      "title": "Game Set",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/konami-s-soccer-msx/tpjmgkupnz/03%20Game%20Set.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/konami-s-soccer-msx/tpjmgkupnz/03%20Game%20Set.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/konami-s-soccer-msx/03%2520Game%2520Set.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 37,
+    "filesize_mp3_bytes": 681573,
+    "filesize_flac_bytes": 1530920,
+    "tracks": 3
+  }
+}

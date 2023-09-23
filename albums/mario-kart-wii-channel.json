@@ -1,0 +1,88 @@
+{
+  "title": "Mario Kart Wii Channel",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T02:49:07.869223+00:00",
+  "slug": "mario-kart-wii-channel",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mario-kart-wii-channel",
+  "platforms": {
+    "Wii": "https://downloads.khinsider.com/game-soundtracks/nintendo-wii"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mario-kart-wii-channel/Mario%20Kart%20Wii%20Channel.png"
+  ],
+  "year": 2008,
+  "date_added": "2018-07-13T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 178257,
+      "track_number": 1,
+      "title": "Channel Intro",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/mario-kart-wii-channel/oogpjxhy/001%20-%20Channel%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mario-kart-wii-channel/001%2520-%2520Channel%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1614807,
+      "track_number": 2,
+      "title": "Mario Kart Channel Menu",
+      "runtime": 80,
+      "source_mp3": "https://vgmsite.com/soundtracks/mario-kart-wii-channel/dnlddzbg/002%20-%20Mario%20Kart%20Channel%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mario-kart-wii-channel/002%2520-%2520Mario%2520Kart%2520Channel%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1740636,
+      "track_number": 3,
+      "title": "WIFI",
+      "runtime": 88,
+      "source_mp3": "https://vgmsite.com/soundtracks/mario-kart-wii-channel/ikorymea/003%20-%20WIFI.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mario-kart-wii-channel/003%2520-%2520WIFI.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1960837,
+      "track_number": 4,
+      "title": "Rankings",
+      "runtime": 101,
+      "source_mp3": "https://vgmsite.com/soundtracks/mario-kart-wii-channel/urfegndk/004%20-%20Rankings.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mario-kart-wii-channel/004%2520-%2520Rankings.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 5,
+      "title": "Message",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/mario-kart-wii-channel/kerobiuw/005%20-%20Message.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mario-kart-wii-channel/005%2520-%2520Message.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1300234,
+      "track_number": 6,
+      "title": "Settings",
+      "runtime": 68,
+      "source_mp3": "https://vgmsite.com/soundtracks/mario-kart-wii-channel/zrgbjjpj/006%20-%20Settings.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mario-kart-wii-channel/006%2520-%2520Settings.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 347,
+    "filesize_mp3_bytes": 6857685,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

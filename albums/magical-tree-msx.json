@@ -1,0 +1,89 @@
+{
+  "title": "Magical Tree",
+  "titles_alternative": [
+    "\u30de\u30b8\u30ab\u30eb\u30c4\u30ea\u30fc"
+  ],
+  "crawled_at": "2023-09-23T02:00:39.232740+00:00",
+  "slug": "magical-tree-msx",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/magical-tree-msx",
+  "platforms": {
+    "MSX": "https://downloads.khinsider.com/game-soundtracks/msx"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/magical-tree-msx/M1.jpg"
+  ],
+  "year": 1984,
+  "date_added": "2022-05-18T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami"
+  },
+  "publishers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 230686,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 1,
+      "title": "Game Start",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/magical-tree-msx/emzisfgtrh/01%20Game%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/magical-tree-msx/emzisfgtrh/01%20Game%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magical-tree-msx/01%2520Game%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1352663,
+      "filesize_mp3_bytes": 660602,
+      "track_number": 2,
+      "title": "Main BGM",
+      "runtime": 34,
+      "source_mp3": "https://vgmsite.com/soundtracks/magical-tree-msx/zztzeorjac/02%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/magical-tree-msx/zztzeorjac/02%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magical-tree-msx/02%2520Main%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 272629,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 3,
+      "title": "Stage Clear",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/magical-tree-msx/yyltmkxvxk/03%20Stage%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/magical-tree-msx/yyltmkxvxk/03%20Stage%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magical-tree-msx/03%2520Stage%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 377487,
+      "filesize_mp3_bytes": 167772,
+      "track_number": 4,
+      "title": "Ending",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/magical-tree-msx/hpmjotetme/04%20Ending.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/magical-tree-msx/hpmjotetme/04%20Ending.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magical-tree-msx/04%2520Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 115343,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 5,
+      "title": "Game Over",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/magical-tree-msx/fuhsfwcmnd/05%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/magical-tree-msx/fuhsfwcmnd/05%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magical-tree-msx/05%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 58,
+    "filesize_mp3_bytes": 1090516,
+    "filesize_flac_bytes": 2348808,
+    "tracks": 5
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "title": "Lost Patrol",
+  "titles_alternative": [
+    "The Lost Patrol"
+  ],
+  "crawled_at": "2023-09-23T00:59:39.788545+00:00",
+  "slug": "lost-patrol-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/lost-patrol-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/lost-patrol-amiga/L1.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2016-06-11T00:00:00+00:00",
+  "developers": {
+    "Shadow Development": "https://downloads.khinsider.com/game-soundtracks/developer/shadow-development"
+  },
+  "publishers": {
+    "Ocean Software": "https://downloads.khinsider.com/game-soundtracks/publisher/ocean-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5442109,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 184,
+      "source_mp3": "https://vgmsite.com/soundtracks/lost-patrol-amiga/ttjjpgtm/01_Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lost-patrol-amiga/01_Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 534773,
+      "track_number": 2,
+      "title": "Game Over",
+      "runtime": 18,
+      "source_mp3": "https://vgmsite.com/soundtracks/lost-patrol-amiga/tqgmqsqb/02_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lost-patrol-amiga/02_Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 188743,
+      "track_number": 3,
+      "title": "Unknown",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/lost-patrol-amiga/wodqgsqf/03_Unknown.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lost-patrol-amiga/03_Unknown.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 209,
+    "filesize_mp3_bytes": 6165625,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

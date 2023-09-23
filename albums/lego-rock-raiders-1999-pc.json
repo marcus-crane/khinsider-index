@@ -1,0 +1,62 @@
+{
+  "title": "LEGO Rock Raiders",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T23:51:38.294755+00:00",
+  "slug": "lego-rock-raiders-1999-pc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/lego-rock-raiders-1999-pc",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/lego-rock-raiders-1999-pc/LEGO%20Rock%20Raiders%20%281999%29%20%28PC%29.jpg"
+  ],
+  "year": 1999,
+  "date_added": "2021-12-15T00:00:00+00:00",
+  "developers": {
+    "Data Design Interactive": "https://downloads.khinsider.com/game-soundtracks/developer/data-design-interactive"
+  },
+  "publishers": {
+    "Lego Media": "https://downloads.khinsider.com/game-soundtracks/publisher/lego-media"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2967470,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 185,
+      "source_mp3": "https://vgmsite.com/soundtracks/lego-rock-raiders-1999-pc/pnfndmfjqp/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lego-rock-raiders-1999-pc/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3418357,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 214,
+      "source_mp3": "https://vgmsite.com/soundtracks/lego-rock-raiders-1999-pc/acoiewfdyh/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lego-rock-raiders-1999-pc/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2956984,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 185,
+      "source_mp3": "https://vgmsite.com/soundtracks/lego-rock-raiders-1999-pc/yrdmenthzb/03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lego-rock-raiders-1999-pc/03.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 584,
+    "filesize_mp3_bytes": 9342811,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

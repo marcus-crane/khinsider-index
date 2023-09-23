@@ -1,0 +1,94 @@
+{
+  "title": "Land Sea Air Squad",
+  "titles_alternative": [
+    "\u9678\u6d77\u7a7a \u6700\u524d\u7dda"
+  ],
+  "crawled_at": "2023-09-22T22:28:43.512943+00:00",
+  "slug": "land-sea-air-squad-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/land-sea-air-squad-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/land-sea-air-squad-arcade/L1.png"
+  ],
+  "year": 1986,
+  "date_added": "2016-08-24T00:00:00+00:00",
+  "developers": {
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/developer/taito"
+  },
+  "publishers": {
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/publisher/taito"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 1,
+      "title": "Start Up Sound",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/land-sea-air-squad-arcade/ahrgvujg/01_Start%20Up%20Sound.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/land-sea-air-squad-arcade/01_Start%2520Up%2520Sound.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 2,
+      "title": "Geat Ready!",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/land-sea-air-squad-arcade/glgwukts/02_Geat%20Ready%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/land-sea-air-squad-arcade/02_Geat%2520Ready%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3670016,
+      "track_number": 3,
+      "title": "Mission BGM",
+      "runtime": 118,
+      "source_mp3": "https://vgmsite.com/soundtracks/land-sea-air-squad-arcade/xvdyispz/03_Mission%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/land-sea-air-squad-arcade/03_Mission%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1226833,
+      "track_number": 4,
+      "title": "Name Entry",
+      "runtime": 41,
+      "source_mp3": "https://vgmsite.com/soundtracks/land-sea-air-squad-arcade/lutjmrnr/04_Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/land-sea-air-squad-arcade/04_Name%2520Entry.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 5,
+      "title": "Game Over",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/land-sea-air-squad-arcade/bvrrclld/05_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/land-sea-air-squad-arcade/05_Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 492830,
+      "track_number": 6,
+      "title": "Unknown",
+      "runtime": 17,
+      "source_mp3": "https://vgmsite.com/soundtracks/land-sea-air-squad-arcade/mibdmxkn/06_Unknown.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/land-sea-air-squad-arcade/06_Unknown.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 185,
+    "filesize_mp3_bytes": 5599392,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

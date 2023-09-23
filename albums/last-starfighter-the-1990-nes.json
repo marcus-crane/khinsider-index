@@ -1,0 +1,43 @@
+{
+  "title": "The Last Starfighter",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T22:40:07.618001+00:00",
+  "slug": "last-starfighter-the-1990-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/last-starfighter-the-1990-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/last-starfighter-the-1990-nes/L1.png"
+  ],
+  "year": 1990,
+  "date_added": "2022-05-12T00:00:00+00:00",
+  "developers": {
+    "Graftgold": "https://downloads.khinsider.com/game-soundtracks/developer/graftgold"
+  },
+  "publishers": {
+    "Mindscape": "https://downloads.khinsider.com/game-soundtracks/publisher/mindscape"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8944353,
+      "filesize_mp3_bytes": 3114270,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/last-starfighter-the-1990-nes/luizgielfg/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/last-starfighter-the-1990-nes/luizgielfg/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/last-starfighter-the-1990-nes/01.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 180,
+    "filesize_mp3_bytes": 3114270,
+    "filesize_flac_bytes": 8944353,
+    "tracks": 1
+  }
+}

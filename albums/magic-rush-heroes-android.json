@@ -1,0 +1,67 @@
+{
+  "title": "Magic Rush Heroes",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T01:53:35.108801+00:00",
+  "slug": "magic-rush-heroes-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/magic-rush-heroes-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/magic-rush-heroes-android/screen-0.jpg"
+  ],
+  "date_added": "2019-03-02T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1541406,
+      "track_number": 1,
+      "title": "City",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-rush-heroes-android/ukgwtkbc/1%20City.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-rush-heroes-android/1%2520City.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 461373,
+      "track_number": 2,
+      "title": "Battle Prepare",
+      "runtime": 29,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-rush-heroes-android/kqugqqvy/2%20Battle%20Prepare.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-rush-heroes-android/2%2520Battle%2520Prepare.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 765460,
+      "track_number": 3,
+      "title": "Battle Bgm",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-rush-heroes-android/vrawfjqk/3%20Battle%20Bgm.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-rush-heroes-android/3%2520Battle%2520Bgm.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1436549,
+      "track_number": 4,
+      "title": "Battle Pvp",
+      "runtime": 90,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-rush-heroes-android/aggrvoyr/4%20Battle%20Pvp.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-rush-heroes-android/4%2520Battle%2520Pvp.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 263,
+    "filesize_mp3_bytes": 4204788,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

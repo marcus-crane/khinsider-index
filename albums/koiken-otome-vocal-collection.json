@@ -1,0 +1,77 @@
+{
+  "title": "Koiken Otome Vocal collection",
+  "titles_alternative": [
+    "\u604b\u5263\u4e59\u5973 Vocal collection"
+  ],
+  "crawled_at": "2023-09-22T21:36:24.170315+00:00",
+  "slug": "koiken-otome-vocal-collection",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/koiken-otome-vocal-collection",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/koiken-otome-vocal-collection/01.jpeg"
+  ],
+  "year": 2012,
+  "catalog_number": "EUF-003S2",
+  "date_added": "2020-04-14T00:00:00+00:00",
+  "developers": {
+    "eufonie": "https://downloads.khinsider.com/game-soundtracks/developer/eufonie"
+  },
+  "publishers": {},
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 39499857,
+      "filesize_mp3_bytes": 9038725,
+      "track_number": 1,
+      "title": "Sword Of Virgin",
+      "runtime": 271,
+      "source_mp3": "https://vgmsite.com/soundtracks/koiken-otome-vocal-collection/nakagwfvwy/01%20-%20Sword%20Of%20Virgin.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/koiken-otome-vocal-collection/nakagwfvwy/01%20-%20Sword%20Of%20Virgin.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/koiken-otome-vocal-collection/01%2520-%2520Sword%2520Of%2520Virgin.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 36249272,
+      "filesize_mp3_bytes": 8996782,
+      "track_number": 2,
+      "title": "Happy Go Round",
+      "runtime": 253,
+      "source_mp3": "https://vgmsite.com/soundtracks/koiken-otome-vocal-collection/tzqicjekcr/02%20-%20Happy%20Go%20Round.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/koiken-otome-vocal-collection/tzqicjekcr/02%20-%20Happy%20Go%20Round.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/koiken-otome-vocal-collection/02%2520-%2520Happy%2520Go%2520Round.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 39248199,
+      "filesize_mp3_bytes": 9049210,
+      "track_number": 3,
+      "title": "Sword Of Virgin -Instrumental-",
+      "runtime": 271,
+      "source_mp3": "https://vgmsite.com/soundtracks/koiken-otome-vocal-collection/cymicjayge/03%20-%20Sword%20Of%20Virgin%20-Instrumental-.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/koiken-otome-vocal-collection/cymicjayge/03%20-%20Sword%20Of%20Virgin%20-Instrumental-.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/koiken-otome-vocal-collection/03%2520-%2520Sword%2520Of%2520Virgin%2520-Instrumental-.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 35389440,
+      "filesize_mp3_bytes": 9028239,
+      "track_number": 4,
+      "title": "Happy Go Round -Instrumental-",
+      "runtime": 253,
+      "source_mp3": "https://vgmsite.com/soundtracks/koiken-otome-vocal-collection/vgxjxjhaoc/04%20-%20Happy%20Go%20Round%20-Instrumental-.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/koiken-otome-vocal-collection/vgxjxjhaoc/04%20-%20Happy%20Go%20Round%20-Instrumental-.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/koiken-otome-vocal-collection/04%2520-%2520Happy%2520Go%2520Round%2520-Instrumental-.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1048,
+    "filesize_mp3_bytes": 36112956,
+    "filesize_flac_bytes": 150386768,
+    "tracks": 4
+  }
+}

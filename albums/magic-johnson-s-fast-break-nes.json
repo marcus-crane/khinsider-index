@@ -1,0 +1,76 @@
+{
+  "title": "Magic Johnson's Fast Break",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T01:52:22.542347+00:00",
+  "slug": "magic-johnson-s-fast-break-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/magic-johnson-s-fast-break-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/magic-johnson-s-fast-break-nes/Magic%20Johnson%27s%20Fast%20Break%20%28NES%29.png"
+  ],
+  "year": 1989,
+  "date_added": "2022-05-30T00:00:00+00:00",
+  "developers": {
+    "Software Creations": "https://downloads.khinsider.com/game-soundtracks/developer/software-creations"
+  },
+  "publishers": {
+    "Arcadia Systems": "https://downloads.khinsider.com/game-soundtracks/publisher/arcadia-systems"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 13002342,
+      "filesize_mp3_bytes": 4550819,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 216,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-johnson-s-fast-break-nes/qutshtuszr/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/magic-johnson-s-fast-break-nes/qutshtuszr/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-johnson-s-fast-break-nes/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 199229,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 2,
+      "title": "Start of Quarter",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-johnson-s-fast-break-nes/hgbxwudqkq/02%20Start%20of%20Quarter.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/magic-johnson-s-fast-break-nes/hgbxwudqkq/02%20Start%20of%20Quarter.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-johnson-s-fast-break-nes/02%2520Start%2520of%2520Quarter.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 367001,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 3,
+      "title": "Game Over",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-johnson-s-fast-break-nes/dhhqljzinc/03%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/magic-johnson-s-fast-break-nes/dhhqljzinc/03%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-johnson-s-fast-break-nes/03%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9028239,
+      "filesize_mp3_bytes": 3082813,
+      "track_number": 4,
+      "title": "High Score",
+      "runtime": 147,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-johnson-s-fast-break-nes/xpqxbdixgt/04%20High%20Score.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/magic-johnson-s-fast-break-nes/xpqxbdixgt/04%20High%20Score.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-johnson-s-fast-break-nes/04%2520High%2520Score.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 374,
+    "filesize_mp3_bytes": 7832861,
+    "filesize_flac_bytes": 22596811,
+    "tracks": 4
+  }
+}

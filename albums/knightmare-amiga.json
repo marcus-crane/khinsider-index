@@ -1,0 +1,43 @@
+{
+  "title": "Knightmare",
+  "titles_alternative": [
+    "Le Chevalier du Labyrinthe"
+  ],
+  "crawled_at": "2023-09-22T21:25:45.389318+00:00",
+  "slug": "knightmare-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/knightmare-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/knightmare-amiga/120047-knightmare-amiga-front-cover.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2020-12-11T00:00:00+00:00",
+  "developers": {
+    "Mindscape International": "https://downloads.khinsider.com/game-soundtracks/developer/mindscape-international"
+  },
+  "publishers": {
+    "Mindscape International": "https://downloads.khinsider.com/game-soundtracks/publisher/mindscape-international"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4718592,
+      "title": "Intro",
+      "runtime": 113,
+      "source_mp3": "https://vgmsite.com/soundtracks/knightmare-amiga/jqgegvakuu/Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/knightmare-amiga/Intro.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 113,
+    "filesize_mp3_bytes": 4718592,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

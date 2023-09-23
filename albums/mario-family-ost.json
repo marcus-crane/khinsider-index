@@ -1,0 +1,34 @@
+{
+  "title": "Mario Family OST",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T02:39:50.755783+00:00",
+  "slug": "mario-family-ost",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mario-family-ost",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mario-family-ost/Mario%20Family.png"
+  ],
+  "date_added": "2021-03-29T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2673868,
+      "title": "Mario Family (SMB1 Overworld Theme)",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/mario-family-ost/xnoenlyddj/Mario%20Family%20%28SMB1%20Overworld%20Theme%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mario-family-ost/Mario%2520Family%2520%2528SMB1%2520Overworld%2520Theme%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 180,
+    "filesize_mp3_bytes": 2673868,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

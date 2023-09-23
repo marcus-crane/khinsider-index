@@ -1,0 +1,65 @@
+{
+  "title": "Madden NFL 2002",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T01:43:29.337074+00:00",
+  "slug": "madden-nfl-2002-2001-gba",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/madden-nfl-2002-2001-gba",
+  "platforms": {
+    "GBA": "https://downloads.khinsider.com/game-soundtracks/gameboy-advance"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/madden-nfl-2002-2001-gba/M2.jpg"
+  ],
+  "year": 2001,
+  "date_added": "2021-07-13T00:00:00+00:00",
+  "developers": {
+    "Budcat Creations": "https://downloads.khinsider.com/game-soundtracks/developer/budcat-creations"
+  },
+  "publishers": {
+    "EA": "https://downloads.khinsider.com/game-soundtracks/publisher/ea"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3670016,
+      "filesize_mp3_bytes": 1730150,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 61,
+      "source_mp3": "https://vgmsite.com/soundtracks/madden-nfl-2002-2001-gba/flgpxentol/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/madden-nfl-2002-2001-gba/flgpxentol/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/madden-nfl-2002-2001-gba/01%2520BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8986296,
+      "filesize_mp3_bytes": 4414504,
+      "track_number": 2,
+      "title": "BGM #02",
+      "runtime": 135,
+      "source_mp3": "https://vgmsite.com/soundtracks/madden-nfl-2002-2001-gba/uubqeblxih/02%20BGM%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/madden-nfl-2002-2001-gba/uubqeblxih/02%20BGM%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/madden-nfl-2002-2001-gba/02%2520BGM%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 943718,
+      "filesize_mp3_bytes": 387973,
+      "track_number": 3,
+      "title": "Jingle #01",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/madden-nfl-2002-2001-gba/ceowzyksgi/03%20Jingle%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/madden-nfl-2002-2001-gba/ceowzyksgi/03%20Jingle%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/madden-nfl-2002-2001-gba/03%2520Jingle%2520%252301.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 207,
+    "filesize_mp3_bytes": 6532627,
+    "filesize_flac_bytes": 13600030,
+    "tracks": 3
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "title": "Lode Runner Extra",
+  "titles_alternative": [
+    "\u30ed\u30fc\u30c9\u30e9\u30f3\u30ca\u30fc\u30fb\u30a8\u30af\u30b9\u30c8\u30e9"
+  ],
+  "crawled_at": "2023-09-23T00:42:56.495542+00:00",
+  "slug": "lode-runner-extra-1997-saturn-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/lode-runner-extra-1997-saturn-gamerip",
+  "platforms": {
+    "Saturn": "https://downloads.khinsider.com/game-soundtracks/sega-saturn"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/lode-runner-extra-1997-saturn-gamerip/E1.jpg"
+  ],
+  "year": 1997,
+  "date_added": "2020-05-14T00:00:00+00:00",
+  "developers": {
+    "Game Arts": "https://downloads.khinsider.com/game-soundtracks/developer/game-arts",
+    "Presage Software": "https://downloads.khinsider.com/game-soundtracks/developer/presage-software"
+  },
+  "publishers": {
+    "Patra": "https://downloads.khinsider.com/game-soundtracks/publisher/patra"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/lode-runner-extra-1997-saturn-gamerip/mqxdjscdwc/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lode-runner-extra-1997-saturn-gamerip/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 880803,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 37,
+      "source_mp3": "https://vgmsite.com/soundtracks/lode-runner-extra-1997-saturn-gamerip/mbiciaxioo/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lode-runner-extra-1997-saturn-gamerip/02.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 47,
+    "filesize_mp3_bytes": 1006632,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

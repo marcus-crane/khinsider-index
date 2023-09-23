@@ -1,0 +1,67 @@
+{
+  "title": "L.E.D. Storm (ZX Spectrum 128)",
+  "titles_alternative": [
+    "Mad Gear"
+  ],
+  "crawled_at": "2023-09-22T22:19:43.863806+00:00",
+  "slug": "l.e.d.-storm-zx-spectrum-128",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/l.e.d.-storm-zx-spectrum-128",
+  "platforms": {
+    "Spectrum": "https://downloads.khinsider.com/game-soundtracks/spectrum"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/l.e.d.-storm-zx-spectrum-128/L.E.D.%20Storm.png"
+  ],
+  "year": 1988,
+  "date_added": "2022-05-16T00:00:00+00:00",
+  "developers": {
+    "Capcom": "https://downloads.khinsider.com/game-soundtracks/developer/capcom"
+  },
+  "publishers": {
+    "GO! Media Holdings": "https://downloads.khinsider.com/game-soundtracks/publisher/go-media-holdings"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10370416,
+      "filesize_mp3_bytes": 3376414,
+      "track_number": 1,
+      "title": "Title Theme",
+      "runtime": 163,
+      "source_mp3": "https://vgmsite.com/soundtracks/l.e.d.-storm-zx-spectrum-128/yvyydkuxfq/01%20Title%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/l.e.d.-storm-zx-spectrum-128/yvyydkuxfq/01%20Title%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/l.e.d.-storm-zx-spectrum-128/01%2520Title%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2055208,
+      "filesize_mp3_bytes": 681574,
+      "track_number": 2,
+      "title": "Map Screen",
+      "runtime": 32,
+      "source_mp3": "https://vgmsite.com/soundtracks/l.e.d.-storm-zx-spectrum-128/xkggoltbxw/02%20Map%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/l.e.d.-storm-zx-spectrum-128/xkggoltbxw/02%20Map%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/l.e.d.-storm-zx-spectrum-128/02%2520Map%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9216983,
+      "filesize_mp3_bytes": 4278190,
+      "track_number": 3,
+      "title": "Ranking",
+      "runtime": 171,
+      "source_mp3": "https://vgmsite.com/soundtracks/l.e.d.-storm-zx-spectrum-128/pcxngkmwrn/03%20Ranking.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/l.e.d.-storm-zx-spectrum-128/pcxngkmwrn/03%20Ranking.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/l.e.d.-storm-zx-spectrum-128/03%2520Ranking.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 366,
+    "filesize_mp3_bytes": 8336178,
+    "filesize_flac_bytes": 21642607,
+    "tracks": 3
+  }
+}

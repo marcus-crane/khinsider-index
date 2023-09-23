@@ -1,0 +1,55 @@
+{
+  "title": "Magic&Quest (Vi-King co)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T01:53:30.115121+00:00",
+  "slug": "magic-quest-vi-king-co-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/magic-quest-vi-king-co-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/magic-quest-vi-king-co-android/Folder.jpg"
+  ],
+  "year": 2010,
+  "date_added": "2018-03-06T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1688207,
+      "title": "BGM_Battle_0",
+      "runtime": 105,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-quest-vi-king-co-android/lnizofom/BGM_Battle_0.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-quest-vi-king-co-android/BGM_Battle_0.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 996147,
+      "title": "BGM_Boss_0",
+      "runtime": 62,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-quest-vi-king-co-android/qsgiirus/BGM_Boss_0.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-quest-vi-king-co-android/BGM_Boss_0.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 964689,
+      "title": "BGM_Start",
+      "runtime": 60,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-quest-vi-king-co-android/tfvvmwiq/BGM_Start.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-quest-vi-king-co-android/BGM_Start.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 227,
+    "filesize_mp3_bytes": 3649043,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

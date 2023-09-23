@@ -1,0 +1,43 @@
+{
+  "title": "Knightmare",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T21:25:46.234870+00:00",
+  "slug": "knightmare-atari-st",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/knightmare-atari-st",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/knightmare-atari-st/KN.png"
+  ],
+  "year": 1988,
+  "date_added": "2016-05-20T00:00:00+00:00",
+  "developers": {
+    "Focus Creative Enterprises": "https://downloads.khinsider.com/game-soundtracks/developer/focus-creative-enterprises",
+    "MD Software": "https://downloads.khinsider.com/game-soundtracks/developer/md-software"
+  },
+  "publishers": {
+    "Activision": "https://downloads.khinsider.com/game-soundtracks/publisher/activision"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3848273,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 142,
+      "source_mp3": "https://vgmsite.com/soundtracks/knightmare-atari-st/ikncmokj/01_Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/knightmare-atari-st/01_Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 142,
+    "filesize_mp3_bytes": 3848273,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

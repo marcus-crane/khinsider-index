@@ -1,0 +1,80 @@
+{
+  "title": "Kinnikuman: Muscle Tag Match",
+  "titles_alternative": [
+    "Tag Team Match: M.U.S.C.L.E.",
+    "\u30ad\u30f3\u8089\u30de\u30f3 \u30de\u30c3\u30b9\u30eb\u30bf\u30c3\u30b0\u30de\u30c3\u30c1"
+  ],
+  "crawled_at": "2023-09-23T01:33:14.828002+00:00",
+  "slug": "m.u.s.c.l.e.-tag-team-match-1985-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/m.u.s.c.l.e.-tag-team-match-1985-nes",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/m.u.s.c.l.e.-tag-team-match-1985-nes/M.U.S.C.L.E.%20-%20Tag%20Team%20Match.jpg"
+  ],
+  "year": 1985,
+  "date_added": "2022-05-16T00:00:00+00:00",
+  "developers": {
+    "Tose": "https://downloads.khinsider.com/game-soundtracks/developer/tose"
+  },
+  "publishers": {
+    "Bandai": "https://downloads.khinsider.com/game-soundtracks/publisher/bandai"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 880803,
+      "filesize_mp3_bytes": 335544,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 17,
+      "source_mp3": "https://vgmsite.com/soundtracks/m.u.s.c.l.e.-tag-team-match-1985-nes/pacnidkseq/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/m.u.s.c.l.e.-tag-team-match-1985-nes/pacnidkseq/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/m.u.s.c.l.e.-tag-team-match-1985-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 346030,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/m.u.s.c.l.e.-tag-team-match-1985-nes/ljxmryearh/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/m.u.s.c.l.e.-tag-team-match-1985-nes/ljxmryearh/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/m.u.s.c.l.e.-tag-team-match-1985-nes/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 31457,
+      "filesize_mp3_bytes": 10485,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/m.u.s.c.l.e.-tag-team-match-1985-nes/fdhswiayxz/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/m.u.s.c.l.e.-tag-team-match-1985-nes/fdhswiayxz/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/m.u.s.c.l.e.-tag-team-match-1985-nes/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 314572,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/m.u.s.c.l.e.-tag-team-match-1985-nes/zsgcfnorec/04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/m.u.s.c.l.e.-tag-team-match-1985-nes/zsgcfnorec/04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/m.u.s.c.l.e.-tag-team-match-1985-nes/04.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 32,
+    "filesize_mp3_bytes": 566229,
+    "filesize_flac_bytes": 1572862,
+    "tracks": 4
+  }
+}

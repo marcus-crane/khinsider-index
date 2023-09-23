@@ -1,0 +1,89 @@
+{
+  "title": "Madden NFL '94",
+  "titles_alternative": [
+    "NFL Pro Football '94"
+  ],
+  "crawled_at": "2023-09-23T01:43:31.762162+00:00",
+  "slug": "madden-nfl-94-snes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/madden-nfl-94-snes",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/madden-nfl-94-snes/Madden%20NFL%20%2794%20%28SNES%29%20%28gamerip%29%20%281993%29.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2018-10-24T00:00:00+00:00",
+  "developers": {
+    "Visual Concepts Entertainment": "https://downloads.khinsider.com/game-soundtracks/developer/visual-concepts-entertainment"
+  },
+  "publishers": {
+    "EA": "https://downloads.khinsider.com/game-soundtracks/publisher/ea"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3659530,
+      "filesize_mp3_bytes": 3806330,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 95,
+      "source_mp3": "https://vgmsite.com/soundtracks/madden-nfl-94-snes/qlvtgjoc/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/madden-nfl-94-snes/qlvtgjoc/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/madden-nfl-94-snes/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4592762,
+      "filesize_mp3_bytes": 4561305,
+      "track_number": 2,
+      "title": "Game Select",
+      "runtime": 114,
+      "source_mp3": "https://vgmsite.com/soundtracks/madden-nfl-94-snes/qrmbihyd/02%20Game%20Select.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/madden-nfl-94-snes/qrmbihyd/02%20Game%20Select.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/madden-nfl-94-snes/02%2520Game%2520Select.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5683281,
+      "filesize_mp3_bytes": 6647971,
+      "track_number": 3,
+      "title": "Pause Screen",
+      "runtime": 166,
+      "source_mp3": "https://vgmsite.com/soundtracks/madden-nfl-94-snes/ixvntjzh/03%20Pause%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/madden-nfl-94-snes/ixvntjzh/03%20Pause%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/madden-nfl-94-snes/03%2520Pause%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7455375,
+      "filesize_mp3_bytes": 7402946,
+      "track_number": 4,
+      "title": "End of Game (Close Margin)",
+      "runtime": 185,
+      "source_mp3": "https://vgmsite.com/soundtracks/madden-nfl-94-snes/nuqczmvo/04%20End%20of%20Game%20%28Close%20Margin%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/madden-nfl-94-snes/nuqczmvo/04%20End%20of%20Game%20%28Close%20Margin%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/madden-nfl-94-snes/04%2520End%2520of%2520Game%2520%2528Close%2520Margin%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7507804,
+      "filesize_mp3_bytes": 7245660,
+      "track_number": 5,
+      "title": "End of Game (Wide Margin)",
+      "runtime": 181,
+      "source_mp3": "https://vgmsite.com/soundtracks/madden-nfl-94-snes/vrkewroc/05%20End%20of%20Game%20%28Wide%20Margin%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/madden-nfl-94-snes/vrkewroc/05%20End%20of%20Game%20%28Wide%20Margin%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/madden-nfl-94-snes/05%2520End%2520of%2520Game%2520%2528Wide%2520Margin%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 741,
+    "filesize_mp3_bytes": 29664212,
+    "filesize_flac_bytes": 28898752,
+    "tracks": 5
+  }
+}

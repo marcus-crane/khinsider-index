@@ -1,0 +1,114 @@
+{
+  "title": "Loopz",
+  "titles_alternative": [
+    "\u30eb\u30fc\u30d7\u30b9"
+  ],
+  "crawled_at": "2023-09-23T00:49:31.226729+00:00",
+  "slug": "loopz-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/loopz-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/loopz-commodore-64/Loopz%20%28Commodore%2064%29%20%28gamerip%29%20%281991%29.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2015-10-12T00:00:00+00:00",
+  "developers": {
+    "Audiogenic": "https://downloads.khinsider.com/game-soundtracks/developer/audiogenic"
+  },
+  "publishers": {
+    "Audiogenic": "https://downloads.khinsider.com/game-soundtracks/publisher/audiogenic"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2453667,
+      "track_number": 1,
+      "title": "Tune A",
+      "runtime": 119,
+      "source_mp3": "https://vgmsite.com/soundtracks/loopz-commodore-64/jzpbqarl/01_Tune%20A.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/loopz-commodore-64/01_Tune%2520A.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5588910,
+      "track_number": 2,
+      "title": "Tune B",
+      "runtime": 247,
+      "source_mp3": "https://vgmsite.com/soundtracks/loopz-commodore-64/onwumdvq/02_Tune%20B.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/loopz-commodore-64/02_Tune%2520B.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4750049,
+      "track_number": 3,
+      "title": "Tune C",
+      "runtime": 217,
+      "source_mp3": "https://vgmsite.com/soundtracks/loopz-commodore-64/wyblutdr/03_Tune%20C.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/loopz-commodore-64/03_Tune%2520C.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 482344,
+      "track_number": 4,
+      "title": "High Score",
+      "runtime": 25,
+      "source_mp3": "https://vgmsite.com/soundtracks/loopz-commodore-64/emequsze/04_High%20Score.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/loopz-commodore-64/04_High%2520Score.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4456448,
+      "track_number": 5,
+      "title": "Tune A (SID Stereo)",
+      "runtime": 128,
+      "source_mp3": "https://vgmsite.com/soundtracks/loopz-commodore-64/uanexxis/05_Tune%20A%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/loopz-commodore-64/05_Tune%2520A%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6459228,
+      "track_number": 6,
+      "title": "Tune B (SID Stereo)",
+      "runtime": 175,
+      "source_mp3": "https://vgmsite.com/soundtracks/loopz-commodore-64/slfmuqzk/06_Tune%20B%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/loopz-commodore-64/06_Tune%2520B%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8084520,
+      "track_number": 7,
+      "title": "Tune C (SID Stereo)",
+      "runtime": 226,
+      "source_mp3": "https://vgmsite.com/soundtracks/loopz-commodore-64/dhgmzqah/07_Tune%20C%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/loopz-commodore-64/07_Tune%2520C%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 922746,
+      "track_number": 8,
+      "title": "High Score (SID Stereo)",
+      "runtime": 26,
+      "source_mp3": "https://vgmsite.com/soundtracks/loopz-commodore-64/kjqldcjs/08_High%20Score%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/loopz-commodore-64/08_High%2520Score%2520%2528SID%2520Stereo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1163,
+    "filesize_mp3_bytes": 33197912,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

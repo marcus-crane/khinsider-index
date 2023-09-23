@@ -1,0 +1,39 @@
+{
+  "title": "Konami Test Board",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T21:50:10.982601+00:00",
+  "slug": "konami-test-board-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/konami-test-board-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/konami-test-board-arcade/Konami%20Test%20Board.png"
+  ],
+  "year": 1987,
+  "date_added": "2022-05-05T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8472494,
+      "filesize_mp3_bytes": 2443182,
+      "track_number": 1,
+      "title": "Sound Test",
+      "runtime": 82,
+      "source_mp3": "https://vgmsite.com/soundtracks/konami-test-board-arcade/judnxmfntp/01%20Sound%20Test.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/konami-test-board-arcade/judnxmfntp/01%20Sound%20Test.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/konami-test-board-arcade/01%2520Sound%2520Test.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 82,
+    "filesize_mp3_bytes": 2443182,
+    "filesize_flac_bytes": 8472494,
+    "tracks": 1
+  }
+}

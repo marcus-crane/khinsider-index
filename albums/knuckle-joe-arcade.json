@@ -1,0 +1,84 @@
+{
+  "title": "Knuckle Joe",
+  "titles_alternative": [
+    "\u30ca\u30c3\u30af\u30eb\u30b8\u30e7\u30fc"
+  ],
+  "crawled_at": "2023-09-22T21:29:26.756492+00:00",
+  "slug": "knuckle-joe-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/knuckle-joe-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/knuckle-joe-arcade/K1.png"
+  ],
+  "year": 1985,
+  "date_added": "2015-03-04T00:00:00+00:00",
+  "developers": {
+    "Seibu Kaihatsu": "https://downloads.khinsider.com/game-soundtracks/developer/seibu-kaihatsu"
+  },
+  "publishers": {
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/publisher/taito"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 1,
+      "title": "Knuckle Joe",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/knuckle-joe-arcade/ljycbkdf/01_Knuckle%20Joe.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/knuckle-joe-arcade/01_Knuckle%2520Joe.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 335544,
+      "track_number": 2,
+      "title": "Knuckle Joe",
+      "runtime": 20,
+      "source_mp3": "https://vgmsite.com/soundtracks/knuckle-joe-arcade/rftvjohk/02_Knuckle%20Joe.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/knuckle-joe-arcade/02_Knuckle%2520Joe.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 3,
+      "title": "Knuckle Joe",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/knuckle-joe-arcade/bebedbvl/03_Knuckle%20Joe.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/knuckle-joe-arcade/03_Knuckle%2520Joe.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 545259,
+      "track_number": 4,
+      "title": "Knuckle Joe",
+      "runtime": 32,
+      "source_mp3": "https://vgmsite.com/soundtracks/knuckle-joe-arcade/yplnezue/04_Knuckle%20Joe.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/knuckle-joe-arcade/04_Knuckle%2520Joe.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 5,
+      "title": "Knuckle Joe",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/knuckle-joe-arcade/fevtsgzs/05_Knuckle%20Joe.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/knuckle-joe-arcade/05_Knuckle%2520Joe.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 61,
+    "filesize_mp3_bytes": 1027603,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Kobayashi Hitomi no Hold Up",
+  "titles_alternative": [
+    "\u5c0f\u6797\u3072\u3068\u307f\u306e\u30db\u30fc\u30eb\u30c9\u30a2\u30c3\u30d7"
+  ],
+  "crawled_at": "2023-09-22T21:30:59.651581+00:00",
+  "slug": "kobayashi-hitomi-no-hold-up-1988-fds",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/kobayashi-hitomi-no-hold-up-1988-fds",
+  "platforms": {
+    "FDS": "https://downloads.khinsider.com/game-soundtracks/famicom-disk-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/kobayashi-hitomi-no-hold-up-1988-fds/Kobayashi%20Hitomi%20no%20Hold%20Up.jpg"
+  ],
+  "year": 1988,
+  "date_added": "2022-05-18T00:00:00+00:00",
+  "developers": {
+    "Hacker International": "https://downloads.khinsider.com/game-soundtracks/developer/hacker-international"
+  },
+  "publishers": {
+    "Hacker International": "https://downloads.khinsider.com/game-soundtracks/publisher/hacker-international"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 104857,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/kobayashi-hitomi-no-hold-up-1988-fds/kkeayvuyao/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kobayashi-hitomi-no-hold-up-1988-fds/kkeayvuyao/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kobayashi-hitomi-no-hold-up-1988-fds/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9384755,
+      "filesize_mp3_bytes": 4110417,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/kobayashi-hitomi-no-hold-up-1988-fds/ncougjrzxo/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kobayashi-hitomi-no-hold-up-1988-fds/ncougjrzxo/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kobayashi-hitomi-no-hold-up-1988-fds/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7853834,
+      "filesize_mp3_bytes": 3365928,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/kobayashi-hitomi-no-hold-up-1988-fds/gpefycjrci/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kobayashi-hitomi-no-hold-up-1988-fds/gpefycjrci/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kobayashi-hitomi-no-hold-up-1988-fds/03.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 363,
+    "filesize_mp3_bytes": 7518288,
+    "filesize_flac_bytes": 17343446,
+    "tracks": 3
+  }
+}

@@ -1,0 +1,412 @@
+{
+  "title": "Magic Sword (CPS-1)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T01:53:40.148546+00:00",
+  "slug": "magic-sword-cps-1",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/magic-sword-cps-1",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/magic-sword-cps-1/10006401.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2015-08-26T00:00:00+00:00",
+  "developers": {
+    "Capcom": "https://downloads.khinsider.com/game-soundtracks/developer/capcom"
+  },
+  "publishers": {
+    "Capcom": "https://downloads.khinsider.com/game-soundtracks/publisher/capcom"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 335544,
+      "track_number": 1,
+      "title": "Opening Demo",
+      "runtime": 17,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-sword-cps-1/xsazhlol/01-Opening%20Demo.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-sword-cps-1/01-Opening%2520Demo.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 2,
+      "title": "Credit",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-sword-cps-1/ahphpvjr/02-Credit.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-sword-cps-1/02-Credit.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 199229,
+      "track_number": 3,
+      "title": "Departure (Start Point Select)",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-sword-cps-1/fwwmhmmb/03-Departure%20%28Start%20Point%20Select%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-sword-cps-1/03-Departure%2520%2528Start%2520Point%2520Select%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3282042,
+      "track_number": 4,
+      "title": "Road to the Tower (Round 1)",
+      "runtime": 135,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-sword-cps-1/zrtbtehg/04-Road%20to%20the%20Tower%20%28Round%201%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-sword-cps-1/04-Road%2520to%2520the%2520Tower%2520%2528Round%25201%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2401239,
+      "track_number": 5,
+      "title": "The Dragon's Tower 1 (Round 2)",
+      "runtime": 97,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-sword-cps-1/jgapudog/05-The%20Dragon%27s%20Tower%201%20%28Round%202%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-sword-cps-1/05-The%2520Dragon%2527s%2520Tower%25201%2520%2528Round%25202%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1876951,
+      "track_number": 6,
+      "title": "The Dragon's Tower 2 (Scroll A Group)",
+      "runtime": 76,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-sword-cps-1/dvdmatin/06-The%20Dragon%27s%20Tower%202%20%28Scroll%20A%20Group%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-sword-cps-1/06-The%2520Dragon%2527s%2520Tower%25202%2520%2528Scroll%2520A%2520Group%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1426063,
+      "track_number": 7,
+      "title": "The Flame Floor (Fire Stage)",
+      "runtime": 55,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-sword-cps-1/ndoyrgzz/07-The%20Flame%20Floor%20%28Fire%20Stage%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-sword-cps-1/07-The%2520Flame%2520Floor%2520%2528Fire%2520Stage%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 314572,
+      "track_number": 8,
+      "title": "Boss Demo",
+      "runtime": 18,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-sword-cps-1/pximoljw/08-Boss%20Demo.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-sword-cps-1/08-Boss%2520Demo.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1289748,
+      "track_number": 9,
+      "title": "Red Dragon (Round 2 Boss)",
+      "runtime": 54,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-sword-cps-1/sezjsleq/09-Red%20Dragon%20%28Round%202%20Boss%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-sword-cps-1/09-Red%2520Dragon%2520%2528Round%25202%2520Boss%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 157286,
+      "track_number": 10,
+      "title": "Round Clear",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-sword-cps-1/azzogvhy/10-Round%20Clear.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-sword-cps-1/10-Round%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 178257,
+      "track_number": 11,
+      "title": "Bonus",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-sword-cps-1/yqyqezzn/11-Bonus.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-sword-cps-1/11-Bonus.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3774873,
+      "track_number": 12,
+      "title": "The Dragon's Tower 3 (Round 3)",
+      "runtime": 152,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-sword-cps-1/grtounwe/12-The%20Dragon%27s%20Tower%203%20%28Round%203%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-sword-cps-1/12-The%2520Dragon%2527s%2520Tower%25203%2520%2528Round%25203%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1520435,
+      "track_number": 13,
+      "title": "The Water Floor (Water Stage)",
+      "runtime": 60,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-sword-cps-1/fpchpmlo/13-The%20Water%20Floor%20%28Water%20Stage%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-sword-cps-1/13-The%2520Water%2520Floor%2520%2528Water%2520Stage%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1457520,
+      "track_number": 14,
+      "title": "Mage Quimyra (Round 3 Boss)",
+      "runtime": 62,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-sword-cps-1/qqbfwqea/14-Mage%20Quimyra%20%28Round%203%20Boss%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-sword-cps-1/14-Mage%2520Quimyra%2520%2528Round%25203%2520Boss%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2684354,
+      "track_number": 15,
+      "title": "The Dragon's Tower 4 (Round 4)",
+      "runtime": 103,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-sword-cps-1/eyxzlduj/15-The%20Dragon%27s%20Tower%204%20%28Round%204%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-sword-cps-1/15-The%2520Dragon%2527s%2520Tower%25204%2520%2528Round%25204%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1719664,
+      "track_number": 16,
+      "title": "King Crawler (Round 4 Boss)",
+      "runtime": 72,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-sword-cps-1/zipmwyyy/16-King%20Crawler%20%28Round%204%20Boss%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-sword-cps-1/16-King%2520Crawler%2520%2528Round%25204%2520Boss%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1499463,
+      "track_number": 17,
+      "title": "The Dragon's Tower 5 (Round 5)",
+      "runtime": 59,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-sword-cps-1/vekoemfc/17-The%20Dragon%27s%20Tower%205%20%28Round%205%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-sword-cps-1/17-The%2520Dragon%2527s%2520Tower%25205%2520%2528Round%25205%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 786432,
+      "track_number": 18,
+      "title": "Double Dragon (Round 5 Boss)",
+      "runtime": 35,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-sword-cps-1/mxewqhkn/18-Double%20Dragon%20%28Round%205%20Boss%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-sword-cps-1/18-Double%2520Dragon%2520%2528Round%25205%2520Boss%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1866465,
+      "track_number": 19,
+      "title": "The Dragon's Tower 6 (Round 6)",
+      "runtime": 73,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-sword-cps-1/wstkfjqt/19-The%20Dragon%27s%20Tower%206%20%28Round%206%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-sword-cps-1/19-The%2520Dragon%2527s%2520Tower%25206%2520%2528Round%25206%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1541406,
+      "track_number": 20,
+      "title": "The Final Floor (50th Floor)",
+      "runtime": 60,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-sword-cps-1/urrafsjn/20-The%20Final%20Floor%20%2850th%20Floor%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-sword-cps-1/20-The%2520Final%2520Floor%2520%252850th%2520Floor%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1174405,
+      "track_number": 21,
+      "title": "Drokmar's End 1",
+      "runtime": 49,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-sword-cps-1/qpihbjuq/21-Drokmar%27s%20End%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-sword-cps-1/21-Drokmar%2527s%2520End%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 335544,
+      "track_number": 22,
+      "title": "Drokmar's End 2",
+      "runtime": 17,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-sword-cps-1/hnwfwasa/22-Drokmar%27s%20End%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-sword-cps-1/22-Drokmar%2527s%2520End%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 23,
+      "title": "Voice (Drokmar's End)",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-sword-cps-1/iykzajfd/23-Voice%20%28Drokmar%27s%20End%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-sword-cps-1/23-Voice%2520%2528Drokmar%2527s%2520End%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 335544,
+      "track_number": 24,
+      "title": "Final Round Clear",
+      "runtime": 18,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-sword-cps-1/dumpcvgw/24-Final%20Round%20Clear.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-sword-cps-1/24-Final%2520Round%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1174405,
+      "track_number": 25,
+      "title": "End Demo (Safe Return)",
+      "runtime": 61,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-sword-cps-1/efkeljub/25-End%20Demo%20%28Safe%20Return%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-sword-cps-1/25-End%2520Demo%2520%2528Safe%2520Return%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 157286,
+      "track_number": 26,
+      "title": "Game Over",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-sword-cps-1/isnhaviw/26-Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-sword-cps-1/26-Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 27,
+      "title": "Ranking Display",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-sword-cps-1/sfwjbrhk/27-Ranking%20Display.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-sword-cps-1/27-Ranking%2520Display.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4676648,
+      "track_number": 28,
+      "title": "Unused",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-sword-cps-1/aplpomya/28-Unused.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-sword-cps-1/28-Unused.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 29,
+      "title": "Voice 1",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-sword-cps-1/zzvbltxy/29-Voice%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-sword-cps-1/29-Voice%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 30,
+      "title": "Voice 2",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-sword-cps-1/wtbodalg/30-Voice%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-sword-cps-1/30-Voice%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 31,
+      "title": "Voice 3",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-sword-cps-1/mawqwgwe/31-Voice%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-sword-cps-1/31-Voice%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 32,
+      "title": "Voice 4",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-sword-cps-1/jumvdbhe/32-Voice%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-sword-cps-1/32-Voice%25204.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 33,
+      "title": "Voice 5",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-sword-cps-1/nqgbfokk/33-Voice%205.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-sword-cps-1/33-Voice%25205.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 34,
+      "title": "Voice 6",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-sword-cps-1/drjjqpjh/34-Voice%206.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-sword-cps-1/34-Voice%25206.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 35,
+      "title": "Voice 7",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-sword-cps-1/txawmwbw/35-Voice%207.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-sword-cps-1/35-Voice%25207.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 36,
+      "title": "Voice 8",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-sword-cps-1/qsiniufu/36-Voice%208.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-sword-cps-1/36-Voice%25208.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 37,
+      "title": "Voice 9",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-sword-cps-1/aqujwzaf/37-Voice%209.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-sword-cps-1/37-Voice%25209.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 38,
+      "title": "Voice 10",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-sword-cps-1/auqnptrj/38-Voice%2010.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-sword-cps-1/38-Voice%252010.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1549,
+    "filesize_mp3_bytes": 36658199,
+    "filesize_flac_bytes": 0,
+    "tracks": 38
+  }
+}

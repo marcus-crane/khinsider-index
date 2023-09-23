@@ -1,0 +1,69 @@
+{
+  "title": "Ma Cheon Ru",
+  "titles_alternative": [
+    "\ub9c8\ucc9c\ub8e8"
+  ],
+  "crawled_at": "2023-09-23T01:33:32.418774+00:00",
+  "slug": "ma-cheong-ru-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ma-cheong-ru-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ma-cheong-ru-arcade/MaCheonRu.png"
+  ],
+  "date_added": "2021-12-15T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2579496,
+      "track_number": 1,
+      "title": "Stage Music 1",
+      "runtime": 161,
+      "source_mp3": "https://vgmsite.com/soundtracks/ma-cheong-ru-arcade/sznpvblqlp/1.%20Stage%20Music%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ma-cheong-ru-arcade/1.%2520Stage%2520Music%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1468006,
+      "track_number": 2,
+      "title": "Stage Music 2",
+      "runtime": 91,
+      "source_mp3": "https://vgmsite.com/soundtracks/ma-cheong-ru-arcade/veuvnmihpi/2.%20Stage%20Music%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ma-cheong-ru-arcade/2.%2520Stage%2520Music%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1761607,
+      "track_number": 3,
+      "title": "Mini Game",
+      "runtime": 110,
+      "source_mp3": "https://vgmsite.com/soundtracks/ma-cheong-ru-arcade/gfnuqkixyy/3.%20Mini%20Game.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ma-cheong-ru-arcade/3.%2520Mini%2520Game.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1017118,
+      "track_number": 4,
+      "title": "Continue, Game over",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/ma-cheong-ru-arcade/wfecwnizro/4.%20Continue%2C%20Game%20over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ma-cheong-ru-arcade/4.%2520Continue%252C%2520Game%2520over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 426,
+    "filesize_mp3_bytes": 6826227,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

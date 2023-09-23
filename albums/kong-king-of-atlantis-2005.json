@@ -1,0 +1,93 @@
+{
+  "title": "Kong: King of Atlantis",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T21:51:19.401267+00:00",
+  "slug": "kong-king-of-atlantis-2005",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/kong-king-of-atlantis-2005",
+  "platforms": {
+    "GBA": "https://downloads.khinsider.com/game-soundtracks/gameboy-advance"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/kong-king-of-atlantis-2005/Kong%20King%20of%20Atlantis.jpg"
+  ],
+  "year": 2005,
+  "date_added": "2022-09-30T00:00:00+00:00",
+  "developers": {
+    "Game Titan": "https://downloads.khinsider.com/game-soundtracks/developer/game-titan",
+    "Skyworks Technologies": "https://downloads.khinsider.com/game-soundtracks/developer/skyworks-technologies"
+  },
+  "publishers": {
+    "Majesco": "https://downloads.khinsider.com/game-soundtracks/publisher/majesco"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 325058,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 20,
+      "source_mp3": "https://vgmsite.com/soundtracks/kong-king-of-atlantis-2005/rtlbqxnmuh/01.%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kong-king-of-atlantis-2005/01.%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2055208,
+      "track_number": 2,
+      "title": "Stage 1",
+      "runtime": 128,
+      "source_mp3": "https://vgmsite.com/soundtracks/kong-king-of-atlantis-2005/alwxkwlvqv/02.%20Stage%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kong-king-of-atlantis-2005/02.%2520Stage%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1656750,
+      "track_number": 3,
+      "title": "Stage 2  Cutscene",
+      "runtime": 103,
+      "source_mp3": "https://vgmsite.com/soundtracks/kong-king-of-atlantis-2005/mxsolqzvlf/03.%20Stage%202%20%20Cutscene.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kong-king-of-atlantis-2005/03.%2520Stage%25202%2520%2520Cutscene.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2055208,
+      "track_number": 4,
+      "title": "Stage 3",
+      "runtime": 128,
+      "source_mp3": "https://vgmsite.com/soundtracks/kong-king-of-atlantis-2005/txmpwlntjr/04.%20Stage%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kong-king-of-atlantis-2005/04.%2520Stage%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2411724,
+      "track_number": 5,
+      "title": "Stage 4",
+      "runtime": 150,
+      "source_mp3": "https://vgmsite.com/soundtracks/kong-king-of-atlantis-2005/rbcaldgega/05.%20Stage%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kong-king-of-atlantis-2005/05.%2520Stage%25204.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 6,
+      "title": "Game Over",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/kong-king-of-atlantis-2005/kfabisqnef/06.%20Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kong-king-of-atlantis-2005/06.%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 531,
+    "filesize_mp3_bytes": 8545891,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

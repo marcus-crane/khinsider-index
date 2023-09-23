@@ -1,0 +1,46 @@
+{
+  "title": "Little Red Hood (Unlicensed)",
+  "titles_alternative": [
+    "\u5c0f\u7d05\u5e3d"
+  ],
+  "crawled_at": "2023-09-23T00:32:46.411764+00:00",
+  "slug": "little-red-hood-1990-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/little-red-hood-1990-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/little-red-hood-1990-nes/Little%20Red%20Hood.png"
+  ],
+  "year": 1990,
+  "date_added": "2021-04-01T00:00:00+00:00",
+  "developers": {
+    "Joy Van": "https://downloads.khinsider.com/game-soundtracks/developer/joy-van"
+  },
+  "publishers": {
+    "HES Interactive": "https://downloads.khinsider.com/game-soundtracks/publisher/hes-interactive",
+    "Sachen": "https://downloads.khinsider.com/game-soundtracks/publisher/sachen"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3166699,
+      "filesize_mp3_bytes": 1551892,
+      "track_number": 1,
+      "title": "Main BGM",
+      "runtime": 63,
+      "source_mp3": "https://vgmsite.com/soundtracks/little-red-hood-1990-nes/uhnmlzdhke/01%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/little-red-hood-1990-nes/uhnmlzdhke/01%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/little-red-hood-1990-nes/01%2520Main%2520BGM.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 63,
+    "filesize_mp3_bytes": 1551892,
+    "filesize_flac_bytes": 3166699,
+    "tracks": 1
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "title": "Lobo (Unreleased)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T00:39:58.265208+00:00",
+  "slug": "lobo-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/lobo-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/lobo-genesis/Lobo%20Mega%20Drive%20back%20cover.jpg"
+  ],
+  "year": 1996,
+  "date_added": "2020-07-04T00:00:00+00:00",
+  "developers": {
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/developer/ocean"
+  },
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3942645,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 99,
+      "source_mp3": "https://vgmsite.com/soundtracks/lobo-genesis/dmnqqnnyho/1.%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lobo-genesis/1.%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2883584,
+      "track_number": 2,
+      "title": "Menu",
+      "runtime": 72,
+      "source_mp3": "https://vgmsite.com/soundtracks/lobo-genesis/ukiwugklcb/2.%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lobo-genesis/2.%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4362076,
+      "track_number": 3,
+      "title": "Dox's Lab",
+      "runtime": 109,
+      "source_mp3": "https://vgmsite.com/soundtracks/lobo-genesis/culvrcvcxf/3.%20Dox%27s%20Lab.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lobo-genesis/3.%2520Dox%2527s%2520Lab.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7602176,
+      "track_number": 4,
+      "title": "Psoriasis 3",
+      "runtime": 190,
+      "source_mp3": "https://vgmsite.com/soundtracks/lobo-genesis/aqrvuoqefs/4.%20Psoriasis%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lobo-genesis/4.%2520Psoriasis%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7570718,
+      "track_number": 5,
+      "title": "Fortress",
+      "runtime": 189,
+      "source_mp3": "https://vgmsite.com/soundtracks/lobo-genesis/xixelkcgio/5.%20Fortress.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lobo-genesis/5.%2520Fortress.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8325693,
+      "track_number": 6,
+      "title": "Al's Diner",
+      "runtime": 208,
+      "source_mp3": "https://vgmsite.com/soundtracks/lobo-genesis/kaqwcpjdqg/6.%20Al%27s%20Diner.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lobo-genesis/6.%2520Al%2527s%2520Diner.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7801405,
+      "track_number": 7,
+      "title": "Sewers",
+      "runtime": 195,
+      "source_mp3": "https://vgmsite.com/soundtracks/lobo-genesis/fwdvxregvd/7.%20Sewers.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lobo-genesis/7.%2520Sewers.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8042577,
+      "track_number": 8,
+      "title": "Dox's Bay",
+      "runtime": 201,
+      "source_mp3": "https://vgmsite.com/soundtracks/lobo-genesis/slosxskwsb/8.%20Dox%27s%20Bay.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lobo-genesis/8.%2520Dox%2527s%2520Bay.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1263,
+    "filesize_mp3_bytes": 50530874,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

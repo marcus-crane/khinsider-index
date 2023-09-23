@@ -1,0 +1,96 @@
+{
+  "title": "Klax",
+  "titles_alternative": [
+    "\u30af\u30e9\u30c3\u30af\u30b9"
+  ],
+  "crawled_at": "2023-09-22T21:20:34.184500+00:00",
+  "slug": "klax-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/klax-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/klax-amiga/Klax.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2019-01-05T00:00:00+00:00",
+  "developers": {
+    "Krisalis Software": "https://downloads.khinsider.com/game-soundtracks/developer/krisalis-software"
+  },
+  "publishers": {
+    "Atari Games": "https://downloads.khinsider.com/game-soundtracks/publisher/atari-games",
+    "Domark": "https://downloads.khinsider.com/game-soundtracks/publisher/domark",
+    "Tengen": "https://downloads.khinsider.com/game-soundtracks/publisher/tengen"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8294236,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 262,
+      "source_mp3": "https://vgmsite.com/soundtracks/klax-amiga/pvjeirof/01%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/klax-amiga/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1331691,
+      "track_number": 2,
+      "title": "Stage Select",
+      "runtime": 38,
+      "source_mp3": "https://vgmsite.com/soundtracks/klax-amiga/krtfokhc/02%20Stage%20Select.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/klax-amiga/02%2520Stage%2520Select.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 304087,
+      "track_number": 3,
+      "title": "Get Ready!",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/klax-amiga/pdnwxdnp/03%20Get%20Ready%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/klax-amiga/03%2520Get%2520Ready%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1814036,
+      "track_number": 4,
+      "title": "Name Entry",
+      "runtime": 51,
+      "source_mp3": "https://vgmsite.com/soundtracks/klax-amiga/tbufblav/04%20Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/klax-amiga/04%2520Name%2520Entry.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 335544,
+      "track_number": 5,
+      "title": "Game Over",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/klax-amiga/efyozhmv/05%20Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/klax-amiga/05%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 6,
+      "title": "Unknown",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/klax-amiga/zhhnpqsc/06%20Unknown.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/klax-amiga/06%2520Unknown.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 376,
+    "filesize_mp3_bytes": 12205423,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

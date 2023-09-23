@@ -1,0 +1,63 @@
+{
+  "title": "Luxor 5th Passage",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T01:30:08.455541+00:00",
+  "slug": "luxor-5th-passage-macos-windows-gamerip-2010",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/luxor-5th-passage-macos-windows-gamerip-2010",
+  "platforms": {
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/luxor-5th-passage-macos-windows-gamerip-2010/Luxor%205th%20Passage%20Picture.jpg"
+  ],
+  "year": 2010,
+  "date_added": "2023-06-19T00:00:00+00:00",
+  "developers": {
+    "Absolutist": "https://downloads.khinsider.com/game-soundtracks/developer/absolutist"
+  },
+  "publishers": {
+    "MumboJumbo": "https://downloads.khinsider.com/game-soundtracks/publisher/mumbojumbo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3764387,
+      "track_number": 1,
+      "title": "Blast Mode",
+      "runtime": 117,
+      "source_mp3": "https://vgmsite.com/soundtracks/luxor-5th-passage-macos-windows-gamerip-2010/adxdsnhmvf/01.%20Blast%20Mode.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/luxor-5th-passage-macos-windows-gamerip-2010/01.%2520Blast%2520Mode.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3974103,
+      "track_number": 2,
+      "title": "Classic",
+      "runtime": 122,
+      "source_mp3": "https://vgmsite.com/soundtracks/luxor-5th-passage-macos-windows-gamerip-2010/kvoriqzhvi/02.%20Classic.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/luxor-5th-passage-macos-windows-gamerip-2010/02.%2520Classic.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3439329,
+      "track_number": 3,
+      "title": "Main Menu",
+      "runtime": 108,
+      "source_mp3": "https://vgmsite.com/soundtracks/luxor-5th-passage-macos-windows-gamerip-2010/iynaojtzhh/03.%20Main%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/luxor-5th-passage-macos-windows-gamerip-2010/03.%2520Main%2520Menu.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 347,
+    "filesize_mp3_bytes": 11177819,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

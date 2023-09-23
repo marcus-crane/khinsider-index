@@ -1,0 +1,54 @@
+{
+  "title": "Kolo Terorita",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T21:38:37.744015+00:00",
+  "slug": "kolo-terorita-linux-online-windows-gamerip-2022",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/kolo-terorita-linux-online-windows-gamerip-2022",
+  "platforms": {
+    "Linux": "https://downloads.khinsider.com/game-soundtracks/linux",
+    "Online": "https://downloads.khinsider.com/game-soundtracks/online",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/kolo-terorita-linux-online-windows-gamerip-2022/Kolo%20Terorita.png"
+  ],
+  "year": 2022,
+  "date_added": "2023-03-10T00:00:00+00:00",
+  "developers": {
+    "Blue9Fairy": "https://downloads.khinsider.com/game-soundtracks/developer/blue9fairy"
+  },
+  "publishers": {
+    "SiIvaGunner": "https://downloads.khinsider.com/game-soundtracks/publisher/siivagunner"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3093299,
+      "track_number": 1,
+      "title": "Never Stop Shaking!",
+      "runtime": 77,
+      "source_mp3": "https://vgmsite.com/soundtracks/kolo-terorita-linux-online-windows-gamerip-2022/ooqwndrnwk/01.Never%20Stop%20Shaking%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kolo-terorita-linux-online-windows-gamerip-2022/01.Never%2520Stop%2520Shaking%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7979663,
+      "track_number": 2,
+      "title": "Boss Battle (II)",
+      "runtime": 199,
+      "source_mp3": "https://vgmsite.com/soundtracks/kolo-terorita-linux-online-windows-gamerip-2022/lfypiykffu/02.Boss%20Battle%20%28II%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kolo-terorita-linux-online-windows-gamerip-2022/02.Boss%2520Battle%2520%2528II%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 276,
+    "filesize_mp3_bytes": 11072962,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "title": "Maggy the Magi",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T01:50:34.682880+00:00",
+  "slug": "maggy-the-magi-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/maggy-the-magi-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/maggy-the-magi-android/screen-0.jpg"
+  ],
+  "year": 2011,
+  "date_added": "2018-03-06T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 450887,
+      "title": "bgm1",
+      "runtime": 56,
+      "source_mp3": "https://vgmsite.com/soundtracks/maggy-the-magi-android/yulszcrk/bgm1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/maggy-the-magi-android/bgm1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1719664,
+      "title": "bgm2",
+      "runtime": 214,
+      "source_mp3": "https://vgmsite.com/soundtracks/maggy-the-magi-android/xheakqrd/bgm2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/maggy-the-magi-android/bgm2.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 270,
+    "filesize_mp3_bytes": 2170551,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

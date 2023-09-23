@@ -1,0 +1,52 @@
+{
+  "title": "Legends of Might and Magic",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T23:40:10.668158+00:00",
+  "slug": "legends-of-might-and-magic-windows-gamerip-2001",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/legends-of-might-and-magic-windows-gamerip-2001",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/legends-of-might-and-magic-windows-gamerip-2001/9623_front.jpg"
+  ],
+  "year": 2001,
+  "date_added": "2023-04-10T00:00:00+00:00",
+  "developers": {
+    "New World Computing": "https://downloads.khinsider.com/game-soundtracks/developer/new-world-computing"
+  },
+  "publishers": {
+    "3DO": "https://downloads.khinsider.com/game-soundtracks/publisher/3do"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5410652,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 135,
+      "source_mp3": "https://vgmsite.com/soundtracks/legends-of-might-and-magic-windows-gamerip-2001/rcanumbtgd/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/legends-of-might-and-magic-windows-gamerip-2001/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4949278,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 124,
+      "source_mp3": "https://vgmsite.com/soundtracks/legends-of-might-and-magic-windows-gamerip-2001/jnqgarkgga/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/legends-of-might-and-magic-windows-gamerip-2001/02.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 259,
+    "filesize_mp3_bytes": 10359930,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

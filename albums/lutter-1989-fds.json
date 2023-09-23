@@ -1,0 +1,111 @@
+{
+  "title": "Lutter",
+  "titles_alternative": [
+    "\u30ea\u30e5\u30c3\u30bf\u30fc"
+  ],
+  "crawled_at": "2023-09-23T01:29:51.514517+00:00",
+  "slug": "lutter-1989-fds",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/lutter-1989-fds",
+  "platforms": {
+    "FDS": "https://downloads.khinsider.com/game-soundtracks/famicom-disk-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/lutter-1989-fds/Lutter.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2022-05-21T00:00:00+00:00",
+  "developers": {
+    "Athena": "https://downloads.khinsider.com/game-soundtracks/developer/athena"
+  },
+  "publishers": {
+    "Athena": "https://downloads.khinsider.com/game-soundtracks/publisher/athena"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 461373,
+      "filesize_mp3_bytes": 157286,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/lutter-1989-fds/htblbfskvf/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lutter-1989-fds/htblbfskvf/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lutter-1989-fds/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4802478,
+      "filesize_mp3_bytes": 1530920,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 79,
+      "source_mp3": "https://vgmsite.com/soundtracks/lutter-1989-fds/lultheulsc/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lutter-1989-fds/lultheulsc/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lutter-1989-fds/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10737418,
+      "filesize_mp3_bytes": 3502243,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/lutter-1989-fds/ffiuvatorv/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lutter-1989-fds/ffiuvatorv/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lutter-1989-fds/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6763315,
+      "filesize_mp3_bytes": 2055208,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 114,
+      "source_mp3": "https://vgmsite.com/soundtracks/lutter-1989-fds/lfrmhovwrn/04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lutter-1989-fds/lfrmhovwrn/04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lutter-1989-fds/04.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10475274,
+      "filesize_mp3_bytes": 2946498,
+      "track_number": 5,
+      "title": "Track 5",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/lutter-1989-fds/avblzxjpbm/05.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lutter-1989-fds/avblzxjpbm/05.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lutter-1989-fds/05.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10454302,
+      "filesize_mp3_bytes": 3460300,
+      "track_number": 6,
+      "title": "Track 6",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/lutter-1989-fds/crdsblhsjl/06.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lutter-1989-fds/crdsblhsjl/06.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lutter-1989-fds/06.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10905190,
+      "filesize_mp3_bytes": 3460300,
+      "track_number": 7,
+      "title": "Track 7",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/lutter-1989-fds/mjrphbpwzd/07.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lutter-1989-fds/mjrphbpwzd/07.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lutter-1989-fds/07.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 921,
+    "filesize_mp3_bytes": 17112755,
+    "filesize_flac_bytes": 54599350,
+    "tracks": 7
+  }
+}

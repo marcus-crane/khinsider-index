@@ -1,0 +1,39 @@
+{
+  "title": "Life & Death II - The Brain",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T00:16:21.862785+00:00",
+  "slug": "life-death-ii-the-brain-ibm-pc-at",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/life-death-ii-the-brain-ibm-pc-at",
+  "platforms": {
+    "IBM PC/AT": "https://downloads.khinsider.com/game-soundtracks/ibm-pc-at"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/life-death-ii-the-brain-ibm-pc-at/Life%20%26%20Death%20II%20-%20The%20Brain.png"
+  ],
+  "year": 1990,
+  "date_added": "2022-05-18T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1080033,
+      "filesize_mp3_bytes": 723517,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 28,
+      "source_mp3": "https://vgmsite.com/soundtracks/life-death-ii-the-brain-ibm-pc-at/ezthszfxyi/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/life-death-ii-the-brain-ibm-pc-at/ezthszfxyi/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/life-death-ii-the-brain-ibm-pc-at/01%2520Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 28,
+    "filesize_mp3_bytes": 723517,
+    "filesize_flac_bytes": 1080033,
+    "tracks": 1
+  }
+}

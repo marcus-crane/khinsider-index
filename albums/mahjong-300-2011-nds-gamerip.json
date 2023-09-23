@@ -1,0 +1,62 @@
+{
+  "title": "Mahjong 300",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T02:06:30.028810+00:00",
+  "slug": "mahjong-300-2011-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mahjong-300-2011-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mahjong-300-2011-nds-gamerip/Mahjong%20300.jpg"
+  ],
+  "year": 2011,
+  "date_added": "2020-06-17T00:00:00+00:00",
+  "developers": {
+    "GSP": "https://downloads.khinsider.com/game-soundtracks/developer/gsp"
+  },
+  "publishers": {
+    "GSP": "https://downloads.khinsider.com/game-soundtracks/publisher/gsp"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2275409,
+      "filesize_mp3_bytes": 891289,
+      "title": "In Game1",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/mahjong-300-2011-nds-gamerip/bcksetyhrr/In%20Game1.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mahjong-300-2011-nds-gamerip/bcksetyhrr/In%20Game1.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mahjong-300-2011-nds-gamerip/In%2520Game1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2873098,
+      "filesize_mp3_bytes": 1163919,
+      "title": "In Game2",
+      "runtime": 77,
+      "source_mp3": "https://vgmsite.com/soundtracks/mahjong-300-2011-nds-gamerip/hioaccrqxn/In%20Game2.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mahjong-300-2011-nds-gamerip/hioaccrqxn/In%20Game2.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mahjong-300-2011-nds-gamerip/In%2520Game2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2548039,
+      "filesize_mp3_bytes": 1195376,
+      "title": "Main",
+      "runtime": 54,
+      "source_mp3": "https://vgmsite.com/soundtracks/mahjong-300-2011-nds-gamerip/ostglbgfja/Main.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mahjong-300-2011-nds-gamerip/ostglbgfja/Main.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mahjong-300-2011-nds-gamerip/Main.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 195,
+    "filesize_mp3_bytes": 3250584,
+    "filesize_flac_bytes": 7696546,
+    "tracks": 3
+  }
+}

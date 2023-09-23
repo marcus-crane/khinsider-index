@@ -1,0 +1,73 @@
+{
+  "title": "Kottou Tokeibako",
+  "titles_alternative": [
+    "\u9aa8\u8463\u6642\u8a08\u7bb1"
+  ],
+  "crawled_at": "2023-09-22T21:57:44.602092+00:00",
+  "slug": "kottou-tokei-bako",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/kottou-tokei-bako",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/kottou-tokei-bako/Cover.jpg"
+  ],
+  "year": 2003,
+  "catalog_number": "KERO-0505-Q",
+  "date_added": "2021-05-31T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "KeroQ": "https://downloads.khinsider.com/game-soundtracks/publisher/keroq"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3481272,
+      "track_number": 1,
+      "title": "Grandfather's clock (trackless version)",
+      "runtime": 87,
+      "source_mp3": "https://vgmsite.com/soundtracks/kottou-tokei-bako/vpgcuovarg/01%20Grandfather%27s%20clock%20%28trackless%20version%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kottou-tokei-bako/01%2520Grandfather%2527s%2520clock%2520%2528trackless%2520version%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3753902,
+      "track_number": 2,
+      "title": "Grandfather's clock",
+      "runtime": 94,
+      "source_mp3": "https://vgmsite.com/soundtracks/kottou-tokei-bako/midtqccqew/02%20Grandfather%27s%20clock.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kottou-tokei-bako/02%2520Grandfather%2527s%2520clock.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11953766,
+      "track_number": 3,
+      "title": "Computer controlled Remixed by Blasterhead",
+      "runtime": 299,
+      "source_mp3": "https://vgmsite.com/soundtracks/kottou-tokei-bako/baztsntyeb/03%20Computer%20controlled%20Remixed%20by%20Blasterhead.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kottou-tokei-bako/03%2520Computer%2520controlled%2520Remixed%2520by%2520Blasterhead.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 18392023,
+      "track_number": 4,
+      "title": "Extra.",
+      "runtime": 460,
+      "source_mp3": "https://vgmsite.com/soundtracks/kottou-tokei-bako/vjrtkretbt/04%20Extra..mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kottou-tokei-bako/04%2520Extra..mp3"
+    }
+  ],
+  "total": {
+    "runtime": 940,
+    "filesize_mp3_bytes": 37580963,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

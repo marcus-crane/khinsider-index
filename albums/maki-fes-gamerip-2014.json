@@ -1,0 +1,75 @@
+{
+  "title": "Maki Fes!",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T02:25:39.282866+00:00",
+  "slug": "maki-fes-gamerip-2014",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/maki-fes-gamerip-2014",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/maki-fes-gamerip-2014/Maki%20Fes.jpg"
+  ],
+  "year": 2014,
+  "date_added": "2022-08-31T00:00:00+00:00",
+  "developers": {
+    "Grand Cross": "https://downloads.khinsider.com/game-soundtracks/developer/grand-cross"
+  },
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3670016,
+      "title": "BGM01",
+      "runtime": 110,
+      "source_mp3": "https://vgmsite.com/soundtracks/maki-fes-gamerip-2014/enqppvuiaq/BGM01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/maki-fes-gamerip-2014/BGM01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5714739,
+      "title": "BGM02",
+      "runtime": 164,
+      "source_mp3": "https://vgmsite.com/soundtracks/maki-fes-gamerip-2014/nxultayjrh/BGM02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/maki-fes-gamerip-2014/BGM02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3533701,
+      "title": "BGM03",
+      "runtime": 125,
+      "source_mp3": "https://vgmsite.com/soundtracks/maki-fes-gamerip-2014/hudrxfkpes/BGM03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/maki-fes-gamerip-2014/BGM03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3019898,
+      "title": "BGM04",
+      "runtime": 89,
+      "source_mp3": "https://vgmsite.com/soundtracks/maki-fes-gamerip-2014/cemhehnvkr/BGM04.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/maki-fes-gamerip-2014/BGM04.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4949278,
+      "title": "Let's Walk Freely",
+      "runtime": 148,
+      "source_mp3": "https://vgmsite.com/soundtracks/maki-fes-gamerip-2014/rwhuodacds/Let%27s%20Walk%20Freely.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/maki-fes-gamerip-2014/Let%2527s%2520Walk%2520Freely.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 636,
+    "filesize_mp3_bytes": 20887632,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

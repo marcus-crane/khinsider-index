@@ -1,0 +1,72 @@
+{
+  "title": "Many Block",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T02:31:16.531327+00:00",
+  "slug": "many-block-arcade-original-sound-track",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/many-block-arcade-original-sound-track",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/many-block-arcade-original-sound-track/Many%20Block%20%28Arcade%29.png"
+  ],
+  "year": 1991,
+  "date_added": "2021-10-27T00:00:00+00:00",
+  "developers": {
+    "Bee-Oh": "https://downloads.khinsider.com/game-soundtracks/developer/bee-oh"
+  },
+  "publishers": {
+    "Bee-Oh": "https://downloads.khinsider.com/game-soundtracks/publisher/bee-oh"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1908408,
+      "track_number": 1,
+      "title": "Stage Music 1",
+      "runtime": 119,
+      "source_mp3": "https://vgmsite.com/soundtracks/many-block-arcade-original-sound-track/qowdqddfoq/1.%20Stage%20Music%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/many-block-arcade-original-sound-track/1.%2520Stage%2520Music%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1635778,
+      "track_number": 2,
+      "title": "Stage Music 2",
+      "runtime": 102,
+      "source_mp3": "https://vgmsite.com/soundtracks/many-block-arcade-original-sound-track/qltalzinlk/2.%20Stage%20Music%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/many-block-arcade-original-sound-track/2.%2520Stage%2520Music%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 985661,
+      "track_number": 3,
+      "title": "Continue",
+      "runtime": 62,
+      "source_mp3": "https://vgmsite.com/soundtracks/many-block-arcade-original-sound-track/almupxjcdy/3.%20Continue.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/many-block-arcade-original-sound-track/3.%2520Continue.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1069547,
+      "track_number": 4,
+      "title": "Sound Effect Collection",
+      "runtime": 67,
+      "source_mp3": "https://vgmsite.com/soundtracks/many-block-arcade-original-sound-track/pacohiwaxb/4.%20Sound%20Effect%20Collection.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/many-block-arcade-original-sound-track/4.%2520Sound%2520Effect%2520Collection.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 350,
+    "filesize_mp3_bytes": 5599394,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

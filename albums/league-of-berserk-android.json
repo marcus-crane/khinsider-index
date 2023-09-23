@@ -1,0 +1,81 @@
+{
+  "title": "League of Berserk",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T22:45:30.825350+00:00",
+  "slug": "league-of-berserk-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/league-of-berserk-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/league-of-berserk-android/0.jpg"
+  ],
+  "date_added": "2019-03-02T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2170552,
+      "title": "Arena",
+      "runtime": 135,
+      "source_mp3": "https://vgmsite.com/soundtracks/league-of-berserk-android/lbfxijfw/Arena.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/league-of-berserk-android/Arena.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 964689,
+      "title": "Battle",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/league-of-berserk-android/zuqlqune/Battle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/league-of-berserk-android/Battle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3690987,
+      "title": "Infinity",
+      "runtime": 153,
+      "source_mp3": "https://vgmsite.com/soundtracks/league-of-berserk-android/sorzopbn/Infinity.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/league-of-berserk-android/Infinity.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2296381,
+      "title": "Raid",
+      "runtime": 144,
+      "source_mp3": "https://vgmsite.com/soundtracks/league-of-berserk-android/umkmjglj/Raid.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/league-of-berserk-android/Raid.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1331691,
+      "title": "Robby",
+      "runtime": 33,
+      "source_mp3": "https://vgmsite.com/soundtracks/league-of-berserk-android/mpobivcl/Robby.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/league-of-berserk-android/Robby.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1719664,
+      "title": "Training",
+      "runtime": 107,
+      "source_mp3": "https://vgmsite.com/soundtracks/league-of-berserk-android/eihvuhys/Training.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/league-of-berserk-android/Training.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 620,
+    "filesize_mp3_bytes": 12173964,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

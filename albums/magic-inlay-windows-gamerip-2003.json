@@ -1,0 +1,88 @@
+{
+  "title": "Magic Inlay",
+  "titles_alternative": [
+    "Puzzle Inlay World"
+  ],
+  "crawled_at": "2023-09-23T01:52:12.917984+00:00",
+  "slug": "magic-inlay-windows-gamerip-2003",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/magic-inlay-windows-gamerip-2003",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/magic-inlay-windows-gamerip-2003/magic-inlay.jpg"
+  ],
+  "year": 2003,
+  "date_added": "2023-09-19T00:00:00+00:00",
+  "developers": {
+    "Puzzle Lab": "https://downloads.khinsider.com/game-soundtracks/developer/puzzle-lab"
+  },
+  "publishers": {
+    "Big Fish Games": "https://downloads.khinsider.com/game-soundtracks/publisher/big-fish-games",
+    "GameHouse": "https://downloads.khinsider.com/game-soundtracks/publisher/gamehouse",
+    "Nevosoft": "https://downloads.khinsider.com/game-soundtracks/publisher/nevosoft",
+    "RealArcade": "https://downloads.khinsider.com/game-soundtracks/publisher/realarcade",
+    "Reflexive Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/reflexive-entertainment"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3082813,
+      "track_number": 1,
+      "title": "Main Menu",
+      "runtime": 77,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-inlay-windows-gamerip-2003/aibkxidmdj/01.%20Main%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-inlay-windows-gamerip-2003/01.%2520Main%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6155141,
+      "track_number": 2,
+      "title": "Level Theme",
+      "runtime": 154,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-inlay-windows-gamerip-2003/pgcnlgbvbx/02.%20Level%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-inlay-windows-gamerip-2003/02.%2520Level%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1855979,
+      "track_number": 3,
+      "title": "Level Complete",
+      "runtime": 46,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-inlay-windows-gamerip-2003/ctpswvsybj/03.%20Level%20Complete.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-inlay-windows-gamerip-2003/03.%2520Level%2520Complete.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 545259,
+      "track_number": 4,
+      "title": "Level Failed",
+      "runtime": 13,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-inlay-windows-gamerip-2003/mvckddkkjb/04.%20Level%20Failed.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-inlay-windows-gamerip-2003/04.%2520Level%2520Failed.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3082813,
+      "track_number": 5,
+      "title": "Boss",
+      "runtime": 77,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-inlay-windows-gamerip-2003/javrubgmlj/05.%20Boss.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-inlay-windows-gamerip-2003/05.%2520Boss.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 367,
+    "filesize_mp3_bytes": 14722005,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

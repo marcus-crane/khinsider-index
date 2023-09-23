@@ -1,0 +1,54 @@
+{
+  "title": "Lamborghini American Challenge",
+  "titles_alternative": [
+    "Crazy Cars III"
+  ],
+  "crawled_at": "2023-09-22T22:27:08.602753+00:00",
+  "slug": "lamborghini-american-challenge-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/lamborghini-american-challenge-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/lamborghini-american-challenge-amiga/Lamborghini%20American%20Challenge%20%28Amiga%29.jpg"
+  ],
+  "year": 1994,
+  "date_added": "2019-05-13T00:00:00+00:00",
+  "developers": {
+    "Titus": "https://downloads.khinsider.com/game-soundtracks/developer/titus"
+  },
+  "publishers": {
+    "Titus": "https://downloads.khinsider.com/game-soundtracks/publisher/titus"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3575644,
+      "track_number": 1,
+      "title": "Menu Theme",
+      "runtime": 126,
+      "source_mp3": "https://vgmsite.com/soundtracks/lamborghini-american-challenge-amiga/dckalift/01_Menu%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lamborghini-american-challenge-amiga/01_Menu%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5788139,
+      "track_number": 2,
+      "title": "Place Your Bets",
+      "runtime": 202,
+      "source_mp3": "https://vgmsite.com/soundtracks/lamborghini-american-challenge-amiga/slmtlzdp/02_Place%20Your%20Bets.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lamborghini-american-challenge-amiga/02_Place%2520Your%2520Bets.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 328,
+    "filesize_mp3_bytes": 9363783,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

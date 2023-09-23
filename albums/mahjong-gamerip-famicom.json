@@ -1,0 +1,102 @@
+{
+  "title": "Mahjong",
+  "titles_alternative": [
+    "\u9ebb\u96c0"
+  ],
+  "crawled_at": "2023-09-23T02:07:57.574935+00:00",
+  "slug": "mahjong-gamerip-famicom",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mahjong-gamerip-famicom",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "FDS": "https://downloads.khinsider.com/game-soundtracks/famicom-disk-system",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mahjong-gamerip-famicom/M1.jpg"
+  ],
+  "year": 1983,
+  "date_added": "2022-05-18T00:00:00+00:00",
+  "developers": {
+    "Nintendo R&D1": "https://downloads.khinsider.com/game-soundtracks/developer/nintendo-r-d1"
+  },
+  "publishers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 450887,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/mahjong-gamerip-famicom/fqergjmbin/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mahjong-gamerip-famicom/fqergjmbin/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mahjong-gamerip-famicom/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 157286,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 2,
+      "title": "Game Start",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/mahjong-gamerip-famicom/zkhrhyqyyn/02%20Game%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mahjong-gamerip-famicom/zkhrhyqyyn/02%20Game%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mahjong-gamerip-famicom/02%2520Game%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 157286,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 3,
+      "title": "Won Match",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/mahjong-gamerip-famicom/kslmherjct/03%20Won%20Match.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mahjong-gamerip-famicom/kslmherjct/03%20Won%20Match.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mahjong-gamerip-famicom/03%2520Won%2520Match.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 157286,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 4,
+      "title": "Match Set",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/mahjong-gamerip-famicom/slsyohpxlj/04%20Match%20Set.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mahjong-gamerip-famicom/slsyohpxlj/04%20Match%20Set.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mahjong-gamerip-famicom/04%2520Match%2520Set.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 125829,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 5,
+      "title": "Loss Point",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/mahjong-gamerip-famicom/msdgbibedm/05%20Loss%20Point.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mahjong-gamerip-famicom/msdgbibedm/05%20Loss%20Point.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mahjong-gamerip-famicom/05%2520Loss%2520Point.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 125829,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 6,
+      "title": "Turn End",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/mahjong-gamerip-famicom/ztvyymauve/06%20Turn%20End.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mahjong-gamerip-famicom/ztvyymauve/06%20Turn%20End.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mahjong-gamerip-famicom/06%2520Turn%2520End.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 27,
+    "filesize_mp3_bytes": 471856,
+    "filesize_flac_bytes": 1174403,
+    "tracks": 6
+  }
+}

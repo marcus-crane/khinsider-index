@@ -1,0 +1,42 @@
+{
+  "title": "Loony Aviator",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T00:49:03.177409+00:00",
+  "slug": "loony-aviator-ios-gamerip-2009",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/loony-aviator-ios-gamerip-2009",
+  "platforms": {
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/loony-aviator-ios-gamerip-2009/images.jpeg"
+  ],
+  "year": 2009,
+  "date_added": "2023-09-05T00:00:00+00:00",
+  "developers": {
+    "LudiGames": "https://downloads.khinsider.com/game-soundtracks/developer/ludigames"
+  },
+  "publishers": {
+    "Gameloft": "https://downloads.khinsider.com/game-soundtracks/publisher/gameloft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2579496,
+      "track_number": 1,
+      "title": "Kickin' It",
+      "runtime": 129,
+      "source_mp3": "https://vgmsite.com/soundtracks/loony-aviator-ios-gamerip-2009/jcoowjxfak/01.%20Kickin%27%20It.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/loony-aviator-ios-gamerip-2009/01.%2520Kickin%2527%2520It.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 129,
+    "filesize_mp3_bytes": 2579496,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

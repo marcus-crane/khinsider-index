@@ -1,0 +1,64 @@
+{
+  "title": "Knight Lore",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T21:24:16.962293+00:00",
+  "slug": "knight-lore-zx-spectrum",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/knight-lore-zx-spectrum",
+  "platforms": {
+    "Spectrum": "https://downloads.khinsider.com/game-soundtracks/spectrum"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/knight-lore-zx-spectrum/coverart.jpg"
+  ],
+  "year": 1984,
+  "date_added": "2022-01-14T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 251658,
+      "title": "Begin",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/knight-lore-zx-spectrum/ozmsmzivso/Begin.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/knight-lore-zx-spectrum/Begin.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 272629,
+      "title": "End",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/knight-lore-zx-spectrum/zdkgqpaezc/End.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/knight-lore-zx-spectrum/End.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 293601,
+      "title": "Game Over",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/knight-lore-zx-spectrum/ylqpwzwqak/Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/knight-lore-zx-spectrum/Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 450887,
+      "title": "Title",
+      "runtime": 16,
+      "source_mp3": "https://vgmsite.com/soundtracks/knight-lore-zx-spectrum/aehrrbqqao/Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/knight-lore-zx-spectrum/Title.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 29,
+    "filesize_mp3_bytes": 1268775,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

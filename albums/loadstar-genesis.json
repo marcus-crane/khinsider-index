@@ -1,0 +1,67 @@
+{
+  "title": "Loadstar",
+  "titles_alternative": [
+    "Loadstar: The Legend of Tully Bodine"
+  ],
+  "crawled_at": "2023-09-23T00:39:56.870765+00:00",
+  "slug": "loadstar-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/loadstar-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/loadstar-genesis/Loadstar.png"
+  ],
+  "year": 1994,
+  "date_added": "2020-05-23T00:00:00+00:00",
+  "developers": {
+    "Rocket Science Games": "https://downloads.khinsider.com/game-soundtracks/developer/rocket-science-games"
+  },
+  "publishers": {
+    "Rocket Science Games": "https://downloads.khinsider.com/game-soundtracks/publisher/rocket-science-games"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 30733762,
+      "filesize_mp3_bytes": 11460935,
+      "track_number": 1,
+      "title": "Level 1",
+      "runtime": 436,
+      "source_mp3": "https://vgmsite.com/soundtracks/loadstar-genesis/psosbszfkq/01%20-%20Level%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/loadstar-genesis/psosbszfkq/01%20-%20Level%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/loadstar-genesis/01%2520-%2520Level%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 17752391,
+      "filesize_mp3_bytes": 7056916,
+      "track_number": 2,
+      "title": "Level 2",
+      "runtime": 315,
+      "source_mp3": "https://vgmsite.com/soundtracks/loadstar-genesis/quiwijrdfd/02%20-%20Level%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/loadstar-genesis/quiwijrdfd/02%20-%20Level%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/loadstar-genesis/02%2520-%2520Level%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 40789606,
+      "filesize_mp3_bytes": 14973665,
+      "track_number": 3,
+      "title": "Level 3",
+      "runtime": 429,
+      "source_mp3": "https://vgmsite.com/soundtracks/loadstar-genesis/cslcvjxyjf/03%20-%20Level%203.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/loadstar-genesis/cslcvjxyjf/03%20-%20Level%203.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/loadstar-genesis/03%2520-%2520Level%25203.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1180,
+    "filesize_mp3_bytes": 33491516,
+    "filesize_flac_bytes": 89275759,
+    "tracks": 3
+  }
+}

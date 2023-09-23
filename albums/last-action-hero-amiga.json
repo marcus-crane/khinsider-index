@@ -1,0 +1,102 @@
+{
+  "title": "Last Action Hero",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T22:34:00.642829+00:00",
+  "slug": "last-action-hero-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/last-action-hero-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/last-action-hero-amiga/L1.png"
+  ],
+  "year": 1993,
+  "date_added": "2015-03-05T00:00:00+00:00",
+  "developers": {
+    "The Dome": "https://downloads.khinsider.com/game-soundtracks/developer/the-dome"
+  },
+  "publishers": {
+    "Psygnosis": "https://downloads.khinsider.com/game-soundtracks/publisher/psygnosis"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6480199,
+      "track_number": 1,
+      "title": "Ingame 1",
+      "runtime": 198,
+      "source_mp3": "https://vgmsite.com/soundtracks/last-action-hero-amiga/flqtvfgw/01_Ingame%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/last-action-hero-amiga/01_Ingame%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8493465,
+      "track_number": 2,
+      "title": "Ingame 2",
+      "runtime": 263,
+      "source_mp3": "https://vgmsite.com/soundtracks/last-action-hero-amiga/jgkmpcky/02_Ingame%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/last-action-hero-amiga/02_Ingame%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11765022,
+      "track_number": 3,
+      "title": "Ingame 3",
+      "runtime": 353,
+      "source_mp3": "https://vgmsite.com/soundtracks/last-action-hero-amiga/vicnbdin/03_Ingame%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/last-action-hero-amiga/03_Ingame%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8021606,
+      "track_number": 4,
+      "title": "Ingame 4",
+      "runtime": 242,
+      "source_mp3": "https://vgmsite.com/soundtracks/last-action-hero-amiga/fkbjkdyc/04_Ingame%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/last-action-hero-amiga/04_Ingame%25204.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7203717,
+      "track_number": 5,
+      "title": "Ingame 5",
+      "runtime": 220,
+      "source_mp3": "https://vgmsite.com/soundtracks/last-action-hero-amiga/fbncnmpa/05_Ingame%205.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/last-action-hero-amiga/05_Ingame%25205.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9028239,
+      "track_number": 6,
+      "title": "Ingame 6",
+      "runtime": 266,
+      "source_mp3": "https://vgmsite.com/soundtracks/last-action-hero-amiga/mmkidenw/06_Ingame%206.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/last-action-hero-amiga/06_Ingame%25206.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8524922,
+      "track_number": 7,
+      "title": "New Baddie",
+      "runtime": 261,
+      "source_mp3": "https://vgmsite.com/soundtracks/last-action-hero-amiga/gosdprpz/07_New%20Baddie.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/last-action-hero-amiga/07_New%2520Baddie.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1803,
+    "filesize_mp3_bytes": 59517170,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Maple Story Village (Joycity Corp)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T02:31:46.912162+00:00",
+  "slug": "maple-story-village-joycity-corp-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/maple-story-village-joycity-corp-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/maple-story-village-joycity-corp-android/1.jpeg"
+  ],
+  "date_added": "2017-03-14T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 471859,
+      "title": "festival",
+      "runtime": 15,
+      "source_mp3": "https://vgmsite.com/soundtracks/maple-story-village-joycity-corp-android/nzjagpcj/festival.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/maple-story-village-joycity-corp-android/festival.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2432696,
+      "title": "mainvillage",
+      "runtime": 152,
+      "source_mp3": "https://vgmsite.com/soundtracks/maple-story-village-joycity-corp-android/rvixaypc/mainvillage.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/maple-story-village-joycity-corp-android/mainvillage.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1342177,
+      "title": "store",
+      "runtime": 135,
+      "source_mp3": "https://vgmsite.com/soundtracks/maple-story-village-joycity-corp-android/nddghloz/store.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/maple-story-village-joycity-corp-android/store.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 302,
+    "filesize_mp3_bytes": 4246732,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

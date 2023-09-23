@@ -1,0 +1,72 @@
+{
+  "title": "Lan Master",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T22:27:55.543147+00:00",
+  "slug": "lan-master-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/lan-master-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/lan-master-nes/Lan%20Master.png"
+  ],
+  "year": 2011,
+  "date_added": "2022-02-11T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6679429,
+      "filesize_mp3_bytes": 3219128,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 149,
+      "source_mp3": "https://vgmsite.com/soundtracks/lan-master-nes/ydxpvbopvi/01%20Title.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lan-master-nes/ydxpvbopvi/01%20Title.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lan-master-nes/01%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20132659,
+      "filesize_mp3_bytes": 11125391,
+      "track_number": 2,
+      "title": "Gameplay",
+      "runtime": 484,
+      "source_mp3": "https://vgmsite.com/soundtracks/lan-master-nes/eidrdqpdmn/02%20Gameplay.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lan-master-nes/eidrdqpdmn/02%20Gameplay.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lan-master-nes/02%2520Gameplay.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4907335,
+      "filesize_mp3_bytes": 2369781,
+      "track_number": 3,
+      "title": "Done",
+      "runtime": 112,
+      "source_mp3": "https://vgmsite.com/soundtracks/lan-master-nes/hqmoeuaqjx/03%20Done.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lan-master-nes/hqmoeuaqjx/03%20Done.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lan-master-nes/03%2520Done.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 220200,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 4,
+      "title": "Timeout",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/lan-master-nes/qgupxpawvj/04%20Timeout.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lan-master-nes/qgupxpawvj/04%20Timeout.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lan-master-nes/04%2520Timeout.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 751,
+    "filesize_mp3_bytes": 16861100,
+    "filesize_flac_bytes": 31939623,
+    "tracks": 4
+  }
+}

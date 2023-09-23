@@ -1,0 +1,76 @@
+{
+  "title": "Konami's Ping Pong",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T21:47:03.792741+00:00",
+  "slug": "konami-s-ping-pong-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/konami-s-ping-pong-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/konami-s-ping-pong-arcade/Konami%27s%20Ping%20Pong.png"
+  ],
+  "year": 1985,
+  "date_added": "2022-05-05T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami"
+  },
+  "publishers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 283115,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 1,
+      "title": "Game Start",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/konami-s-ping-pong-arcade/lelqrolotm/01%20Game%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/konami-s-ping-pong-arcade/lelqrolotm/01%20Game%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/konami-s-ping-pong-arcade/01%2520Game%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 157286,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 2,
+      "title": "You Win",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/konami-s-ping-pong-arcade/axesucbjmk/02%20You%20Win.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/konami-s-ping-pong-arcade/axesucbjmk/02%20You%20Win.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/konami-s-ping-pong-arcade/02%2520You%2520Win.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 136314,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 3,
+      "title": "Game Over",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/konami-s-ping-pong-arcade/hvprsvcbwl/03%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/konami-s-ping-pong-arcade/hvprsvcbwl/03%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/konami-s-ping-pong-arcade/03%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1184890,
+      "filesize_mp3_bytes": 440401,
+      "track_number": 4,
+      "title": "Name Entry",
+      "runtime": 25,
+      "source_mp3": "https://vgmsite.com/soundtracks/konami-s-ping-pong-arcade/weqtrctail/04%20Name%20Entry.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/konami-s-ping-pong-arcade/weqtrctail/04%20Name%20Entry.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/konami-s-ping-pong-arcade/04%2520Name%2520Entry.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 36,
+    "filesize_mp3_bytes": 639628,
+    "filesize_flac_bytes": 1761605,
+    "tracks": 4
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "title": "The Last V8",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T22:40:15.393111+00:00",
+  "slug": "last-v8-the-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/last-v8-the-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/last-v8-the-commodore-64/Last%20V8%2C%20The.jpg"
+  ],
+  "year": 1985,
+  "date_added": "2016-11-14T00:00:00+00:00",
+  "developers": {
+    "Mastertronic AD": "https://downloads.khinsider.com/game-soundtracks/developer/mastertronic-ad"
+  },
+  "publishers": {
+    "Mastertronic AD": "https://downloads.khinsider.com/game-soundtracks/publisher/mastertronic-ad"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 272629,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 15,
+      "source_mp3": "https://vgmsite.com/soundtracks/last-v8-the-commodore-64/fgzewvmt/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/last-v8-the-commodore-64/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2694840,
+      "track_number": 2,
+      "title": "In-Game BGM",
+      "runtime": 141,
+      "source_mp3": "https://vgmsite.com/soundtracks/last-v8-the-commodore-64/vndxsjqt/02_In-Game%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/last-v8-the-commodore-64/02_In-Game%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 199229,
+      "track_number": 3,
+      "title": "Victory!",
+      "runtime": 12,
+      "source_mp3": "https://vgmsite.com/soundtracks/last-v8-the-commodore-64/ygssrhgi/03_Victory%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/last-v8-the-commodore-64/03_Victory%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 461373,
+      "track_number": 4,
+      "title": "Title Screen (SID Stereo)",
+      "runtime": 15,
+      "source_mp3": "https://vgmsite.com/soundtracks/last-v8-the-commodore-64/mvjcbeto/04_Title%20Screen%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/last-v8-the-commodore-64/04_Title%2520Screen%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4833935,
+      "track_number": 5,
+      "title": "In-Game BGM (SID Stereo)",
+      "runtime": 151,
+      "source_mp3": "https://vgmsite.com/soundtracks/last-v8-the-commodore-64/yrmiaatc/05_In-Game%20BGM%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/last-v8-the-commodore-64/05_In-Game%2520BGM%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 387973,
+      "track_number": 6,
+      "title": "Victory! (SID Stereo)",
+      "runtime": 12,
+      "source_mp3": "https://vgmsite.com/soundtracks/last-v8-the-commodore-64/ecneufrz/06_Victory%21%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/last-v8-the-commodore-64/06_Victory%2521%2520%2528SID%2520Stereo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 346,
+    "filesize_mp3_bytes": 8849979,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

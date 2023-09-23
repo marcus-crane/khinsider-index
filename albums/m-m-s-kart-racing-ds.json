@@ -1,0 +1,86 @@
+{
+  "title": "M&M's Kart Racing",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T01:31:08.418575+00:00",
+  "slug": "m-m-s-kart-racing-ds",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/m-m-s-kart-racing-ds",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/m-m-s-kart-racing-ds/M1.jpg"
+  ],
+  "year": 2008,
+  "date_added": "2020-11-01T00:00:00+00:00",
+  "developers": {
+    "Frontline": "https://downloads.khinsider.com/game-soundtracks/developer/frontline"
+  },
+  "publishers": {
+    "DSI": "https://downloads.khinsider.com/game-soundtracks/publisher/dsi"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5725224,
+      "title": "Alien Craft",
+      "runtime": 143,
+      "source_mp3": "https://vgmsite.com/soundtracks/m-m-s-kart-racing-ds/jelzpeuujx/Alien%20Craft.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/m-m-s-kart-racing-ds/Alien%2520Craft.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5274337,
+      "title": "Alien HQ",
+      "runtime": 132,
+      "source_mp3": "https://vgmsite.com/soundtracks/m-m-s-kart-racing-ds/jdfqtgxlkm/Alien%20HQ.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/m-m-s-kart-racing-ds/Alien%2520HQ.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5662310,
+      "title": "Arctic",
+      "runtime": 141,
+      "source_mp3": "https://vgmsite.com/soundtracks/m-m-s-kart-racing-ds/cugyooxiwn/Arctic.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/m-m-s-kart-racing-ds/Arctic.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5064622,
+      "title": "Factory",
+      "runtime": 127,
+      "source_mp3": "https://vgmsite.com/soundtracks/m-m-s-kart-racing-ds/nbnvlunjlm/Factory.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/m-m-s-kart-racing-ds/Factory.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5578424,
+      "title": "Forest",
+      "runtime": 139,
+      "source_mp3": "https://vgmsite.com/soundtracks/m-m-s-kart-racing-ds/jummingpgf/Forest.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/m-m-s-kart-racing-ds/Forest.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2348810,
+      "title": "Main Menu",
+      "runtime": 59,
+      "source_mp3": "https://vgmsite.com/soundtracks/m-m-s-kart-racing-ds/bxeyncuwhh/Main%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/m-m-s-kart-racing-ds/Main%2520Menu.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 741,
+    "filesize_mp3_bytes": 29653727,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

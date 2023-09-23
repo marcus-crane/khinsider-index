@@ -1,0 +1,68 @@
+{
+  "title": "Magic Jewelry (Unlicensed)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T01:52:19.819466+00:00",
+  "slug": "magic-jewelry-nes-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/magic-jewelry-nes-gamerip",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/magic-jewelry-nes-gamerip/MJ1.png"
+  ],
+  "year": 1990,
+  "date_added": "2017-04-22T00:00:00+00:00",
+  "developers": {
+    "Hwang Shinwei": "https://downloads.khinsider.com/game-soundtracks/developer/hwang-shinwei"
+  },
+  "publishers": {
+    "RCM": "https://downloads.khinsider.com/game-soundtracks/publisher/rcm"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2715811,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-jewelry-nes-gamerip/ghxjdnum/Track%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-jewelry-nes-gamerip/Track%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2757754,
+      "title": "Track 2",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-jewelry-nes-gamerip/tvoglpaq/Track%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-jewelry-nes-gamerip/Track%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2852126,
+      "title": "Track 3",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-jewelry-nes-gamerip/ixwnqila/Track%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-jewelry-nes-gamerip/Track%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3051356,
+      "title": "Track 4",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-jewelry-nes-gamerip/grobruen/Track%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-jewelry-nes-gamerip/Track%25204.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 720,
+    "filesize_mp3_bytes": 11377047,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

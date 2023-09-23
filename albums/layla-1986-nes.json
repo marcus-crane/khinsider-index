@@ -1,0 +1,112 @@
+{
+  "title": "Layla",
+  "titles_alternative": [
+    "\u30ec\u30a4\u30e9"
+  ],
+  "crawled_at": "2023-09-22T22:42:19.869992+00:00",
+  "slug": "layla-1986-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/layla-1986-nes",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/layla-1986-nes/Layla%20%281986%29%20%28NES%29.jpg"
+  ],
+  "year": 1986,
+  "date_added": "2022-05-12T00:00:00+00:00",
+  "developers": {
+    "dB-Soft": "https://downloads.khinsider.com/game-soundtracks/developer/db-soft"
+  },
+  "publishers": {
+    "DB Soft": "https://downloads.khinsider.com/game-soundtracks/publisher/db-soft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11492392,
+      "filesize_mp3_bytes": 3565158,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/layla-1986-nes/ytdbjwpdjn/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/layla-1986-nes/ytdbjwpdjn/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/layla-1986-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11167334,
+      "filesize_mp3_bytes": 3774873,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/layla-1986-nes/tblqtiuysi/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/layla-1986-nes/tblqtiuysi/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/layla-1986-nes/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10160701,
+      "filesize_mp3_bytes": 3460300,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/layla-1986-nes/yhkyoubkvo/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/layla-1986-nes/yhkyoubkvo/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/layla-1986-nes/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10276044,
+      "filesize_mp3_bytes": 4057989,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/layla-1986-nes/kypojjphbb/04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/layla-1986-nes/kypojjphbb/04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/layla-1986-nes/04.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10747904,
+      "filesize_mp3_bytes": 3544186,
+      "track_number": 5,
+      "title": "Track 5",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/layla-1986-nes/lyewyxpnbn/05.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/layla-1986-nes/lyewyxpnbn/05.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/layla-1986-nes/05.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11146362,
+      "filesize_mp3_bytes": 4016046,
+      "track_number": 6,
+      "title": "Track 6",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/layla-1986-nes/wfvuknfcdf/06.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/layla-1986-nes/wfvuknfcdf/06.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/layla-1986-nes/06.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11177820,
+      "filesize_mp3_bytes": 4099932,
+      "track_number": 7,
+      "title": "Track 7",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/layla-1986-nes/xdruhznofy/07.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/layla-1986-nes/xdruhznofy/07.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/layla-1986-nes/07.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1260,
+    "filesize_mp3_bytes": 26518484,
+    "filesize_flac_bytes": 76168557,
+    "tracks": 7
+  }
+}

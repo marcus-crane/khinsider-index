@@ -1,0 +1,71 @@
+{
+  "title": "Infinite Love / GRANRODEO",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-22T21:35:30.048533+00:00",
+  "slug": "koi-suru-ten",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/koi-suru-ten",
+  "platforms": {
+    "Anime": "https://downloads.khinsider.com/game-soundtracks/anime"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/koi-suru-ten/booklet-01.jpg"
+  ],
+  "year": 2006,
+  "catalog_number": "LACM-4275",
+  "date_added": "2006-11-22T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Lantis": "https://downloads.khinsider.com/game-soundtracks/publisher/lantis"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9898557,
+      "track_number": 1,
+      "title": "infinite love",
+      "runtime": 247,
+      "source_mp3": "https://vgmsite.com/soundtracks/koi-suru-ten/dvxsawks/01%20-%20infinite%20love.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/koi-suru-ten/01%2520-%2520infinite%2520love.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 14963179,
+      "track_number": 2,
+      "title": "murasaki honoo",
+      "runtime": 374,
+      "source_mp3": "https://vgmsite.com/soundtracks/koi-suru-ten/grvjhfld/02%20-%20murasaki%20honoo.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/koi-suru-ten/02%2520-%2520murasaki%2520honoo.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9898557,
+      "track_number": 3,
+      "title": "infinite love (off vocal)",
+      "runtime": 247,
+      "source_mp3": "https://vgmsite.com/soundtracks/koi-suru-ten/symfjnfq/03%20-%20infinite%20love%20%28off%20vocal%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/koi-suru-ten/03%2520-%2520infinite%2520love%2520%2528off%2520vocal%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 14837350,
+      "track_number": 4,
+      "title": "murasaki honoo (off vocal)",
+      "runtime": 371,
+      "source_mp3": "https://vgmsite.com/soundtracks/koi-suru-ten/zpsemums/04%20-%20murasaki%20honoo%20%28off%20vocal%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/koi-suru-ten/04%2520-%2520murasaki%2520honoo%2520%2528off%2520vocal%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1239,
+    "filesize_mp3_bytes": 49597643,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

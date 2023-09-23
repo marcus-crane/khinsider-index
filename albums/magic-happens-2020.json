@@ -1,0 +1,81 @@
+{
+  "title": "Magic Happens",
+  "titles_alternative": [
+    "Magic Happens - Disneyland Parade"
+  ],
+  "crawled_at": "2023-09-23T01:52:10.996408+00:00",
+  "slug": "magic-happens-2020",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/magic-happens-2020",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/magic-happens-2020/Magic%20Happens%20Album%20Cover.jpg"
+  ],
+  "year": 2020,
+  "date_added": "2023-05-12T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Disney": "https://downloads.khinsider.com/game-soundtracks/publisher/disney",
+    "Todrick Hall": "https://downloads.khinsider.com/game-soundtracks/publisher/todrick-hall"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4697620,
+      "track_number": 1,
+      "title": "A Swirl of Magic - Mickey Mouse Opening Unit",
+      "runtime": 152,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-happens-2020/ybvphzwqyl/01.%20A%20Swirl%20of%20Magic%20-%20Mickey%20Mouse%20Opening%20Unit.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-happens-2020/01.%2520A%2520Swirl%2520of%2520Magic%2520-%2520Mickey%2520Mouse%2520Opening%2520Unit.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3544186,
+      "track_number": 2,
+      "title": "A Wave of Magic - Moana Unit",
+      "runtime": 110,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-happens-2020/tgmbcqixtj/02.%20A%20Wave%20of%20Magic%20-%20Moana%20Unit.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-happens-2020/02.%2520A%2520Wave%2520of%2520Magic%2520-%2520Moana%2520Unit.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3533701,
+      "track_number": 3,
+      "title": "A Bridge to Magic - Coco Unit",
+      "runtime": 110,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-happens-2020/yngxnzqplg/03.%20A%20Bridge%20to%20Magic%20-%20Coco%20Unit.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-happens-2020/03.%2520A%2520Bridge%2520to%2520Magic%2520-%2520Coco%2520Unit.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3512729,
+      "track_number": 4,
+      "title": "A Magical Forest - Frozen II Unit",
+      "runtime": 110,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-happens-2020/dvxapvblhj/04.%20A%20Magical%20Forest%20-%20Frozen%20II%20Unit.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-happens-2020/04.%2520A%2520Magical%2520Forest%2520-%2520Frozen%2520II%2520Unit.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3323985,
+      "track_number": 5,
+      "title": "A Magical Dream - Grand Finale Unit",
+      "runtime": 104,
+      "source_mp3": "https://vgmsite.com/soundtracks/magic-happens-2020/bflqpysplf/05.%20A%20Magical%20Dream%20-%20Grand%20Finale%20Unit.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magic-happens-2020/05.%2520A%2520Magical%2520Dream%2520-%2520Grand%2520Finale%2520Unit.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 586,
+    "filesize_mp3_bytes": 18612221,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

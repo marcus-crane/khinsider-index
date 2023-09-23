@@ -1,0 +1,78 @@
+{
+  "title": "Kuruma de DS",
+  "titles_alternative": [
+    "\u30af\u30eb\u30de\u3067DS"
+  ],
+  "crawled_at": "2023-09-22T22:12:06.190918+00:00",
+  "slug": "kuruma-de-ds-2012-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/kuruma-de-ds-2012-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/kuruma-de-ds-2012-nds-gamerip/Kuruma%20de%20DS.jpg"
+  ],
+  "year": 2012,
+  "date_added": "2020-06-15T00:00:00+00:00",
+  "developers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/developer/nintendo"
+  },
+  "publishers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11104419,
+      "filesize_mp3_bytes": 4487905,
+      "track_number": 1,
+      "title": "BGM Title1",
+      "runtime": 136,
+      "source_mp3": "https://vgmsite.com/soundtracks/kuruma-de-ds-2012-nds-gamerip/povygxkwti/01%20-%20BGM%20Title1.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kuruma-de-ds-2012-nds-gamerip/povygxkwti/01%20-%20BGM%20Title1.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kuruma-de-ds-2012-nds-gamerip/01%2520-%2520BGM%2520Title1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4278190,
+      "filesize_mp3_bytes": 2086666,
+      "track_number": 2,
+      "title": "BGM Omoide",
+      "runtime": 73,
+      "source_mp3": "https://vgmsite.com/soundtracks/kuruma-de-ds-2012-nds-gamerip/iiqomaeebp/02%20-%20BGM%20Omoide.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kuruma-de-ds-2012-nds-gamerip/iiqomaeebp/02%20-%20BGM%20Omoide.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kuruma-de-ds-2012-nds-gamerip/02%2520-%2520BGM%2520Omoide.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7455375,
+      "filesize_mp3_bytes": 3722444,
+      "track_number": 3,
+      "title": "BGM Cmnt1",
+      "runtime": 150,
+      "source_mp3": "https://vgmsite.com/soundtracks/kuruma-de-ds-2012-nds-gamerip/pdoervfiuf/03%20-%20BGM%20Cmnt1.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kuruma-de-ds-2012-nds-gamerip/pdoervfiuf/03%20-%20BGM%20Cmnt1.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kuruma-de-ds-2012-nds-gamerip/03%2520-%2520BGM%2520Cmnt1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 744488,
+      "filesize_mp3_bytes": 199229,
+      "track_number": 4,
+      "title": "Fanfare",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/kuruma-de-ds-2012-nds-gamerip/yeyfdvbfqv/04%20-%20Fanfare.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/kuruma-de-ds-2012-nds-gamerip/yeyfdvbfqv/04%20-%20Fanfare.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kuruma-de-ds-2012-nds-gamerip/04%2520-%2520Fanfare.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 366,
+    "filesize_mp3_bytes": 10496244,
+    "filesize_flac_bytes": 23582472,
+    "tracks": 4
+  }
+}

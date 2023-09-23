@@ -1,0 +1,78 @@
+{
+  "title": "Magical Mathematics (Unlicensed)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T01:58:33.411435+00:00",
+  "slug": "magical-mathematics-1990-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/magical-mathematics-1990-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/magical-mathematics-1990-nes/Magical%20Mathematics.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2022-05-16T00:00:00+00:00",
+  "developers": {
+    "Sachen": "https://downloads.khinsider.com/game-soundtracks/developer/sachen",
+    "Thin Chen": "https://downloads.khinsider.com/game-soundtracks/developer/thin-chen"
+  },
+  "publishers": {
+    "Sachen": "https://downloads.khinsider.com/game-soundtracks/publisher/sachen",
+    "Thin Chen": "https://downloads.khinsider.com/game-soundtracks/publisher/thin-chen"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1205862,
+      "filesize_mp3_bytes": 387973,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 21,
+      "source_mp3": "https://vgmsite.com/soundtracks/magical-mathematics-1990-nes/orfjjyfmjx/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/magical-mathematics-1990-nes/orfjjyfmjx/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magical-mathematics-1990-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 136314,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/magical-mathematics-1990-nes/bmnvtausho/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/magical-mathematics-1990-nes/bmnvtausho/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magical-mathematics-1990-nes/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 241172,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/magical-mathematics-1990-nes/nmcjzvygca/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/magical-mathematics-1990-nes/nmcjzvygca/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magical-mathematics-1990-nes/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 283115,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/magical-mathematics-1990-nes/yoitvmrqch/04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/magical-mathematics-1990-nes/yoitvmrqch/04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magical-mathematics-1990-nes/04.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 34,
+    "filesize_mp3_bytes": 608173,
+    "filesize_flac_bytes": 1866463,
+    "tracks": 4
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Loot Dungeon - Pixel Rogue (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T00:49:33.913173+00:00",
+  "slug": "loot-dungeon-pixel-rogue-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/loot-dungeon-pixel-rogue-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/loot-dungeon-pixel-rogue-android-game-music/1.jpeg"
+  ],
+  "date_added": "2016-10-26T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3470786,
+      "title": "game",
+      "runtime": 217,
+      "source_mp3": "https://vgmsite.com/soundtracks/loot-dungeon-pixel-rogue-android-game-music/knyslzvc/game.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/loot-dungeon-pixel-rogue-android-game-music/game.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 461373,
+      "title": "surface",
+      "runtime": 58,
+      "source_mp3": "https://vgmsite.com/soundtracks/loot-dungeon-pixel-rogue-android-game-music/eqfnjorf/surface.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/loot-dungeon-pixel-rogue-android-game-music/surface.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 275,
+    "filesize_mp3_bytes": 3932159,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}
