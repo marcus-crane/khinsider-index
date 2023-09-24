@@ -1,0 +1,87 @@
+{
+  "title": "Sally's Salon",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T08:57:38.688944+00:00",
+  "slug": "sally-s-salon-2008-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/sally-s-salon-2008-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/sally-s-salon-2008-nds-gamerip/Sally%27s%20Salon.jpg"
+  ],
+  "year": 2008,
+  "date_added": "2020-06-23T00:00:00+00:00",
+  "developers": {
+    "Games Cafe": "https://downloads.khinsider.com/game-soundtracks/developer/games-cafe"
+  },
+  "publishers": {
+    "RealArcade": "https://downloads.khinsider.com/game-soundtracks/publisher/realarcade"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6333399,
+      "filesize_mp3_bytes": 2338324,
+      "track_number": 1,
+      "title": "Theme",
+      "runtime": 86,
+      "source_mp3": "https://vgmsite.com/soundtracks/sally-s-salon-2008-nds-gamerip/wstatwzdjs/01%20-%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sally-s-salon-2008-nds-gamerip/wstatwzdjs/01%20-%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sally-s-salon-2008-nds-gamerip/01%2520-%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 12970885,
+      "filesize_mp3_bytes": 4708106,
+      "track_number": 2,
+      "title": "In Game1",
+      "runtime": 196,
+      "source_mp3": "https://vgmsite.com/soundtracks/sally-s-salon-2008-nds-gamerip/iytqmpulpk/02%20-%20In%20Game1.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sally-s-salon-2008-nds-gamerip/iytqmpulpk/02%20-%20In%20Game1.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sally-s-salon-2008-nds-gamerip/02%2520-%2520In%2520Game1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5064622,
+      "filesize_mp3_bytes": 2023751,
+      "track_number": 3,
+      "title": "Shop Music",
+      "runtime": 87,
+      "source_mp3": "https://vgmsite.com/soundtracks/sally-s-salon-2008-nds-gamerip/qenzbxwlkm/03%20-%20Shop%20Music.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sally-s-salon-2008-nds-gamerip/qenzbxwlkm/03%20-%20Shop%20Music.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sally-s-salon-2008-nds-gamerip/03%2520-%2520Shop%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4057989,
+      "filesize_mp3_bytes": 1520435,
+      "track_number": 4,
+      "title": "World Map",
+      "runtime": 57,
+      "source_mp3": "https://vgmsite.com/soundtracks/sally-s-salon-2008-nds-gamerip/qhfkznautr/04%20-%20World%20Map.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sally-s-salon-2008-nds-gamerip/qhfkznautr/04%20-%20World%20Map.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sally-s-salon-2008-nds-gamerip/04%2520-%2520World%2520Map.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11775508,
+      "filesize_mp3_bytes": 4561305,
+      "track_number": 5,
+      "title": "In Game2",
+      "runtime": 155,
+      "source_mp3": "https://vgmsite.com/soundtracks/sally-s-salon-2008-nds-gamerip/luewgnfhmi/05%20-%20In%20Game2.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sally-s-salon-2008-nds-gamerip/luewgnfhmi/05%20-%20In%20Game2.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sally-s-salon-2008-nds-gamerip/05%2520-%2520In%2520Game2.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 581,
+    "filesize_mp3_bytes": 15151921,
+    "filesize_flac_bytes": 40202403,
+    "tracks": 5
+  }
+}

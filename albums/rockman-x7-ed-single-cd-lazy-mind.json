@@ -1,0 +1,64 @@
+{
+  "title": "Rockman X7 ED Single CD Lazy Mind",
+  "titles_alternative": [
+    "Lazy Mind / Showtaro Morikubo",
+    "Lazy Mind / \u68ee\u4e45\u4fdd\u7965\u592a\u90ce"
+  ],
+  "crawled_at": "2023-09-24T07:37:11.475175+00:00",
+  "slug": "rockman-x7-ed-single-cd-lazy-mind",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/rockman-x7-ed-single-cd-lazy-mind",
+  "platforms": {
+    "PS2": "https://downloads.khinsider.com/game-soundtracks/playstation-2"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/rockman-x7-ed-single-cd-lazy-mind/Rockman%20X7%20ED%20Single%20CD%20Lazy%20Mind.png"
+  ],
+  "year": 2003,
+  "catalog_number": "CPDA-1022",
+  "date_added": "2006-11-24T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Suleputer": "https://downloads.khinsider.com/game-soundtracks/publisher/suleputer"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7811891,
+      "track_number": 1,
+      "title": "Lazy Mind",
+      "runtime": 248,
+      "source_mp3": "https://vgmsite.com/soundtracks/rockman-x7-ed-single-cd-lazy-mind/jwjtaxro/01%20Lazy%20Mind.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rockman-x7-ed-single-cd-lazy-mind/01%2520Lazy%2520Mind.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7843348,
+      "track_number": 2,
+      "title": "Lazy Mind Original Karaoke",
+      "runtime": 248,
+      "source_mp3": "https://vgmsite.com/soundtracks/rockman-x7-ed-single-cd-lazy-mind/wumzhnzc/02%20Lazy%20Mind%20Original%20Karaoke%20.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rockman-x7-ed-single-cd-lazy-mind/02%2520Lazy%2520Mind%2520Original%2520Karaoke%2520.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3135242,
+      "track_number": 3,
+      "title": "Rockman X Voice Collection",
+      "runtime": 129,
+      "source_mp3": "https://vgmsite.com/soundtracks/rockman-x7-ed-single-cd-lazy-mind/aynwwfqb/03%20Rockman%20X%20Voice%20Collection.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rockman-x7-ed-single-cd-lazy-mind/03%2520Rockman%2520X%2520Voice%2520Collection.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 625,
+    "filesize_mp3_bytes": 18790481,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

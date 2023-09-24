@@ -1,0 +1,65 @@
+{
+  "title": "SCD BIOS (Mega CD)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T09:34:56.884931+00:00",
+  "slug": "scd-bios-mega-cd",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/scd-bios-mega-cd",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/scd-bios-mega-cd/Sega%20CD%20BIOS.png"
+  ],
+  "year": 1991,
+  "date_added": "2022-06-04T00:00:00+00:00",
+  "developers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7539261,
+      "filesize_mp3_bytes": 1835008,
+      "track_number": 1,
+      "title": "Japanese - European BIOS",
+      "runtime": 77,
+      "source_mp3": "https://vgmsite.com/soundtracks/scd-bios-mega-cd/aygdqfboac/01%20-%20Japanese%20-%20European%20BIOS.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/scd-bios-mega-cd/aygdqfboac/01%20-%20Japanese%20-%20European%20BIOS.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/scd-bios-mega-cd/01%2520-%2520Japanese%2520-%2520European%2520BIOS.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5211422,
+      "filesize_mp3_bytes": 1803550,
+      "track_number": 2,
+      "title": "American BIOS Version 1",
+      "runtime": 90,
+      "source_mp3": "https://vgmsite.com/soundtracks/scd-bios-mega-cd/ldqcejjewg/02%20-%20American%20BIOS%20Version%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/scd-bios-mega-cd/ldqcejjewg/02%20-%20American%20BIOS%20Version%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/scd-bios-mega-cd/02%2520-%2520American%2520BIOS%2520Version%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4299161,
+      "filesize_mp3_bytes": 1698693,
+      "track_number": 3,
+      "title": "American BIOS Version 2",
+      "runtime": 75,
+      "source_mp3": "https://vgmsite.com/soundtracks/scd-bios-mega-cd/yopdmzcmbj/03%20-%20American%20BIOS%20Version%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/scd-bios-mega-cd/yopdmzcmbj/03%20-%20American%20BIOS%20Version%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/scd-bios-mega-cd/03%2520-%2520American%2520BIOS%2520Version%25202.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 242,
+    "filesize_mp3_bytes": 5337251,
+    "filesize_flac_bytes": 17049844,
+    "tracks": 3
+  }
+}

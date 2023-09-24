@@ -1,0 +1,76 @@
+{
+  "title": "Safari Hunt",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T08:42:13.370665+00:00",
+  "slug": "safari-hunt-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/safari-hunt-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/safari-hunt-master-system/Safari%20Hunt.png"
+  ],
+  "year": 1986,
+  "date_added": "2020-07-21T00:00:00+00:00",
+  "developers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2086666,
+      "filesize_mp3_bytes": 1038090,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 66,
+      "source_mp3": "https://vgmsite.com/soundtracks/safari-hunt-master-system/apspdcqyni/01%20-%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/safari-hunt-master-system/apspdcqyni/01%20-%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/safari-hunt-master-system/01%2520-%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 325058,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 2,
+      "title": "Game Start",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/safari-hunt-master-system/sofrgvguip/02%20-%20Game%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/safari-hunt-master-system/sofrgvguip/02%20-%20Game%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/safari-hunt-master-system/02%2520-%2520Game%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 398458,
+      "filesize_mp3_bytes": 167772,
+      "track_number": 3,
+      "title": "Next Round",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/safari-hunt-master-system/vndippvqif/03%20-%20Next%20Round.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/safari-hunt-master-system/vndippvqif/03%20-%20Next%20Round.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/safari-hunt-master-system/03%2520-%2520Next%2520Round.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 534773,
+      "filesize_mp3_bytes": 178257,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/safari-hunt-master-system/guvnjnogwk/04%20-%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/safari-hunt-master-system/guvnjnogwk/04%20-%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/safari-hunt-master-system/04%2520-%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 91,
+    "filesize_mp3_bytes": 1499462,
+    "filesize_flac_bytes": 3344955,
+    "tracks": 4
+  }
+}

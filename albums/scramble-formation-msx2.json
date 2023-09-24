@@ -1,0 +1,79 @@
+{
+  "title": "Scramble Formation",
+  "titles_alternative": [
+    "Tokio",
+    "\u30b9\u30af\u30e9\u30f3\u30d6\u30eb \u30d5\u30a9\u30fc\u30e1\u30fc\u30b7\u30e7\u30f3"
+  ],
+  "crawled_at": "2023-09-24T09:41:48.671281+00:00",
+  "slug": "scramble-formation-msx2",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/scramble-formation-msx2",
+  "platforms": {
+    "MSX2": "https://downloads.khinsider.com/game-soundtracks/msx2"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/scramble-formation-msx2/S1.jpg"
+  ],
+  "year": 1987,
+  "date_added": "2022-06-04T00:00:00+00:00",
+  "developers": {
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/developer/taito"
+  },
+  "publishers": {
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/publisher/taito"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 146800,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 1,
+      "title": "Coin",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/scramble-formation-msx2/bmsmxsnnzo/01%20Coin.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/scramble-formation-msx2/bmsmxsnnzo/01%20Coin.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/scramble-formation-msx2/01%2520Coin.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4613734,
+      "filesize_mp3_bytes": 1918894,
+      "track_number": 2,
+      "title": "Start ~ Main BGM",
+      "runtime": 85,
+      "source_mp3": "https://vgmsite.com/soundtracks/scramble-formation-msx2/yzlptfrpmu/02%20Start%20~%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/scramble-formation-msx2/yzlptfrpmu/02%20Start%20~%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/scramble-formation-msx2/02%2520Start%2520~%2520Main%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3114270,
+      "filesize_mp3_bytes": 1163919,
+      "track_number": 3,
+      "title": "Boss BGM",
+      "runtime": 50,
+      "source_mp3": "https://vgmsite.com/soundtracks/scramble-formation-msx2/hlrnoknspp/03%20Boss%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/scramble-formation-msx2/hlrnoknspp/03%20Boss%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/scramble-formation-msx2/03%2520Boss%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 325058,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/scramble-formation-msx2/hydotiqjmn/04%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/scramble-formation-msx2/hydotiqjmn/04%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/scramble-formation-msx2/04%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 144,
+    "filesize_mp3_bytes": 3282042,
+    "filesize_flac_bytes": 8199862,
+    "tracks": 4
+  }
+}

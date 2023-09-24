@@ -1,0 +1,84 @@
+{
+  "title": "RC Daredevil",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T07:04:19.040343+00:00",
+  "slug": "rc-daredevil-windows-gamerip-2001",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/rc-daredevil-windows-gamerip-2001",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/rc-daredevil-windows-gamerip-2001/Image.jpg"
+  ],
+  "year": 2001,
+  "date_added": "2023-09-24T00:00:00+00:00",
+  "developers": {
+    "Sunstorm Interactive": "https://downloads.khinsider.com/game-soundtracks/developer/sunstorm-interactive"
+  },
+  "publishers": {
+    "ARUSH Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/arush-entertainment",
+    "eGames": "https://downloads.khinsider.com/game-soundtracks/publisher/egames",
+    "Green Label": "https://downloads.khinsider.com/game-soundtracks/publisher/green-label"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 440401,
+      "track_number": 1,
+      "title": "Airrace loop",
+      "runtime": 35,
+      "source_mp3": "https://vgmsite.com/soundtracks/rc-daredevil-windows-gamerip-2001/rsrrofcsbe/01.%20Airrace%20loop.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rc-daredevil-windows-gamerip-2001/01.%2520Airrace%2520loop.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 450887,
+      "track_number": 2,
+      "title": "Balloon loop",
+      "runtime": 34,
+      "source_mp3": "https://vgmsite.com/soundtracks/rc-daredevil-windows-gamerip-2001/dozsqxlqyo/02.%20Balloon%20loop.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rc-daredevil-windows-gamerip-2001/02.%2520Balloon%2520loop.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 377487,
+      "track_number": 3,
+      "title": "Dogfight loop",
+      "runtime": 29,
+      "source_mp3": "https://vgmsite.com/soundtracks/rc-daredevil-windows-gamerip-2001/qmxllxuoee/03.%20Dogfight%20loop.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rc-daredevil-windows-gamerip-2001/03.%2520Dogfight%2520loop.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 723517,
+      "track_number": 4,
+      "title": "Graboid loop",
+      "runtime": 56,
+      "source_mp3": "https://vgmsite.com/soundtracks/rc-daredevil-windows-gamerip-2001/onoujzxfvj/04.%20Graboid%20loop.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rc-daredevil-windows-gamerip-2001/04.%2520Graboid%2520loop.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 293601,
+      "track_number": 5,
+      "title": "Menu loop",
+      "runtime": 22,
+      "source_mp3": "https://vgmsite.com/soundtracks/rc-daredevil-windows-gamerip-2001/buobzdnecj/05.%20Menu%20loop.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rc-daredevil-windows-gamerip-2001/05.%2520Menu%2520loop.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 176,
+    "filesize_mp3_bytes": 2285893,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

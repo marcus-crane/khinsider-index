@@ -1,0 +1,60 @@
+{
+  "title": "Shanghai Kid",
+  "titles_alternative": [
+    "Hokuha Syourin Hiry\u016b no Ken",
+    "\u5317\u6d3e\u5c11\u6797 \u98db\u9f8d\u306e\u62f3"
+  ],
+  "crawled_at": "2023-09-24T11:11:02.948055+00:00",
+  "slug": "shanghai-kid-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/shanghai-kid-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/shanghai-kid-arcade/Hokuha%20Shorin%20-%20Hiryu%20no%20Ken.png"
+  ],
+  "year": 1985,
+  "date_added": "2022-06-04T00:00:00+00:00",
+  "developers": {
+    "Nihon Game": "https://downloads.khinsider.com/game-soundtracks/developer/nihon-game"
+  },
+  "publishers": {
+    "Data East": "https://downloads.khinsider.com/game-soundtracks/publisher/data-east",
+    "Kitcorp": "https://downloads.khinsider.com/game-soundtracks/publisher/kitcorp",
+    "Memetron": "https://downloads.khinsider.com/game-soundtracks/publisher/memetron",
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/publisher/taito"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2002780,
+      "filesize_mp3_bytes": 796917,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 42,
+      "source_mp3": "https://vgmsite.com/soundtracks/shanghai-kid-arcade/rdqhrjaeqj/01%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shanghai-kid-arcade/rdqhrjaeqj/01%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shanghai-kid-arcade/01%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 828375,
+      "filesize_mp3_bytes": 618659,
+      "track_number": 2,
+      "title": "Fighting Theme",
+      "runtime": 25,
+      "source_mp3": "https://vgmsite.com/soundtracks/shanghai-kid-arcade/gjqimijtai/02%20Fighting%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shanghai-kid-arcade/gjqimijtai/02%20Fighting%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shanghai-kid-arcade/02%2520Fighting%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 67,
+    "filesize_mp3_bytes": 1415576,
+    "filesize_flac_bytes": 2831155,
+    "tracks": 2
+  }
+}

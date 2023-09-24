@@ -1,0 +1,126 @@
+{
+  "title": "Shanghai 2 (PCECD)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T11:10:30.601908+00:00",
+  "slug": "shanghai-2-pcecd",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/shanghai-2-pcecd",
+  "platforms": {
+    "TurboGrafx-16": "https://downloads.khinsider.com/game-soundtracks/turbografx-16"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/shanghai-2-pcecd/coverart.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2016-08-21T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1111490,
+      "track_number": 1,
+      "title": "Opening",
+      "runtime": 37,
+      "source_mp3": "https://vgmsite.com/soundtracks/shanghai-2-pcecd/mvzbdzbm/01-Opening.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shanghai-2-pcecd/01-Opening.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 482344,
+      "track_number": 2,
+      "title": "Game Start",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/shanghai-2-pcecd/kfvsgjrk/02-Game%20Start.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shanghai-2-pcecd/02-Game%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5158993,
+      "track_number": 3,
+      "title": "BGM1",
+      "runtime": 198,
+      "source_mp3": "https://vgmsite.com/soundtracks/shanghai-2-pcecd/jwywqnue/03-BGM1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shanghai-2-pcecd/03-BGM1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5997854,
+      "track_number": 4,
+      "title": "BGM2",
+      "runtime": 217,
+      "source_mp3": "https://vgmsite.com/soundtracks/shanghai-2-pcecd/nogqohof/04-BGM2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shanghai-2-pcecd/04-BGM2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5242880,
+      "track_number": 5,
+      "title": "BGM3",
+      "runtime": 213,
+      "source_mp3": "https://vgmsite.com/soundtracks/shanghai-2-pcecd/ddbzfqpm/05-BGM3.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shanghai-2-pcecd/05-BGM3.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 471859,
+      "track_number": 6,
+      "title": "Stage Clear",
+      "runtime": 12,
+      "source_mp3": "https://vgmsite.com/soundtracks/shanghai-2-pcecd/xijnnzkn/06-Stage%20Clear.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shanghai-2-pcecd/06-Stage%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2002780,
+      "track_number": 7,
+      "title": "Clear Demo",
+      "runtime": 76,
+      "source_mp3": "https://vgmsite.com/soundtracks/shanghai-2-pcecd/fmoafemx/07-Clear%20Demo.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shanghai-2-pcecd/07-Clear%2520Demo.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 838860,
+      "track_number": 8,
+      "title": "Continue",
+      "runtime": 25,
+      "source_mp3": "https://vgmsite.com/soundtracks/shanghai-2-pcecd/xeqfjehe/08-Continue.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shanghai-2-pcecd/08-Continue.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 419430,
+      "track_number": 9,
+      "title": "Game Over",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/shanghai-2-pcecd/emvvqunx/09-Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shanghai-2-pcecd/09-Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1268776,
+      "track_number": 10,
+      "title": "Name Entry",
+      "runtime": 39,
+      "source_mp3": "https://vgmsite.com/soundtracks/shanghai-2-pcecd/gwcbpgsl/10-Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shanghai-2-pcecd/10-Name%2520Entry.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 837,
+    "filesize_mp3_bytes": 22995266,
+    "filesize_flac_bytes": 0,
+    "tracks": 10
+  }
+}

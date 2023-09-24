@@ -1,0 +1,56 @@
+{
+  "title": "Shinobi",
+  "titles_alternative": [
+    "\u5fcd"
+  ],
+  "crawled_at": "2023-09-24T12:01:51.200530+00:00",
+  "slug": "shinobi-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/shinobi-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/shinobi-commodore-64/S1.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2019-04-22T00:00:00+00:00",
+  "developers": {
+    "Team Shinobi": "https://downloads.khinsider.com/game-soundtracks/developer/team-shinobi"
+  },
+  "publishers": {
+    "Mastertronic": "https://downloads.khinsider.com/game-soundtracks/publisher/mastertronic",
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega",
+    "Virgin": "https://downloads.khinsider.com/game-soundtracks/publisher/virgin"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1572864,
+      "track_number": 1,
+      "title": "BGM 1 (Title Screen)",
+      "runtime": 83,
+      "source_mp3": "https://vgmsite.com/soundtracks/shinobi-commodore-64/trugceod/01_BGM%201%20%28Title%20Screen%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shinobi-commodore-64/01_BGM%25201%2520%2528Title%2520Screen%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2736783,
+      "track_number": 2,
+      "title": "BGM 1 (Title Screen) (SID Stereo)",
+      "runtime": 83,
+      "source_mp3": "https://vgmsite.com/soundtracks/shinobi-commodore-64/eanxhzmk/02_BGM%201%20%28Title%20Screen%29%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shinobi-commodore-64/02_BGM%25201%2520%2528Title%2520Screen%2529%2520%2528SID%2520Stereo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 166,
+    "filesize_mp3_bytes": 4309647,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

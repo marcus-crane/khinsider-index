@@ -1,0 +1,91 @@
+{
+  "title": "RPM Racing",
+  "titles_alternative": [
+    "Radical Psycho Machine Racing",
+    "R.P.M.\u30ec\u30fc\u30b7\u30f3\u30b0"
+  ],
+  "crawled_at": "2023-09-24T08:10:14.230970+00:00",
+  "slug": "rpm-racing-1991-snes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/rpm-racing-1991-snes",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/rpm-racing-1991-snes/R1.png"
+  ],
+  "year": 1991,
+  "date_added": "2019-08-20T00:00:00+00:00",
+  "developers": {
+    "Silicon & Synapse": "https://downloads.khinsider.com/game-soundtracks/developer/silicon-synapse"
+  },
+  "publishers": {
+    "Interplay": "https://downloads.khinsider.com/game-soundtracks/publisher/interplay",
+    "Victor": "https://downloads.khinsider.com/game-soundtracks/publisher/victor"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3061841,
+      "filesize_mp3_bytes": 2149580,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 116,
+      "source_mp3": "https://vgmsite.com/soundtracks/rpm-racing-1991-snes/tqsumldxut/01%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rpm-racing-1991-snes/tqsumldxut/01%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rpm-racing-1991-snes/01%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4047503,
+      "filesize_mp3_bytes": 3208642,
+      "track_number": 2,
+      "title": "Race Music 1",
+      "runtime": 172,
+      "source_mp3": "https://vgmsite.com/soundtracks/rpm-racing-1991-snes/druichzdxb/02%20Race%20Music%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rpm-racing-1991-snes/druichzdxb/02%20Race%20Music%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rpm-racing-1991-snes/02%2520Race%2520Music%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3365928,
+      "filesize_mp3_bytes": 2569011,
+      "track_number": 3,
+      "title": "Race Music 2",
+      "runtime": 135,
+      "source_mp3": "https://vgmsite.com/soundtracks/rpm-racing-1991-snes/auvmwrwiiu/03%20Race%20Music%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rpm-racing-1991-snes/auvmwrwiiu/03%20Race%20Music%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rpm-racing-1991-snes/03%2520Race%2520Music%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4320133,
+      "filesize_mp3_bytes": 3439329,
+      "track_number": 4,
+      "title": "Race Music 3",
+      "runtime": 178,
+      "source_mp3": "https://vgmsite.com/soundtracks/rpm-racing-1991-snes/xlwwhucnlf/04%20Race%20Music%203.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rpm-racing-1991-snes/xlwwhucnlf/04%20Race%20Music%203.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rpm-racing-1991-snes/04%2520Race%2520Music%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1677721,
+      "filesize_mp3_bytes": 1405091,
+      "track_number": 5,
+      "title": "Staff Roll",
+      "runtime": 76,
+      "source_mp3": "https://vgmsite.com/soundtracks/rpm-racing-1991-snes/wwsxwnhglf/05%20Staff%20Roll.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rpm-racing-1991-snes/wwsxwnhglf/05%20Staff%20Roll.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rpm-racing-1991-snes/05%2520Staff%2520Roll.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 677,
+    "filesize_mp3_bytes": 12771653,
+    "filesize_flac_bytes": 16473126,
+    "tracks": 5
+  }
+}

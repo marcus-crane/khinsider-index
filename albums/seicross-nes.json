@@ -1,0 +1,114 @@
+{
+  "title": "Seicross",
+  "titles_alternative": [
+    "Sector Zone",
+    "\u30bb\u30af\u30ed\u30b9"
+  ],
+  "crawled_at": "2023-09-24T10:32:32.762863+00:00",
+  "slug": "seicross-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/seicross-nes",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/seicross-nes/163640-seicross-nes-front-cover.jpg"
+  ],
+  "year": 1986,
+  "date_added": "2022-06-15T00:00:00+00:00",
+  "developers": {
+    "Nichibutsu": "https://downloads.khinsider.com/game-soundtracks/developer/nichibutsu"
+  },
+  "publishers": {
+    "FCI": "https://downloads.khinsider.com/game-soundtracks/publisher/fci",
+    "Nichibutsu": "https://downloads.khinsider.com/game-soundtracks/publisher/nichibutsu"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 178257,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 1,
+      "title": "Start",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/seicross-nes/xotamvzmxd/01%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/seicross-nes/xotamvzmxd/01%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/seicross-nes/01%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3732930,
+      "filesize_mp3_bytes": 1300234,
+      "track_number": 2,
+      "title": "BGM 1",
+      "runtime": 68,
+      "source_mp3": "https://vgmsite.com/soundtracks/seicross-nes/ehweczfhzj/02%20BGM%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/seicross-nes/ehweczfhzj/02%20BGM%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/seicross-nes/02%2520BGM%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 503316,
+      "filesize_mp3_bytes": 188743,
+      "track_number": 3,
+      "title": "Stage Clear",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/seicross-nes/jspgwvblxl/03%20Stage%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/seicross-nes/jspgwvblxl/03%20Stage%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/seicross-nes/03%2520Stage%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4917821,
+      "filesize_mp3_bytes": 2222981,
+      "track_number": 4,
+      "title": "BGM 2",
+      "runtime": 95,
+      "source_mp3": "https://vgmsite.com/soundtracks/seicross-nes/xkiatmgsdc/04%20BGM%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/seicross-nes/xkiatmgsdc/04%20BGM%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/seicross-nes/04%2520BGM%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 157286,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 5,
+      "title": "Extend",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/seicross-nes/fciohgoccl/05%20Extend.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/seicross-nes/fciohgoccl/05%20Extend.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/seicross-nes/05%2520Extend.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 157286,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 6,
+      "title": "Miss",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/seicross-nes/wykekzkqgn/06%20Miss.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/seicross-nes/wykekzkqgn/06%20Miss.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/seicross-nes/06%2520Miss.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 262144,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 7,
+      "title": "Game Over",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/seicross-nes/gjwuctifje/07%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/seicross-nes/gjwuctifje/07%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/seicross-nes/07%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 191,
+    "filesize_mp3_bytes": 4005558,
+    "filesize_flac_bytes": 9909040,
+    "tracks": 7
+  }
+}

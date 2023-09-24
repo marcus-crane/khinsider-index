@@ -1,0 +1,66 @@
+{
+  "title": "Scramble",
+  "titles_alternative": [
+    "\u30b9\u30af\u30e9\u30f3\u30d6\u30eb"
+  ],
+  "crawled_at": "2023-09-24T09:41:47.306934+00:00",
+  "slug": "scramble-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/scramble-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/scramble-arcade/SC1.jpg"
+  ],
+  "year": 1981,
+  "date_added": "2022-06-01T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami"
+  },
+  "publishers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami",
+    "Leijac": "https://downloads.khinsider.com/game-soundtracks/publisher/leijac",
+    "Stern": "https://downloads.khinsider.com/game-soundtracks/publisher/stern"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 146800,
+      "filesize_mp3_bytes": 83886,
+      "title": "Scramble - 01 - Start",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/scramble-arcade/binqlvwctm/Scramble%20-%2001%20-%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/scramble-arcade/binqlvwctm/Scramble%20-%2001%20-%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/scramble-arcade/Scramble%2520-%252001%2520-%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 115343,
+      "filesize_mp3_bytes": 62914,
+      "title": "Scramble - 02 - Unused Music 1",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/scramble-arcade/pzmesqagef/Scramble%20-%2002%20-%20Unused%20Music%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/scramble-arcade/pzmesqagef/Scramble%20-%2002%20-%20Unused%20Music%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/scramble-arcade/Scramble%2520-%252002%2520-%2520Unused%2520Music%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 125829,
+      "filesize_mp3_bytes": 73400,
+      "title": "Scramble - 03 - Unused Music 2",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/scramble-arcade/xuxucpbynv/Scramble%20-%2003%20-%20Unused%20Music%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/scramble-arcade/xuxucpbynv/Scramble%20-%2003%20-%20Unused%20Music%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/scramble-arcade/Scramble%2520-%252003%2520-%2520Unused%2520Music%25202.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 12,
+    "filesize_mp3_bytes": 220200,
+    "filesize_flac_bytes": 387972,
+    "tracks": 3
+  }
+}

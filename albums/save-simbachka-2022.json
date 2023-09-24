@@ -1,0 +1,43 @@
+{
+  "title": "Save Simbachka",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T09:31:30.978013+00:00",
+  "slug": "save-simbachka-2022",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/save-simbachka-2022",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/save-simbachka-2022/unnamed.png"
+  ],
+  "year": 2022,
+  "date_added": "2023-06-28T00:00:00+00:00",
+  "developers": {
+    "Pimpochka Games": "https://downloads.khinsider.com/game-soundtracks/developer/pimpochka-games"
+  },
+  "publishers": {
+    "Pimpochka Games": "https://downloads.khinsider.com/game-soundtracks/publisher/pimpochka-games"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3481272,
+      "track_number": 1,
+      "title": "Save Simbachka OST",
+      "runtime": 87,
+      "source_mp3": "https://vgmsite.com/soundtracks/save-simbachka-2022/lewnoegdmy/01.%20Save%20Simbachka%20OST.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/save-simbachka-2022/01.%2520Save%2520Simbachka%2520OST.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 87,
+    "filesize_mp3_bytes": 3481272,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

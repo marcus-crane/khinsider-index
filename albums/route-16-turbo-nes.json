@@ -1,0 +1,112 @@
+{
+  "title": "Route 16 Turbo",
+  "titles_alternative": [
+    "\u30eb\u30fc\u30c816\u30bf\u30fc\u30dc"
+  ],
+  "crawled_at": "2023-09-24T08:05:34.715504+00:00",
+  "slug": "route-16-turbo-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/route-16-turbo-nes",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/route-16-turbo-nes/296018-route-16-turbo-nes-front-cover.jpg"
+  ],
+  "year": 1985,
+  "date_added": "2022-06-18T00:00:00+00:00",
+  "developers": {
+    "Sunsoft": "https://downloads.khinsider.com/game-soundtracks/developer/sunsoft"
+  },
+  "publishers": {
+    "Sunsoft": "https://downloads.khinsider.com/game-soundtracks/publisher/sunsoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 681574,
+      "filesize_mp3_bytes": 209715,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 12,
+      "source_mp3": "https://vgmsite.com/soundtracks/route-16-turbo-nes/nvvvgvzbyy/01%20Title.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/route-16-turbo-nes/nvvvgvzbyy/01%20Title.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/route-16-turbo-nes/01%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2569011,
+      "filesize_mp3_bytes": 1153433,
+      "track_number": 2,
+      "title": "Easy",
+      "runtime": 53,
+      "source_mp3": "https://vgmsite.com/soundtracks/route-16-turbo-nes/wnzdcrbnrx/02%20Easy.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/route-16-turbo-nes/wnzdcrbnrx/02%20Easy.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/route-16-turbo-nes/02%2520Easy.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2736783,
+      "filesize_mp3_bytes": 1132462,
+      "track_number": 3,
+      "title": "Normal",
+      "runtime": 53,
+      "source_mp3": "https://vgmsite.com/soundtracks/route-16-turbo-nes/xaryohjelj/03%20Normal.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/route-16-turbo-nes/xaryohjelj/03%20Normal.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/route-16-turbo-nes/03%2520Normal.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1394606,
+      "filesize_mp3_bytes": 597688,
+      "track_number": 4,
+      "title": "Difficult",
+      "runtime": 29,
+      "source_mp3": "https://vgmsite.com/soundtracks/route-16-turbo-nes/bqkjqeggqe/04%20Difficult.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/route-16-turbo-nes/bqkjqeggqe/04%20Difficult.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/route-16-turbo-nes/04%2520Difficult.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 178257,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 5,
+      "title": "Clear 1",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/route-16-turbo-nes/xpazrmwuny/05%20Clear%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/route-16-turbo-nes/xpazrmwuny/05%20Clear%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/route-16-turbo-nes/05%2520Clear%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 136314,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 6,
+      "title": "Clear 2",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/route-16-turbo-nes/owzsenvjzj/06%20Clear%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/route-16-turbo-nes/owzsenvjzj/06%20Clear%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/route-16-turbo-nes/06%2520Clear%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 576716,
+      "filesize_mp3_bytes": 220200,
+      "track_number": 7,
+      "title": "Game Over",
+      "runtime": 13,
+      "source_mp3": "https://vgmsite.com/soundtracks/route-16-turbo-nes/ixkclyamlb/07%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/route-16-turbo-nes/ixkclyamlb/07%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/route-16-turbo-nes/07%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 168,
+    "filesize_mp3_bytes": 3428840,
+    "filesize_flac_bytes": 8273261,
+    "tracks": 7
+  }
+}

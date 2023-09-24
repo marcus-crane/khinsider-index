@@ -1,0 +1,95 @@
+{
+  "title": "Roadsters Trophy",
+  "titles_alternative": [
+    "Roadsters 64 (Console Based Name)",
+    "Roadsters (European & General Name)"
+  ],
+  "crawled_at": "2023-09-24T07:12:39.450973+00:00",
+  "slug": "roadsters-trophy",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/roadsters-trophy",
+  "platforms": {
+    "N64": "https://downloads.khinsider.com/game-soundtracks/nintendo-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/roadsters-trophy/Roadsters64.jpg"
+  ],
+  "year": 1999,
+  "date_added": "2018-07-14T00:00:00+00:00",
+  "developers": {
+    "Titus": "https://downloads.khinsider.com/game-soundtracks/developer/titus"
+  },
+  "publishers": {
+    "Titus": "https://downloads.khinsider.com/game-soundtracks/publisher/titus"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 346030,
+      "track_number": 1,
+      "title": "Menu",
+      "runtime": 24,
+      "source_mp3": "https://vgmsite.com/soundtracks/roadsters-trophy/eizhtbbi/001%20-%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/roadsters-trophy/001%2520-%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1887436,
+      "track_number": 2,
+      "title": "Rocket Base - Temple",
+      "runtime": 131,
+      "source_mp3": "https://vgmsite.com/soundtracks/roadsters-trophy/qbaryffo/002%20-%20Rocket%20Base%20-%20Temple.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/roadsters-trophy/002%2520-%2520Rocket%2520Base%2520-%2520Temple.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3261071,
+      "track_number": 3,
+      "title": "Ski Resort - Lumber Mill",
+      "runtime": 214,
+      "source_mp3": "https://vgmsite.com/soundtracks/roadsters-trophy/cijjnqmd/003%20-%20Ski%20Resort%20-%20Lumber%20Mill.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/roadsters-trophy/003%2520-%2520Ski%2520Resort%2520-%2520Lumber%2520Mill.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2873098,
+      "track_number": 4,
+      "title": "'Area 51' - Oilfields",
+      "runtime": 192,
+      "source_mp3": "https://vgmsite.com/soundtracks/roadsters-trophy/dyjffgvi/004%20-%20%27Area%2051%27%20-%20Oilfields.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/roadsters-trophy/004%2520-%2520%2527Area%252051%2527%2520-%2520Oilfields.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2894069,
+      "track_number": 5,
+      "title": "Tudor Village - Chateau",
+      "runtime": 194,
+      "source_mp3": "https://vgmsite.com/soundtracks/roadsters-trophy/aeiftkyc/005%20-%20Tudor%20Village%20-%20Chateau.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/roadsters-trophy/005%2520-%2520Tudor%2520Village%2520-%2520Chateau.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2380267,
+      "track_number": 6,
+      "title": "Docklands - Titus Park",
+      "runtime": 163,
+      "source_mp3": "https://vgmsite.com/soundtracks/roadsters-trophy/vteudwsv/006%20-%20Docklands%20-%20Titus%20Park.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/roadsters-trophy/006%2520-%2520Docklands%2520-%2520Titus%2520Park.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 918,
+    "filesize_mp3_bytes": 13641971,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "title": "Shox",
+  "titles_alternative": [
+    "Shox: Rally Reinvented",
+    "Rally Shox",
+    "\u30e9\u30ea\u30fc\u30b7\u30e7\u30c3\u30af\u30b9"
+  ],
+  "crawled_at": "2023-09-24T12:17:18.577364+00:00",
+  "slug": "shox-rally-shox-2002-ps2",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/shox-rally-shox-2002-ps2",
+  "platforms": {
+    "PS2": "https://downloads.khinsider.com/game-soundtracks/playstation-2"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/shox-rally-shox-2002-ps2/Shox%20%28Rally%20Shox%29.png"
+  ],
+  "year": 2002,
+  "date_added": "2021-05-15T00:00:00+00:00",
+  "developers": {
+    "EA UK": "https://downloads.khinsider.com/game-soundtracks/developer/ea-uk"
+  },
+  "publishers": {
+    "EA Sports BIG": "https://downloads.khinsider.com/game-soundtracks/publisher/ea-sports-big"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 41072721,
+      "filesize_mp3_bytes": 10475274,
+      "title": "Desert 01",
+      "runtime": 325,
+      "source_mp3": "https://vgmsite.com/soundtracks/shox-rally-shox-2002-ps2/wrlhsgerww/Desert%2001.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shox-rally-shox-2002-ps2/wrlhsgerww/Desert%2001.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shox-rally-shox-2002-ps2/Desert%252001.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 39195770,
+      "filesize_mp3_bytes": 10506731,
+      "title": "Desert 02",
+      "runtime": 325,
+      "source_mp3": "https://vgmsite.com/soundtracks/shox-rally-shox-2002-ps2/dgvlwnrasw/Desert%2002.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shox-rally-shox-2002-ps2/dgvlwnrasw/Desert%2002.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shox-rally-shox-2002-ps2/Desert%252002.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 43631247,
+      "filesize_mp3_bytes": 11177820,
+      "title": "Jungle 01",
+      "runtime": 356,
+      "source_mp3": "https://vgmsite.com/soundtracks/shox-rally-shox-2002-ps2/mmokrmemhq/Jungle%2001.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shox-rally-shox-2002-ps2/mmokrmemhq/Jungle%2001.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shox-rally-shox-2002-ps2/Jungle%252001.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 35704012,
+      "filesize_mp3_bytes": 9342812,
+      "title": "Snow 01",
+      "runtime": 287,
+      "source_mp3": "https://vgmsite.com/soundtracks/shox-rally-shox-2002-ps2/etqpfadusl/Snow%2001.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shox-rally-shox-2002-ps2/etqpfadusl/Snow%2001.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shox-rally-shox-2002-ps2/Snow%252001.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 26612858,
+      "filesize_mp3_bytes": 7256145,
+      "title": "Snow 02",
+      "runtime": 219,
+      "source_mp3": "https://vgmsite.com/soundtracks/shox-rally-shox-2002-ps2/qajcetvjev/Snow%2002.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shox-rally-shox-2002-ps2/qajcetvjev/Snow%2002.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shox-rally-shox-2002-ps2/Snow%252002.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1512,
+    "filesize_mp3_bytes": 48758782,
+    "filesize_flac_bytes": 186216608,
+    "tracks": 5
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "title": "River Patrol",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T07:08:25.652746+00:00",
+  "slug": "river-patrol-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/river-patrol-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/river-patrol-arcade/River%20Patrol%20%28Arcade%29.png"
+  ],
+  "year": 1981,
+  "date_added": "2022-05-28T00:00:00+00:00",
+  "developers": {
+    "Orca": "https://downloads.khinsider.com/game-soundtracks/developer/orca"
+  },
+  "publishers": {
+    "Kersten": "https://downloads.khinsider.com/game-soundtracks/publisher/kersten"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2013265,
+      "filesize_mp3_bytes": 985661,
+      "track_number": 1,
+      "title": "Game Start - Main BGM",
+      "runtime": 55,
+      "source_mp3": "https://vgmsite.com/soundtracks/river-patrol-arcade/tfeoypfvjq/01%20Game%20Start%20-%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/river-patrol-arcade/tfeoypfvjq/01%20Game%20Start%20-%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/river-patrol-arcade/01%2520Game%2520Start%2520-%2520Main%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 304087,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 2,
+      "title": "Game Start",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/river-patrol-arcade/yhpigiboqs/02%20Game%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/river-patrol-arcade/yhpigiboqs/02%20Game%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/river-patrol-arcade/02%2520Game%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1226833,
+      "filesize_mp3_bytes": 650117,
+      "track_number": 3,
+      "title": "Main BGM",
+      "runtime": 36,
+      "source_mp3": "https://vgmsite.com/soundtracks/river-patrol-arcade/qsqxwgquad/03%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/river-patrol-arcade/qsqxwgquad/03%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/river-patrol-arcade/03%2520Main%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 304087,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 4,
+      "title": "Round Clear",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/river-patrol-arcade/mfuanwijcv/04%20Round%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/river-patrol-arcade/mfuanwijcv/04%20Round%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/river-patrol-arcade/04%2520Round%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 73400,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 5,
+      "title": "Die by drowning",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/river-patrol-arcade/bwairsuzji/05%20Die%20by%20drowning.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/river-patrol-arcade/bwairsuzji/05%20Die%20by%20drowning.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/river-patrol-arcade/05%2520Die%2520by%2520drowning.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 105,
+    "filesize_mp3_bytes": 1897921,
+    "filesize_flac_bytes": 3921672,
+    "tracks": 5
+  }
+}

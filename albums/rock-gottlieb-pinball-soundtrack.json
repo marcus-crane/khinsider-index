@@ -1,0 +1,92 @@
+{
+  "title": "Rock (Gottlieb Pinball)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T07:19:31.806131+00:00",
+  "slug": "rock-gottlieb-pinball-soundtrack",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/rock-gottlieb-pinball-soundtrack",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/rock-gottlieb-pinball-soundtrack/1978f1.jpg"
+  ],
+  "year": 1985,
+  "date_added": "2020-12-30T00:00:00+00:00",
+  "developers": {
+    "Gottlieb": "https://downloads.khinsider.com/game-soundtracks/developer/gottlieb"
+  },
+  "publishers": {
+    "Gottlieb": "https://downloads.khinsider.com/game-soundtracks/publisher/gottlieb"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 660602,
+      "track_number": 1,
+      "title": "Music 1",
+      "runtime": 16,
+      "source_mp3": "https://vgmsite.com/soundtracks/rock-gottlieb-pinball-soundtrack/xlmanymlse/01%20Music%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rock-gottlieb-pinball-soundtrack/01%2520Music%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 608174,
+      "track_number": 2,
+      "title": "Music 2",
+      "runtime": 15,
+      "source_mp3": "https://vgmsite.com/soundtracks/rock-gottlieb-pinball-soundtrack/bekrepensp/02%20Music%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rock-gottlieb-pinball-soundtrack/02%2520Music%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7130316,
+      "track_number": 3,
+      "title": "Music 3",
+      "runtime": 178,
+      "source_mp3": "https://vgmsite.com/soundtracks/rock-gottlieb-pinball-soundtrack/smadlvhqqy/03%20Music%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rock-gottlieb-pinball-soundtrack/03%2520Music%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 199229,
+      "track_number": 4,
+      "title": "Jingle 1",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/rock-gottlieb-pinball-soundtrack/jomebmcivl/04%20Jingle%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rock-gottlieb-pinball-soundtrack/04%2520Jingle%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 283115,
+      "track_number": 5,
+      "title": "Jingle 2",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/rock-gottlieb-pinball-soundtrack/augtmlbgfd/05%20Jingle%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rock-gottlieb-pinball-soundtrack/05%2520Jingle%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 241172,
+      "track_number": 6,
+      "title": "Jingle 3",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/rock-gottlieb-pinball-soundtrack/zfbhodkisl/06%20Jingle%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rock-gottlieb-pinball-soundtrack/06%2520Jingle%25203.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 226,
+    "filesize_mp3_bytes": 9122608,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

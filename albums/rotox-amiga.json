@@ -1,0 +1,94 @@
+{
+  "title": "Rotox",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T08:05:01.697574+00:00",
+  "slug": "rotox-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/rotox-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/rotox-amiga/Rotox%20Amiga%20back%20cover.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2021-03-13T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 26895974,
+      "filesize_mp3_bytes": 5054136,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 158,
+      "source_mp3": "https://vgmsite.com/soundtracks/rotox-amiga/hlesgwwzdb/1.%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rotox-amiga/hlesgwwzdb/1.%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rotox-amiga/1.%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2600468,
+      "filesize_mp3_bytes": 587202,
+      "track_number": 2,
+      "title": "Startup",
+      "runtime": 23,
+      "source_mp3": "https://vgmsite.com/soundtracks/rotox-amiga/xftmvxqvoo/2.%20Startup.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rotox-amiga/xftmvxqvoo/2.%20Startup.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rotox-amiga/2.%2520Startup.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2600468,
+      "filesize_mp3_bytes": 587202,
+      "track_number": 3,
+      "title": "Startup (unused)",
+      "runtime": 23,
+      "source_mp3": "https://vgmsite.com/soundtracks/rotox-amiga/nhahoyuuew/3.%20Startup%20%28unused%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rotox-amiga/nhahoyuuew/3.%20Startup%20%28unused%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rotox-amiga/3.%2520Startup%2520%2528unused%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 734003,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 4,
+      "title": "Die",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/rotox-amiga/xucnymsctj/4.%20Die.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rotox-amiga/xucnymsctj/4.%20Die.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rotox-amiga/4.%2520Die.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1478492,
+      "filesize_mp3_bytes": 293601,
+      "track_number": 5,
+      "title": "Level End",
+      "runtime": 15,
+      "source_mp3": "https://vgmsite.com/soundtracks/rotox-amiga/chdbbxvblc/5.%20Level%20End.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rotox-amiga/chdbbxvblc/5.%20Level%20End.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rotox-amiga/5.%2520Level%2520End.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 18664652,
+      "filesize_mp3_bytes": 3439329,
+      "track_number": 6,
+      "title": "High Score",
+      "runtime": 108,
+      "source_mp3": "https://vgmsite.com/soundtracks/rotox-amiga/xgumifhjpr/6.%20High%20Score.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rotox-amiga/xgumifhjpr/6.%20High%20Score.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rotox-amiga/6.%2520High%2520Score.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 335,
+    "filesize_mp3_bytes": 10108270,
+    "filesize_flac_bytes": 52974057,
+    "tracks": 6
+  }
+}

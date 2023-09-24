@@ -1,0 +1,58 @@
+{
+  "title": "Route 16",
+  "titles_alternative": [
+    "\u30eb\u30fc\u30c816"
+  ],
+  "crawled_at": "2023-09-24T08:05:33.628124+00:00",
+  "slug": "route-16-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/route-16-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/route-16-arcade/R1.jpg"
+  ],
+  "year": 1981,
+  "date_added": "2023-05-23T00:00:00+00:00",
+  "developers": {
+    "Sun Electronics Corp.": "https://downloads.khinsider.com/game-soundtracks/developer/sun-electronics",
+    "Tehkan": "https://downloads.khinsider.com/game-soundtracks/developer/tehkan"
+  },
+  "publishers": {
+    "Centuri": "https://downloads.khinsider.com/game-soundtracks/publisher/centuri",
+    "Sun Corporation": "https://downloads.khinsider.com/game-soundtracks/publisher/sun-corporation"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 471859,
+      "filesize_mp3_bytes": 251658,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 14,
+      "source_mp3": "https://vgmsite.com/soundtracks/route-16-arcade/eilxeawtke/01%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/route-16-arcade/eilxeawtke/01%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/route-16-arcade/01%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 734003,
+      "filesize_mp3_bytes": 356515,
+      "track_number": 2,
+      "title": "Get the Flag",
+      "runtime": 19,
+      "source_mp3": "https://vgmsite.com/soundtracks/route-16-arcade/dwfnitwubd/02%20Get%20the%20Flag.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/route-16-arcade/dwfnitwubd/02%20Get%20the%20Flag.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/route-16-arcade/02%2520Get%2520the%2520Flag.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 33,
+    "filesize_mp3_bytes": 608173,
+    "filesize_flac_bytes": 1205862,
+    "tracks": 2
+  }
+}

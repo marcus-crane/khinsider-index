@@ -1,0 +1,74 @@
+{
+  "title": "Savage",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T09:30:44.850437+00:00",
+  "slug": "savage-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/savage-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/savage-amiga/Savage.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2016-02-18T00:00:00+00:00",
+  "developers": {
+    "Probe": "https://downloads.khinsider.com/game-soundtracks/developer/probe"
+  },
+  "publishers": {
+    "Firebird": "https://downloads.khinsider.com/game-soundtracks/publisher/firebird",
+    "MicroProse": "https://downloads.khinsider.com/game-soundtracks/publisher/microprose",
+    "U.S. Gold": "https://downloads.khinsider.com/game-soundtracks/publisher/u.s.-gold"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5809111,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 187,
+      "source_mp3": "https://vgmsite.com/soundtracks/savage-amiga/dcjutxge/01_Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/savage-amiga/01_Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6857687,
+      "track_number": 2,
+      "title": "Stage 1",
+      "runtime": 220,
+      "source_mp3": "https://vgmsite.com/soundtracks/savage-amiga/znrzwvfj/02_Stage%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/savage-amiga/02_Stage%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4896849,
+      "track_number": 3,
+      "title": "Stage 2",
+      "runtime": 158,
+      "source_mp3": "https://vgmsite.com/soundtracks/savage-amiga/twuhyxir/03_Stage%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/savage-amiga/03_Stage%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5735710,
+      "track_number": 4,
+      "title": "Stage 3",
+      "runtime": 181,
+      "source_mp3": "https://vgmsite.com/soundtracks/savage-amiga/ofwqrzvk/04_Stage%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/savage-amiga/04_Stage%25203.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 746,
+    "filesize_mp3_bytes": 23299357,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

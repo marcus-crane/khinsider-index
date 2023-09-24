@@ -1,0 +1,72 @@
+{
+  "title": "Rogue Trooper",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T07:45:04.519643+00:00",
+  "slug": "rogue-trooper-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/rogue-trooper-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/rogue-trooper-amiga/RT.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2017-11-12T00:00:00+00:00",
+  "developers": {
+    "Krisalis": "https://downloads.khinsider.com/game-soundtracks/developer/krisalis"
+  },
+  "publishers": {
+    "Krisalis": "https://downloads.khinsider.com/game-soundtracks/publisher/krisalis"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6595543,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 222,
+      "source_mp3": "https://vgmsite.com/soundtracks/rogue-trooper-amiga/raegpmjt/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rogue-trooper-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7707033,
+      "track_number": 2,
+      "title": "In-Game Music",
+      "runtime": 205,
+      "source_mp3": "https://vgmsite.com/soundtracks/rogue-trooper-amiga/lsqpitzm/02_In-Game%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rogue-trooper-amiga/02_In-Game%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4016046,
+      "track_number": 3,
+      "title": "Ending",
+      "runtime": 137,
+      "source_mp3": "https://vgmsite.com/soundtracks/rogue-trooper-amiga/kulzsjln/03_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rogue-trooper-amiga/03_Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1614807,
+      "track_number": 4,
+      "title": "High Score",
+      "runtime": 59,
+      "source_mp3": "https://vgmsite.com/soundtracks/rogue-trooper-amiga/fdltfzlp/04_High%20Score.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rogue-trooper-amiga/04_High%2520Score.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 623,
+    "filesize_mp3_bytes": 19933429,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

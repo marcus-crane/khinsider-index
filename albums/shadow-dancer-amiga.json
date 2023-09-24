@@ -1,0 +1,96 @@
+{
+  "title": "Shadow Dancer",
+  "titles_alternative": [
+    "\u30b7\u30e3\u30c9\u30fc\u30fb\u30c0\u30f3\u30b5\u30fc",
+    "\u5f71\u821e\u8005"
+  ],
+  "crawled_at": "2023-09-24T10:59:51.671559+00:00",
+  "slug": "shadow-dancer-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/shadow-dancer-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/shadow-dancer-amiga/SDA1.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2018-04-21T00:00:00+00:00",
+  "developers": {
+    "Images Software": "https://downloads.khinsider.com/game-soundtracks/developer/images-software",
+    "Team Shinobi": "https://downloads.khinsider.com/game-soundtracks/developer/team-shinobi"
+  },
+  "publishers": {
+    "U.S. Gold": "https://downloads.khinsider.com/game-soundtracks/publisher/u.s.-gold"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2705326,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/shadow-dancer-amiga/xgayezxu/01_Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shadow-dancer-amiga/01_Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2191523,
+      "track_number": 2,
+      "title": "Stage Theme #1",
+      "runtime": 79,
+      "source_mp3": "https://vgmsite.com/soundtracks/shadow-dancer-amiga/ltdpjcqw/02_Stage%20Theme%20%231.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shadow-dancer-amiga/02_Stage%2520Theme%2520%25231.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7067402,
+      "track_number": 3,
+      "title": "Stage Theme #2",
+      "runtime": 232,
+      "source_mp3": "https://vgmsite.com/soundtracks/shadow-dancer-amiga/gomeyuyt/03_Stage%20Theme%20%232.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shadow-dancer-amiga/03_Stage%2520Theme%2520%25232.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5704253,
+      "track_number": 4,
+      "title": "Stage Theme #3",
+      "runtime": 194,
+      "source_mp3": "https://vgmsite.com/soundtracks/shadow-dancer-amiga/aiehpvct/04_Stage%20Theme%20%233.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shadow-dancer-amiga/04_Stage%2520Theme%2520%25233.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6784286,
+      "track_number": 5,
+      "title": "Boss Battle",
+      "runtime": 233,
+      "source_mp3": "https://vgmsite.com/soundtracks/shadow-dancer-amiga/jpznfolv/05_Boss%20Battle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shadow-dancer-amiga/05_Boss%2520Battle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6113198,
+      "track_number": 6,
+      "title": "Bonus Stage",
+      "runtime": 203,
+      "source_mp3": "https://vgmsite.com/soundtracks/shadow-dancer-amiga/soygmdwq/06_Bonus%20Stage.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shadow-dancer-amiga/06_Bonus%2520Stage.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1037,
+    "filesize_mp3_bytes": 30565988,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

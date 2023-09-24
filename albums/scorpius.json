@@ -1,0 +1,215 @@
+{
+  "title": "SCORPIUS SOUNDTRACK",
+  "titles_alternative": [
+    "\u30b9\u30b3\u30eb\u30d4\u30a6\u30b9 \u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af"
+  ],
+  "crawled_at": "2023-09-24T09:39:50.115507+00:00",
+  "slug": "scorpius",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/scorpius",
+  "platforms": {
+    "X68000": "https://downloads.khinsider.com/game-soundtracks/x68000"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/scorpius/Cover.jpg"
+  ],
+  "year": 2013,
+  "catalog_number": "SRIN-1114",
+  "date_added": "2014-11-07T00:00:00+00:00",
+  "developers": {
+    "B-Type": "https://downloads.khinsider.com/game-soundtracks/developer/b-type"
+  },
+  "publishers": {
+    "SuperSweep": "https://downloads.khinsider.com/game-soundtracks/publisher/supersweep"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2170552,
+      "track_number": 1,
+      "title": "Loading",
+      "runtime": 32,
+      "source_mp3": "https://vgmsite.com/soundtracks/scorpius/xcloaayo/01%20Loading.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/scorpius/01%2520Loading.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2705326,
+      "track_number": 2,
+      "title": "Select",
+      "runtime": 42,
+      "source_mp3": "https://vgmsite.com/soundtracks/scorpius/tpyoiovq/02%20Select.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/scorpius/02%2520Select.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5001707,
+      "track_number": 3,
+      "title": "Stage 1",
+      "runtime": 113,
+      "source_mp3": "https://vgmsite.com/soundtracks/scorpius/rkrnpsrl/03%20Stage%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/scorpius/03%2520Stage%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3449815,
+      "track_number": 4,
+      "title": "Stage 1 Boss",
+      "runtime": 67,
+      "source_mp3": "https://vgmsite.com/soundtracks/scorpius/tyuwuxnu/04%20Stage%201%20Boss.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/scorpius/04%2520Stage%25201%2520Boss.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1488977,
+      "track_number": 5,
+      "title": "Stage Clear",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/scorpius/fxqkjccu/05%20Stage%20Clear.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/scorpius/05%2520Stage%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4372561,
+      "track_number": 6,
+      "title": "Stage 2",
+      "runtime": 95,
+      "source_mp3": "https://vgmsite.com/soundtracks/scorpius/uvsjcgto/06%20Stage%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/scorpius/06%2520Stage%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3114270,
+      "track_number": 7,
+      "title": "Stage 2,4 Boss",
+      "runtime": 57,
+      "source_mp3": "https://vgmsite.com/soundtracks/scorpius/rltbmgvm/07%20Stage%202%2C4%20Boss.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/scorpius/07%2520Stage%25202%252C4%2520Boss.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3932160,
+      "track_number": 8,
+      "title": "Stage 3",
+      "runtime": 88,
+      "source_mp3": "https://vgmsite.com/soundtracks/scorpius/hkdezipm/08%20Stage%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/scorpius/08%2520Stage%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2831155,
+      "track_number": 9,
+      "title": "Stage 3,7 Boss",
+      "runtime": 47,
+      "source_mp3": "https://vgmsite.com/soundtracks/scorpius/mztwyled/09%20Stage%203%2C7%20Boss.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/scorpius/09%2520Stage%25203%252C7%2520Boss.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4372561,
+      "track_number": 10,
+      "title": "Stage 4",
+      "runtime": 95,
+      "source_mp3": "https://vgmsite.com/soundtracks/scorpius/rcgnmnki/10%20Stage%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/scorpius/10%2520Stage%25204.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3093299,
+      "track_number": 11,
+      "title": "Stage 5",
+      "runtime": 58,
+      "source_mp3": "https://vgmsite.com/soundtracks/scorpius/ttoyivsf/11%20Stage%205.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/scorpius/11%2520Stage%25205.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2474639,
+      "track_number": 12,
+      "title": "Stage 5,6 Boss",
+      "runtime": 39,
+      "source_mp3": "https://vgmsite.com/soundtracks/scorpius/ehifegql/12%20Stage%205%2C6%20Boss.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/scorpius/12%2520Stage%25205%252C6%2520Boss.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3344957,
+      "track_number": 13,
+      "title": "Stage 6",
+      "runtime": 65,
+      "source_mp3": "https://vgmsite.com/soundtracks/scorpius/mowctcvg/13%20Stage%206.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/scorpius/13%2520Stage%25206.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3680501,
+      "track_number": 14,
+      "title": "Stage 7",
+      "runtime": 79,
+      "source_mp3": "https://vgmsite.com/soundtracks/scorpius/rppptchg/14%20Stage%207.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/scorpius/14%2520Stage%25207.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5117050,
+      "track_number": 15,
+      "title": "Ending",
+      "runtime": 120,
+      "source_mp3": "https://vgmsite.com/soundtracks/scorpius/qqssvcnc/15%20Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/scorpius/15%2520Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1478492,
+      "track_number": 16,
+      "title": "Game Over",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/scorpius/pjcyqzkz/16%20Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/scorpius/16%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1897922,
+      "track_number": 17,
+      "title": "Unused 1",
+      "runtime": 23,
+      "source_mp3": "https://vgmsite.com/soundtracks/scorpius/lpsnufit/17%20Unused%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/scorpius/17%2520Unused%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3848273,
+      "track_number": 18,
+      "title": "Unused 2",
+      "runtime": 78,
+      "source_mp3": "https://vgmsite.com/soundtracks/scorpius/xiesmauu/18%20Unused%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/scorpius/18%2520Unused%25202.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1112,
+    "filesize_mp3_bytes": 58374217,
+    "filesize_flac_bytes": 0,
+    "tracks": 18
+  }
+}

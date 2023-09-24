@@ -1,0 +1,57 @@
+{
+  "title": "Shadow of the Beast",
+  "titles_alternative": [
+    "\u30b7\u30e3\u30c9\u30fc\u30fb\u30aa\u30d6\u30fb\u30b6\u30fb\u30d3\u30fc\u30b9\u30c8 \u9b54\u6027\u306e\u639f"
+  ],
+  "crawled_at": "2023-09-24T11:03:19.731151+00:00",
+  "slug": "shadow-of-the-beast-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/shadow-of-the-beast-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/shadow-of-the-beast-master-system/ShadowOfTheBeast-SMS.png"
+  ],
+  "year": 1991,
+  "date_added": "2018-02-12T00:00:00+00:00",
+  "developers": {
+    "Reflections Interactive": "https://downloads.khinsider.com/game-soundtracks/developer/reflections-interactive",
+    "TecMagik": "https://downloads.khinsider.com/game-soundtracks/developer/tecmagik"
+  },
+  "publishers": {
+    "Psygnosis": "https://downloads.khinsider.com/game-soundtracks/publisher/psygnosis"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11146362,
+      "filesize_mp3_bytes": 7203717,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/shadow-of-the-beast-master-system/biozhpjn/01%20-%20Intro.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shadow-of-the-beast-master-system/biozhpjn/01%20-%20Intro.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shadow-of-the-beast-master-system/01%2520-%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 29664215,
+      "filesize_mp3_bytes": 18350080,
+      "track_number": 2,
+      "title": "Welcome",
+      "runtime": 459,
+      "source_mp3": "https://vgmsite.com/soundtracks/shadow-of-the-beast-master-system/vvhajpju/02%20-%20Welcome.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shadow-of-the-beast-master-system/vvhajpju/02%20-%20Welcome.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shadow-of-the-beast-master-system/02%2520-%2520Welcome.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 639,
+    "filesize_mp3_bytes": 25553797,
+    "filesize_flac_bytes": 40810577,
+    "tracks": 2
+  }
+}

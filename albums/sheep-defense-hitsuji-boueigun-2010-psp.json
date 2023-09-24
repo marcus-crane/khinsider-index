@@ -1,0 +1,57 @@
+{
+  "title": "Sheep Defense",
+  "titles_alternative": [
+    "Hitsuji Boueigun",
+    "\u7f8a\u9632\u885b\u8ecd"
+  ],
+  "crawled_at": "2023-09-24T11:18:01.218477+00:00",
+  "slug": "sheep-defense-hitsuji-boueigun-2010-psp",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/sheep-defense-hitsuji-boueigun-2010-psp",
+  "platforms": {
+    "PSP": "https://downloads.khinsider.com/game-soundtracks/playstation-portable-psp"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/sheep-defense-hitsuji-boueigun-2010-psp/Sheep%20Defense%20%28Hitsuji%20Boueigun%29.png"
+  ],
+  "year": 2010,
+  "date_added": "2020-08-23T00:00:00+00:00",
+  "developers": {
+    "SCE": "https://downloads.khinsider.com/game-soundtracks/developer/sce"
+  },
+  "publishers": {
+    "SCE": "https://downloads.khinsider.com/game-soundtracks/publisher/sce"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2862612,
+      "filesize_mp3_bytes": 1394606,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 42,
+      "source_mp3": "https://vgmsite.com/soundtracks/sheep-defense-hitsuji-boueigun-2010-psp/fmiuotdfqc/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sheep-defense-hitsuji-boueigun-2010-psp/fmiuotdfqc/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sheep-defense-hitsuji-boueigun-2010-psp/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8021606,
+      "filesize_mp3_bytes": 2464153,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 82,
+      "source_mp3": "https://vgmsite.com/soundtracks/sheep-defense-hitsuji-boueigun-2010-psp/yhbkucpcbt/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sheep-defense-hitsuji-boueigun-2010-psp/yhbkucpcbt/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sheep-defense-hitsuji-boueigun-2010-psp/02.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 124,
+    "filesize_mp3_bytes": 3858759,
+    "filesize_flac_bytes": 10884218,
+    "tracks": 2
+  }
+}

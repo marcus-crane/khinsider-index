@@ -1,0 +1,69 @@
+{
+  "title": "Mob Enforcer",
+  "titles_alternative": [
+    "Chicago Enforcer"
+  ],
+  "crawled_at": "2023-09-24T07:03:36.841432+00:00",
+  "slug": "mob-enforcer-windows-xbox-gamerip-2004",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mob-enforcer-windows-xbox-gamerip-2004",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows",
+    "Xbox": "https://downloads.khinsider.com/game-soundtracks/xbox"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/mob-enforcer-windows-xbox-gamerip-2004/Image.jpg"
+  ],
+  "year": 2004,
+  "date_added": "2023-09-24T00:00:00+00:00",
+  "developers": {
+    "Touchdown Entertainment": "https://downloads.khinsider.com/game-soundtracks/developer/touchdown-entertainment"
+  },
+  "publishers": {
+    "Kemco": "https://downloads.khinsider.com/game-soundtracks/publisher/kemco",
+    "Valusoft": "https://downloads.khinsider.com/game-soundtracks/publisher/valusoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3774873,
+      "filesize_mp3_bytes": 1468006,
+      "track_number": 1,
+      "title": "Gameplay",
+      "runtime": 51,
+      "source_mp3": "https://vgmsite.com/soundtracks/mob-enforcer-windows-xbox-gamerip-2004/hrwctslpxe/01.%20Gameplay.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mob-enforcer-windows-xbox-gamerip-2004/hrwctslpxe/01.%20Gameplay.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mob-enforcer-windows-xbox-gamerip-2004/01.%2520Gameplay.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5463080,
+      "filesize_mp3_bytes": 2044723,
+      "track_number": 2,
+      "title": "Interface",
+      "runtime": 70,
+      "source_mp3": "https://vgmsite.com/soundtracks/mob-enforcer-windows-xbox-gamerip-2004/hbtyegnmpy/02.%20Interface.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mob-enforcer-windows-xbox-gamerip-2004/hbtyegnmpy/02.%20Interface.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mob-enforcer-windows-xbox-gamerip-2004/02.%2520Interface.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 450887,
+      "filesize_mp3_bytes": 199229,
+      "track_number": 3,
+      "title": "Splash Intro",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/mob-enforcer-windows-xbox-gamerip-2004/pcyfxiruru/03.%20Splash%20Intro.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/mob-enforcer-windows-xbox-gamerip-2004/pcyfxiruru/03.%20Splash%20Intro.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mob-enforcer-windows-xbox-gamerip-2004/03.%2520Splash%2520Intro.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 127,
+    "filesize_mp3_bytes": 3711958,
+    "filesize_flac_bytes": 9688840,
+    "tracks": 3
+  }
+}

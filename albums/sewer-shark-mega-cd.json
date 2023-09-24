@@ -1,0 +1,42 @@
+{
+  "title": "Sewer Shark (Mega CD)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T10:56:38.796981+00:00",
+  "slug": "sewer-shark-mega-cd",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/sewer-shark-mega-cd",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/sewer-shark-mega-cd/Sewer%20Shark%20Mega%20CD%20back%20cover.jpg"
+  ],
+  "year": 1992,
+  "date_added": "2021-02-13T00:00:00+00:00",
+  "developers": {
+    "Digital Pictures": "https://downloads.khinsider.com/game-soundtracks/developer/digital-pictures"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega",
+    "Sony Imagesoft": "https://downloads.khinsider.com/game-soundtracks/publisher/sony-imagesoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2485125,
+      "title": "Staff Roll",
+      "runtime": 144,
+      "source_mp3": "https://vgmsite.com/soundtracks/sewer-shark-mega-cd/lsscqrjmtx/Staff%20Roll.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sewer-shark-mega-cd/Staff%2520Roll.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 144,
+    "filesize_mp3_bytes": 2485125,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

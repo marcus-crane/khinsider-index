@@ -1,0 +1,85 @@
+{
+  "title": "RoboCop",
+  "titles_alternative": [
+    "\u30ed\u30dc\u30b3\u30c3\u30d7"
+  ],
+  "crawled_at": "2023-09-24T07:16:16.800863+00:00",
+  "slug": "robocop-zx-spectrum",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/robocop-zx-spectrum",
+  "platforms": {
+    "Spectrum": "https://downloads.khinsider.com/game-soundtracks/spectrum"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/robocop-zx-spectrum/Z1.jpg"
+  ],
+  "year": 1988,
+  "date_added": "2018-03-20T00:00:00+00:00",
+  "developers": {
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/developer/ocean"
+  },
+  "publishers": {
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/publisher/ocean",
+    "The Hit Squad": "https://downloads.khinsider.com/game-soundtracks/publisher/the-hit-squad"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3649044,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 209,
+      "source_mp3": "https://vgmsite.com/soundtracks/robocop-zx-spectrum/atdotpjf/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/robocop-zx-spectrum/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4823449,
+      "track_number": 2,
+      "title": "In-Game BGM",
+      "runtime": 233,
+      "source_mp3": "https://vgmsite.com/soundtracks/robocop-zx-spectrum/anatnybv/02_In-Game%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/robocop-zx-spectrum/02_In-Game%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 775946,
+      "track_number": 3,
+      "title": "Face Matching",
+      "runtime": 42,
+      "source_mp3": "https://vgmsite.com/soundtracks/robocop-zx-spectrum/unxncbou/03_Face%20Matching.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/robocop-zx-spectrum/03_Face%2520Matching.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 4,
+      "title": "Unknown 1",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/robocop-zx-spectrum/bwjjaaxd/04_Unknown%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/robocop-zx-spectrum/04_Unknown%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 5,
+      "title": "Unknown 2",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/robocop-zx-spectrum/yackvgrf/05_Unknown%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/robocop-zx-spectrum/05_Unknown%25202.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 494,
+    "filesize_mp3_bytes": 9416211,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

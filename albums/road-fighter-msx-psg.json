@@ -1,0 +1,67 @@
+{
+  "title": "Road Fighter (PSG)",
+  "titles_alternative": [
+    "\u30ed\u30fc\u30c9\u30d5\u30a1\u30a4\u30bf\u30fc"
+  ],
+  "crawled_at": "2023-09-24T07:10:13.055775+00:00",
+  "slug": "road-fighter-msx-psg",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/road-fighter-msx-psg",
+  "platforms": {
+    "MSX": "https://downloads.khinsider.com/game-soundtracks/msx"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/road-fighter-msx-psg/RF.jpg"
+  ],
+  "year": 1985,
+  "date_added": "2021-04-29T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami"
+  },
+  "publishers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 146800,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 1,
+      "title": "Play Start",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/road-fighter-msx-psg/whdagyupec/01%20Play%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/road-fighter-msx-psg/whdagyupec/01%20Play%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/road-fighter-msx-psg/01%2520Play%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 293601,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 2,
+      "title": "Checkpoint",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/road-fighter-msx-psg/jmwpzwkpne/02%20Checkpoint.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/road-fighter-msx-psg/jmwpzwkpne/02%20Checkpoint.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/road-fighter-msx-psg/02%2520Checkpoint.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 167772,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 3,
+      "title": "Game Over",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/road-fighter-msx-psg/nbfuznjauz/03%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/road-fighter-msx-psg/nbfuznjauz/03%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/road-fighter-msx-psg/03%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 13,
+    "filesize_mp3_bytes": 220199,
+    "filesize_flac_bytes": 608173,
+    "tracks": 3
+  }
+}

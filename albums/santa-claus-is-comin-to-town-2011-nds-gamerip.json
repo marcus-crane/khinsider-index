@@ -1,0 +1,50 @@
+{
+  "title": "Santa Claus is Comin' to Town!",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T09:27:32.819216+00:00",
+  "slug": "santa-claus-is-comin-to-town-2011-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/santa-claus-is-comin-to-town-2011-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/santa-claus-is-comin-to-town-2011-nds-gamerip/Santa%20Claus%20is%20Comin%27%20to%20Town%21.jpg"
+  ],
+  "year": 2011,
+  "date_added": "2020-06-23T00:00:00+00:00",
+  "developers": {
+    "Crave": "https://downloads.khinsider.com/game-soundtracks/developer/crave"
+  },
+  "publishers": {
+    "Crave": "https://downloads.khinsider.com/game-soundtracks/publisher/crave"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 555745,
+      "title": "Onefoot",
+      "runtime": 70,
+      "source_mp3": "https://vgmsite.com/soundtracks/santa-claus-is-comin-to-town-2011-nds-gamerip/wrszersvni/Onefoot.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/santa-claus-is-comin-to-town-2011-nds-gamerip/Onefoot.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 450887,
+      "title": "Santa Theme",
+      "runtime": 59,
+      "source_mp3": "https://vgmsite.com/soundtracks/santa-claus-is-comin-to-town-2011-nds-gamerip/bcxepzqvqg/Santa%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/santa-claus-is-comin-to-town-2011-nds-gamerip/Santa%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 129,
+    "filesize_mp3_bytes": 1006632,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "title": "Salamander",
+  "titles_alternative": [
+    "Life Force",
+    "\u6c99\u7f57\u66fc\u86c7"
+  ],
+  "crawled_at": "2023-09-24T08:56:36.736553+00:00",
+  "slug": "salamander-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/salamander-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/salamander-commodore-64/S1.png"
+  ],
+  "year": 1988,
+  "date_added": "2015-05-08T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami"
+  },
+  "publishers": {
+    "Imagine": "https://downloads.khinsider.com/game-soundtracks/publisher/imagine"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2055208,
+      "track_number": 1,
+      "title": "Salamander",
+      "runtime": 139,
+      "source_mp3": "https://vgmsite.com/soundtracks/salamander-commodore-64/tvxawdwv/01-Salamander.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/salamander-commodore-64/01-Salamander.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4204789,
+      "track_number": 2,
+      "title": "Salamander",
+      "runtime": 295,
+      "source_mp3": "https://vgmsite.com/soundtracks/salamander-commodore-64/eopmtffl/02-Salamander.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/salamander-commodore-64/02-Salamander.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4141875,
+      "track_number": 3,
+      "title": "Salamander",
+      "runtime": 268,
+      "source_mp3": "https://vgmsite.com/soundtracks/salamander-commodore-64/lhzaqjda/03-Salamander.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/salamander-commodore-64/03-Salamander.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2841640,
+      "track_number": 4,
+      "title": "Salamander",
+      "runtime": 198,
+      "source_mp3": "https://vgmsite.com/soundtracks/salamander-commodore-64/hefsigqe/04-Salamander.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/salamander-commodore-64/04-Salamander.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 900,
+    "filesize_mp3_bytes": 13243512,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

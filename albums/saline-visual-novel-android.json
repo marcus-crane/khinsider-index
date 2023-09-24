@@ -1,0 +1,55 @@
+{
+  "title": "Saline - Visual Novel",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T08:57:31.517377+00:00",
+  "slug": "saline-visual-novel-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/saline-visual-novel-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/saline-visual-novel-android/screen-0.jpg"
+  ],
+  "year": 2009,
+  "date_added": "2018-03-06T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1719664,
+      "title": "Another Intro",
+      "runtime": 107,
+      "source_mp3": "https://vgmsite.com/soundtracks/saline-visual-novel-android/iyespohc/Another%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/saline-visual-novel-android/Another%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1447034,
+      "title": "Forever Forward",
+      "runtime": 143,
+      "source_mp3": "https://vgmsite.com/soundtracks/saline-visual-novel-android/zhbxcwhs/Forever%20Forward.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/saline-visual-novel-android/Forever%2520Forward.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4404019,
+      "title": "Years",
+      "runtime": 138,
+      "source_mp3": "https://vgmsite.com/soundtracks/saline-visual-novel-android/izpibpii/Years.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/saline-visual-novel-android/Years.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 388,
+    "filesize_mp3_bytes": 7570717,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

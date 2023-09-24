@@ -1,0 +1,44 @@
+{
+  "title": "Silent Assault (Unlicensed)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T12:55:43.290964+00:00",
+  "slug": "silent-assault-1990-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/silent-assault-1990-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/silent-assault-1990-nes/Silent%20Assault.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2022-06-13T00:00:00+00:00",
+  "developers": {
+    "Color Dreams": "https://downloads.khinsider.com/game-soundtracks/developer/color-dreams",
+    "Joy Van": "https://downloads.khinsider.com/game-soundtracks/developer/joy-van"
+  },
+  "publishers": {
+    "Color Dreams": "https://downloads.khinsider.com/game-soundtracks/publisher/color-dreams"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9678356,
+      "filesize_mp3_bytes": 3848273,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/silent-assault-1990-nes/mvbcrtjebg/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/silent-assault-1990-nes/mvbcrtjebg/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/silent-assault-1990-nes/01.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 180,
+    "filesize_mp3_bytes": 3848273,
+    "filesize_flac_bytes": 9678356,
+    "tracks": 1
+  }
+}

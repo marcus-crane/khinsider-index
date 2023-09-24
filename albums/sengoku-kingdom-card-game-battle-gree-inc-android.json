@@ -1,0 +1,36 @@
+{
+  "title": "Sengoku Kingdom Card Game Battle (Gree Inc)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T10:40:05.047652+00:00",
+  "slug": "sengoku-kingdom-card-game-battle-gree-inc-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/sengoku-kingdom-card-game-battle-gree-inc-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/sengoku-kingdom-card-game-battle-gree-inc-android/1.png"
+  ],
+  "date_added": "2017-03-14T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1027604,
+      "title": "bgm_title",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/sengoku-kingdom-card-game-battle-gree-inc-android/wpogegdl/bgm_title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sengoku-kingdom-card-game-battle-gree-inc-android/bgm_title.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 64,
+    "filesize_mp3_bytes": 1027604,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

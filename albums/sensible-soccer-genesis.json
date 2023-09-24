@@ -1,0 +1,69 @@
+{
+  "title": "Sensible Soccer",
+  "titles_alternative": [
+    "Sensible Soccer: European Champions",
+    "Championship Soccer '94"
+  ],
+  "crawled_at": "2023-09-24T10:48:23.260609+00:00",
+  "slug": "sensible-soccer-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/sensible-soccer-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/sensible-soccer-genesis/Sensible%20Soccer.png"
+  ],
+  "year": 1993,
+  "date_added": "2020-03-23T00:00:00+00:00",
+  "developers": {
+    "Sensible Software": "https://downloads.khinsider.com/game-soundtracks/developer/sensible-software"
+  },
+  "publishers": {
+    "Renegade": "https://downloads.khinsider.com/game-soundtracks/publisher/renegade",
+    "Sony Imagesoft": "https://downloads.khinsider.com/game-soundtracks/publisher/sony-imagesoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9793699,
+      "filesize_mp3_bytes": 3051356,
+      "track_number": 1,
+      "title": "Title Theme",
+      "runtime": 126,
+      "source_mp3": "https://vgmsite.com/soundtracks/sensible-soccer-genesis/ebfxlxjobh/01%20-%20Title%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sensible-soccer-genesis/ebfxlxjobh/01%20-%20Title%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sensible-soccer-genesis/01%2520-%2520Title%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5630853,
+      "filesize_mp3_bytes": 2411724,
+      "track_number": 2,
+      "title": "Menu Theme",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/sensible-soccer-genesis/kmkmdvansf/02%20-%20Menu%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sensible-soccer-genesis/kmkmdvansf/02%20-%20Menu%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sensible-soccer-genesis/02%2520-%2520Menu%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 13254000,
+      "filesize_mp3_bytes": 5557452,
+      "track_number": 3,
+      "title": "In-Game Music",
+      "runtime": 254,
+      "source_mp3": "https://vgmsite.com/soundtracks/sensible-soccer-genesis/glihjerjxk/03%20-%20In-Game%20Music.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sensible-soccer-genesis/glihjerjxk/03%20-%20In-Game%20Music.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sensible-soccer-genesis/03%2520-%2520In-Game%2520Music.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 476,
+    "filesize_mp3_bytes": 11020532,
+    "filesize_flac_bytes": 28678552,
+    "tracks": 3
+  }
+}

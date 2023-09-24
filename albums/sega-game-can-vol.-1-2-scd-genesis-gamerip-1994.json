@@ -1,0 +1,68 @@
+{
+  "title": "Sega Game Can Vol. 1 & 2 (SCD)",
+  "titles_alternative": [
+    "Game no Kanzume Vol. 1 & 2",
+    "\u30b2\u30fc\u30e0\u306e\u304b\u3093\u3065\u3081 \uff36\uff2f\uff2c.\uff11 & \uff12"
+  ],
+  "crawled_at": "2023-09-24T10:31:17.005376+00:00",
+  "slug": "sega-game-can-vol.-1-2-scd-genesis-gamerip-1994",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/sega-game-can-vol.-1-2-scd-genesis-gamerip-1994",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/sega-game-can-vol.-1-2-scd-genesis-gamerip-1994/Boxart%20%28Vol.%201%29.png"
+  ],
+  "year": 1994,
+  "date_added": "2022-10-19T00:00:00+00:00",
+  "developers": {
+    "Sega CS": "https://downloads.khinsider.com/game-soundtracks/developer/sega-cs"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 241172,
+      "filesize_mp3_bytes": 199229,
+      "track_number": 1,
+      "title": "Sega Screen",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/sega-game-can-vol.-1-2-scd-genesis-gamerip-1994/yzpgqecyfq/01.%20Sega%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sega-game-can-vol.-1-2-scd-genesis-gamerip-1994/yzpgqecyfq/01.%20Sega%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sega-game-can-vol.-1-2-scd-genesis-gamerip-1994/01.%2520Sega%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 21149777,
+      "filesize_mp3_bytes": 3491758,
+      "track_number": 2,
+      "title": "Title Screen (Vol. 1)",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/sega-game-can-vol.-1-2-scd-genesis-gamerip-1994/pticecojro/02.%20Title%20Screen%20%28Vol.%201%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sega-game-can-vol.-1-2-scd-genesis-gamerip-1994/pticecojro/02.%20Title%20Screen%20%28Vol.%201%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sega-game-can-vol.-1-2-scd-genesis-gamerip-1994/02.%2520Title%2520Screen%2520%2528Vol.%25201%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20352860,
+      "filesize_mp3_bytes": 3229614,
+      "track_number": 3,
+      "title": "Title Screen (Vol. 2)",
+      "runtime": 92,
+      "source_mp3": "https://vgmsite.com/soundtracks/sega-game-can-vol.-1-2-scd-genesis-gamerip-1994/drjhbyghaa/03.%20Title%20Screen%20%28Vol.%202%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sega-game-can-vol.-1-2-scd-genesis-gamerip-1994/drjhbyghaa/03.%20Title%20Screen%20%28Vol.%202%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sega-game-can-vol.-1-2-scd-genesis-gamerip-1994/03.%2520Title%2520Screen%2520%2528Vol.%25202%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 189,
+    "filesize_mp3_bytes": 6920601,
+    "filesize_flac_bytes": 41743809,
+    "tracks": 3
+  }
+}

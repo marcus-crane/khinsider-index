@@ -1,0 +1,113 @@
+{
+  "title": "Savage",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T09:30:46.466645+00:00",
+  "slug": "savage-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/savage-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/savage-commodore-64/S1.jpg"
+  ],
+  "year": 1988,
+  "date_added": "2016-02-19T00:00:00+00:00",
+  "developers": {
+    "Probe": "https://downloads.khinsider.com/game-soundtracks/developer/probe"
+  },
+  "publishers": {
+    "Firebird": "https://downloads.khinsider.com/game-soundtracks/publisher/firebird",
+    "MicroProse": "https://downloads.khinsider.com/game-soundtracks/publisher/microprose"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6385827,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 383,
+      "source_mp3": "https://vgmsite.com/soundtracks/savage-commodore-64/czspbwgd/01_Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/savage-commodore-64/01_Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7958691,
+      "track_number": 2,
+      "title": "Stage 1",
+      "runtime": 338,
+      "source_mp3": "https://vgmsite.com/soundtracks/savage-commodore-64/yritvxqi/02_Stage%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/savage-commodore-64/02_Stage%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6647971,
+      "track_number": 3,
+      "title": "Stage 2",
+      "runtime": 361,
+      "source_mp3": "https://vgmsite.com/soundtracks/savage-commodore-64/wmweydtz/03_Stage%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/savage-commodore-64/03_Stage%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4676648,
+      "track_number": 4,
+      "title": "Stage 3",
+      "runtime": 231,
+      "source_mp3": "https://vgmsite.com/soundtracks/savage-commodore-64/kisndcfd/04_Stage%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/savage-commodore-64/04_Stage%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11723079,
+      "track_number": 5,
+      "title": "Intro (SID Stereo)",
+      "runtime": 394,
+      "source_mp3": "https://vgmsite.com/soundtracks/savage-commodore-64/tsdilnft/05_Intro%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/savage-commodore-64/05_Intro%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 13180600,
+      "track_number": 6,
+      "title": "Stage 1 (SID Stereo)",
+      "runtime": 348,
+      "source_mp3": "https://vgmsite.com/soundtracks/savage-commodore-64/wzxdsalc/06_Stage%201%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/savage-commodore-64/06_Stage%25201%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 12194938,
+      "track_number": 7,
+      "title": "Stage 2 (SID Stereo)",
+      "runtime": 371,
+      "source_mp3": "https://vgmsite.com/soundtracks/savage-commodore-64/kclushct/07_Stage%202%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/savage-commodore-64/07_Stage%25202%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9164554,
+      "track_number": 8,
+      "title": "Stage 3 (SID Stereo)",
+      "runtime": 240,
+      "source_mp3": "https://vgmsite.com/soundtracks/savage-commodore-64/uwrjymgw/08_Stage%203%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/savage-commodore-64/08_Stage%25203%2520%2528SID%2520Stereo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2666,
+    "filesize_mp3_bytes": 71932308,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

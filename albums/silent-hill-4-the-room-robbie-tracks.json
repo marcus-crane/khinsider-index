@@ -1,0 +1,58 @@
+{
+  "title": "Silent Hill 4: The Room Robbie Tracks",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T12:58:18.903144+00:00",
+  "slug": "silent-hill-4-the-room-robbie-tracks",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/silent-hill-4-the-room-robbie-tracks",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/silent-hill-4-the-room-robbie-tracks/coverart.jpg"
+  ],
+  "year": 2004,
+  "date_added": "2016-01-04T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8304721,
+      "track_number": 1,
+      "title": "German",
+      "runtime": 315,
+      "source_mp3": "https://vgmsite.com/soundtracks/silent-hill-4-the-room-robbie-tracks/rysyocxn/01%20German.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/silent-hill-4-the-room-robbie-tracks/01%2520German.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10601103,
+      "track_number": 2,
+      "title": "French",
+      "runtime": 371,
+      "source_mp3": "https://vgmsite.com/soundtracks/silent-hill-4-the-room-robbie-tracks/hqmczvdn/02%20French.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/silent-hill-4-the-room-robbie-tracks/02%2520French.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7465861,
+      "track_number": 3,
+      "title": "Swedish",
+      "runtime": 269,
+      "source_mp3": "https://vgmsite.com/soundtracks/silent-hill-4-the-room-robbie-tracks/nslyqzcp/03%20Swedish.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/silent-hill-4-the-room-robbie-tracks/03%2520Swedish.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 955,
+    "filesize_mp3_bytes": 26371685,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

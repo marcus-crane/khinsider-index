@@ -1,0 +1,101 @@
+{
+  "title": "RoboCop",
+  "titles_alternative": [
+    "\u30ed\u30dc\u30b3\u30c3\u30d7"
+  ],
+  "crawled_at": "2023-09-24T07:15:48.757912+00:00",
+  "slug": "robocop-gb",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/robocop-gb",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/robocop-gb/R1.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2023-08-20T00:00:00+00:00",
+  "developers": {
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/developer/ocean"
+  },
+  "publishers": {
+    "Epic/Sony": "https://downloads.khinsider.com/game-soundtracks/publisher/epic-sony",
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/publisher/ocean"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 25008537,
+      "filesize_mp3_bytes": 8231321,
+      "track_number": 1,
+      "title": "Title, High Score, Credits",
+      "runtime": 370,
+      "source_mp3": "https://vgmsite.com/soundtracks/robocop-gb/htfgmwpeqq/01.%20Title%2C%20High%20Score%2C%20Credits.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/robocop-gb/htfgmwpeqq/01.%20Title%2C%20High%20Score%2C%20Credits.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/robocop-gb/01.%2520Title%252C%2520High%2520Score%252C%2520Credits.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5389680,
+      "filesize_mp3_bytes": 2002780,
+      "track_number": 2,
+      "title": "Mission Intro, Missions 2 and 10",
+      "runtime": 70,
+      "source_mp3": "https://vgmsite.com/soundtracks/robocop-gb/vbegpekfdt/02.%20Mission%20Intro%2C%20Missions%202%20and%2010.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/robocop-gb/vbegpekfdt/02.%20Mission%20Intro%2C%20Missions%202%20and%2010.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/robocop-gb/02.%2520Mission%2520Intro%252C%2520Missions%25202%2520and%252010.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 32988200,
+      "filesize_mp3_bytes": 12373196,
+      "track_number": 3,
+      "title": "Missions 1, 5 and 7",
+      "runtime": 471,
+      "source_mp3": "https://vgmsite.com/soundtracks/robocop-gb/ibjrlzumle/03.%20Missions%201%2C%205%20and%207.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/robocop-gb/ibjrlzumle/03.%20Missions%201%2C%205%20and%207.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/robocop-gb/03.%2520Missions%25201%252C%25205%2520and%25207.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 15791554,
+      "filesize_mp3_bytes": 5484052,
+      "track_number": 4,
+      "title": "Missions 3, 6 and 9",
+      "runtime": 213,
+      "source_mp3": "https://vgmsite.com/soundtracks/robocop-gb/yxabfhhmcc/04.%20Missions%203%2C%206%20and%209.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/robocop-gb/yxabfhhmcc/04.%20Missions%203%2C%206%20and%209.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/robocop-gb/04.%2520Missions%25203%252C%25206%2520and%25209.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3072327,
+      "filesize_mp3_bytes": 1121976,
+      "track_number": 5,
+      "title": "Missions 4 and 8",
+      "runtime": 40,
+      "source_mp3": "https://vgmsite.com/soundtracks/robocop-gb/vebmvppheh/05.%20Missions%204%20and%208.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/robocop-gb/vebmvppheh/05.%20Missions%204%20and%208.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/robocop-gb/05.%2520Missions%25204%2520and%25208.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 125829,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 6,
+      "title": "Game Over",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/robocop-gb/ycfitildli/06.%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/robocop-gb/ycfitildli/06.%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/robocop-gb/06.%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1166,
+    "filesize_mp3_bytes": 29265753,
+    "filesize_flac_bytes": 82376127,
+    "tracks": 6
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "title": "Robot Poncots - Tsuki Version (GBC)",
+  "titles_alternative": [
+    "\u30ed\u30dc\u30c3\u30c8\u30dd\u30f3\u30b3\u30c3\u30c4 \u6708\u30d0\u30fc\u30b8\u30e7\u30f3"
+  ],
+  "crawled_at": "2023-09-24T07:17:46.196314+00:00",
+  "slug": "robot-poncots-tsuki-version-1999-gbc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/robot-poncots-tsuki-version-1999-gbc",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/robot-poncots-tsuki-version-1999-gbc/Robot%20Poncots%20-%20Tsuki%20Version%20%281999%29%20%28GBC%29.jpg"
+  ],
+  "year": 1999,
+  "date_added": "2022-06-08T00:00:00+00:00",
+  "developers": {
+    "Will": "https://downloads.khinsider.com/game-soundtracks/developer/will"
+  },
+  "publishers": {
+    "Hudson": "https://downloads.khinsider.com/game-soundtracks/publisher/hudson"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10695475,
+      "filesize_mp3_bytes": 3670016,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/robot-poncots-tsuki-version-1999-gbc/mdbjtrhqmx/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/robot-poncots-tsuki-version-1999-gbc/mdbjtrhqmx/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/robot-poncots-tsuki-version-1999-gbc/01%2520BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1730150,
+      "filesize_mp3_bytes": 4603248,
+      "track_number": 2,
+      "title": "Jingle #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/robot-poncots-tsuki-version-1999-gbc/alxclelzyy/02%20Jingle%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/robot-poncots-tsuki-version-1999-gbc/alxclelzyy/02%20Jingle%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/robot-poncots-tsuki-version-1999-gbc/02%2520Jingle%2520%252301.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 360,
+    "filesize_mp3_bytes": 8273264,
+    "filesize_flac_bytes": 12425625,
+    "tracks": 2
+  }
+}

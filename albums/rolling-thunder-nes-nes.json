@@ -1,0 +1,101 @@
+{
+  "title": "Rolling Thunder (US) (Unlicensed)",
+  "titles_alternative": [
+    "\u30ed\u30fc\u30ea\u30f3\u30b0\u30b5\u30f3\u30c0\u30fc"
+  ],
+  "crawled_at": "2023-09-24T07:49:28.905682+00:00",
+  "slug": "rolling-thunder-nes-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/rolling-thunder-nes-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/rolling-thunder-nes-nes/R1.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2022-11-12T00:00:00+00:00",
+  "developers": {
+    "Arc System Works": "https://downloads.khinsider.com/game-soundtracks/developer/arc-system-works",
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/developer/namco"
+  },
+  "publishers": {
+    "Tengen": "https://downloads.khinsider.com/game-soundtracks/publisher/tengen"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9625927,
+      "filesize_mp3_bytes": 4141875,
+      "track_number": 1,
+      "title": "Start ~ BGM 1",
+      "runtime": 204,
+      "source_mp3": "https://vgmsite.com/soundtracks/rolling-thunder-nes-nes/pvwrjfgbvx/01.%20Start%20~%20BGM%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rolling-thunder-nes-nes/pvwrjfgbvx/01.%20Start%20~%20BGM%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rolling-thunder-nes-nes/01.%2520Start%2520~%2520BGM%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 419430,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 2,
+      "title": "Round Clear",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/rolling-thunder-nes-nes/xzpahtnzqc/02.%20Round%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rolling-thunder-nes-nes/xzpahtnzqc/02.%20Round%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rolling-thunder-nes-nes/02.%2520Round%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11408506,
+      "filesize_mp3_bytes": 5809111,
+      "track_number": 3,
+      "title": "BGM 2",
+      "runtime": 290,
+      "source_mp3": "https://vgmsite.com/soundtracks/rolling-thunder-nes-nes/rqpablotpa/03.%20BGM%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rolling-thunder-nes-nes/rqpablotpa/03.%20BGM%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rolling-thunder-nes-nes/03.%2520BGM%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2831155,
+      "filesize_mp3_bytes": 954204,
+      "track_number": 4,
+      "title": "Mabu's Theme",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/rolling-thunder-nes-nes/tltmyxtfhm/04.%20Mabu%27s%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rolling-thunder-nes-nes/tltmyxtfhm/04.%20Mabu%27s%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rolling-thunder-nes-nes/04.%2520Mabu%2527s%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1992294,
+      "filesize_mp3_bytes": 859832,
+      "track_number": 5,
+      "title": "Congratulations",
+      "runtime": 40,
+      "source_mp3": "https://vgmsite.com/soundtracks/rolling-thunder-nes-nes/progsbhifq/05.%20Congratulations.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rolling-thunder-nes-nes/progsbhifq/05.%20Congratulations.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rolling-thunder-nes-nes/05.%2520Congratulations.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 136314,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 6,
+      "title": "Game Over",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/rolling-thunder-nes-nes/fszsecqpqi/06.%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rolling-thunder-nes-nes/fszsecqpqi/06.%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rolling-thunder-nes-nes/06.%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 595,
+    "filesize_mp3_bytes": 11974736,
+    "filesize_flac_bytes": 26413626,
+    "tracks": 6
+  }
+}

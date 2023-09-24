@@ -1,0 +1,50 @@
+{
+  "title": "SHARK",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T11:15:07.376574+00:00",
+  "slug": "shark-windows-gamerip-2018",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/shark-windows-gamerip-2018",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/shark-windows-gamerip-2018/shark.png"
+  ],
+  "year": 2018,
+  "date_added": "2023-02-17T00:00:00+00:00",
+  "developers": {
+    "Trinity gaming": "https://downloads.khinsider.com/game-soundtracks/developer/trinity-gaming"
+  },
+  "publishers": {
+    "Freshtrax": "https://downloads.khinsider.com/game-soundtracks/publisher/freshtrax"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2894069,
+      "title": "SHARK OST 001",
+      "runtime": 181,
+      "source_mp3": "https://vgmsite.com/soundtracks/shark-windows-gamerip-2018/ooaszjwfdw/SHARK%20OST%20001.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shark-windows-gamerip-2018/SHARK%2520OST%2520001.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3103784,
+      "title": "SHARK OST 002",
+      "runtime": 194,
+      "source_mp3": "https://vgmsite.com/soundtracks/shark-windows-gamerip-2018/ziwqxvajno/SHARK%20OST%20002.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shark-windows-gamerip-2018/SHARK%2520OST%2520002.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 375,
+    "filesize_mp3_bytes": 5997853,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

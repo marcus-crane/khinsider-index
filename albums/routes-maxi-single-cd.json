@@ -1,0 +1,81 @@
+{
+  "title": "Routes Maxi Single CD",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T08:05:37.181648+00:00",
+  "slug": "routes-maxi-single-cd",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/routes-maxi-single-cd",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/routes-maxi-single-cd/120055453.jpg"
+  ],
+  "year": 2003,
+  "catalog_number": "APCD-0001",
+  "date_added": "2019-06-07T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "AQUAPLUS Co.": "https://downloads.khinsider.com/game-soundtracks/publisher/aquaplus"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3575644,
+      "track_number": 1,
+      "title": "Routes",
+      "runtime": 89,
+      "source_mp3": "https://vgmsite.com/soundtracks/routes-maxi-single-cd/qpiupvtzib/01%20Routes.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/routes-maxi-single-cd/01%2520Routes.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 12499025,
+      "track_number": 2,
+      "title": "I Want to Think of You",
+      "runtime": 312,
+      "source_mp3": "https://vgmsite.com/soundtracks/routes-maxi-single-cd/qzkhopcctb/02%20I%20Want%20to%20Think%20of%20You.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/routes-maxi-single-cd/02%2520I%2520Want%2520to%2520Think%2520of%2520You.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6448742,
+      "track_number": 3,
+      "title": "Routes",
+      "runtime": 161,
+      "source_mp3": "https://vgmsite.com/soundtracks/routes-maxi-single-cd/bjjloebumy/03%20Routes.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/routes-maxi-single-cd/03%2520Routes.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11177820,
+      "track_number": 4,
+      "title": "Truth in the Mist",
+      "runtime": 279,
+      "source_mp3": "https://vgmsite.com/soundtracks/routes-maxi-single-cd/cqbelczgqw/04%20Truth%20in%20the%20Mist.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/routes-maxi-single-cd/04%2520Truth%2520in%2520the%2520Mist.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 13107200,
+      "track_number": 5,
+      "title": "I Want to Think of You ~ Last Night's Song",
+      "runtime": 328,
+      "source_mp3": "https://vgmsite.com/soundtracks/routes-maxi-single-cd/lddugmkxzh/05%20I%20Want%20to%20Think%20of%20You%20~%20Last%20Night%27s%20Song.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/routes-maxi-single-cd/05%2520I%2520Want%2520to%2520Think%2520of%2520You%2520~%2520Last%2520Night%2527s%2520Song.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1169,
+    "filesize_mp3_bytes": 46808431,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

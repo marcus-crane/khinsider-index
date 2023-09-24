@@ -1,0 +1,100 @@
+{
+  "title": "Ronaldo V-Soccer (GBC)",
+  "titles_alternative": [
+    "Ronaldo V-Football"
+  ],
+  "crawled_at": "2023-09-24T08:01:30.231089+00:00",
+  "slug": "ronaldo-v-soccer-gb",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ronaldo-v-soccer-gb",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ronaldo-v-soccer-gb/Ronaldo%20V-Football%20%28E%29.png"
+  ],
+  "year": 2001,
+  "date_added": "2022-12-06T00:00:00+00:00",
+  "developers": {
+    "Bit Managers": "https://downloads.khinsider.com/game-soundtracks/developer/bit-managers"
+  },
+  "publishers": {
+    "Infogrames": "https://downloads.khinsider.com/game-soundtracks/publisher/infogrames"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10968104,
+      "filesize_mp3_bytes": 3407872,
+      "track_number": 1,
+      "title": "Main Menu",
+      "runtime": 160,
+      "source_mp3": "https://vgmsite.com/soundtracks/ronaldo-v-soccer-gb/jtdqtwaedg/01%20Main%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ronaldo-v-soccer-gb/jtdqtwaedg/01%20Main%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ronaldo-v-soccer-gb/01%2520Main%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 555745,
+      "filesize_mp3_bytes": 167772,
+      "track_number": 2,
+      "title": "Win",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/ronaldo-v-soccer-gb/fgoyubrcui/02%20Win.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ronaldo-v-soccer-gb/fgoyubrcui/02%20Win.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ronaldo-v-soccer-gb/02%2520Win.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 608174,
+      "filesize_mp3_bytes": 188743,
+      "track_number": 3,
+      "title": "Lose",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/ronaldo-v-soccer-gb/qcrvogfnql/03%20Lose.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ronaldo-v-soccer-gb/qcrvogfnql/03%20Lose.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ronaldo-v-soccer-gb/03%2520Lose.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10412359,
+      "filesize_mp3_bytes": 3649044,
+      "track_number": 4,
+      "title": "Unknown Song 1",
+      "runtime": 145,
+      "source_mp3": "https://vgmsite.com/soundtracks/ronaldo-v-soccer-gb/zxkaaiuqfv/04%20Unknown%20Song%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ronaldo-v-soccer-gb/zxkaaiuqfv/04%20Unknown%20Song%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ronaldo-v-soccer-gb/04%2520Unknown%2520Song%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9521070,
+      "filesize_mp3_bytes": 3082813,
+      "track_number": 5,
+      "title": "Unknown Song 2",
+      "runtime": 141,
+      "source_mp3": "https://vgmsite.com/soundtracks/ronaldo-v-soccer-gb/zcmyeeyxts/05%20Unknown%20Song%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ronaldo-v-soccer-gb/zcmyeeyxts/05%20Unknown%20Song%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ronaldo-v-soccer-gb/05%2520Unknown%2520Song%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 230686,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 6,
+      "title": "Unknown Jingle",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/ronaldo-v-soccer-gb/hcljmtxatk/06%20Unknown%20Jingle.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ronaldo-v-soccer-gb/hcljmtxatk/06%20Unknown%20Jingle.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ronaldo-v-soccer-gb/06%2520Unknown%2520Jingle.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 468,
+    "filesize_mp3_bytes": 10580130,
+    "filesize_flac_bytes": 32296138,
+    "tracks": 6
+  }
+}

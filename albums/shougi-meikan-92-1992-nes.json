@@ -1,0 +1,79 @@
+{
+  "title": "Shougi Meikan '92",
+  "titles_alternative": [
+    "\u5c06\u68cb\u540d\u9451'92"
+  ],
+  "crawled_at": "2023-09-24T12:13:31.579624+00:00",
+  "slug": "shougi-meikan-92-1992-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/shougi-meikan-92-1992-nes",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/shougi-meikan-92-1992-nes/Shougi%20Meikan%20%2792%20Title%20Screen.jpg"
+  ],
+  "year": 1992,
+  "date_added": "2022-06-13T00:00:00+00:00",
+  "developers": {
+    "Hect Development Division 1": "https://downloads.khinsider.com/game-soundtracks/developer/hect-development-division-1"
+  },
+  "publishers": {
+    "Hect": "https://downloads.khinsider.com/game-soundtracks/publisher/hect"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10978590,
+      "filesize_mp3_bytes": 3365928,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/shougi-meikan-92-1992-nes/dvljnklknb/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shougi-meikan-92-1992-nes/dvljnklknb/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shougi-meikan-92-1992-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9961472,
+      "filesize_mp3_bytes": 3617587,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/shougi-meikan-92-1992-nes/boqfsmbxdz/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shougi-meikan-92-1992-nes/boqfsmbxdz/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shougi-meikan-92-1992-nes/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10223616,
+      "filesize_mp3_bytes": 3061841,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/shougi-meikan-92-1992-nes/yeoowszmcg/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shougi-meikan-92-1992-nes/yeoowszmcg/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shougi-meikan-92-1992-nes/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9237954,
+      "filesize_mp3_bytes": 3785359,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/shougi-meikan-92-1992-nes/xkldyvzkdd/04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shougi-meikan-92-1992-nes/xkldyvzkdd/04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shougi-meikan-92-1992-nes/04.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 720,
+    "filesize_mp3_bytes": 13830715,
+    "filesize_flac_bytes": 40401632,
+    "tracks": 4
+  }
+}

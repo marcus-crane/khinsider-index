@@ -1,0 +1,100 @@
+{
+  "title": "Side Pocket",
+  "titles_alternative": [
+    "\u30b5\u30a4\u30c9\u30dd\u30b1\u30c3\u30c8"
+  ],
+  "crawled_at": "2023-09-24T12:25:28.694343+00:00",
+  "slug": "side-pocket-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/side-pocket-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/side-pocket-arcade/S1.jpg"
+  ],
+  "year": 1986,
+  "date_added": "2022-06-01T00:00:00+00:00",
+  "developers": {
+    "Data East": "https://downloads.khinsider.com/game-soundtracks/developer/data-east"
+  },
+  "publishers": {
+    "Data East": "https://downloads.khinsider.com/game-soundtracks/publisher/data-east"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4089446,
+      "filesize_mp3_bytes": 2338324,
+      "track_number": 1,
+      "title": "Side Pocket",
+      "runtime": 112,
+      "source_mp3": "https://vgmsite.com/soundtracks/side-pocket-arcade/nutqizraka/01%20Side%20Pocket.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/side-pocket-arcade/nutqizraka/01%20Side%20Pocket.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/side-pocket-arcade/01%2520Side%2520Pocket.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 178257,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 2,
+      "title": "Clear 1",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/side-pocket-arcade/irywaetpqv/02%20Clear%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/side-pocket-arcade/irywaetpqv/02%20Clear%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/side-pocket-arcade/02%2520Clear%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4487905,
+      "filesize_mp3_bytes": 1887436,
+      "track_number": 3,
+      "title": "Pocket Magic",
+      "runtime": 91,
+      "source_mp3": "https://vgmsite.com/soundtracks/side-pocket-arcade/mdwtuzcdwa/03%20Pocket%20Magic.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/side-pocket-arcade/mdwtuzcdwa/03%20Pocket%20Magic.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/side-pocket-arcade/03%2520Pocket%2520Magic.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 304087,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 4,
+      "title": "Clear 2",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/side-pocket-arcade/sioykreehl/04%20Clear%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/side-pocket-arcade/sioykreehl/04%20Clear%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/side-pocket-arcade/04%2520Clear%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 314572,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 5,
+      "title": "Game Over",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/side-pocket-arcade/greknhpgix/05%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/side-pocket-arcade/greknhpgix/05%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/side-pocket-arcade/05%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2285895,
+      "filesize_mp3_bytes": 954204,
+      "track_number": 6,
+      "title": "Name Entry",
+      "runtime": 43,
+      "source_mp3": "https://vgmsite.com/soundtracks/side-pocket-arcade/zwuanvpzdb/06%20Name%20Entry.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/side-pocket-arcade/zwuanvpzdb/06%20Name%20Entry.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/side-pocket-arcade/06%2520Name%2520Entry.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 263,
+    "filesize_mp3_bytes": 5525993,
+    "filesize_flac_bytes": 11660162,
+    "tracks": 6
+  }
+}

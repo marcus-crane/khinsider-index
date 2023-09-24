@@ -1,0 +1,78 @@
+{
+  "title": "Shougi 3 (GBC)",
+  "titles_alternative": [
+    "\u5c06\u68cb3"
+  ],
+  "crawled_at": "2023-09-24T12:13:24.268281+00:00",
+  "slug": "shougi-3-2001-gbc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/shougi-3-2001-gbc",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/shougi-3-2001-gbc/Shougi%203.jpg"
+  ],
+  "year": 2001,
+  "date_added": "2022-06-13T00:00:00+00:00",
+  "developers": {
+    "Pony Canyon": "https://downloads.khinsider.com/game-soundtracks/developer/pony-canyon"
+  },
+  "publishers": {
+    "Pony Canyon": "https://downloads.khinsider.com/game-soundtracks/publisher/pony-canyon"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 587202,
+      "filesize_mp3_bytes": 230686,
+      "track_number": 1,
+      "title": "Jingle #01",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/shougi-3-2001-gbc/tvjdaxwjns/01%20Jingle%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shougi-3-2001-gbc/tvjdaxwjns/01%20Jingle%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shougi-3-2001-gbc/01%2520Jingle%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 314572,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 2,
+      "title": "Jingle #02",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/shougi-3-2001-gbc/zxvbmhlqvm/02%20Jingle%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shougi-3-2001-gbc/zxvbmhlqvm/02%20Jingle%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shougi-3-2001-gbc/02%2520Jingle%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 262144,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 3,
+      "title": "Jingle #03",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/shougi-3-2001-gbc/efxjqlbjox/03%20Jingle%20%2303.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shougi-3-2001-gbc/efxjqlbjox/03%20Jingle%20%2303.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shougi-3-2001-gbc/03%2520Jingle%2520%252303.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 838860,
+      "filesize_mp3_bytes": 440401,
+      "track_number": 4,
+      "title": "Jingle #04",
+      "runtime": 12,
+      "source_mp3": "https://vgmsite.com/soundtracks/shougi-3-2001-gbc/ntboxkcwmx/04%20Jingle%20%2304.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shougi-3-2001-gbc/ntboxkcwmx/04%20Jingle%20%2304.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shougi-3-2001-gbc/04%2520Jingle%2520%252304.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 28,
+    "filesize_mp3_bytes": 901773,
+    "filesize_flac_bytes": 2002778,
+    "tracks": 4
+  }
+}

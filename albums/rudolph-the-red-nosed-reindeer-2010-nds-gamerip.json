@@ -1,0 +1,50 @@
+{
+  "title": "Rudolph the Red-Nosed Reindeer",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T08:11:23.555679+00:00",
+  "slug": "rudolph-the-red-nosed-reindeer-2010-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/rudolph-the-red-nosed-reindeer-2010-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/rudolph-the-red-nosed-reindeer-2010-nds-gamerip/Rudolph%20the%20Red-Nosed%20Reindeer.jpg"
+  ],
+  "year": 2010,
+  "date_added": "2020-06-22T00:00:00+00:00",
+  "developers": {
+    "Crave": "https://downloads.khinsider.com/game-soundtracks/developer/crave"
+  },
+  "publishers": {
+    "Red Wagon": "https://downloads.khinsider.com/game-soundtracks/publisher/red-wagon"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 440401,
+      "title": "Mg - Holly Jolly",
+      "runtime": 27,
+      "source_mp3": "https://vgmsite.com/soundtracks/rudolph-the-red-nosed-reindeer-2010-nds-gamerip/tamyvqmyfg/Mg%20-%20Holly%20Jolly.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rudolph-the-red-nosed-reindeer-2010-nds-gamerip/Mg%2520-%2520Holly%2520Jolly.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 880803,
+      "title": "Rudolph",
+      "runtime": 59,
+      "source_mp3": "https://vgmsite.com/soundtracks/rudolph-the-red-nosed-reindeer-2010-nds-gamerip/hfxgunafkq/Rudolph.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rudolph-the-red-nosed-reindeer-2010-nds-gamerip/Rudolph.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 86,
+    "filesize_mp3_bytes": 1321204,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

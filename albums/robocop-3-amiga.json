@@ -1,0 +1,85 @@
+{
+  "title": "RoboCop 3",
+  "titles_alternative": [
+    "\u30ed\u30dc\u30b3\u30c3\u30d7\uff13"
+  ],
+  "crawled_at": "2023-09-24T07:15:25.904632+00:00",
+  "slug": "robocop-3-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/robocop-3-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/robocop-3-amiga/31.jpg"
+  ],
+  "year": 1992,
+  "date_added": "2018-01-31T00:00:00+00:00",
+  "developers": {
+    "Digital Image Design": "https://downloads.khinsider.com/game-soundtracks/developer/digital-image-design"
+  },
+  "publishers": {
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/publisher/ocean",
+    "The Hit Squad": "https://downloads.khinsider.com/game-soundtracks/publisher/the-hit-squad"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2275409,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 86,
+      "source_mp3": "https://vgmsite.com/soundtracks/robocop-3-amiga/kkbofasu/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/robocop-3-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 713031,
+      "track_number": 2,
+      "title": "Media Break",
+      "runtime": 25,
+      "source_mp3": "https://vgmsite.com/soundtracks/robocop-3-amiga/wtwvkpbt/02_Media%20Break.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/robocop-3-amiga/02_Media%2520Break.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2097152,
+      "track_number": 3,
+      "title": "Outdoor BGM",
+      "runtime": 83,
+      "source_mp3": "https://vgmsite.com/soundtracks/robocop-3-amiga/mgzvuxxv/03_Outdoor%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/robocop-3-amiga/03_Outdoor%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 4,
+      "title": "Outdoor BGM (Loop End)",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/robocop-3-amiga/eowcncja/04_Outdoor%20BGM%20%28Loop%20End%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/robocop-3-amiga/04_Outdoor%2520BGM%2520%2528Loop%2520End%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4194304,
+      "track_number": 5,
+      "title": "Indoor BGM",
+      "runtime": 157,
+      "source_mp3": "https://vgmsite.com/soundtracks/robocop-3-amiga/ahurffmi/05_Indoor%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/robocop-3-amiga/05_Indoor%2520BGM.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 357,
+    "filesize_mp3_bytes": 9416210,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

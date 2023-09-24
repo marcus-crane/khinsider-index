@@ -1,0 +1,46 @@
+{
+  "title": "Shin Shougi Club",
+  "titles_alternative": [
+    "Shin Shogi Club",
+    "\u65b0\u5c06\u68cb\u4ff1\u6a02\u90e8"
+  ],
+  "crawled_at": "2023-09-24T11:52:35.153234+00:00",
+  "slug": "shin-shougi-club-1995-snes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/shin-shougi-club-1995-snes",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/shin-shougi-club-1995-snes/Shin%20Shogi%20Club%20Cover.jpg"
+  ],
+  "year": 1995,
+  "date_added": "2019-08-22T00:00:00+00:00",
+  "developers": {
+    "Natsu System": "https://downloads.khinsider.com/game-soundtracks/developer/natsu-system"
+  },
+  "publishers": {
+    "Hect": "https://downloads.khinsider.com/game-soundtracks/publisher/hect"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4047503,
+      "filesize_mp3_bytes": 2002780,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 68,
+      "source_mp3": "https://vgmsite.com/soundtracks/shin-shougi-club-1995-snes/hqsqropzth/01%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shin-shougi-club-1995-snes/hqsqropzth/01%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shin-shougi-club-1995-snes/01%2520Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 68,
+    "filesize_mp3_bytes": 2002780,
+    "filesize_flac_bytes": 4047503,
+    "tracks": 1
+  }
+}

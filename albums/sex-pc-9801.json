@@ -1,0 +1,102 @@
+{
+  "title": "Sex",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T10:56:44.824456+00:00",
+  "slug": "sex-pc-9801",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/sex-pc-9801",
+  "platforms": {
+    "PC-98": "https://downloads.khinsider.com/game-soundtracks/pc-9801"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/sex-pc-9801/Sex%20%28PC-9801%29.jpg"
+  ],
+  "year": 1995,
+  "date_added": "2019-05-20T00:00:00+00:00",
+  "developers": {
+    "Aypio": "https://downloads.khinsider.com/game-soundtracks/developer/aypio"
+  },
+  "publishers": {
+    "Aypio": "https://downloads.khinsider.com/game-soundtracks/publisher/aypio"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4833935,
+      "track_number": 1,
+      "title": "SUNRISE",
+      "runtime": 171,
+      "source_mp3": "https://vgmsite.com/soundtracks/sex-pc-9801/ssxychog/01_SUNRISE.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sex-pc-9801/01_SUNRISE.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3932160,
+      "track_number": 2,
+      "title": "OPENING",
+      "runtime": 160,
+      "source_mp3": "https://vgmsite.com/soundtracks/sex-pc-9801/oquipxdy/02_OPENING.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sex-pc-9801/02_OPENING.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4016046,
+      "track_number": 3,
+      "title": "MUSIC_01",
+      "runtime": 149,
+      "source_mp3": "https://vgmsite.com/soundtracks/sex-pc-9801/bgabjlwj/03_MUSIC_01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sex-pc-9801/03_MUSIC_01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4435476,
+      "track_number": 4,
+      "title": "MUSIC_02",
+      "runtime": 153,
+      "source_mp3": "https://vgmsite.com/soundtracks/sex-pc-9801/khmzbieg/04_MUSIC_02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sex-pc-9801/04_MUSIC_02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3334471,
+      "track_number": 5,
+      "title": "MUSIC_03",
+      "runtime": 124,
+      "source_mp3": "https://vgmsite.com/soundtracks/sex-pc-9801/qljtjdtb/05_MUSIC_03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sex-pc-9801/05_MUSIC_03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4393533,
+      "track_number": 6,
+      "title": "MUSIC_04",
+      "runtime": 164,
+      "source_mp3": "https://vgmsite.com/soundtracks/sex-pc-9801/mgscmhaz/06_MUSIC_04.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sex-pc-9801/06_MUSIC_04.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6155141,
+      "track_number": 7,
+      "title": "ENDING",
+      "runtime": 261,
+      "source_mp3": "https://vgmsite.com/soundtracks/sex-pc-9801/nlraxgrn/07_ENDING.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sex-pc-9801/07_ENDING.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1182,
+    "filesize_mp3_bytes": 31100762,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

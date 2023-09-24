@@ -1,0 +1,73 @@
+{
+  "title": "San Francisco Rush Extreme Racing",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T09:20:26.230830+00:00",
+  "slug": "san-francisco-rush-extreme-racing",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/san-francisco-rush-extreme-racing",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/san-francisco-rush-extreme-racing/coverart.jpg"
+  ],
+  "year": 1998,
+  "date_added": "2020-05-28T00:00:00+00:00",
+  "developers": {
+    "Atari": "https://downloads.khinsider.com/game-soundtracks/developer/atari",
+    "Climax": "https://downloads.khinsider.com/game-soundtracks/developer/climax"
+  },
+  "publishers": {
+    "Midway": "https://downloads.khinsider.com/game-soundtracks/publisher/midway"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9563013,
+      "track_number": 1,
+      "title": "Race Track 1",
+      "runtime": 239,
+      "source_mp3": "https://vgmsite.com/soundtracks/san-francisco-rush-extreme-racing/vdsufxodur/01%20Race%20Track%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/san-francisco-rush-extreme-racing/01%2520Race%2520Track%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8262778,
+      "track_number": 2,
+      "title": "Race Track 2",
+      "runtime": 206,
+      "source_mp3": "https://vgmsite.com/soundtracks/san-francisco-rush-extreme-racing/lzlltyamgl/02%20Race%20Track%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/san-francisco-rush-extreme-racing/02%2520Race%2520Track%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9730785,
+      "track_number": 3,
+      "title": "Race Track 3",
+      "runtime": 243,
+      "source_mp3": "https://vgmsite.com/soundtracks/san-francisco-rush-extreme-racing/ggsykfjvgl/03%20Race%20Track%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/san-francisco-rush-extreme-racing/03%2520Race%2520Track%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10978590,
+      "track_number": 4,
+      "title": "Race Track 4",
+      "runtime": 274,
+      "source_mp3": "https://vgmsite.com/soundtracks/san-francisco-rush-extreme-racing/bcksienmrv/04%20Race%20Track%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/san-francisco-rush-extreme-racing/04%2520Race%2520Track%25204.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 962,
+    "filesize_mp3_bytes": 38535166,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

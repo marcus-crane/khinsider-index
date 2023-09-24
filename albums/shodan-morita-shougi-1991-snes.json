@@ -1,0 +1,78 @@
+{
+  "title": "Shodan Morita Shougi",
+  "titles_alternative": [
+    "\u521d\u6bb5 \u68ee\u7530\u5c06\u68cb"
+  ],
+  "crawled_at": "2023-09-24T12:10:04.534545+00:00",
+  "slug": "shodan-morita-shougi-1991-snes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/shodan-morita-shougi-1991-snes",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/shodan-morita-shougi-1991-snes/Shodan%20Morita%20Shougi.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2019-08-23T00:00:00+00:00",
+  "developers": {
+    "Random House": "https://downloads.khinsider.com/game-soundtracks/developer/random-house"
+  },
+  "publishers": {
+    "Seta": "https://downloads.khinsider.com/game-soundtracks/publisher/seta"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7423918,
+      "filesize_mp3_bytes": 4110417,
+      "track_number": 1,
+      "title": "The Sea in Spring",
+      "runtime": 140,
+      "source_mp3": "https://vgmsite.com/soundtracks/shodan-morita-shougi-1991-snes/rpxkrvhijz/01%20The%20Sea%20in%20Spring.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shodan-morita-shougi-1991-snes/rpxkrvhijz/01%20The%20Sea%20in%20Spring.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shodan-morita-shougi-1991-snes/01%2520The%2520Sea%2520in%2520Spring.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 157286,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 2,
+      "title": "Lose",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/shodan-morita-shougi-1991-snes/tjfesziuhj/02%20Lose.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shodan-morita-shougi-1991-snes/tjfesziuhj/02%20Lose.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shodan-morita-shougi-1991-snes/02%2520Lose.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 167772,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 3,
+      "title": "Win",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/shodan-morita-shougi-1991-snes/kekeqzsfzx/03%20Win.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shodan-morita-shougi-1991-snes/kekeqzsfzx/03%20Win.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shodan-morita-shougi-1991-snes/03%2520Win.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10359930,
+      "filesize_mp3_bytes": 6280970,
+      "track_number": 4,
+      "title": "Unused Song",
+      "runtime": 211,
+      "source_mp3": "https://vgmsite.com/soundtracks/shodan-morita-shougi-1991-snes/gwmjezkkrw/04%20Unused%20Song.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shodan-morita-shougi-1991-snes/gwmjezkkrw/04%20Unused%20Song.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shodan-morita-shougi-1991-snes/04%2520Unused%2520Song.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 360,
+    "filesize_mp3_bytes": 10569644,
+    "filesize_flac_bytes": 18108906,
+    "tracks": 4
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Sensible Soccer",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T10:48:22.190501+00:00",
+  "slug": "sensible-soccer-game-gear",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/sensible-soccer-game-gear",
+  "platforms": {
+    "Game Gear": "https://downloads.khinsider.com/game-soundtracks/sega-game-gear",
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/sensible-soccer-game-gear/Sensible%20Soccer%20%28GG%29.png"
+  ],
+  "year": 1993,
+  "date_added": "2020-07-21T00:00:00+00:00",
+  "developers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/developer/codemasters",
+    "Kuju": "https://downloads.khinsider.com/game-soundtracks/developer/kuju",
+    "MORE": "https://downloads.khinsider.com/game-soundtracks/developer/more",
+    "Sensible Software": "https://downloads.khinsider.com/game-soundtracks/developer/sensible-software",
+    "Tower Studios": "https://downloads.khinsider.com/game-soundtracks/developer/tower-studios"
+  },
+  "publishers": {
+    "Microsoft Corporation": "https://downloads.khinsider.com/game-soundtracks/publisher/microsoft-corporation",
+    "MORE": "https://downloads.khinsider.com/game-soundtracks/publisher/more",
+    "Sensible Software": "https://downloads.khinsider.com/game-soundtracks/publisher/sensible-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5316280,
+      "filesize_mp3_bytes": 2390753,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 118,
+      "source_mp3": "https://vgmsite.com/soundtracks/sensible-soccer-game-gear/mblfafvdmq/01%20-%20Title.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sensible-soccer-game-gear/mblfafvdmq/01%20-%20Title.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sensible-soccer-game-gear/01%2520-%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 21831352,
+      "filesize_mp3_bytes": 12876513,
+      "track_number": 2,
+      "title": "Options",
+      "runtime": 551,
+      "source_mp3": "https://vgmsite.com/soundtracks/sensible-soccer-game-gear/oxknikptdj/02%20-%20Options.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sensible-soccer-game-gear/oxknikptdj/02%20-%20Options.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sensible-soccer-game-gear/02%2520-%2520Options.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 669,
+    "filesize_mp3_bytes": 15267266,
+    "filesize_flac_bytes": 27147632,
+    "tracks": 2
+  }
+}

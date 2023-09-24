@@ -1,0 +1,100 @@
+{
+  "title": "Shanghai",
+  "titles_alternative": [
+    "\u4e0a\u6d77"
+  ],
+  "crawled_at": "2023-09-24T11:10:35.709596+00:00",
+  "slug": "shanghai-arcade-gamerip-1988",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/shanghai-arcade-gamerip-1988",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/shanghai-arcade-gamerip-1988/Shanghai.png"
+  ],
+  "year": 1988,
+  "date_added": "2022-11-25T00:00:00+00:00",
+  "developers": {
+    "Success": "https://downloads.khinsider.com/game-soundtracks/developer/success"
+  },
+  "publishers": {
+    "Sunsoft": "https://downloads.khinsider.com/game-soundtracks/publisher/sunsoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 241172,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 1,
+      "title": "Round Start",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/shanghai-arcade-gamerip-1988/gysfiocgnp/01%20Round%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shanghai-arcade-gamerip-1988/gysfiocgnp/01%20Round%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shanghai-arcade-gamerip-1988/01%2520Round%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4057989,
+      "filesize_mp3_bytes": 1751121,
+      "track_number": 2,
+      "title": "Round Theme",
+      "runtime": 82,
+      "source_mp3": "https://vgmsite.com/soundtracks/shanghai-arcade-gamerip-1988/fdrukahsxk/02%20Round%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shanghai-arcade-gamerip-1988/fdrukahsxk/02%20Round%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shanghai-arcade-gamerip-1988/02%2520Round%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 545259,
+      "filesize_mp3_bytes": 220200,
+      "track_number": 3,
+      "title": "Round Complete",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/shanghai-arcade-gamerip-1988/bijyegpike/03%20Round%20Complete.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shanghai-arcade-gamerip-1988/bijyegpike/03%20Round%20Complete.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shanghai-arcade-gamerip-1988/03%2520Round%2520Complete.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1331691,
+      "filesize_mp3_bytes": 702545,
+      "track_number": 4,
+      "title": "Continue",
+      "runtime": 33,
+      "source_mp3": "https://vgmsite.com/soundtracks/shanghai-arcade-gamerip-1988/igfqgstrhv/04%20Continue.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shanghai-arcade-gamerip-1988/igfqgstrhv/04%20Continue.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shanghai-arcade-gamerip-1988/04%2520Continue.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 262144,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 5,
+      "title": "Game Over",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/shanghai-arcade-gamerip-1988/txpxydsdod/05%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shanghai-arcade-gamerip-1988/txpxydsdod/05%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shanghai-arcade-gamerip-1988/05%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3722444,
+      "filesize_mp3_bytes": 1509949,
+      "track_number": 6,
+      "title": "Name Entry",
+      "runtime": 71,
+      "source_mp3": "https://vgmsite.com/soundtracks/shanghai-arcade-gamerip-1988/bhldsyyuep/06%20Name%20Entry.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shanghai-arcade-gamerip-1988/bhldsyyuep/06%20Name%20Entry.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shanghai-arcade-gamerip-1988/06%2520Name%2520Entry.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 206,
+    "filesize_mp3_bytes": 4383043,
+    "filesize_flac_bytes": 10160699,
+    "tracks": 6
+  }
+}

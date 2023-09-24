@@ -1,0 +1,76 @@
+{
+  "title": "Barrack",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T07:01:45.275300+00:00",
+  "slug": "barrack-macos-gamerip-1996",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/barrack-macos-gamerip-1996",
+  "platforms": {
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/barrack-macos-gamerip-1996/barrack.png"
+  ],
+  "year": 1996,
+  "date_added": "2023-09-24T00:00:00+00:00",
+  "developers": {
+    "Ambrosia Software": "https://downloads.khinsider.com/game-soundtracks/developer/ambrosia-software"
+  },
+  "publishers": {
+    "Ambrosia Software, Inc.": "https://downloads.khinsider.com/game-soundtracks/publisher/ambrosia-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 62914,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 1,
+      "title": "Sound 0 (Intro)",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/barrack-macos-gamerip-1996/ukzzidxefs/01.%20Sound%200%20%28Intro%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/barrack-macos-gamerip-1996/ukzzidxefs/01.%20Sound%200%20%28Intro%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/barrack-macos-gamerip-1996/01.%2520Sound%25200%2520%2528Intro%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 52428,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 2,
+      "title": "Sound 1",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/barrack-macos-gamerip-1996/txozybtcjb/02.%20Sound%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/barrack-macos-gamerip-1996/txozybtcjb/02.%20Sound%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/barrack-macos-gamerip-1996/02.%2520Sound%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 209715,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 3,
+      "title": "Sound 2",
+      "runtime": 16,
+      "source_mp3": "https://vgmsite.com/soundtracks/barrack-macos-gamerip-1996/oqxlevpgmb/03.%20Sound%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/barrack-macos-gamerip-1996/oqxlevpgmb/03.%20Sound%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/barrack-macos-gamerip-1996/03.%2520Sound%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 167772,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 4,
+      "title": "Splash",
+      "runtime": 15,
+      "source_mp3": "https://vgmsite.com/soundtracks/barrack-macos-gamerip-1996/ynkfctrvec/04.%20Splash.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/barrack-macos-gamerip-1996/ynkfctrvec/04.%20Splash.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/barrack-macos-gamerip-1996/04.%2520Splash.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 39,
+    "filesize_mp3_bytes": 366999,
+    "filesize_flac_bytes": 492829,
+    "tracks": 4
+  }
+}

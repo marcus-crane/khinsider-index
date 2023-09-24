@@ -1,0 +1,61 @@
+{
+  "title": "The Settlers",
+  "titles_alternative": [
+    "Serf City",
+    "Die Siedler"
+  ],
+  "crawled_at": "2023-09-24T10:55:14.023650+00:00",
+  "slug": "settlers-serf-city-die-siedler-pc-1994",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/settlers-serf-city-die-siedler-pc-1994",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/settlers-serf-city-die-siedler-pc-1994/cover.png"
+  ],
+  "year": 1994,
+  "date_added": "2014-11-19T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4047503,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 121,
+      "source_mp3": "https://vgmsite.com/soundtracks/settlers-serf-city-die-siedler-pc-1994/vrxtujuv/01.%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/settlers-serf-city-die-siedler-pc-1994/01.%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11765022,
+      "track_number": 2,
+      "title": "Main Theme",
+      "runtime": 365,
+      "source_mp3": "https://vgmsite.com/soundtracks/settlers-serf-city-die-siedler-pc-1994/efqlnkex/02.%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/settlers-serf-city-die-siedler-pc-1994/02.%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4802478,
+      "track_number": 3,
+      "title": "Outro",
+      "runtime": 144,
+      "source_mp3": "https://vgmsite.com/soundtracks/settlers-serf-city-die-siedler-pc-1994/kgzmfyuq/03.%20Outro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/settlers-serf-city-die-siedler-pc-1994/03.%2520Outro.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 630,
+    "filesize_mp3_bytes": 20615003,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

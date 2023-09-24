@@ -1,0 +1,101 @@
+{
+  "title": "Silent Debuggers",
+  "titles_alternative": [
+    "\u30b5\u30a4\u30ec\u30f3\u30c8 \u30c7\u30d0\u30c3\u30ac\u30fc\u30ba"
+  ],
+  "crawled_at": "2023-09-24T12:55:54.933513+00:00",
+  "slug": "silent-debuggers-turbografx-16",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/silent-debuggers-turbografx-16",
+  "platforms": {
+    "TurboGrafx-16": "https://downloads.khinsider.com/game-soundtracks/turbografx-16"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/silent-debuggers-turbografx-16/51883_front.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2022-06-13T00:00:00+00:00",
+  "developers": {
+    "Data East": "https://downloads.khinsider.com/game-soundtracks/developer/data-east"
+  },
+  "publishers": {
+    "Data East": "https://downloads.khinsider.com/game-soundtracks/publisher/data-east",
+    "NEC": "https://downloads.khinsider.com/game-soundtracks/publisher/nec"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 21139292,
+      "filesize_mp3_bytes": 6469713,
+      "track_number": 1,
+      "title": "Opening",
+      "runtime": 192,
+      "source_mp3": "https://vgmsite.com/soundtracks/silent-debuggers-turbografx-16/dovvkdxxrl/01%20Opening.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/silent-debuggers-turbografx-16/dovvkdxxrl/01%20Opening.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/silent-debuggers-turbografx-16/01%2520Opening.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8671723,
+      "filesize_mp3_bytes": 2715811,
+      "track_number": 2,
+      "title": "Name Entry",
+      "runtime": 80,
+      "source_mp3": "https://vgmsite.com/soundtracks/silent-debuggers-turbografx-16/ammdaxvvub/02%20Name%20Entry.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/silent-debuggers-turbografx-16/ammdaxvvub/02%20Name%20Entry.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/silent-debuggers-turbografx-16/02%2520Name%2520Entry.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7518289,
+      "filesize_mp3_bytes": 2621440,
+      "track_number": 3,
+      "title": "Computer Room",
+      "runtime": 81,
+      "source_mp3": "https://vgmsite.com/soundtracks/silent-debuggers-turbografx-16/ukjyejwpql/03%20Computer%20Room.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/silent-debuggers-turbografx-16/ukjyejwpql/03%20Computer%20Room.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/silent-debuggers-turbografx-16/03%2520Computer%2520Room.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5683281,
+      "filesize_mp3_bytes": 1405091,
+      "track_number": 4,
+      "title": "Level Clear",
+      "runtime": 52,
+      "source_mp3": "https://vgmsite.com/soundtracks/silent-debuggers-turbografx-16/iesgmkbpaz/04%20Level%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/silent-debuggers-turbografx-16/iesgmkbpaz/04%20Level%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/silent-debuggers-turbografx-16/04%2520Level%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9342812,
+      "filesize_mp3_bytes": 2684354,
+      "track_number": 5,
+      "title": "Ending 1",
+      "runtime": 89,
+      "source_mp3": "https://vgmsite.com/soundtracks/silent-debuggers-turbografx-16/eijghbkvfr/05%20Ending%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/silent-debuggers-turbografx-16/eijghbkvfr/05%20Ending%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/silent-debuggers-turbografx-16/05%2520Ending%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 13484687,
+      "filesize_mp3_bytes": 3722444,
+      "track_number": 6,
+      "title": "Ending 2",
+      "runtime": 129,
+      "source_mp3": "https://vgmsite.com/soundtracks/silent-debuggers-turbografx-16/okqvvjngrv/06%20Ending%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/silent-debuggers-turbografx-16/okqvvjngrv/06%20Ending%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/silent-debuggers-turbografx-16/06%2520Ending%25202.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 623,
+    "filesize_mp3_bytes": 19618853,
+    "filesize_flac_bytes": 65840084,
+    "tracks": 6
+  }
+}

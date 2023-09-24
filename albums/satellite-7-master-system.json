@@ -1,0 +1,67 @@
+{
+  "title": "Satellite 7",
+  "titles_alternative": [
+    "\u30b5\u30c6\u30e9\u30a4\u30c87"
+  ],
+  "crawled_at": "2023-09-24T09:29:13.756239+00:00",
+  "slug": "satellite-7-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/satellite-7-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/satellite-7-master-system/S1.jpg"
+  ],
+  "year": 1985,
+  "date_added": "2020-07-21T00:00:00+00:00",
+  "developers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 555745,
+      "filesize_mp3_bytes": 209715,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/satellite-7-master-system/xkfduaaqap/01%20-%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/satellite-7-master-system/xkfduaaqap/01%20-%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/satellite-7-master-system/01%2520-%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2170552,
+      "filesize_mp3_bytes": 985661,
+      "track_number": 2,
+      "title": "In-Game Music",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/satellite-7-master-system/fyasupfejz/02%20-%20In-Game%20Music.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/satellite-7-master-system/fyasupfejz/02%20-%20In-Game%20Music.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/satellite-7-master-system/02%2520-%2520In-Game%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 188743,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 3,
+      "title": "Game Over",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/satellite-7-master-system/nblytsmoyb/03%20-%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/satellite-7-master-system/nblytsmoyb/03%20-%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/satellite-7-master-system/03%2520-%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 61,
+    "filesize_mp3_bytes": 1268776,
+    "filesize_flac_bytes": 2915040,
+    "tracks": 3
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "title": "Sabre Team",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T08:40:20.125939+00:00",
+  "slug": "sabre-team-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/sabre-team-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/sabre-team-amiga/Sabre%20Team%20Amiga%20back%20cover.jpg"
+  ],
+  "year": 2019,
+  "date_added": "2020-12-05T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7769948,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 193,
+      "source_mp3": "https://vgmsite.com/soundtracks/sabre-team-amiga/slohtpycoi/1.%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sabre-team-amiga/1.%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8147435,
+      "track_number": 2,
+      "title": "Embassy",
+      "runtime": 202,
+      "source_mp3": "https://vgmsite.com/soundtracks/sabre-team-amiga/dkujgruisl/2.%20Embassy.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sabre-team-amiga/2.%2520Embassy.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9258926,
+      "track_number": 3,
+      "title": "Gibraltar",
+      "runtime": 230,
+      "source_mp3": "https://vgmsite.com/soundtracks/sabre-team-amiga/afbqwoasbm/3.%20Gibraltar.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sabre-team-amiga/3.%2520Gibraltar.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7256145,
+      "track_number": 4,
+      "title": "Jungle",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/sabre-team-amiga/ilwvfmgvjw/4.%20Jungle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sabre-team-amiga/4.%2520Jungle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7109345,
+      "track_number": 5,
+      "title": "Moyen Orient",
+      "runtime": 176,
+      "source_mp3": "https://vgmsite.com/soundtracks/sabre-team-amiga/fquqlyyrqg/5.%20Moyen%20Orient.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sabre-team-amiga/5.%2520Moyen%2520Orient.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9258926,
+      "track_number": 6,
+      "title": "POW Camp",
+      "runtime": 230,
+      "source_mp3": "https://vgmsite.com/soundtracks/sabre-team-amiga/pzhqmgusil/6.%20POW%20Camp.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sabre-team-amiga/6.%2520POW%2520Camp.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1211,
+    "filesize_mp3_bytes": 48800725,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

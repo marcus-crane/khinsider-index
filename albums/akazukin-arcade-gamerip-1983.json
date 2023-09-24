@@ -1,0 +1,94 @@
+{
+  "title": "Akazukin",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T07:01:23.373357+00:00",
+  "slug": "akazukin-arcade-gamerip-1983",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/akazukin-arcade-gamerip-1983",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/akazukin-arcade-gamerip-1983/Akazukin.png"
+  ],
+  "year": 1983,
+  "date_added": "2023-09-24T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1184890,
+      "filesize_mp3_bytes": 660602,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 32,
+      "source_mp3": "https://vgmsite.com/soundtracks/akazukin-arcade-gamerip-1983/wiiqhqwshx/01.%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/akazukin-arcade-gamerip-1983/wiiqhqwshx/01.%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/akazukin-arcade-gamerip-1983/01.%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 31457,
+      "filesize_mp3_bytes": 10485,
+      "track_number": 2,
+      "title": "Credit SFX",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/akazukin-arcade-gamerip-1983/drfuzulgac/02.%20Credit%20SFX.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/akazukin-arcade-gamerip-1983/drfuzulgac/02.%20Credit%20SFX.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/akazukin-arcade-gamerip-1983/02.%2520Credit%2520SFX.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3376414,
+      "filesize_mp3_bytes": 1761607,
+      "track_number": 3,
+      "title": "Main BGM",
+      "runtime": 87,
+      "source_mp3": "https://vgmsite.com/soundtracks/akazukin-arcade-gamerip-1983/anaqxbdeys/03.%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/akazukin-arcade-gamerip-1983/anaqxbdeys/03.%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/akazukin-arcade-gamerip-1983/03.%2520Main%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1520435,
+      "filesize_mp3_bytes": 566231,
+      "track_number": 4,
+      "title": "Flower Power-up",
+      "runtime": 32,
+      "source_mp3": "https://vgmsite.com/soundtracks/akazukin-arcade-gamerip-1983/rdmncofvcy/04.%20Flower%20Power-up.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/akazukin-arcade-gamerip-1983/rdmncofvcy/04.%20Flower%20Power-up.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/akazukin-arcade-gamerip-1983/04.%2520Flower%2520Power-up.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 167772,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 5,
+      "title": "Level Clear",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/akazukin-arcade-gamerip-1983/kgdznuceal/05.%20Level%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/akazukin-arcade-gamerip-1983/kgdznuceal/05.%20Level%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/akazukin-arcade-gamerip-1983/05.%2520Level%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4886364,
+      "filesize_mp3_bytes": 2327838,
+      "track_number": 6,
+      "title": "Flower Power-up ~ Main BGM",
+      "runtime": 119,
+      "source_mp3": "https://vgmsite.com/soundtracks/akazukin-arcade-gamerip-1983/edhxdlxxnn/06.%20Flower%20Power-up%20~%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/akazukin-arcade-gamerip-1983/edhxdlxxnn/06.%20Flower%20Power-up%20~%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/akazukin-arcade-gamerip-1983/06.%2520Flower%2520Power-up%2520~%2520Main%2520BGM.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 275,
+    "filesize_mp3_bytes": 5400163,
+    "filesize_flac_bytes": 11167332,
+    "tracks": 6
+  }
+}

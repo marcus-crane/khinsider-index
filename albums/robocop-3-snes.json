@@ -1,0 +1,89 @@
+{
+  "title": "RoboCop 3",
+  "titles_alternative": [
+    "\u30ed\u30dc\u30b3\u30c3\u30d7\uff13"
+  ],
+  "crawled_at": "2023-09-24T07:15:38.876168+00:00",
+  "slug": "robocop-3-snes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/robocop-3-snes",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/robocop-3-snes/N1.jpg"
+  ],
+  "year": 1992,
+  "date_added": "2019-08-25T00:00:00+00:00",
+  "developers": {
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/developer/ocean"
+  },
+  "publishers": {
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/publisher/ocean"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 12928942,
+      "filesize_mp3_bytes": 4708106,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 157,
+      "source_mp3": "https://vgmsite.com/soundtracks/robocop-3-snes/imyprqjglj/01%20Title.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/robocop-3-snes/imyprqjglj/01%20Title.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/robocop-3-snes/01%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11356078,
+      "filesize_mp3_bytes": 6218055,
+      "track_number": 2,
+      "title": "Levels",
+      "runtime": 259,
+      "source_mp3": "https://vgmsite.com/soundtracks/robocop-3-snes/xkkikyjhbj/02%20Levels.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/robocop-3-snes/xkkikyjhbj/02%20Levels.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/robocop-3-snes/02%2520Levels.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2139095,
+      "filesize_mp3_bytes": 1059061,
+      "track_number": 3,
+      "title": "Boss Battle",
+      "runtime": 56,
+      "source_mp3": "https://vgmsite.com/soundtracks/robocop-3-snes/qbcmvfemwj/03%20Boss%20Battle.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/robocop-3-snes/qbcmvfemwj/03%20Boss%20Battle.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/robocop-3-snes/03%2520Boss%2520Battle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 304087,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 4,
+      "title": "Congratulations",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/robocop-3-snes/pmxcylpeko/04%20Congratulations.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/robocop-3-snes/pmxcylpeko/04%20Congratulations.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/robocop-3-snes/04%2520Congratulations.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 157286,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 5,
+      "title": "Game Over",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/robocop-3-snes/othiawupby/05%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/robocop-3-snes/othiawupby/05%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/robocop-3-snes/05%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 487,
+    "filesize_mp3_bytes": 12215908,
+    "filesize_flac_bytes": 26885488,
+    "tracks": 5
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "title": "Scorched3D",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T09:39:35.826100+00:00",
+  "slug": "scorched3d-pc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/scorched3d-pc",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/scorched3d-pc/cover.jpg"
+  ],
+  "date_added": "2021-03-13T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2673868,
+      "track_number": 1,
+      "title": "Menu",
+      "runtime": 134,
+      "source_mp3": "https://vgmsite.com/soundtracks/scorched3d-pc/ghurogyzbl/01%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/scorched3d-pc/01%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1384120,
+      "track_number": 2,
+      "title": "Main",
+      "runtime": 89,
+      "source_mp3": "https://vgmsite.com/soundtracks/scorched3d-pc/pgfrbewqqg/02%20Main.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/scorched3d-pc/02%2520Main.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 943718,
+      "track_number": 3,
+      "title": "Results",
+      "runtime": 55,
+      "source_mp3": "https://vgmsite.com/soundtracks/scorched3d-pc/lrrbuhvqqk/03%20Results.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/scorched3d-pc/03%2520Results.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 278,
+    "filesize_mp3_bytes": 5001706,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

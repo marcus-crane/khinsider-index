@@ -1,0 +1,72 @@
+{
+  "title": "Santa's Xmas Caper",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T09:28:03.408826+00:00",
+  "slug": "santa-s-xmas-caper-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/santa-s-xmas-caper-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/santa-s-xmas-caper-amiga/S1.png"
+  ],
+  "year": 1992,
+  "date_added": "2015-02-21T00:00:00+00:00",
+  "developers": {
+    "Zeppelin Games": "https://downloads.khinsider.com/game-soundtracks/developer/zeppelin-games"
+  },
+  "publishers": {
+    "Zeppelin Games": "https://downloads.khinsider.com/game-soundtracks/publisher/zeppelin-games"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3911188,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 115,
+      "source_mp3": "https://vgmsite.com/soundtracks/santa-s-xmas-caper-amiga/wdrofnyo/01-Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/santa-s-xmas-caper-amiga/01-Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1740636,
+      "track_number": 2,
+      "title": "Bgm 1",
+      "runtime": 53,
+      "source_mp3": "https://vgmsite.com/soundtracks/santa-s-xmas-caper-amiga/nzunqvbm/02-Bgm%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/santa-s-xmas-caper-amiga/02-Bgm%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2621440,
+      "track_number": 3,
+      "title": "Bgm 2",
+      "runtime": 78,
+      "source_mp3": "https://vgmsite.com/soundtracks/santa-s-xmas-caper-amiga/sxbamskk/03-Bgm%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/santa-s-xmas-caper-amiga/03-Bgm%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1719664,
+      "track_number": 4,
+      "title": "Bgm 3",
+      "runtime": 53,
+      "source_mp3": "https://vgmsite.com/soundtracks/santa-s-xmas-caper-amiga/cxkeshxd/04-Bgm%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/santa-s-xmas-caper-amiga/04-Bgm%25203.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 299,
+    "filesize_mp3_bytes": 9992928,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

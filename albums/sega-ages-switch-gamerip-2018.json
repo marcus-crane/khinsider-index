@@ -1,0 +1,98 @@
+{
+  "title": "Sega Ages",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T10:30:46.707873+00:00",
+  "slug": "sega-ages-switch-gamerip-2018",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/sega-ages-switch-gamerip-2018",
+  "platforms": {
+    "Switch": "https://downloads.khinsider.com/game-soundtracks/nintendo-switch"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/sega-ages-switch-gamerip-2018/Sega%20Ages%20OST%20Cover.png"
+  ],
+  "year": 2018,
+  "date_added": "2022-09-12T00:00:00+00:00",
+  "developers": {
+    "M2": "https://downloads.khinsider.com/game-soundtracks/developer/m2"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1855979,
+      "filesize_mp3_bytes": 314572,
+      "track_number": 1,
+      "title": "Sega Logo",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/sega-ages-switch-gamerip-2018/omzxxxjfpv/01.%20Sega%20Logo.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sega-ages-switch-gamerip-2018/omzxxxjfpv/01.%20Sega%20Logo.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sega-ages-switch-gamerip-2018/01.%2520Sega%2520Logo.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5054136,
+      "filesize_mp3_bytes": 807403,
+      "track_number": 2,
+      "title": "Intro",
+      "runtime": 18,
+      "source_mp3": "https://vgmsite.com/soundtracks/sega-ages-switch-gamerip-2018/evtornwmnh/02.%20Intro.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sega-ages-switch-gamerip-2018/evtornwmnh/02.%20Intro.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sega-ages-switch-gamerip-2018/02.%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2506096,
+      "filesize_mp3_bytes": 419430,
+      "track_number": 3,
+      "title": "Intro (Short Version)",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/sega-ages-switch-gamerip-2018/mtogbkrsfc/03.%20Intro%20%28Short%20Version%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sega-ages-switch-gamerip-2018/mtogbkrsfc/03.%20Intro%20%28Short%20Version%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sega-ages-switch-gamerip-2018/03.%2520Intro%2520%2528Short%2520Version%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 23897047,
+      "filesize_mp3_bytes": 4529848,
+      "track_number": 4,
+      "title": "Main Menu",
+      "runtime": 131,
+      "source_mp3": "https://vgmsite.com/soundtracks/sega-ages-switch-gamerip-2018/xtdfcysske/04.%20Main%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sega-ages-switch-gamerip-2018/xtdfcysske/04.%20Main%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sega-ages-switch-gamerip-2018/04.%2520Main%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1950351,
+      "filesize_mp3_bytes": 325058,
+      "track_number": 5,
+      "title": "Mode Unlocked",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/sega-ages-switch-gamerip-2018/shlifizyhv/05.%20Mode%20Unlocked.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sega-ages-switch-gamerip-2018/shlifizyhv/05.%20Mode%20Unlocked.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sega-ages-switch-gamerip-2018/05.%2520Mode%2520Unlocked.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2118123,
+      "filesize_mp3_bytes": 346030,
+      "track_number": 6,
+      "title": "Results & New Record",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/sega-ages-switch-gamerip-2018/iguzgepssc/06.%20Results%20%26%20New%20Record.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sega-ages-switch-gamerip-2018/iguzgepssc/06.%20Results%20%26%20New%20Record.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sega-ages-switch-gamerip-2018/06.%2520Results%2520%2526%2520New%2520Record.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 165,
+    "filesize_mp3_bytes": 6742341,
+    "filesize_flac_bytes": 37381732,
+    "tracks": 6
+  }
+}

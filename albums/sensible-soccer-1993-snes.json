@@ -1,0 +1,68 @@
+{
+  "title": "Sensible Soccer",
+  "titles_alternative": [
+    "Sensible Soccer: European Champions",
+    "Championship Soccer '94"
+  ],
+  "crawled_at": "2023-09-24T10:48:20.018171+00:00",
+  "slug": "sensible-soccer-1993-snes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/sensible-soccer-1993-snes",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/sensible-soccer-1993-snes/S1.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2019-08-22T00:00:00+00:00",
+  "developers": {
+    "Sensible": "https://downloads.khinsider.com/game-soundtracks/developer/sensible"
+  },
+  "publishers": {
+    "Sony Imagesoft": "https://downloads.khinsider.com/game-soundtracks/publisher/sony-imagesoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8986296,
+      "filesize_mp3_bytes": 3544186,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 117,
+      "source_mp3": "https://vgmsite.com/soundtracks/sensible-soccer-1993-snes/dyuhycdsmg/01%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sensible-soccer-1993-snes/dyuhycdsmg/01%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sensible-soccer-1993-snes/01%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 12257853,
+      "filesize_mp3_bytes": 5798625,
+      "track_number": 2,
+      "title": "Set Up",
+      "runtime": 204,
+      "source_mp3": "https://vgmsite.com/soundtracks/sensible-soccer-1993-snes/rseqjfspdh/02%20Set%20Up.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sensible-soccer-1993-snes/rseqjfspdh/02%20Set%20Up.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sensible-soccer-1993-snes/02%2520Set%2520Up.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7319060,
+      "filesize_mp3_bytes": 5085593,
+      "track_number": 3,
+      "title": "Playing a Soccer Game",
+      "runtime": 277,
+      "source_mp3": "https://vgmsite.com/soundtracks/sensible-soccer-1993-snes/kqyteaugna/03%20Playing%20a%20Soccer%20Game.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sensible-soccer-1993-snes/kqyteaugna/03%20Playing%20a%20Soccer%20Game.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sensible-soccer-1993-snes/03%2520Playing%2520a%2520Soccer%2520Game.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 598,
+    "filesize_mp3_bytes": 14428404,
+    "filesize_flac_bytes": 28563209,
+    "tracks": 3
+  }
+}

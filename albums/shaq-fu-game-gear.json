@@ -1,0 +1,94 @@
+{
+  "title": "Shaq Fu",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T11:13:46.975426+00:00",
+  "slug": "shaq-fu-game-gear",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/shaq-fu-game-gear",
+  "platforms": {
+    "Game Gear": "https://downloads.khinsider.com/game-soundtracks/sega-game-gear"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/shaq-fu-game-gear/Shaq%20Fu%20%28USA%2C%20Europe%29.png"
+  ],
+  "year": 1995,
+  "date_added": "2020-07-21T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8954839,
+      "filesize_mp3_bytes": 4047503,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/shaq-fu-game-gear/egtrkqjxdt/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shaq-fu-game-gear/egtrkqjxdt/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shaq-fu-game-gear/01%2520BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9594470,
+      "filesize_mp3_bytes": 3690987,
+      "track_number": 2,
+      "title": "BGM #02",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/shaq-fu-game-gear/lbgsfokbrt/02%20BGM%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shaq-fu-game-gear/lbgsfokbrt/02%20BGM%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shaq-fu-game-gear/02%2520BGM%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9846128,
+      "filesize_mp3_bytes": 3554672,
+      "track_number": 3,
+      "title": "BGM #03",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/shaq-fu-game-gear/hzhnuulktr/03%20BGM%20%2303.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shaq-fu-game-gear/hzhnuulktr/03%20BGM%20%2303.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shaq-fu-game-gear/03%2520BGM%2520%252303.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8818524,
+      "filesize_mp3_bytes": 3554672,
+      "track_number": 4,
+      "title": "BGM #04",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/shaq-fu-game-gear/pqydczcayr/04%20BGM%20%2304.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shaq-fu-game-gear/pqydczcayr/04%20BGM%20%2304.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shaq-fu-game-gear/04%2520BGM%2520%252304.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 230686,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 5,
+      "title": "Jingle #01",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/shaq-fu-game-gear/haaadkhuly/05%20Jingle%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shaq-fu-game-gear/haaadkhuly/05%20Jingle%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shaq-fu-game-gear/05%2520Jingle%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 314572,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 6,
+      "title": "Jingle #02",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/shaq-fu-game-gear/ppmatzjzho/06%20Jingle%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shaq-fu-game-gear/ppmatzjzho/06%20Jingle%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shaq-fu-game-gear/06%2520Jingle%2520%252302.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 732,
+    "filesize_mp3_bytes": 15057548,
+    "filesize_flac_bytes": 37759219,
+    "tracks": 6
+  }
+}

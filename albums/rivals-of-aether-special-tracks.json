@@ -1,0 +1,90 @@
+{
+  "title": "Rivals of Aether Special Tracks",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T07:07:46.513538+00:00",
+  "slug": "rivals-of-aether-special-tracks",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/rivals-of-aether-special-tracks",
+  "platforms": {
+    "Switch": "https://downloads.khinsider.com/game-soundtracks/nintendo-switch",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows",
+    "Xbox One": "https://downloads.khinsider.com/game-soundtracks/xbox-one"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/rivals-of-aether-special-tracks/cover.png"
+  ],
+  "year": 2017,
+  "date_added": "2022-02-18T00:00:00+00:00",
+  "developers": {
+    "Aether Studios": "https://downloads.khinsider.com/game-soundtracks/developer/aether-studios",
+    "Dan Fornace": "https://downloads.khinsider.com/game-soundtracks/developer/dan-fornace"
+  },
+  "publishers": {
+    "Aether Studios": "https://downloads.khinsider.com/game-soundtracks/publisher/aether-studios"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 57692651,
+      "filesize_mp3_bytes": 17909678,
+      "track_number": 1,
+      "title": "Ori and the Blind Forest Medley",
+      "runtime": 526,
+      "source_mp3": "https://vgmsite.com/soundtracks/rivals-of-aether-special-tracks/mcdbwomojh/01.%20Ori%20and%20the%20Blind%20Forest%20Medley.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rivals-of-aether-special-tracks/mcdbwomojh/01.%20Ori%20and%20the%20Blind%20Forest%20Medley.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rivals-of-aether-special-tracks/01.%2520Ori%2520and%2520the%2520Blind%2520Forest%2520Medley.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1331691,
+      "filesize_mp3_bytes": 482344,
+      "track_number": 2,
+      "title": "Victory - Ori and Sein",
+      "runtime": 14,
+      "source_mp3": "https://vgmsite.com/soundtracks/rivals-of-aether-special-tracks/jwvdhbjllv/02.%20Victory%20-%20Ori%20and%20Sein.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rivals-of-aether-special-tracks/jwvdhbjllv/02.%20Victory%20-%20Ori%20and%20Sein.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rivals-of-aether-special-tracks/02.%2520Victory%2520-%2520Ori%2520and%2520Sein.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 81778442,
+      "filesize_mp3_bytes": 21055406,
+      "track_number": 3,
+      "title": "Shovel Knight Medley",
+      "runtime": 645,
+      "source_mp3": "https://vgmsite.com/soundtracks/rivals-of-aether-special-tracks/lgovqvokfl/03.%20Shovel%20Knight%20Medley.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rivals-of-aether-special-tracks/lgovqvokfl/03.%20Shovel%20Knight%20Medley.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rivals-of-aether-special-tracks/03.%2520Shovel%2520Knight%2520Medley.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1069547,
+      "filesize_mp3_bytes": 325058,
+      "track_number": 4,
+      "title": "Victory - Shovel Knight",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/rivals-of-aether-special-tracks/qiaihewccx/04.%20Victory%20-%20Shovel%20Knight.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rivals-of-aether-special-tracks/qiaihewccx/04.%20Victory%20-%20Shovel%20Knight.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rivals-of-aether-special-tracks/04.%2520Victory%2520-%2520Shovel%2520Knight.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 17857249,
+      "filesize_mp3_bytes": 4456448,
+      "track_number": 5,
+      "title": "In the Halls of the Usurper (Rivals ver.)",
+      "runtime": 145,
+      "source_mp3": "https://vgmsite.com/soundtracks/rivals-of-aether-special-tracks/asykfjyrtn/05.%20In%20the%20Halls%20of%20the%20Usurper%20%28Rivals%20ver.%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rivals-of-aether-special-tracks/asykfjyrtn/05.%20In%20the%20Halls%20of%20the%20Usurper%20%28Rivals%20ver.%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rivals-of-aether-special-tracks/05.%2520In%2520the%2520Halls%2520of%2520the%2520Usurper%2520%2528Rivals%2520ver.%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1341,
+    "filesize_mp3_bytes": 44228934,
+    "filesize_flac_bytes": 159729580,
+    "tracks": 5
+  }
+}

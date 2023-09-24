@@ -1,0 +1,51 @@
+{
+  "title": "Saints Row 5 Main Theme",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T08:50:34.114780+00:00",
+  "slug": "saints-row-5-main-theme-2022",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/saints-row-5-main-theme-2022",
+  "platforms": {
+    "PS4": "https://downloads.khinsider.com/game-soundtracks/playstation-4",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/saints-row-5-main-theme-2022/folder.jpg"
+  ],
+  "year": 2022,
+  "date_added": "2023-02-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 23079157,
+      "filesize_mp3_bytes": 5882511,
+      "track_number": 1,
+      "title": "Main Theme Ost",
+      "runtime": 182,
+      "source_mp3": "https://vgmsite.com/soundtracks/saints-row-5-main-theme-2022/ayljqpfzku/01%20Main%20Theme%20Ost.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/saints-row-5-main-theme-2022/ayljqpfzku/01%20Main%20Theme%20Ost.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/saints-row-5-main-theme-2022/01%2520Main%2520Theme%2520Ost.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 70390906,
+      "filesize_mp3_bytes": 18087936,
+      "track_number": 2,
+      "title": "Main Menu Theme Extended",
+      "runtime": 547,
+      "source_mp3": "https://vgmsite.com/soundtracks/saints-row-5-main-theme-2022/zttrbgdwpv/02%20Main%20Menu%20Theme%20Extended.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/saints-row-5-main-theme-2022/zttrbgdwpv/02%20Main%20Menu%20Theme%20Extended.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/saints-row-5-main-theme-2022/02%2520Main%2520Menu%2520Theme%2520Extended.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 729,
+    "filesize_mp3_bytes": 23970447,
+    "filesize_flac_bytes": 93470063,
+    "tracks": 2
+  }
+}

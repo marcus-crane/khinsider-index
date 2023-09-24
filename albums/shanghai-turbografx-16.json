@@ -1,0 +1,100 @@
+{
+  "title": "Shanghai",
+  "titles_alternative": [
+    "\u4e0a\u6d77"
+  ],
+  "crawled_at": "2023-09-24T11:11:18.002634+00:00",
+  "slug": "shanghai-turbografx-16",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/shanghai-turbografx-16",
+  "platforms": {
+    "TurboGrafx-16": "https://downloads.khinsider.com/game-soundtracks/turbografx-16"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/shanghai-turbografx-16/7093955-shanghai-front-cover.jpg"
+  ],
+  "year": 1987,
+  "date_added": "2021-10-02T00:00:00+00:00",
+  "developers": {
+    "Hudson": "https://downloads.khinsider.com/game-soundtracks/developer/hudson"
+  },
+  "publishers": {
+    "Hudson": "https://downloads.khinsider.com/game-soundtracks/publisher/hudson"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2285895,
+      "filesize_mp3_bytes": 587202,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 22,
+      "source_mp3": "https://vgmsite.com/soundtracks/shanghai-turbografx-16/ziqibrovvb/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shanghai-turbografx-16/ziqibrovvb/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shanghai-turbografx-16/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9814671,
+      "filesize_mp3_bytes": 2883584,
+      "track_number": 2,
+      "title": "BGM 1",
+      "runtime": 92,
+      "source_mp3": "https://vgmsite.com/soundtracks/shanghai-turbografx-16/blfpwgdfcy/02%20BGM%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shanghai-turbografx-16/blfpwgdfcy/02%20BGM%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shanghai-turbografx-16/02%2520BGM%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 14124318,
+      "filesize_mp3_bytes": 5358223,
+      "track_number": 3,
+      "title": "BGM 2",
+      "runtime": 150,
+      "source_mp3": "https://vgmsite.com/soundtracks/shanghai-turbografx-16/bklqopkwvv/03%20BGM%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shanghai-turbografx-16/bklqopkwvv/03%20BGM%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shanghai-turbografx-16/03%2520BGM%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8954839,
+      "filesize_mp3_bytes": 3250585,
+      "track_number": 4,
+      "title": "BGM 3",
+      "runtime": 94,
+      "source_mp3": "https://vgmsite.com/soundtracks/shanghai-turbografx-16/ibpoasqehz/04%20BGM%203.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shanghai-turbografx-16/ibpoasqehz/04%20BGM%203.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shanghai-turbografx-16/04%2520BGM%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 692060,
+      "filesize_mp3_bytes": 283115,
+      "track_number": 5,
+      "title": "Time Out",
+      "runtime": 14,
+      "source_mp3": "https://vgmsite.com/soundtracks/shanghai-turbografx-16/rkefvdojsx/05%20Time%20Out.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shanghai-turbografx-16/rkefvdojsx/05%20Time%20Out.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shanghai-turbografx-16/05%2520Time%2520Out.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4687134,
+      "filesize_mp3_bytes": 1237319,
+      "track_number": 6,
+      "title": "Ending",
+      "runtime": 44,
+      "source_mp3": "https://vgmsite.com/soundtracks/shanghai-turbografx-16/wuhdnpnbev/06%20Ending.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shanghai-turbografx-16/wuhdnpnbev/06%20Ending.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shanghai-turbografx-16/06%2520Ending.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 416,
+    "filesize_mp3_bytes": 13600028,
+    "filesize_flac_bytes": 40558917,
+    "tracks": 6
+  }
+}

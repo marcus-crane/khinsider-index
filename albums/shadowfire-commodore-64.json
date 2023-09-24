@@ -1,0 +1,73 @@
+{
+  "title": "ShadowFire",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T11:06:32.344151+00:00",
+  "slug": "shadowfire-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/shadowfire-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/shadowfire-commodore-64/ShadowFire%20Cover%201.jpg"
+  ],
+  "year": 1985,
+  "date_added": "2016-02-26T00:00:00+00:00",
+  "developers": {
+    "Denton Designs": "https://downloads.khinsider.com/game-soundtracks/developer/denton-designs"
+  },
+  "publishers": {
+    "Beyond": "https://downloads.khinsider.com/game-soundtracks/publisher/beyond",
+    "Mindscape": "https://downloads.khinsider.com/game-soundtracks/publisher/mindscape"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1562378,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 89,
+      "source_mp3": "https://vgmsite.com/soundtracks/shadowfire-commodore-64/xqseafdw/01_Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shadowfire-commodore-64/01_Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 849346,
+      "track_number": 2,
+      "title": "In-Game BGM",
+      "runtime": 35,
+      "source_mp3": "https://vgmsite.com/soundtracks/shadowfire-commodore-64/firivxpj/02_In-Game%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shadowfire-commodore-64/02_In-Game%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3156213,
+      "track_number": 3,
+      "title": "Main Theme (SID Stereo)",
+      "runtime": 98,
+      "source_mp3": "https://vgmsite.com/soundtracks/shadowfire-commodore-64/fupplgra/03_Main%20Theme%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shadowfire-commodore-64/03_Main%2520Theme%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1730150,
+      "track_number": 4,
+      "title": "In-Game BGM (SID Stereo)",
+      "runtime": 44,
+      "source_mp3": "https://vgmsite.com/soundtracks/shadowfire-commodore-64/lvetynkr/04_In-Game%20BGM%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shadowfire-commodore-64/04_In-Game%2520BGM%2520%2528SID%2520Stereo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 266,
+    "filesize_mp3_bytes": 7298087,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

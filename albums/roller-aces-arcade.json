@@ -1,0 +1,86 @@
+{
+  "title": "Roller Aces",
+  "titles_alternative": [
+    "Fighting Roller",
+    "\u30d5\u30a1\u30a4\u30c6\u30a3\u30f3\u30b0\u30ed\u30fc\u30e9\u30fc"
+  ],
+  "crawled_at": "2023-09-24T07:46:56.820335+00:00",
+  "slug": "roller-aces-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/roller-aces-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/roller-aces-arcade/frtitle.png"
+  ],
+  "year": 1983,
+  "date_added": "2018-02-23T00:00:00+00:00",
+  "developers": {
+    "Kaneko": "https://downloads.khinsider.com/game-soundtracks/developer/kaneko"
+  },
+  "publishers": {
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/publisher/taito",
+    "Williams": "https://downloads.khinsider.com/game-soundtracks/publisher/williams"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 1,
+      "title": "Get Ready!",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/roller-aces-arcade/warzpshe/01_Get%20Ready%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/roller-aces-arcade/01_Get%2520Ready%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1981808,
+      "track_number": 2,
+      "title": "Main BGM",
+      "runtime": 52,
+      "source_mp3": "https://vgmsite.com/soundtracks/roller-aces-arcade/xtkoooai/02_Main%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/roller-aces-arcade/02_Main%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 3,
+      "title": "Stage Clear",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/roller-aces-arcade/cvqaujji/03_Stage%20Clear.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/roller-aces-arcade/03_Stage%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 838860,
+      "track_number": 4,
+      "title": "Results",
+      "runtime": 22,
+      "source_mp3": "https://vgmsite.com/soundtracks/roller-aces-arcade/wakcppud/04_Results.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/roller-aces-arcade/04_Results.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 870318,
+      "track_number": 5,
+      "title": "Miss",
+      "runtime": 23,
+      "source_mp3": "https://vgmsite.com/soundtracks/roller-aces-arcade/sobqwkbt/05_Miss.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/roller-aces-arcade/05_Miss.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 106,
+    "filesize_mp3_bytes": 3942643,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

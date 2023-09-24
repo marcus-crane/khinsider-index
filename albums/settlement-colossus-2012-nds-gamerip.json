@@ -1,0 +1,76 @@
+{
+  "title": "Settlement Colossus",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T10:54:48.430306+00:00",
+  "slug": "settlement-colossus-2012-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/settlement-colossus-2012-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/settlement-colossus-2012-nds-gamerip/Settlement%20Colossus.jpg"
+  ],
+  "year": 2012,
+  "date_added": "2020-06-23T00:00:00+00:00",
+  "developers": {
+    "Easy": "https://downloads.khinsider.com/game-soundtracks/developer/easy"
+  },
+  "publishers": {
+    "Easy": "https://downloads.khinsider.com/game-soundtracks/publisher/easy"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11324620,
+      "filesize_mp3_bytes": 4120903,
+      "track_number": 1,
+      "title": "Music Game01",
+      "runtime": 140,
+      "source_mp3": "https://vgmsite.com/soundtracks/settlement-colossus-2012-nds-gamerip/bhjblueixm/01%20-%20Music%20Game01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/settlement-colossus-2012-nds-gamerip/bhjblueixm/01%20-%20Music%20Game01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/settlement-colossus-2012-nds-gamerip/01%2520-%2520Music%2520Game01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11408506,
+      "filesize_mp3_bytes": 4225761,
+      "track_number": 2,
+      "title": "Music Game02",
+      "runtime": 140,
+      "source_mp3": "https://vgmsite.com/soundtracks/settlement-colossus-2012-nds-gamerip/mpkfiecema/02%20-%20Music%20Game02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/settlement-colossus-2012-nds-gamerip/mpkfiecema/02%20-%20Music%20Game02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/settlement-colossus-2012-nds-gamerip/02%2520-%2520Music%2520Game02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10433331,
+      "filesize_mp3_bytes": 3701473,
+      "track_number": 3,
+      "title": "Music Game03",
+      "runtime": 119,
+      "source_mp3": "https://vgmsite.com/soundtracks/settlement-colossus-2012-nds-gamerip/qazmtpvagf/03%20-%20Music%20Game03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/settlement-colossus-2012-nds-gamerip/qazmtpvagf/03%20-%20Music%20Game03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/settlement-colossus-2012-nds-gamerip/03%2520-%2520Music%2520Game03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9500098,
+      "filesize_mp3_bytes": 3470786,
+      "track_number": 4,
+      "title": "Music Interface",
+      "runtime": 112,
+      "source_mp3": "https://vgmsite.com/soundtracks/settlement-colossus-2012-nds-gamerip/znkxgweoth/04%20-%20Music%20Interface.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/settlement-colossus-2012-nds-gamerip/znkxgweoth/04%20-%20Music%20Interface.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/settlement-colossus-2012-nds-gamerip/04%2520-%2520Music%2520Interface.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 511,
+    "filesize_mp3_bytes": 15518923,
+    "filesize_flac_bytes": 42666555,
+    "tracks": 4
+  }
+}

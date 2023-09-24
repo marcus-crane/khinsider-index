@@ -1,0 +1,67 @@
+{
+  "title": "Royal Offense",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T08:06:11.253579+00:00",
+  "slug": "royal-offense-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/royal-offense-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/royal-offense-android/screen-0.jpg"
+  ],
+  "date_added": "2018-06-21T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 838860,
+      "track_number": 1,
+      "title": "Music Main1",
+      "runtime": 70,
+      "source_mp3": "https://vgmsite.com/soundtracks/royal-offense-android/vqxwcrbb/1%20Music%20Main1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/royal-offense-android/1%2520Music%2520Main1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1572864,
+      "track_number": 2,
+      "title": "Music Main2",
+      "runtime": 131,
+      "source_mp3": "https://vgmsite.com/soundtracks/royal-offense-android/uvyysozu/2%20Music%20Main2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/royal-offense-android/2%2520Music%2520Main2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2306867,
+      "track_number": 3,
+      "title": "Music Game1",
+      "runtime": 192,
+      "source_mp3": "https://vgmsite.com/soundtracks/royal-offense-android/erilfhwr/3%20Music%20Game1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/royal-offense-android/3%2520Music%2520Game1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 765460,
+      "track_number": 4,
+      "title": "Music Game2",
+      "runtime": 63,
+      "source_mp3": "https://vgmsite.com/soundtracks/royal-offense-android/aqdpbvzw/4%20Music%20Game2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/royal-offense-android/4%2520Music%2520Game2.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 456,
+    "filesize_mp3_bytes": 5484051,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

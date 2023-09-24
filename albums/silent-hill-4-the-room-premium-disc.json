@@ -1,0 +1,61 @@
+{
+  "title": "SILENT HILL 4 THE ROOM premium disc",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T12:58:17.506477+00:00",
+  "slug": "silent-hill-4-the-room-premium-disc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/silent-hill-4-the-room-premium-disc",
+  "platforms": {
+    "PS2": "https://downloads.khinsider.com/game-soundtracks/playstation-2"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/silent-hill-4-the-room-premium-disc/Back.jpg"
+  ],
+  "year": 2004,
+  "catalog_number": "KMJ-00031",
+  "date_added": "2016-11-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 12750684,
+      "track_number": 1,
+      "title": "Room Of Angel",
+      "runtime": 429,
+      "source_mp3": "https://vgmsite.com/soundtracks/silent-hill-4-the-room-premium-disc/svtxpgih/01.%20Room%20Of%20Angel.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/silent-hill-4-the-room-premium-disc/01.%2520Room%2520Of%2520Angel.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5001707,
+      "track_number": 2,
+      "title": "Confinement",
+      "runtime": 147,
+      "source_mp3": "https://vgmsite.com/soundtracks/silent-hill-4-the-room-premium-disc/rhlnqvxk/02.%20Confinement.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/silent-hill-4-the-room-premium-disc/02.%2520Confinement.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 13316915,
+      "track_number": 3,
+      "title": "Cradel Of Forest",
+      "runtime": 390,
+      "source_mp3": "https://vgmsite.com/soundtracks/silent-hill-4-the-room-premium-disc/pldnqsoz/03.%20Cradel%20Of%20Forest.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/silent-hill-4-the-room-premium-disc/03.%2520Cradel%2520Of%2520Forest.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 966,
+    "filesize_mp3_bytes": 31069306,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "title": "Runescape: Crucible",
+  "titles_alternative": [
+    "Crucible"
+  ],
+  "crawled_at": "2023-09-24T08:21:31.865395+00:00",
+  "slug": "runescape-crucible",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/runescape-crucible",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/runescape-crucible/coverart.jpg"
+  ],
+  "year": 2012,
+  "catalog_number": null,
+  "date_added": "2020-03-22T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Jagex": "https://downloads.khinsider.com/game-soundtracks/publisher/jagex"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2548039,
+      "track_number": 1,
+      "title": "Supreme Champions",
+      "runtime": 104,
+      "source_mp3": "https://vgmsite.com/soundtracks/runescape-crucible/kvrstngjwl/01%20Supreme%20Champions.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/runescape-crucible/01%2520Supreme%2520Champions.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2600468,
+      "track_number": 2,
+      "title": "Bounty",
+      "runtime": 106,
+      "source_mp3": "https://vgmsite.com/soundtracks/runescape-crucible/duaysfsejz/02%20Bounty.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/runescape-crucible/02%2520Bounty.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3386900,
+      "track_number": 3,
+      "title": "Target",
+      "runtime": 139,
+      "source_mp3": "https://vgmsite.com/soundtracks/runescape-crucible/ravteinbzh/03%20Target.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/runescape-crucible/03%2520Target.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3711959,
+      "track_number": 4,
+      "title": "Steady",
+      "runtime": 152,
+      "source_mp3": "https://vgmsite.com/soundtracks/runescape-crucible/rckbcjausq/04%20Steady.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/runescape-crucible/04%2520Steady.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2810183,
+      "track_number": 5,
+      "title": "Hunted",
+      "runtime": 114,
+      "source_mp3": "https://vgmsite.com/soundtracks/runescape-crucible/joardnsedp/05%20Hunted.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/runescape-crucible/05%2520Hunted.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2621440,
+      "track_number": 6,
+      "title": "You Will Know Me",
+      "runtime": 107,
+      "source_mp3": "https://vgmsite.com/soundtracks/runescape-crucible/fkibuopofn/06%20You%20Will%20Know%20Me.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/runescape-crucible/06%2520You%2520Will%2520Know%2520Me.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2411724,
+      "track_number": 7,
+      "title": "I See You",
+      "runtime": 98,
+      "source_mp3": "https://vgmsite.com/soundtracks/runescape-crucible/tuucaxasix/07%20I%20See%20You.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/runescape-crucible/07%2520I%2520See%2520You.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 820,
+    "filesize_mp3_bytes": 20090713,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

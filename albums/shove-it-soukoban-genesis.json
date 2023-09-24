@@ -1,0 +1,70 @@
+{
+  "title": "Shove It! (Soukoban)",
+  "titles_alternative": [
+    "Shove It! ...The Warehouse Game",
+    "Shijou Saidai no Soukoban",
+    "\u53f2\u4e0a\u6700\u5927\u306e\u5009\u5eab\u756a"
+  ],
+  "crawled_at": "2023-09-24T12:15:15.785190+00:00",
+  "slug": "shove-it-soukoban-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/shove-it-soukoban-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/shove-it-soukoban-genesis/S1.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2020-03-23T00:00:00+00:00",
+  "developers": {
+    "Masaya": "https://downloads.khinsider.com/game-soundtracks/developer/masaya"
+  },
+  "publishers": {
+    "DreamWorks": "https://downloads.khinsider.com/game-soundtracks/publisher/dreamworks",
+    "Masaya": "https://downloads.khinsider.com/game-soundtracks/publisher/masaya"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2873098,
+      "filesize_mp3_bytes": 1782579,
+      "track_number": 1,
+      "title": "Title Theme",
+      "runtime": 86,
+      "source_mp3": "https://vgmsite.com/soundtracks/shove-it-soukoban-genesis/oojewpsowp/01%20-%20Title%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shove-it-soukoban-genesis/oojewpsowp/01%20-%20Title%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shove-it-soukoban-genesis/01%2520-%2520Title%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4875878,
+      "filesize_mp3_bytes": 2327838,
+      "track_number": 2,
+      "title": "Main BGM",
+      "runtime": 115,
+      "source_mp3": "https://vgmsite.com/soundtracks/shove-it-soukoban-genesis/yqqmghdbmn/02%20-%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shove-it-soukoban-genesis/yqqmghdbmn/02%20-%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shove-it-soukoban-genesis/02%2520-%2520Main%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4456448,
+      "filesize_mp3_bytes": 1384120,
+      "track_number": 3,
+      "title": "Stage Clear",
+      "runtime": 70,
+      "source_mp3": "https://vgmsite.com/soundtracks/shove-it-soukoban-genesis/xmwajrkmxl/03%20-%20Stage%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shove-it-soukoban-genesis/xmwajrkmxl/03%20-%20Stage%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shove-it-soukoban-genesis/03%2520-%2520Stage%2520Clear.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 271,
+    "filesize_mp3_bytes": 5494537,
+    "filesize_flac_bytes": 12205424,
+    "tracks": 3
+  }
+}

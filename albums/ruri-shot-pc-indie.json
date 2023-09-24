@@ -1,0 +1,44 @@
+{
+  "title": "Ruri Shot!! (PC-Indie)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T08:23:18.807932+00:00",
+  "slug": "ruri-shot-pc-indie",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ruri-shot-pc-indie",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ruri-shot-pc-indie/Cover.jpg"
+  ],
+  "year": 2003,
+  "date_added": "2016-08-04T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 650117,
+      "title": "main_a",
+      "runtime": 22,
+      "source_mp3": "https://vgmsite.com/soundtracks/ruri-shot-pc-indie/smjjotrb/main_a.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ruri-shot-pc-indie/main_a.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2789212,
+      "title": "main_b",
+      "runtime": 91,
+      "source_mp3": "https://vgmsite.com/soundtracks/ruri-shot-pc-indie/tltqgoni/main_b.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ruri-shot-pc-indie/main_b.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 113,
+    "filesize_mp3_bytes": 3439329,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

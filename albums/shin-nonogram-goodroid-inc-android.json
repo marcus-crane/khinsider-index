@@ -1,0 +1,45 @@
+{
+  "title": "Shin Nonogram (GOODROID, Inc)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T11:46:06.937439+00:00",
+  "slug": "shin-nonogram-goodroid-inc-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/shin-nonogram-goodroid-inc-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/shin-nonogram-goodroid-inc-android/1.jpg"
+  ],
+  "date_added": "2017-03-14T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 639631,
+      "title": "bgm_main",
+      "runtime": 40,
+      "source_mp3": "https://vgmsite.com/soundtracks/shin-nonogram-goodroid-inc-android/yhkojbqj/bgm_main.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shin-nonogram-goodroid-inc-android/bgm_main.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2233466,
+      "title": "Sprout",
+      "runtime": 93,
+      "source_mp3": "https://vgmsite.com/soundtracks/shin-nonogram-goodroid-inc-android/obwotaxq/Sprout.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shin-nonogram-goodroid-inc-android/Sprout.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 133,
+    "filesize_mp3_bytes": 2873097,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

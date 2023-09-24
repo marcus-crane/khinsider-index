@@ -1,0 +1,87 @@
+{
+  "title": "Sea Battle",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T09:51:48.954805+00:00",
+  "slug": "sea-battle-gb",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/sea-battle-gb",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/sea-battle-gb/Bataille%20Navale%20%28FR%29.png"
+  ],
+  "year": 1998,
+  "date_added": "2022-11-30T00:00:00+00:00",
+  "developers": {
+    "Bit Managers": "https://downloads.khinsider.com/game-soundtracks/developer/bit-managers"
+  },
+  "publishers": {
+    "Infogrames": "https://downloads.khinsider.com/game-soundtracks/publisher/infogrames"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5421137,
+      "filesize_mp3_bytes": 1709178,
+      "track_number": 1,
+      "title": "Main Menu",
+      "runtime": 81,
+      "source_mp3": "https://vgmsite.com/soundtracks/sea-battle-gb/ivnhajehdg/01%20Main%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sea-battle-gb/ivnhajehdg/01%20Main%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sea-battle-gb/01%2520Main%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 12981370,
+      "filesize_mp3_bytes": 3879731,
+      "track_number": 2,
+      "title": "Position Your Fleet",
+      "runtime": 190,
+      "source_mp3": "https://vgmsite.com/soundtracks/sea-battle-gb/coclgcqxwc/02%20Position%20Your%20Fleet.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sea-battle-gb/coclgcqxwc/02%20Position%20Your%20Fleet.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sea-battle-gb/02%2520Position%2520Your%2520Fleet.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 754974,
+      "filesize_mp3_bytes": 367001,
+      "track_number": 3,
+      "title": "Battle Theme",
+      "runtime": 18,
+      "source_mp3": "https://vgmsite.com/soundtracks/sea-battle-gb/zvllogbpcx/03%20Battle%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sea-battle-gb/zvllogbpcx/03%20Battle%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sea-battle-gb/03%2520Battle%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2506096,
+      "filesize_mp3_bytes": 859832,
+      "track_number": 4,
+      "title": "Total Statistics (Lose)",
+      "runtime": 40,
+      "source_mp3": "https://vgmsite.com/soundtracks/sea-battle-gb/gietwyjkho/04%20Total%20Statistics%20%28Lose%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sea-battle-gb/gietwyjkho/04%20Total%20Statistics%20%28Lose%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sea-battle-gb/04%2520Total%2520Statistics%2520%2528Lose%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2432696,
+      "filesize_mp3_bytes": 828375,
+      "track_number": 5,
+      "title": "Total Statistics (Win)",
+      "runtime": 39,
+      "source_mp3": "https://vgmsite.com/soundtracks/sea-battle-gb/wzxilxjsdx/05%20Total%20Statistics%20%28Win%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sea-battle-gb/wzxilxjsdx/05%20Total%20Statistics%20%28Win%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sea-battle-gb/05%2520Total%2520Statistics%2520%2528Win%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 368,
+    "filesize_mp3_bytes": 7644117,
+    "filesize_flac_bytes": 24096273,
+    "tracks": 5
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "title": "Sansan",
+  "titles_alternative": [
+    "\u30b5\u30f3\u30b5\u30f3"
+  ],
+  "crawled_at": "2023-09-24T09:25:51.919035+00:00",
+  "slug": "sansan-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/sansan-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/sansan-genesis/Sansan.png"
+  ],
+  "year": 1994,
+  "date_added": "2020-03-23T00:00:00+00:00",
+  "developers": {
+    "Sansan": "https://downloads.khinsider.com/game-soundtracks/developer/sansan"
+  },
+  "publishers": {
+    "Sansan": "https://downloads.khinsider.com/game-soundtracks/publisher/sansan"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9363783,
+      "filesize_mp3_bytes": 2925527,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 143,
+      "source_mp3": "https://vgmsite.com/soundtracks/sansan-genesis/kxxpklglba/01%20-%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sansan-genesis/kxxpklglba/01%20-%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sansan-genesis/01%2520-%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5767168,
+      "filesize_mp3_bytes": 1803550,
+      "track_number": 2,
+      "title": "Menu",
+      "runtime": 91,
+      "source_mp3": "https://vgmsite.com/soundtracks/sansan-genesis/ktvljemsxw/02%20-%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sansan-genesis/ktvljemsxw/02%20-%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sansan-genesis/02%2520-%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 157286,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 3,
+      "title": "Unknown Jingle (Sound Code 83)",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/sansan-genesis/bwlyayxxkp/03%20-%20Unknown%20Jingle%20%28Sound%20Code%2083%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sansan-genesis/bwlyayxxkp/03%20-%20Unknown%20Jingle%20%28Sound%20Code%2083%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sansan-genesis/03%2520-%2520Unknown%2520Jingle%2520%2528Sound%2520Code%252083%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 167772,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 4,
+      "title": "Unknown Jingle (Sound Code 84)",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/sansan-genesis/enfacpikvm/04%20-%20Unknown%20Jingle%20%28Sound%20Code%2084%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sansan-genesis/enfacpikvm/04%20-%20Unknown%20Jingle%20%28Sound%20Code%2084%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sansan-genesis/04%2520-%2520Unknown%2520Jingle%2520%2528Sound%2520Code%252084%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 136314,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 5,
+      "title": "Unknown Jingle (Sound Code 9A)",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/sansan-genesis/brspksqunv/05%20-%20Unknown%20Jingle%20%28Sound%20Code%209A%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sansan-genesis/brspksqunv/05%20-%20Unknown%20Jingle%20%28Sound%20Code%209A%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sansan-genesis/05%2520-%2520Unknown%2520Jingle%2520%2528Sound%2520Code%25209A%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 73400,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 6,
+      "title": "Unknown Jingle (Sound Code 9B)",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/sansan-genesis/twjqvxoudb/06%20-%20Unknown%20Jingle%20%28Sound%20Code%209B%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sansan-genesis/twjqvxoudb/06%20-%20Unknown%20Jingle%20%28Sound%20Code%209B%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sansan-genesis/06%2520-%2520Unknown%2520Jingle%2520%2528Sound%2520Code%25209B%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 244,
+    "filesize_mp3_bytes": 4949276,
+    "filesize_flac_bytes": 15665723,
+    "tracks": 6
+  }
+}

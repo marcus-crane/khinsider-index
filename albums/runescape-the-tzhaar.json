@@ -1,0 +1,115 @@
+{
+  "title": "Runescape: The Tzhaar",
+  "titles_alternative": [
+    "TzHaar"
+  ],
+  "crawled_at": "2023-09-24T08:22:21.552644+00:00",
+  "slug": "runescape-the-tzhaar",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/runescape-the-tzhaar",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/runescape-the-tzhaar/coverart.jpg"
+  ],
+  "year": 2012,
+  "catalog_number": null,
+  "date_added": "2020-03-22T00:00:00+00:00",
+  "developers": {
+    "Jagex": "https://downloads.khinsider.com/game-soundtracks/developer/jagex"
+  },
+  "publishers": {
+    "Jagex": "https://downloads.khinsider.com/game-soundtracks/publisher/jagex"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2810183,
+      "track_number": 1,
+      "title": "Tzhaar City I",
+      "runtime": 115,
+      "source_mp3": "https://vgmsite.com/soundtracks/runescape-the-tzhaar/mjtdouxeof/01%20Tzhaar%20City%20I.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/runescape-the-tzhaar/01%2520Tzhaar%2520City%2520I.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1918894,
+      "track_number": 2,
+      "title": "Tzhaar Supremacy I",
+      "runtime": 78,
+      "source_mp3": "https://vgmsite.com/soundtracks/runescape-the-tzhaar/qirplwfesu/02%20Tzhaar%20Supremacy%20I.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/runescape-the-tzhaar/02%2520Tzhaar%2520Supremacy%2520I.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3428843,
+      "track_number": 3,
+      "title": "Tzhaar City II",
+      "runtime": 141,
+      "source_mp3": "https://vgmsite.com/soundtracks/runescape-the-tzhaar/gqsmlnmxrt/03%20Tzhaar%20City%20II.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/runescape-the-tzhaar/03%2520Tzhaar%2520City%2520II.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6333399,
+      "track_number": 4,
+      "title": "Gaals Theme",
+      "runtime": 262,
+      "source_mp3": "https://vgmsite.com/soundtracks/runescape-the-tzhaar/cmvtjpfrgr/04%20Gaals%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/runescape-the-tzhaar/04%2520Gaals%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2243952,
+      "track_number": 5,
+      "title": "Tzhaar Supremacy II",
+      "runtime": 90,
+      "source_mp3": "https://vgmsite.com/soundtracks/runescape-the-tzhaar/kmuoacfvnd/05%20Tzhaar%20Supremacy%20II.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/runescape-the-tzhaar/05%2520Tzhaar%2520Supremacy%2520II.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3984588,
+      "track_number": 6,
+      "title": "Tzhaar City III",
+      "runtime": 164,
+      "source_mp3": "https://vgmsite.com/soundtracks/runescape-the-tzhaar/gyfzoffkxd/06%20Tzhaar%20City%20III.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/runescape-the-tzhaar/06%2520Tzhaar%2520City%2520III.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1803550,
+      "track_number": 7,
+      "title": "Tzhaar Supremacy III",
+      "runtime": 71,
+      "source_mp3": "https://vgmsite.com/soundtracks/runescape-the-tzhaar/ghgoemmfls/07%20Tzhaar%20Supremacy%20III.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/runescape-the-tzhaar/07%2520Tzhaar%2520Supremacy%2520III.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2359296,
+      "track_number": 8,
+      "title": "Tzhaar City V",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/runescape-the-tzhaar/ehuswpmaxv/08%20Tzhaar%20City%20V.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/runescape-the-tzhaar/08%2520Tzhaar%2520City%2520V.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1017,
+    "filesize_mp3_bytes": 24882705,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

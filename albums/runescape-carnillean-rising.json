@@ -1,0 +1,83 @@
+{
+  "title": "Runescape: Carnillean Rising",
+  "titles_alternative": [
+    "Carnillean Rising"
+  ],
+  "crawled_at": "2023-09-24T08:21:29.997390+00:00",
+  "slug": "runescape-carnillean-rising",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/runescape-carnillean-rising",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/runescape-carnillean-rising/coverart.jpg"
+  ],
+  "year": 2012,
+  "catalog_number": null,
+  "date_added": "2020-03-22T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Jagex": "https://downloads.khinsider.com/game-soundtracks/publisher/jagex"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6700400,
+      "track_number": 1,
+      "title": "Carnillean Rising",
+      "runtime": 208,
+      "source_mp3": "https://vgmsite.com/soundtracks/runescape-carnillean-rising/cfmtpjvoyx/01%20Carnillean%20Rising.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/runescape-carnillean-rising/01%2520Carnillean%2520Rising.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7035944,
+      "track_number": 2,
+      "title": "Tiny Adventure",
+      "runtime": 219,
+      "source_mp3": "https://vgmsite.com/soundtracks/runescape-carnillean-rising/wdzuyfogqn/02%20Tiny%20Adventure.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/runescape-carnillean-rising/02%2520Tiny%2520Adventure.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4204789,
+      "track_number": 3,
+      "title": "Drains And Canals",
+      "runtime": 130,
+      "source_mp3": "https://vgmsite.com/soundtracks/runescape-carnillean-rising/gtnpdcyikf/03%20Drains%20And%20Canals.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/runescape-carnillean-rising/03%2520Drains%2520And%2520Canals.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1677721,
+      "track_number": 4,
+      "title": "Lords And Ladies",
+      "runtime": 51,
+      "source_mp3": "https://vgmsite.com/soundtracks/runescape-carnillean-rising/pbgoqwpcad/04%20Lords%20And%20Ladies.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/runescape-carnillean-rising/04%2520Lords%2520And%2520Ladies.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5358223,
+      "track_number": 5,
+      "title": "Philipe's Bane",
+      "runtime": 166,
+      "source_mp3": "https://vgmsite.com/soundtracks/runescape-carnillean-rising/tymqvhgdcj/05%20Philipe%27s%20Bane.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/runescape-carnillean-rising/05%2520Philipe%2527s%2520Bane.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 774,
+    "filesize_mp3_bytes": 24977077,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

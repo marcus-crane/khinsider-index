@@ -1,0 +1,54 @@
+{
+  "title": "Run 3",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T08:15:01.693810+00:00",
+  "slug": "run-3-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/run-3-gamerip",
+  "platforms": {
+    "Online": "https://downloads.khinsider.com/game-soundtracks/online"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/run-3-gamerip/Run%203.png"
+  ],
+  "date_added": "2016-01-25T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 775946,
+      "title": "1174___ASSET__music_thevoid_mp3.mp3",
+      "runtime": 55,
+      "source_mp3": "https://vgmsite.com/soundtracks/run-3-gamerip/fqlgtefa/1174___ASSET__music_thevoid_mp3.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/run-3-gamerip/1174___ASSET__music_thevoid_mp3.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1174405,
+      "title": "1175___ASSET__music_travelthegalaxy_mp3.mp3",
+      "runtime": 84,
+      "source_mp3": "https://vgmsite.com/soundtracks/run-3-gamerip/ngpmssru/1175___ASSET__music_travelthegalaxy_mp3.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/run-3-gamerip/1175___ASSET__music_travelthegalaxy_mp3.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1142947,
+      "title": "1176___ASSET__music_wormholetosomewhere_mp3.mp3",
+      "runtime": 82,
+      "source_mp3": "https://vgmsite.com/soundtracks/run-3-gamerip/hyrmqbhw/1176___ASSET__music_wormholetosomewhere_mp3.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/run-3-gamerip/1176___ASSET__music_wormholetosomewhere_mp3.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 221,
+    "filesize_mp3_bytes": 3093298,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

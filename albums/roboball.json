@@ -1,0 +1,50 @@
+{
+  "title": "Roboball",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T07:14:46.701423+00:00",
+  "slug": "roboball",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/roboball",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/roboball/cover.jpeg"
+  ],
+  "date_added": "2019-09-17T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1541406,
+      "title": "Game Theme",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/roboball/xxpmgpuxoh/Game%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/roboball/Game%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1027604,
+      "title": "Menu",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/roboball/zswtaaycdn/Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/roboball/Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 94371,
+      "title": "Win Theme",
+      "runtime": 12,
+      "source_mp3": "https://vgmsite.com/soundtracks/roboball/qzorfsxmax/Win%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/roboball/Win%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 172,
+    "filesize_mp3_bytes": 2663381,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

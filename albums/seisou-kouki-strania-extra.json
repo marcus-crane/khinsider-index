@@ -1,0 +1,60 @@
+{
+  "title": "Seisou Kouki Strania Sound Track EXTRA DISC",
+  "titles_alternative": [
+    "\u661f\u971c\u92fc\u6a5f\u30b9\u30c8\u30e9\u30cb\u30a2 Sound Track EXTRA DISC",
+    "Strania -The Stella Machina- Sound Track EXTRA DISC"
+  ],
+  "crawled_at": "2023-09-24T10:35:12.030672+00:00",
+  "slug": "seisou-kouki-strania-extra",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/seisou-kouki-strania-extra",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows",
+    "Xbox 360": "https://downloads.khinsider.com/game-soundtracks/xbox-360"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/seisou-kouki-strania-extra/BK.jpg"
+  ],
+  "year": 2011,
+  "catalog_number": "SREX-0011",
+  "date_added": "2021-06-21T00:00:00+00:00",
+  "developers": {
+    "G.rev": "https://downloads.khinsider.com/game-soundtracks/developer/g.rev"
+  },
+  "publishers": {
+    "SuperSweep": "https://downloads.khinsider.com/game-soundtracks/publisher/supersweep"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 33082572,
+      "filesize_mp3_bytes": 7885291,
+      "track_number": 1,
+      "title": "A part STAGE 6 Operated by Z.Kobayashinger",
+      "runtime": 231,
+      "source_mp3": "https://vgmsite.com/soundtracks/seisou-kouki-strania-extra/qycxpeleoj/01%20A%20part%20STAGE%206%20Operated%20by%20Z.Kobayashinger.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/seisou-kouki-strania-extra/qycxpeleoj/01%20A%20part%20STAGE%206%20Operated%20by%20Z.Kobayashinger.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/seisou-kouki-strania-extra/01%2520A%2520part%2520STAGE%25206%2520Operated%2520by%2520Z.Kobayashinger.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 24767365,
+      "filesize_mp3_bytes": 6218055,
+      "track_number": 2,
+      "title": "B part STAGE 1 Operated by Y.Yasui",
+      "runtime": 188,
+      "source_mp3": "https://vgmsite.com/soundtracks/seisou-kouki-strania-extra/iqikwadtel/02%20B%20part%20STAGE%201%20Operated%20by%20Y.Yasui.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/seisou-kouki-strania-extra/iqikwadtel/02%20B%20part%20STAGE%201%20Operated%20by%20Y.Yasui.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/seisou-kouki-strania-extra/02%2520B%2520part%2520STAGE%25201%2520Operated%2520by%2520Y.Yasui.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 419,
+    "filesize_mp3_bytes": 14103346,
+    "filesize_flac_bytes": 57849937,
+    "tracks": 2
+  }
+}

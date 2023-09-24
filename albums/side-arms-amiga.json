@@ -1,0 +1,56 @@
+{
+  "title": "Side Arms",
+  "titles_alternative": [
+    "Hyper Dyne Side Arms",
+    "\u30b5\u30a4\u30c9\u30a2\u30fc\u30e0"
+  ],
+  "crawled_at": "2023-09-24T12:24:54.490126+00:00",
+  "slug": "side-arms-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/side-arms-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/side-arms-amiga/SA.png"
+  ],
+  "year": 1989,
+  "date_added": "2015-02-21T00:00:00+00:00",
+  "developers": {
+    "Capcom": "https://downloads.khinsider.com/game-soundtracks/developer/capcom",
+    "Probe": "https://downloads.khinsider.com/game-soundtracks/developer/probe"
+  },
+  "publishers": {
+    "GO! Media Holdings": "https://downloads.khinsider.com/game-soundtracks/publisher/go-media-holdings"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6081740,
+      "track_number": 1,
+      "title": "Side Arms",
+      "runtime": 194,
+      "source_mp3": "https://vgmsite.com/soundtracks/side-arms-amiga/bgjylapx/01-Side%20Arms.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/side-arms-amiga/01-Side%2520Arms.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1205862,
+      "track_number": 2,
+      "title": "Side Arms",
+      "runtime": 41,
+      "source_mp3": "https://vgmsite.com/soundtracks/side-arms-amiga/fqawkigx/02-Side%20Arms.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/side-arms-amiga/02-Side%2520Arms.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 235,
+    "filesize_mp3_bytes": 7287602,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

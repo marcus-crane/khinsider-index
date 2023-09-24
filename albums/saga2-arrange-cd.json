@@ -1,0 +1,71 @@
+{
+  "title": "SaGa2 Arrange CD",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T08:47:03.439106+00:00",
+  "slug": "saga2-arrange-cd",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/saga2-arrange-cd",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/saga2-arrange-cd/cover.jpg"
+  ],
+  "year": 2009,
+  "catalog_number": "CPCD-0009",
+  "date_added": "2021-06-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "colis postal": "https://downloads.khinsider.com/game-soundtracks/publisher/colis-postal"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8692695,
+      "track_number": 1,
+      "title": "Cramel Macchiato",
+      "runtime": 256,
+      "source_mp3": "https://vgmsite.com/soundtracks/saga2-arrange-cd/nmzazzbsqa/1.%20Cramel%20Macchiato.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/saga2-arrange-cd/1.%2520Cramel%2520Macchiato.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 18119393,
+      "track_number": 2,
+      "title": "IMMENSE GLOBE",
+      "runtime": 511,
+      "source_mp3": "https://vgmsite.com/soundtracks/saga2-arrange-cd/bovphodgbg/2.%20IMMENSE%20GLOBE.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/saga2-arrange-cd/2.%2520IMMENSE%2520GLOBE.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4907335,
+      "track_number": 3,
+      "title": "Don't Stop Again",
+      "runtime": 146,
+      "source_mp3": "https://vgmsite.com/soundtracks/saga2-arrange-cd/rsdzdonlid/3.%20Don%27t%20Stop%20Again.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/saga2-arrange-cd/3.%2520Don%2527t%2520Stop%2520Again.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6616514,
+      "track_number": 4,
+      "title": "Safe Life Beautiful",
+      "runtime": 207,
+      "source_mp3": "https://vgmsite.com/soundtracks/saga2-arrange-cd/exhlnyavne/4.%20Safe%20Life%20Beautiful.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/saga2-arrange-cd/4.%2520Safe%2520Life%2520Beautiful.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1120,
+    "filesize_mp3_bytes": 38335937,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

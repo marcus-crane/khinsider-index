@@ -1,0 +1,93 @@
+{
+  "title": "Runescape: Dominion Tower",
+  "titles_alternative": [
+    "Dominion Tower"
+  ],
+  "crawled_at": "2023-09-24T08:21:34.274463+00:00",
+  "slug": "runescape-dominion-tower",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/runescape-dominion-tower",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/runescape-dominion-tower/coverart.jpg"
+  ],
+  "year": 2011,
+  "catalog_number": null,
+  "date_added": "2020-03-22T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Jagex": "https://downloads.khinsider.com/game-soundtracks/publisher/jagex"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3093299,
+      "track_number": 1,
+      "title": "Dominion Lobby I",
+      "runtime": 128,
+      "source_mp3": "https://vgmsite.com/soundtracks/runescape-dominion-tower/hbnyvammyq/01%20Dominion%20Lobby%20I.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/runescape-dominion-tower/01%2520Dominion%2520Lobby%2520I.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2023751,
+      "track_number": 2,
+      "title": "Dominion Tower I",
+      "runtime": 84,
+      "source_mp3": "https://vgmsite.com/soundtracks/runescape-dominion-tower/msaadidixx/02%20Dominion%20Tower%20I.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/runescape-dominion-tower/02%2520Dominion%2520Tower%2520I.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3690987,
+      "track_number": 3,
+      "title": "Dominion Tower II",
+      "runtime": 153,
+      "source_mp3": "https://vgmsite.com/soundtracks/runescape-dominion-tower/evbxaijvdr/03%20Dominion%20Tower%20II.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/runescape-dominion-tower/03%2520Dominion%2520Tower%2520II.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1059061,
+      "track_number": 4,
+      "title": "Dominion Lobby II",
+      "runtime": 44,
+      "source_mp3": "https://vgmsite.com/soundtracks/runescape-dominion-tower/hgdfegezsu/04%20Dominion%20Lobby%20II.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/runescape-dominion-tower/04%2520Dominion%2520Lobby%2520II.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3030384,
+      "track_number": 5,
+      "title": "Dominion Tower IV",
+      "runtime": 126,
+      "source_mp3": "https://vgmsite.com/soundtracks/runescape-dominion-tower/epgatrqtdy/05%20Dominion%20Tower%20IV.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/runescape-dominion-tower/05%2520Dominion%2520Tower%2520IV.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1646264,
+      "track_number": 6,
+      "title": "Dominion Tower V",
+      "runtime": 68,
+      "source_mp3": "https://vgmsite.com/soundtracks/runescape-dominion-tower/ijxxvebyxw/06%20Dominion%20Tower%20V.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/runescape-dominion-tower/06%2520Dominion%2520Tower%2520V.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 603,
+    "filesize_mp3_bytes": 14543746,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

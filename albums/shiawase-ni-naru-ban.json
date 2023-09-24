@@ -1,0 +1,57 @@
+{
+  "title": "Shiawase ni Naru Ban",
+  "titles_alternative": [
+    "\u5e78\u305b\u306b\u306a\u308b\u756a"
+  ],
+  "crawled_at": "2023-09-24T11:25:43.544429+00:00",
+  "slug": "shiawase-ni-naru-ban",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/shiawase-ni-naru-ban",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/shiawase-ni-naru-ban/34363-1345476368.jpg"
+  ],
+  "year": 2012,
+  "catalog_number": "KSLC-0012",
+  "date_added": "2020-04-23T00:00:00+00:00",
+  "developers": {
+    "Key": "https://downloads.khinsider.com/game-soundtracks/developer/key"
+  },
+  "publishers": {
+    "VISUAL ARTS Co.": "https://downloads.khinsider.com/game-soundtracks/publisher/visual-arts"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 35714498,
+      "filesize_mp3_bytes": 11848908,
+      "track_number": 1,
+      "title": "Shiawase ni Naru Ban",
+      "runtime": 372,
+      "source_mp3": "https://vgmsite.com/soundtracks/shiawase-ni-naru-ban/ycbirbqrmj/01%20Shiawase%20ni%20Naru%20Ban.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shiawase-ni-naru-ban/ycbirbqrmj/01%20Shiawase%20ni%20Naru%20Ban.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shiawase-ni-naru-ban/01%2520Shiawase%2520ni%2520Naru%2520Ban.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 36763074,
+      "filesize_mp3_bytes": 11125391,
+      "track_number": 2,
+      "title": "CANOE \uff5eNocturnal Waltz Remix Version\uff5e",
+      "runtime": 348,
+      "source_mp3": "https://vgmsite.com/soundtracks/shiawase-ni-naru-ban/zvgmwvjaem/02%20CANOE%20%EF%BD%9ENocturnal%20Waltz%20Remix%20Version%EF%BD%9E.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/shiawase-ni-naru-ban/zvgmwvjaem/02%20CANOE%20%EF%BD%9ENocturnal%20Waltz%20Remix%20Version%EF%BD%9E.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shiawase-ni-naru-ban/02%2520CANOE%2520%25EF%25BD%259ENocturnal%2520Waltz%2520Remix%2520Version%25EF%25BD%259E.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 720,
+    "filesize_mp3_bytes": 22974299,
+    "filesize_flac_bytes": 72477572,
+    "tracks": 2
+  }
+}

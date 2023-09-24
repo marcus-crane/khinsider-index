@@ -1,0 +1,45 @@
+{
+  "title": "Sewing Machine OS (GBC)",
+  "titles_alternative": [
+    "Raku x Raku"
+  ],
+  "crawled_at": "2023-09-24T10:56:39.605377+00:00",
+  "slug": "sewing-machine-os-2000-gbc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/sewing-machine-os-2000-gbc",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/sewing-machine-os-2000-gbc/Sewing%20Machine%20OS%20%282000%29%20%28GBC%29.jpg"
+  ],
+  "year": 2000,
+  "date_added": "2022-06-13T00:00:00+00:00",
+  "developers": {
+    "Natsume": "https://downloads.khinsider.com/game-soundtracks/developer/natsume"
+  },
+  "publishers": {
+    "Jaguar": "https://downloads.khinsider.com/game-soundtracks/publisher/jaguar"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10716446,
+      "filesize_mp3_bytes": 3365928,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/sewing-machine-os-2000-gbc/cctzuqktqp/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sewing-machine-os-2000-gbc/cctzuqktqp/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sewing-machine-os-2000-gbc/01%2520BGM%2520%252301.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 180,
+    "filesize_mp3_bytes": 3365928,
+    "filesize_flac_bytes": 10716446,
+    "tracks": 1
+  }
+}

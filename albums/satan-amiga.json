@@ -1,0 +1,41 @@
+{
+  "title": "Satan",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T09:28:58.507470+00:00",
+  "slug": "satan-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/satan-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/satan-amiga/Satan%20Amiga%20back%20cover.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2020-12-21T00:00:00+00:00",
+  "developers": {
+    "Creepsoft": "https://downloads.khinsider.com/game-soundtracks/developer/creepsoft"
+  },
+  "publishers": {
+    "Dinamic Software": "https://downloads.khinsider.com/game-soundtracks/publisher/dinamic-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3711959,
+      "title": "Title Screen",
+      "runtime": 154,
+      "source_mp3": "https://vgmsite.com/soundtracks/satan-amiga/phvruxewix/Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/satan-amiga/Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 154,
+    "filesize_mp3_bytes": 3711959,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

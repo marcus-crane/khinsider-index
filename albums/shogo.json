@@ -1,0 +1,93 @@
+{
+  "title": "Shogo -Mobile Armor Division- SOUND TRACK",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T12:10:09.380784+00:00",
+  "slug": "shogo",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/shogo",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/shogo/Shogo.jpg"
+  ],
+  "year": 1998,
+  "catalog_number": null,
+  "date_added": "2006-11-25T00:00:00+00:00",
+  "developers": {
+    "Monolith": "https://downloads.khinsider.com/game-soundtracks/developer/monolith"
+  },
+  "publishers": {
+    "Micro\u00efds": "https://downloads.khinsider.com/game-soundtracks/publisher/micro-ds"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3365928,
+      "track_number": 1,
+      "title": "Negai (Wish)",
+      "runtime": 210,
+      "source_mp3": "https://vgmsite.com/soundtracks/shogo/oqdyikof/01.%20Negai%20%28Wish%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shogo/01.%2520Negai%2520%2528Wish%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3858759,
+      "track_number": 2,
+      "title": "Akuma",
+      "runtime": 241,
+      "source_mp3": "https://vgmsite.com/soundtracks/shogo/tpzcqndf/02.%20Akuma.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shogo/02.%2520Akuma.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2621440,
+      "track_number": 3,
+      "title": "KumoBlade",
+      "runtime": 164,
+      "source_mp3": "https://vgmsite.com/soundtracks/shogo/gtgsiszq/03.%20KumoBlade.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shogo/03.%2520KumoBlade.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4781506,
+      "track_number": 4,
+      "title": "Red Riot",
+      "runtime": 299,
+      "source_mp3": "https://vgmsite.com/soundtracks/shogo/etrrybpg/04.%20Red%20Riot.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shogo/04.%2520Red%2520Riot.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3009413,
+      "track_number": 5,
+      "title": "Maratropa",
+      "runtime": 188,
+      "source_mp3": "https://vgmsite.com/soundtracks/shogo/ndxdzsic/05.%20Maratropa.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shogo/05.%2520Maratropa.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3753902,
+      "track_number": 6,
+      "title": "Informant",
+      "runtime": 234,
+      "source_mp3": "https://vgmsite.com/soundtracks/shogo/hxllwxse/06.%20Informant.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shogo/06.%2520Informant.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1336,
+    "filesize_mp3_bytes": 21390948,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

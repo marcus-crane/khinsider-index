@@ -1,0 +1,72 @@
+{
+  "title": "Sensible Golf",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T10:48:18.438123+00:00",
+  "slug": "sensible-golf-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/sensible-golf-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/sensible-golf-amiga/T1.jpg"
+  ],
+  "year": 1995,
+  "date_added": "2016-06-24T00:00:00+00:00",
+  "developers": {
+    "Sensible Software": "https://downloads.khinsider.com/game-soundtracks/developer/sensible-software"
+  },
+  "publishers": {
+    "Virgin Interactive": "https://downloads.khinsider.com/game-soundtracks/publisher/virgin-interactive"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3365928,
+      "track_number": 1,
+      "title": "Do You Wanna Play Golf (Intro)",
+      "runtime": 121,
+      "source_mp3": "https://vgmsite.com/soundtracks/sensible-golf-amiga/esvryzkq/01_Do%20You%20Wanna%20Play%20Golf%20%28Intro%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sensible-golf-amiga/01_Do%2520You%2520Wanna%2520Play%2520Golf%2520%2528Intro%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3680501,
+      "track_number": 2,
+      "title": "Menu 1",
+      "runtime": 135,
+      "source_mp3": "https://vgmsite.com/soundtracks/sensible-golf-amiga/xeznheft/02_Menu%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sensible-golf-amiga/02_Menu%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1415577,
+      "track_number": 3,
+      "title": "Menu 2",
+      "runtime": 53,
+      "source_mp3": "https://vgmsite.com/soundtracks/sensible-golf-amiga/ifocspxe/03_Menu%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sensible-golf-amiga/03_Menu%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4739563,
+      "track_number": 4,
+      "title": "Unknown",
+      "runtime": 171,
+      "source_mp3": "https://vgmsite.com/soundtracks/sensible-golf-amiga/kxidxwsw/04_Unknown.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sensible-golf-amiga/04_Unknown.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 480,
+    "filesize_mp3_bytes": 13201569,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

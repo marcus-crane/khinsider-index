@@ -1,0 +1,70 @@
+{
+  "title": "Civiballs 2",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T07:02:07.699208+00:00",
+  "slug": "civiballs-2-2009",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/civiballs-2-2009",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/civiballs-2-2009/civiballs-2_1629751810_0.jpg"
+  ],
+  "year": 2009,
+  "date_added": "2023-09-24T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Cool Math Games": "https://downloads.khinsider.com/game-soundtracks/publisher/cool-math-games"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 377487,
+      "track_number": 1,
+      "title": "Game Music Inca",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/civiballs-2-2009/xomzxqpsjo/01.%20Game%20Music%20Inca.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/civiballs-2-2009/01.%2520Game%2520Music%2520Inca.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 367001,
+      "track_number": 2,
+      "title": "Game Music Rome",
+      "runtime": 46,
+      "source_mp3": "https://vgmsite.com/soundtracks/civiballs-2-2009/ysccncwbwx/02.%20Game%20Music%20Rome.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/civiballs-2-2009/02.%2520Game%2520Music%2520Rome.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 356515,
+      "track_number": 3,
+      "title": "Game Music Vikings",
+      "runtime": 45,
+      "source_mp3": "https://vgmsite.com/soundtracks/civiballs-2-2009/ittyogjjor/03.%20Game%20Music%20Vikings.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/civiballs-2-2009/03.%2520Game%2520Music%2520Vikings.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 304087,
+      "track_number": 4,
+      "title": "Main Menu Music",
+      "runtime": 38,
+      "source_mp3": "https://vgmsite.com/soundtracks/civiballs-2-2009/qifdwboyag/04.%20Main%20Menu%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/civiballs-2-2009/04.%2520Main%2520Menu%2520Music.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 177,
+    "filesize_mp3_bytes": 1405090,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

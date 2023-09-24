@@ -1,0 +1,54 @@
+{
+  "title": "Ruff and Reddy",
+  "titles_alternative": [
+    "Ruff and Reddy in the Space Adventure"
+  ],
+  "crawled_at": "2023-09-24T08:11:42.664460+00:00",
+  "slug": "ruff-and-reddy-atari-st",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ruff-and-reddy-atari-st",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ruff-and-reddy-atari-st/R1.png"
+  ],
+  "year": 1990,
+  "date_added": "2016-01-21T00:00:00+00:00",
+  "developers": {
+    "Twilight Games": "https://downloads.khinsider.com/game-soundtracks/developer/twilight-games"
+  },
+  "publishers": {
+    "Hi-Tec Software": "https://downloads.khinsider.com/game-soundtracks/publisher/hi-tec-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4299161,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 167,
+      "source_mp3": "https://vgmsite.com/soundtracks/ruff-and-reddy-atari-st/wakhqbzt/01_Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ruff-and-reddy-atari-st/01_Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 2,
+      "title": "Game Over",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/ruff-and-reddy-atari-st/xevapmer/02_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ruff-and-reddy-atari-st/02_Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 172,
+    "filesize_mp3_bytes": 4424990,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

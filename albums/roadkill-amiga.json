@@ -1,0 +1,76 @@
+{
+  "title": "Roadkill",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T07:12:30.857157+00:00",
+  "slug": "roadkill-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/roadkill-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/roadkill-amiga/blair-zuppicich-roadkill.jpg"
+  ],
+  "year": 1994,
+  "date_added": "2020-07-29T00:00:00+00:00",
+  "developers": {
+    "Vision Software": "https://downloads.khinsider.com/game-soundtracks/developer/vision-software"
+  },
+  "publishers": {
+    "Acid": "https://downloads.khinsider.com/game-soundtracks/publisher/acid"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 25438453,
+      "filesize_mp3_bytes": 6920601,
+      "track_number": 1,
+      "title": "Title Theme",
+      "runtime": 193,
+      "source_mp3": "https://vgmsite.com/soundtracks/roadkill-amiga/hzdzhgvbwh/01%20Title%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/roadkill-amiga/hzdzhgvbwh/01%20Title%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/roadkill-amiga/01%2520Title%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1939865,
+      "filesize_mp3_bytes": 545259,
+      "track_number": 2,
+      "title": "Race Start",
+      "runtime": 15,
+      "source_mp3": "https://vgmsite.com/soundtracks/roadkill-amiga/zmesyunsbl/02%20Race%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/roadkill-amiga/zmesyunsbl/02%20Race%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/roadkill-amiga/02%2520Race%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1761607,
+      "filesize_mp3_bytes": 513802,
+      "track_number": 3,
+      "title": "Roadkill SFX",
+      "runtime": 14,
+      "source_mp3": "https://vgmsite.com/soundtracks/roadkill-amiga/iqmgwfiwvc/03%20Roadkill%20SFX.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/roadkill-amiga/iqmgwfiwvc/03%20Roadkill%20SFX.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/roadkill-amiga/03%2520Roadkill%2520SFX.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7402946,
+      "filesize_mp3_bytes": 2055208,
+      "track_number": 4,
+      "title": "End Tune",
+      "runtime": 60,
+      "source_mp3": "https://vgmsite.com/soundtracks/roadkill-amiga/nbrrjrmlia/04%20End%20Tune.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/roadkill-amiga/nbrrjrmlia/04%20End%20Tune.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/roadkill-amiga/04%2520End%2520Tune.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 282,
+    "filesize_mp3_bytes": 10034870,
+    "filesize_flac_bytes": 36542871,
+    "tracks": 4
+  }
+}

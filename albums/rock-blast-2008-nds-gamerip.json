@@ -1,0 +1,98 @@
+{
+  "title": "Rock Blast",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T07:19:26.153505+00:00",
+  "slug": "rock-blast-2008-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/rock-blast-2008-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/rock-blast-2008-nds-gamerip/Rock%20Blast.jpg"
+  ],
+  "year": 2008,
+  "date_added": "2020-06-22T00:00:00+00:00",
+  "developers": {
+    "CyberPlanet": "https://downloads.khinsider.com/game-soundtracks/developer/cyberplanet"
+  },
+  "publishers": {
+    "UFO": "https://downloads.khinsider.com/game-soundtracks/publisher/ufo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8021606,
+      "filesize_mp3_bytes": 2768240,
+      "track_number": 1,
+      "title": "Menu",
+      "runtime": 107,
+      "source_mp3": "https://vgmsite.com/soundtracks/rock-blast-2008-nds-gamerip/nzfqfnwmyf/01%20-%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rock-blast-2008-nds-gamerip/nzfqfnwmyf/01%20-%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rock-blast-2008-nds-gamerip/01%2520-%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6952058,
+      "filesize_mp3_bytes": 2579496,
+      "track_number": 2,
+      "title": "Play1",
+      "runtime": 99,
+      "source_mp3": "https://vgmsite.com/soundtracks/rock-blast-2008-nds-gamerip/senqycxwyy/02%20-%20Play1.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rock-blast-2008-nds-gamerip/senqycxwyy/02%20-%20Play1.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rock-blast-2008-nds-gamerip/02%2520-%2520Play1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4928307,
+      "filesize_mp3_bytes": 1845493,
+      "track_number": 3,
+      "title": "Play2",
+      "runtime": 75,
+      "source_mp3": "https://vgmsite.com/soundtracks/rock-blast-2008-nds-gamerip/nzvliywhgg/03%20-%20Play2.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rock-blast-2008-nds-gamerip/nzvliywhgg/03%20-%20Play2.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rock-blast-2008-nds-gamerip/03%2520-%2520Play2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7801405,
+      "filesize_mp3_bytes": 2862612,
+      "track_number": 4,
+      "title": "Play3",
+      "runtime": 107,
+      "source_mp3": "https://vgmsite.com/soundtracks/rock-blast-2008-nds-gamerip/hysslquuog/04%20-%20Play3.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rock-blast-2008-nds-gamerip/hysslquuog/04%20-%20Play3.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rock-blast-2008-nds-gamerip/04%2520-%2520Play3.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6994001,
+      "filesize_mp3_bytes": 2642411,
+      "track_number": 5,
+      "title": "Credit",
+      "runtime": 97,
+      "source_mp3": "https://vgmsite.com/soundtracks/rock-blast-2008-nds-gamerip/koawcefcus/05%20-%20Credit.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rock-blast-2008-nds-gamerip/koawcefcus/05%20-%20Credit.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rock-blast-2008-nds-gamerip/05%2520-%2520Credit.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 220200,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 6,
+      "title": "Win",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/rock-blast-2008-nds-gamerip/bszymqftuk/06%20-%20Win.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rock-blast-2008-nds-gamerip/bszymqftuk/06%20-%20Win.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rock-blast-2008-nds-gamerip/06%2520-%2520Win.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 488,
+    "filesize_mp3_bytes": 12792623,
+    "filesize_flac_bytes": 34917577,
+    "tracks": 6
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "title": "Shanghai",
+  "titles_alternative": [
+    "\u4e0a\u6d77"
+  ],
+  "crawled_at": "2023-09-24T11:10:50.395066+00:00",
+  "slug": "shanghai-gameboy",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/shanghai-gameboy",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/shanghai-gameboy/S1.png"
+  ],
+  "year": 1989,
+  "date_added": "2017-12-28T00:00:00+00:00",
+  "developers": {
+    "HAL Laboratory": "https://downloads.khinsider.com/game-soundtracks/developer/hal-laboratory"
+  },
+  "publishers": {
+    "HAL Laboratory": "https://downloads.khinsider.com/game-soundtracks/publisher/hal-laboratory"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2915041,
+      "track_number": 1,
+      "title": "Track 01 - Shanghai",
+      "runtime": 87,
+      "source_mp3": "https://vgmsite.com/soundtracks/shanghai-gameboy/kogyklpl/01_Track%2001%20-%20Shanghai.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shanghai-gameboy/01_Track%252001%2520-%2520Shanghai.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2967470,
+      "track_number": 2,
+      "title": "Track 02 - Shanghai",
+      "runtime": 85,
+      "source_mp3": "https://vgmsite.com/soundtracks/shanghai-gameboy/rgccnxqf/02_Track%2002%20-%20Shanghai.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shanghai-gameboy/02_Track%252002%2520-%2520Shanghai.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2411724,
+      "track_number": 3,
+      "title": "Track 03 - Shanghai",
+      "runtime": 73,
+      "source_mp3": "https://vgmsite.com/soundtracks/shanghai-gameboy/mjnqekvq/03_Track%2003%20-%20Shanghai.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shanghai-gameboy/03_Track%252003%2520-%2520Shanghai.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1625292,
+      "track_number": 4,
+      "title": "Track 04 - Shanghai",
+      "runtime": 49,
+      "source_mp3": "https://vgmsite.com/soundtracks/shanghai-gameboy/zgrmmezf/04_Track%2004%20-%20Shanghai.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shanghai-gameboy/04_Track%252004%2520-%2520Shanghai.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1363148,
+      "track_number": 5,
+      "title": "Track 05 - Shanghai",
+      "runtime": 40,
+      "source_mp3": "https://vgmsite.com/soundtracks/shanghai-gameboy/bixeoslq/05_Track%2005%20-%20Shanghai.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shanghai-gameboy/05_Track%252005%2520-%2520Shanghai.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2285895,
+      "track_number": 6,
+      "title": "Track 06 - Shanghai",
+      "runtime": 68,
+      "source_mp3": "https://vgmsite.com/soundtracks/shanghai-gameboy/tqhjbgvb/06_Track%2006%20-%20Shanghai.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shanghai-gameboy/06_Track%252006%2520-%2520Shanghai.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 7,
+      "title": "Track 07 - Shanghai",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/shanghai-gameboy/izztpbkw/07_Track%2007%20-%20Shanghai.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shanghai-gameboy/07_Track%252007%2520-%2520Shanghai.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 405,
+    "filesize_mp3_bytes": 13652456,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}
