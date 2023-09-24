@@ -1,0 +1,69 @@
+{
+  "title": "Pokonyan! (CP System)",
+  "titles_alternative": [
+    "Pokonyan! Balloon",
+    "Pokonyan! Henpokorin Adventure",
+    "\u30dd\u30b3\u30cb\u30e3\u30f3"
+  ],
+  "crawled_at": "2023-09-23T22:39:16.833812+00:00",
+  "slug": "pokonyan-cp-system-arcade-gamerip-1994",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pokonyan-cp-system-arcade-gamerip-1994",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pokonyan-cp-system-arcade-gamerip-1994/Pokonyan%21%20Balloon.png"
+  ],
+  "year": 1994,
+  "date_added": "2023-03-15T00:00:00+00:00",
+  "developers": {
+    "Toho": "https://downloads.khinsider.com/game-soundtracks/developer/toho"
+  },
+  "publishers": {
+    "Toho": "https://downloads.khinsider.com/game-soundtracks/publisher/toho"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4529848,
+      "filesize_mp3_bytes": 1897922,
+      "track_number": 1,
+      "title": "Attract BGM",
+      "runtime": 79,
+      "source_mp3": "https://vgmsite.com/soundtracks/pokonyan-cp-system-arcade-gamerip-1994/tztiyiuytm/01.%20Attract%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pokonyan-cp-system-arcade-gamerip-1994/tztiyiuytm/01.%20Attract%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pokonyan-cp-system-arcade-gamerip-1994/01.%2520Attract%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4561305,
+      "filesize_mp3_bytes": 1803550,
+      "track_number": 2,
+      "title": "Main BGM",
+      "runtime": 93,
+      "source_mp3": "https://vgmsite.com/soundtracks/pokonyan-cp-system-arcade-gamerip-1994/bfiljnveuy/02.%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pokonyan-cp-system-arcade-gamerip-1994/bfiljnveuy/02.%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pokonyan-cp-system-arcade-gamerip-1994/02.%2520Main%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 901775,
+      "filesize_mp3_bytes": 377487,
+      "track_number": 3,
+      "title": "Ending BGM",
+      "runtime": 19,
+      "source_mp3": "https://vgmsite.com/soundtracks/pokonyan-cp-system-arcade-gamerip-1994/qviwmslztp/03.%20Ending%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pokonyan-cp-system-arcade-gamerip-1994/qviwmslztp/03.%20Ending%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pokonyan-cp-system-arcade-gamerip-1994/03.%2520Ending%2520BGM.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 191,
+    "filesize_mp3_bytes": 4078959,
+    "filesize_flac_bytes": 9992928,
+    "tracks": 3
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "title": "Rider OST",
+  "titles_alternative": [
+    "Rider soundtrack"
+  ],
+  "crawled_at": "2023-09-24T02:44:27.314600+00:00",
+  "slug": "rider-ost-2017",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/rider-ost-2017",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/rider-ost-2017/e06c1c3c12b87a6a6599522jlutkkddb6abda0.jpg"
+  ],
+  "year": 2017,
+  "date_added": "2023-09-06T00:00:00+00:00",
+  "developers": {
+    "ketchapp": "https://downloads.khinsider.com/game-soundtracks/developer/ketchapp"
+  },
+  "publishers": {
+    "Ketchapp": "https://downloads.khinsider.com/game-soundtracks/publisher/ketchapp"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6406799,
+      "track_number": 1,
+      "title": "Ambient",
+      "runtime": 316,
+      "source_mp3": "https://vgmsite.com/soundtracks/rider-ost-2017/toogenvkvo/01.%20Ambient.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rider-ost-2017/01.%2520Ambient.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5012193,
+      "track_number": 2,
+      "title": "Chrome",
+      "runtime": 308,
+      "source_mp3": "https://vgmsite.com/soundtracks/rider-ost-2017/uibwnypsux/02.%20Chrome.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rider-ost-2017/02.%2520Chrome.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4886364,
+      "track_number": 3,
+      "title": "Dash",
+      "runtime": 240,
+      "source_mp3": "https://vgmsite.com/soundtracks/rider-ost-2017/aylfduwosj/03.%20Dash.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rider-ost-2017/03.%2520Dash.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5819596,
+      "track_number": 4,
+      "title": "Gridlock",
+      "runtime": 287,
+      "source_mp3": "https://vgmsite.com/soundtracks/rider-ost-2017/ldqbcoyrjb/04.%20Gridlock.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rider-ost-2017/04.%2520Gridlock.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4917821,
+      "track_number": 5,
+      "title": "Hyperdrive",
+      "runtime": 302,
+      "source_mp3": "https://vgmsite.com/soundtracks/rider-ost-2017/nosccszlym/05.%20Hyperdrive.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rider-ost-2017/05.%2520Hyperdrive.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5169479,
+      "track_number": 6,
+      "title": "Momentum",
+      "runtime": 318,
+      "source_mp3": "https://vgmsite.com/soundtracks/rider-ost-2017/dpwmxhjpwv/06.%20Momentum.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rider-ost-2017/06.%2520Momentum.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1771,
+    "filesize_mp3_bytes": 32212252,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

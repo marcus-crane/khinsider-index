@@ -1,0 +1,52 @@
+{
+  "title": "Rabbids Lab",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T00:44:21.791191+00:00",
+  "slug": "rabbids-lab",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/rabbids-lab",
+  "platforms": {
+    "Wii": "https://downloads.khinsider.com/game-soundtracks/nintendo-wii"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/rabbids-lab/rabbids-lab-cover.cover_300x.jpg"
+  ],
+  "year": 2009,
+  "date_added": "2018-07-23T00:00:00+00:00",
+  "developers": {
+    "Ubisoft": "https://downloads.khinsider.com/game-soundtracks/developer/ubisoft"
+  },
+  "publishers": {
+    "Ubisoft": "https://downloads.khinsider.com/game-soundtracks/publisher/ubisoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 681574,
+      "track_number": 1,
+      "title": "Channel Intro",
+      "runtime": 34,
+      "source_mp3": "https://vgmsite.com/soundtracks/rabbids-lab/kwjqdpjb/001%20-%20Channel%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rabbids-lab/001%2520-%2520Channel%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6836715,
+      "track_number": 2,
+      "title": "Rabbids Lab BGM",
+      "runtime": 241,
+      "source_mp3": "https://vgmsite.com/soundtracks/rabbids-lab/utolzgcv/002%20-%20Rabbids%20Lab%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rabbids-lab/002%2520-%2520Rabbids%2520Lab%2520BGM.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 275,
+    "filesize_mp3_bytes": 7518289,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

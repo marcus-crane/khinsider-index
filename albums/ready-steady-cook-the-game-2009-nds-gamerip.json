@@ -1,0 +1,65 @@
+{
+  "title": "Ready Steady Cook - The Game",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T01:43:17.358356+00:00",
+  "slug": "ready-steady-cook-the-game-2009-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ready-steady-cook-the-game-2009-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ready-steady-cook-the-game-2009-nds-gamerip/R1.png"
+  ],
+  "year": 2009,
+  "date_added": "2020-06-22T00:00:00+00:00",
+  "developers": {
+    "Sanuk": "https://downloads.khinsider.com/game-soundtracks/developer/sanuk"
+  },
+  "publishers": {
+    "Mindscape": "https://downloads.khinsider.com/game-soundtracks/publisher/mindscape"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3743416,
+      "filesize_mp3_bytes": 1373634,
+      "track_number": 1,
+      "title": "BGM Main",
+      "runtime": 55,
+      "source_mp3": "https://vgmsite.com/soundtracks/ready-steady-cook-the-game-2009-nds-gamerip/bvgkqderyr/01%20-%20BGM%20Main.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ready-steady-cook-the-game-2009-nds-gamerip/bvgkqderyr/01%20-%20BGM%20Main.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ready-steady-cook-the-game-2009-nds-gamerip/01%2520-%2520BGM%2520Main.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2925527,
+      "filesize_mp3_bytes": 1069547,
+      "track_number": 2,
+      "title": "BGM Mini Game",
+      "runtime": 40,
+      "source_mp3": "https://vgmsite.com/soundtracks/ready-steady-cook-the-game-2009-nds-gamerip/pweacfzdhz/02%20-%20BGM%20Mini%20Game.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ready-steady-cook-the-game-2009-nds-gamerip/pweacfzdhz/02%20-%20BGM%20Mini%20Game.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ready-steady-cook-the-game-2009-nds-gamerip/02%2520-%2520BGM%2520Mini%2520Game.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2778726,
+      "filesize_mp3_bytes": 1027604,
+      "track_number": 3,
+      "title": "BGM Show",
+      "runtime": 40,
+      "source_mp3": "https://vgmsite.com/soundtracks/ready-steady-cook-the-game-2009-nds-gamerip/kcqbynrdax/03%20-%20BGM%20Show.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ready-steady-cook-the-game-2009-nds-gamerip/kcqbynrdax/03%20-%20BGM%20Show.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ready-steady-cook-the-game-2009-nds-gamerip/03%2520-%2520BGM%2520Show.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 135,
+    "filesize_mp3_bytes": 3470785,
+    "filesize_flac_bytes": 9447669,
+    "tracks": 3
+  }
+}

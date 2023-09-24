@@ -1,0 +1,43 @@
+{
+  "title": "Prime (Unreleased)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T23:25:00.793129+00:00",
+  "slug": "prime-1994-snes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/prime-1994-snes",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/prime-1994-snes/P1.png"
+  ],
+  "year": 1994,
+  "date_added": "2019-08-20T00:00:00+00:00",
+  "developers": {
+    "Malibu": "https://downloads.khinsider.com/game-soundtracks/developer/malibu"
+  },
+  "publishers": {
+    "Sony Imagesoft": "https://downloads.khinsider.com/game-soundtracks/publisher/sony-imagesoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3334471,
+      "filesize_mp3_bytes": 1646264,
+      "track_number": 1,
+      "title": "Unused Song",
+      "runtime": 74,
+      "source_mp3": "https://vgmsite.com/soundtracks/prime-1994-snes/dtlhtsqeon/01%20Unused%20Song.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/prime-1994-snes/dtlhtsqeon/01%20Unused%20Song.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/prime-1994-snes/01%2520Unused%2520Song.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 74,
+    "filesize_mp3_bytes": 1646264,
+    "filesize_flac_bytes": 3334471,
+    "tracks": 1
+  }
+}

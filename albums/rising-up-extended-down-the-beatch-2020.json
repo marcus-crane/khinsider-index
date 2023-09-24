@@ -1,0 +1,55 @@
+{
+  "title": "Rising Up Extended + Down The Beatch",
+  "titles_alternative": [
+    "Rising Up - Extended"
+  ],
+  "crawled_at": "2023-09-24T03:00:47.589737+00:00",
+  "slug": "rising-up-extended-down-the-beatch-2020",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/rising-up-extended-down-the-beatch-2020",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/rising-up-extended-down-the-beatch-2020/cover.png"
+  ],
+  "year": 2020,
+  "catalog_number": null,
+  "date_added": "2023-04-28T00:00:00+00:00",
+  "developers": {
+    "DotEmu": "https://downloads.khinsider.com/game-soundtracks/developer/dotemu"
+  },
+  "publishers": {
+    "Olivier Deriviere": "https://downloads.khinsider.com/game-soundtracks/publisher/olivier-deriviere"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 63889735,
+      "filesize_mp3_bytes": 10066329,
+      "track_number": 1,
+      "title": "Rising Up Extended",
+      "runtime": 294,
+      "source_mp3": "https://vgmsite.com/soundtracks/rising-up-extended-down-the-beatch-2020/dhjwuuhqhd/01.%20Rising%20Up%20Extended.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rising-up-extended-down-the-beatch-2020/dhjwuuhqhd/01.%20Rising%20Up%20Extended.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rising-up-extended-down-the-beatch-2020/01.%2520Rising%2520Up%2520Extended.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 42289070,
+      "filesize_mp3_bytes": 6595543,
+      "track_number": 2,
+      "title": "Down The Beatch",
+      "runtime": 205,
+      "source_mp3": "https://vgmsite.com/soundtracks/rising-up-extended-down-the-beatch-2020/oxltpjnmds/02.%20Down%20The%20Beatch.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rising-up-extended-down-the-beatch-2020/oxltpjnmds/02.%20Down%20The%20Beatch.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rising-up-extended-down-the-beatch-2020/02.%2520Down%2520The%2520Beatch.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 499,
+    "filesize_mp3_bytes": 16661872,
+    "filesize_flac_bytes": 106178805,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "title": "Pusher",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T00:20:35.649840+00:00",
+  "slug": "pusher-windows-gamerip-2002",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pusher-windows-gamerip-2002",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pusher-windows-gamerip-2002/Image.jpg"
+  ],
+  "year": 2002,
+  "date_added": "2023-09-13T00:00:00+00:00",
+  "developers": {
+    "JoWood Vienna": "https://downloads.khinsider.com/game-soundtracks/developer/jowood-vienna"
+  },
+  "publishers": {
+    "JoWood Productions": "https://downloads.khinsider.com/game-soundtracks/publisher/jowood-productions"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7591690,
+      "filesize_mp3_bytes": 2327838,
+      "track_number": 1,
+      "title": "Credits",
+      "runtime": 121,
+      "source_mp3": "https://vgmsite.com/soundtracks/pusher-windows-gamerip-2002/ouidfpzpip/01.%20Credits.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pusher-windows-gamerip-2002/ouidfpzpip/01.%20Credits.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pusher-windows-gamerip-2002/01.%2520Credits.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2411724,
+      "filesize_mp3_bytes": 786432,
+      "track_number": 2,
+      "title": "Highscore",
+      "runtime": 41,
+      "source_mp3": "https://vgmsite.com/soundtracks/pusher-windows-gamerip-2002/rtouxrrfot/02.%20Highscore.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pusher-windows-gamerip-2002/rtouxrrfot/02.%20Highscore.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pusher-windows-gamerip-2002/02.%2520Highscore.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 17605591,
+      "filesize_mp3_bytes": 6176112,
+      "track_number": 3,
+      "title": "Ingame",
+      "runtime": 332,
+      "source_mp3": "https://vgmsite.com/soundtracks/pusher-windows-gamerip-2002/ezcmdwylyr/03.%20Ingame.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pusher-windows-gamerip-2002/ezcmdwylyr/03.%20Ingame.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pusher-windows-gamerip-2002/03.%2520Ingame.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2306867,
+      "filesize_mp3_bytes": 754974,
+      "track_number": 4,
+      "title": "Mainmenu",
+      "runtime": 41,
+      "source_mp3": "https://vgmsite.com/soundtracks/pusher-windows-gamerip-2002/hanpnizngv/04.%20Mainmenu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pusher-windows-gamerip-2002/hanpnizngv/04.%20Mainmenu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pusher-windows-gamerip-2002/04.%2520Mainmenu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2254438,
+      "filesize_mp3_bytes": 681574,
+      "track_number": 5,
+      "title": "Titlescreen",
+      "runtime": 37,
+      "source_mp3": "https://vgmsite.com/soundtracks/pusher-windows-gamerip-2002/wvhyxbrrwu/05.%20Titlescreen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pusher-windows-gamerip-2002/wvhyxbrrwu/05.%20Titlescreen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pusher-windows-gamerip-2002/05.%2520Titlescreen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 572,
+    "filesize_mp3_bytes": 10726930,
+    "filesize_flac_bytes": 32170310,
+    "tracks": 5
+  }
+}

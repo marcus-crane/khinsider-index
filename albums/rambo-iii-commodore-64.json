@@ -1,0 +1,236 @@
+{
+  "title": "Rambo III",
+  "titles_alternative": [
+    "\u30e9\u30f3\u30dc\u30fcIII"
+  ],
+  "crawled_at": "2023-09-24T01:09:57.796191+00:00",
+  "slug": "rambo-iii-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/rambo-iii-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/rambo-iii-commodore-64/R1.jpg"
+  ],
+  "year": 1988,
+  "date_added": "2016-11-29T00:00:00+00:00",
+  "developers": {
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/developer/ocean"
+  },
+  "publishers": {
+    "Hit Squad": "https://downloads.khinsider.com/game-soundtracks/publisher/hit-squad",
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/publisher/ocean",
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/publisher/taito"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5158993,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 219,
+      "source_mp3": "https://vgmsite.com/soundtracks/rambo-iii-commodore-64/pvcjvujs/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rambo-iii-commodore-64/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 2,
+      "title": "Get Ready! (1)",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/rambo-iii-commodore-64/bhemoyfm/02_Get%20Ready%21%20%281%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rambo-iii-commodore-64/02_Get%2520Ready%2521%2520%25281%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3858759,
+      "track_number": 3,
+      "title": "Stage 1 The Fortress",
+      "runtime": 166,
+      "source_mp3": "https://vgmsite.com/soundtracks/rambo-iii-commodore-64/bvevsbmp/03_Stage%201%20The%20Fortress.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rambo-iii-commodore-64/03_Stage%25201%2520The%2520Fortress.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 4,
+      "title": "Colonel Trautman",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/rambo-iii-commodore-64/owpbnqvz/04_Colonel%20Trautman.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rambo-iii-commodore-64/04_Colonel%2520Trautman.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3586129,
+      "track_number": 5,
+      "title": "Stage 2 The Vehicle Compound",
+      "runtime": 178,
+      "source_mp3": "https://vgmsite.com/soundtracks/rambo-iii-commodore-64/whkdkexb/05_Stage%202%20The%20Vehicle%20Compound.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rambo-iii-commodore-64/05_Stage%25202%2520The%2520Vehicle%2520Compound.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 6,
+      "title": "Helicopter",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/rambo-iii-commodore-64/uypuzjeg/06_Helicopter.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rambo-iii-commodore-64/06_Helicopter.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 7,
+      "title": "Get Ready! (2)",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/rambo-iii-commodore-64/vhcyiwol/07_Get%20Ready%21%20%282%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rambo-iii-commodore-64/07_Get%2520Ready%2521%2520%25282%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3869245,
+      "track_number": 8,
+      "title": "Ending",
+      "runtime": 166,
+      "source_mp3": "https://vgmsite.com/soundtracks/rambo-iii-commodore-64/twcqqonw/08_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rambo-iii-commodore-64/08_Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 9,
+      "title": "Game Over",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/rambo-iii-commodore-64/ynopqxdn/09_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rambo-iii-commodore-64/09_Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2170552,
+      "track_number": 10,
+      "title": "Name Entry",
+      "runtime": 105,
+      "source_mp3": "https://vgmsite.com/soundtracks/rambo-iii-commodore-64/bezbygqv/10_Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rambo-iii-commodore-64/10_Name%2520Entry.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8283750,
+      "track_number": 11,
+      "title": "Title Screen (SID Stereo)",
+      "runtime": 220,
+      "source_mp3": "https://vgmsite.com/soundtracks/rambo-iii-commodore-64/gmaguwea/11_Title%20Screen%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rambo-iii-commodore-64/11_Title%2520Screen%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 157286,
+      "track_number": 12,
+      "title": "Get Ready! (1) (SID Stereo)",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/rambo-iii-commodore-64/eqaaihzo/12_Get%20Ready%21%20%281%29%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rambo-iii-commodore-64/12_Get%2520Ready%2521%2520%25281%2529%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6343884,
+      "track_number": 13,
+      "title": "Stage 1 The Fortress (SID Stereo)",
+      "runtime": 166,
+      "source_mp3": "https://vgmsite.com/soundtracks/rambo-iii-commodore-64/lpirelaa/13_Stage%201%20The%20Fortress%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rambo-iii-commodore-64/13_Stage%25201%2520The%2520Fortress%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 167772,
+      "track_number": 14,
+      "title": "Colonel Trautman (SID Stereo)",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/rambo-iii-commodore-64/zcjrsikl/14_Colonel%20Trautman%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rambo-iii-commodore-64/14_Colonel%2520Trautman%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6259998,
+      "track_number": 15,
+      "title": "Stage 2 The Vehicle Compound (SID Stereo)",
+      "runtime": 179,
+      "source_mp3": "https://vgmsite.com/soundtracks/rambo-iii-commodore-64/pscjawnk/15_Stage%202%20The%20Vehicle%20Compound%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rambo-iii-commodore-64/15_Stage%25202%2520The%2520Vehicle%2520Compound%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 16,
+      "title": "Helicopter (SID Stereo)",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/rambo-iii-commodore-64/fyeckhxh/16_Helicopter%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rambo-iii-commodore-64/16_Helicopter%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 17,
+      "title": "Get Ready! (2) (SID Stereo)",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/rambo-iii-commodore-64/tevkrdli/17_Get%20Ready%21%20%282%29%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rambo-iii-commodore-64/17_Get%2520Ready%2521%2520%25282%2529%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6301941,
+      "track_number": 18,
+      "title": "Ending (SID Stereo)",
+      "runtime": 165,
+      "source_mp3": "https://vgmsite.com/soundtracks/rambo-iii-commodore-64/udalpvlg/18_Ending%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rambo-iii-commodore-64/18_Ending%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 167772,
+      "track_number": 19,
+      "title": "Game Over (SID Stereo)",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/rambo-iii-commodore-64/ygalzqrn/19_Game%20Over%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rambo-iii-commodore-64/19_Game%2520Over%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3701473,
+      "track_number": 20,
+      "title": "Name Entry (SID Stereo)",
+      "runtime": 104,
+      "source_mp3": "https://vgmsite.com/soundtracks/rambo-iii-commodore-64/hbpgxgkk/20_Name%20Entry%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rambo-iii-commodore-64/20_Name%2520Entry%2520%2528SID%2520Stereo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1721,
+    "filesize_mp3_bytes": 50709125,
+    "filesize_flac_bytes": 0,
+    "tracks": 20
+  }
+}

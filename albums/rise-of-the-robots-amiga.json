@@ -1,0 +1,63 @@
+{
+  "title": "Rise of the Robots",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T02:57:58.056758+00:00",
+  "slug": "rise-of-the-robots-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/rise-of-the-robots-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/rise-of-the-robots-amiga/16713-rise-of-the-robots-amiga-front-cover.jpg"
+  ],
+  "year": 1994,
+  "date_added": "2020-11-11T00:00:00+00:00",
+  "developers": {
+    "Instinct Design": "https://downloads.khinsider.com/game-soundtracks/developer/instinct-design",
+    "Mirage Technologies (Multimedia)": "https://downloads.khinsider.com/game-soundtracks/developer/mirage-technologies-multimedia"
+  },
+  "publishers": {
+    "Time Warner Interactive": "https://downloads.khinsider.com/game-soundtracks/publisher/time-warner-interactive"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2453667,
+      "track_number": 1,
+      "title": "The Dark (Main Menu)",
+      "runtime": 90,
+      "source_mp3": "https://vgmsite.com/soundtracks/rise-of-the-robots-amiga/irxkpqhjnr/01%20The%20Dark%20%28Main%20Menu%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rise-of-the-robots-amiga/01%2520The%2520Dark%2520%2528Main%2520Menu%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4330618,
+      "track_number": 2,
+      "title": "Ending",
+      "runtime": 140,
+      "source_mp3": "https://vgmsite.com/soundtracks/rise-of-the-robots-amiga/bdfrxlrdpu/02%20Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rise-of-the-robots-amiga/02%2520Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2453667,
+      "track_number": 3,
+      "title": "The Dark (Main Menu) [CD32 Version]",
+      "runtime": 89,
+      "source_mp3": "https://vgmsite.com/soundtracks/rise-of-the-robots-amiga/ftqhxoaiwh/03%20The%20Dark%20%28Main%20Menu%29%20%5BCD32%20Version%5D.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rise-of-the-robots-amiga/03%2520The%2520Dark%2520%2528Main%2520Menu%2529%2520%255BCD32%2520Version%255D.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 319,
+    "filesize_mp3_bytes": 9237952,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

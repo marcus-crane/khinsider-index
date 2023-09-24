@@ -1,0 +1,115 @@
+{
+  "title": "Polaris SnoCross (GBC)",
+  "titles_alternative": [
+    "SnowCross"
+  ],
+  "crawled_at": "2023-09-23T22:39:24.734309+00:00",
+  "slug": "polaris-snocross",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/polaris-snocross",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/polaris-snocross/9331_front.jpg"
+  ],
+  "year": 2000,
+  "date_added": "2015-06-04T00:00:00+00:00",
+  "developers": {
+    "Vicarious Visions": "https://downloads.khinsider.com/game-soundtracks/developer/vicarious-visions"
+  },
+  "publishers": {
+    "Vatical Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/vatical-entertainment",
+    "Wanadoo": "https://downloads.khinsider.com/game-soundtracks/publisher/wanadoo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1006632,
+      "track_number": 1,
+      "title": "BGM 01",
+      "runtime": 63,
+      "source_mp3": "https://vgmsite.com/soundtracks/polaris-snocross/tlnuojbr/01_BGM%2001.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/polaris-snocross/01_BGM%252001.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4005560,
+      "track_number": 2,
+      "title": "BGM #02",
+      "runtime": 250,
+      "source_mp3": "https://vgmsite.com/soundtracks/polaris-snocross/efiycpyz/02_BGM%20%2302.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/polaris-snocross/02_BGM%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2726297,
+      "track_number": 3,
+      "title": "BGM #03",
+      "runtime": 170,
+      "source_mp3": "https://vgmsite.com/soundtracks/polaris-snocross/cxxfcoye/03_BGM%20%2303.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/polaris-snocross/03_BGM%2520%252303.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3376414,
+      "track_number": 4,
+      "title": "BGM #04",
+      "runtime": 211,
+      "source_mp3": "https://vgmsite.com/soundtracks/polaris-snocross/fcxcbtyv/04_BGM%20%2304.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/polaris-snocross/04_BGM%2520%252304.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 671088,
+      "track_number": 5,
+      "title": "BGM #05",
+      "runtime": 42,
+      "source_mp3": "https://vgmsite.com/soundtracks/polaris-snocross/dapzvqma/05_BGM%20%2305.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/polaris-snocross/05_BGM%2520%252305.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1635778,
+      "track_number": 6,
+      "title": "BGM #06",
+      "runtime": 102,
+      "source_mp3": "https://vgmsite.com/soundtracks/polaris-snocross/ynezjpms/06_BGM%20%2306.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/polaris-snocross/06_BGM%2520%252306.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 7,
+      "title": "Jingle #01",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/polaris-snocross/anpmtlej/07_Jingle%20%2301.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/polaris-snocross/07_Jingle%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 8,
+      "title": "Jingle #02",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/polaris-snocross/tjjzakla/08_Jingle%20%2302.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/polaris-snocross/08_Jingle%2520%252302.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 850,
+    "filesize_mp3_bytes": 13620997,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

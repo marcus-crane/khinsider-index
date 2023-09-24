@@ -1,0 +1,52 @@
+{
+  "title": "Rings of Medusa",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T02:52:42.825945+00:00",
+  "slug": "rings-of-medusa-atari-st",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/rings-of-medusa-atari-st",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/rings-of-medusa-atari-st/R1.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2016-06-30T00:00:00+00:00",
+  "developers": {
+    "Starbyte Software": "https://downloads.khinsider.com/game-soundtracks/developer/starbyte-software"
+  },
+  "publishers": {
+    "Starbyte Software": "https://downloads.khinsider.com/game-soundtracks/publisher/starbyte-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5075107,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 205,
+      "source_mp3": "https://vgmsite.com/soundtracks/rings-of-medusa-atari-st/cgfmriax/01_Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rings-of-medusa-atari-st/01_Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10674503,
+      "track_number": 2,
+      "title": "In-Game Music",
+      "runtime": 393,
+      "source_mp3": "https://vgmsite.com/soundtracks/rings-of-medusa-atari-st/oxjdfigt/02_In-Game%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rings-of-medusa-atari-st/02_In-Game%2520Music.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 598,
+    "filesize_mp3_bytes": 15749610,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

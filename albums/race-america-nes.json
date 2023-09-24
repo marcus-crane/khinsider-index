@@ -1,0 +1,102 @@
+{
+  "title": "Race America",
+  "titles_alternative": [
+    "Alex DeMeo's Race America",
+    "Corvette ZR-1 Challenge"
+  ],
+  "crawled_at": "2023-09-24T00:45:54.556063+00:00",
+  "slug": "race-america-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/race-america-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/race-america-nes/Corvette%20ZR-1%20Challenge%20%28E%29.png"
+  ],
+  "year": 1992,
+  "date_added": "2022-06-13T00:00:00+00:00",
+  "developers": {
+    "Imagineering": "https://downloads.khinsider.com/game-soundtracks/developer/imagineering"
+  },
+  "publishers": {
+    "Absolute": "https://downloads.khinsider.com/game-soundtracks/publisher/absolute",
+    "Milton Bradley": "https://downloads.khinsider.com/game-soundtracks/publisher/milton-bradley"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6155141,
+      "filesize_mp3_bytes": 2852126,
+      "track_number": 1,
+      "title": "Title Screen ~ Race Start",
+      "runtime": 122,
+      "source_mp3": "https://vgmsite.com/soundtracks/race-america-nes/yctuprwmmg/01%20Title%20Screen%20~%20Race%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/race-america-nes/yctuprwmmg/01%20Title%20Screen%20~%20Race%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/race-america-nes/01%2520Title%2520Screen%2520~%2520Race%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7077888,
+      "filesize_mp3_bytes": 2831155,
+      "track_number": 2,
+      "title": "Choose Racers ~ Top-Down View ~ Race Summary",
+      "runtime": 135,
+      "source_mp3": "https://vgmsite.com/soundtracks/race-america-nes/ckhxlozfhi/02%20Choose%20Racers%20~%20Top-Down%20View%20~%20Race%20Summary.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/race-america-nes/ckhxlozfhi/02%20Choose%20Racers%20~%20Top-Down%20View%20~%20Race%20Summary.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/race-america-nes/02%2520Choose%2520Racers%2520~%2520Top-Down%2520View%2520~%2520Race%2520Summary.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5767168,
+      "filesize_mp3_bytes": 2589982,
+      "track_number": 3,
+      "title": "Select Opponent",
+      "runtime": 112,
+      "source_mp3": "https://vgmsite.com/soundtracks/race-america-nes/jnxwhuizij/03%20Select%20Opponent.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/race-america-nes/jnxwhuizij/03%20Select%20Opponent.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/race-america-nes/03%2520Select%2520Opponent.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3187671,
+      "filesize_mp3_bytes": 2055208,
+      "track_number": 4,
+      "title": "Name Your Racer ~ Winner",
+      "runtime": 75,
+      "source_mp3": "https://vgmsite.com/soundtracks/race-america-nes/wbnfflvkyf/04%20Name%20Your%20Racer%20~%20Winner.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/race-america-nes/wbnfflvkyf/04%20Name%20Your%20Racer%20~%20Winner.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/race-america-nes/04%2520Name%2520Your%2520Racer%2520~%2520Winner.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 146800,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 5,
+      "title": "Race Won",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/race-america-nes/rhdjtvhdhs/05%20Race%20Won.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/race-america-nes/rhdjtvhdhs/05%20Race%20Won.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/race-america-nes/05%2520Race%2520Won.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 209715,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 6,
+      "title": "Race Lost",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/race-america-nes/lyxxbngifn/06%20Race%20Lost.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/race-america-nes/lyxxbngifn/06%20Race%20Lost.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/race-america-nes/06%2520Race%2520Lost.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 451,
+    "filesize_mp3_bytes": 10506728,
+    "filesize_flac_bytes": 22544383,
+    "tracks": 6
+  }
+}

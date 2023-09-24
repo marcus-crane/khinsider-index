@@ -1,0 +1,74 @@
+{
+  "title": "Project X Zone OPED Theme Songs",
+  "titles_alternative": [
+    "Wing Wanderer / Yoko Takahashi",
+    "Wing Wanderer / \u9ad8\u6a4b\u6d0b\u5b50"
+  ],
+  "crawled_at": "2023-09-23T23:58:31.243111+00:00",
+  "slug": "project-x-zone-oped-theme-songs",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/project-x-zone-oped-theme-songs",
+  "platforms": {
+    "3DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-3ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/project-x-zone-oped-theme-songs/Cover.jpg"
+  ],
+  "year": 2012,
+  "catalog_number": "AMET-0008",
+  "date_added": "2016-11-13T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Atomic Monkey": "https://downloads.khinsider.com/game-soundtracks/publisher/atomic-monkey"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10674503,
+      "track_number": 1,
+      "title": "Wing Wanderer",
+      "runtime": 267,
+      "source_mp3": "https://vgmsite.com/soundtracks/project-x-zone-oped-theme-songs/nccfwaap/01.%20Wing%20Wanderer.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/project-x-zone-oped-theme-songs/01.%2520Wing%2520Wanderer.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 13851688,
+      "track_number": 2,
+      "title": "GALAXY",
+      "runtime": 346,
+      "source_mp3": "https://vgmsite.com/soundtracks/project-x-zone-oped-theme-songs/vwonaxgm/02.%20GALAXY.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/project-x-zone-oped-theme-songs/02.%2520GALAXY.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10643046,
+      "track_number": 3,
+      "title": "Wing Wanderer(Instrumental)",
+      "runtime": 266,
+      "source_mp3": "https://vgmsite.com/soundtracks/project-x-zone-oped-theme-songs/uvprdnnh/03.%20Wing%20Wanderer%28Instrumental%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/project-x-zone-oped-theme-songs/03.%2520Wing%2520Wanderer%2528Instrumental%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 13830717,
+      "track_number": 4,
+      "title": "GALAXY(Instrumental)",
+      "runtime": 346,
+      "source_mp3": "https://vgmsite.com/soundtracks/project-x-zone-oped-theme-songs/jzkopjuk/04.%20GALAXY%28Instrumental%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/project-x-zone-oped-theme-songs/04.%2520GALAXY%2528Instrumental%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1225,
+    "filesize_mp3_bytes": 48999954,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

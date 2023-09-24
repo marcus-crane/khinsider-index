@@ -1,0 +1,97 @@
+{
+  "title": "RagnaQuest",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T00:54:53.745476+00:00",
+  "slug": "ragnaquest-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ragnaquest-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ragnaquest-android/screen-0.jpg"
+  ],
+  "date_added": "2018-11-08T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 1,
+      "title": "Alarm",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/ragnaquest-android/wnwdwrho/01%20Alarm.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ragnaquest-android/01%2520Alarm.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 503316,
+      "track_number": 2,
+      "title": "Battle1",
+      "runtime": 31,
+      "source_mp3": "https://vgmsite.com/soundtracks/ragnaquest-android/rotvskcj/02%20Battle1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ragnaquest-android/02%2520Battle1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 461373,
+      "track_number": 3,
+      "title": "Battle91",
+      "runtime": 28,
+      "source_mp3": "https://vgmsite.com/soundtracks/ragnaquest-android/tghnstfj/03%20Battle91.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ragnaquest-android/03%2520Battle91.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 4,
+      "title": "Stage Clear",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/ragnaquest-android/ixoqhbre/04%20Stage%20Clear.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ragnaquest-android/04%2520Stage%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 5,
+      "title": "Lose",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/ragnaquest-android/qyvlsste/05%20Lose.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ragnaquest-android/05%2520Lose.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 6,
+      "title": "Continue",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/ragnaquest-android/tphauhdx/06%20Continue.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ragnaquest-android/06%2520Continue.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 7,
+      "title": "Shine1",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/ragnaquest-android/godeyick/07%20Shine1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ragnaquest-android/07%2520Shine1.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 84,
+    "filesize_mp3_bytes": 1426060,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

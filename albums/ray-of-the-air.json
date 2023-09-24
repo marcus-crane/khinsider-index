@@ -1,0 +1,82 @@
+{
+  "title": "Ray of the Air",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T01:24:57.643525+00:00",
+  "slug": "ray-of-the-air",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ray-of-the-air",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade",
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ray-of-the-air/Ray%20of%20the%20Air_0001.jpg"
+  ],
+  "year": 2006,
+  "catalog_number": "ABCD-0002",
+  "date_added": "2014-11-07T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Absolute Cycloid": "https://downloads.khinsider.com/game-soundtracks/publisher/absolute-cycloid"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 16745758,
+      "track_number": 1,
+      "title": "Geometric City",
+      "runtime": 402,
+      "source_mp3": "https://vgmsite.com/soundtracks/ray-of-the-air/eyxryytf/01%20Geometric%20City.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ray-of-the-air/01%2520Geometric%2520City.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 18350080,
+      "track_number": 2,
+      "title": "G",
+      "runtime": 442,
+      "source_mp3": "https://vgmsite.com/soundtracks/ray-of-the-air/dksqouyr/02%20G.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ray-of-the-air/02%2520G.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 28227665,
+      "track_number": 3,
+      "title": "Formless Living Bodies",
+      "runtime": 689,
+      "source_mp3": "https://vgmsite.com/soundtracks/ray-of-the-air/cjsicjiv/03%20Formless%20Living%20Bodies.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ray-of-the-air/03%2520Formless%2520Living%2520Bodies.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 16022241,
+      "track_number": 4,
+      "title": "Son Dessein",
+      "runtime": 384,
+      "source_mp3": "https://vgmsite.com/soundtracks/ray-of-the-air/fhtgnqwq/04%20Son%20Dessein.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ray-of-the-air/04%2520Son%2520Dessein.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 30503075,
+      "track_number": 5,
+      "title": "The place where the wind of life blows",
+      "runtime": 746,
+      "source_mp3": "https://vgmsite.com/soundtracks/ray-of-the-air/nczotoay/05%20The%20place%20where%20the%20wind%20of%20life%20blows.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ray-of-the-air/05%2520The%2520place%2520where%2520the%2520wind%2520of%2520life%2520blows.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2663,
+    "filesize_mp3_bytes": 109848819,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

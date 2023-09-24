@@ -1,0 +1,80 @@
+{
+  "title": "Rastan Saga II",
+  "titles_alternative": [
+    "Nastar Warrior",
+    "\u30e9\u30b9\u30bf\u30f3\u30b5\u30fc\u30acII"
+  ],
+  "crawled_at": "2023-09-24T01:16:26.998141+00:00",
+  "slug": "rastan-saga-ii-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/rastan-saga-ii-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/rastan-saga-ii-genesis/R1.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2020-03-20T00:00:00+00:00",
+  "developers": {
+    "Opera House": "https://downloads.khinsider.com/game-soundtracks/developer/opera-house",
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/developer/taito"
+  },
+  "publishers": {
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/publisher/taito"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11765022,
+      "filesize_mp3_bytes": 4729077,
+      "track_number": 1,
+      "title": "I- THE STORY (Main Theme)",
+      "runtime": 219,
+      "source_mp3": "https://vgmsite.com/soundtracks/rastan-saga-ii-genesis/stojucivag/01%20-I-%20THE%20STORY%20%28Main%20Theme%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rastan-saga-ii-genesis/stojucivag/01%20-I-%20THE%20STORY%20%28Main%20Theme%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rastan-saga-ii-genesis/01%2520-I-%2520THE%2520STORY%2520%2528Main%2520Theme%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9615441,
+      "filesize_mp3_bytes": 4173332,
+      "track_number": 2,
+      "title": "II- THE TRAP (Trap)",
+      "runtime": 204,
+      "source_mp3": "https://vgmsite.com/soundtracks/rastan-saga-ii-genesis/ggzjcajwmj/02%20-II-%20THE%20TRAP%20%28Trap%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rastan-saga-ii-genesis/ggzjcajwmj/02%20-II-%20THE%20TRAP%20%28Trap%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rastan-saga-ii-genesis/02%2520-II-%2520THE%2520TRAP%2520%2528Trap%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5043650,
+      "filesize_mp3_bytes": 1677721,
+      "track_number": 3,
+      "title": "III- THE BATTLE",
+      "runtime": 87,
+      "source_mp3": "https://vgmsite.com/soundtracks/rastan-saga-ii-genesis/tbudpiypcc/03%20-III-%20THE%20BATTLE.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rastan-saga-ii-genesis/tbudpiypcc/03%20-III-%20THE%20BATTLE.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rastan-saga-ii-genesis/03%2520-III-%2520THE%2520BATTLE.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6941573,
+      "filesize_mp3_bytes": 3439329,
+      "track_number": 4,
+      "title": "IV- THE BIG SWORDS (Ending)",
+      "runtime": 187,
+      "source_mp3": "https://vgmsite.com/soundtracks/rastan-saga-ii-genesis/uukeihfzno/04%20-IV-%20THE%20BIG%20SWORDS%20%28Ending%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rastan-saga-ii-genesis/uukeihfzno/04%20-IV-%20THE%20BIG%20SWORDS%20%28Ending%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rastan-saga-ii-genesis/04%2520-IV-%2520THE%2520BIG%2520SWORDS%2520%2528Ending%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 697,
+    "filesize_mp3_bytes": 14019459,
+    "filesize_flac_bytes": 33365686,
+    "tracks": 4
+  }
+}

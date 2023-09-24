@@ -1,0 +1,74 @@
+{
+  "title": "The Return of Medusa",
+  "titles_alternative": [
+    "Rings of Medusa II"
+  ],
+  "crawled_at": "2023-09-24T02:25:10.151340+00:00",
+  "slug": "return-of-medusa-the-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/return-of-medusa-the-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/return-of-medusa-the-amiga/Return%20of%20Medusa%2C%20The%20%28Amiga%29.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2016-06-22T00:00:00+00:00",
+  "developers": {
+    "X-Ample": "https://downloads.khinsider.com/game-soundtracks/developer/x-ample"
+  },
+  "publishers": {
+    "Starbyte Software": "https://downloads.khinsider.com/game-soundtracks/publisher/starbyte-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5473566,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 198,
+      "source_mp3": "https://vgmsite.com/soundtracks/return-of-medusa-the-amiga/cozwysug/01_Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/return-of-medusa-the-amiga/01_Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10643046,
+      "track_number": 2,
+      "title": "In-Game #1",
+      "runtime": 376,
+      "source_mp3": "https://vgmsite.com/soundtracks/return-of-medusa-the-amiga/arbabnop/02_In-Game%20%231.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/return-of-medusa-the-amiga/02_In-Game%2520%25231.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3502243,
+      "track_number": 3,
+      "title": "In-Game #2",
+      "runtime": 123,
+      "source_mp3": "https://vgmsite.com/soundtracks/return-of-medusa-the-amiga/qfhpbtun/03_In-Game%20%232.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/return-of-medusa-the-amiga/03_In-Game%2520%25232.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 398458,
+      "track_number": 4,
+      "title": "In-Game #3",
+      "runtime": 13,
+      "source_mp3": "https://vgmsite.com/soundtracks/return-of-medusa-the-amiga/tqrjzmsq/04_In-Game%20%233.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/return-of-medusa-the-amiga/04_In-Game%2520%25233.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 710,
+    "filesize_mp3_bytes": 20017313,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

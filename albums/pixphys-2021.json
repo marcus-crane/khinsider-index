@@ -1,0 +1,63 @@
+{
+  "title": "PixPhys",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T21:06:56.217303+00:00",
+  "slug": "pixphys-2021",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pixphys-2021",
+  "platforms": {
+    "Linux": "https://downloads.khinsider.com/game-soundtracks/linux",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pixphys-2021/cover.png"
+  ],
+  "year": 2021,
+  "date_added": "2023-07-11T00:00:00+00:00",
+  "developers": {
+    "Red Starship": "https://downloads.khinsider.com/game-soundtracks/developer/red-starship"
+  },
+  "publishers": {
+    "Red Starship": "https://downloads.khinsider.com/game-soundtracks/publisher/red-starship"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5463080,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 136,
+      "source_mp3": "https://vgmsite.com/soundtracks/pixphys-2021/gvihkttbtc/01.%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pixphys-2021/01.%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5054136,
+      "track_number": 2,
+      "title": "Ground",
+      "runtime": 126,
+      "source_mp3": "https://vgmsite.com/soundtracks/pixphys-2021/yanwhfdwib/02.%20Ground.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pixphys-2021/02.%2520Ground.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5861539,
+      "track_number": 3,
+      "title": "Space",
+      "runtime": 147,
+      "source_mp3": "https://vgmsite.com/soundtracks/pixphys-2021/fwnocqvmwc/03.%20Space.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pixphys-2021/03.%2520Space.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 409,
+    "filesize_mp3_bytes": 16378755,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

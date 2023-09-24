@@ -1,0 +1,50 @@
+{
+  "title": "Populous",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T22:59:05.624231+00:00",
+  "slug": "populous-x68000",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/populous-x68000",
+  "platforms": {
+    "X68000": "https://downloads.khinsider.com/game-soundtracks/x68000"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/populous-x68000/Populous.png"
+  ],
+  "year": 1990,
+  "date_added": "2022-05-28T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 31583109,
+      "filesize_mp3_bytes": 11565793,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 361,
+      "source_mp3": "https://vgmsite.com/soundtracks/populous-x68000/zzgrylsjhr/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/populous-x68000/zzgrylsjhr/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/populous-x68000/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 63784878,
+      "filesize_mp3_bytes": 24075304,
+      "track_number": 2,
+      "title": "Main BGM",
+      "runtime": 863,
+      "source_mp3": "https://vgmsite.com/soundtracks/populous-x68000/hjqyjwmatx/02%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/populous-x68000/hjqyjwmatx/02%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/populous-x68000/02%2520Main%2520BGM.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1224,
+    "filesize_mp3_bytes": 35641097,
+    "filesize_flac_bytes": 95367987,
+    "tracks": 2
+  }
+}

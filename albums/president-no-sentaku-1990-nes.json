@@ -1,0 +1,90 @@
+{
+  "title": "President no Sentaku",
+  "titles_alternative": [
+    "\u30d7\u30ec\u30b8\u30c7\u30f3\u30c8\u306e\u9078\u629e"
+  ],
+  "crawled_at": "2023-09-23T23:22:25.310435+00:00",
+  "slug": "president-no-sentaku-1990-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/president-no-sentaku-1990-nes",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/president-no-sentaku-1990-nes/President%20no%20Sentaku.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2022-06-01T00:00:00+00:00",
+  "developers": {
+    "Another": "https://downloads.khinsider.com/game-soundtracks/developer/another"
+  },
+  "publishers": {
+    "Hot-B": "https://downloads.khinsider.com/game-soundtracks/publisher/hot-b"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10684989,
+      "filesize_mp3_bytes": 4005560,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/president-no-sentaku-1990-nes/hgskpsukay/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/president-no-sentaku-1990-nes/hgskpsukay/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/president-no-sentaku-1990-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11041505,
+      "filesize_mp3_bytes": 3365928,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/president-no-sentaku-1990-nes/teniezlwer/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/president-no-sentaku-1990-nes/teniezlwer/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/president-no-sentaku-1990-nes/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10936647,
+      "filesize_mp3_bytes": 3565158,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/president-no-sentaku-1990-nes/oqmkmvcdjp/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/president-no-sentaku-1990-nes/oqmkmvcdjp/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/president-no-sentaku-1990-nes/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10590617,
+      "filesize_mp3_bytes": 3323985,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/president-no-sentaku-1990-nes/gdbgqjtndv/04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/president-no-sentaku-1990-nes/gdbgqjtndv/04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/president-no-sentaku-1990-nes/04.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9877585,
+      "filesize_mp3_bytes": 3628072,
+      "track_number": 5,
+      "title": "Track 5",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/president-no-sentaku-1990-nes/yxlgmwrgjo/05.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/president-no-sentaku-1990-nes/yxlgmwrgjo/05.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/president-no-sentaku-1990-nes/05.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 900,
+    "filesize_mp3_bytes": 17888703,
+    "filesize_flac_bytes": 53131343,
+    "tracks": 5
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Powermonger",
+  "titles_alternative": [
+    "\u30d1\u30ef\u30fc\u30e2\u30f3\u30ac\u30fc"
+  ],
+  "crawled_at": "2023-09-23T23:18:05.631169+00:00",
+  "slug": "powermonger-1993-snes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/powermonger-1993-snes",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/powermonger-1993-snes/PM1.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2019-08-20T00:00:00+00:00",
+  "developers": {
+    "Bullfrog": "https://downloads.khinsider.com/game-soundtracks/developer/bullfrog"
+  },
+  "publishers": {
+    "Imagineer": "https://downloads.khinsider.com/game-soundtracks/publisher/imagineer"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20950548,
+      "filesize_mp3_bytes": 7476346,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 310,
+      "source_mp3": "https://vgmsite.com/soundtracks/powermonger-1993-snes/amjlluitqy/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/powermonger-1993-snes/amjlluitqy/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/powermonger-1993-snes/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1646264,
+      "filesize_mp3_bytes": 671088,
+      "track_number": 2,
+      "title": "You Have Been Defeated",
+      "runtime": 27,
+      "source_mp3": "https://vgmsite.com/soundtracks/powermonger-1993-snes/duafypxbjz/02%20You%20Have%20Been%20Defeated.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/powermonger-1993-snes/duafypxbjz/02%20You%20Have%20Been%20Defeated.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/powermonger-1993-snes/02%2520You%2520Have%2520Been%2520Defeated.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 796917,
+      "filesize_mp3_bytes": 251658,
+      "track_number": 3,
+      "title": "Conquest",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/powermonger-1993-snes/uffrvstvlf/03%20Conquest.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/powermonger-1993-snes/uffrvstvlf/03%20Conquest.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/powermonger-1993-snes/03%2520Conquest.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 348,
+    "filesize_mp3_bytes": 8399092,
+    "filesize_flac_bytes": 23393729,
+    "tracks": 3
+  }
+}

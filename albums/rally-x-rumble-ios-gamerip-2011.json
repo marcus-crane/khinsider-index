@@ -1,0 +1,73 @@
+{
+  "title": "Rally-X Rumble",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T01:09:26.070423+00:00",
+  "slug": "rally-x-rumble-ios-gamerip-2011",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/rally-x-rumble-ios-gamerip-2011",
+  "platforms": {
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/rally-x-rumble-ios-gamerip-2011/Albumart.png"
+  ],
+  "year": 2011,
+  "catalog_number": null,
+  "date_added": "2023-05-23T00:00:00+00:00",
+  "developers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/developer/namco"
+  },
+  "publishers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/publisher/namco"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2925527,
+      "track_number": 1,
+      "title": "Menu",
+      "runtime": 98,
+      "source_mp3": "https://vgmsite.com/soundtracks/rally-x-rumble-ios-gamerip-2011/ouawfkbidf/01%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rally-x-rumble-ios-gamerip-2011/01%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2621440,
+      "track_number": 2,
+      "title": "BGM 1",
+      "runtime": 87,
+      "source_mp3": "https://vgmsite.com/soundtracks/rally-x-rumble-ios-gamerip-2011/cmbculxjlm/02%20BGM%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rally-x-rumble-ios-gamerip-2011/02%2520BGM%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2956984,
+      "track_number": 3,
+      "title": "BGM 2",
+      "runtime": 100,
+      "source_mp3": "https://vgmsite.com/soundtracks/rally-x-rumble-ios-gamerip-2011/dlrqusfvos/03%20BGM%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rally-x-rumble-ios-gamerip-2011/03%2520BGM%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3271557,
+      "track_number": 4,
+      "title": "BGM 3",
+      "runtime": 111,
+      "source_mp3": "https://vgmsite.com/soundtracks/rally-x-rumble-ios-gamerip-2011/xdelsnpgrc/04%20BGM%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rally-x-rumble-ios-gamerip-2011/04%2520BGM%25203.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 396,
+    "filesize_mp3_bytes": 11775508,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

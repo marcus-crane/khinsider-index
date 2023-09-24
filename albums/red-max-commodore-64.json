@@ -1,0 +1,92 @@
+{
+  "title": "Red Max",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T02:03:49.329454+00:00",
+  "slug": "red-max-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/red-max-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/red-max-commodore-64/3583402-red-max-commodore-64-front-cover.jpg"
+  ],
+  "year": 1987,
+  "date_added": "2016-03-30T00:00:00+00:00",
+  "developers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/developer/codemasters"
+  },
+  "publishers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/publisher/codemasters"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2107637,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 102,
+      "source_mp3": "https://vgmsite.com/soundtracks/red-max-commodore-64/ocxebsrb/01_Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/red-max-commodore-64/01_Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 2,
+      "title": "Get Ready!",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/red-max-commodore-64/wabqipwz/02_Get%20Ready%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/red-max-commodore-64/02_Get%2520Ready%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 3,
+      "title": "Game Over",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/red-max-commodore-64/epawkouj/03_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/red-max-commodore-64/03_Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3502243,
+      "track_number": 4,
+      "title": "Main Theme (SID Stereo)",
+      "runtime": 103,
+      "source_mp3": "https://vgmsite.com/soundtracks/red-max-commodore-64/lulhbaik/04_Main%20Theme%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/red-max-commodore-64/04_Main%2520Theme%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 209715,
+      "track_number": 5,
+      "title": "Get Ready! (SID Stereo)",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/red-max-commodore-64/yndinkki/05_Get%20Ready%21%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/red-max-commodore-64/05_Get%2520Ready%2521%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 272629,
+      "track_number": 6,
+      "title": "Game Over (SID Stereo)",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/red-max-commodore-64/tkopopty/06_Game%20Over%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/red-max-commodore-64/06_Game%2520Over%2520%2528SID%2520Stereo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 232,
+    "filesize_mp3_bytes": 6343881,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

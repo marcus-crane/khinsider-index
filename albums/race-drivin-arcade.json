@@ -1,0 +1,112 @@
+{
+  "title": "Race Drivin'",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T00:46:19.909038+00:00",
+  "slug": "race-drivin-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/race-drivin-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/race-drivin-arcade/Race%20Drivin%27%20Arcade%20cover%201.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2020-07-29T00:00:00+00:00",
+  "developers": {
+    "Atari": "https://downloads.khinsider.com/game-soundtracks/developer/atari"
+  },
+  "publishers": {
+    "Atari": "https://downloads.khinsider.com/game-soundtracks/publisher/atari"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1803550,
+      "track_number": 1,
+      "title": "1 Player Select",
+      "runtime": 75,
+      "source_mp3": "https://vgmsite.com/soundtracks/race-drivin-arcade/hqfzofvlgn/01%201%20Player%20Select.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/race-drivin-arcade/01%25201%2520Player%2520Select.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2453667,
+      "track_number": 2,
+      "title": "2 Players Select",
+      "runtime": 102,
+      "source_mp3": "https://vgmsite.com/soundtracks/race-drivin-arcade/izmygyjofv/02%202%20Players%20Select.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/race-drivin-arcade/02%25202%2520Players%2520Select.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2065694,
+      "track_number": 3,
+      "title": "2 Players Select 2",
+      "runtime": 86,
+      "source_mp3": "https://vgmsite.com/soundtracks/race-drivin-arcade/xjfnnpdize/03%202%20Players%20Select%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/race-drivin-arcade/03%25202%2520Players%2520Select%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 723517,
+      "track_number": 4,
+      "title": "Instant Replay",
+      "runtime": 30,
+      "source_mp3": "https://vgmsite.com/soundtracks/race-drivin-arcade/zokqwvcpev/04%20Instant%20Replay.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/race-drivin-arcade/04%2520Instant%2520Replay.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 744488,
+      "track_number": 5,
+      "title": "Unused Music 1",
+      "runtime": 31,
+      "source_mp3": "https://vgmsite.com/soundtracks/race-drivin-arcade/rpgdhblkmp/05%20Unused%20Music%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/race-drivin-arcade/05%2520Unused%2520Music%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1635778,
+      "track_number": 6,
+      "title": "Unused Music 2",
+      "runtime": 68,
+      "source_mp3": "https://vgmsite.com/soundtracks/race-drivin-arcade/vncsbthvws/06%20Unused%20Music%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/race-drivin-arcade/06%2520Unused%2520Music%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 314572,
+      "track_number": 7,
+      "title": "Name Entry",
+      "runtime": 13,
+      "source_mp3": "https://vgmsite.com/soundtracks/race-drivin-arcade/kpebvyqsao/07%20Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/race-drivin-arcade/07%2520Name%2520Entry.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1761607,
+      "track_number": 8,
+      "title": "S.E. Collection",
+      "runtime": 73,
+      "source_mp3": "https://vgmsite.com/soundtracks/race-drivin-arcade/bimqvmjdaq/08%20S.E.%20Collection.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/race-drivin-arcade/08%2520S.E.%2520Collection.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 478,
+    "filesize_mp3_bytes": 11502873,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "title": "Pro Wrestling",
+  "titles_alternative": [
+    "\u30d7\u30ed\u30ec\u30b9"
+  ],
+  "crawled_at": "2023-09-23T23:45:58.081230+00:00",
+  "slug": "pro-wrestling-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pro-wrestling-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pro-wrestling-nes/PW1.jpg"
+  ],
+  "year": 1986,
+  "date_added": "2017-07-19T00:00:00+00:00",
+  "developers": {
+    "TRY Co.": "https://downloads.khinsider.com/game-soundtracks/developer/try"
+  },
+  "publishers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 251658,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/pro-wrestling-nes/qivyulmr/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pro-wrestling-nes/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1981808,
+      "track_number": 2,
+      "title": "Versus Match",
+      "runtime": 53,
+      "source_mp3": "https://vgmsite.com/soundtracks/pro-wrestling-nes/uafxzjwl/02_Versus%20Match.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pro-wrestling-nes/02_Versus%2520Match.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4393533,
+      "track_number": 3,
+      "title": "Match Theme",
+      "runtime": 125,
+      "source_mp3": "https://vgmsite.com/soundtracks/pro-wrestling-nes/gvpqxylv/03_Match%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pro-wrestling-nes/03_Match%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 4,
+      "title": "Match Won",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/pro-wrestling-nes/lbfldvxz/04_Match%20Won.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pro-wrestling-nes/04_Match%2520Won.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 167772,
+      "track_number": 5,
+      "title": "Champion",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/pro-wrestling-nes/ycbwemhl/05_Champion.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pro-wrestling-nes/05_Champion.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1740636,
+      "track_number": 6,
+      "title": "Congratulations!",
+      "runtime": 62,
+      "source_mp3": "https://vgmsite.com/soundtracks/pro-wrestling-nes/dydfcwiv/06_Congratulations%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pro-wrestling-nes/06_Congratulations%2521.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 261,
+    "filesize_mp3_bytes": 8661236,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

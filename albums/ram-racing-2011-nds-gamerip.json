@@ -1,0 +1,77 @@
+{
+  "title": "Ram Racing",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T01:09:27.610414+00:00",
+  "slug": "ram-racing-2011-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ram-racing-2011-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ram-racing-2011-nds-gamerip/Ram%20Racing.jpg"
+  ],
+  "year": 2011,
+  "date_added": "2020-06-22T00:00:00+00:00",
+  "developers": {
+    "Storm City": "https://downloads.khinsider.com/game-soundtracks/developer/storm-city"
+  },
+  "publishers": {
+    "Enjoy Gaming": "https://downloads.khinsider.com/game-soundtracks/publisher/enjoy-gaming",
+    "Storm City": "https://downloads.khinsider.com/game-soundtracks/publisher/storm-city"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 14795407,
+      "filesize_mp3_bytes": 5001707,
+      "track_number": 1,
+      "title": "Music America",
+      "runtime": 148,
+      "source_mp3": "https://vgmsite.com/soundtracks/ram-racing-2011-nds-gamerip/fzfvygxuht/01%20-%20Music%20America.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ram-racing-2011-nds-gamerip/fzfvygxuht/01%20-%20Music%20America.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ram-racing-2011-nds-gamerip/01%2520-%2520Music%2520America.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 15225323,
+      "filesize_mp3_bytes": 5368709,
+      "track_number": 2,
+      "title": "Music Europe",
+      "runtime": 160,
+      "source_mp3": "https://vgmsite.com/soundtracks/ram-racing-2011-nds-gamerip/xutgxfapcr/02%20-%20Music%20Europe.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ram-racing-2011-nds-gamerip/xutgxfapcr/02%20-%20Music%20Europe.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ram-racing-2011-nds-gamerip/02%2520-%2520Music%2520Europe.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 15728640,
+      "filesize_mp3_bytes": 5788139,
+      "track_number": 3,
+      "title": "Music Japan",
+      "runtime": 176,
+      "source_mp3": "https://vgmsite.com/soundtracks/ram-racing-2011-nds-gamerip/srhymttofh/03%20-%20Music%20Japan.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ram-racing-2011-nds-gamerip/srhymttofh/03%20-%20Music%20Japan.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ram-racing-2011-nds-gamerip/03%2520-%2520Music%2520Japan.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 15267266,
+      "filesize_mp3_bytes": 5410652,
+      "track_number": 4,
+      "title": "Music Menu",
+      "runtime": 168,
+      "source_mp3": "https://vgmsite.com/soundtracks/ram-racing-2011-nds-gamerip/jpksqcytnf/04%20-%20Music%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ram-racing-2011-nds-gamerip/jpksqcytnf/04%20-%20Music%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ram-racing-2011-nds-gamerip/04%2520-%2520Music%2520Menu.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 652,
+    "filesize_mp3_bytes": 21569207,
+    "filesize_flac_bytes": 61016636,
+    "tracks": 4
+  }
+}

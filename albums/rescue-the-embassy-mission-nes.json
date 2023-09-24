@@ -1,0 +1,98 @@
+{
+  "title": "Rescue - The Embassy Mission",
+  "titles_alternative": [
+    "Hostages",
+    "Hostage: Rescue Mission",
+    "Operation Jupiter",
+    "\u30db\u30b9\u30c6\u30fc\u30b8"
+  ],
+  "crawled_at": "2023-09-24T02:20:55.521326+00:00",
+  "slug": "rescue-the-embassy-mission-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/rescue-the-embassy-mission-nes",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/rescue-the-embassy-mission-nes/R1.png"
+  ],
+  "year": 1988,
+  "date_added": "2015-03-13T00:00:00+00:00",
+  "developers": {
+    "Kemco": "https://downloads.khinsider.com/game-soundtracks/developer/kemco"
+  },
+  "publishers": {
+    "Kemco": "https://downloads.khinsider.com/game-soundtracks/publisher/kemco"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 639631,
+      "track_number": 1,
+      "title": "Opening",
+      "runtime": 20,
+      "source_mp3": "https://vgmsite.com/soundtracks/rescue-the-embassy-mission-nes/hfmzdltm/01_Opening.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rescue-the-embassy-mission-nes/01_Opening.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1363148,
+      "track_number": 2,
+      "title": "Planning",
+      "runtime": 40,
+      "source_mp3": "https://vgmsite.com/soundtracks/rescue-the-embassy-mission-nes/ructlrtv/02_Planning.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rescue-the-embassy-mission-nes/02_Planning.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6679429,
+      "track_number": 3,
+      "title": "Outside the Embassy",
+      "runtime": 189,
+      "source_mp3": "https://vgmsite.com/soundtracks/rescue-the-embassy-mission-nes/wcbqlwzw/03_Outside%20the%20Embassy.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rescue-the-embassy-mission-nes/03_Outside%2520the%2520Embassy.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6826229,
+      "track_number": 4,
+      "title": "Inside the Embassy",
+      "runtime": 183,
+      "source_mp3": "https://vgmsite.com/soundtracks/rescue-the-embassy-mission-nes/zarmnufv/04_Inside%20the%20Embassy.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rescue-the-embassy-mission-nes/04_Inside%2520the%2520Embassy.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2076180,
+      "track_number": 5,
+      "title": "Ending",
+      "runtime": 62,
+      "source_mp3": "https://vgmsite.com/soundtracks/rescue-the-embassy-mission-nes/dvyicyvr/05_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rescue-the-embassy-mission-nes/05_Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 230686,
+      "track_number": 6,
+      "title": "Game Over",
+      "runtime": 14,
+      "source_mp3": "https://vgmsite.com/soundtracks/rescue-the-embassy-mission-nes/hqbkurxa/06_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rescue-the-embassy-mission-nes/06_Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 508,
+    "filesize_mp3_bytes": 17815303,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

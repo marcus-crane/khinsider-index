@@ -1,0 +1,108 @@
+{
+  "title": "Ridge Racer Turbo",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T02:46:23.786123+00:00",
+  "slug": "ridge-racer-turbo-psx",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ridge-racer-turbo-psx",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ridge-racer-turbo-psx/R4%20Ridge%20Racer%20Type%204%20PS1%20disc%202.jpg"
+  ],
+  "year": 1999,
+  "date_added": "2020-03-22T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10464788,
+      "track_number": 1,
+      "title": "Ridge racer (POWER REMIX)",
+      "runtime": 320,
+      "source_mp3": "https://vgmsite.com/soundtracks/ridge-racer-turbo-psx/mqvydbheeu/01%20Ridge%20racer%20%28POWER%20REMIX%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ridge-racer-turbo-psx/01%2520Ridge%2520racer%2520%2528POWER%2520REMIX%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11177820,
+      "track_number": 2,
+      "title": "Grip",
+      "runtime": 302,
+      "source_mp3": "https://vgmsite.com/soundtracks/ridge-racer-turbo-psx/zpbaosgdcg/02%20Grip.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ridge-racer-turbo-psx/02%2520Grip.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4404019,
+      "track_number": 3,
+      "title": "Attract",
+      "runtime": 122,
+      "source_mp3": "https://vgmsite.com/soundtracks/ridge-racer-turbo-psx/gnvlcfewwg/03%20Attract.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ridge-racer-turbo-psx/03%2520Attract.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2642411,
+      "track_number": 4,
+      "title": "Welcome Racer",
+      "runtime": 77,
+      "source_mp3": "https://vgmsite.com/soundtracks/ridge-racer-turbo-psx/lkoabqmphu/04%20Welcome%20Racer.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ridge-racer-turbo-psx/04%2520Welcome%2520Racer.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 429916,
+      "track_number": 5,
+      "title": "Game Over",
+      "runtime": 12,
+      "source_mp3": "https://vgmsite.com/soundtracks/ridge-racer-turbo-psx/ordbhpmjow/05%20Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ridge-racer-turbo-psx/05%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2149580,
+      "track_number": 6,
+      "title": "Replay (High Spec mix)",
+      "runtime": 62,
+      "source_mp3": "https://vgmsite.com/soundtracks/ridge-racer-turbo-psx/whesrunddc/06%20Replay%20%28High%20Spec%20mix%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ridge-racer-turbo-psx/06%2520Replay%2520%2528High%2520Spec%2520mix%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3795845,
+      "track_number": 7,
+      "title": "Name Entry",
+      "runtime": 99,
+      "source_mp3": "https://vgmsite.com/soundtracks/ridge-racer-turbo-psx/ijnsngtkdk/07%20Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ridge-racer-turbo-psx/07%2520Name%2520Entry.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5358223,
+      "track_number": 8,
+      "title": "Ending",
+      "runtime": 149,
+      "source_mp3": "https://vgmsite.com/soundtracks/ridge-racer-turbo-psx/yksypkjeak/08%20Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ridge-racer-turbo-psx/08%2520Ending.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1143,
+    "filesize_mp3_bytes": 40422602,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

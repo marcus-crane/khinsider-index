@@ -1,0 +1,102 @@
+{
+  "title": "Prehistorik Man",
+  "titles_alternative": [
+    "P-Man GB"
+  ],
+  "crawled_at": "2023-09-23T23:21:13.657196+00:00",
+  "slug": "prehistorik-man-gameboy",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/prehistorik-man-gameboy",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/prehistorik-man-gameboy/Prehistorik%20Man%20%28USA%2C%20Europe%29.png"
+  ],
+  "year": 1994,
+  "date_added": "2018-02-06T00:00:00+00:00",
+  "developers": {
+    "Titus": "https://downloads.khinsider.com/game-soundtracks/developer/titus"
+  },
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7203717,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/prehistorik-man-gameboy/zolvahnt/01%20BGM%20%2301.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/prehistorik-man-gameboy/01%2520BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7203717,
+      "track_number": 2,
+      "title": "BGM #02",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/prehistorik-man-gameboy/phnnfmrt/02%20BGM%20%2302.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/prehistorik-man-gameboy/02%2520BGM%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7203717,
+      "track_number": 3,
+      "title": "BGM #03",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/prehistorik-man-gameboy/yeswnemc/03%20BGM%20%2303.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/prehistorik-man-gameboy/03%2520BGM%2520%252303.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7203717,
+      "track_number": 4,
+      "title": "BGM #04",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/prehistorik-man-gameboy/byggkbiy/04%20BGM%20%2304.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/prehistorik-man-gameboy/04%2520BGM%2520%252304.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7203717,
+      "track_number": 5,
+      "title": "BGM #05",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/prehistorik-man-gameboy/khyycloh/05%20BGM%20%2305.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/prehistorik-man-gameboy/05%2520BGM%2520%252305.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7203717,
+      "track_number": 6,
+      "title": "BGM #06",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/prehistorik-man-gameboy/ehmqjbbq/06%20BGM%20%2306.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/prehistorik-man-gameboy/06%2520BGM%2520%252306.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7203717,
+      "track_number": 7,
+      "title": "BGM #07",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/prehistorik-man-gameboy/rufuhpbd/07%20BGM%20%2307.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/prehistorik-man-gameboy/07%2520BGM%2520%252307.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1260,
+    "filesize_mp3_bytes": 50426019,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

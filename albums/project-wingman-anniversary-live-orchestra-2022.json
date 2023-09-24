@@ -1,0 +1,58 @@
+{
+  "title": "Project Wingman - Anniversary Live Orchestra",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T23:57:05.357993+00:00",
+  "slug": "project-wingman-anniversary-live-orchestra-2022",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/project-wingman-anniversary-live-orchestra-2022",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/project-wingman-anniversary-live-orchestra-2022/cover.png"
+  ],
+  "year": 2022,
+  "date_added": "2022-06-14T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Bandcamp": "https://downloads.khinsider.com/game-soundtracks/publisher/bandcamp"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 20615004,
+      "track_number": 1,
+      "title": "One Year Anniversary Medley",
+      "runtime": 609,
+      "source_mp3": "https://vgmsite.com/soundtracks/project-wingman-anniversary-live-orchestra-2022/aepzilxhay/01.%20One%20Year%20Anniversary%20Medley.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/project-wingman-anniversary-live-orchestra-2022/01.%2520One%2520Year%2520Anniversary%2520Medley.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 14711521,
+      "track_number": 2,
+      "title": "Kings (Orchestra ver.)",
+      "runtime": 421,
+      "source_mp3": "https://vgmsite.com/soundtracks/project-wingman-anniversary-live-orchestra-2022/vsjhwritnp/02.%20Kings%20%28Orchestra%20ver.%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/project-wingman-anniversary-live-orchestra-2022/02.%2520Kings%2520%2528Orchestra%2520ver.%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7004487,
+      "track_number": 3,
+      "title": "Peacekeeper II (Orchestra ver.)",
+      "runtime": 213,
+      "source_mp3": "https://vgmsite.com/soundtracks/project-wingman-anniversary-live-orchestra-2022/lixngubuxf/03.%20Peacekeeper%20II%20%28Orchestra%20ver.%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/project-wingman-anniversary-live-orchestra-2022/03.%2520Peacekeeper%2520II%2520%2528Orchestra%2520ver.%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1243,
+    "filesize_mp3_bytes": 42331012,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

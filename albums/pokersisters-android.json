@@ -1,0 +1,54 @@
+{
+  "title": "PokerSisters",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T22:38:39.975339+00:00",
+  "slug": "pokersisters-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pokersisters-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pokersisters-android/1.jpg"
+  ],
+  "date_added": "2017-03-14T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1824522,
+      "title": "bgm 01",
+      "runtime": 114,
+      "source_mp3": "https://vgmsite.com/soundtracks/pokersisters-android/dyckpgnt/bgm%2001.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pokersisters-android/bgm%252001.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1205862,
+      "title": "bgm 02",
+      "runtime": 75,
+      "source_mp3": "https://vgmsite.com/soundtracks/pokersisters-android/orbeguzz/bgm%2002.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pokersisters-android/bgm%252002.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1415577,
+      "title": "bgm 03",
+      "runtime": 101,
+      "source_mp3": "https://vgmsite.com/soundtracks/pokersisters-android/eiyeahws/bgm%2003.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pokersisters-android/bgm%252003.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 290,
+    "filesize_mp3_bytes": 4445961,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

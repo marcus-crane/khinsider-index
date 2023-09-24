@@ -1,0 +1,52 @@
+{
+  "title": "Rings of Medusa",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T02:52:41.784710+00:00",
+  "slug": "rings-of-medusa-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/rings-of-medusa-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/rings-of-medusa-amiga/R1.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2016-02-14T00:00:00+00:00",
+  "developers": {
+    "Starbyte Software": "https://downloads.khinsider.com/game-soundtracks/developer/starbyte-software"
+  },
+  "publishers": {
+    "Starbyte Software": "https://downloads.khinsider.com/game-soundtracks/publisher/starbyte-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 12530483,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 369,
+      "source_mp3": "https://vgmsite.com/soundtracks/rings-of-medusa-amiga/muxutgvz/01_Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rings-of-medusa-amiga/01_Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 534773,
+      "track_number": 2,
+      "title": "BGM #1",
+      "runtime": 13,
+      "source_mp3": "https://vgmsite.com/soundtracks/rings-of-medusa-amiga/ofdixfkl/02_BGM%20%231.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rings-of-medusa-amiga/02_BGM%2520%25231.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 382,
+    "filesize_mp3_bytes": 13065256,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

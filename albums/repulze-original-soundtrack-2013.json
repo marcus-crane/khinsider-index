@@ -1,0 +1,45 @@
+{
+  "title": "Repulze Original Soundtrack",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T02:20:25.122826+00:00",
+  "slug": "repulze-original-soundtrack-2013",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/repulze-original-soundtrack-2013",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/repulze-original-soundtrack-2013/artworks-000043984965-ri9656-t500x500.jpg"
+  ],
+  "year": 2013,
+  "date_added": "2023-07-18T00:00:00+00:00",
+  "developers": {
+    "Pixelbite": "https://downloads.khinsider.com/game-soundtracks/developer/pixelbite",
+    "Pixelbite AB": "https://downloads.khinsider.com/game-soundtracks/developer/pixelbite-ab"
+  },
+  "publishers": {
+    "Pixelbite Games": "https://downloads.khinsider.com/game-soundtracks/publisher/pixelbite-games"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 86151004,
+      "filesize_mp3_bytes": 11523850,
+      "track_number": 1,
+      "title": "Overdrive Medley",
+      "runtime": 415,
+      "source_mp3": "https://vgmsite.com/soundtracks/repulze-original-soundtrack-2013/wspwnusepf/01.%20Overdrive%20Medley.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/repulze-original-soundtrack-2013/wspwnusepf/01.%20Overdrive%20Medley.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/repulze-original-soundtrack-2013/01.%2520Overdrive%2520Medley.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 415,
+    "filesize_mp3_bytes": 11523850,
+    "filesize_flac_bytes": 86151004,
+    "tracks": 1
+  }
+}

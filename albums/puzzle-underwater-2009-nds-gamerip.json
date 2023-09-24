@@ -1,0 +1,72 @@
+{
+  "title": "Puzzle - Underwater",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T00:35:31.737877+00:00",
+  "slug": "puzzle-underwater-2009-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/puzzle-underwater-2009-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/puzzle-underwater-2009-nds-gamerip/Puzzle%20-%20Underwater.jpg"
+  ],
+  "year": 2009,
+  "date_added": "2020-06-19T00:00:00+00:00",
+  "developers": {
+    "Tivola": "https://downloads.khinsider.com/game-soundtracks/developer/tivola"
+  },
+  "publishers": {
+    "Tivola": "https://downloads.khinsider.com/game-soundtracks/publisher/tivola"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5735710,
+      "filesize_mp3_bytes": 1992294,
+      "title": "In Game1dn",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/puzzle-underwater-2009-nds-gamerip/ziadaedcvl/In%20Game1dn.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/puzzle-underwater-2009-nds-gamerip/ziadaedcvl/In%20Game1dn.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/puzzle-underwater-2009-nds-gamerip/In%2520Game1dn.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9688842,
+      "filesize_mp3_bytes": 3093299,
+      "title": "In Game2dn",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/puzzle-underwater-2009-nds-gamerip/vaktphjxla/In%20Game2dn.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/puzzle-underwater-2009-nds-gamerip/vaktphjxla/In%20Game2dn.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/puzzle-underwater-2009-nds-gamerip/In%2520Game2dn.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7728005,
+      "filesize_mp3_bytes": 2736783,
+      "title": "In Game3dn",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/puzzle-underwater-2009-nds-gamerip/fdkdkllrdf/In%20Game3dn.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/puzzle-underwater-2009-nds-gamerip/fdkdkllrdf/In%20Game3dn.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/puzzle-underwater-2009-nds-gamerip/In%2520Game3dn.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3240099,
+      "filesize_mp3_bytes": 1059061,
+      "title": "Menudn",
+      "runtime": 33,
+      "source_mp3": "https://vgmsite.com/soundtracks/puzzle-underwater-2009-nds-gamerip/diskrtgncz/Menudn.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/puzzle-underwater-2009-nds-gamerip/diskrtgncz/Menudn.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/puzzle-underwater-2009-nds-gamerip/Menudn.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 289,
+    "filesize_mp3_bytes": 8881437,
+    "filesize_flac_bytes": 26392656,
+    "tracks": 4
+  }
+}

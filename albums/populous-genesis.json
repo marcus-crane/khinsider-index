@@ -1,0 +1,46 @@
+{
+  "title": "Populous",
+  "titles_alternative": [
+    "\u30dd\u30d4\u30e5\u30e9\u30b9"
+  ],
+  "crawled_at": "2023-09-23T22:58:55.151199+00:00",
+  "slug": "populous-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/populous-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/populous-genesis/Populous.png"
+  ],
+  "year": 1990,
+  "date_added": "2020-03-18T00:00:00+00:00",
+  "developers": {
+    "Bullfrog": "https://downloads.khinsider.com/game-soundtracks/developer/bullfrog"
+  },
+  "publishers": {
+    "EA": "https://downloads.khinsider.com/game-soundtracks/publisher/ea",
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 15235809,
+      "filesize_mp3_bytes": 5809111,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 179,
+      "source_mp3": "https://vgmsite.com/soundtracks/populous-genesis/psdpogvmut/01%20-%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/populous-genesis/psdpogvmut/01%20-%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/populous-genesis/01%2520-%2520Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 179,
+    "filesize_mp3_bytes": 5809111,
+    "filesize_flac_bytes": 15235809,
+    "tracks": 1
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "title": "Planet of the Apes",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T21:10:00.813119+00:00",
+  "slug": "planet-of-the-apes-2001",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/planet-of-the-apes-2001",
+  "platforms": {
+    "GBA": "https://downloads.khinsider.com/game-soundtracks/gameboy-advance"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/planet-of-the-apes-2001/Planet%20of%20the%20Apes.jpg"
+  ],
+  "year": 2001,
+  "date_added": "2022-09-30T00:00:00+00:00",
+  "developers": {
+    "Torus Games": "https://downloads.khinsider.com/game-soundtracks/developer/torus-games"
+  },
+  "publishers": {
+    "Ubisoft": "https://downloads.khinsider.com/game-soundtracks/publisher/ubisoft"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2044723,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 127,
+      "source_mp3": "https://vgmsite.com/soundtracks/planet-of-the-apes-2001/rprlqkrobf/01.%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/planet-of-the-apes-2001/01.%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3638558,
+      "track_number": 2,
+      "title": "Main BGM",
+      "runtime": 227,
+      "source_mp3": "https://vgmsite.com/soundtracks/planet-of-the-apes-2001/qkpdteswiq/02.%20Main%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/planet-of-the-apes-2001/02.%2520Main%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1142947,
+      "track_number": 3,
+      "title": "Stage Clear",
+      "runtime": 71,
+      "source_mp3": "https://vgmsite.com/soundtracks/planet-of-the-apes-2001/zjtyarhebm/03.%20Stage%20Clear.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/planet-of-the-apes-2001/03.%2520Stage%2520Clear.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 425,
+    "filesize_mp3_bytes": 6826228,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

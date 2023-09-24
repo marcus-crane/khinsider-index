@@ -1,0 +1,85 @@
+{
+  "title": "R! T! S!",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T00:37:44.709873+00:00",
+  "slug": "r-ts-2009",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/r-ts-2009",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/r-ts-2009/cover.jpg"
+  ],
+  "year": 2009,
+  "date_added": "2022-11-01T00:00:00+00:00",
+  "developers": {
+    "COOL&CREATE": "https://downloads.khinsider.com/game-soundtracks/developer/cool-create"
+  },
+  "publishers": {},
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 31541166,
+      "filesize_mp3_bytes": 8000634,
+      "track_number": 1,
+      "title": "R! T! S!",
+      "runtime": 242,
+      "source_mp3": "https://vgmsite.com/soundtracks/r-ts-2009/gnhdnptwqq/01.%20R%21%20T%21%20S%21.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/r-ts-2009/gnhdnptwqq/01.%20R%21%20T%21%20S%21.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/r-ts-2009/01.%2520R%2521%2520T%2521%2520S%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 161124188,
+      "filesize_mp3_bytes": 39992688,
+      "track_number": 2,
+      "title": "200%MIX Touhou Carnival",
+      "runtime": 1168,
+      "source_mp3": "https://vgmsite.com/soundtracks/r-ts-2009/tzfkfxxlhr/02.%20200%25MIX%20Touhou%20Carnival.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/r-ts-2009/tzfkfxxlhr/02.%20200%25MIX%20Touhou%20Carnival.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/r-ts-2009/02.%2520200%2525MIX%2520Touhou%2520Carnival.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 16347299,
+      "filesize_mp3_bytes": 6029312,
+      "track_number": 3,
+      "title": "Impromptu Talk",
+      "runtime": 203,
+      "source_mp3": "https://vgmsite.com/soundtracks/r-ts-2009/hujilwcxwo/03.%20Impromptu%20Talk.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/r-ts-2009/hujilwcxwo/03.%20Impromptu%20Talk.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/r-ts-2009/03.%2520Impromptu%2520Talk.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 19975372,
+      "filesize_mp3_bytes": 5389680,
+      "track_number": 4,
+      "title": "Night of Knights -fc ver.-",
+      "runtime": 188,
+      "source_mp3": "https://vgmsite.com/soundtracks/r-ts-2009/vafannrggo/04.%20Night%20of%20Knights%20-fc%20ver.-.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/r-ts-2009/vafannrggo/04.%20Night%20of%20Knights%20-fc%20ver.-.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/r-ts-2009/04.%2520Night%2520of%2520Knights%2520-fc%2520ver.-.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 31069306,
+      "filesize_mp3_bytes": 8011120,
+      "track_number": 5,
+      "title": "R! T! S! [Instrumental]",
+      "runtime": 242,
+      "source_mp3": "https://vgmsite.com/soundtracks/r-ts-2009/bdbgfqdlch/05.%20R%21%20T%21%20S%21%20%5BInstrumental%5D.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/r-ts-2009/bdbgfqdlch/05.%20R%21%20T%21%20S%21%20%5BInstrumental%5D.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/r-ts-2009/05.%2520R%2521%2520T%2521%2520S%2521%2520%255BInstrumental%255D.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2043,
+    "filesize_mp3_bytes": 67423434,
+    "filesize_flac_bytes": 260057331,
+    "tracks": 5
+  }
+}

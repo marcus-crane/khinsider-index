@@ -1,0 +1,67 @@
+{
+  "title": "Ride Zero Pack - Edge",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T02:44:11.672820+00:00",
+  "slug": "ride-zero-pack-edge",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ride-zero-pack-edge",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/ride-zero-pack-edge/Decrux.jpg"
+  ],
+  "date_added": "2021-10-11T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 16001269,
+      "filesize_mp3_bytes": 3732930,
+      "track_number": 1,
+      "title": "1 DistortedBalance (v2)",
+      "runtime": 116,
+      "source_mp3": "https://vgmsite.com/soundtracks/ride-zero-pack-edge/pkbanikcjl/1.1%20DistortedBalance%20%28v2%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ride-zero-pack-edge/pkbanikcjl/1.1%20DistortedBalance%20%28v2%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ride-zero-pack-edge/1.1%2520DistortedBalance%2520%2528v2%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 15172894,
+      "filesize_mp3_bytes": 3974103,
+      "track_number": 1,
+      "title": "DistortedBalance",
+      "runtime": 116,
+      "source_mp3": "https://vgmsite.com/soundtracks/ride-zero-pack-edge/gxqtcxqirr/1.%20DistortedBalance.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ride-zero-pack-edge/gxqtcxqirr/1.%20DistortedBalance.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ride-zero-pack-edge/1.%2520DistortedBalance.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 14564720,
+      "filesize_mp3_bytes": 4057989,
+      "track_number": 2,
+      "title": "Decrux",
+      "runtime": 124,
+      "source_mp3": "https://vgmsite.com/soundtracks/ride-zero-pack-edge/ugzmjldsdo/2.%20Decrux.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ride-zero-pack-edge/ugzmjldsdo/2.%20Decrux.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ride-zero-pack-edge/2.%2520Decrux.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 19566428,
+      "filesize_mp3_bytes": 4341104,
+      "track_number": 3,
+      "title": "p_NORM_a",
+      "runtime": 140,
+      "source_mp3": "https://vgmsite.com/soundtracks/ride-zero-pack-edge/mfbpjmbxhd/3.%20p_NORM_a.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/ride-zero-pack-edge/mfbpjmbxhd/3.%20p_NORM_a.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ride-zero-pack-edge/3.%2520p_NORM_a.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 496,
+    "filesize_mp3_bytes": 16106126,
+    "filesize_flac_bytes": 65305311,
+    "tracks": 4
+  }
+}

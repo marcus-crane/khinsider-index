@@ -1,0 +1,92 @@
+{
+  "title": "Plexu - The Time Travellers",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T21:17:58.362113+00:00",
+  "slug": "plexu-the-time-travellers-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/plexu-the-time-travellers-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/plexu-the-time-travellers-amiga/P1.png"
+  ],
+  "year": 1990,
+  "date_added": "2017-07-11T00:00:00+00:00",
+  "developers": {
+    "New Line": "https://downloads.khinsider.com/game-soundtracks/developer/new-line"
+  },
+  "publishers": {
+    "New Line": "https://downloads.khinsider.com/game-soundtracks/publisher/new-line"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7161774,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 244,
+      "source_mp3": "https://vgmsite.com/soundtracks/plexu-the-time-travellers-amiga/mjouxzqq/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/plexu-the-time-travellers-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6249512,
+      "track_number": 2,
+      "title": "BGM 1",
+      "runtime": 209,
+      "source_mp3": "https://vgmsite.com/soundtracks/plexu-the-time-travellers-amiga/irvunovg/02_BGM%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/plexu-the-time-travellers-amiga/02_BGM%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1751121,
+      "track_number": 3,
+      "title": "Boss Theme",
+      "runtime": 49,
+      "source_mp3": "https://vgmsite.com/soundtracks/plexu-the-time-travellers-amiga/wxhjqtto/03_Boss%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/plexu-the-time-travellers-amiga/03_Boss%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2264924,
+      "track_number": 4,
+      "title": "Shop Theme",
+      "runtime": 79,
+      "source_mp3": "https://vgmsite.com/soundtracks/plexu-the-time-travellers-amiga/yesoyzmn/04_Shop%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/plexu-the-time-travellers-amiga/04_Shop%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7371489,
+      "track_number": 5,
+      "title": "BGM 2",
+      "runtime": 203,
+      "source_mp3": "https://vgmsite.com/soundtracks/plexu-the-time-travellers-amiga/mupwnpvu/05_BGM%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/plexu-the-time-travellers-amiga/05_BGM%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6721372,
+      "track_number": 6,
+      "title": "Ending",
+      "runtime": 179,
+      "source_mp3": "https://vgmsite.com/soundtracks/plexu-the-time-travellers-amiga/okcnmiso/06_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/plexu-the-time-travellers-amiga/06_Ending.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 963,
+    "filesize_mp3_bytes": 31520192,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

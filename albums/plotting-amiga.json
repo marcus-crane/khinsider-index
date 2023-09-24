@@ -1,0 +1,98 @@
+{
+  "title": "Plotting",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T21:18:12.602759+00:00",
+  "slug": "plotting-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/plotting-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/plotting-amiga/Plotting%20Amiga%20back%20cover.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2021-03-18T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1887436,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 85,
+      "source_mp3": "https://vgmsite.com/soundtracks/plotting-amiga/jhxutmnnvt/01%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/plotting-amiga/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4173332,
+      "track_number": 2,
+      "title": "BGM01",
+      "runtime": 199,
+      "source_mp3": "https://vgmsite.com/soundtracks/plotting-amiga/bxnlsqplri/02%20BGM01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/plotting-amiga/02%2520BGM01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2044723,
+      "track_number": 3,
+      "title": "BGM02",
+      "runtime": 93,
+      "source_mp3": "https://vgmsite.com/soundtracks/plotting-amiga/qhytvmtuqn/03%20BGM02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/plotting-amiga/03%2520BGM02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1719664,
+      "track_number": 4,
+      "title": "BGM03",
+      "runtime": 77,
+      "source_mp3": "https://vgmsite.com/soundtracks/plotting-amiga/gqdufmiznh/04%20BGM03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/plotting-amiga/04%2520BGM03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1321205,
+      "track_number": 5,
+      "title": "BGM04",
+      "runtime": 57,
+      "source_mp3": "https://vgmsite.com/soundtracks/plotting-amiga/trqqzwjbck/05%20BGM04.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/plotting-amiga/05%2520BGM04.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 335544,
+      "track_number": 6,
+      "title": "Sample 01",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/plotting-amiga/tarxozclee/06%20Sample%2001.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/plotting-amiga/06%2520Sample%252001.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 241172,
+      "track_number": 7,
+      "title": "Sample 02",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/plotting-amiga/tjolkrxlum/07%20Sample%2002.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/plotting-amiga/07%2520Sample%252002.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 522,
+    "filesize_mp3_bytes": 11723076,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

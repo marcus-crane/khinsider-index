@@ -1,0 +1,89 @@
+{
+  "title": "Pit Pot",
+  "titles_alternative": [
+    "\u4e0d\u601d\u8b70\u306e\u304a\u57ce\u30d4\u30c3\u30c8\u30dd\u30c3\u30c8"
+  ],
+  "crawled_at": "2023-09-23T21:02:34.859958+00:00",
+  "slug": "pit-pot-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pit-pot-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pit-pot-master-system/Pit%20Pot.png"
+  ],
+  "year": 1985,
+  "date_added": "2020-07-17T00:00:00+00:00",
+  "developers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 786432,
+      "filesize_mp3_bytes": 314572,
+      "track_number": 1,
+      "title": "Opening",
+      "runtime": 15,
+      "source_mp3": "https://vgmsite.com/soundtracks/pit-pot-master-system/emwhymohvk/01%20-%20Opening.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pit-pot-master-system/emwhymohvk/01%20-%20Opening.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pit-pot-master-system/01%2520-%2520Opening.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5924454,
+      "filesize_mp3_bytes": 2285895,
+      "track_number": 2,
+      "title": "Main Theme",
+      "runtime": 114,
+      "source_mp3": "https://vgmsite.com/soundtracks/pit-pot-master-system/pnvplsxjoj/02%20-%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pit-pot-master-system/pnvplsxjoj/02%20-%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pit-pot-master-system/02%2520-%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 83886,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 3,
+      "title": "Death",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/pit-pot-master-system/xorlyjqqtr/03%20-%20Death.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pit-pot-master-system/xorlyjqqtr/03%20-%20Death.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pit-pot-master-system/03%2520-%2520Death.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1101004,
+      "filesize_mp3_bytes": 387973,
+      "track_number": 4,
+      "title": "Ending",
+      "runtime": 19,
+      "source_mp3": "https://vgmsite.com/soundtracks/pit-pot-master-system/kdcxjrsiyt/04%20-%20Ending.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pit-pot-master-system/kdcxjrsiyt/04%20-%20Ending.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pit-pot-master-system/04%2520-%2520Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 241172,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 5,
+      "title": "Game Over",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/pit-pot-master-system/nemwdnxnzl/05%20-%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pit-pot-master-system/nemwdnxnzl/05%20-%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pit-pot-master-system/05%2520-%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 154,
+    "filesize_mp3_bytes": 3103783,
+    "filesize_flac_bytes": 8136948,
+    "tracks": 5
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "title": "R.C. Pro-Am",
+  "titles_alternative": [
+    "Championship Pro-Am"
+  ],
+  "crawled_at": "2023-09-24T01:42:14.984564+00:00",
+  "slug": "rc-pro-am-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/rc-pro-am-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/rc-pro-am-nes/R.C.%20Pro-Am.png"
+  ],
+  "year": 1988,
+  "date_added": "2022-06-13T00:00:00+00:00",
+  "developers": {
+    "Rare": "https://downloads.khinsider.com/game-soundtracks/developer/rare"
+  },
+  "publishers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1960837,
+      "filesize_mp3_bytes": 765460,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 34,
+      "source_mp3": "https://vgmsite.com/soundtracks/rc-pro-am-nes/eagjbkckco/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rc-pro-am-nes/eagjbkckco/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rc-pro-am-nes/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 220200,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 2,
+      "title": "Race Begins",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/rc-pro-am-nes/iezzpsklyv/02%20Race%20Begins.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rc-pro-am-nes/iezzpsklyv/02%20Race%20Begins.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rc-pro-am-nes/02%2520Race%2520Begins.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 199229,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 3,
+      "title": "Race Ends",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/rc-pro-am-nes/oraazmrqtw/03%20Race%20Ends.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rc-pro-am-nes/oraazmrqtw/03%20Race%20Ends.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rc-pro-am-nes/03%2520Race%2520Ends.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 83886,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 4,
+      "title": "Trophy Room",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/rc-pro-am-nes/ceewgxfplf/04%20Trophy%20Room.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rc-pro-am-nes/ceewgxfplf/04%20Trophy%20Room.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rc-pro-am-nes/04%2520Trophy%2520Room.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1457520,
+      "filesize_mp3_bytes": 566231,
+      "track_number": 5,
+      "title": "High Score Entry",
+      "runtime": 29,
+      "source_mp3": "https://vgmsite.com/soundtracks/rc-pro-am-nes/metlnlbxwl/05%20High%20Score%20Entry.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rc-pro-am-nes/metlnlbxwl/05%20High%20Score%20Entry.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rc-pro-am-nes/05%2520High%2520Score%2520Entry.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 209715,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 6,
+      "title": "Game Over",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/rc-pro-am-nes/tcpmoipqwi/06%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rc-pro-am-nes/tcpmoipqwi/06%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rc-pro-am-nes/06%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 78,
+    "filesize_mp3_bytes": 1656748,
+    "filesize_flac_bytes": 4131387,
+    "tracks": 6
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "title": "Polarium",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T22:39:31.323208+00:00",
+  "slug": "polarium",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/polarium",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/polarium/coverart.jpg"
+  ],
+  "year": 2004,
+  "date_added": "2017-12-06T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3229614,
+      "track_number": 1,
+      "title": "Title Theme (Select Mode Screen)",
+      "runtime": 120,
+      "source_mp3": "https://vgmsite.com/soundtracks/polarium/eiptvcrs/01%20Title%20Theme%20%28Select%20Mode%20Screen%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/polarium/01%2520Title%2520Theme%2520%2528Select%2520Mode%2520Screen%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3229614,
+      "track_number": 2,
+      "title": "Tutorial Theme",
+      "runtime": 120,
+      "source_mp3": "https://vgmsite.com/soundtracks/polarium/iqgythmz/02%20Tutorial%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/polarium/02%2520Tutorial%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3229614,
+      "track_number": 3,
+      "title": "Challenge Mode Theme",
+      "runtime": 120,
+      "source_mp3": "https://vgmsite.com/soundtracks/polarium/xcmkbwzt/03%20Challenge%20Mode%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/polarium/03%2520Challenge%2520Mode%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3229614,
+      "track_number": 4,
+      "title": "Checkmate",
+      "runtime": 120,
+      "source_mp3": "https://vgmsite.com/soundtracks/polarium/nzryxvcc/04%20Checkmate.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/polarium/04%2520Checkmate.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3229614,
+      "track_number": 5,
+      "title": "Versus Mode Theme",
+      "runtime": 120,
+      "source_mp3": "https://vgmsite.com/soundtracks/polarium/fkeldmes/05%20Versus%20Mode%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/polarium/05%2520Versus%2520Mode%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3229614,
+      "track_number": 6,
+      "title": "Ranking Theme",
+      "runtime": 120,
+      "source_mp3": "https://vgmsite.com/soundtracks/polarium/talgrxxa/06%20Ranking%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/polarium/06%2520Ranking%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 720,
+    "filesize_mp3_bytes": 19377684,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

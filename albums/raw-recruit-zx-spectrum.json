@@ -1,0 +1,52 @@
+{
+  "title": "Raw Recruit",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T01:24:42.691520+00:00",
+  "slug": "raw-recruit-zx-spectrum",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/raw-recruit-zx-spectrum",
+  "platforms": {
+    "Spectrum": "https://downloads.khinsider.com/game-soundtracks/spectrum"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/raw-recruit-zx-spectrum/R1.jpg"
+  ],
+  "year": 1988,
+  "date_added": "2017-08-18T00:00:00+00:00",
+  "developers": {
+    "Software Creations": "https://downloads.khinsider.com/game-soundtracks/developer/software-creations"
+  },
+  "publishers": {
+    "Mastertronic": "https://downloads.khinsider.com/game-soundtracks/publisher/mastertronic"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9657384,
+      "track_number": 1,
+      "title": "Title (Beeper & AY)",
+      "runtime": 278,
+      "source_mp3": "https://vgmsite.com/soundtracks/raw-recruit-zx-spectrum/qdrmpdmi/01_Title%20%28Beeper%20%26%20AY%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/raw-recruit-zx-spectrum/01_Title%2520%2528Beeper%2520%2526%2520AY%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10244587,
+      "track_number": 2,
+      "title": "Title (Beeper)",
+      "runtime": 279,
+      "source_mp3": "https://vgmsite.com/soundtracks/raw-recruit-zx-spectrum/khcsowsn/02_Title%20%28Beeper%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/raw-recruit-zx-spectrum/02_Title%2520%2528Beeper%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 557,
+    "filesize_mp3_bytes": 19901971,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

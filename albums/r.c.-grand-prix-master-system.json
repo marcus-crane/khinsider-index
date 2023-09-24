@@ -1,0 +1,44 @@
+{
+  "title": "R.C. Grand Prix",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T00:43:12.921501+00:00",
+  "slug": "r.c.-grand-prix-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/r.c.-grand-prix-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/r.c.-grand-prix-master-system/R.C.%20Grand%20Prix.png"
+  ],
+  "year": 1989,
+  "date_added": "2020-07-20T00:00:00+00:00",
+  "developers": {
+    "Absolute": "https://downloads.khinsider.com/game-soundtracks/developer/absolute"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega",
+    "Seismic": "https://downloads.khinsider.com/game-soundtracks/publisher/seismic"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9657384,
+      "filesize_mp3_bytes": 5232394,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 223,
+      "source_mp3": "https://vgmsite.com/soundtracks/r.c.-grand-prix-master-system/oayhszrbkb/01%20-%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/r.c.-grand-prix-master-system/oayhszrbkb/01%20-%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/r.c.-grand-prix-master-system/01%2520-%2520Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 223,
+    "filesize_mp3_bytes": 5232394,
+    "filesize_flac_bytes": 9657384,
+    "tracks": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Ratchet & Clank - Going Mobile",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T01:19:07.040990+00:00",
+  "slug": "ratchet-and-clank-going-mobile",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ratchet-and-clank-going-mobile",
+  "platforms": {
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ratchet-and-clank-going-mobile/coverart.jpg"
+  ],
+  "date_added": "2016-05-17T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2621440,
+      "track_number": 1,
+      "title": "Main Menu",
+      "runtime": 62,
+      "source_mp3": "https://vgmsite.com/soundtracks/ratchet-and-clank-going-mobile/fzoyebfl/01%20Main%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ratchet-and-clank-going-mobile/01%2520Main%2520Menu.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 62,
+    "filesize_mp3_bytes": 2621440,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

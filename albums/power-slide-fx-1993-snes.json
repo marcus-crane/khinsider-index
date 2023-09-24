@@ -1,0 +1,45 @@
+{
+  "title": "Power Slide FX (Unreleased)",
+  "titles_alternative": [
+    "Power Slide ECTS Demo"
+  ],
+  "crawled_at": "2023-09-23T23:16:54.630761+00:00",
+  "slug": "power-slide-fx-1993-snes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/power-slide-fx-1993-snes",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/power-slide-fx-1993-snes/P1.png"
+  ],
+  "year": 1993,
+  "date_added": "2019-08-20T00:00:00+00:00",
+  "developers": {
+    "Motivetime": "https://downloads.khinsider.com/game-soundtracks/developer/motivetime"
+  },
+  "publishers": {
+    "Motivetime": "https://downloads.khinsider.com/game-soundtracks/publisher/motivetime"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 21590179,
+      "filesize_mp3_bytes": 8619294,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 316,
+      "source_mp3": "https://vgmsite.com/soundtracks/power-slide-fx-1993-snes/dtctunplov/01%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/power-slide-fx-1993-snes/dtctunplov/01%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/power-slide-fx-1993-snes/01%2520Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 316,
+    "filesize_mp3_bytes": 8619294,
+    "filesize_flac_bytes": 21590179,
+    "tracks": 1
+  }
+}

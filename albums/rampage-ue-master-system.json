@@ -1,0 +1,94 @@
+{
+  "title": "Rampage (UE)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T01:10:55.074572+00:00",
+  "slug": "rampage-ue-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/rampage-ue-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/rampage-ue-master-system/Rampage-SMS-PSG.png"
+  ],
+  "year": 1988,
+  "date_added": "2018-09-21T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 461373,
+      "filesize_mp3_bytes": 387973,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/rampage-ue-master-system/yjrevvlb/01%20-%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rampage-ue-master-system/yjrevvlb/01%20-%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rampage-ue-master-system/01%2520-%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3974103,
+      "filesize_mp3_bytes": 3051356,
+      "track_number": 2,
+      "title": "Character Selection",
+      "runtime": 76,
+      "source_mp3": "https://vgmsite.com/soundtracks/rampage-ue-master-system/fqokhtpk/02%20-%20Character%20Selection.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rampage-ue-master-system/fqokhtpk/02%20-%20Character%20Selection.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rampage-ue-master-system/02%2520-%2520Character%2520Selection.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4341104,
+      "filesize_mp3_bytes": 3145728,
+      "track_number": 3,
+      "title": "Level",
+      "runtime": 79,
+      "source_mp3": "https://vgmsite.com/soundtracks/rampage-ue-master-system/qjaplhwj/03%20-%20Level.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rampage-ue-master-system/qjaplhwj/03%20-%20Level.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rampage-ue-master-system/03%2520-%2520Level.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 241172,
+      "filesize_mp3_bytes": 220200,
+      "track_number": 4,
+      "title": "Victory Fanfare",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/rampage-ue-master-system/chvmyriq/04%20-%20Victory%20Fanfare.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rampage-ue-master-system/chvmyriq/04%20-%20Victory%20Fanfare.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rampage-ue-master-system/04%2520-%2520Victory%2520Fanfare.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2327838,
+      "filesize_mp3_bytes": 1719664,
+      "track_number": 5,
+      "title": "Ending",
+      "runtime": 43,
+      "source_mp3": "https://vgmsite.com/soundtracks/rampage-ue-master-system/ftneujrk/05%20-%20Ending.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rampage-ue-master-system/ftneujrk/05%20-%20Ending.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rampage-ue-master-system/05%2520-%2520Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4152360,
+      "filesize_mp3_bytes": 3166699,
+      "track_number": 6,
+      "title": "Unknown",
+      "runtime": 79,
+      "source_mp3": "https://vgmsite.com/soundtracks/rampage-ue-master-system/wmsfqbyn/06%20-%20Unknown.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rampage-ue-master-system/wmsfqbyn/06%20-%20Unknown.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rampage-ue-master-system/06%2520-%2520Unknown.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 292,
+    "filesize_mp3_bytes": 11691620,
+    "filesize_flac_bytes": 15497950,
+    "tracks": 6
+  }
+}

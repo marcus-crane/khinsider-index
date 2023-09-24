@@ -1,0 +1,89 @@
+{
+  "title": "Putter Golf",
+  "titles_alternative": [
+    "\u30d1\u30bf\u30fc\u30b4\u30eb\u30d5"
+  ],
+  "crawled_at": "2023-09-24T00:22:08.329240+00:00",
+  "slug": "putter-golf-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/putter-golf-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/putter-golf-genesis/Putter%20Golf.png"
+  ],
+  "year": 1990,
+  "date_added": "2020-03-18T00:00:00+00:00",
+  "developers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3827302,
+      "filesize_mp3_bytes": 1583349,
+      "track_number": 1,
+      "title": "Title Screen, BGM 2",
+      "runtime": 80,
+      "source_mp3": "https://vgmsite.com/soundtracks/putter-golf-genesis/wujpmkvrkq/01%20-%20Title%20Screen%2C%20BGM%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/putter-golf-genesis/wujpmkvrkq/01%20-%20Title%20Screen%2C%20BGM%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/putter-golf-genesis/01%2520-%2520Title%2520Screen%252C%2520BGM%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4456448,
+      "filesize_mp3_bytes": 1939865,
+      "track_number": 2,
+      "title": "BGM 1",
+      "runtime": 103,
+      "source_mp3": "https://vgmsite.com/soundtracks/putter-golf-genesis/waahqcsopu/02%20-%20BGM%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/putter-golf-genesis/waahqcsopu/02%20-%20BGM%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/putter-golf-genesis/02%2520-%2520BGM%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 136314,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 3,
+      "title": "Game Over",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/putter-golf-genesis/tvtkhfufpy/03%20-%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/putter-golf-genesis/tvtkhfufpy/03%20-%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/putter-golf-genesis/03%2520-%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2621440,
+      "filesize_mp3_bytes": 943718,
+      "track_number": 4,
+      "title": "Unknown (Sound Code 83)",
+      "runtime": 50,
+      "source_mp3": "https://vgmsite.com/soundtracks/putter-golf-genesis/behvkmbroj/04%20-%20Unknown%20%28Sound%20Code%2083%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/putter-golf-genesis/behvkmbroj/04%20-%20Unknown%20%28Sound%20Code%2083%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/putter-golf-genesis/04%2520-%2520Unknown%2520%2528Sound%2520Code%252083%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 136314,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 5,
+      "title": "Unknown (Sound Code 84)",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/putter-golf-genesis/xtinyndcdx/05%20-%20Unknown%20%28Sound%20Code%2084%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/putter-golf-genesis/xtinyndcdx/05%20-%20Unknown%20%28Sound%20Code%2084%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/putter-golf-genesis/05%2520-%2520Unknown%2520%2528Sound%2520Code%252084%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 237,
+    "filesize_mp3_bytes": 4571788,
+    "filesize_flac_bytes": 11177818,
+    "tracks": 5
+  }
+}

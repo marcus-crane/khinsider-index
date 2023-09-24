@@ -1,0 +1,45 @@
+{
+  "title": "Pulsar no Hikari",
+  "titles_alternative": [
+    "\u30d1\u30eb\u30b5\u30fc\u306e\u5149"
+  ],
+  "crawled_at": "2023-09-24T00:13:45.413331+00:00",
+  "slug": "pulsar-no-hikari-1987-fds",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pulsar-no-hikari-1987-fds",
+  "platforms": {
+    "FDS": "https://downloads.khinsider.com/game-soundtracks/famicom-disk-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pulsar-no-hikari-1987-fds/Pulsar%20no%20Hikari%20%281987%29%20%28FDS%29.jpg"
+  ],
+  "year": 1987,
+  "date_added": "2022-05-30T00:00:00+00:00",
+  "developers": {
+    "Soft Pro": "https://downloads.khinsider.com/game-soundtracks/developer/soft-pro"
+  },
+  "publishers": {
+    "Soft Pro": "https://downloads.khinsider.com/game-soundtracks/publisher/soft-pro"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5179965,
+      "filesize_mp3_bytes": 1635778,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 87,
+      "source_mp3": "https://vgmsite.com/soundtracks/pulsar-no-hikari-1987-fds/gbkustkqnk/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pulsar-no-hikari-1987-fds/gbkustkqnk/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pulsar-no-hikari-1987-fds/01.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 87,
+    "filesize_mp3_bytes": 1635778,
+    "filesize_flac_bytes": 5179965,
+    "tracks": 1
+  }
+}

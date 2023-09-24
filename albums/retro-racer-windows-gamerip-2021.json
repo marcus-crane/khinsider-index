@@ -1,0 +1,65 @@
+{
+  "title": "Retro Racer",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T02:24:44.609277+00:00",
+  "slug": "retro-racer-windows-gamerip-2021",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/retro-racer-windows-gamerip-2021",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/retro-racer-windows-gamerip-2021/library_600x900_2x.jpg"
+  ],
+  "year": 2021,
+  "date_added": "2023-04-21T00:00:00+00:00",
+  "developers": {
+    "Boom Team": "https://downloads.khinsider.com/game-soundtracks/developer/boom-team"
+  },
+  "publishers": {
+    "Boom Team": "https://downloads.khinsider.com/game-soundtracks/publisher/boom-team"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 44658851,
+      "filesize_mp3_bytes": 13757317,
+      "track_number": 1,
+      "title": "BGM",
+      "runtime": 423,
+      "source_mp3": "https://vgmsite.com/soundtracks/retro-racer-windows-gamerip-2021/azhkuibaul/01.%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/retro-racer-windows-gamerip-2021/azhkuibaul/01.%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/retro-racer-windows-gamerip-2021/01.%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9363783,
+      "filesize_mp3_bytes": 3659530,
+      "track_number": 2,
+      "title": "Ra Gameplay Loop",
+      "runtime": 108,
+      "source_mp3": "https://vgmsite.com/soundtracks/retro-racer-windows-gamerip-2021/tkrtfqtgoq/02.%20Ra%20Gameplay%20Loop.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/retro-racer-windows-gamerip-2021/tkrtfqtgoq/02.%20Ra%20Gameplay%20Loop.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/retro-racer-windows-gamerip-2021/02.%2520Ra%2520Gameplay%2520Loop.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3953131,
+      "filesize_mp3_bytes": 1468006,
+      "track_number": 3,
+      "title": "Ra Menu Loop",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/retro-racer-windows-gamerip-2021/neuyxhnegm/03.%20Ra%20Menu%20Loop.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/retro-racer-windows-gamerip-2021/neuyxhnegm/03.%20Ra%20Menu%20Loop.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/retro-racer-windows-gamerip-2021/03.%2520Ra%2520Menu%2520Loop.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 579,
+    "filesize_mp3_bytes": 18884853,
+    "filesize_flac_bytes": 57975765,
+    "tracks": 3
+  }
+}

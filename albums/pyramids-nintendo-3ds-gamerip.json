@@ -1,0 +1,72 @@
+{
+  "title": "Pyramids",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T00:36:32.070730+00:00",
+  "slug": "pyramids-nintendo-3ds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pyramids-nintendo-3ds-gamerip",
+  "platforms": {
+    "3DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-3ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pyramids-nintendo-3ds-gamerip/Pyramids.png"
+  ],
+  "year": 2011,
+  "date_added": "2017-10-02T00:00:00+00:00",
+  "developers": {
+    "Enjoy Gaming": "https://downloads.khinsider.com/game-soundtracks/developer/enjoy-gaming"
+  },
+  "publishers": {
+    "Enjoy Gaming": "https://downloads.khinsider.com/game-soundtracks/publisher/enjoy-gaming"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 1,
+      "title": "(Icon) Banner",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/pyramids-nintendo-3ds-gamerip/rdstxgwl/01.%20%28Icon%29%20Banner.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pyramids-nintendo-3ds-gamerip/01.%2520%2528Icon%2529%2520Banner.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5536481,
+      "track_number": 2,
+      "title": "Menu",
+      "runtime": 138,
+      "source_mp3": "https://vgmsite.com/soundtracks/pyramids-nintendo-3ds-gamerip/spmmjvfp/02.%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pyramids-nintendo-3ds-gamerip/02.%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2789212,
+      "track_number": 3,
+      "title": "Music Bhurma",
+      "runtime": 70,
+      "source_mp3": "https://vgmsite.com/soundtracks/pyramids-nintendo-3ds-gamerip/edgnahva/03.%20Music%20Bhurma.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pyramids-nintendo-3ds-gamerip/03.%2520Music%2520Bhurma.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5242880,
+      "track_number": 4,
+      "title": "Credits",
+      "runtime": 131,
+      "source_mp3": "https://vgmsite.com/soundtracks/pyramids-nintendo-3ds-gamerip/rybjohga/04.%20Credits.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pyramids-nintendo-3ds-gamerip/04.%2520Credits.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 342,
+    "filesize_mp3_bytes": 13694402,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

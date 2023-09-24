@@ -1,0 +1,54 @@
+{
+  "title": "Raid 2020 (Unlicensed)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T00:59:00.537448+00:00",
+  "slug": "raid-2020-1989-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/raid-2020-1989-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/raid-2020-1989-nes/R1.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2022-06-04T00:00:00+00:00",
+  "developers": {
+    "Color Dreams": "https://downloads.khinsider.com/game-soundtracks/developer/color-dreams"
+  },
+  "publishers": {
+    "Color Dreams": "https://downloads.khinsider.com/game-soundtracks/publisher/color-dreams"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10737418,
+      "filesize_mp3_bytes": 3491758,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/raid-2020-1989-nes/rjwhefldiq/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/raid-2020-1989-nes/rjwhefldiq/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/raid-2020-1989-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9363783,
+      "filesize_mp3_bytes": 4320133,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/raid-2020-1989-nes/xwocotdwwf/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/raid-2020-1989-nes/xwocotdwwf/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/raid-2020-1989-nes/02.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 360,
+    "filesize_mp3_bytes": 7811891,
+    "filesize_flac_bytes": 20101201,
+    "tracks": 2
+  }
+}

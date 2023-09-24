@@ -1,0 +1,72 @@
+{
+  "title": "Ramble Planet",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T01:09:43.878548+00:00",
+  "slug": "ramble-planet-android-gamerip-2014",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ramble-planet-android-gamerip-2014",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ramble-planet-android-gamerip-2014/Ramble_planet_icon.png"
+  ],
+  "year": 2014,
+  "date_added": "2023-02-09T00:00:00+00:00",
+  "developers": {
+    "A. Hagen": "https://downloads.khinsider.com/game-soundtracks/developer/a.-hagen"
+  },
+  "publishers": {
+    "A. Hagen": "https://downloads.khinsider.com/game-soundtracks/publisher/a.-hagen"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6564085,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 321,
+      "source_mp3": "https://vgmsite.com/soundtracks/ramble-planet-android-gamerip-2014/wemcxgbwls/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ramble-planet-android-gamerip-2014/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6668943,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 329,
+      "source_mp3": "https://vgmsite.com/soundtracks/ramble-planet-android-gamerip-2014/wctvvvxjhu/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ramble-planet-android-gamerip-2014/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4089446,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 203,
+      "source_mp3": "https://vgmsite.com/soundtracks/ramble-planet-android-gamerip-2014/jgubilkfho/03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ramble-planet-android-gamerip-2014/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1426063,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 73,
+      "source_mp3": "https://vgmsite.com/soundtracks/ramble-planet-android-gamerip-2014/kuaridsnff/04.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ramble-planet-android-gamerip-2014/04.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 926,
+    "filesize_mp3_bytes": 18748537,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

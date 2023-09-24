@@ -1,0 +1,47 @@
+{
+  "title": "Populous",
+  "titles_alternative": [
+    "Populous Gaiden",
+    "\u30dd\u30d4\u30e5\u30e9\u30b9\u5916\u4f1d"
+  ],
+  "crawled_at": "2023-09-23T22:58:54.348969+00:00",
+  "slug": "populous-gb",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/populous-gb",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/populous-gb/P1.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2022-05-28T00:00:00+00:00",
+  "developers": {
+    "Bullfrog Productions": "https://downloads.khinsider.com/game-soundtracks/developer/bullfrog-productions",
+    "Enigma Variations": "https://downloads.khinsider.com/game-soundtracks/developer/enigma-variations"
+  },
+  "publishers": {
+    "Imagineer": "https://downloads.khinsider.com/game-soundtracks/publisher/imagineer"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 23540531,
+      "filesize_mp3_bytes": 6668943,
+      "track_number": 1,
+      "title": "Main BGM",
+      "runtime": 332,
+      "source_mp3": "https://vgmsite.com/soundtracks/populous-gb/unamupubnn/01%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/populous-gb/unamupubnn/01%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/populous-gb/01%2520Main%2520BGM.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 332,
+    "filesize_mp3_bytes": 6668943,
+    "filesize_flac_bytes": 23540531,
+    "tracks": 1
+  }
+}

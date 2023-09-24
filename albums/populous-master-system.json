@@ -1,0 +1,50 @@
+{
+  "title": "Populous",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T22:58:55.954935+00:00",
+  "slug": "populous-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/populous-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/populous-master-system/Populous.png"
+  ],
+  "year": 1991,
+  "date_added": "2020-07-17T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 83886,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 1,
+      "title": "Welcome to Populous",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/populous-master-system/lhmvskrzdl/01%20-%20Welcome%20to%20Populous.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/populous-master-system/lhmvskrzdl/01%20-%20Welcome%20to%20Populous.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/populous-master-system/01%2520-%2520Welcome%2520to%2520Populous.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6564085,
+      "filesize_mp3_bytes": 2485125,
+      "track_number": 2,
+      "title": "Main Theme",
+      "runtime": 135,
+      "source_mp3": "https://vgmsite.com/soundtracks/populous-master-system/krbdvmiaqc/02%20-%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/populous-master-system/krbdvmiaqc/02%20-%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/populous-master-system/02%2520-%2520Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 139,
+    "filesize_mp3_bytes": 2579496,
+    "filesize_flac_bytes": 6647971,
+    "tracks": 2
+  }
+}

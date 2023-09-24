@@ -1,0 +1,114 @@
+{
+  "title": "Prince Clumsy",
+  "titles_alternative": [
+    "The Sword and the Rose"
+  ],
+  "crawled_at": "2023-09-23T23:25:17.939566+00:00",
+  "slug": "prince-clumsy-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/prince-clumsy-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/prince-clumsy-commodore-64/P1.png"
+  ],
+  "year": 1990,
+  "date_added": "2019-06-17T00:00:00+00:00",
+  "developers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/developer/codemasters"
+  },
+  "publishers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/publisher/codemasters"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4613734,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 270,
+      "source_mp3": "https://vgmsite.com/soundtracks/prince-clumsy-commodore-64/jupriypoha/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/prince-clumsy-commodore-64/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 2,
+      "title": "Get Ready!",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/prince-clumsy-commodore-64/mubtobikem/02_Get%20Ready%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/prince-clumsy-commodore-64/02_Get%2520Ready%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1142947,
+      "track_number": 3,
+      "title": "Ending",
+      "runtime": 71,
+      "source_mp3": "https://vgmsite.com/soundtracks/prince-clumsy-commodore-64/xskomsxnjv/03_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/prince-clumsy-commodore-64/03_Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/prince-clumsy-commodore-64/lhalrjtspc/04_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/prince-clumsy-commodore-64/04_Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7811891,
+      "track_number": 5,
+      "title": "Title Screen (SID Stereo)",
+      "runtime": 269,
+      "source_mp3": "https://vgmsite.com/soundtracks/prince-clumsy-commodore-64/nmavsbruyx/05_Title%20Screen%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/prince-clumsy-commodore-64/05_Title%2520Screen%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 6,
+      "title": "Get Ready! (SID Stereo)",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/prince-clumsy-commodore-64/vpsygcaxyv/06_Get%20Ready%21%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/prince-clumsy-commodore-64/06_Get%2520Ready%2521%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1971322,
+      "track_number": 7,
+      "title": "Ending (SID Stereo)",
+      "runtime": 71,
+      "source_mp3": "https://vgmsite.com/soundtracks/prince-clumsy-commodore-64/irrgudnfmc/07_Ending%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/prince-clumsy-commodore-64/07_Ending%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 167772,
+      "track_number": 8,
+      "title": "Game Over (SID Stereo)",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/prince-clumsy-commodore-64/uddijjpnsk/08_Game%20Over%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/prince-clumsy-commodore-64/08_Game%2520Over%2520%2528SID%2520Stereo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 705,
+    "filesize_mp3_bytes": 16011751,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

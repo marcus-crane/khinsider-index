@@ -1,0 +1,80 @@
+{
+  "title": "Receiver Soundtrack",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T01:49:46.629615+00:00",
+  "slug": "receiver-soundtrack-2022",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/receiver-soundtrack-2022",
+  "platforms": {
+    "Linux": "https://downloads.khinsider.com/game-soundtracks/linux",
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/receiver-soundtrack-2022/cover.jpg"
+  ],
+  "year": 2022,
+  "catalog_number": null,
+  "date_added": "2023-01-11T00:00:00+00:00",
+  "developers": {
+    "Wolfire Games": "https://downloads.khinsider.com/game-soundtracks/developer/wolfire-games"
+  },
+  "publishers": {
+    "H. Anton Riehl": "https://downloads.khinsider.com/game-soundtracks/publisher/h.-anton-riehl",
+    "Wolfire Games": "https://downloads.khinsider.com/game-soundtracks/publisher/wolfire-games"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10412359,
+      "filesize_mp3_bytes": 2055208,
+      "track_number": 1,
+      "title": "Reality Painted in Shades of Black",
+      "runtime": 72,
+      "source_mp3": "https://vgmsite.com/soundtracks/receiver-soundtrack-2022/kqrfaxwnlq/01.%20Reality%20Painted%20in%20Shades%20of%20Black.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/receiver-soundtrack-2022/kqrfaxwnlq/01.%20Reality%20Painted%20in%20Shades%20of%20Black.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/receiver-soundtrack-2022/01.%2520Reality%2520Painted%2520in%2520Shades%2520of%2520Black.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 57996738,
+      "filesize_mp3_bytes": 10989076,
+      "track_number": 2,
+      "title": "A Slow Mindkill",
+      "runtime": 316,
+      "source_mp3": "https://vgmsite.com/soundtracks/receiver-soundtrack-2022/ityohdharx/02.%20A%20Slow%20Mindkill.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/receiver-soundtrack-2022/ityohdharx/02.%20A%20Slow%20Mindkill.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/receiver-soundtrack-2022/02.%2520A%2520Slow%2520Mindkill.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 21841838,
+      "filesize_mp3_bytes": 3785359,
+      "track_number": 3,
+      "title": "I Am LIstening",
+      "runtime": 105,
+      "source_mp3": "https://vgmsite.com/soundtracks/receiver-soundtrack-2022/xqpjakbiew/03.%20I%20Am%20LIstening.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/receiver-soundtrack-2022/xqpjakbiew/03.%20I%20Am%20LIstening.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/receiver-soundtrack-2022/03.%2520I%2520Am%2520LIstening.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 76042731,
+      "filesize_mp3_bytes": 14050918,
+      "track_number": 4,
+      "title": "Eschatology",
+      "runtime": 607,
+      "source_mp3": "https://vgmsite.com/soundtracks/receiver-soundtrack-2022/hoqcfnundc/04.%20Eschatology.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/receiver-soundtrack-2022/hoqcfnundc/04.%20Eschatology.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/receiver-soundtrack-2022/04.%2520Eschatology.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1100,
+    "filesize_mp3_bytes": 30880561,
+    "filesize_flac_bytes": 166293666,
+    "tracks": 4
+  }
+}

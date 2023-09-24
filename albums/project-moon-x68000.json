@@ -1,0 +1,104 @@
+{
+  "title": "Project Moon",
+  "titles_alternative": [
+    "\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e0\u30fc\u30f3"
+  ],
+  "crawled_at": "2023-09-23T23:53:53.186975+00:00",
+  "slug": "project-moon-x68000",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/project-moon-x68000",
+  "platforms": {
+    "X68000": "https://downloads.khinsider.com/game-soundtracks/x68000"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/project-moon-x68000/PM.png"
+  ],
+  "year": 1995,
+  "date_added": "2019-05-27T00:00:00+00:00",
+  "developers": {
+    "Toshiaki Fujino": "https://downloads.khinsider.com/game-soundtracks/developer/toshiaki-fujino"
+  },
+  "publishers": {
+    "Toshiaki Fujino": "https://downloads.khinsider.com/game-soundtracks/publisher/toshiaki-fujino"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 796917,
+      "track_number": 1,
+      "title": "Opening",
+      "runtime": 27,
+      "source_mp3": "https://vgmsite.com/soundtracks/project-moon-x68000/cjywghbcuw/01_Opening.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/project-moon-x68000/01_Opening.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3670016,
+      "track_number": 2,
+      "title": "Seaside Front",
+      "runtime": 124,
+      "source_mp3": "https://vgmsite.com/soundtracks/project-moon-x68000/sikdhldacu/02_Seaside%20Front.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/project-moon-x68000/02_Seaside%2520Front.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3282042,
+      "track_number": 3,
+      "title": "Boss Theme",
+      "runtime": 108,
+      "source_mp3": "https://vgmsite.com/soundtracks/project-moon-x68000/umiymdidlm/03_Boss%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/project-moon-x68000/03_Boss%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6301941,
+      "track_number": 4,
+      "title": "Dark Forest",
+      "runtime": 213,
+      "source_mp3": "https://vgmsite.com/soundtracks/project-moon-x68000/heszhcdonc/04_Dark%20Forest.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/project-moon-x68000/04_Dark%2520Forest.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6606028,
+      "track_number": 5,
+      "title": "Asteroidobelt",
+      "runtime": 231,
+      "source_mp3": "https://vgmsite.com/soundtracks/project-moon-x68000/dniqqtsggx/05_Asteroidobelt.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/project-moon-x68000/05_Asteroidobelt.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3680501,
+      "track_number": 6,
+      "title": "Last Mission",
+      "runtime": 125,
+      "source_mp3": "https://vgmsite.com/soundtracks/project-moon-x68000/smqkrahxek/06_Last%20Mission.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/project-moon-x68000/06_Last%2520Mission.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5987368,
+      "track_number": 7,
+      "title": "Ending",
+      "runtime": 172,
+      "source_mp3": "https://vgmsite.com/soundtracks/project-moon-x68000/uekgcusarm/07_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/project-moon-x68000/07_Ending.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1000,
+    "filesize_mp3_bytes": 30324813,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

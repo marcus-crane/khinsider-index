@@ -1,0 +1,102 @@
+{
+  "title": "Racing Champ",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T00:47:15.621339+00:00",
+  "slug": "racing-champ-x68000",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/racing-champ-x68000",
+  "platforms": {
+    "X68000": "https://downloads.khinsider.com/game-soundtracks/x68000"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/racing-champ-x68000/R1.png"
+  ],
+  "year": 1991,
+  "date_added": "2019-04-08T00:00:00+00:00",
+  "developers": {
+    "FTZ/Spark": "https://downloads.khinsider.com/game-soundtracks/developer/ftz-spark"
+  },
+  "publishers": {
+    "FTZ/Spark": "https://downloads.khinsider.com/game-soundtracks/publisher/ftz-spark"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3753902,
+      "track_number": 1,
+      "title": "Formation Lap (Loading BGM)",
+      "runtime": 114,
+      "source_mp3": "https://vgmsite.com/soundtracks/racing-champ-x68000/rpguztui/01_Formation%20Lap%20%28Loading%20BGM%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/racing-champ-x68000/01_Formation%2520Lap%2520%2528Loading%2520BGM%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1646264,
+      "track_number": 2,
+      "title": "Condition OK (Config BGM)",
+      "runtime": 56,
+      "source_mp3": "https://vgmsite.com/soundtracks/racing-champ-x68000/kjznwvem/02_Condition%20OK%20%28Config%20BGM%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/racing-champ-x68000/02_Condition%2520OK%2520%2528Config%2520BGM%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 251658,
+      "track_number": 3,
+      "title": "Ready! (Starting Theme)",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/racing-champ-x68000/rjzygfoz/03_Ready%21%20%28Starting%20Theme%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/racing-champ-x68000/03_Ready%2521%2520%2528Starting%2520Theme%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6301941,
+      "track_number": 4,
+      "title": "Cool Wind & Hot Soul (Main BGM)",
+      "runtime": 224,
+      "source_mp3": "https://vgmsite.com/soundtracks/racing-champ-x68000/egprfueb/04_Cool%20Wind%20%26%20Hot%20Soul%20%28Main%20BGM%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/racing-champ-x68000/04_Cool%2520Wind%2520%2526%2520Hot%2520Soul%2520%2528Main%2520BGM%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4550819,
+      "track_number": 5,
+      "title": "Delightful Sweat (Ending Theme)",
+      "runtime": 145,
+      "source_mp3": "https://vgmsite.com/soundtracks/racing-champ-x68000/yvzzbcux/05_Delightful%20Sweat%20%28Ending%20Theme%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/racing-champ-x68000/05_Delightful%2520Sweat%2520%2528Ending%2520Theme%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3816816,
+      "track_number": 6,
+      "title": "Try to the R.C. (Naming BGM)",
+      "runtime": 134,
+      "source_mp3": "https://vgmsite.com/soundtracks/racing-champ-x68000/nniigdlg/06_Try%20to%20the%20R.C.%20%28Naming%20BGM%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/racing-champ-x68000/06_Try%2520to%2520the%2520R.C.%2520%2528Naming%2520BGM%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 398458,
+      "track_number": 7,
+      "title": "Game-Over (Game Over)",
+      "runtime": 13,
+      "source_mp3": "https://vgmsite.com/soundtracks/racing-champ-x68000/kterwkda/07_Game-Over%20%28Game%20Over%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/racing-champ-x68000/07_Game-Over%2520%2528Game%2520Over%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 694,
+    "filesize_mp3_bytes": 20719858,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

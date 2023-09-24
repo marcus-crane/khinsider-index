@@ -1,0 +1,89 @@
+{
+  "title": "Rex Ronan",
+  "titles_alternative": [
+    "Rex Ronan: Experimental Surgeon"
+  ],
+  "crawled_at": "2023-09-24T02:30:40.143953+00:00",
+  "slug": "rex-ronan-1993-snes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/rex-ronan-1993-snes",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/rex-ronan-1993-snes/Rex%20Ronan%20%281993%29%20%28SNES%29.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2019-08-21T00:00:00+00:00",
+  "developers": {
+    "Sculptured": "https://downloads.khinsider.com/game-soundtracks/developer/sculptured"
+  },
+  "publishers": {
+    "RayaSystems": "https://downloads.khinsider.com/game-soundtracks/publisher/rayasystems"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 12163481,
+      "filesize_mp3_bytes": 4771020,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 178,
+      "source_mp3": "https://vgmsite.com/soundtracks/rex-ronan-1993-snes/zssasfqgos/01%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rex-ronan-1993-snes/zssasfqgos/01%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rex-ronan-1993-snes/01%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8629780,
+      "filesize_mp3_bytes": 3397386,
+      "track_number": 2,
+      "title": "Mouth",
+      "runtime": 126,
+      "source_mp3": "https://vgmsite.com/soundtracks/rex-ronan-1993-snes/yjuzxocvsi/02%20Mouth.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rex-ronan-1993-snes/yjuzxocvsi/02%20Mouth.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rex-ronan-1993-snes/02%2520Mouth.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8315207,
+      "filesize_mp3_bytes": 3051356,
+      "track_number": 3,
+      "title": "Flying in Your Microscopic Ship",
+      "runtime": 122,
+      "source_mp3": "https://vgmsite.com/soundtracks/rex-ronan-1993-snes/ppneoofdnp/03%20Flying%20in%20Your%20Microscopic%20Ship.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rex-ronan-1993-snes/ppneoofdnp/03%20Flying%20in%20Your%20Microscopic%20Ship.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rex-ronan-1993-snes/03%2520Flying%2520in%2520Your%2520Microscopic%2520Ship.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9573498,
+      "filesize_mp3_bytes": 3397386,
+      "track_number": 4,
+      "title": "First Lung Area",
+      "runtime": 128,
+      "source_mp3": "https://vgmsite.com/soundtracks/rex-ronan-1993-snes/snupthprec/04%20First%20Lung%20Area.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rex-ronan-1993-snes/snupthprec/04%20First%20Lung%20Area.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rex-ronan-1993-snes/04%2520First%2520Lung%2520Area.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 12173967,
+      "filesize_mp3_bytes": 3942645,
+      "track_number": 5,
+      "title": "Brain",
+      "runtime": 153,
+      "source_mp3": "https://vgmsite.com/soundtracks/rex-ronan-1993-snes/yuavqnzijl/05%20Brain.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rex-ronan-1993-snes/yuavqnzijl/05%20Brain.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rex-ronan-1993-snes/05%2520Brain.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 707,
+    "filesize_mp3_bytes": 18559793,
+    "filesize_flac_bytes": 50855933,
+    "tracks": 5
+  }
+}

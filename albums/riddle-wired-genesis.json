@@ -1,0 +1,90 @@
+{
+  "title": "Riddle Wired",
+  "titles_alternative": [
+    "Riddle Wired: Quiz Dokusen Kigy\u014d no H\u014dkai",
+    "Riddle Wired: \u30af\u30a4\u30ba\u72ec\u5360\u4f01\u696d\u306e\u5d29\u58ca"
+  ],
+  "crawled_at": "2023-09-24T02:43:28.327456+00:00",
+  "slug": "riddle-wired-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/riddle-wired-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/riddle-wired-genesis/Riddle%20Wired.png"
+  ],
+  "year": 1991,
+  "date_added": "2020-05-23T00:00:00+00:00",
+  "developers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4057989,
+      "filesize_mp3_bytes": 1289748,
+      "track_number": 1,
+      "title": "Title Theme",
+      "runtime": 47,
+      "source_mp3": "https://vgmsite.com/soundtracks/riddle-wired-genesis/swmknycxkw/01%20-%20Title%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/riddle-wired-genesis/swmknycxkw/01%20-%20Title%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/riddle-wired-genesis/01%2520-%2520Title%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2936012,
+      "filesize_mp3_bytes": 1153433,
+      "track_number": 2,
+      "title": "BGM",
+      "runtime": 39,
+      "source_mp3": "https://vgmsite.com/soundtracks/riddle-wired-genesis/njcudvfrgt/02%20-%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/riddle-wired-genesis/njcudvfrgt/02%20-%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/riddle-wired-genesis/02%2520-%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 293601,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 3,
+      "title": "Stage Clear",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/riddle-wired-genesis/rqiqdzhnue/03%20-%20Stage%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/riddle-wired-genesis/rqiqdzhnue/03%20-%20Stage%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/riddle-wired-genesis/03%2520-%2520Stage%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 356515,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 4,
+      "title": "All Stages Clear",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/riddle-wired-genesis/usybbcakdt/04%20-%20All%20Stages%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/riddle-wired-genesis/usybbcakdt/04%20-%20All%20Stages%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/riddle-wired-genesis/04%2520-%2520All%2520Stages%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 230686,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 5,
+      "title": "Game Over",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/riddle-wired-genesis/dlxdwtfelm/05%20-%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/riddle-wired-genesis/dlxdwtfelm/05%20-%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/riddle-wired-genesis/05%2520-%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 96,
+    "filesize_mp3_bytes": 2747267,
+    "filesize_flac_bytes": 7874803,
+    "tracks": 5
+  }
+}

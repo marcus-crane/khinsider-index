@@ -1,0 +1,103 @@
+{
+  "title": "Rick Dangerous (HD)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T02:42:25.553000+00:00",
+  "slug": "rick-dangerous-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/rick-dangerous-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/rick-dangerous-amiga/R1.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2017-12-07T00:00:00+00:00",
+  "developers": {
+    "Core Design": "https://downloads.khinsider.com/game-soundtracks/developer/core-design"
+  },
+  "publishers": {
+    "Core Design": "https://downloads.khinsider.com/game-soundtracks/publisher/core-design",
+    "Firebird": "https://downloads.khinsider.com/game-soundtracks/publisher/firebird"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4037017,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 133,
+      "source_mp3": "https://vgmsite.com/soundtracks/rick-dangerous-amiga/yrqclwqa/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rick-dangerous-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1530920,
+      "track_number": 2,
+      "title": "South America 1945 (Stage Intro)",
+      "runtime": 49,
+      "source_mp3": "https://vgmsite.com/soundtracks/rick-dangerous-amiga/kxcdruww/02_South%20America%201945%20%28Stage%20Intro%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rick-dangerous-amiga/02_South%2520America%25201945%2520%2528Stage%2520Intro%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1824522,
+      "track_number": 3,
+      "title": "Egypt, Sometime Later (Stage Intro)",
+      "runtime": 63,
+      "source_mp3": "https://vgmsite.com/soundtracks/rick-dangerous-amiga/bxlaiykp/03_Egypt%2C%20Sometime%20Later%20%28Stage%20Intro%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rick-dangerous-amiga/03_Egypt%252C%2520Sometime%2520Later%2520%2528Stage%2520Intro%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1300234,
+      "track_number": 4,
+      "title": "Europe, Later That Week (Stage Intro)",
+      "runtime": 40,
+      "source_mp3": "https://vgmsite.com/soundtracks/rick-dangerous-amiga/nwpavyjm/04_Europe%2C%20Later%20That%20Week%20%28Stage%20Intro%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rick-dangerous-amiga/04_Europe%252C%2520Later%2520That%2520Week%2520%2528Stage%2520Intro%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1835008,
+      "track_number": 5,
+      "title": "Europe, Even Later (Stage Intro)",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/rick-dangerous-amiga/pjfjulob/05_Europe%2C%20Even%20Later%20%28Stage%20Intro%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rick-dangerous-amiga/05_Europe%252C%2520Even%2520Later%2520%2528Stage%2520Intro%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 450887,
+      "track_number": 6,
+      "title": "London, Much, Much, Later (Ending)",
+      "runtime": 16,
+      "source_mp3": "https://vgmsite.com/soundtracks/rick-dangerous-amiga/qclqlzzg/06_London%2C%20Much%2C%20Much%2C%20Later%20%28Ending%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rick-dangerous-amiga/06_London%252C%2520Much%252C%2520Much%252C%2520Later%2520%2528Ending%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 167772,
+      "track_number": 7,
+      "title": "Game Over",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/rick-dangerous-amiga/mfatlssp/07_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rick-dangerous-amiga/07_Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 372,
+    "filesize_mp3_bytes": 11146360,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "title": "R-Type II",
+  "titles_alternative": [
+    "\u30a2\u30fc\u30eb\u30fb\u30bf\u30a4\u30d7II"
+  ],
+  "crawled_at": "2023-09-24T00:39:40.479889+00:00",
+  "slug": "r-type-ii-gameboy",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/r-type-ii-gameboy",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/r-type-ii-gameboy/259852-r-type-ii-game-boy-front-cover.jpg"
+  ],
+  "year": 1992,
+  "date_added": "2017-03-23T00:00:00+00:00",
+  "developers": {
+    "BITS Studios": "https://downloads.khinsider.com/game-soundtracks/developer/bits-studios",
+    "Irem": "https://downloads.khinsider.com/game-soundtracks/developer/irem"
+  },
+  "publishers": {
+    "Irem": "https://downloads.khinsider.com/game-soundtracks/publisher/irem"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1017118,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 31,
+      "source_mp3": "https://vgmsite.com/soundtracks/r-type-ii-gameboy/abebcggf/01_Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/r-type-ii-gameboy/01_Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2086666,
+      "track_number": 2,
+      "title": "Stage Theme 1",
+      "runtime": 67,
+      "source_mp3": "https://vgmsite.com/soundtracks/r-type-ii-gameboy/jtiqmoxk/02_Stage%20Theme%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/r-type-ii-gameboy/02_Stage%2520Theme%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8304721,
+      "track_number": 3,
+      "title": "Stage Theme 2",
+      "runtime": 263,
+      "source_mp3": "https://vgmsite.com/soundtracks/r-type-ii-gameboy/oejtmqqn/03_Stage%20Theme%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/r-type-ii-gameboy/03_Stage%2520Theme%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1562378,
+      "track_number": 4,
+      "title": "Boss Battle",
+      "runtime": 50,
+      "source_mp3": "https://vgmsite.com/soundtracks/r-type-ii-gameboy/entkarut/04_Boss%20Battle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/r-type-ii-gameboy/04_Boss%2520Battle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 262144,
+      "track_number": 5,
+      "title": "Stage Clear",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/r-type-ii-gameboy/vaakfxsj/05_Stage%20Clear.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/r-type-ii-gameboy/05_Stage%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 335544,
+      "track_number": 6,
+      "title": "Continue",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/r-type-ii-gameboy/mdzeciaf/06_Continue.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/r-type-ii-gameboy/06_Continue.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2600468,
+      "track_number": 7,
+      "title": "Ending",
+      "runtime": 87,
+      "source_mp3": "https://vgmsite.com/soundtracks/r-type-ii-gameboy/chiuezod/07_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/r-type-ii-gameboy/07_Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 8,
+      "title": "Game Over",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/r-type-ii-gameboy/fjwyahwc/08_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/r-type-ii-gameboy/08_Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 523,
+    "filesize_mp3_bytes": 16294868,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

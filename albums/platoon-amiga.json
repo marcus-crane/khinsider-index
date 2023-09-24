@@ -1,0 +1,105 @@
+{
+  "title": "Platoon",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T21:15:09.223741+00:00",
+  "slug": "platoon-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/platoon-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/platoon-amiga/P1.png"
+  ],
+  "year": 1988,
+  "date_added": "2018-03-22T00:00:00+00:00",
+  "developers": {
+    "Choice": "https://downloads.khinsider.com/game-soundtracks/developer/choice",
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/developer/ocean"
+  },
+  "publishers": {
+    "Data East": "https://downloads.khinsider.com/game-soundtracks/publisher/data-east",
+    "Hit Squad": "https://downloads.khinsider.com/game-soundtracks/publisher/hit-squad",
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/publisher/ocean"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7948206,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 243,
+      "source_mp3": "https://vgmsite.com/soundtracks/platoon-amiga/ywoygecb/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/platoon-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5525995,
+      "track_number": 2,
+      "title": "Loading Tune",
+      "runtime": 161,
+      "source_mp3": "https://vgmsite.com/soundtracks/platoon-amiga/osnnpwaz/02_Loading%20Tune.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/platoon-amiga/02_Loading%2520Tune.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9542041,
+      "track_number": 3,
+      "title": "Stage 1 Jungle",
+      "runtime": 294,
+      "source_mp3": "https://vgmsite.com/soundtracks/platoon-amiga/ukqbtzsu/03_Stage%201%20Jungle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/platoon-amiga/03_Stage%25201%2520Jungle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6165626,
+      "track_number": 4,
+      "title": "Stage 2 Tunnels",
+      "runtime": 171,
+      "source_mp3": "https://vgmsite.com/soundtracks/platoon-amiga/wvmnkqdy/04_Stage%202%20Tunnels.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/platoon-amiga/04_Stage%25202%2520Tunnels.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8587837,
+      "track_number": 5,
+      "title": "Stage 3 Dugout",
+      "runtime": 241,
+      "source_mp3": "https://vgmsite.com/soundtracks/platoon-amiga/uydmddel/05_Stage%203%20Dugout.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/platoon-amiga/05_Stage%25203%2520Dugout.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4603248,
+      "track_number": 6,
+      "title": "Stage 4 Escape",
+      "runtime": 140,
+      "source_mp3": "https://vgmsite.com/soundtracks/platoon-amiga/pjpixmkh/06_Stage%204%20Escape.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/platoon-amiga/06_Stage%25204%2520Escape.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6564085,
+      "track_number": 7,
+      "title": "Name Entry",
+      "runtime": 197,
+      "source_mp3": "https://vgmsite.com/soundtracks/platoon-amiga/zovekjiv/07_Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/platoon-amiga/07_Name%2520Entry.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1447,
+    "filesize_mp3_bytes": 48937038,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

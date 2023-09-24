@@ -1,0 +1,92 @@
+{
+  "title": "Rad Racer II",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T00:48:31.800469+00:00",
+  "slug": "rad-racer-ii-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/rad-racer-ii-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/rad-racer-ii-nes/R2.png"
+  ],
+  "year": 1990,
+  "date_added": "2016-07-02T00:00:00+00:00",
+  "developers": {
+    "Square": "https://downloads.khinsider.com/game-soundtracks/developer/square"
+  },
+  "publishers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 1,
+      "title": "Race Start",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/rad-racer-ii-nes/dxjdubwh/01_Race%20Start.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rad-racer-ii-nes/01_Race%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3827302,
+      "track_number": 2,
+      "title": "Gumball Crash",
+      "runtime": 114,
+      "source_mp3": "https://vgmsite.com/soundtracks/rad-racer-ii-nes/xjspjumc/02_Gumball%20Crash.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rad-racer-ii-nes/02_Gumball%2520Crash.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3690987,
+      "track_number": 3,
+      "title": "Coast to Coast",
+      "runtime": 108,
+      "source_mp3": "https://vgmsite.com/soundtracks/rad-racer-ii-nes/qgdviwie/03_Coast%20to%20Coast.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rad-racer-ii-nes/03_Coast%2520to%2520Coast.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3701473,
+      "track_number": 4,
+      "title": "Ending",
+      "runtime": 115,
+      "source_mp3": "https://vgmsite.com/soundtracks/rad-racer-ii-nes/eyagdmzl/04_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rad-racer-ii-nes/04_Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 209715,
+      "track_number": 5,
+      "title": "Race Complete",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/rad-racer-ii-nes/juiiiwuu/05_Race%20Complete.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rad-racer-ii-nes/05_Race%2520Complete.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3995074,
+      "track_number": 6,
+      "title": "Unused",
+      "runtime": 122,
+      "source_mp3": "https://vgmsite.com/soundtracks/rad-racer-ii-nes/bkolxnez/06_Unused.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rad-racer-ii-nes/06_Unused.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 472,
+    "filesize_mp3_bytes": 15560865,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

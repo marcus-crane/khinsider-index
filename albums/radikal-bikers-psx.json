@@ -1,0 +1,77 @@
+{
+  "title": "Radikal Bikers",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T00:51:11.403680+00:00",
+  "slug": "radikal-bikers-psx",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/radikal-bikers-psx",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/radikal-bikers-psx/Radikal%20Bikers%20Alt.jpg"
+  ],
+  "year": 1998,
+  "date_added": "2023-08-20T00:00:00+00:00",
+  "developers": {
+    "Bit Managers": "https://downloads.khinsider.com/game-soundtracks/developer/bit-managers",
+    "Gaelco": "https://downloads.khinsider.com/game-soundtracks/developer/gaelco"
+  },
+  "publishers": {
+    "Infogrames": "https://downloads.khinsider.com/game-soundtracks/publisher/infogrames"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 17406361,
+      "filesize_mp3_bytes": 3732930,
+      "track_number": 1,
+      "title": "Radikal Biker",
+      "runtime": 159,
+      "source_mp3": "https://vgmsite.com/soundtracks/radikal-bikers-psx/hzfcqrxwmb/01.%20Radikal%20Biker.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/radikal-bikers-psx/hzfcqrxwmb/01.%20Radikal%20Biker.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/radikal-bikers-psx/01.%2520Radikal%2520Biker.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 18800967,
+      "filesize_mp3_bytes": 4341104,
+      "track_number": 2,
+      "title": "Crazy Rider",
+      "runtime": 166,
+      "source_mp3": "https://vgmsite.com/soundtracks/radikal-bikers-psx/qkgppguqgj/02.%20Crazy%20Rider.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/radikal-bikers-psx/qkgppguqgj/02.%20Crazy%20Rider.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/radikal-bikers-psx/02.%2520Crazy%2520Rider.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 27378319,
+      "filesize_mp3_bytes": 5966397,
+      "track_number": 3,
+      "title": "Win or Die",
+      "runtime": 245,
+      "source_mp3": "https://vgmsite.com/soundtracks/radikal-bikers-psx/ooiolxjcwp/03.%20Win%20or%20Die.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/radikal-bikers-psx/ooiolxjcwp/03.%20Win%20or%20Die.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/radikal-bikers-psx/03.%2520Win%2520or%2520Die.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 27892121,
+      "filesize_mp3_bytes": 6259998,
+      "track_number": 4,
+      "title": "Warriors",
+      "runtime": 247,
+      "source_mp3": "https://vgmsite.com/soundtracks/radikal-bikers-psx/tgixhkcimk/04.%20Warriors.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/radikal-bikers-psx/tgixhkcimk/04.%20Warriors.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/radikal-bikers-psx/04.%2520Warriors.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 817,
+    "filesize_mp3_bytes": 20300429,
+    "filesize_flac_bytes": 91477768,
+    "tracks": 4
+  }
+}

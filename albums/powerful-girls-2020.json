@@ -1,0 +1,46 @@
+{
+  "title": "Powerful Girls",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T23:18:04.031792+00:00",
+  "slug": "powerful-girls-2020",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/powerful-girls-2020",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/powerful-girls-2020/cover.jpg"
+  ],
+  "year": 2020,
+  "date_added": "2021-01-07T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 38335938,
+      "filesize_mp3_bytes": 9007267,
+      "track_number": 1,
+      "title": "Dream Fever",
+      "runtime": 269,
+      "source_mp3": "https://vgmsite.com/soundtracks/powerful-girls-2020/nprspnnlgr/01%20Dream%20Fever.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/powerful-girls-2020/nprspnnlgr/01%20Dream%20Fever.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/powerful-girls-2020/01%2520Dream%2520Fever.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 28846325,
+      "filesize_mp3_bytes": 7696547,
+      "track_number": 2,
+      "title": "Go Go Power!",
+      "runtime": 209,
+      "source_mp3": "https://vgmsite.com/soundtracks/powerful-girls-2020/hjyrbaxcyv/02%20Go%20Go%20Power%21.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/powerful-girls-2020/hjyrbaxcyv/02%20Go%20Go%20Power%21.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/powerful-girls-2020/02%2520Go%2520Go%2520Power%2521.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 478,
+    "filesize_mp3_bytes": 16703814,
+    "filesize_flac_bytes": 67182263,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "title": "The Return of Medusa",
+  "titles_alternative": [
+    "Rings of Medusa II"
+  ],
+  "crawled_at": "2023-09-24T02:25:11.848980+00:00",
+  "slug": "return-of-medusa-the-atari-st",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/return-of-medusa-the-atari-st",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/return-of-medusa-the-atari-st/Return%20of%20Medusa%2C%20The%20%28Atari%20ST%29.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2016-07-01T00:00:00+00:00",
+  "developers": {
+    "X-Ample": "https://downloads.khinsider.com/game-soundtracks/developer/x-ample"
+  },
+  "publishers": {
+    "Starbyte Software": "https://downloads.khinsider.com/game-soundtracks/publisher/starbyte-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4634705,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 183,
+      "source_mp3": "https://vgmsite.com/soundtracks/return-of-medusa-the-atari-st/korlokcw/01_Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/return-of-medusa-the-atari-st/01_Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9835642,
+      "track_number": 2,
+      "title": "In-Game Music Part 1",
+      "runtime": 377,
+      "source_mp3": "https://vgmsite.com/soundtracks/return-of-medusa-the-atari-st/ezajedra/02_In-Game%20Music%20Part%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/return-of-medusa-the-atari-st/02_In-Game%2520Music%2520Part%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3177185,
+      "track_number": 3,
+      "title": "In-Game Music Part 2",
+      "runtime": 121,
+      "source_mp3": "https://vgmsite.com/soundtracks/return-of-medusa-the-atari-st/wdbcjcea/03_In-Game%20Music%20Part%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/return-of-medusa-the-atari-st/03_In-Game%2520Music%2520Part%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1069547,
+      "track_number": 4,
+      "title": "Unknown",
+      "runtime": 44,
+      "source_mp3": "https://vgmsite.com/soundtracks/return-of-medusa-the-atari-st/sormdqpm/04_Unknown.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/return-of-medusa-the-atari-st/04_Unknown.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2506096,
+      "track_number": 5,
+      "title": "Unused",
+      "runtime": 108,
+      "source_mp3": "https://vgmsite.com/soundtracks/return-of-medusa-the-atari-st/riemnpnz/05_Unused.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/return-of-medusa-the-atari-st/05_Unused.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 833,
+    "filesize_mp3_bytes": 21223175,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

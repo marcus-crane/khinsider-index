@@ -1,0 +1,55 @@
+{
+  "title": "PriministAr Theme Song Maxi CD",
+  "titles_alternative": [
+    "PriministAr \u4e3b\u984c\u6b4c\u30de\u30ad\u30b7CD"
+  ],
+  "crawled_at": "2023-09-23T23:25:13.509019+00:00",
+  "slug": "priministar-theme-song-maxi-cd",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/priministar-theme-song-maxi-cd",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/priministar-theme-song-maxi-cd/CD.jpg"
+  ],
+  "year": 2013,
+  "catalog_number": "DAI-130822",
+  "date_added": "2020-04-21T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "HOOKSOFT": "https://downloads.khinsider.com/game-soundtracks/publisher/hooksoft"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 37958451,
+      "filesize_mp3_bytes": 10034872,
+      "track_number": 1,
+      "title": "Niji-iro no Kisetsu e (Full)",
+      "runtime": 290,
+      "source_mp3": "https://vgmsite.com/soundtracks/priministar-theme-song-maxi-cd/nylywxemjo/01%20-%20Niji-iro%20no%20Kisetsu%20e%20%28Full%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/priministar-theme-song-maxi-cd/nylywxemjo/01%20-%20Niji-iro%20no%20Kisetsu%20e%20%28Full%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/priministar-theme-song-maxi-cd/01%2520-%2520Niji-iro%2520no%2520Kisetsu%2520e%2520%2528Full%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 38126223,
+      "filesize_mp3_bytes": 10013900,
+      "track_number": 2,
+      "title": "Niji-iro no Kisetsu e (Karaoke)",
+      "runtime": 288,
+      "source_mp3": "https://vgmsite.com/soundtracks/priministar-theme-song-maxi-cd/osdwbqpvtp/02%20-%20Niji-iro%20no%20Kisetsu%20e%20%28Karaoke%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/priministar-theme-song-maxi-cd/osdwbqpvtp/02%20-%20Niji-iro%20no%20Kisetsu%20e%20%28Karaoke%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/priministar-theme-song-maxi-cd/02%2520-%2520Niji-iro%2520no%2520Kisetsu%2520e%2520%2528Karaoke%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 578,
+    "filesize_mp3_bytes": 20048772,
+    "filesize_flac_bytes": 76084674,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "title": "Reiki Japan",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T02:12:34.683352+00:00",
+  "slug": "reiki-japan-2012",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/reiki-japan-2012",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/reiki-japan-2012/front_small.jpg"
+  ],
+  "year": 2012,
+  "catalog_number": "S001-V001",
+  "date_added": "2023-02-06T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Shinmondo": "https://downloads.khinsider.com/game-soundtracks/publisher/shinmondo"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 73379348,
+      "filesize_mp3_bytes": 27923578,
+      "track_number": 1,
+      "title": "Cosmos 1",
+      "runtime": 920,
+      "source_mp3": "https://vgmsite.com/soundtracks/reiki-japan-2012/mxhwroqgfs/01%20Cosmos%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/reiki-japan-2012/mxhwroqgfs/01%20Cosmos%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/reiki-japan-2012/01%2520Cosmos%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 68398612,
+      "filesize_mp3_bytes": 27661434,
+      "track_number": 2,
+      "title": "Cosmos 2",
+      "runtime": 917,
+      "source_mp3": "https://vgmsite.com/soundtracks/reiki-japan-2012/pgfrbewqqg/02%20Cosmos%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/reiki-japan-2012/pgfrbewqqg/02%20Cosmos%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/reiki-japan-2012/02%2520Cosmos%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 54546923,
+      "filesize_mp3_bytes": 28416409,
+      "track_number": 3,
+      "title": "Cosmos 3",
+      "runtime": 904,
+      "source_mp3": "https://vgmsite.com/soundtracks/reiki-japan-2012/qckeflfuad/03%20Cosmos%203.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/reiki-japan-2012/qckeflfuad/03%20Cosmos%203.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/reiki-japan-2012/03%2520Cosmos%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 84211138,
+      "filesize_mp3_bytes": 28835840,
+      "track_number": 4,
+      "title": "Cosmos 4",
+      "runtime": 926,
+      "source_mp3": "https://vgmsite.com/soundtracks/reiki-japan-2012/tnekycasfl/04%20Cosmos%204.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/reiki-japan-2012/tnekycasfl/04%20Cosmos%204.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/reiki-japan-2012/04%2520Cosmos%25204.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 3667,
+    "filesize_mp3_bytes": 112837261,
+    "filesize_flac_bytes": 280536021,
+    "tracks": 4
+  }
+}

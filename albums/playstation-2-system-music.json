@@ -1,0 +1,72 @@
+{
+  "title": "Playstation 2 System Music",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T21:16:07.043969+00:00",
+  "slug": "playstation-2-system-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/playstation-2-system-music",
+  "platforms": {
+    "PS2": "https://downloads.khinsider.com/game-soundtracks/playstation-2"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/playstation-2-system-music/ul_0Fumyk6g6Fp8uaGsoCG_Gn587Jpjon6_6y-ijh3U.jpg"
+  ],
+  "year": 2000,
+  "date_added": "2023-08-09T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2264924,
+      "filesize_mp3_bytes": 356515,
+      "track_number": 1,
+      "title": "Bootup",
+      "runtime": 13,
+      "source_mp3": "https://vgmsite.com/soundtracks/playstation-2-system-music/ravblvkfqr/01%20Bootup.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/playstation-2-system-music/ravblvkfqr/01%20Bootup.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/playstation-2-system-music/01%2520Bootup.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 90041221,
+      "filesize_mp3_bytes": 16483614,
+      "track_number": 2,
+      "title": "Menu",
+      "runtime": 600,
+      "source_mp3": "https://vgmsite.com/soundtracks/playstation-2-system-music/mvtppnbkir/02%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/playstation-2-system-music/mvtppnbkir/02%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/playstation-2-system-music/02%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1300234,
+      "filesize_mp3_bytes": 220200,
+      "track_number": 3,
+      "title": "Browser To Menu",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/playstation-2-system-music/rwqzwchhqn/03%20Browser%20To%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/playstation-2-system-music/rwqzwchhqn/03%20Browser%20To%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/playstation-2-system-music/03%2520Browser%2520To%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 251658,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 4,
+      "title": "Game Boot",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/playstation-2-system-music/wdjtvcqffe/04%20Game%20Boot.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/playstation-2-system-music/wdjtvcqffe/04%20Game%20Boot.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/playstation-2-system-music/04%2520Game%2520Boot.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 624,
+    "filesize_mp3_bytes": 17112757,
+    "filesize_flac_bytes": 93858037,
+    "tracks": 4
+  }
+}

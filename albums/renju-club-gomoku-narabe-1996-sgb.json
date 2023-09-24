@@ -1,0 +1,56 @@
+{
+  "title": "Renju Club: Gomoku Narabe",
+  "titles_alternative": [
+    "\u9023\u73e0\u5036\u697d\u90e8 \u4e94\u76ee\u306a\u3089\u3079"
+  ],
+  "crawled_at": "2023-09-24T02:18:56.381258+00:00",
+  "slug": "renju-club-gomoku-narabe-1996-sgb",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/renju-club-gomoku-narabe-1996-sgb",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/renju-club-gomoku-narabe-1996-sgb/Renju%20Club%20-%20Gomoku%20Narabe%20%281996%29%20%28SGB%29.png"
+  ],
+  "year": 1996,
+  "date_added": "2022-06-06T00:00:00+00:00",
+  "developers": {
+    "Natsu System": "https://downloads.khinsider.com/game-soundtracks/developer/natsu-system"
+  },
+  "publishers": {
+    "Hect": "https://downloads.khinsider.com/game-soundtracks/publisher/hect"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10789847,
+      "filesize_mp3_bytes": 3439329,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/renju-club-gomoku-narabe-1996-sgb/uwnrvcrcfn/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/renju-club-gomoku-narabe-1996-sgb/uwnrvcrcfn/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/renju-club-gomoku-narabe-1996-sgb/01%2520BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9646899,
+      "filesize_mp3_bytes": 4194304,
+      "track_number": 2,
+      "title": "BGM #02",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/renju-club-gomoku-narabe-1996-sgb/kuyvdegdvo/02%20BGM%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/renju-club-gomoku-narabe-1996-sgb/kuyvdegdvo/02%20BGM%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/renju-club-gomoku-narabe-1996-sgb/02%2520BGM%2520%252302.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 360,
+    "filesize_mp3_bytes": 7633633,
+    "filesize_flac_bytes": 20436746,
+    "tracks": 2
+  }
+}

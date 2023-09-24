@@ -1,0 +1,94 @@
+{
+  "title": "POST-6 (Original Soundtrack)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T23:04:17.168885+00:00",
+  "slug": "post-6-original-soundtrack-2022",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/post-6-original-soundtrack-2022",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/post-6-original-soundtrack-2022/cover.png"
+  ],
+  "year": 2022,
+  "catalog_number": null,
+  "date_added": "2022-12-27T00:00:00+00:00",
+  "developers": {
+    "GhostGamesX": "https://downloads.khinsider.com/game-soundtracks/developer/ghostgamesx"
+  },
+  "publishers": {
+    "GhostGamesX": "https://downloads.khinsider.com/game-soundtracks/publisher/ghostgamesx",
+    "RookieReviews": "https://downloads.khinsider.com/game-soundtracks/publisher/rookiereviews"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2097152,
+      "track_number": 1,
+      "title": "Menu Music",
+      "runtime": 89,
+      "source_mp3": "https://vgmsite.com/soundtracks/post-6-original-soundtrack-2022/evobofrpzo/01%20Menu%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/post-6-original-soundtrack-2022/01%2520Menu%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 796917,
+      "track_number": 2,
+      "title": "Opening Music",
+      "runtime": 32,
+      "source_mp3": "https://vgmsite.com/soundtracks/post-6-original-soundtrack-2022/cjecbgtwqj/02%20Opening%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/post-6-original-soundtrack-2022/02%2520Opening%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 639631,
+      "track_number": 3,
+      "title": "BG Ambience",
+      "runtime": 42,
+      "source_mp3": "https://vgmsite.com/soundtracks/post-6-original-soundtrack-2022/ukijizxgmu/03%20BG%20Ambience.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/post-6-original-soundtrack-2022/03%2520BG%2520Ambience.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1352663,
+      "track_number": 4,
+      "title": "Extras Menu",
+      "runtime": 57,
+      "source_mp3": "https://vgmsite.com/soundtracks/post-6-original-soundtrack-2022/uofdyxhgxm/04%20Extras%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/post-6-original-soundtrack-2022/04%2520Extras%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2956984,
+      "track_number": 5,
+      "title": "Credits",
+      "runtime": 113,
+      "source_mp3": "https://vgmsite.com/soundtracks/post-6-original-soundtrack-2022/vewdstpvnr/05%20Credits.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/post-6-original-soundtrack-2022/05%2520Credits.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3061841,
+      "track_number": 6,
+      "title": "Heaven",
+      "runtime": 210,
+      "source_mp3": "https://vgmsite.com/soundtracks/post-6-original-soundtrack-2022/kmibnrckpm/06%20Heaven.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/post-6-original-soundtrack-2022/06%2520Heaven.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 543,
+    "filesize_mp3_bytes": 10905188,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

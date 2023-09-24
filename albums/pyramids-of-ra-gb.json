@@ -1,0 +1,83 @@
+{
+  "title": "Pyramids of Ra",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T00:36:33.651342+00:00",
+  "slug": "pyramids-of-ra-gb",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pyramids-of-ra-gb",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pyramids-of-ra-gb/Pyramids%20of%20Ra.png"
+  ],
+  "year": 1993,
+  "date_added": "2022-06-01T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 12645826,
+      "filesize_mp3_bytes": 4938792,
+      "track_number": 1,
+      "title": "Title Screen, Room Theme 1",
+      "runtime": 124,
+      "source_mp3": "https://vgmsite.com/soundtracks/pyramids-of-ra-gb/mjeiygfyoe/01%20Title%20Screen%2C%20Room%20Theme%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pyramids-of-ra-gb/mjeiygfyoe/01%20Title%20Screen%2C%20Room%20Theme%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pyramids-of-ra-gb/01%2520Title%2520Screen%252C%2520Room%2520Theme%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3261071,
+      "filesize_mp3_bytes": 1300234,
+      "track_number": 2,
+      "title": "Room Start",
+      "runtime": 33,
+      "source_mp3": "https://vgmsite.com/soundtracks/pyramids-of-ra-gb/quypirkhis/02%20Room%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pyramids-of-ra-gb/quypirkhis/02%20Room%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pyramids-of-ra-gb/02%2520Room%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10045358,
+      "filesize_mp3_bytes": 4037017,
+      "track_number": 3,
+      "title": "Room Theme 2",
+      "runtime": 101,
+      "source_mp3": "https://vgmsite.com/soundtracks/pyramids-of-ra-gb/kotieeamup/03%20Room%20Theme%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pyramids-of-ra-gb/kotieeamup/03%20Room%20Theme%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pyramids-of-ra-gb/03%2520Room%2520Theme%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 13379829,
+      "filesize_mp3_bytes": 4938792,
+      "track_number": 4,
+      "title": "Room Theme 3",
+      "runtime": 124,
+      "source_mp3": "https://vgmsite.com/soundtracks/pyramids-of-ra-gb/akzkaqtsxg/04%20Room%20Theme%203.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pyramids-of-ra-gb/akzkaqtsxg/04%20Room%20Theme%203.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pyramids-of-ra-gb/04%2520Room%2520Theme%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10873733,
+      "filesize_mp3_bytes": 3030384,
+      "track_number": 5,
+      "title": "Unused Song",
+      "runtime": 87,
+      "source_mp3": "https://vgmsite.com/soundtracks/pyramids-of-ra-gb/psdekzizxw/05%20Unused%20Song.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pyramids-of-ra-gb/psdekzizxw/05%20Unused%20Song.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pyramids-of-ra-gb/05%2520Unused%2520Song.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 469,
+    "filesize_mp3_bytes": 18245219,
+    "filesize_flac_bytes": 50205817,
+    "tracks": 5
+  }
+}

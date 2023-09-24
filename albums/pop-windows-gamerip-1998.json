@@ -1,0 +1,88 @@
+{
+  "title": "POP!",
+  "titles_alternative": [
+    "\u041b\u043e\u0448\u0430\u0440\u0438\u043a"
+  ],
+  "crawled_at": "2023-09-23T22:54:52.246215+00:00",
+  "slug": "pop-windows-gamerip-1998",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pop-windows-gamerip-1998",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pop-windows-gamerip-1998/Title.png"
+  ],
+  "year": 1998,
+  "date_added": "2023-07-12T00:00:00+00:00",
+  "developers": {
+    "Zero Entertainment": "https://downloads.khinsider.com/game-soundtracks/developer/zero-entertainment"
+  },
+  "publishers": {
+    "Zero Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/zero-entertainment"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2988441,
+      "title": "BALLOON 0",
+      "runtime": 179,
+      "source_mp3": "https://vgmsite.com/soundtracks/pop-windows-gamerip-1998/eiqqxrrews/BALLOON%200.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pop-windows-gamerip-1998/BALLOON%25200.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1541406,
+      "title": "BALLOON 1",
+      "runtime": 122,
+      "source_mp3": "https://vgmsite.com/soundtracks/pop-windows-gamerip-1998/mhkcvaidcw/BALLOON%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pop-windows-gamerip-1998/BALLOON%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3229614,
+      "title": "BALLOON 2",
+      "runtime": 208,
+      "source_mp3": "https://vgmsite.com/soundtracks/pop-windows-gamerip-1998/hgwzidxnfs/BALLOON%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pop-windows-gamerip-1998/BALLOON%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2243952,
+      "title": "BALLOON 4",
+      "runtime": 197,
+      "source_mp3": "https://vgmsite.com/soundtracks/pop-windows-gamerip-1998/iydlupypoh/BALLOON%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pop-windows-gamerip-1998/BALLOON%25204.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 188743,
+      "title": "INTRO TAG",
+      "runtime": 12,
+      "source_mp3": "https://vgmsite.com/soundtracks/pop-windows-gamerip-1998/ztphcidvai/INTRO%20TAG.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pop-windows-gamerip-1998/INTRO%2520TAG.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 104857,
+      "title": "TRANS TAG",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/pop-windows-gamerip-1998/utkayyguno/TRANS%20TAG.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pop-windows-gamerip-1998/TRANS%2520TAG.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 726,
+    "filesize_mp3_bytes": 10297013,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

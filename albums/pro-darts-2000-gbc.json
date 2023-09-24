@@ -1,0 +1,54 @@
+{
+  "title": "Pro Darts (GBC)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T23:41:44.350677+00:00",
+  "slug": "pro-darts-2000-gbc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pro-darts-2000-gbc",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pro-darts-2000-gbc/P1.png"
+  ],
+  "year": 2000,
+  "date_added": "2022-06-04T00:00:00+00:00",
+  "developers": {
+    "Vicarious Visions": "https://downloads.khinsider.com/game-soundtracks/developer/vicarious-visions"
+  },
+  "publishers": {
+    "Vatical": "https://downloads.khinsider.com/game-soundtracks/publisher/vatical"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9992929,
+      "filesize_mp3_bytes": 4561305,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/pro-darts-2000-gbc/ulweqewvqg/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pro-darts-2000-gbc/ulweqewvqg/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pro-darts-2000-gbc/01%2520BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10139729,
+      "filesize_mp3_bytes": 4246732,
+      "track_number": 2,
+      "title": "BGM #02",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/pro-darts-2000-gbc/hakdxgfoqz/02%20BGM%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pro-darts-2000-gbc/hakdxgfoqz/02%20BGM%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pro-darts-2000-gbc/02%2520BGM%2520%252302.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 360,
+    "filesize_mp3_bytes": 8808037,
+    "filesize_flac_bytes": 20132658,
+    "tracks": 2
+  }
+}

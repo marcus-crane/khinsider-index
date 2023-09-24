@@ -1,0 +1,92 @@
+{
+  "title": "Return to Genesis",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T02:25:56.547449+00:00",
+  "slug": "return-to-genesis-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/return-to-genesis-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/return-to-genesis-amiga/R1.png"
+  ],
+  "year": 1988,
+  "date_added": "2017-10-29T00:00:00+00:00",
+  "developers": {
+    "Firebird": "https://downloads.khinsider.com/game-soundtracks/developer/firebird"
+  },
+  "publishers": {
+    "Firebird": "https://downloads.khinsider.com/game-soundtracks/publisher/firebird"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 1,
+      "title": "Return to Genesis",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/return-to-genesis-amiga/eppcbxjj/01_Return%20to%20Genesis.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/return-to-genesis-amiga/01_Return%2520to%2520Genesis.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5830082,
+      "track_number": 2,
+      "title": "Main Theme",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/return-to-genesis-amiga/stfyjfmp/02_Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/return-to-genesis-amiga/02_Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 3,
+      "title": "Get Ready!",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/return-to-genesis-amiga/qmqidbif/03_Get%20Ready%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/return-to-genesis-amiga/03_Get%2520Ready%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 220200,
+      "track_number": 4,
+      "title": "World Clear",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/return-to-genesis-amiga/gpmplewg/04_World%20Clear.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/return-to-genesis-amiga/04_World%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1080033,
+      "track_number": 5,
+      "title": "Select Foe",
+      "runtime": 36,
+      "source_mp3": "https://vgmsite.com/soundtracks/return-to-genesis-amiga/xvduznfx/05_Select%20Foe.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/return-to-genesis-amiga/05_Select%2520Foe.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1730150,
+      "track_number": 6,
+      "title": "Name Entry",
+      "runtime": 54,
+      "source_mp3": "https://vgmsite.com/soundtracks/return-to-genesis-amiga/ejysladj/06_Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/return-to-genesis-amiga/06_Name%2520Entry.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 285,
+    "filesize_mp3_bytes": 9059693,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

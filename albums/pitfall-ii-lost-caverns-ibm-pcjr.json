@@ -1,0 +1,78 @@
+{
+  "title": "Pitfall II - Lost Caverns (IBM PCjr)",
+  "titles_alternative": [
+    "\u30d4\u30c3\u30c8\u30d5\u30a9\u30fc\u30ebII"
+  ],
+  "crawled_at": "2023-09-23T21:03:14.403840+00:00",
+  "slug": "pitfall-ii-lost-caverns-ibm-pcjr",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pitfall-ii-lost-caverns-ibm-pcjr",
+  "platforms": {
+    "IBM PC": "https://downloads.khinsider.com/game-soundtracks/ibm-pc"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pitfall-ii-lost-caverns-ibm-pcjr/Pitfall%20II%20-%20Lost%20Caverns.png"
+  ],
+  "year": 1984,
+  "date_added": "2022-05-28T00:00:00+00:00",
+  "developers": {
+    "Activision": "https://downloads.khinsider.com/game-soundtracks/developer/activision"
+  },
+  "publishers": {
+    "Activision": "https://downloads.khinsider.com/game-soundtracks/publisher/activision"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1730150,
+      "filesize_mp3_bytes": 734003,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 40,
+      "source_mp3": "https://vgmsite.com/soundtracks/pitfall-ii-lost-caverns-ibm-pcjr/nisqqktzrw/01%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pitfall-ii-lost-caverns-ibm-pcjr/nisqqktzrw/01%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pitfall-ii-lost-caverns-ibm-pcjr/01%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2621440,
+      "filesize_mp3_bytes": 1090519,
+      "track_number": 2,
+      "title": "Treasure found",
+      "runtime": 59,
+      "source_mp3": "https://vgmsite.com/soundtracks/pitfall-ii-lost-caverns-ibm-pcjr/shlyqeintr/02%20Treasure%20found.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pitfall-ii-lost-caverns-ibm-pcjr/shlyqeintr/02%20Treasure%20found.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pitfall-ii-lost-caverns-ibm-pcjr/02%2520Treasure%2520found.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2390753,
+      "filesize_mp3_bytes": 985661,
+      "track_number": 3,
+      "title": "Miss",
+      "runtime": 55,
+      "source_mp3": "https://vgmsite.com/soundtracks/pitfall-ii-lost-caverns-ibm-pcjr/rpgmuvzsct/03%20Miss.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pitfall-ii-lost-caverns-ibm-pcjr/rpgmuvzsct/03%20Miss.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pitfall-ii-lost-caverns-ibm-pcjr/03%2520Miss.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2317352,
+      "filesize_mp3_bytes": 975175,
+      "track_number": 4,
+      "title": "Balloon",
+      "runtime": 55,
+      "source_mp3": "https://vgmsite.com/soundtracks/pitfall-ii-lost-caverns-ibm-pcjr/lbckkxevnd/04%20Balloon.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/pitfall-ii-lost-caverns-ibm-pcjr/lbckkxevnd/04%20Balloon.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pitfall-ii-lost-caverns-ibm-pcjr/04%2520Balloon.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 209,
+    "filesize_mp3_bytes": 3785358,
+    "filesize_flac_bytes": 9059695,
+    "tracks": 4
+  }
+}

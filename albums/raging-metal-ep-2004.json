@@ -1,0 +1,60 @@
+{
+  "title": "MegaDriver - Raging Metal EP",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T00:54:35.599126+00:00",
+  "slug": "raging-metal-ep-2004",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/raging-metal-ep-2004",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/raging-metal-ep-2004/MegaDriver%20-%20Raging%20Metal%20EP%20-%20Front%20Cover%20HiRes.jpg"
+  ],
+  "year": 2004,
+  "date_added": "2022-10-21T00:00:00+00:00",
+  "developers": {
+    "MegaDriver": "https://downloads.khinsider.com/game-soundtracks/developer/megadriver"
+  },
+  "publishers": {
+    "MegaDriver": "https://downloads.khinsider.com/game-soundtracks/publisher/megadriver"
+  },
+  "genres": {
+    "Inspired By": "https://downloads.khinsider.com/game-soundtracks/inspired-by"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5169479,
+      "track_number": 1,
+      "title": "Raging Storm",
+      "runtime": 215,
+      "source_mp3": "https://vgmsite.com/soundtracks/raging-metal-ep-2004/gpsrwbzuzz/01.%20Raging%20Storm.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/raging-metal-ep-2004/01.%2520Raging%2520Storm.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4928307,
+      "track_number": 2,
+      "title": "Shou Ken",
+      "runtime": 205,
+      "source_mp3": "https://vgmsite.com/soundtracks/raging-metal-ep-2004/lqqgihvttw/02.%20Shou%20Ken.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/raging-metal-ep-2004/02.%2520Shou%2520Ken.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3512729,
+      "track_number": 3,
+      "title": "Abigail's Turf",
+      "runtime": 147,
+      "source_mp3": "https://vgmsite.com/soundtracks/raging-metal-ep-2004/omdvgyfwyd/03.%20Abigail%27s%20Turf.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/raging-metal-ep-2004/03.%2520Abigail%2527s%2520Turf.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 567,
+    "filesize_mp3_bytes": 13610515,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

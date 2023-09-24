@@ -1,0 +1,60 @@
+{
+  "title": "Pocket Road Trip",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-23T21:25:10.817578+00:00",
+  "slug": "pocket-road-trip-android-ios-gamerip-2014",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pocket-road-trip-android-ios-gamerip-2014",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pocket-road-trip-android-ios-gamerip-2014/1024x0w-3818369156.png"
+  ],
+  "year": 2014,
+  "date_added": "2022-10-19T00:00:00+00:00",
+  "developers": {
+    "Roofdog Games": "https://downloads.khinsider.com/game-soundtracks/developer/roofdog-games"
+  },
+  "publishers": {
+    "Roofdog Games": "https://downloads.khinsider.com/game-soundtracks/publisher/roofdog-games"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 891289,
+      "title": "Garage Ambience",
+      "runtime": 55,
+      "source_mp3": "https://vgmsite.com/soundtracks/pocket-road-trip-android-ios-gamerip-2014/alaeksafcw/Garage%20Ambience.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pocket-road-trip-android-ios-gamerip-2014/Garage%2520Ambience.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1080033,
+      "title": "Pocket Trip",
+      "runtime": 68,
+      "source_mp3": "https://vgmsite.com/soundtracks/pocket-road-trip-android-ios-gamerip-2014/riwndenzcb/Pocket%20Trip.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pocket-road-trip-android-ios-gamerip-2014/Pocket%2520Trip.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1153433,
+      "title": "Summer Drive",
+      "runtime": 72,
+      "source_mp3": "https://vgmsite.com/soundtracks/pocket-road-trip-android-ios-gamerip-2014/axvtmtfsub/Summer%20Drive.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pocket-road-trip-android-ios-gamerip-2014/Summer%2520Drive.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 195,
+    "filesize_mp3_bytes": 3124755,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

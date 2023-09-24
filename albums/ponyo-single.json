@@ -1,0 +1,83 @@
+{
+  "title": "Gake no Ue no Ponyo / Fujioka Fujimaki and Nozomi Ohashi",
+  "titles_alternative": [
+    "\u5d16\u306e\u4e0a\u306e\u30dd\u30cb\u30e7 / \u85e4\u5ca1\u85e4\u5dfb\u3068\u5927\u6a4b\u306e\u305e\u307f"
+  ],
+  "crawled_at": "2023-09-23T22:42:28.397210+00:00",
+  "slug": "ponyo-single",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ponyo-single",
+  "platforms": {
+    "Movie": "https://downloads.khinsider.com/game-soundtracks/movie"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ponyo-single/01.jpg"
+  ],
+  "year": 2007,
+  "catalog_number": "YCCW-30013",
+  "date_added": "2014-12-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Yamaha Music Communications": "https://downloads.khinsider.com/game-soundtracks/publisher/yamaha-music-communications"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5358223,
+      "track_number": 1,
+      "title": "Gake no Ue no Ponyo",
+      "runtime": 166,
+      "source_mp3": "https://vgmsite.com/soundtracks/ponyo-single/cltyvxpw/01%20-%20Gake%20no%20Ue%20no%20Ponyo.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ponyo-single/01%2520-%2520Gake%2520no%2520Ue%2520no%2520Ponyo.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6752829,
+      "track_number": 2,
+      "title": "Fujimoto no Teema",
+      "runtime": 210,
+      "source_mp3": "https://vgmsite.com/soundtracks/ponyo-single/zyrhlwpk/02%20-%20Fujimoto%20no%20Teema.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ponyo-single/02%2520-%2520Fujimoto%2520no%2520Teema.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5347737,
+      "track_number": 3,
+      "title": "Gake no Ue no Ponyo (Karaoke)",
+      "runtime": 166,
+      "source_mp3": "https://vgmsite.com/soundtracks/ponyo-single/wfnavmhj/03%20-%20Gake%20no%20Ue%20no%20Ponyo%20%28Karaoke%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ponyo-single/03%2520-%2520Gake%2520no%2520Ue%2520no%2520Ponyo%2520%2528Karaoke%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6794772,
+      "track_number": 4,
+      "title": "Fujimoto no Teema (Karaoke)",
+      "runtime": 211,
+      "source_mp3": "https://vgmsite.com/soundtracks/ponyo-single/cjijizyc/04%20-%20Fujimoto%20no%20Teema%20%28Karaoke%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ponyo-single/04%2520-%2520Fujimoto%2520no%2520Teema%2520%2528Karaoke%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4833935,
+      "track_number": 5,
+      "title": "Gake no Ue no Ponyo (Nozomi-chan Demo)",
+      "runtime": 150,
+      "source_mp3": "https://vgmsite.com/soundtracks/ponyo-single/aywhqjny/05%20-%20Gake%20no%20Ue%20no%20Ponyo%20%28Nozomi-chan%20Demo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ponyo-single/05%2520-%2520Gake%2520no%2520Ue%2520no%2520Ponyo%2520%2528Nozomi-chan%2520Demo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 903,
+    "filesize_mp3_bytes": 29087496,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

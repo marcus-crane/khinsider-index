@@ -1,0 +1,96 @@
+{
+  "title": "Rambo III",
+  "titles_alternative": [
+    "\u30e9\u30f3\u30dc\u30fcIII"
+  ],
+  "crawled_at": "2023-09-24T01:09:51.704555+00:00",
+  "slug": "rambo-iii-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/rambo-iii-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/rambo-iii-amiga/R1.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2016-10-15T00:00:00+00:00",
+  "developers": {
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/developer/ocean"
+  },
+  "publishers": {
+    "Hit Squad": "https://downloads.khinsider.com/game-soundtracks/publisher/hit-squad",
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/publisher/ocean",
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/publisher/taito"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5232394,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 179,
+      "source_mp3": "https://vgmsite.com/soundtracks/rambo-iii-amiga/wxqmpjyd/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rambo-iii-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 2,
+      "title": "Get Ready!",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/rambo-iii-amiga/drztqosm/02_Get%20Ready%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rambo-iii-amiga/02_Get%2520Ready%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5085593,
+      "track_number": 3,
+      "title": "Stage 1 The Fortress",
+      "runtime": 167,
+      "source_mp3": "https://vgmsite.com/soundtracks/rambo-iii-amiga/olsyaudf/03_Stage%201%20The%20Fortress.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rambo-iii-amiga/03_Stage%25201%2520The%2520Fortress.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5515509,
+      "track_number": 4,
+      "title": "Stage 2 The Vehicle Compound",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/rambo-iii-amiga/heevqyni/04_Stage%202%20The%20Vehicle%20Compound.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rambo-iii-amiga/04_Stage%25202%2520The%2520Vehicle%2520Compound.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5221908,
+      "track_number": 5,
+      "title": "Stage 3 Enemy Assault",
+      "runtime": 166,
+      "source_mp3": "https://vgmsite.com/soundtracks/rambo-iii-amiga/yusmkhdw/05_Stage%203%20Enemy%20Assault.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rambo-iii-amiga/05_Stage%25203%2520Enemy%2520Assault.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3093299,
+      "track_number": 6,
+      "title": "Ending",
+      "runtime": 105,
+      "source_mp3": "https://vgmsite.com/soundtracks/rambo-iii-amiga/gbsruvit/06_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rambo-iii-amiga/06_Ending.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 802,
+    "filesize_mp3_bytes": 24285017,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}
