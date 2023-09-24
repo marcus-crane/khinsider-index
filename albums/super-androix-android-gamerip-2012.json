@@ -1,0 +1,72 @@
+{
+  "title": "Super Androix",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T19:46:24.128218+00:00",
+  "slug": "super-androix-android-gamerip-2012",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/super-androix-android-gamerip-2012",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/super-androix-android-gamerip-2012/descarga.jpg"
+  ],
+  "year": 2012,
+  "date_added": "2023-03-10T00:00:00+00:00",
+  "developers": {
+    "ExtraAndroary": "https://downloads.khinsider.com/game-soundtracks/developer/extraandroary"
+  },
+  "publishers": {
+    "ExtraAndroary": "https://downloads.khinsider.com/game-soundtracks/publisher/extraandroary"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 440401,
+      "track_number": 1,
+      "title": "Castle",
+      "runtime": 31,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-androix-android-gamerip-2012/ksexosnebv/01.%20Castle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-androix-android-gamerip-2012/01.%2520Castle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 461373,
+      "track_number": 2,
+      "title": "Over World",
+      "runtime": 31,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-androix-android-gamerip-2012/yxbfvfxyhg/02.%20Over%20World.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-androix-android-gamerip-2012/02.%2520Over%2520World.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 429916,
+      "track_number": 3,
+      "title": "Title",
+      "runtime": 31,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-androix-android-gamerip-2012/yxfuoouucq/03.%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-androix-android-gamerip-2012/03.%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 461373,
+      "track_number": 4,
+      "title": "Under World",
+      "runtime": 31,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-androix-android-gamerip-2012/vfoaooqoby/04.%20Under%20World.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-androix-android-gamerip-2012/04.%2520Under%2520World.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 124,
+    "filesize_mp3_bytes": 1793063,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

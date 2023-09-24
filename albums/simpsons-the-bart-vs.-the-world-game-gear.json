@@ -1,0 +1,69 @@
+{
+  "title": "The Simpsons - Bart vs. The World",
+  "titles_alternative": [
+    "Bart World",
+    "\u30d0\u30fc\u30c8\u30ef\u30fc\u30eb\u30c9"
+  ],
+  "crawled_at": "2023-09-24T14:15:40.394757+00:00",
+  "slug": "simpsons-the-bart-vs.-the-world-game-gear",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/simpsons-the-bart-vs.-the-world-game-gear",
+  "platforms": {
+    "Game Gear": "https://downloads.khinsider.com/game-soundtracks/sega-game-gear"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/simpsons-the-bart-vs.-the-world-game-gear/Simpsons%2C%20The%20-%20Bart%20vs.%20the%20World%20%28World%29.png"
+  ],
+  "year": 1993,
+  "date_added": "2020-07-21T00:00:00+00:00",
+  "developers": {
+    "Santos": "https://downloads.khinsider.com/game-soundtracks/developer/santos"
+  },
+  "publishers": {
+    "Acclaim": "https://downloads.khinsider.com/game-soundtracks/publisher/acclaim",
+    "Flying Edge": "https://downloads.khinsider.com/game-soundtracks/publisher/flying-edge"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10118758,
+      "filesize_mp3_bytes": 3837788,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/simpsons-the-bart-vs.-the-world-game-gear/pllzwvkvlk/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/simpsons-the-bart-vs.-the-world-game-gear/pllzwvkvlk/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/simpsons-the-bart-vs.-the-world-game-gear/01%2520BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9888071,
+      "filesize_mp3_bytes": 3638558,
+      "track_number": 2,
+      "title": "BGM #02",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/simpsons-the-bart-vs.-the-world-game-gear/ujnieilrxn/02%20BGM%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/simpsons-the-bart-vs.-the-world-game-gear/ujnieilrxn/02%20BGM%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/simpsons-the-bart-vs.-the-world-game-gear/02%2520BGM%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 94371,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 3,
+      "title": "Jingle #01",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/simpsons-the-bart-vs.-the-world-game-gear/xttblceanv/03%20Jingle%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/simpsons-the-bart-vs.-the-world-game-gear/xttblceanv/03%20Jingle%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/simpsons-the-bart-vs.-the-world-game-gear/03%2520Jingle%2520%252301.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 363,
+    "filesize_mp3_bytes": 7518289,
+    "filesize_flac_bytes": 20101200,
+    "tracks": 3
+  }
+}

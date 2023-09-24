@@ -1,0 +1,54 @@
+{
+  "title": "SteamWorld Tower Defense (DSiWare)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T18:26:24.205163+00:00",
+  "slug": "steamworld-tower-defense-2010-nintendo-ds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/steamworld-tower-defense-2010-nintendo-ds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/steamworld-tower-defense-2010-nintendo-ds-gamerip/SteamWorld%20Tower%20Defense.png"
+  ],
+  "year": 2010,
+  "date_added": "2019-06-05T00:00:00+00:00",
+  "developers": {
+    "Image & Form": "https://downloads.khinsider.com/game-soundtracks/developer/image-form"
+  },
+  "publishers": {
+    "Image & Form": "https://downloads.khinsider.com/game-soundtracks/publisher/image-form"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11114905,
+      "filesize_mp3_bytes": 3166699,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 93,
+      "source_mp3": "https://vgmsite.com/soundtracks/steamworld-tower-defense-2010-nintendo-ds-gamerip/dmwkexdzqg/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/steamworld-tower-defense-2010-nintendo-ds-gamerip/dmwkexdzqg/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/steamworld-tower-defense-2010-nintendo-ds-gamerip/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 17228103,
+      "filesize_mp3_bytes": 5809111,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 173,
+      "source_mp3": "https://vgmsite.com/soundtracks/steamworld-tower-defense-2010-nintendo-ds-gamerip/unuayxhdnd/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/steamworld-tower-defense-2010-nintendo-ds-gamerip/unuayxhdnd/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/steamworld-tower-defense-2010-nintendo-ds-gamerip/02.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 266,
+    "filesize_mp3_bytes": 8975810,
+    "filesize_flac_bytes": 28343008,
+    "tracks": 2
+  }
+}

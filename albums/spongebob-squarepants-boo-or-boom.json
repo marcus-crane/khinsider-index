@@ -1,0 +1,41 @@
+{
+  "title": "Spongebob Squarepants - Boo or Boom",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T17:19:23.913317+00:00",
+  "slug": "spongebob-squarepants-boo-or-boom",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/spongebob-squarepants-boo-or-boom",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/spongebob-squarepants-boo-or-boom/BooOrBoom.png"
+  ],
+  "date_added": "2020-07-31T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 230686,
+      "title": "Music Game",
+      "runtime": 29,
+      "source_mp3": "https://vgmsite.com/soundtracks/spongebob-squarepants-boo-or-boom/kuuekwculk/Music%20Game.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/spongebob-squarepants-boo-or-boom/Music%2520Game.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 157286,
+      "title": "Music Pack",
+      "runtime": 20,
+      "source_mp3": "https://vgmsite.com/soundtracks/spongebob-squarepants-boo-or-boom/swoiedmrfy/Music%20Pack.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/spongebob-squarepants-boo-or-boom/Music%2520Pack.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 49,
+    "filesize_mp3_bytes": 387972,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

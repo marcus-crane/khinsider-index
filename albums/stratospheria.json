@@ -1,0 +1,63 @@
+{
+  "title": "Stratospheria",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T18:41:42.008738+00:00",
+  "slug": "stratospheria",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/stratospheria",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/stratospheria/coverart.jpg"
+  ],
+  "date_added": "2015-11-25T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7748976,
+      "track_number": 1,
+      "title": "Twilight To Midnight",
+      "runtime": 250,
+      "source_mp3": "https://vgmsite.com/soundtracks/stratospheria/xtjfgbkl/01%20Twilight%20To%20Midnight.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stratospheria/01%2520Twilight%2520To%2520Midnight.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 12194938,
+      "track_number": 2,
+      "title": "The Citadel",
+      "runtime": 406,
+      "source_mp3": "https://vgmsite.com/soundtracks/stratospheria/nrbjdyjp/02%20The%20Citadel.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stratospheria/02%2520The%2520Citadel.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7979663,
+      "track_number": 3,
+      "title": "Megafauna",
+      "runtime": 258,
+      "source_mp3": "https://vgmsite.com/soundtracks/stratospheria/lfltxndu/03%20Megafauna.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stratospheria/03%2520Megafauna.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8724152,
+      "track_number": 4,
+      "title": "Skyward",
+      "runtime": 282,
+      "source_mp3": "https://vgmsite.com/soundtracks/stratospheria/hiwqrugm/04%20Skyward.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stratospheria/04%2520Skyward.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1196,
+    "filesize_mp3_bytes": 36647729,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

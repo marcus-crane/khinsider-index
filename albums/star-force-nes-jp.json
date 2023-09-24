@@ -1,0 +1,103 @@
+{
+  "title": "Star Force (JP)",
+  "titles_alternative": [
+    "Megaforce",
+    "\u30b9\u30bf\u30fc\u30d5\u30a9\u30fc\u30b9"
+  ],
+  "crawled_at": "2023-09-24T17:45:05.862419+00:00",
+  "slug": "star-force-nes-jp",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/star-force-nes-jp",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/star-force-nes-jp/S1.jpg"
+  ],
+  "year": 1985,
+  "date_added": "2022-06-06T00:00:00+00:00",
+  "developers": {
+    "Hudson": "https://downloads.khinsider.com/game-soundtracks/developer/hudson",
+    "Tehkan": "https://downloads.khinsider.com/game-soundtracks/developer/tehkan"
+  },
+  "publishers": {
+    "Hudson": "https://downloads.khinsider.com/game-soundtracks/publisher/hudson"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 387973,
+      "filesize_mp3_bytes": 178257,
+      "track_number": 1,
+      "title": "Start",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/star-force-nes-jp/dfrtowsalw/01%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/star-force-nes-jp/dfrtowsalw/01%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/star-force-nes-jp/01%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2967470,
+      "filesize_mp3_bytes": 996147,
+      "track_number": 2,
+      "title": "Main Theme",
+      "runtime": 61,
+      "source_mp3": "https://vgmsite.com/soundtracks/star-force-nes-jp/vusgsomnkp/02%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/star-force-nes-jp/vusgsomnkp/02%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/star-force-nes-jp/02%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1069547,
+      "filesize_mp3_bytes": 524288,
+      "track_number": 3,
+      "title": "Purser",
+      "runtime": 23,
+      "source_mp3": "https://vgmsite.com/soundtracks/star-force-nes-jp/qtpfuzzoli/03%20Purser.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/star-force-nes-jp/qtpfuzzoli/03%20Purser.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/star-force-nes-jp/03%2520Purser.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 765460,
+      "filesize_mp3_bytes": 534773,
+      "track_number": 4,
+      "title": "Larios",
+      "runtime": 24,
+      "source_mp3": "https://vgmsite.com/soundtracks/star-force-nes-jp/vabhzduncv/04%20Larios.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/star-force-nes-jp/vabhzduncv/04%20Larios.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/star-force-nes-jp/04%2520Larios.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2222981,
+      "filesize_mp3_bytes": 1331691,
+      "track_number": 5,
+      "title": "Area Target",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/star-force-nes-jp/afgnlwqsfh/05%20Area%20Target.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/star-force-nes-jp/afgnlwqsfh/05%20Area%20Target.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/star-force-nes-jp/05%2520Area%2520Target.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 367001,
+      "filesize_mp3_bytes": 167772,
+      "track_number": 6,
+      "title": "Clear",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/star-force-nes-jp/xcrkcqilrj/06%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/star-force-nes-jp/xcrkcqilrj/06%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/star-force-nes-jp/06%2520Clear.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 174,
+    "filesize_mp3_bytes": 3732928,
+    "filesize_flac_bytes": 7780432,
+    "tracks": 6
+  }
+}

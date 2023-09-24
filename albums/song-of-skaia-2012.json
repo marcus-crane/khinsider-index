@@ -1,0 +1,67 @@
+{
+  "title": "Song of Skaia",
+  "titles_alternative": [
+    "homestuck"
+  ],
+  "crawled_at": "2023-09-24T15:42:59.116806+00:00",
+  "slug": "song-of-skaia-2012",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/song-of-skaia-2012",
+  "platforms": {
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios",
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/song-of-skaia-2012/cover.png"
+  ],
+  "year": 2012,
+  "date_added": "2023-05-25T00:00:00+00:00",
+  "developers": {
+    "Mark Hadley": "https://downloads.khinsider.com/game-soundtracks/developer/mark-hadley"
+  },
+  "publishers": {},
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9909043,
+      "filesize_mp3_bytes": 4362076,
+      "track_number": 1,
+      "title": "Null",
+      "runtime": 152,
+      "source_mp3": "https://vgmsite.com/soundtracks/song-of-skaia-2012/cxvfdycatn/01.%20Null.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/song-of-skaia-2012/cxvfdycatn/01.%20Null.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/song-of-skaia-2012/01.%2520Null.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10160701,
+      "filesize_mp3_bytes": 4519362,
+      "track_number": 2,
+      "title": "Skaian Birth",
+      "runtime": 148,
+      "source_mp3": "https://vgmsite.com/soundtracks/song-of-skaia-2012/qwbehzoaas/02.%20Skaian%20Birth.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/song-of-skaia-2012/qwbehzoaas/02.%20Skaian%20Birth.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/song-of-skaia-2012/02.%2520Skaian%2520Birth.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 40191918,
+      "filesize_mp3_bytes": 12205424,
+      "track_number": 3,
+      "title": "Song of Skaia",
+      "runtime": 388,
+      "source_mp3": "https://vgmsite.com/soundtracks/song-of-skaia-2012/bdyvciumcq/03.%20Song%20of%20Skaia.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/song-of-skaia-2012/bdyvciumcq/03.%20Song%20of%20Skaia.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/song-of-skaia-2012/03.%2520Song%2520of%2520Skaia.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 688,
+    "filesize_mp3_bytes": 21086862,
+    "filesize_flac_bytes": 60261662,
+    "tracks": 3
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "title": "Soldat",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T15:36:05.314844+00:00",
+  "slug": "soldat-2002-pc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/soldat-2002-pc",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/soldat-2002-pc/cover.png"
+  ],
+  "year": 2002,
+  "date_added": "2020-01-22T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10800332,
+      "title": "Bloody Soil",
+      "runtime": 266,
+      "source_mp3": "https://vgmsite.com/soundtracks/soldat-2002-pc/ayzfblweyj/Bloody%20Soil.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/soldat-2002-pc/Bloody%2520Soil.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11565793,
+      "title": "Gore",
+      "runtime": 285,
+      "source_mp3": "https://vgmsite.com/soundtracks/soldat-2002-pc/tuvcprcxoa/Gore.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/soldat-2002-pc/Gore.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8336179,
+      "title": "Necromancide",
+      "runtime": 204,
+      "source_mp3": "https://vgmsite.com/soundtracks/soldat-2002-pc/xmwmddyjyt/Necromancide.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/soldat-2002-pc/Necromancide.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1352663,
+      "title": "Soldat",
+      "runtime": 85,
+      "source_mp3": "https://vgmsite.com/soundtracks/soldat-2002-pc/jjgkzgmfib/Soldat.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/soldat-2002-pc/Soldat.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 840,
+    "filesize_mp3_bytes": 32054967,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Solomon's Key & Mighty Bomb Jack",
+  "titles_alternative": [
+    "\u30de\u30a4\u30c6\u30a3\u30dc\u30f3\u30b8\u30e3\u30c3\u30af\uff0f\u30bd\u30ed\u30e2\u30f3\u306e\u9375"
+  ],
+  "crawled_at": "2023-09-24T15:39:13.573090+00:00",
+  "slug": "solomon-s-key-mighty-bomb-jack",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/solomon-s-key-mighty-bomb-jack",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/solomon-s-key-mighty-bomb-jack/00%20Vinyl%20Front%20%28K13A-758%29.JPG"
+  ],
+  "year": 1986,
+  "catalog_number": "K13A-758",
+  "date_added": "2022-07-14T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "King Record Co., Ltd.": "https://downloads.khinsider.com/game-soundtracks/publisher/king-record"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 13799260,
+      "track_number": 1,
+      "title": "Solomon's Key",
+      "runtime": 414,
+      "source_mp3": "https://vgmsite.com/soundtracks/solomon-s-key-mighty-bomb-jack/qazrsvaxml/01%20Solomon%27s%20Key.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/solomon-s-key-mighty-bomb-jack/01%2520Solomon%2527s%2520Key.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10873733,
+      "track_number": 2,
+      "title": "Mighty Bomb Jack",
+      "runtime": 348,
+      "source_mp3": "https://vgmsite.com/soundtracks/solomon-s-key-mighty-bomb-jack/bximoegguj/02%20Mighty%20Bomb%20Jack.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/solomon-s-key-mighty-bomb-jack/02%2520Mighty%2520Bomb%2520Jack.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 762,
+    "filesize_mp3_bytes": 24672993,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

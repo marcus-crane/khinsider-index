@@ -1,0 +1,72 @@
+{
+  "title": "Space Assault",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T16:33:00.366679+00:00",
+  "slug": "space-assault-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/space-assault-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/space-assault-amiga/Space%20Assault%20%28Amiga%29.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2017-09-23T00:00:00+00:00",
+  "developers": {
+    "Magic Soft": "https://downloads.khinsider.com/game-soundtracks/developer/magic-soft"
+  },
+  "publishers": {
+    "Magic Soft": "https://downloads.khinsider.com/game-soundtracks/publisher/magic-soft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6102712,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 229,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-assault-amiga/qpxtvwgm/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-assault-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4739563,
+      "track_number": 2,
+      "title": "In-Game BGM",
+      "runtime": 171,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-assault-amiga/wwvetdkn/02_In-Game%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-assault-amiga/02_In-Game%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5347737,
+      "track_number": 3,
+      "title": "Ending",
+      "runtime": 201,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-assault-amiga/uqdldmjy/03_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-assault-amiga/03_Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4865392,
+      "track_number": 4,
+      "title": "Name Entry",
+      "runtime": 179,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-assault-amiga/websozhp/04_Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-assault-amiga/04_Name%2520Entry.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 780,
+    "filesize_mp3_bytes": 21055404,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

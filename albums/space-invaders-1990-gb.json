@@ -1,0 +1,67 @@
+{
+  "title": "Space Invaders",
+  "titles_alternative": [
+    "\u30b9\u30da\u30fc\u30b9\u30a4\u30f3\u30d9\u30fc\u30c0\u30fc"
+  ],
+  "crawled_at": "2023-09-24T16:40:17.617082+00:00",
+  "slug": "space-invaders-1990-gb",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/space-invaders-1990-gb",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/space-invaders-1990-gb/S1.png"
+  ],
+  "year": 1990,
+  "date_added": "2022-06-15T00:00:00+00:00",
+  "developers": {
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/developer/taito"
+  },
+  "publishers": {
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/publisher/taito"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 104857,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 1,
+      "title": "Jingle #01",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-invaders-1990-gb/bojskxoqci/01%20Jingle%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/space-invaders-1990-gb/bojskxoqci/01%20Jingle%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-invaders-1990-gb/01%2520Jingle%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 115343,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 2,
+      "title": "Jingle #02",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-invaders-1990-gb/jvqdljjvdf/02%20Jingle%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/space-invaders-1990-gb/jvqdljjvdf/02%20Jingle%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-invaders-1990-gb/02%2520Jingle%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 115343,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 3,
+      "title": "Jingle #03",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-invaders-1990-gb/jrmaqaqbwc/03%20Jingle%20%2303.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/space-invaders-1990-gb/jrmaqaqbwc/03%20Jingle%20%2303.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-invaders-1990-gb/03%2520Jingle%2520%252303.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 9,
+    "filesize_mp3_bytes": 146799,
+    "filesize_flac_bytes": 335543,
+    "tracks": 3
+  }
+}

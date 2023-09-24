@@ -1,0 +1,67 @@
+{
+  "title": "Super Boy II",
+  "titles_alternative": [
+    "\uc288\ud37c\ubcf4\uc774 II"
+  ],
+  "crawled_at": "2023-09-24T19:52:27.549440+00:00",
+  "slug": "super-boy-ii-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/super-boy-ii-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/super-boy-ii-master-system/Super%20Boy%20II.png"
+  ],
+  "year": 1989,
+  "date_added": "2020-07-21T00:00:00+00:00",
+  "developers": {
+    "Zemina": "https://downloads.khinsider.com/game-soundtracks/developer/zemina"
+  },
+  "publishers": {
+    "Zemina": "https://downloads.khinsider.com/game-soundtracks/publisher/zemina"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3334471,
+      "filesize_mp3_bytes": 1352663,
+      "track_number": 1,
+      "title": "Main Theme 1",
+      "runtime": 72,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-boy-ii-master-system/wzmaodkmxo/01%20-%20Main%20Theme%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-boy-ii-master-system/wzmaodkmxo/01%20-%20Main%20Theme%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-boy-ii-master-system/01%2520-%2520Main%2520Theme%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1111490,
+      "filesize_mp3_bytes": 618659,
+      "track_number": 2,
+      "title": "Main Theme 2",
+      "runtime": 34,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-boy-ii-master-system/cqtwrarjld/02%20-%20Main%20Theme%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-boy-ii-master-system/cqtwrarjld/02%20-%20Main%20Theme%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-boy-ii-master-system/02%2520-%2520Main%2520Theme%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20971,
+      "filesize_mp3_bytes": 10485,
+      "track_number": 3,
+      "title": "1UP",
+      "runtime": 0,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-boy-ii-master-system/xjpcycxomb/03%20-%201UP.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-boy-ii-master-system/xjpcycxomb/03%20-%201UP.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-boy-ii-master-system/03%2520-%25201UP.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 106,
+    "filesize_mp3_bytes": 1981807,
+    "filesize_flac_bytes": 4466932,
+    "tracks": 3
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "title": "Super Daisenryaku 68K",
+  "titles_alternative": [
+    "SUPER\u5927\u6226\u7565"
+  ],
+  "crawled_at": "2023-09-24T19:55:59.844402+00:00",
+  "slug": "super-daisenryaku-68k-x68000",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/super-daisenryaku-68k-x68000",
+  "platforms": {
+    "X68000": "https://downloads.khinsider.com/game-soundtracks/x68000"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/super-daisenryaku-68k-x68000/Super%20Daisenryaku%2068K.png"
+  ],
+  "year": 1989,
+  "date_added": "2022-06-13T00:00:00+00:00",
+  "developers": {
+    "SystemSoft": "https://downloads.khinsider.com/game-soundtracks/developer/systemsoft"
+  },
+  "publishers": {
+    "SystemSoft": "https://downloads.khinsider.com/game-soundtracks/publisher/systemsoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6889144,
+      "filesize_mp3_bytes": 2715811,
+      "track_number": 1,
+      "title": "Opening",
+      "runtime": 119,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-daisenryaku-68k-x68000/lpzxxhwoue/01%20Opening.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-daisenryaku-68k-x68000/lpzxxhwoue/01%20Opening.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-daisenryaku-68k-x68000/01%2520Opening.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6375342,
+      "filesize_mp3_bytes": 2411724,
+      "track_number": 2,
+      "title": "Ending",
+      "runtime": 117,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-daisenryaku-68k-x68000/rtnvfaejan/02%20Ending.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-daisenryaku-68k-x68000/rtnvfaejan/02%20Ending.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-daisenryaku-68k-x68000/02%2520Ending.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 236,
+    "filesize_mp3_bytes": 5127535,
+    "filesize_flac_bytes": 13264486,
+    "tracks": 2
+  }
+}

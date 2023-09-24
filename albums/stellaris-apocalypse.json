@@ -1,0 +1,76 @@
+{
+  "title": "Stellaris - Apocalypse",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T18:32:52.904330+00:00",
+  "slug": "stellaris-apocalypse",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/stellaris-apocalypse",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/stellaris-apocalypse/folder.png"
+  ],
+  "year": 2017,
+  "date_added": "2023-03-15T00:00:00+00:00",
+  "developers": {
+    "Paradox Development Studio": "https://downloads.khinsider.com/game-soundtracks/developer/paradox-development-studio"
+  },
+  "publishers": {
+    "Paradox Interactive": "https://downloads.khinsider.com/game-soundtracks/publisher/paradox-interactive"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 29601300,
+      "filesize_mp3_bytes": 10852761,
+      "track_number": 1,
+      "title": "Then Comes Light",
+      "runtime": 343,
+      "source_mp3": "https://vgmsite.com/soundtracks/stellaris-apocalypse/cskmlvaatk/01%20-%20Then%20Comes%20Light.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/stellaris-apocalypse/cskmlvaatk/01%20-%20Then%20Comes%20Light.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stellaris-apocalypse/01%2520-%2520Then%2520Comes%2520Light.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 27137146,
+      "filesize_mp3_bytes": 9814671,
+      "track_number": 2,
+      "title": "Doomsday",
+      "runtime": 299,
+      "source_mp3": "https://vgmsite.com/soundtracks/stellaris-apocalypse/wiclmizton/02%20-%20Doomsday.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/stellaris-apocalypse/wiclmizton/02%20-%20Doomsday.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stellaris-apocalypse/02%2520-%2520Doomsday.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 22271754,
+      "filesize_mp3_bytes": 8126464,
+      "track_number": 3,
+      "title": "Hostile Fleet Detected",
+      "runtime": 243,
+      "source_mp3": "https://vgmsite.com/soundtracks/stellaris-apocalypse/xyjnasicaf/03%20-%20Hostile%20Fleet%20Detected.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/stellaris-apocalypse/xyjnasicaf/03%20-%20Hostile%20Fleet%20Detected.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stellaris-apocalypse/03%2520-%2520Hostile%2520Fleet%2520Detected.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9510584,
+      "filesize_mp3_bytes": 3523215,
+      "track_number": 4,
+      "title": "For as Long as I Shall Live - Apocalypse Trailer Score",
+      "runtime": 114,
+      "source_mp3": "https://vgmsite.com/soundtracks/stellaris-apocalypse/qgnjpegrrp/04%20-%20For%20as%20Long%20as%20I%20Shall%20Live%20-%20Apocalypse%20Trailer%20Score.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/stellaris-apocalypse/qgnjpegrrp/04%20-%20For%20as%20Long%20as%20I%20Shall%20Live%20-%20Apocalypse%20Trailer%20Score.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stellaris-apocalypse/04%2520-%2520For%2520as%2520Long%2520as%2520I%2520Shall%2520Live%2520-%2520Apocalypse%2520Trailer%2520Score.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 999,
+    "filesize_mp3_bytes": 32317111,
+    "filesize_flac_bytes": 88520784,
+    "tracks": 4
+  }
+}

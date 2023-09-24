@@ -1,0 +1,54 @@
+{
+  "title": "Super Breakout",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T19:52:30.511784+00:00",
+  "slug": "super-breakout-1998-gb",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/super-breakout-1998-gb",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/super-breakout-1998-gb/Super%20Breakout.jpg"
+  ],
+  "year": 1998,
+  "date_added": "2022-06-15T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami"
+  },
+  "publishers": {
+    "Majesco": "https://downloads.khinsider.com/game-soundtracks/publisher/majesco"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 41943,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 1,
+      "title": "Jingle #01",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-breakout-1998-gb/ngsqnwqxcb/01%20Jingle%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-breakout-1998-gb/ngsqnwqxcb/01%20Jingle%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-breakout-1998-gb/01%2520Jingle%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 52428,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 2,
+      "title": "Jingle #02",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-breakout-1998-gb/marmgddyeu/02%20Jingle%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-breakout-1998-gb/marmgddyeu/02%20Jingle%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-breakout-1998-gb/02%2520Jingle%2520%252302.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 3,
+    "filesize_mp3_bytes": 52428,
+    "filesize_flac_bytes": 94371,
+    "tracks": 2
+  }
+}

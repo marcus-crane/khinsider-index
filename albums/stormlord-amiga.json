@@ -1,0 +1,94 @@
+{
+  "title": "Stormlord",
+  "titles_alternative": [
+    "\u30b9\u30c8\u30fc\u30e0\u30ed\u30fc\u30c9"
+  ],
+  "crawled_at": "2023-09-24T18:39:00.559057+00:00",
+  "slug": "stormlord-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/stormlord-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/stormlord-amiga/SLA.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2019-04-29T00:00:00+00:00",
+  "developers": {
+    "Hewson Consultants": "https://downloads.khinsider.com/game-soundtracks/developer/hewson-consultants"
+  },
+  "publishers": {
+    "Hewson Consultants": "https://downloads.khinsider.com/game-soundtracks/publisher/hewson-consultants"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5641338,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 202,
+      "source_mp3": "https://vgmsite.com/soundtracks/stormlord-amiga/oazoywkc/01_Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stormlord-amiga/01_Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10349445,
+      "track_number": 2,
+      "title": "Title Screen",
+      "runtime": 374,
+      "source_mp3": "https://vgmsite.com/soundtracks/stormlord-amiga/tpqhqibv/02_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stormlord-amiga/02_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 3,
+      "title": "Get Ready!",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/stormlord-amiga/tqxgmknd/03_Get%20Ready%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stormlord-amiga/03_Get%2520Ready%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 14910750,
+      "track_number": 4,
+      "title": "In-Game BGM",
+      "runtime": 524,
+      "source_mp3": "https://vgmsite.com/soundtracks/stormlord-amiga/xhruygmm/04_In-Game%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stormlord-amiga/04_In-Game%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 272629,
+      "track_number": 5,
+      "title": "Game Over",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/stormlord-amiga/rqypfgnb/05_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stormlord-amiga/05_Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4655677,
+      "track_number": 6,
+      "title": "Name Entry",
+      "runtime": 172,
+      "source_mp3": "https://vgmsite.com/soundtracks/stormlord-amiga/ucwvnfek/06_Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stormlord-amiga/06_Name%2520Entry.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1288,
+    "filesize_mp3_bytes": 35955668,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

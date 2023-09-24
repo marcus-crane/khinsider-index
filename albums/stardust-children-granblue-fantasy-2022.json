@@ -1,0 +1,55 @@
+{
+  "title": "STARDUST CHILDREN ~GRANBLUE FANTASY~",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T18:17:56.427872+00:00",
+  "slug": "stardust-children-granblue-fantasy-2022",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/stardust-children-granblue-fantasy-2022",
+  "platforms": {
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/stardust-children-granblue-fantasy-2022/booklet%20back.jpg"
+  ],
+  "year": 2022,
+  "catalog_number": "SVWC-70586",
+  "date_added": "2023-02-19T00:00:00+00:00",
+  "developers": {
+    "Cygames": "https://downloads.khinsider.com/game-soundtracks/developer/cygames"
+  },
+  "publishers": {
+    "Cygames": "https://downloads.khinsider.com/game-soundtracks/publisher/cygames"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 35158753,
+      "filesize_mp3_bytes": 7832862,
+      "track_number": 1,
+      "title": "STARDUST CHILDREN",
+      "runtime": 246,
+      "source_mp3": "https://vgmsite.com/soundtracks/stardust-children-granblue-fantasy-2022/onsadhituv/01.%20STARDUST%20CHILDREN.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/stardust-children-granblue-fantasy-2022/onsadhituv/01.%20STARDUST%20CHILDREN.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stardust-children-granblue-fantasy-2022/01.%2520STARDUST%2520CHILDREN.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 34225520,
+      "filesize_mp3_bytes": 7969177,
+      "track_number": 2,
+      "title": "STARDUST CHILDREN (instrumental)",
+      "runtime": 246,
+      "source_mp3": "https://vgmsite.com/soundtracks/stardust-children-granblue-fantasy-2022/sntpeqosdh/02.%20STARDUST%20CHILDREN%20%28instrumental%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/stardust-children-granblue-fantasy-2022/sntpeqosdh/02.%20STARDUST%20CHILDREN%20%28instrumental%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stardust-children-granblue-fantasy-2022/02.%2520STARDUST%2520CHILDREN%2520%2528instrumental%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 492,
+    "filesize_mp3_bytes": 15802039,
+    "filesize_flac_bytes": 69384273,
+    "tracks": 2
+  }
+}

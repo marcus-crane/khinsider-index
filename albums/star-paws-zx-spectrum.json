@@ -1,0 +1,63 @@
+{
+  "title": "Star Paws",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T17:51:12.791586+00:00",
+  "slug": "star-paws-zx-spectrum",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/star-paws-zx-spectrum",
+  "platforms": {
+    "Spectrum": "https://downloads.khinsider.com/game-soundtracks/spectrum"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/star-paws-zx-spectrum/S1.jpg"
+  ],
+  "year": 1988,
+  "date_added": "2015-10-08T00:00:00+00:00",
+  "developers": {
+    "Software Creations": "https://downloads.khinsider.com/game-soundtracks/developer/software-creations",
+    "Software Projects": "https://downloads.khinsider.com/game-soundtracks/developer/software-projects"
+  },
+  "publishers": {
+    "Software Projects": "https://downloads.khinsider.com/game-soundtracks/publisher/software-projects"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2988441,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 119,
+      "source_mp3": "https://vgmsite.com/soundtracks/star-paws-zx-spectrum/rwngadlh/01_Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/star-paws-zx-spectrum/01_Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 754974,
+      "track_number": 2,
+      "title": "Bonus Round 1",
+      "runtime": 30,
+      "source_mp3": "https://vgmsite.com/soundtracks/star-paws-zx-spectrum/eqcaqabr/02_Bonus%20Round%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/star-paws-zx-spectrum/02_Bonus%2520Round%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 534773,
+      "track_number": 3,
+      "title": "Bonus Round 2",
+      "runtime": 20,
+      "source_mp3": "https://vgmsite.com/soundtracks/star-paws-zx-spectrum/yyddzupp/03_Bonus%20Round%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/star-paws-zx-spectrum/03_Bonus%2520Round%25202.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 169,
+    "filesize_mp3_bytes": 4278188,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

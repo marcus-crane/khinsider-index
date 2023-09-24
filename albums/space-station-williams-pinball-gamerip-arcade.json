@@ -1,0 +1,82 @@
+{
+  "title": "Space Station (Williams Pinball)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T16:44:45.369890+00:00",
+  "slug": "space-station-williams-pinball-gamerip-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/space-station-williams-pinball-gamerip-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/space-station-williams-pinball-gamerip-arcade/2261f1.jpg"
+  ],
+  "year": 1987,
+  "date_added": "2022-06-12T00:00:00+00:00",
+  "developers": {
+    "Williams": "https://downloads.khinsider.com/game-soundtracks/developer/williams"
+  },
+  "publishers": {
+    "Williams": "https://downloads.khinsider.com/game-soundtracks/publisher/williams"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2327838,
+      "track_number": 1,
+      "title": "Main Play",
+      "runtime": 85,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-station-williams-pinball-gamerip-arcade/waltupeams/01%20-%20Main%20Play.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-station-williams-pinball-gamerip-arcade/01%2520-%2520Main%2520Play.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2621440,
+      "track_number": 2,
+      "title": "Multiball",
+      "runtime": 98,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-station-williams-pinball-gamerip-arcade/crqbvqzguf/02%20-%20Multiball.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-station-williams-pinball-gamerip-arcade/02%2520-%2520Multiball.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1593835,
+      "track_number": 3,
+      "title": "Redock Now",
+      "runtime": 55,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-station-williams-pinball-gamerip-arcade/stvornuhwt/03%20-%20Redock%20Now.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-station-williams-pinball-gamerip-arcade/03%2520-%2520Redock%2520Now.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 912261,
+      "track_number": 4,
+      "title": "Jackpot Lit",
+      "runtime": 26,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-station-williams-pinball-gamerip-arcade/istvqzksjq/04%20-%20Jackpot%20Lit.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-station-williams-pinball-gamerip-arcade/04%2520-%2520Jackpot%2520Lit.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1897922,
+      "track_number": 5,
+      "title": "High Score",
+      "runtime": 67,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-station-williams-pinball-gamerip-arcade/lpvfizltfv/05%20-%20High%20Score.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-station-williams-pinball-gamerip-arcade/05%2520-%2520High%2520Score.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 331,
+    "filesize_mp3_bytes": 9353296,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

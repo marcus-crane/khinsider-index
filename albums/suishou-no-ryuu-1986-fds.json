@@ -1,0 +1,56 @@
+{
+  "title": "Suishou no Ryuu",
+  "titles_alternative": [
+    "\u6c34\u6676\u306e\u9f8d"
+  ],
+  "crawled_at": "2023-09-24T19:31:08.536370+00:00",
+  "slug": "suishou-no-ryuu-1986-fds",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/suishou-no-ryuu-1986-fds",
+  "platforms": {
+    "FDS": "https://downloads.khinsider.com/game-soundtracks/famicom-disk-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/suishou-no-ryuu-1986-fds/Suishou%20no%20Ryuu%20%281986%29%20%28FDS%29.png"
+  ],
+  "year": 1986,
+  "date_added": "2022-06-08T00:00:00+00:00",
+  "developers": {
+    "Square": "https://downloads.khinsider.com/game-soundtracks/developer/square"
+  },
+  "publishers": {
+    "DOG": "https://downloads.khinsider.com/game-soundtracks/publisher/dog"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4183818,
+      "filesize_mp3_bytes": 1279262,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 67,
+      "source_mp3": "https://vgmsite.com/soundtracks/suishou-no-ryuu-1986-fds/kqmqvydlzq/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/suishou-no-ryuu-1986-fds/kqmqvydlzq/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/suishou-no-ryuu-1986-fds/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 13495173,
+      "filesize_mp3_bytes": 4938792,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 234,
+      "source_mp3": "https://vgmsite.com/soundtracks/suishou-no-ryuu-1986-fds/avaiqegext/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/suishou-no-ryuu-1986-fds/avaiqegext/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/suishou-no-ryuu-1986-fds/02.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 301,
+    "filesize_mp3_bytes": 6218054,
+    "filesize_flac_bytes": 17678991,
+    "tracks": 2
+  }
+}

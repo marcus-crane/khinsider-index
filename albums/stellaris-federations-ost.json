@@ -1,0 +1,75 @@
+{
+  "title": "Stellaris: Federations",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T18:32:59.365546+00:00",
+  "slug": "stellaris-federations-ost",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/stellaris-federations-ost",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/stellaris-federations-ost/coverart.jpg"
+  ],
+  "year": 2019,
+  "catalog_number": null,
+  "date_added": "2021-04-20T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Paradox Interactive": "https://downloads.khinsider.com/game-soundtracks/publisher/paradox-interactive"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 17280532,
+      "filesize_mp3_bytes": 9175040,
+      "track_number": 1,
+      "title": "A Brighter Tomorrow",
+      "runtime": 234,
+      "source_mp3": "https://vgmsite.com/soundtracks/stellaris-federations-ost/pldorqgsal/1%20A%20Brighter%20Tomorrow.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/stellaris-federations-ost/pldorqgsal/1%20A%20Brighter%20Tomorrow.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stellaris-federations-ost/1%2520A%2520Brighter%2520Tomorrow.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 15351152,
+      "filesize_mp3_bytes": 9510584,
+      "track_number": 2,
+      "title": "Hegemonic Dominion",
+      "runtime": 244,
+      "source_mp3": "https://vgmsite.com/soundtracks/stellaris-federations-ost/nqcbskrrre/2%20Hegemonic%20Dominion.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/stellaris-federations-ost/nqcbskrrre/2%20Hegemonic%20Dominion.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stellaris-federations-ost/2%2520Hegemonic%2520Dominion.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 18454937,
+      "filesize_mp3_bytes": 9961472,
+      "track_number": 3,
+      "title": "Call To Assembly",
+      "runtime": 254,
+      "source_mp3": "https://vgmsite.com/soundtracks/stellaris-federations-ost/qhbmhwixpd/3%20Call%20To%20Assembly.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/stellaris-federations-ost/qhbmhwixpd/3%20Call%20To%20Assembly.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stellaris-federations-ost/3%2520Call%2520To%2520Assembly.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 17951621,
+      "filesize_mp3_bytes": 10527703,
+      "track_number": 4,
+      "title": "Unity and Paperwork",
+      "runtime": 270,
+      "source_mp3": "https://vgmsite.com/soundtracks/stellaris-federations-ost/xtotuohrdg/4%20Unity%20and%20Paperwork.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/stellaris-federations-ost/xtotuohrdg/4%20Unity%20and%20Paperwork.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stellaris-federations-ost/4%2520Unity%2520and%2520Paperwork.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1002,
+    "filesize_mp3_bytes": 39174799,
+    "filesize_flac_bytes": 69038242,
+    "tracks": 4
+  }
+}

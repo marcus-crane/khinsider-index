@@ -1,0 +1,76 @@
+{
+  "title": "Splatoon - New Songs",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T17:12:20.129269+00:00",
+  "slug": "splatoon-new-songs",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/splatoon-new-songs",
+  "platforms": {
+    "Wii U": "https://downloads.khinsider.com/game-soundtracks/nintendo-wii-u"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/splatoon-new-songs/Fresh%20Splatoon%202.0%20Songs%20Front%20Cover.jpg"
+  ],
+  "year": 2015,
+  "date_added": "2015-10-13T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5169479,
+      "track_number": 1,
+      "title": "Friend List",
+      "runtime": 121,
+      "source_mp3": "https://vgmsite.com/soundtracks/splatoon-new-songs/yqpljodg/01%20Friend%20List.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/splatoon-new-songs/01%2520Friend%2520List.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6259998,
+      "track_number": 2,
+      "title": "Untitled N\u00b01",
+      "runtime": 148,
+      "source_mp3": "https://vgmsite.com/soundtracks/splatoon-new-songs/unucdfdj/02%20Untitled%20N%C2%B01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/splatoon-new-songs/02%2520Untitled%2520N%25C2%25B01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5966397,
+      "track_number": 3,
+      "title": "Hooked",
+      "runtime": 141,
+      "source_mp3": "https://vgmsite.com/soundtracks/splatoon-new-songs/kgunsuby/03%20Hooked.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/splatoon-new-songs/03%2520Hooked.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10496245,
+      "track_number": 4,
+      "title": "Untitled N\u00b02",
+      "runtime": 254,
+      "source_mp3": "https://vgmsite.com/soundtracks/splatoon-new-songs/mxtmpkzu/04%20Untitled%20N%C2%B02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/splatoon-new-songs/04%2520Untitled%2520N%25C2%25B02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2076180,
+      "track_number": 5,
+      "title": "Ink or Sink (Preview) [Bonus Trac",
+      "runtime": 44,
+      "source_mp3": "https://vgmsite.com/soundtracks/splatoon-new-songs/dhswewcx/05%20Ink%20or%20Sink%20%28Preview%29%20%5BBonus%20Trac.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/splatoon-new-songs/05%2520Ink%2520or%2520Sink%2520%2528Preview%2529%2520%255BBonus%2520Trac.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 708,
+    "filesize_mp3_bytes": 29968299,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "title": "Star Jacker (System 1)",
+  "titles_alternative": [
+    "\u30b9\u30bf\u30fc\u30b8\u30e3\u30c3\u30ab\u30fc"
+  ],
+  "crawled_at": "2023-09-24T17:50:25.326294+00:00",
+  "slug": "star-jacker-system-1-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/star-jacker-system-1-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/star-jacker-system-1-arcade/SJ1.jpg"
+  ],
+  "year": 1983,
+  "date_added": "2022-06-06T00:00:00+00:00",
+  "developers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 146800,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 1,
+      "title": "Start",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/star-jacker-system-1-arcade/vmoellljly/01%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/star-jacker-system-1-arcade/vmoellljly/01%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/star-jacker-system-1-arcade/01%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 576716,
+      "filesize_mp3_bytes": 262144,
+      "track_number": 2,
+      "title": "Space",
+      "runtime": 13,
+      "source_mp3": "https://vgmsite.com/soundtracks/star-jacker-system-1-arcade/opivqkhgmj/02%20Space.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/star-jacker-system-1-arcade/opivqkhgmj/02%20Space.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/star-jacker-system-1-arcade/02%2520Space.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 775946,
+      "filesize_mp3_bytes": 304087,
+      "track_number": 3,
+      "title": "Fortress",
+      "runtime": 17,
+      "source_mp3": "https://vgmsite.com/soundtracks/star-jacker-system-1-arcade/wyeobqqycj/03%20Fortress.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/star-jacker-system-1-arcade/wyeobqqycj/03%20Fortress.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/star-jacker-system-1-arcade/03%2520Fortress.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 146800,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 4,
+      "title": "Clear",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/star-jacker-system-1-arcade/iaheqmrpvq/04%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/star-jacker-system-1-arcade/iaheqmrpvq/04%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/star-jacker-system-1-arcade/04%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 671088,
+      "filesize_mp3_bytes": 293601,
+      "track_number": 5,
+      "title": "Name Entry",
+      "runtime": 16,
+      "source_mp3": "https://vgmsite.com/soundtracks/star-jacker-system-1-arcade/sakgzasltv/05%20Name%20Entry.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/star-jacker-system-1-arcade/sakgzasltv/05%20Name%20Entry.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/star-jacker-system-1-arcade/05%2520Name%2520Entry.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 52,
+    "filesize_mp3_bytes": 964688,
+    "filesize_flac_bytes": 2317350,
+    "tracks": 5
+  }
+}

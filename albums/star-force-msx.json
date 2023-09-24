@@ -1,0 +1,102 @@
+{
+  "title": "Star Force",
+  "titles_alternative": [
+    "Megaforce",
+    "\u30b9\u30bf\u30fc\u30d5\u30a9\u30fc\u30b9"
+  ],
+  "crawled_at": "2023-09-24T17:45:00.539886+00:00",
+  "slug": "star-force-msx",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/star-force-msx",
+  "platforms": {
+    "MSX": "https://downloads.khinsider.com/game-soundtracks/msx"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/star-force-msx/Star%20Force.png"
+  ],
+  "year": 1985,
+  "date_added": "2022-06-13T00:00:00+00:00",
+  "developers": {
+    "Hudson": "https://downloads.khinsider.com/game-soundtracks/developer/hudson",
+    "Tehkan": "https://downloads.khinsider.com/game-soundtracks/developer/tehkan"
+  },
+  "publishers": {
+    "Hudson": "https://downloads.khinsider.com/game-soundtracks/publisher/hudson"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 356515,
+      "filesize_mp3_bytes": 178257,
+      "track_number": 1,
+      "title": "Start",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/star-force-msx/ymgbhsuwbm/01%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/star-force-msx/ymgbhsuwbm/01%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/star-force-msx/01%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3019898,
+      "filesize_mp3_bytes": 1394606,
+      "track_number": 2,
+      "title": "Main Theme",
+      "runtime": 61,
+      "source_mp3": "https://vgmsite.com/soundtracks/star-force-msx/epzxwphcre/02%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/star-force-msx/epzxwphcre/02%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/star-force-msx/02%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1090519,
+      "filesize_mp3_bytes": 408944,
+      "track_number": 3,
+      "title": "Purser",
+      "runtime": 23,
+      "source_mp3": "https://vgmsite.com/soundtracks/star-force-msx/kvekfokswl/03%20Purser.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/star-force-msx/kvekfokswl/03%20Purser.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/star-force-msx/03%2520Purser.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 786432,
+      "filesize_mp3_bytes": 713031,
+      "track_number": 4,
+      "title": "Larios",
+      "runtime": 25,
+      "source_mp3": "https://vgmsite.com/soundtracks/star-force-msx/xylponsykw/04%20Larios.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/star-force-msx/xylponsykw/04%20Larios.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/star-force-msx/04%2520Larios.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2369781,
+      "filesize_mp3_bytes": 1027604,
+      "track_number": 5,
+      "title": "Area Target",
+      "runtime": 49,
+      "source_mp3": "https://vgmsite.com/soundtracks/star-force-msx/ascvljokvx/05%20Area%20Target.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/star-force-msx/ascvljokvx/05%20Area%20Target.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/star-force-msx/05%2520Area%2520Target.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 377487,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 6,
+      "title": "Clear",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/star-force-msx/yemdgossgj/06%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/star-force-msx/yemdgossgj/06%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/star-force-msx/06%2520Clear.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 175,
+    "filesize_mp3_bytes": 3848271,
+    "filesize_flac_bytes": 8000632,
+    "tracks": 6
+  }
+}

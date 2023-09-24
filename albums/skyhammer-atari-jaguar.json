@@ -1,0 +1,62 @@
+{
+  "title": "Skyhammer",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T14:35:17.215615+00:00",
+  "slug": "skyhammer-atari-jaguar",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/skyhammer-atari-jaguar",
+  "platforms": {
+    "Atari Jaguar": "https://downloads.khinsider.com/game-soundtracks/atari-jaguar"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/skyhammer-atari-jaguar/Skyhammer%20Jaguar%20back%20cover.jpg"
+  ],
+  "year": 2000,
+  "date_added": "2020-09-11T00:00:00+00:00",
+  "developers": {
+    "Rebellion Developments": "https://downloads.khinsider.com/game-soundtracks/developer/rebellion-developments"
+  },
+  "publishers": {
+    "Songbird Productions": "https://downloads.khinsider.com/game-soundtracks/publisher/songbird-productions"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 12404654,
+      "track_number": 1,
+      "title": "Intro Theme",
+      "runtime": 310,
+      "source_mp3": "https://vgmsite.com/soundtracks/skyhammer-atari-jaguar/irtlvtokbg/1.%20Intro%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/skyhammer-atari-jaguar/1.%2520Intro%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 807403,
+      "track_number": 2,
+      "title": "Intro Theme [Prototype]",
+      "runtime": 20,
+      "source_mp3": "https://vgmsite.com/soundtracks/skyhammer-atari-jaguar/heifpotryn/2.%20Intro%20Theme%20%5BPrototype%5D.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/skyhammer-atari-jaguar/2.%2520Intro%2520Theme%2520%255BPrototype%255D.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 12048138,
+      "track_number": 3,
+      "title": "Combat",
+      "runtime": 301,
+      "source_mp3": "https://vgmsite.com/soundtracks/skyhammer-atari-jaguar/ukykhyohyy/3.%20Combat.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/skyhammer-atari-jaguar/3.%2520Combat.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 631,
+    "filesize_mp3_bytes": 25260195,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

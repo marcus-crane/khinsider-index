@@ -1,0 +1,97 @@
+{
+  "title": "StarFox Anthology",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T18:19:21.649125+00:00",
+  "slug": "starfox-anthology",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/starfox-anthology",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/starfox-anthology/Cover.jpg"
+  ],
+  "year": 2008,
+  "catalog_number": "KNKS-0006",
+  "date_added": "2022-05-20T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Fox Laboratory": "https://downloads.khinsider.com/game-soundtracks/publisher/fox-laboratory"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3690987,
+      "filesize_mp3_bytes": 1530920,
+      "track_number": 1,
+      "title": "Opening Title",
+      "runtime": 56,
+      "source_mp3": "https://vgmsite.com/soundtracks/starfox-anthology/vakmtvolds/01.%20Opening%20Title.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/starfox-anthology/vakmtvolds/01.%20Opening%20Title.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/starfox-anthology/01.%2520Opening%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 19094568,
+      "filesize_mp3_bytes": 5756682,
+      "track_number": 2,
+      "title": "CORNERIA",
+      "runtime": 178,
+      "source_mp3": "https://vgmsite.com/soundtracks/starfox-anthology/eenxebjdhb/02.%20CORNERIA.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/starfox-anthology/eenxebjdhb/02.%20CORNERIA.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/starfox-anthology/02.%2520CORNERIA.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 13537116,
+      "filesize_mp3_bytes": 4634705,
+      "track_number": 3,
+      "title": "ASTEROID",
+      "runtime": 153,
+      "source_mp3": "https://vgmsite.com/soundtracks/starfox-anthology/qnzdkkfjnv/03.%20ASTEROID.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/starfox-anthology/qnzdkkfjnv/03.%20ASTEROID.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/starfox-anthology/03.%2520ASTEROID.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11156848,
+      "filesize_mp3_bytes": 3544186,
+      "track_number": 4,
+      "title": "SPACEARMADA",
+      "runtime": 115,
+      "source_mp3": "https://vgmsite.com/soundtracks/starfox-anthology/coucekmwty/04.%20SPACEARMADA.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/starfox-anthology/coucekmwty/04.%20SPACEARMADA.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/starfox-anthology/04.%2520SPACEARMADA.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10852761,
+      "filesize_mp3_bytes": 3638558,
+      "track_number": 5,
+      "title": "VENOM",
+      "runtime": 115,
+      "source_mp3": "https://vgmsite.com/soundtracks/starfox-anthology/hhrlxeydgh/05.%20VENOM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/starfox-anthology/hhrlxeydgh/05.%20VENOM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/starfox-anthology/05.%2520VENOM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 15550382,
+      "filesize_mp3_bytes": 5117050,
+      "track_number": 6,
+      "title": "'STARFOX' MainTheme",
+      "runtime": 159,
+      "source_mp3": "https://vgmsite.com/soundtracks/starfox-anthology/bdfqyhrnxb/06.%20%27STARFOX%27%20MainTheme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/starfox-anthology/bdfqyhrnxb/06.%20%27STARFOX%27%20MainTheme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/starfox-anthology/06.%2520%2527STARFOX%2527%2520MainTheme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 776,
+    "filesize_mp3_bytes": 24222101,
+    "filesize_flac_bytes": 73882662,
+    "tracks": 6
+  }
+}

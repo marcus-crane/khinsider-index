@@ -1,0 +1,63 @@
+{
+  "title": "Space Hulk: Ascension",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T16:39:50.802458+00:00",
+  "slug": "space-hulk-ascension-windows-gamerip-2014",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/space-hulk-ascension-windows-gamerip-2014",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/space-hulk-ascension-windows-gamerip-2014/coverart.jpg"
+  ],
+  "year": 2014,
+  "date_added": "2023-06-28T00:00:00+00:00",
+  "developers": {
+    "Full Control Studios": "https://downloads.khinsider.com/game-soundtracks/developer/full-control-studios"
+  },
+  "publishers": {
+    "Full Control": "https://downloads.khinsider.com/game-soundtracks/publisher/full-control",
+    "Hoplite Research": "https://downloads.khinsider.com/game-soundtracks/publisher/hoplite-research"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4771020,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 117,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-hulk-ascension-windows-gamerip-2014/nssnvjzltp/01.%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-hulk-ascension-windows-gamerip-2014/01.%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 650117,
+      "track_number": 2,
+      "title": "Mission Success",
+      "runtime": 14,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-hulk-ascension-windows-gamerip-2014/yjhqgpltdg/02.%20Mission%20Success.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-hulk-ascension-windows-gamerip-2014/02.%2520Mission%2520Success.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 639631,
+      "track_number": 3,
+      "title": "Mission Failure",
+      "runtime": 14,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-hulk-ascension-windows-gamerip-2014/irydqzujlk/03.%20Mission%20Failure.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-hulk-ascension-windows-gamerip-2014/03.%2520Mission%2520Failure.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 145,
+    "filesize_mp3_bytes": 6060768,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

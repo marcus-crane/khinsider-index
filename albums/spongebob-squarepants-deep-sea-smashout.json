@@ -1,0 +1,43 @@
+{
+  "title": "Spongebob Squarepants - Deep Sea Smashout",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T17:19:53.875044+00:00",
+  "slug": "spongebob-squarepants-deep-sea-smashout",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/spongebob-squarepants-deep-sea-smashout",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/spongebob-squarepants-deep-sea-smashout/SmashOut.png"
+  ],
+  "date_added": "2020-07-31T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 272629,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 34,
+      "source_mp3": "https://vgmsite.com/soundtracks/spongebob-squarepants-deep-sea-smashout/recmyixmeg/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/spongebob-squarepants-deep-sea-smashout/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 272629,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 34,
+      "source_mp3": "https://vgmsite.com/soundtracks/spongebob-squarepants-deep-sea-smashout/qmzjlgssdq/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/spongebob-squarepants-deep-sea-smashout/02.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 68,
+    "filesize_mp3_bytes": 545258,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

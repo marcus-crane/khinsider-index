@@ -1,0 +1,72 @@
+{
+  "title": "Striker",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T19:17:13.877393+00:00",
+  "slug": "striker-game-gear",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/striker-game-gear",
+  "platforms": {
+    "Game Gear": "https://downloads.khinsider.com/game-soundtracks/sega-game-gear"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/striker-game-gear/Striker%20%28GG%29.png"
+  ],
+  "year": 1995,
+  "date_added": "2020-07-21T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 22072524,
+      "filesize_mp3_bytes": 8462008,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 415,
+      "source_mp3": "https://vgmsite.com/soundtracks/striker-game-gear/jmhmxzkmbz/01%20-%20Title.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/striker-game-gear/jmhmxzkmbz/01%20-%20Title.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/striker-game-gear/01%2520-%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1163919,
+      "filesize_mp3_bytes": 440401,
+      "track_number": 2,
+      "title": "Match On",
+      "runtime": 25,
+      "source_mp3": "https://vgmsite.com/soundtracks/striker-game-gear/ydaqobowyo/02%20-%20Match%20On.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/striker-game-gear/ydaqobowyo/02%20-%20Match%20On.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/striker-game-gear/02%2520-%2520Match%2520On.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1289748,
+      "filesize_mp3_bytes": 440401,
+      "track_number": 3,
+      "title": "Result",
+      "runtime": 25,
+      "source_mp3": "https://vgmsite.com/soundtracks/striker-game-gear/wjndohzoop/03%20-%20Result.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/striker-game-gear/wjndohzoop/03%20-%20Result.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/striker-game-gear/03%2520-%2520Result.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 13421772,
+      "filesize_mp3_bytes": 5714739,
+      "track_number": 4,
+      "title": "Unused",
+      "runtime": 264,
+      "source_mp3": "https://vgmsite.com/soundtracks/striker-game-gear/ybmpxwhiao/04%20-%20Unused.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/striker-game-gear/ybmpxwhiao/04%20-%20Unused.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/striker-game-gear/04%2520-%2520Unused.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 729,
+    "filesize_mp3_bytes": 15057549,
+    "filesize_flac_bytes": 37947963,
+    "tracks": 4
+  }
+}

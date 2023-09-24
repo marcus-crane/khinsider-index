@@ -1,0 +1,81 @@
+{
+  "title": "Space Hulk",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T16:40:04.654525+00:00",
+  "slug": "space-hulk-gamerip-2013",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/space-hulk-gamerip-2013",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios",
+    "Linux": "https://downloads.khinsider.com/game-soundtracks/linux",
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "PS Vita": "https://downloads.khinsider.com/game-soundtracks/playstation-vita",
+    "PS3": "https://downloads.khinsider.com/game-soundtracks/playstation-3",
+    "PS4": "https://downloads.khinsider.com/game-soundtracks/playstation-4",
+    "Wii U": "https://downloads.khinsider.com/game-soundtracks/nintendo-wii-u",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows",
+    "Xbox One": "https://downloads.khinsider.com/game-soundtracks/xbox-one"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/space-hulk-gamerip-2013/coverart.jpg"
+  ],
+  "year": 2013,
+  "date_added": "2023-06-28T00:00:00+00:00",
+  "developers": {
+    "Cyanide Studio": "https://downloads.khinsider.com/game-soundtracks/developer/cyanide-studio"
+  },
+  "publishers": {
+    "Focus Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/focus-entertainment"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3670016,
+      "track_number": 1,
+      "title": "Briefing",
+      "runtime": 91,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-hulk-gamerip-2013/vpaoqyhokg/01.%20Briefing.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-hulk-gamerip-2013/01.%2520Briefing.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8472494,
+      "track_number": 2,
+      "title": "Main Theme",
+      "runtime": 211,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-hulk-gamerip-2013/yqadzcnvne/02.%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-hulk-gamerip-2013/02.%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 398458,
+      "track_number": 3,
+      "title": "Victory",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-hulk-gamerip-2013/iskucyjxyv/03.%20Victory.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-hulk-gamerip-2013/03.%2520Victory.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 335544,
+      "track_number": 4,
+      "title": "Failure",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-hulk-gamerip-2013/vwnthhqmvk/04.%20Failure.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-hulk-gamerip-2013/04.%2520Failure.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 318,
+    "filesize_mp3_bytes": 12876512,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

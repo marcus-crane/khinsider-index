@@ -1,0 +1,84 @@
+{
+  "title": "Stormlord",
+  "titles_alternative": [
+    "\u30b9\u30c8\u30fc\u30e0\u30ed\u30fc\u30c9"
+  ],
+  "crawled_at": "2023-09-24T18:39:04.689985+00:00",
+  "slug": "stormlord-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/stormlord-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/stormlord-commodore-64/SL.png"
+  ],
+  "year": 1989,
+  "date_added": "2016-06-01T00:00:00+00:00",
+  "developers": {
+    "Hewson Consultants": "https://downloads.khinsider.com/game-soundtracks/developer/hewson-consultants"
+  },
+  "publishers": {
+    "Hewson Consultants": "https://downloads.khinsider.com/game-soundtracks/publisher/hewson-consultants"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5746196,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 346,
+      "source_mp3": "https://vgmsite.com/soundtracks/stormlord-commodore-64/toqpehmt/01_Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stormlord-commodore-64/01_Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7665090,
+      "track_number": 2,
+      "title": "Title Tune",
+      "runtime": 388,
+      "source_mp3": "https://vgmsite.com/soundtracks/stormlord-commodore-64/dutfjryb/02_Title%20Tune.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stormlord-commodore-64/02_Title%2520Tune.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10171187,
+      "track_number": 3,
+      "title": "In-Game Tune",
+      "runtime": 538,
+      "source_mp3": "https://vgmsite.com/soundtracks/stormlord-commodore-64/timvcwcm/03_In-Game%20Tune.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stormlord-commodore-64/03_In-Game%2520Tune.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 4,
+      "title": "Get Ready",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/stormlord-commodore-64/ycgukswu/04_Get%20Ready.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stormlord-commodore-64/04_Get%2520Ready.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 5,
+      "title": "Game Over",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/stormlord-commodore-64/immiiklv/05_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stormlord-commodore-64/05_Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1281,
+    "filesize_mp3_bytes": 23760730,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

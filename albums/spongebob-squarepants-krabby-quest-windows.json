@@ -1,0 +1,68 @@
+{
+  "title": "SpongeBob SquarePants - Krabby Quest",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T17:20:19.462988+00:00",
+  "slug": "spongebob-squarepants-krabby-quest-windows",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/spongebob-squarepants-krabby-quest-windows",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/spongebob-squarepants-krabby-quest-windows/63709254-F91C-415E-B448-71EA0F99248E.png"
+  ],
+  "year": 2005,
+  "date_added": "2018-03-04T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2569011,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/spongebob-squarepants-krabby-quest-windows/kndsvgkl/1%20-%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/spongebob-squarepants-krabby-quest-windows/1%2520-%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5809111,
+      "track_number": 2,
+      "title": "Bikini Bottom & Jellyfish Fields",
+      "runtime": 145,
+      "source_mp3": "https://vgmsite.com/soundtracks/spongebob-squarepants-krabby-quest-windows/wvilstln/2%20-%20Bikini%20Bottom%20%26%20Jellyfish%20Fields.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/spongebob-squarepants-krabby-quest-windows/2%2520-%2520Bikini%2520Bottom%2520%2526%2520Jellyfish%2520Fields.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5505024,
+      "track_number": 3,
+      "title": "Sandy Beach & Phosphor Caves",
+      "runtime": 138,
+      "source_mp3": "https://vgmsite.com/soundtracks/spongebob-squarepants-krabby-quest-windows/xcgphqwm/3%20-%20Sandy%20Beach%20%26%20Phosphor%20Caves.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/spongebob-squarepants-krabby-quest-windows/3%2520-%2520Sandy%2520Beach%2520%2526%2520Phosphor%2520Caves.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5767168,
+      "track_number": 4,
+      "title": "Kelp Forest",
+      "runtime": 144,
+      "source_mp3": "https://vgmsite.com/soundtracks/spongebob-squarepants-krabby-quest-windows/gqwqkato/4%20-%20Kelp%20Forest.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/spongebob-squarepants-krabby-quest-windows/4%2520-%2520Kelp%2520Forest.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 491,
+    "filesize_mp3_bytes": 19650314,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

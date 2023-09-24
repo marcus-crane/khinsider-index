@@ -1,0 +1,56 @@
+{
+  "title": "Super Daisenryaku",
+  "titles_alternative": [
+    "SUPER\u5927\u6226\u7565"
+  ],
+  "crawled_at": "2023-09-24T19:56:04.522658+00:00",
+  "slug": "super-daisenryaku-pc-8801",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/super-daisenryaku-pc-8801",
+  "platforms": {
+    "PC-88": "https://downloads.khinsider.com/game-soundtracks/pc-8801"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/super-daisenryaku-pc-8801/Super%20Daisenryaku.png"
+  ],
+  "year": 1988,
+  "date_added": "2022-06-13T00:00:00+00:00",
+  "developers": {
+    "SystemSoft": "https://downloads.khinsider.com/game-soundtracks/developer/systemsoft"
+  },
+  "publishers": {
+    "SystemSoft": "https://downloads.khinsider.com/game-soundtracks/publisher/systemsoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 15508439,
+      "filesize_mp3_bytes": 5546967,
+      "track_number": 1,
+      "title": "Opening",
+      "runtime": 239,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-daisenryaku-pc-8801/svigrmjgpo/01%20Opening.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-daisenryaku-pc-8801/svigrmjgpo/01%20Opening.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-daisenryaku-pc-8801/01%2520Opening.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9992929,
+      "filesize_mp3_bytes": 4571791,
+      "track_number": 2,
+      "title": "Ending",
+      "runtime": 189,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-daisenryaku-pc-8801/phofvbahro/02%20Ending.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-daisenryaku-pc-8801/phofvbahro/02%20Ending.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-daisenryaku-pc-8801/02%2520Ending.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 428,
+    "filesize_mp3_bytes": 10118758,
+    "filesize_flac_bytes": 25501368,
+    "tracks": 2
+  }
+}

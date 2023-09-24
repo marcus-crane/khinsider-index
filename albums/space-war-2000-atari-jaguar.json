@@ -1,0 +1,41 @@
+{
+  "title": "Space War 2000",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T16:44:47.867118+00:00",
+  "slug": "space-war-2000-atari-jaguar",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/space-war-2000-atari-jaguar",
+  "platforms": {
+    "Atari Jaguar": "https://downloads.khinsider.com/game-soundtracks/atari-jaguar"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/space-war-2000-atari-jaguar/Space%20War%202000%20Jaguar%20back%20cover.png"
+  ],
+  "year": 2001,
+  "date_added": "2020-09-27T00:00:00+00:00",
+  "developers": {
+    "Atari": "https://downloads.khinsider.com/game-soundtracks/developer/atari"
+  },
+  "publishers": {
+    "B&C Computervisions": "https://downloads.khinsider.com/game-soundtracks/publisher/b-c-computervisions"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7298088,
+      "title": "Intro Theme",
+      "runtime": 182,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-war-2000-atari-jaguar/zplqsjridp/Intro%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-war-2000-atari-jaguar/Intro%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 182,
+    "filesize_mp3_bytes": 7298088,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "title": "Super C",
+  "titles_alternative": [
+    "Super Contra"
+  ],
+  "crawled_at": "2023-09-24T19:53:01.345692+00:00",
+  "slug": "super-c-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/super-c-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/super-c-amiga/8fbb5563-5623-4ca7-bc7f-4f5165b7c6fb%20%281%29.png"
+  ],
+  "year": 1990,
+  "date_added": "2017-11-01T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2820669,
+      "track_number": 1,
+      "title": "Hotter Than Hell (Title Screen)",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-c-amiga/acwvdjem/01_Hotter%20Than%20Hell%20%28Title%20Screen%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-c-amiga/01_Hotter%2520Than%2520Hell%2520%2528Title%2520Screen%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4299161,
+      "track_number": 2,
+      "title": "Thunder Landing (BGM 1)",
+      "runtime": 146,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-c-amiga/milhciec/02_Thunder%20Landing%20%28BGM%201%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-c-amiga/02_Thunder%2520Landing%2520%2528BGM%25201%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4896849,
+      "track_number": 3,
+      "title": "Ruined Base (Boss Theme)",
+      "runtime": 172,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-c-amiga/gvxbnrvv/03_Ruined%20Base%20%28Boss%20Theme%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-c-amiga/03_Ruined%2520Base%2520%2528Boss%2520Theme%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 157286,
+      "track_number": 4,
+      "title": "Pattern Clear No.2 (Stage Clear)",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-c-amiga/uhvbuyoh/04_Pattern%20Clear%20No.2%20%28Stage%20Clear%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-c-amiga/04_Pattern%2520Clear%2520No.2%2520%2528Stage%2520Clear%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3428843,
+      "track_number": 5,
+      "title": "In A Tight Squeeze (BGM 2)",
+      "runtime": 114,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-c-amiga/skorvqgi/05_In%20A%20Tight%20Squeeze%20%28BGM%202%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-c-amiga/05_In%2520A%2520Tight%2520Squeeze%2520%2528BGM%25202%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6564085,
+      "track_number": 6,
+      "title": "Jungle Juncture (BGM 3)",
+      "runtime": 223,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-c-amiga/pchazwap/06_Jungle%20Juncture%20%28BGM%203%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-c-amiga/06_Jungle%2520Juncture%2520%2528BGM%25203%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2411724,
+      "track_number": 7,
+      "title": "Free World (Ending)",
+      "runtime": 86,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-c-amiga/zoouxzbh/07_Free%20World%20%28Ending%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-c-amiga/07_Free%2520World%2520%2528Ending%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 188743,
+      "track_number": 8,
+      "title": "Continue",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-c-amiga/rfsxndnb/08_Continue.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-c-amiga/08_Continue.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 850,
+    "filesize_mp3_bytes": 24767360,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

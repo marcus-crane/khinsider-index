@@ -1,0 +1,45 @@
+{
+  "title": "Silkworm",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T14:04:57.575839+00:00",
+  "slug": "silkworm-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/silkworm-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/silkworm-amiga/S1.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2018-05-21T00:00:00+00:00",
+  "developers": {
+    "Random Access": "https://downloads.khinsider.com/game-soundtracks/developer/random-access",
+    "Tecmo": "https://downloads.khinsider.com/game-soundtracks/developer/tecmo",
+    "The Sales Curve": "https://downloads.khinsider.com/game-soundtracks/developer/the-sales-curve"
+  },
+  "publishers": {
+    "16-Blitz": "https://downloads.khinsider.com/game-soundtracks/publisher/16-blitz",
+    "Virgin Mastertronic": "https://downloads.khinsider.com/game-soundtracks/publisher/virgin-mastertronic"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4708106,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 164,
+      "source_mp3": "https://vgmsite.com/soundtracks/silkworm-amiga/rzxcnywk/01_Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/silkworm-amiga/01_Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 164,
+    "filesize_mp3_bytes": 4708106,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

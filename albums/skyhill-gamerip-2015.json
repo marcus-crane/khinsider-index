@@ -1,0 +1,69 @@
+{
+  "title": "SKYHILL",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T14:35:18.754463+00:00",
+  "slug": "skyhill-gamerip-2015",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/skyhill-gamerip-2015",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios",
+    "Linux": "https://downloads.khinsider.com/game-soundtracks/linux",
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "PS4": "https://downloads.khinsider.com/game-soundtracks/playstation-4",
+    "Switch": "https://downloads.khinsider.com/game-soundtracks/nintendo-switch",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows",
+    "Xbox One": "https://downloads.khinsider.com/game-soundtracks/xbox-one"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/skyhill-gamerip-2015/SKYHILL.jpg"
+  ],
+  "year": 2015,
+  "date_added": "2023-06-04T00:00:00+00:00",
+  "developers": {
+    "Mandragora": "https://downloads.khinsider.com/game-soundtracks/developer/mandragora"
+  },
+  "publishers": {
+    "Daedalic": "https://downloads.khinsider.com/game-soundtracks/publisher/daedalic"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1363148,
+      "track_number": 1,
+      "title": "Calm Theme",
+      "runtime": 78,
+      "source_mp3": "https://vgmsite.com/soundtracks/skyhill-gamerip-2015/vhgwqeubve/01.%20Calm%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/skyhill-gamerip-2015/01.%2520Calm%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1394606,
+      "track_number": 2,
+      "title": "Monsters Theme",
+      "runtime": 81,
+      "source_mp3": "https://vgmsite.com/soundtracks/skyhill-gamerip-2015/xrdalbjpzy/02.%20Monsters%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/skyhill-gamerip-2015/02.%2520Monsters%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1530920,
+      "track_number": 3,
+      "title": "Skyhill Main Theme",
+      "runtime": 89,
+      "source_mp3": "https://vgmsite.com/soundtracks/skyhill-gamerip-2015/igcqfkwzcr/03.%20Skyhill%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/skyhill-gamerip-2015/03.%2520Skyhill%2520Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 248,
+    "filesize_mp3_bytes": 4288674,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

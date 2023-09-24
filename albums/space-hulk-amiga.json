@@ -1,0 +1,94 @@
+{
+  "title": "Space Hulk",
+  "titles_alternative": [
+    "\u30b9\u30da\u30fc\u30b9\u30fb\u30cf\u30eb\u30af"
+  ],
+  "crawled_at": "2023-09-24T16:39:48.604381+00:00",
+  "slug": "space-hulk-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/space-hulk-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/space-hulk-amiga/SH1.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2019-04-08T00:00:00+00:00",
+  "developers": {
+    "EA": "https://downloads.khinsider.com/game-soundtracks/developer/ea"
+  },
+  "publishers": {
+    "EA": "https://downloads.khinsider.com/game-soundtracks/publisher/ea"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7979663,
+      "track_number": 1,
+      "title": "Opening  Main Menu",
+      "runtime": 284,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-hulk-amiga/khqbttfu/01_Opening%20%20Main%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-hulk-amiga/01_Opening%2520%2520Main%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1121976,
+      "track_number": 2,
+      "title": "Loading",
+      "runtime": 41,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-hulk-amiga/jtsfdlds/02_Loading.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-hulk-amiga/02_Loading.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2128609,
+      "track_number": 3,
+      "title": "Briefing",
+      "runtime": 79,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-hulk-amiga/ejsjqehy/03_Briefing.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-hulk-amiga/03_Briefing.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4603248,
+      "track_number": 4,
+      "title": "Debriefing",
+      "runtime": 172,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-hulk-amiga/eyyhtbkv/04_Debriefing.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-hulk-amiga/04_Debriefing.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1006632,
+      "track_number": 5,
+      "title": "Weapon Selection",
+      "runtime": 35,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-hulk-amiga/agiihdst/05_Weapon%20Selection.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-hulk-amiga/05_Weapon%2520Selection.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2516582,
+      "track_number": 6,
+      "title": "Ending",
+      "runtime": 95,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-hulk-amiga/prsqgviz/06_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-hulk-amiga/06_Ending.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 706,
+    "filesize_mp3_bytes": 19356710,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

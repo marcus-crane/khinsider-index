@@ -1,0 +1,66 @@
+{
+  "title": "Studio Ghibli Soundtrack Collection Bonus Disc",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T19:21:32.136726+00:00",
+  "slug": "studio-ghibli-soundtrack-collection-bonus-disc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/studio-ghibli-soundtrack-collection-bonus-disc",
+  "platforms": {
+    "Anime": "https://downloads.khinsider.com/game-soundtracks/anime"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/studio-ghibli-soundtrack-collection-bonus-disc/ghibli-ga-ippai-bonus-disc-01-face-avant.jpg"
+  ],
+  "year": 1996,
+  "date_added": "2006-11-25T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4068474,
+      "track_number": 1,
+      "title": "Le Temps Des Cerises",
+      "runtime": 237,
+      "source_mp3": "https://vgmsite.com/soundtracks/studio-ghibli-soundtrack-collection-bonus-disc/ogfhdaxu/01%20Le%20Temps%20Des%20Cerises.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/studio-ghibli-soundtrack-collection-bonus-disc/01%2520Le%2520Temps%2520Des%2520Cerises.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 17616076,
+      "track_number": 2,
+      "title": "Drama Genki Ni Naresou",
+      "runtime": 805,
+      "source_mp3": "https://vgmsite.com/soundtracks/studio-ghibli-soundtrack-collection-bonus-disc/dyypdciy/02%20Drama%20Genki%20Ni%20Naresou.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/studio-ghibli-soundtrack-collection-bonus-disc/02%2520Drama%2520Genki%2520Ni%2520Naresou.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 681574,
+      "track_number": 3,
+      "title": "Nandarou",
+      "runtime": 43,
+      "source_mp3": "https://vgmsite.com/soundtracks/studio-ghibli-soundtrack-collection-bonus-disc/pndabtxa/03%20Nandarou.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/studio-ghibli-soundtrack-collection-bonus-disc/03%2520Nandarou.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1887436,
+      "track_number": 4,
+      "title": "Sora Iro No Tane",
+      "runtime": 95,
+      "source_mp3": "https://vgmsite.com/soundtracks/studio-ghibli-soundtrack-collection-bonus-disc/fzkytqzr/04%20Sora%20Iro%20No%20Tane.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/studio-ghibli-soundtrack-collection-bonus-disc/04%2520Sora%2520Iro%2520No%2520Tane.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1180,
+    "filesize_mp3_bytes": 24253560,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

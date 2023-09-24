@@ -1,0 +1,76 @@
+{
+  "title": "Streets of Kamurocho",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T19:10:23.577685+00:00",
+  "slug": "streets-of-kamurocho-2020",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/streets-of-kamurocho-2020",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/streets-of-kamurocho-2020/Cover.png"
+  ],
+  "year": 2020,
+  "date_added": "2020-12-09T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2506096,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 62,
+      "source_mp3": "https://vgmsite.com/soundtracks/streets-of-kamurocho-2020/aygfytgmea/01%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/streets-of-kamurocho-2020/01%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1153433,
+      "track_number": 2,
+      "title": "Title Screen",
+      "runtime": 29,
+      "source_mp3": "https://vgmsite.com/soundtracks/streets-of-kamurocho-2020/nlbovqtlgq/02%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/streets-of-kamurocho-2020/02%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4540334,
+      "track_number": 3,
+      "title": "Funk Goes On",
+      "runtime": 113,
+      "source_mp3": "https://vgmsite.com/soundtracks/streets-of-kamurocho-2020/hthanibpau/03%20Funk%20Goes%20On.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/streets-of-kamurocho-2020/03%2520Funk%2520Goes%2520On.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3376414,
+      "track_number": 4,
+      "title": "Receive You the madype",
+      "runtime": 84,
+      "source_mp3": "https://vgmsite.com/soundtracks/streets-of-kamurocho-2020/iiqupylsbp/04%20Receive%20You%20the%20madype.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/streets-of-kamurocho-2020/04%2520Receive%2520You%2520the%2520madype.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4068474,
+      "track_number": 5,
+      "title": "Yokohama Battle Theme",
+      "runtime": 102,
+      "source_mp3": "https://vgmsite.com/soundtracks/streets-of-kamurocho-2020/vvoqpjasof/05%20Yokohama%20Battle%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/streets-of-kamurocho-2020/05%2520Yokohama%2520Battle%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 390,
+    "filesize_mp3_bytes": 15644751,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

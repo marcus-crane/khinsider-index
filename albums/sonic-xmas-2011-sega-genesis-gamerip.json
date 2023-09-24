@@ -1,0 +1,38 @@
+{
+  "title": "Sonic Xmas 2011",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T15:56:27.046740+00:00",
+  "slug": "sonic-xmas-2011-sega-genesis-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/sonic-xmas-2011-sega-genesis-gamerip",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/sonic-xmas-2011-sega-genesis-gamerip/Sonic%20Xmas%202011%20Snow%20Peak%20Zone.png"
+  ],
+  "year": 2011,
+  "date_added": "2021-12-31T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 35724984,
+      "filesize_mp3_bytes": 5295308,
+      "title": "Snow Peak Zone",
+      "runtime": 183,
+      "source_mp3": "https://vgmsite.com/soundtracks/sonic-xmas-2011-sega-genesis-gamerip/dxwftcobss/Snow%20Peak%20Zone.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sonic-xmas-2011-sega-genesis-gamerip/dxwftcobss/Snow%20Peak%20Zone.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sonic-xmas-2011-sega-genesis-gamerip/Snow%2520Peak%2520Zone.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 183,
+    "filesize_mp3_bytes": 5295308,
+    "filesize_flac_bytes": 35724984,
+    "tracks": 1
+  }
+}

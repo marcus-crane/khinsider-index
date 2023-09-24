@@ -1,0 +1,41 @@
+{
+  "title": "Spongebob Squarepants - Trail of the Snail",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T17:23:10.278286+00:00",
+  "slug": "spongebob-squarepants-trail-of-the-snail",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/spongebob-squarepants-trail-of-the-snail",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/spongebob-squarepants-trail-of-the-snail/Trail%20of%20the%20Snail.png"
+  ],
+  "date_added": "2020-07-31T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 104857,
+      "title": "Game Loop",
+      "runtime": 26,
+      "source_mp3": "https://vgmsite.com/soundtracks/spongebob-squarepants-trail-of-the-snail/zazbautdeo/Game%20Loop.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/spongebob-squarepants-trail-of-the-snail/Game%2520Loop.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 62914,
+      "title": "Packaging Loop",
+      "runtime": 16,
+      "source_mp3": "https://vgmsite.com/soundtracks/spongebob-squarepants-trail-of-the-snail/jrzasduecp/Packaging%20Loop.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/spongebob-squarepants-trail-of-the-snail/Packaging%2520Loop.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 42,
+    "filesize_mp3_bytes": 167771,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

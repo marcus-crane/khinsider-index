@@ -1,0 +1,62 @@
+{
+  "title": "Soul Edge ~ The Edge of Soul",
+  "titles_alternative": [
+    "THE EDGE OF SOUL / KHAN"
+  ],
+  "crawled_at": "2023-09-24T16:12:27.435246+00:00",
+  "slug": "soul-edge-the-edge-of-soul",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/soul-edge-the-edge-of-soul",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/soul-edge-the-edge-of-soul/00-cover.jpg"
+  ],
+  "year": 1996,
+  "catalog_number": "BVDR-1127",
+  "date_added": "2006-11-25T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "BMG": "https://downloads.khinsider.com/game-soundtracks/publisher/bmg",
+    "LIPOP RECORD": "https://downloads.khinsider.com/game-soundtracks/publisher/lipop-record"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7203717,
+      "track_number": 1,
+      "title": "The Edge Of Soul",
+      "runtime": 300,
+      "source_mp3": "https://vgmsite.com/soundtracks/soul-edge-the-edge-of-soul/qzfyshzk/01%20The%20Edge%20Of%20Soul.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/soul-edge-the-edge-of-soul/01%2520The%2520Edge%2520Of%2520Soul.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6448742,
+      "track_number": 2,
+      "title": "Our Way Home",
+      "runtime": 269,
+      "source_mp3": "https://vgmsite.com/soundtracks/soul-edge-the-edge-of-soul/sykxmwhz/02%20Our%20Way%20Home.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/soul-edge-the-edge-of-soul/02%2520Our%2520Way%2520Home.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7151288,
+      "track_number": 3,
+      "title": "The Edge Of Soul Karaoke",
+      "runtime": 298,
+      "source_mp3": "https://vgmsite.com/soundtracks/soul-edge-the-edge-of-soul/fhrdttyn/03%20The%20Edge%20Of%20Soul%20Karaoke%20.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/soul-edge-the-edge-of-soul/03%2520The%2520Edge%2520Of%2520Soul%2520Karaoke%2520.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 867,
+    "filesize_mp3_bytes": 20803747,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

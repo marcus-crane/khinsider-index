@@ -1,0 +1,100 @@
+{
+  "title": "Stargate",
+  "titles_alternative": [
+    "\u30b9\u30bf\u30fc\u30b2\u30a4\u30c8"
+  ],
+  "crawled_at": "2023-09-24T18:19:29.189902+00:00",
+  "slug": "stargate-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/stargate-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/stargate-genesis/Stargate.png"
+  ],
+  "year": 1994,
+  "date_added": "2020-03-25T00:00:00+00:00",
+  "developers": {
+    "Probe": "https://downloads.khinsider.com/game-soundtracks/developer/probe"
+  },
+  "publishers": {
+    "Acclaim": "https://downloads.khinsider.com/game-soundtracks/publisher/acclaim"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6564085,
+      "filesize_mp3_bytes": 2663383,
+      "track_number": 1,
+      "title": "Title Theme ~ Alien Base",
+      "runtime": 114,
+      "source_mp3": "https://vgmsite.com/soundtracks/stargate-genesis/tltvhwuqht/01%20-%20Title%20Theme%20~%20Alien%20Base.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/stargate-genesis/tltvhwuqht/01%20-%20Title%20Theme%20~%20Alien%20Base.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stargate-genesis/01%2520-%2520Title%2520Theme%2520~%2520Alien%2520Base.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6847201,
+      "filesize_mp3_bytes": 3449815,
+      "track_number": 2,
+      "title": "The Desert",
+      "runtime": 160,
+      "source_mp3": "https://vgmsite.com/soundtracks/stargate-genesis/jfjtkhmisl/02%20-%20The%20Desert.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/stargate-genesis/jfjtkhmisl/02%20-%20The%20Desert.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stargate-genesis/02%2520-%2520The%2520Desert.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6815744,
+      "filesize_mp3_bytes": 3061841,
+      "track_number": 3,
+      "title": "In the Caves",
+      "runtime": 139,
+      "source_mp3": "https://vgmsite.com/soundtracks/stargate-genesis/boqpzumqqd/03%20-%20In%20the%20Caves.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/stargate-genesis/boqpzumqqd/03%20-%20In%20the%20Caves.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stargate-genesis/03%2520-%2520In%2520the%2520Caves.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11418992,
+      "filesize_mp3_bytes": 4362076,
+      "track_number": 4,
+      "title": "The City",
+      "runtime": 151,
+      "source_mp3": "https://vgmsite.com/soundtracks/stargate-genesis/aaaztgmkit/04%20-%20The%20City.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/stargate-genesis/aaaztgmkit/04%20-%20The%20City.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stargate-genesis/04%2520-%2520The%2520City.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7507804,
+      "filesize_mp3_bytes": 3753902,
+      "track_number": 5,
+      "title": "Hi-Tech Area",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/stargate-genesis/bhcirwldyw/05%20-%20Hi-Tech%20Area.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/stargate-genesis/bhcirwldyw/05%20-%20Hi-Tech%20Area.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stargate-genesis/05%2520-%2520Hi-Tech%2520Area.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8210350,
+      "filesize_mp3_bytes": 3397386,
+      "track_number": 6,
+      "title": "Unknown Track",
+      "runtime": 157,
+      "source_mp3": "https://vgmsite.com/soundtracks/stargate-genesis/etlfndcfdz/06%20-%20Unknown%20Track.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/stargate-genesis/etlfndcfdz/06%20-%20Unknown%20Track.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stargate-genesis/06%2520-%2520Unknown%2520Track.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 901,
+    "filesize_mp3_bytes": 20688403,
+    "filesize_flac_bytes": 47364176,
+    "tracks": 6
+  }
+}

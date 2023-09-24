@@ -1,0 +1,37 @@
+{
+  "title": "Stryx",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T19:21:03.016327+00:00",
+  "slug": "stryx-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/stryx-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/stryx-amiga/Stryx%20Amiga%20back%20cover.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2020-06-06T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3953131,
+      "title": "Ecran Titre",
+      "runtime": 192,
+      "source_mp3": "https://vgmsite.com/soundtracks/stryx-amiga/vnualealrk/Ecran%20Titre.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stryx-amiga/Ecran%2520Titre.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 192,
+    "filesize_mp3_bytes": 3953131,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

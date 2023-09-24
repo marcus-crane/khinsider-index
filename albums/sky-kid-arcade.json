@@ -1,0 +1,94 @@
+{
+  "title": "Sky Kid",
+  "titles_alternative": [
+    "\u30b9\u30ab\u30a4\u30ad\u30c3\u30c9"
+  ],
+  "crawled_at": "2023-09-24T14:32:19.633286+00:00",
+  "slug": "sky-kid-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/sky-kid-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/sky-kid-arcade/S1.png"
+  ],
+  "year": 1985,
+  "date_added": "2018-01-06T00:00:00+00:00",
+  "developers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/developer/namco"
+  },
+  "publishers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/publisher/namco"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 1,
+      "title": "Start Music",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/sky-kid-arcade/bkigmtcn/01_Start%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sky-kid-arcade/01_Start%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 2,
+      "title": "BGM Intro",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/sky-kid-arcade/jyhecabs/02_BGM%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sky-kid-arcade/02_BGM%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 671088,
+      "track_number": 3,
+      "title": "BGM",
+      "runtime": 39,
+      "source_mp3": "https://vgmsite.com/soundtracks/sky-kid-arcade/egrethlz/03_BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sky-kid-arcade/03_BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 4,
+      "title": "Round Music",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/sky-kid-arcade/vxsjuaes/04_Round%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sky-kid-arcade/04_Round%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 5,
+      "title": "Game Over",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/sky-kid-arcade/jtpmntaf/05_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sky-kid-arcade/05_Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 576716,
+      "track_number": 6,
+      "title": "Name Entry",
+      "runtime": 36,
+      "source_mp3": "https://vgmsite.com/soundtracks/sky-kid-arcade/hnguetjm/06_Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sky-kid-arcade/06_Name%2520Entry.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 88,
+    "filesize_mp3_bytes": 1436546,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

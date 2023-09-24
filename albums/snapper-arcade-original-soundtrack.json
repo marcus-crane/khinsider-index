@@ -1,0 +1,64 @@
+{
+  "title": "Snapper",
+  "titles_alternative": [
+    "\uc2a4\ub0b4\ud37c"
+  ],
+  "crawled_at": "2023-09-24T15:05:06.228931+00:00",
+  "slug": "snapper-arcade-original-soundtrack",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/snapper-arcade-original-soundtrack",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/snapper-arcade-original-soundtrack/Snapper%20%28Arcade%29.png"
+  ],
+  "year": 1990,
+  "date_added": "2021-12-19T00:00:00+00:00",
+  "developers": {
+    "PhilKo": "https://downloads.khinsider.com/game-soundtracks/developer/philko"
+  },
+  "publishers": {
+    "PhilKo": "https://downloads.khinsider.com/game-soundtracks/publisher/philko"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1939865,
+      "track_number": 1,
+      "title": "Stage Music 1",
+      "runtime": 121,
+      "source_mp3": "https://vgmsite.com/soundtracks/snapper-arcade-original-soundtrack/dntgsfmhqy/1.%20Stage%20Music%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/snapper-arcade-original-soundtrack/1.%2520Stage%2520Music%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1939865,
+      "track_number": 2,
+      "title": "Stage Music 2",
+      "runtime": 121,
+      "source_mp3": "https://vgmsite.com/soundtracks/snapper-arcade-original-soundtrack/gosthedmrf/2.%20Stage%20Music%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/snapper-arcade-original-soundtrack/2.%2520Stage%2520Music%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1897922,
+      "track_number": 3,
+      "title": "Bonus Game",
+      "runtime": 118,
+      "source_mp3": "https://vgmsite.com/soundtracks/snapper-arcade-original-soundtrack/ftdlupvgim/3.%20Bonus%20Game.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/snapper-arcade-original-soundtrack/3.%2520Bonus%2520Game.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 360,
+    "filesize_mp3_bytes": 5777652,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

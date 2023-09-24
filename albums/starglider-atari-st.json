@@ -1,0 +1,42 @@
+{
+  "title": "Starglider",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T18:19:49.135435+00:00",
+  "slug": "starglider-atari-st",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/starglider-atari-st",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/starglider-atari-st/Starglider%20-%20Cover.jpg"
+  ],
+  "year": 1986,
+  "date_added": "2016-06-21T00:00:00+00:00",
+  "developers": {
+    "Argonaut": "https://downloads.khinsider.com/game-soundtracks/developer/argonaut"
+  },
+  "publishers": {
+    "Rainbird": "https://downloads.khinsider.com/game-soundtracks/publisher/rainbird"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1174405,
+      "track_number": 1,
+      "title": "Starglider (Title Screen)",
+      "runtime": 49,
+      "source_mp3": "https://vgmsite.com/soundtracks/starglider-atari-st/gzfcsujo/01_Starglider%20%28Title%20Screen%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/starglider-atari-st/01_Starglider%2520%2528Title%2520Screen%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 49,
+    "filesize_mp3_bytes": 1174405,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

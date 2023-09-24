@@ -1,0 +1,90 @@
+{
+  "title": "Space Harrier II (ZX Spectrum 128)",
+  "titles_alternative": [
+    "\u30b9\u30da\u30fc\u30b9\u30cf\u30ea\u30a2\u30fcII"
+  ],
+  "crawled_at": "2023-09-24T16:38:59.511367+00:00",
+  "slug": "space-harrier-ii-zx-spectrum-128",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/space-harrier-ii-zx-spectrum-128",
+  "platforms": {
+    "Spectrum": "https://downloads.khinsider.com/game-soundtracks/spectrum"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/space-harrier-ii-zx-spectrum-128/Space%20Harrier%20II.png"
+  ],
+  "year": 1990,
+  "date_added": "2021-12-21T00:00:00+00:00",
+  "developers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega",
+    "Teque": "https://downloads.khinsider.com/game-soundtracks/developer/teque"
+  },
+  "publishers": {
+    "Grandslam": "https://downloads.khinsider.com/game-soundtracks/publisher/grandslam"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4980736,
+      "filesize_mp3_bytes": 2055208,
+      "track_number": 1,
+      "title": "Harrier Saga",
+      "runtime": 99,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-harrier-ii-zx-spectrum-128/mydlfnjsid/01%20Harrier%20Saga.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/space-harrier-ii-zx-spectrum-128/mydlfnjsid/01%20Harrier%20Saga.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-harrier-ii-zx-spectrum-128/01%2520Harrier%2520Saga.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1688207,
+      "filesize_mp3_bytes": 765460,
+      "track_number": 2,
+      "title": "Nuclear Shock",
+      "runtime": 36,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-harrier-ii-zx-spectrum-128/dfsshilnoy/02%20Nuclear%20Shock.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/space-harrier-ii-zx-spectrum-128/dfsshilnoy/02%20Nuclear%20Shock.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-harrier-ii-zx-spectrum-128/02%2520Nuclear%2520Shock.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1017118,
+      "filesize_mp3_bytes": 398458,
+      "track_number": 3,
+      "title": "Handcuff",
+      "runtime": 20,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-harrier-ii-zx-spectrum-128/hkjfsrfsnu/03%20Handcuff.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/space-harrier-ii-zx-spectrum-128/hkjfsrfsnu/03%20Handcuff.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-harrier-ii-zx-spectrum-128/03%2520Handcuff.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1352663,
+      "filesize_mp3_bytes": 618659,
+      "track_number": 4,
+      "title": "Winner's Flight",
+      "runtime": 28,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-harrier-ii-zx-spectrum-128/xafpuxpdkj/04%20Winner%27s%20Flight.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/space-harrier-ii-zx-spectrum-128/xafpuxpdkj/04%20Winner%27s%20Flight.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-harrier-ii-zx-spectrum-128/04%2520Winner%2527s%2520Flight.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 744488,
+      "filesize_mp3_bytes": 408944,
+      "track_number": 5,
+      "title": "An Epitaph",
+      "runtime": 18,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-harrier-ii-zx-spectrum-128/cfulkfxaaf/05%20An%20Epitaph.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/space-harrier-ii-zx-spectrum-128/cfulkfxaaf/05%20An%20Epitaph.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-harrier-ii-zx-spectrum-128/05%2520An%2520Epitaph.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 201,
+    "filesize_mp3_bytes": 4246729,
+    "filesize_flac_bytes": 9783212,
+    "tracks": 5
+  }
+}

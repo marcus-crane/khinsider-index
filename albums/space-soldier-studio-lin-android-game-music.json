@@ -1,0 +1,61 @@
+{
+  "title": "Space Soldier (Studio LiN) (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T16:44:29.672089+00:00",
+  "slug": "space-soldier-studio-lin-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/space-soldier-studio-lin-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/space-soldier-studio-lin-android-game-music/screen-0.jpg"
+  ],
+  "date_added": "2017-11-24T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 555745,
+      "title": "bgm_0",
+      "runtime": 14,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-soldier-studio-lin-android-game-music/iavkulvd/bgm_0.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-soldier-studio-lin-android-game-music/bgm_0.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 513802,
+      "title": "bgm_1",
+      "runtime": 13,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-soldier-studio-lin-android-game-music/yfflxrxc/bgm_1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-soldier-studio-lin-android-game-music/bgm_1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1027604,
+      "title": "bgm_2",
+      "runtime": 26,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-soldier-studio-lin-android-game-music/qlnlopsv/bgm_2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-soldier-studio-lin-android-game-music/bgm_2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 125829,
+      "title": "bgm_3",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-soldier-studio-lin-android-game-music/gtichogm/bgm_3.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-soldier-studio-lin-android-game-music/bgm_3.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 56,
+    "filesize_mp3_bytes": 2222980,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

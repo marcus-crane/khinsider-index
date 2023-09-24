@@ -1,0 +1,62 @@
+{
+  "title": "Slave Zero",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T14:47:45.678269+00:00",
+  "slug": "slave-zero-1999-dreamcast-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/slave-zero-1999-dreamcast-gamerip",
+  "platforms": {
+    "Dreamcast": "https://downloads.khinsider.com/game-soundtracks/sega-dreamcast"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/slave-zero-1999-dreamcast-gamerip/SZ1.jpg"
+  ],
+  "year": 1999,
+  "date_added": "2020-05-20T00:00:00+00:00",
+  "developers": {
+    "Accolade": "https://downloads.khinsider.com/game-soundtracks/developer/accolade"
+  },
+  "publishers": {
+    "Infogrames": "https://downloads.khinsider.com/game-soundtracks/publisher/infogrames"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 14313062,
+      "filesize_mp3_bytes": 3827302,
+      "title": "Ending B Mix",
+      "runtime": 115,
+      "source_mp3": "https://vgmsite.com/soundtracks/slave-zero-1999-dreamcast-gamerip/gioucgloog/Ending%20B%20Mix.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/slave-zero-1999-dreamcast-gamerip/gioucgloog/Ending%20B%20Mix.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/slave-zero-1999-dreamcast-gamerip/Ending%2520B%2520Mix.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 16745758,
+      "filesize_mp3_bytes": 4424990,
+      "title": "Lite 90 Mix",
+      "runtime": 131,
+      "source_mp3": "https://vgmsite.com/soundtracks/slave-zero-1999-dreamcast-gamerip/hcdufmyzfm/Lite%2090%20Mix.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/slave-zero-1999-dreamcast-gamerip/hcdufmyzfm/Lite%2090%20Mix.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/slave-zero-1999-dreamcast-gamerip/Lite%252090%2520Mix.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 14575206,
+      "filesize_mp3_bytes": 4183818,
+      "title": "Res Mix",
+      "runtime": 117,
+      "source_mp3": "https://vgmsite.com/soundtracks/slave-zero-1999-dreamcast-gamerip/fanxjcpgfp/Res%20Mix.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/slave-zero-1999-dreamcast-gamerip/fanxjcpgfp/Res%20Mix.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/slave-zero-1999-dreamcast-gamerip/Res%2520Mix.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 363,
+    "filesize_mp3_bytes": 12436110,
+    "filesize_flac_bytes": 45634026,
+    "tracks": 3
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "title": "SkyMaze",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T14:45:32.563164+00:00",
+  "slug": "skymaze",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/skymaze",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/skymaze/SkyMaze.png"
+  ],
+  "year": 2001,
+  "date_added": "2020-05-23T00:00:00+00:00",
+  "developers": {
+    "AxySoft": "https://downloads.khinsider.com/game-soundtracks/developer/axysoft"
+  },
+  "publishers": {
+    "AxySoft": "https://downloads.khinsider.com/game-soundtracks/publisher/axysoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3229614,
+      "title": "Track 1",
+      "runtime": 81,
+      "source_mp3": "https://vgmsite.com/soundtracks/skymaze/shsgbcwghx/Track%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/skymaze/Track%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3575644,
+      "title": "Track 2",
+      "runtime": 89,
+      "source_mp3": "https://vgmsite.com/soundtracks/skymaze/tzsxdwkowp/Track%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/skymaze/Track%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3921674,
+      "title": "Track 3",
+      "runtime": 98,
+      "source_mp3": "https://vgmsite.com/soundtracks/skymaze/pbvbphhekc/Track%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/skymaze/Track%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3858759,
+      "title": "Track 4",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/skymaze/bcxcdnxznh/Track%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/skymaze/Track%25204.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4781506,
+      "title": "Track 5",
+      "runtime": 119,
+      "source_mp3": "https://vgmsite.com/soundtracks/skymaze/gxxcievlrz/Track%205.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/skymaze/Track%25205.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 483,
+    "filesize_mp3_bytes": 19367197,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

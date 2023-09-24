@@ -1,0 +1,54 @@
+{
+  "title": "Sudoku 2",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T19:28:12.113796+00:00",
+  "slug": "sudoku-2-ios-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/sudoku-2-ios-gamerip",
+  "platforms": {
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/sudoku-2-ios-gamerip/%E2%96%BBSudoku.png"
+  ],
+  "date_added": "2015-12-15T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 188743,
+      "title": "lose-melody",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/sudoku-2-ios-gamerip/wuihugom/lose-melody.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sudoku-2-ios-gamerip/lose-melody.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 471859,
+      "title": "sudoku",
+      "runtime": 15,
+      "source_mp3": "https://vgmsite.com/soundtracks/sudoku-2-ios-gamerip/unxohzyo/sudoku.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sudoku-2-ios-gamerip/sudoku.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 199229,
+      "title": "win-melody",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/sudoku-2-ios-gamerip/pfcngqlz/win-melody.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sudoku-2-ios-gamerip/win-melody.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 29,
+    "filesize_mp3_bytes": 859831,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

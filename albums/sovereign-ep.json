@@ -1,0 +1,57 @@
+{
+  "title": "Sovereign EP",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T16:32:33.428633+00:00",
+  "slug": "sovereign-ep",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/sovereign-ep",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/sovereign-ep/Rafael%20Langoni%20Smith%20-%20Sovereign%20EP%20-%20cover.png"
+  ],
+  "year": 2015,
+  "date_added": "2021-07-09T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 27441233,
+      "filesize_mp3_bytes": 7675576,
+      "track_number": 1,
+      "title": "The Mighty Coliseum",
+      "runtime": 226,
+      "source_mp3": "https://vgmsite.com/soundtracks/sovereign-ep/wafijfkees/01%20The%20Mighty%20Coliseum.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sovereign-ep/wafijfkees/01%20The%20Mighty%20Coliseum.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sovereign-ep/01%2520The%2520Mighty%2520Coliseum.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 33397145,
+      "filesize_mp3_bytes": 9248440,
+      "track_number": 2,
+      "title": "Schnapsville!",
+      "runtime": 252,
+      "source_mp3": "https://vgmsite.com/soundtracks/sovereign-ep/uoruzqmblc/02%20Schnapsville%21.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sovereign-ep/uoruzqmblc/02%20Schnapsville%21.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sovereign-ep/02%2520Schnapsville%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 31467765,
+      "filesize_mp3_bytes": 9583984,
+      "track_number": 3,
+      "title": "Dirge of the Space Whale",
+      "runtime": 286,
+      "source_mp3": "https://vgmsite.com/soundtracks/sovereign-ep/rjmsunlkwh/03%20Dirge%20of%20the%20Space%20Whale.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sovereign-ep/rjmsunlkwh/03%20Dirge%20of%20the%20Space%20Whale.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sovereign-ep/03%2520Dirge%2520of%2520the%2520Space%2520Whale.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 764,
+    "filesize_mp3_bytes": 26508000,
+    "filesize_flac_bytes": 92306143,
+    "tracks": 3
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "title": "Star Madness (Unreleased)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T17:50:52.026200+00:00",
+  "slug": "star-madness-zx-spectrum",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/star-madness-zx-spectrum",
+  "platforms": {
+    "Spectrum": "https://downloads.khinsider.com/game-soundtracks/spectrum"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/star-madness-zx-spectrum/S1.png"
+  ],
+  "year": 1989,
+  "date_added": "2016-04-23T00:00:00+00:00",
+  "developers": {
+    "Joe McAlby": "https://downloads.khinsider.com/game-soundtracks/developer/joe-mcalby",
+    "Medi": "https://downloads.khinsider.com/game-soundtracks/developer/medi",
+    "Zydro": "https://downloads.khinsider.com/game-soundtracks/developer/zydro"
+  },
+  "publishers": {
+    "New Frontier": "https://downloads.khinsider.com/game-soundtracks/publisher/new-frontier"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1971322,
+      "track_number": 1,
+      "title": "Bas",
+      "runtime": 69,
+      "source_mp3": "https://vgmsite.com/soundtracks/star-madness-zx-spectrum/lvpsqbby/01_Bas.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/star-madness-zx-spectrum/01_Bas.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2118123,
+      "track_number": 2,
+      "title": "Menu",
+      "runtime": 71,
+      "source_mp3": "https://vgmsite.com/soundtracks/star-madness-zx-spectrum/iangigsu/02_Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/star-madness-zx-spectrum/02_Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3313500,
+      "track_number": 3,
+      "title": "Rec",
+      "runtime": 110,
+      "source_mp3": "https://vgmsite.com/soundtracks/star-madness-zx-spectrum/kyqwzlux/03_Rec.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/star-madness-zx-spectrum/03_Rec.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 250,
+    "filesize_mp3_bytes": 7402945,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

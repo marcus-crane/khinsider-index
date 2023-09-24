@@ -1,0 +1,78 @@
+{
+  "title": "Symphony Sorcerian",
+  "titles_alternative": [
+    "\u4ea4\u97ff\u66f2\u300c\u30bd\u30fc\u30b5\u30ea\u30a2\u30f3\u300d"
+  ],
+  "crawled_at": "2023-09-24T16:06:19.227128+00:00",
+  "slug": "sorcerian-symphony",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/sorcerian-symphony",
+  "platforms": {
+    "PC-88": "https://downloads.khinsider.com/game-soundtracks/pc-8801",
+    "PC-98": "https://downloads.khinsider.com/game-soundtracks/pc-9801"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/sorcerian-symphony/back.jpg"
+  ],
+  "year": 1989,
+  "catalog_number": "276A-7707",
+  "date_added": "2019-02-21T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "King Records": "https://downloads.khinsider.com/game-soundtracks/publisher/king-records"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 75780587,
+      "filesize_mp3_bytes": 34812723,
+      "track_number": 1,
+      "title": "First Movement",
+      "runtime": 870,
+      "source_mp3": "https://vgmsite.com/soundtracks/sorcerian-symphony/cwcrwfaj/01%20First%20Movement.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sorcerian-symphony/cwcrwfaj/01%20First%20Movement.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sorcerian-symphony/01%2520First%2520Movement.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 37266391,
+      "filesize_mp3_bytes": 17385390,
+      "track_number": 2,
+      "title": "Second Movement",
+      "runtime": 435,
+      "source_mp3": "https://vgmsite.com/soundtracks/sorcerian-symphony/dkpxatpo/02%20Second%20Movement.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sorcerian-symphony/dkpxatpo/02%20Second%20Movement.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sorcerian-symphony/02%2520Second%2520Movement.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 53739520,
+      "filesize_mp3_bytes": 26245857,
+      "track_number": 3,
+      "title": "Third Movement",
+      "runtime": 656,
+      "source_mp3": "https://vgmsite.com/soundtracks/sorcerian-symphony/wzmtikjs/03%20Third%20Movement.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sorcerian-symphony/wzmtikjs/03%20Third%20Movement.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sorcerian-symphony/03%2520Third%2520Movement.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 63281561,
+      "filesize_mp3_bytes": 27860664,
+      "track_number": 4,
+      "title": "Fourth Movement",
+      "runtime": 696,
+      "source_mp3": "https://vgmsite.com/soundtracks/sorcerian-symphony/tmfvcfvz/04%20Fourth%20Movement.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sorcerian-symphony/tmfvcfvz/04%20Fourth%20Movement.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sorcerian-symphony/04%2520Fourth%2520Movement.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2657,
+    "filesize_mp3_bytes": 106304634,
+    "filesize_flac_bytes": 230068059,
+    "tracks": 4
+  }
+}

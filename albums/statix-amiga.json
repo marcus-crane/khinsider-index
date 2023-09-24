@@ -1,0 +1,92 @@
+{
+  "title": "Statix",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T18:24:28.213030+00:00",
+  "slug": "statix-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/statix-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/statix-amiga/S1.png"
+  ],
+  "year": 1995,
+  "date_added": "2016-09-27T00:00:00+00:00",
+  "developers": {
+    "7th Sign": "https://downloads.khinsider.com/game-soundtracks/developer/7th-sign"
+  },
+  "publishers": {
+    "Black Legend": "https://downloads.khinsider.com/game-soundtracks/publisher/black-legend"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7570718,
+      "track_number": 1,
+      "title": "TRSI Statix Intro",
+      "runtime": 241,
+      "source_mp3": "https://vgmsite.com/soundtracks/statix-amiga/mdpfawut/01_TRSI%20Statix%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/statix-amiga/01_TRSI%2520Statix%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5662310,
+      "track_number": 2,
+      "title": "Gates",
+      "runtime": 199,
+      "source_mp3": "https://vgmsite.com/soundtracks/statix-amiga/fdbdmiyy/02_Gates.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/statix-amiga/02_Gates.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4068474,
+      "track_number": 3,
+      "title": "Electro Indian",
+      "runtime": 145,
+      "source_mp3": "https://vgmsite.com/soundtracks/statix-amiga/wxqejgni/03_Electro%20Indian.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/statix-amiga/03_Electro%2520Indian.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4771020,
+      "track_number": 4,
+      "title": "Rigit",
+      "runtime": 163,
+      "source_mp3": "https://vgmsite.com/soundtracks/statix-amiga/urjntgso/04_Rigit.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/statix-amiga/04_Rigit.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2831155,
+      "track_number": 5,
+      "title": "Moon",
+      "runtime": 91,
+      "source_mp3": "https://vgmsite.com/soundtracks/statix-amiga/dqxhkvmb/05_Moon.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/statix-amiga/05_Moon.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5179965,
+      "track_number": 6,
+      "title": "Against Time (Demo Version)",
+      "runtime": 176,
+      "source_mp3": "https://vgmsite.com/soundtracks/statix-amiga/ywfauuzh/06_Against%20Time%20%28Demo%20Version%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/statix-amiga/06_Against%2520Time%2520%2528Demo%2520Version%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1015,
+    "filesize_mp3_bytes": 30083642,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

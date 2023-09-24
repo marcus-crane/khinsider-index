@@ -1,0 +1,112 @@
+{
+  "title": "Stone Age",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T18:36:39.736547+00:00",
+  "slug": "stone-age-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/stone-age-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/stone-age-amiga/5228304-stone-age-dos-front-cover.jpg"
+  ],
+  "year": 1992,
+  "date_added": "2016-05-01T00:00:00+00:00",
+  "developers": {
+    "Stonehenge Soft Art": "https://downloads.khinsider.com/game-soundtracks/developer/stonehenge-soft-art"
+  },
+  "publishers": {
+    "Eclipse Software Design": "https://downloads.khinsider.com/game-soundtracks/publisher/eclipse-software-design"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 12132024,
+      "track_number": 1,
+      "title": "Translogic",
+      "runtime": 409,
+      "source_mp3": "https://vgmsite.com/soundtracks/stone-age-amiga/mdrtcrtb/01_Translogic.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stone-age-amiga/01_Translogic.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 12572426,
+      "track_number": 2,
+      "title": "So Watt",
+      "runtime": 407,
+      "source_mp3": "https://vgmsite.com/soundtracks/stone-age-amiga/dciztote/02_So%20Watt.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stone-age-amiga/02_So%2520Watt.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11408506,
+      "track_number": 3,
+      "title": "J.O.R.A.",
+      "runtime": 357,
+      "source_mp3": "https://vgmsite.com/soundtracks/stone-age-amiga/irsgwjyc/03_J.O.R.A..mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stone-age-amiga/03_J.O.R.A..mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9793699,
+      "track_number": 4,
+      "title": "Dizzy",
+      "runtime": 303,
+      "source_mp3": "https://vgmsite.com/soundtracks/stone-age-amiga/cvgkvlxu/04_Dizzy.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stone-age-amiga/04_Dizzy.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6197084,
+      "track_number": 5,
+      "title": "The Black",
+      "runtime": 221,
+      "source_mp3": "https://vgmsite.com/soundtracks/stone-age-amiga/cbsbebsf/05_The%20Black.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stone-age-amiga/05_The%2520Black.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6658457,
+      "track_number": 6,
+      "title": "Ice Rain",
+      "runtime": 241,
+      "source_mp3": "https://vgmsite.com/soundtracks/stone-age-amiga/jddrgvea/06_Ice%20Rain.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stone-age-amiga/06_Ice%2520Rain.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6847201,
+      "track_number": 7,
+      "title": "Tuesday, Bluesday",
+      "runtime": 236,
+      "source_mp3": "https://vgmsite.com/soundtracks/stone-age-amiga/vvvnwarh/07_Tuesday%2C%20Bluesday.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stone-age-amiga/07_Tuesday%252C%2520Bluesday.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 19304284,
+      "track_number": 8,
+      "title": "Children of the Dust",
+      "runtime": 641,
+      "source_mp3": "https://vgmsite.com/soundtracks/stone-age-amiga/gdigpzar/08_Children%20of%20the%20Dust.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stone-age-amiga/08_Children%2520of%2520the%2520Dust.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2815,
+    "filesize_mp3_bytes": 84913681,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

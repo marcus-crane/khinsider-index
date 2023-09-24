@@ -1,0 +1,54 @@
+{
+  "title": "Silkworm",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T14:04:58.470771+00:00",
+  "slug": "silkworm-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/silkworm-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/silkworm-commodore-64/S1.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2017-11-10T00:00:00+00:00",
+  "developers": {
+    "Random Access": "https://downloads.khinsider.com/game-soundtracks/developer/random-access",
+    "Tecmo": "https://downloads.khinsider.com/game-soundtracks/developer/tecmo",
+    "The Sales Curve": "https://downloads.khinsider.com/game-soundtracks/developer/the-sales-curve"
+  },
+  "publishers": {
+    "Virgin Mastertronic": "https://downloads.khinsider.com/game-soundtracks/publisher/virgin-mastertronic"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3323985,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 141,
+      "source_mp3": "https://vgmsite.com/soundtracks/silkworm-commodore-64/hkqpplza/01_Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/silkworm-commodore-64/01_Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5242880,
+      "track_number": 2,
+      "title": "Intro (SID Stereo)",
+      "runtime": 140,
+      "source_mp3": "https://vgmsite.com/soundtracks/silkworm-commodore-64/lktepkmi/02_Intro%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/silkworm-commodore-64/02_Intro%2520%2528SID%2520Stereo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 281,
+    "filesize_mp3_bytes": 8566865,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

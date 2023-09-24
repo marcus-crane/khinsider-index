@@ -1,0 +1,81 @@
+{
+  "title": "Sonic 16x16 (Pico-8)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T15:44:20.842032+00:00",
+  "slug": "sonic-16x16-pico-8-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/sonic-16x16-pico-8-gamerip",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/sonic-16x16-pico-8-gamerip/Sonic%2016x16%20Title%20Screen.png"
+  ],
+  "year": 2021,
+  "date_added": "2022-01-07T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 754974,
+      "filesize_mp3_bytes": 178257,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/sonic-16x16-pico-8-gamerip/htzhqpabcc/01.%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sonic-16x16-pico-8-gamerip/htzhqpabcc/01.%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sonic-16x16-pico-8-gamerip/01.%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11502878,
+      "filesize_mp3_bytes": 2065694,
+      "track_number": 2,
+      "title": "Green Hill Zone",
+      "runtime": 104,
+      "source_mp3": "https://vgmsite.com/soundtracks/sonic-16x16-pico-8-gamerip/pdaworovch/02.%20Green%20Hill%20Zone.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sonic-16x16-pico-8-gamerip/pdaworovch/02.%20Green%20Hill%20Zone.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sonic-16x16-pico-8-gamerip/02.%2520Green%2520Hill%2520Zone.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10422845,
+      "filesize_mp3_bytes": 2055208,
+      "track_number": 3,
+      "title": "Boss",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/sonic-16x16-pico-8-gamerip/tdfrfsgiko/03.%20Boss.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sonic-16x16-pico-8-gamerip/tdfrfsgiko/03.%20Boss.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sonic-16x16-pico-8-gamerip/03.%2520Boss.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5253365,
+      "filesize_mp3_bytes": 1184890,
+      "track_number": 4,
+      "title": "Invincibility",
+      "runtime": 49,
+      "source_mp3": "https://vgmsite.com/soundtracks/sonic-16x16-pico-8-gamerip/owbajzsjsf/04.%20Invincibility.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sonic-16x16-pico-8-gamerip/owbajzsjsf/04.%20Invincibility.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sonic-16x16-pico-8-gamerip/04.%2520Invincibility.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1069547,
+      "filesize_mp3_bytes": 262144,
+      "track_number": 5,
+      "title": "Game Over",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/sonic-16x16-pico-8-gamerip/yfocspbsan/05.%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sonic-16x16-pico-8-gamerip/yfocspbsan/05.%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sonic-16x16-pico-8-gamerip/05.%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 267,
+    "filesize_mp3_bytes": 5746193,
+    "filesize_flac_bytes": 29003609,
+    "tracks": 5
+  }
+}

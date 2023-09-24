@@ -1,0 +1,54 @@
+{
+  "title": "Soul Crash",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T16:11:56.279864+00:00",
+  "slug": "soul-crash-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/soul-crash-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/soul-crash-android/1.jpg"
+  ],
+  "date_added": "2017-07-22T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1069547,
+      "title": "sound_bgm_battle2",
+      "runtime": 33,
+      "source_mp3": "https://vgmsite.com/soundtracks/soul-crash-android/gwpzbbpx/sound_bgm_battle2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/soul-crash-android/sound_bgm_battle2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 293601,
+      "title": "sound_bgm_character",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/soul-crash-android/kgmrddsw/sound_bgm_character.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/soul-crash-android/sound_bgm_character.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 587202,
+      "title": "sound_bgm_street",
+      "runtime": 98,
+      "source_mp3": "https://vgmsite.com/soundtracks/soul-crash-android/pvfazyvq/sound_bgm_street.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/soul-crash-android/sound_bgm_street.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 179,
+    "filesize_mp3_bytes": 1950350,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

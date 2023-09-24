@@ -1,0 +1,82 @@
+{
+  "title": "Snoopy Tennis",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T15:24:12.353849+00:00",
+  "slug": "snoopy-tennis-gb-gamerip-2001",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/snoopy-tennis-gb-gamerip-2001",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/snoopy-tennis-gb-gamerip-2001/Snoopy_Tennis.jpg"
+  ],
+  "year": 2001,
+  "date_added": "2023-08-01T00:00:00+00:00",
+  "developers": {
+    "Mermaid Studios": "https://downloads.khinsider.com/game-soundtracks/developer/mermaid-studios"
+  },
+  "publishers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 251658,
+      "track_number": 1,
+      "title": "Championship Start",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/snoopy-tennis-gb-gamerip-2001/ffvfdaipvo/01.%20Championship%20Start.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/snoopy-tennis-gb-gamerip-2001/01.%2520Championship%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 167772,
+      "track_number": 2,
+      "title": "Match Start",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/snoopy-tennis-gb-gamerip-2001/bmiphumzlz/02.%20Match%20Start.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/snoopy-tennis-gb-gamerip-2001/02.%2520Match%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 188743,
+      "track_number": 3,
+      "title": "Current Score",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/snoopy-tennis-gb-gamerip-2001/tlbyvzxoux/03.%20Current%20Score.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/snoopy-tennis-gb-gamerip-2001/03.%2520Current%2520Score.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 4,
+      "title": "Lose",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/snoopy-tennis-gb-gamerip-2001/ewaxipegne/04.%20Lose.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/snoopy-tennis-gb-gamerip-2001/04.%2520Lose.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 272629,
+      "track_number": 5,
+      "title": "Password",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/snoopy-tennis-gb-gamerip-2001/czfmlvlzyz/05.%20Password.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/snoopy-tennis-gb-gamerip-2001/05.%2520Password.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 19,
+    "filesize_mp3_bytes": 933230,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

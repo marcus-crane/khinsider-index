@@ -1,0 +1,78 @@
+{
+  "title": "Super Boy II",
+  "titles_alternative": [
+    "\uc288\ud37c\ubcf4\uc774 II"
+  ],
+  "crawled_at": "2023-09-24T19:52:28.858396+00:00",
+  "slug": "super-boy-ii-msx",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/super-boy-ii-msx",
+  "platforms": {
+    "MSX": "https://downloads.khinsider.com/game-soundtracks/msx"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/super-boy-ii-msx/Super%20Boy%20II.png"
+  ],
+  "year": 1989,
+  "date_added": "2022-06-13T00:00:00+00:00",
+  "developers": {
+    "Zemina": "https://downloads.khinsider.com/game-soundtracks/developer/zemina"
+  },
+  "publishers": {
+    "Zemina": "https://downloads.khinsider.com/game-soundtracks/publisher/zemina"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2694840,
+      "filesize_mp3_bytes": 1310720,
+      "track_number": 1,
+      "title": "Running About",
+      "runtime": 68,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-boy-ii-msx/mqploiykfw/01%20Running%20About.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-boy-ii-msx/mqploiykfw/01%20Running%20About.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-boy-ii-msx/01%2520Running%2520About.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 996147,
+      "filesize_mp3_bytes": 713031,
+      "track_number": 2,
+      "title": "Underworld",
+      "runtime": 39,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-boy-ii-msx/efyyhodkvz/02%20Underworld.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-boy-ii-msx/efyyhodkvz/02%20Underworld.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-boy-ii-msx/02%2520Underworld.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 314572,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 3,
+      "title": "Bowser's Castle Complete",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-boy-ii-msx/ehaztctiye/03%20Bowser%27s%20Castle%20Complete.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-boy-ii-msx/ehaztctiye/03%20Bowser%27s%20Castle%20Complete.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-boy-ii-msx/03%2520Bowser%2527s%2520Castle%2520Complete.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 83886,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 4,
+      "title": "Miss",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-boy-ii-msx/cqnjcszthn/04%20Miss.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-boy-ii-msx/cqnjcszthn/04%20Miss.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-boy-ii-msx/04%2520Miss.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 120,
+    "filesize_mp3_bytes": 2222979,
+    "filesize_flac_bytes": 4089445,
+    "tracks": 4
+  }
+}

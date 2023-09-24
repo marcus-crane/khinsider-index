@@ -1,0 +1,53 @@
+{
+  "title": "Spice World",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T16:57:33.412746+00:00",
+  "slug": "spice-world-1998-psx",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/spice-world-1998-psx",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/spice-world-1998-psx/S1.jpg"
+  ],
+  "year": 1998,
+  "date_added": "2020-09-03T00:00:00+00:00",
+  "developers": {
+    "SCE Studios Soho": "https://downloads.khinsider.com/game-soundtracks/developer/sce-studios-soho"
+  },
+  "publishers": {
+    "Psygnosis": "https://downloads.khinsider.com/game-soundtracks/publisher/psygnosis",
+    "SCEE": "https://downloads.khinsider.com/game-soundtracks/publisher/scee"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7182745,
+      "filesize_mp3_bytes": 2558525,
+      "title": "Intro",
+      "runtime": 98,
+      "source_mp3": "https://vgmsite.com/soundtracks/spice-world-1998-psx/fsnrbdzfvg/Intro.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/spice-world-1998-psx/fsnrbdzfvg/Intro.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/spice-world-1998-psx/Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 25207767,
+      "filesize_mp3_bytes": 8619294,
+      "title": "Main",
+      "runtime": 322,
+      "source_mp3": "https://vgmsite.com/soundtracks/spice-world-1998-psx/ncefbsletd/Main.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/spice-world-1998-psx/ncefbsletd/Main.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/spice-world-1998-psx/Main.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 420,
+    "filesize_mp3_bytes": 11177819,
+    "filesize_flac_bytes": 32390512,
+    "tracks": 2
+  }
+}

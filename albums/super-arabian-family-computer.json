@@ -1,0 +1,79 @@
+{
+  "title": "Super Arabian",
+  "titles_alternative": [
+    "\u30b9\u30fc\u30d1\u30fc\u30a2\u30e9\u30d3\u30a2\u30f3"
+  ],
+  "crawled_at": "2023-09-24T19:46:55.359944+00:00",
+  "slug": "super-arabian-family-computer",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/super-arabian-family-computer",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/super-arabian-family-computer/Super%20Arabian.png"
+  ],
+  "year": 1985,
+  "date_added": "2022-06-13T00:00:00+00:00",
+  "developers": {
+    "Sunsoft": "https://downloads.khinsider.com/game-soundtracks/developer/sunsoft"
+  },
+  "publishers": {
+    "Sunsoft": "https://downloads.khinsider.com/game-soundtracks/publisher/sunsoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1761607,
+      "filesize_mp3_bytes": 681574,
+      "track_number": 1,
+      "title": "Stage BGM",
+      "runtime": 36,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-arabian-family-computer/siywfkcatl/01%20Stage%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-arabian-family-computer/siywfkcatl/01%20Stage%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-arabian-family-computer/01%2520Stage%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 52428,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 2,
+      "title": "Stage Clear",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-arabian-family-computer/cxiwlimuhy/02%20Stage%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-arabian-family-computer/cxiwlimuhy/02%20Stage%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-arabian-family-computer/02%2520Stage%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1237319,
+      "filesize_mp3_bytes": 545259,
+      "track_number": 3,
+      "title": "Invincible BGM",
+      "runtime": 26,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-arabian-family-computer/ccvlsslmkf/03%20Invincible%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-arabian-family-computer/ccvlsslmkf/03%20Invincible%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-arabian-family-computer/03%2520Invincible%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 146800,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 4,
+      "title": "Miss",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-arabian-family-computer/kmtjevgxay/04%20Miss.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-arabian-family-computer/kmtjevgxay/04%20Miss.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-arabian-family-computer/04%2520Miss.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 66,
+    "filesize_mp3_bytes": 1300232,
+    "filesize_flac_bytes": 3198154,
+    "tracks": 4
+  }
+}

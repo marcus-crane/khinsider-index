@@ -1,0 +1,52 @@
+{
+  "title": "Super Boulder Dash (IBM PCjr)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T19:52:13.617668+00:00",
+  "slug": "super-boulder-dash-ibm-pcjr",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/super-boulder-dash-ibm-pcjr",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/super-boulder-dash-ibm-pcjr/Boulder%20Dash%201.png"
+  ],
+  "year": 1986,
+  "date_added": "2022-06-13T00:00:00+00:00",
+  "developers": {
+    "First Star Software": "https://downloads.khinsider.com/game-soundtracks/developer/first-star-software"
+  },
+  "publishers": {
+    "EA": "https://downloads.khinsider.com/game-soundtracks/publisher/ea"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2065694,
+      "filesize_mp3_bytes": 838860,
+      "track_number": 1,
+      "title": "Boulder Dash 1 Title Screen",
+      "runtime": 44,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-boulder-dash-ibm-pcjr/txmvdemuwx/01%20Boulder%20Dash%201%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-boulder-dash-ibm-pcjr/txmvdemuwx/01%20Boulder%20Dash%201%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-boulder-dash-ibm-pcjr/01%2520Boulder%2520Dash%25201%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2128609,
+      "filesize_mp3_bytes": 838860,
+      "track_number": 2,
+      "title": "Boulder Dash 2 Title Screen",
+      "runtime": 44,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-boulder-dash-ibm-pcjr/hgzctfpoup/02%20Boulder%20Dash%202%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-boulder-dash-ibm-pcjr/hgzctfpoup/02%20Boulder%20Dash%202%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-boulder-dash-ibm-pcjr/02%2520Boulder%2520Dash%25202%2520Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 88,
+    "filesize_mp3_bytes": 1677720,
+    "filesize_flac_bytes": 4194303,
+    "tracks": 2
+  }
+}

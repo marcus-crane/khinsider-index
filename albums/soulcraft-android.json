@@ -1,0 +1,36 @@
+{
+  "title": "Soulcraft",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T16:20:20.440379+00:00",
+  "slug": "soulcraft-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/soulcraft-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/soulcraft-android/screen-0.jpg"
+  ],
+  "date_added": "2019-03-02T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4917821,
+      "title": "Soulcraft Main",
+      "runtime": 123,
+      "source_mp3": "https://vgmsite.com/soundtracks/soulcraft-android/slmmqzrh/Soulcraft%20Main.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/soulcraft-android/Soulcraft%2520Main.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 123,
+    "filesize_mp3_bytes": 4917821,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

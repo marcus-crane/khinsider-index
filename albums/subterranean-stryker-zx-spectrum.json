@@ -1,0 +1,43 @@
+{
+  "title": "Subterranean Stryker",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T19:27:32.716694+00:00",
+  "slug": "subterranean-stryker-zx-spectrum",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/subterranean-stryker-zx-spectrum",
+  "platforms": {
+    "Spectrum": "https://downloads.khinsider.com/game-soundtracks/spectrum"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/subterranean-stryker-zx-spectrum/S1.jpg"
+  ],
+  "year": 1985,
+  "date_added": "2018-04-06T00:00:00+00:00",
+  "developers": {
+    "Insight": "https://downloads.khinsider.com/game-soundtracks/developer/insight"
+  },
+  "publishers": {
+    "Amsoft": "https://downloads.khinsider.com/game-soundtracks/publisher/amsoft",
+    "Insight": "https://downloads.khinsider.com/game-soundtracks/publisher/insight"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 754974,
+      "track_number": 1,
+      "title": "Title (Beeper)",
+      "runtime": 27,
+      "source_mp3": "https://vgmsite.com/soundtracks/subterranean-stryker-zx-spectrum/cmqkyfsb/01_Title%20%28Beeper%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/subterranean-stryker-zx-spectrum/01_Title%2520%2528Beeper%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 27,
+    "filesize_mp3_bytes": 754974,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

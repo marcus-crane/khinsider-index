@@ -1,0 +1,54 @@
+{
+  "title": "SimCity",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T14:13:08.248516+00:00",
+  "slug": "simcity-pc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/simcity-pc",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/simcity-pc/SimCity%20Classic%20for%20Windows%202.0%20song%200%20%28intro%29%20%5B1996%5D%20%5BWIN%5D.jpg"
+  ],
+  "date_added": "2017-01-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 933232,
+      "title": "SimCity Classic for Windows 2.0 song 0 (intro) [1996] [WIN]",
+      "runtime": 47,
+      "source_mp3": "https://vgmsite.com/soundtracks/simcity-pc/mykyycks/SimCity%20Classic%20for%20Windows%202.0%20song%200%20%28intro%29%20%5B1996%5D%20%5BWIN%5D.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/simcity-pc/SimCity%2520Classic%2520for%2520Windows%25202.0%2520song%25200%2520%2528intro%2529%2520%255B1996%255D%2520%255BWIN%255D.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3523215,
+      "title": "SimCity Classic for Windows 2.0 song 10 (gameplay) [1996] [WIN]",
+      "runtime": 176,
+      "source_mp3": "https://vgmsite.com/soundtracks/simcity-pc/yjcfzpjz/SimCity%20Classic%20for%20Windows%202.0%20song%2010%20%28gameplay%29%20%5B1996%5D%20%5BWIN%5D.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/simcity-pc/SimCity%2520Classic%2520for%2520Windows%25202.0%2520song%252010%2520%2528gameplay%2529%2520%255B1996%255D%2520%255BWIN%255D.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2589982,
+      "title": "SimCity for Windows (Original Classic) loop - Brian Conrad [1994] [WIN]",
+      "runtime": 130,
+      "source_mp3": "https://vgmsite.com/soundtracks/simcity-pc/xsjhetbr/SimCity%20for%20Windows%20%28Original%20Classic%29%20loop%20-%20Brian%20Conrad%20%5B1994%5D%20%5BWIN%5D.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/simcity-pc/SimCity%2520for%2520Windows%2520%2528Original%2520Classic%2529%2520loop%2520-%2520Brian%2520Conrad%2520%255B1994%255D%2520%255BWIN%255D.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 353,
+    "filesize_mp3_bytes": 7046429,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

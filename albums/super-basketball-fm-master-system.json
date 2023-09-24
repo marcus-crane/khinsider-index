@@ -1,0 +1,39 @@
+{
+  "title": "Super Basketball (FM)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T19:48:13.568437+00:00",
+  "slug": "super-basketball-fm-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/super-basketball-fm-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/super-basketball-fm-master-system/Super%20Basketball%20%28FM%29.png"
+  ],
+  "year": 1989,
+  "date_added": "2020-07-21T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1352663,
+      "filesize_mp3_bytes": 817889,
+      "track_number": 1,
+      "title": "Background Music",
+      "runtime": 41,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-basketball-fm-master-system/enqwxmeroo/01%20-%20Background%20Music.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-basketball-fm-master-system/enqwxmeroo/01%20-%20Background%20Music.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-basketball-fm-master-system/01%2520-%2520Background%2520Music.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 41,
+    "filesize_mp3_bytes": 817889,
+    "filesize_flac_bytes": 1352663,
+    "tracks": 1
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "title": "Strawberry Nauts Arrange+",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T18:42:29.123999+00:00",
+  "slug": "strawberry-nauts-arrange",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/strawberry-nauts-arrange",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/strawberry-nauts-arrange/coverart.jpg"
+  ],
+  "year": 2011,
+  "date_added": "2020-04-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "HOOKSOFT": "https://downloads.khinsider.com/game-soundtracks/publisher/hooksoft"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 16441671,
+      "filesize_mp3_bytes": 4865392,
+      "track_number": 1,
+      "title": "a little more (short ver.)",
+      "runtime": 127,
+      "source_mp3": "https://vgmsite.com/soundtracks/strawberry-nauts-arrange/dqhhawvsuu/01%20-%20a%20little%20more%20%28short%20ver.%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/strawberry-nauts-arrange/dqhhawvsuu/01%20-%20a%20little%20more%20%28short%20ver.%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/strawberry-nauts-arrange/01%2520-%2520a%2520little%2520more%2520%2528short%2520ver.%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 109450362,
+      "filesize_mp3_bytes": 36406558,
+      "track_number": 2,
+      "title": "Strawberry Nauts Jazz Arrange Medley",
+      "runtime": 1097,
+      "source_mp3": "https://vgmsite.com/soundtracks/strawberry-nauts-arrange/krrfqjtwnj/02%20-%20Strawberry%20Nauts%20Jazz%20Arrange%20Medley.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/strawberry-nauts-arrange/krrfqjtwnj/02%20-%20Strawberry%20Nauts%20Jazz%20Arrange%20Medley.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/strawberry-nauts-arrange/02%2520-%2520Strawberry%2520Nauts%2520Jazz%2520Arrange%2520Medley.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 19566428,
+      "filesize_mp3_bytes": 5295308,
+      "track_number": 3,
+      "title": "Yoake no Hoshizora (short ver.)",
+      "runtime": 139,
+      "source_mp3": "https://vgmsite.com/soundtracks/strawberry-nauts-arrange/qgiasfhreu/03%20-%20Yoake%20no%20Hoshizora%20%28short%20ver.%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/strawberry-nauts-arrange/qgiasfhreu/03%20-%20Yoake%20no%20Hoshizora%20%28short%20ver.%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/strawberry-nauts-arrange/03%2520-%2520Yoake%2520no%2520Hoshizora%2520%2528short%2520ver.%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1363,
+    "filesize_mp3_bytes": 46567258,
+    "filesize_flac_bytes": 145458461,
+    "tracks": 3
+  }
+}

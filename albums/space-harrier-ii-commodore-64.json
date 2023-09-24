@@ -1,0 +1,94 @@
+{
+  "title": "Space Harrier II",
+  "titles_alternative": [
+    "\u30b9\u30da\u30fc\u30b9\u30cf\u30ea\u30a2\u30fcII"
+  ],
+  "crawled_at": "2023-09-24T16:38:38.696410+00:00",
+  "slug": "space-harrier-ii-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/space-harrier-ii-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/space-harrier-ii-commodore-64/SHC.png"
+  ],
+  "year": 1990,
+  "date_added": "2018-03-18T00:00:00+00:00",
+  "developers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Grandslam": "https://downloads.khinsider.com/game-soundtracks/publisher/grandslam"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1394606,
+      "track_number": 1,
+      "title": "Winner's Flight (Title Screen)",
+      "runtime": 74,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-harrier-ii-commodore-64/kytbzizl/01_Winner%27s%20Flight%20%28Title%20Screen%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-harrier-ii-commodore-64/01_Winner%2527s%2520Flight%2520%2528Title%2520Screen%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2820669,
+      "track_number": 2,
+      "title": "Harrier Saga (Stage Theme)",
+      "runtime": 166,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-harrier-ii-commodore-64/ctyagjbw/02_Harrier%20Saga%20%28Stage%20Theme%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-harrier-ii-commodore-64/02_Harrier%2520Saga%2520%2528Stage%2520Theme%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 482344,
+      "track_number": 3,
+      "title": "Mind Quake (Boss Theme)",
+      "runtime": 24,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-harrier-ii-commodore-64/ttrgescu/03_Mind%20Quake%20%28Boss%20Theme%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-harrier-ii-commodore-64/03_Mind%2520Quake%2520%2528Boss%2520Theme%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2432696,
+      "track_number": 4,
+      "title": "Winner's Flight (Title Screen) (SID Stereo)",
+      "runtime": 74,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-harrier-ii-commodore-64/rxhpqucd/04_Winner%27s%20Flight%20%28Title%20Screen%29%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-harrier-ii-commodore-64/04_Winner%2527s%2520Flight%2520%2528Title%2520Screen%2529%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4750049,
+      "track_number": 5,
+      "title": "Harrier Saga (Stage Theme) (SID Stereo)",
+      "runtime": 165,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-harrier-ii-commodore-64/iuvpqlal/05_Harrier%20Saga%20%28Stage%20Theme%29%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-harrier-ii-commodore-64/05_Harrier%2520Saga%2520%2528Stage%2520Theme%2529%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 828375,
+      "track_number": 6,
+      "title": "Mind Quake (Boss Theme) (SID Stereo)",
+      "runtime": 24,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-harrier-ii-commodore-64/bmkgushw/06_Mind%20Quake%20%28Boss%20Theme%29%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-harrier-ii-commodore-64/06_Mind%2520Quake%2520%2528Boss%2520Theme%2529%2520%2528SID%2520Stereo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 527,
+    "filesize_mp3_bytes": 12708739,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

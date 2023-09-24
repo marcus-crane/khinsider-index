@@ -1,0 +1,83 @@
+{
+  "title": "SNK Game Music",
+  "titles_alternative": [
+    "SNK \u30b2\u30fc\u30e0\u30fb\u30df\u30e5\u30fc\u30b8\u30c3\u30af"
+  ],
+  "crawled_at": "2023-09-24T15:20:14.258514+00:00",
+  "slug": "snk-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/snk-game-music",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/snk-game-music/SNK%20Game%20Music.jpg"
+  ],
+  "year": 1987,
+  "catalog_number": "28XA-120",
+  "date_added": "2006-11-25T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "G.M.O. Records": "https://downloads.khinsider.com/game-soundtracks/publisher/g.m.o.-records"
+  },
+  "genres": {
+    "Compilation": "https://downloads.khinsider.com/game-soundtracks/compilations"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9604956,
+      "track_number": 1,
+      "title": "Victory Road",
+      "runtime": 480,
+      "source_mp3": "https://vgmsite.com/soundtracks/snk-game-music/gtddcdda/01%20Victory%20Road.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/snk-game-music/01%2520Victory%2520Road.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10842275,
+      "track_number": 2,
+      "title": "Athena",
+      "runtime": 542,
+      "source_mp3": "https://vgmsite.com/soundtracks/snk-game-music/vlrjiagr/02%20Athena.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/snk-game-music/02%2520Athena.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2579496,
+      "track_number": 3,
+      "title": "Iron Tank",
+      "runtime": 129,
+      "source_mp3": "https://vgmsite.com/soundtracks/snk-game-music/clukmcws/03%20Iron%20Tank.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/snk-game-music/03%2520Iron%2520Tank.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8199864,
+      "track_number": 4,
+      "title": "Ikari Warriors",
+      "runtime": 410,
+      "source_mp3": "https://vgmsite.com/soundtracks/snk-game-music/shyrlyov/04%20Ikari%20Warriors.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/snk-game-music/04%2520Ikari%2520Warriors.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 13243514,
+      "track_number": 5,
+      "title": "Alpha Mission",
+      "runtime": 662,
+      "source_mp3": "https://vgmsite.com/soundtracks/snk-game-music/lpjuwweu/05%20Alpha%20Mission.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/snk-game-music/05%2520Alpha%2520Mission.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2223,
+    "filesize_mp3_bytes": 44470105,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

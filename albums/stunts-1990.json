@@ -1,0 +1,70 @@
+{
+  "title": "Stunts",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T19:22:47.877838+00:00",
+  "slug": "stunts-1990",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/stunts-1990",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/stunts-1990/cover.png"
+  ],
+  "year": 1990,
+  "date_added": "2021-04-27T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2736783,
+      "filesize_mp3_bytes": 1142947,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 53,
+      "source_mp3": "https://vgmsite.com/soundtracks/stunts-1990/hjzztlvnrd/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/stunts-1990/hjzztlvnrd/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stunts-1990/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6018826,
+      "filesize_mp3_bytes": 2044723,
+      "track_number": 2,
+      "title": "Main Menu",
+      "runtime": 101,
+      "source_mp3": "https://vgmsite.com/soundtracks/stunts-1990/mrzqyyfrqd/02%20Main%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/stunts-1990/mrzqyyfrqd/02%20Main%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stunts-1990/02%2520Main%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1656750,
+      "filesize_mp3_bytes": 608174,
+      "track_number": 3,
+      "title": "Race Results",
+      "runtime": 29,
+      "source_mp3": "https://vgmsite.com/soundtracks/stunts-1990/frsxgnnjad/03%20Race%20Results.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/stunts-1990/frsxgnnjad/03%20Race%20Results.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stunts-1990/03%2520Race%2520Results.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3114270,
+      "filesize_mp3_bytes": 1195376,
+      "track_number": 4,
+      "title": "Race Results (Win)",
+      "runtime": 57,
+      "source_mp3": "https://vgmsite.com/soundtracks/stunts-1990/baonrzmjhg/04%20Race%20Results%20%28Win%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/stunts-1990/baonrzmjhg/04%20Race%20Results%20%28Win%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stunts-1990/04%2520Race%2520Results%2520%2528Win%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 240,
+    "filesize_mp3_bytes": 4991220,
+    "filesize_flac_bytes": 13526629,
+    "tracks": 4
+  }
+}

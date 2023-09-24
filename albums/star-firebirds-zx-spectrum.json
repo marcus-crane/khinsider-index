@@ -1,0 +1,43 @@
+{
+  "title": "Star Firebirds",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T17:44:54.270761+00:00",
+  "slug": "star-firebirds-zx-spectrum",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/star-firebirds-zx-spectrum",
+  "platforms": {
+    "Spectrum": "https://downloads.khinsider.com/game-soundtracks/spectrum"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/star-firebirds-zx-spectrum/S1.jpg"
+  ],
+  "year": 1985,
+  "date_added": "2016-06-30T00:00:00+00:00",
+  "developers": {
+    "Insight Software": "https://downloads.khinsider.com/game-soundtracks/developer/insight-software"
+  },
+  "publishers": {
+    "Firebird Software": "https://downloads.khinsider.com/game-soundtracks/publisher/firebird-software",
+    "Insight Software": "https://downloads.khinsider.com/game-soundtracks/publisher/insight-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1876951,
+      "track_number": 1,
+      "title": "Hall of Fame (Beeper)",
+      "runtime": 58,
+      "source_mp3": "https://vgmsite.com/soundtracks/star-firebirds-zx-spectrum/jfztvubf/01_Hall%20of%20Fame%20%28Beeper%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/star-firebirds-zx-spectrum/01_Hall%2520of%2520Fame%2520%2528Beeper%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 58,
+    "filesize_mp3_bytes": 1876951,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "title": "South Park (GBC) (Unreleased)",
+  "titles_alternative": [
+    "Maya The Bee & Friends"
+  ],
+  "crawled_at": "2023-09-24T16:31:57.980579+00:00",
+  "slug": "south-park-gbc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/south-park-gbc",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/south-park-gbc/South%20Park.png"
+  ],
+  "year": 1999,
+  "date_added": "2022-06-20T00:00:00+00:00",
+  "developers": {
+    "Crawfish Interactive": "https://downloads.khinsider.com/game-soundtracks/developer/crawfish-interactive"
+  },
+  "publishers": {
+    "Acclaim Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/acclaim-entertainment"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4477419,
+      "filesize_mp3_bytes": 2128609,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 84,
+      "source_mp3": "https://vgmsite.com/soundtracks/south-park-gbc/pyaxsyyrgk/01%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/south-park-gbc/pyaxsyyrgk/01%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/south-park-gbc/01%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7539261,
+      "filesize_mp3_bytes": 3177185,
+      "track_number": 2,
+      "title": "On the Way to School ~ Cattle Ranch ~ Up the Mountain",
+      "runtime": 138,
+      "source_mp3": "https://vgmsite.com/soundtracks/south-park-gbc/rjfvnslfej/02%20On%20the%20Way%20to%20School%20~%20Cattle%20Ranch%20~%20Up%20the%20Mountain.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/south-park-gbc/rjfvnslfej/02%20On%20the%20Way%20to%20School%20~%20Cattle%20Ranch%20~%20Up%20the%20Mountain.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/south-park-gbc/02%2520On%2520the%2520Way%2520to%2520School%2520~%2520Cattle%2520Ranch%2520~%2520Up%2520the%2520Mountain.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8378122,
+      "filesize_mp3_bytes": 3617587,
+      "track_number": 3,
+      "title": "On the Bus ~ At School ~ At the Mall ~ Stan's House ~ Genetic Research Lab ~ Alien Spacecraft",
+      "runtime": 151,
+      "source_mp3": "https://vgmsite.com/soundtracks/south-park-gbc/kinyssvcie/03%20On%20the%20Bus%20~%20At%20School%20~%20At%20the%20Mall%20~%20Stan%27s%20House%20~%20Genetic%20Research%20Lab%20~%20Alien%20Spacecraft.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/south-park-gbc/kinyssvcie/03%20On%20the%20Bus%20~%20At%20School%20~%20At%20the%20Mall%20~%20Stan%27s%20House%20~%20Genetic%20Research%20Lab%20~%20Alien%20Spacecraft.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/south-park-gbc/03%2520On%2520the%2520Bus%2520~%2520At%2520School%2520~%2520At%2520the%2520Mall%2520~%2520Stan%2527s%2520House%2520~%2520Genetic%2520Research%2520Lab%2520~%2520Alien%2520Spacecraft.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 870318,
+      "filesize_mp3_bytes": 272629,
+      "track_number": 4,
+      "title": "The End",
+      "runtime": 13,
+      "source_mp3": "https://vgmsite.com/soundtracks/south-park-gbc/eputttscut/04%20The%20End.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/south-park-gbc/eputttscut/04%20The%20End.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/south-park-gbc/04%2520The%2520End.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 534773,
+      "filesize_mp3_bytes": 251658,
+      "track_number": 5,
+      "title": "Game Over",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/south-park-gbc/imqgpygwyc/05%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/south-park-gbc/imqgpygwyc/05%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/south-park-gbc/05%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 396,
+    "filesize_mp3_bytes": 9447668,
+    "filesize_flac_bytes": 21799893,
+    "tracks": 5
+  }
+}

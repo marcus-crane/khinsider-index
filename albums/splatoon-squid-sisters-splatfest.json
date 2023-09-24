@@ -1,0 +1,46 @@
+{
+  "title": "Splatoon - Squid Sisters - Splatfest",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T17:12:45.710868+00:00",
+  "slug": "splatoon-squid-sisters-splatfest",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/splatoon-squid-sisters-splatfest",
+  "platforms": {
+    "Wii U": "https://downloads.khinsider.com/game-soundtracks/nintendo-wii-u"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/splatoon-squid-sisters-splatfest/CIqANfhVAAANUzj22.png"
+  ],
+  "year": 2015,
+  "date_added": "2015-10-13T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5704253,
+      "track_number": 1,
+      "title": "Splatfest",
+      "runtime": 123,
+      "source_mp3": "https://vgmsite.com/soundtracks/splatoon-squid-sisters-splatfest/ikxureha/01%20Splatfest.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/splatoon-squid-sisters-splatfest/01%2520Splatfest.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5326766,
+      "track_number": 2,
+      "title": "Credits (Splatfest Version)",
+      "runtime": 113,
+      "source_mp3": "https://vgmsite.com/soundtracks/splatoon-squid-sisters-splatfest/pkfozkvo/02%20Credits%20%28Splatfest%20Version%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/splatoon-squid-sisters-splatfest/02%2520Credits%2520%2528Splatfest%2520Version%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 236,
+    "filesize_mp3_bytes": 11031019,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

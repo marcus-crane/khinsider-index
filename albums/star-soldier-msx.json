@@ -1,0 +1,111 @@
+{
+  "title": "Star Soldier",
+  "titles_alternative": [
+    "\u30b9\u30bf\u30fc\u30bd\u30eb\u30b8\u30e3\u30fc"
+  ],
+  "crawled_at": "2023-09-24T17:51:52.092926+00:00",
+  "slug": "star-soldier-msx",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/star-soldier-msx",
+  "platforms": {
+    "MSX": "https://downloads.khinsider.com/game-soundtracks/msx"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/star-soldier-msx/Star%20Soldier.png"
+  ],
+  "year": 1986,
+  "date_added": "2022-06-13T00:00:00+00:00",
+  "developers": {
+    "Hudson": "https://downloads.khinsider.com/game-soundtracks/developer/hudson"
+  },
+  "publishers": {
+    "Hudson": "https://downloads.khinsider.com/game-soundtracks/publisher/hudson"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 293601,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 1,
+      "title": "Start",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/star-soldier-msx/kywtajdvgx/01%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/star-soldier-msx/kywtajdvgx/01%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/star-soldier-msx/01%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4802478,
+      "filesize_mp3_bytes": 1646264,
+      "track_number": 2,
+      "title": "Main Theme",
+      "runtime": 87,
+      "source_mp3": "https://vgmsite.com/soundtracks/star-soldier-msx/iyncpbjndl/02%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/star-soldier-msx/iyncpbjndl/02%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/star-soldier-msx/02%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 199229,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 3,
+      "title": "Full Power-Up Intro",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/star-soldier-msx/lhrkvgdutn/03%20Full%20Power-Up%20Intro.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/star-soldier-msx/lhrkvgdutn/03%20Full%20Power-Up%20Intro.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/star-soldier-msx/03%2520Full%2520Power-Up%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5484052,
+      "filesize_mp3_bytes": 1855979,
+      "track_number": 4,
+      "title": "Full Power-Up",
+      "runtime": 90,
+      "source_mp3": "https://vgmsite.com/soundtracks/star-soldier-msx/gyjoaqlope/04%20Full%20Power-Up.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/star-soldier-msx/gyjoaqlope/04%20Full%20Power-Up.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/star-soldier-msx/04%2520Full%2520Power-Up.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2915041,
+      "filesize_mp3_bytes": 943718,
+      "track_number": 5,
+      "title": "Lazarus",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/star-soldier-msx/racqyudodh/05%20Lazarus.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/star-soldier-msx/racqyudodh/05%20Lazarus.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/star-soldier-msx/05%2520Lazarus.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1017118,
+      "filesize_mp3_bytes": 356515,
+      "track_number": 5,
+      "title": "Star Brain",
+      "runtime": 20,
+      "source_mp3": "https://vgmsite.com/soundtracks/star-soldier-msx/unfbzwivkt/05%20Star%20Brain.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/star-soldier-msx/unfbzwivkt/05%20Star%20Brain.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/star-soldier-msx/05%2520Star%2520Brain.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 335544,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 6,
+      "title": "Stage Clear",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/star-soldier-msx/zrwkccndmo/06%20Stage%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/star-soldier-msx/zrwkccndmo/06%20Stage%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/star-soldier-msx/06%2520Stage%2520Clear.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 261,
+    "filesize_mp3_bytes": 5096076,
+    "filesize_flac_bytes": 15047063,
+    "tracks": 7
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "title": "Spongebob Squarepants Spongeseek",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T17:22:13.372973+00:00",
+  "slug": "spongebob-squarepants-spongeseek-flash-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/spongebob-squarepants-spongeseek-flash-gamerip",
+  "platforms": {
+    "Online": "https://downloads.khinsider.com/game-soundtracks/online"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/spongebob-squarepants-spongeseek-flash-gamerip/1C4D3F5A-062B-4515-8A94-2F5F07A1B48A.png"
+  ],
+  "date_added": "2020-08-19T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 361,
+      "title": "Track 361",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/spongebob-squarepants-spongeseek-flash-gamerip/ytxvtjfvaw/361.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/spongebob-squarepants-spongeseek-flash-gamerip/361.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10485,
+      "track_number": 470,
+      "title": "Track 470",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/spongebob-squarepants-spongeseek-flash-gamerip/jlvttefcso/470.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/spongebob-squarepants-spongeseek-flash-gamerip/470.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 12,
+    "filesize_mp3_bytes": 52428,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

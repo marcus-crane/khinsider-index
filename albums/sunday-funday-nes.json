@@ -1,0 +1,54 @@
+{
+  "title": "Sunday Funday",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T19:39:53.717683+00:00",
+  "slug": "sunday-funday-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/sunday-funday-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/sunday-funday-nes/SF.jpg"
+  ],
+  "year": 1985,
+  "date_added": "2022-06-22T00:00:00+00:00",
+  "developers": {
+    "Color Dreams": "https://downloads.khinsider.com/game-soundtracks/developer/color-dreams"
+  },
+  "publishers": {
+    "Wisdom Tree": "https://downloads.khinsider.com/game-soundtracks/publisher/wisdom-tree"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2967470,
+      "filesize_mp3_bytes": 1939865,
+      "track_number": 1,
+      "title": "Menu Theme",
+      "runtime": 78,
+      "source_mp3": "https://vgmsite.com/soundtracks/sunday-funday-nes/xguectgqbq/01%20Menu%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sunday-funday-nes/xguectgqbq/01%20Menu%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sunday-funday-nes/01%2520Menu%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8252293,
+      "filesize_mp3_bytes": 4110417,
+      "track_number": 2,
+      "title": "Ride Of Life",
+      "runtime": 176,
+      "source_mp3": "https://vgmsite.com/soundtracks/sunday-funday-nes/kuihuhuvxp/02%20Ride%20Of%20Life.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sunday-funday-nes/kuihuhuvxp/02%20Ride%20Of%20Life.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sunday-funday-nes/02%2520Ride%2520Of%2520Life.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 254,
+    "filesize_mp3_bytes": 6050282,
+    "filesize_flac_bytes": 11219763,
+    "tracks": 2
+  }
+}

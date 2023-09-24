@@ -1,0 +1,62 @@
+{
+  "title": "Slendytubbies Classic",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T14:49:22.573353+00:00",
+  "slug": "slendytubbies-classic-windows-gamerip-2012",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/slendytubbies-classic-windows-gamerip-2012",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/slendytubbies-classic-windows-gamerip-2012/Cover.png"
+  ],
+  "year": 2012,
+  "date_added": "2023-07-28T00:00:00+00:00",
+  "developers": {
+    "ZeoWorks": "https://downloads.khinsider.com/game-soundtracks/developer/zeoworks"
+  },
+  "publishers": {
+    "ZeoWorks": "https://downloads.khinsider.com/game-soundtracks/publisher/zeoworks"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 377487,
+      "track_number": 1,
+      "title": "Custard Collected",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/slendytubbies-classic-windows-gamerip-2012/unohbcyrln/01.%20Custard%20Collected.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/slendytubbies-classic-windows-gamerip-2012/01.%2520Custard%2520Collected.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3680501,
+      "track_number": 2,
+      "title": "Slendytubbies Theme",
+      "runtime": 124,
+      "source_mp3": "https://vgmsite.com/soundtracks/slendytubbies-classic-windows-gamerip-2012/qixsawkrbf/02.%20Slendytubbies%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/slendytubbies-classic-windows-gamerip-2012/02.%2520Slendytubbies%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1814036,
+      "track_number": 3,
+      "title": "The Main Land",
+      "runtime": 60,
+      "source_mp3": "https://vgmsite.com/soundtracks/slendytubbies-classic-windows-gamerip-2012/iqsfuvdsru/03.%20The%20Main%20Land.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/slendytubbies-classic-windows-gamerip-2012/03.%2520The%2520Main%2520Land.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 194,
+    "filesize_mp3_bytes": 5872024,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

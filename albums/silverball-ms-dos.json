@@ -1,0 +1,126 @@
+{
+  "title": "Silverball",
+  "titles_alternative": [
+    "Silverball: The Future of Pinball"
+  ],
+  "crawled_at": "2023-09-24T14:06:42.307010+00:00",
+  "slug": "silverball-ms-dos",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/silverball-ms-dos",
+  "platforms": {
+    "MS-DOS": "https://downloads.khinsider.com/game-soundtracks/ms-dos"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/silverball-ms-dos/S1.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2017-07-05T00:00:00+00:00",
+  "developers": {
+    "Digital Extremes": "https://downloads.khinsider.com/game-soundtracks/developer/digital-extremes",
+    "Epic": "https://downloads.khinsider.com/game-soundtracks/developer/epic"
+  },
+  "publishers": {
+    "MicroLeague": "https://downloads.khinsider.com/game-soundtracks/publisher/microleague",
+    "Team 17": "https://downloads.khinsider.com/game-soundtracks/publisher/team-17"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3848273,
+      "track_number": 1,
+      "title": "Main Menu",
+      "runtime": 121,
+      "source_mp3": "https://vgmsite.com/soundtracks/silverball-ms-dos/mebhxdqh/01_Main%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/silverball-ms-dos/01_Main%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5662310,
+      "track_number": 2,
+      "title": "Fantasy",
+      "runtime": 174,
+      "source_mp3": "https://vgmsite.com/soundtracks/silverball-ms-dos/pcxndveu/02_Fantasy.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/silverball-ms-dos/02_Fantasy.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5546967,
+      "track_number": 3,
+      "title": "Blood",
+      "runtime": 173,
+      "source_mp3": "https://vgmsite.com/soundtracks/silverball-ms-dos/kijiquid/03_Blood.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/silverball-ms-dos/03_Blood.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4414504,
+      "track_number": 4,
+      "title": "Snooker Champ",
+      "runtime": 137,
+      "source_mp3": "https://vgmsite.com/soundtracks/silverball-ms-dos/payzsbth/04_Snooker%20Champ.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/silverball-ms-dos/04_Snooker%2520Champ.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7224688,
+      "track_number": 5,
+      "title": "Odyssey",
+      "runtime": 223,
+      "source_mp3": "https://vgmsite.com/soundtracks/silverball-ms-dos/phypntam/05_Odyssey.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/silverball-ms-dos/05_Odyssey.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3806330,
+      "track_number": 6,
+      "title": "Duel",
+      "runtime": 121,
+      "source_mp3": "https://vgmsite.com/soundtracks/silverball-ms-dos/lnozelxa/06_Duel.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/silverball-ms-dos/06_Duel.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5620367,
+      "track_number": 7,
+      "title": "Warbot",
+      "runtime": 179,
+      "source_mp3": "https://vgmsite.com/soundtracks/silverball-ms-dos/ckizvdyp/07_Warbot.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/silverball-ms-dos/07_Warbot.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6144655,
+      "track_number": 8,
+      "title": "Nova v1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/silverball-ms-dos/fvnafmxz/08_Nova%20v1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/silverball-ms-dos/08_Nova%2520v1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4351590,
+      "track_number": 9,
+      "title": "Nova v2",
+      "runtime": 145,
+      "source_mp3": "https://vgmsite.com/soundtracks/silverball-ms-dos/xsjmyunc/09_Nova%20v2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/silverball-ms-dos/09_Nova%2520v2.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1453,
+    "filesize_mp3_bytes": 46619684,
+    "filesize_flac_bytes": 0,
+    "tracks": 9
+  }
+}

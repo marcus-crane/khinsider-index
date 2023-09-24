@@ -1,0 +1,56 @@
+{
+  "title": "Streamlined (Original Game Soundtrack)",
+  "titles_alternative": [
+    "Roblox"
+  ],
+  "crawled_at": "2023-09-24T18:43:22.843297+00:00",
+  "slug": "streamlined-original-game-soundtrack-2020",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/streamlined-original-game-soundtrack-2020",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows",
+    "Xbox One": "https://downloads.khinsider.com/game-soundtracks/xbox-one"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/streamlined-original-game-soundtrack-2020/Streamlined%20%28Original%20Game%20Soundtrack%29.jpg"
+  ],
+  "year": 2020,
+  "catalog_number": null,
+  "date_added": "2022-07-26T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Manel Navola (Amazon)": "https://downloads.khinsider.com/game-soundtracks/publisher/manel-navola-amazon"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5746196,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 357,
+      "source_mp3": "https://vgmsite.com/soundtracks/streamlined-original-game-soundtrack-2020/sdscrgiplg/01%20-%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/streamlined-original-game-soundtrack-2020/01%2520-%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2275409,
+      "track_number": 2,
+      "title": "Christmas Theme",
+      "runtime": 140,
+      "source_mp3": "https://vgmsite.com/soundtracks/streamlined-original-game-soundtrack-2020/ymtggwyzbo/02%20-%20Christmas%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/streamlined-original-game-soundtrack-2020/02%2520-%2520Christmas%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 497,
+    "filesize_mp3_bytes": 8021605,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Speedball 2",
+  "titles_alternative": [
+    "Speedball 2: Brutal Deluxe",
+    "\u30b9\u30d4\u30fc\u30c9\u30dc\u30fc\u30eb\uff12"
+  ],
+  "crawled_at": "2023-09-24T16:52:53.855382+00:00",
+  "slug": "speedball-2-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/speedball-2-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/speedball-2-amiga/coverart.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2018-06-08T00:00:00+00:00",
+  "developers": {
+    "The Bitmap Brothers": "https://downloads.khinsider.com/game-soundtracks/developer/the-bitmap-brothers"
+  },
+  "publishers": {
+    "Image Works": "https://downloads.khinsider.com/game-soundtracks/publisher/image-works",
+    "Kixx": "https://downloads.khinsider.com/game-soundtracks/publisher/kixx",
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6092226,
+      "track_number": 1,
+      "title": "Brutal Deluxe (Title Screen)",
+      "runtime": 177,
+      "source_mp3": "https://vgmsite.com/soundtracks/speedball-2-amiga/uypsipnk/01_Brutal%20Deluxe%20%28Title%20Screen%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/speedball-2-amiga/01_Brutal%2520Deluxe%2520%2528Title%2520Screen%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 849346,
+      "track_number": 2,
+      "title": "Game End",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/speedball-2-amiga/imsazbvn/02_Game%20End.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/speedball-2-amiga/02_Game%2520End.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 786432,
+      "track_number": 3,
+      "title": "Season End",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/speedball-2-amiga/cvlxjouu/03_Season%20End.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/speedball-2-amiga/03_Season%2520End.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 189,
+    "filesize_mp3_bytes": 7728004,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

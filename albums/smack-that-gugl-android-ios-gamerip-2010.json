@@ -1,0 +1,88 @@
+{
+  "title": "Smack That Gugl",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T14:56:08.374838+00:00",
+  "slug": "smack-that-gugl-android-ios-gamerip-2010",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/smack-that-gugl-android-ios-gamerip-2010",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/smack-that-gugl-android-ios-gamerip-2010/when-gugl-smacks-you-right-in-the-feels-i-so-wish-the-v0-998vbh2hx5oa1.png"
+  ],
+  "year": 2010,
+  "date_added": "2023-08-24T00:00:00+00:00",
+  "developers": {
+    "Tayasui": "https://downloads.khinsider.com/game-soundtracks/developer/tayasui"
+  },
+  "publishers": {
+    "Tayasui": "https://downloads.khinsider.com/game-soundtracks/publisher/tayasui"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 73400,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 1,
+      "title": "Failed1",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/smack-that-gugl-android-ios-gamerip-2010/ncoowdonac/01.%20Failed1.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/smack-that-gugl-android-ios-gamerip-2010/ncoowdonac/01.%20Failed1.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/smack-that-gugl-android-ios-gamerip-2010/01.%2520Failed1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 73400,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 2,
+      "title": "Failed2",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/smack-that-gugl-android-ios-gamerip-2010/mwqbpcivvx/02.%20Failed2.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/smack-that-gugl-android-ios-gamerip-2010/mwqbpcivvx/02.%20Failed2.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/smack-that-gugl-android-ios-gamerip-2010/02.%2520Failed2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 52428,
+      "filesize_mp3_bytes": 10485,
+      "track_number": 3,
+      "title": "Failed3",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/smack-that-gugl-android-ios-gamerip-2010/woqssciugc/03.%20Failed3.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/smack-that-gugl-android-ios-gamerip-2010/woqssciugc/03.%20Failed3.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/smack-that-gugl-android-ios-gamerip-2010/03.%2520Failed3.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 115343,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 4,
+      "title": "Hiscore",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/smack-that-gugl-android-ios-gamerip-2010/wqfjweetqy/04.%20Hiscore.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/smack-that-gugl-android-ios-gamerip-2010/wqfjweetqy/04.%20Hiscore.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/smack-that-gugl-android-ios-gamerip-2010/04.%2520Hiscore.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6333399,
+      "filesize_mp3_bytes": 1782579,
+      "track_number": 5,
+      "title": "Music",
+      "runtime": 116,
+      "source_mp3": "https://vgmsite.com/soundtracks/smack-that-gugl-android-ios-gamerip-2010/hwutcllfdz/05.%20Music.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/smack-that-gugl-android-ios-gamerip-2010/hwutcllfdz/05.%20Music.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/smack-that-gugl-android-ios-gamerip-2010/05.%2520Music.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 127,
+    "filesize_mp3_bytes": 1897921,
+    "filesize_flac_bytes": 6647970,
+    "tracks": 5
+  }
+}

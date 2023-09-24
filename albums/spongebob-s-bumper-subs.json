@@ -1,0 +1,33 @@
+{
+  "title": "Spongebob's Bumper Subs",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T17:18:05.716590+00:00",
+  "slug": "spongebob-s-bumper-subs",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/spongebob-s-bumper-subs",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/spongebob-s-bumper-subs/6147B259-1CBD-4731-9C61-342763A3221A.jpeg"
+  ],
+  "date_added": "2020-07-31T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 23,
+      "source_mp3": "https://vgmsite.com/soundtracks/spongebob-s-bumper-subs/zhpbfswech/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/spongebob-s-bumper-subs/01.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 23,
+    "filesize_mp3_bytes": 41943,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "title": "Spec Ops - Stealth Patrol",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T16:48:25.469991+00:00",
+  "slug": "spec-ops-stealth-patrol-2000-psx",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/spec-ops-stealth-patrol-2000-psx",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/spec-ops-stealth-patrol-2000-psx/SO1.jpg"
+  ],
+  "year": 2000,
+  "date_added": "2020-08-23T00:00:00+00:00",
+  "developers": {
+    "Runecraft": "https://downloads.khinsider.com/game-soundtracks/developer/runecraft"
+  },
+  "publishers": {
+    "Take-Two Interactive": "https://downloads.khinsider.com/game-soundtracks/publisher/take-two-interactive",
+    "TalonSoft": "https://downloads.khinsider.com/game-soundtracks/publisher/talonsoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6322913,
+      "filesize_mp3_bytes": 2296381,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 82,
+      "source_mp3": "https://vgmsite.com/soundtracks/spec-ops-stealth-patrol-2000-psx/wpwrixuinb/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/spec-ops-stealth-patrol-2000-psx/wpwrixuinb/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/spec-ops-stealth-patrol-2000-psx/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6826229,
+      "filesize_mp3_bytes": 2338324,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 87,
+      "source_mp3": "https://vgmsite.com/soundtracks/spec-ops-stealth-patrol-2000-psx/jvkmivzcdl/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/spec-ops-stealth-patrol-2000-psx/jvkmivzcdl/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/spec-ops-stealth-patrol-2000-psx/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 15476981,
+      "filesize_mp3_bytes": 5442109,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 186,
+      "source_mp3": "https://vgmsite.com/soundtracks/spec-ops-stealth-patrol-2000-psx/vmhhtjlipd/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/spec-ops-stealth-patrol-2000-psx/vmhhtjlipd/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/spec-ops-stealth-patrol-2000-psx/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4875878,
+      "filesize_mp3_bytes": 1677721,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 57,
+      "source_mp3": "https://vgmsite.com/soundtracks/spec-ops-stealth-patrol-2000-psx/nbkqoioxzd/04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/spec-ops-stealth-patrol-2000-psx/nbkqoioxzd/04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/spec-ops-stealth-patrol-2000-psx/04.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 412,
+    "filesize_mp3_bytes": 11754535,
+    "filesize_flac_bytes": 33502001,
+    "tracks": 4
+  }
+}

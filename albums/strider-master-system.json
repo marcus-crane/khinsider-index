@@ -1,0 +1,82 @@
+{
+  "title": "Strider",
+  "titles_alternative": [
+    "Strider Hiry\u016b",
+    "\u30b9\u30c8\u30e9\u30a4\u30c0\u30fc\u98db\u7adc",
+    "\u7a81\u6483\u98db\u9f8d",
+    "\uc2a4\ud2b8\ub77c\uc774\ub354 \ube44\ub8e1"
+  ],
+  "crawled_at": "2023-09-24T19:15:45.182697+00:00",
+  "slug": "strider-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/strider-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/strider-master-system/S1.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2019-09-05T00:00:00+00:00",
+  "developers": {
+    "Capcom": "https://downloads.khinsider.com/game-soundtracks/developer/capcom",
+    "Tiertex": "https://downloads.khinsider.com/game-soundtracks/developer/tiertex"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6899630,
+      "filesize_mp3_bytes": 2202009,
+      "track_number": 1,
+      "title": "Strider",
+      "runtime": 118,
+      "source_mp3": "https://vgmsite.com/soundtracks/strider-master-system/qbpfqekqfy/01%20-%20Strider.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/strider-master-system/qbpfqekqfy/01%20-%20Strider.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/strider-master-system/01%2520-%2520Strider.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 377487,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 2,
+      "title": "Prelude",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/strider-master-system/kxnhsxwbiy/02%20-%20Prelude.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/strider-master-system/kxnhsxwbiy/02%20-%20Prelude.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/strider-master-system/02%2520-%2520Prelude.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2464153,
+      "filesize_mp3_bytes": 849346,
+      "track_number": 3,
+      "title": "Boss Theme",
+      "runtime": 46,
+      "source_mp3": "https://vgmsite.com/soundtracks/strider-master-system/iyqgkvcphg/03%20-%20Boss%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/strider-master-system/iyqgkvcphg/03%20-%20Boss%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/strider-master-system/03%2520-%2520Boss%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 346030,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 4,
+      "title": "Stage Clear",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/strider-master-system/tpbkrytupo/04%20-%20Stage%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/strider-master-system/tpbkrytupo/04%20-%20Stage%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/strider-master-system/04%2520-%2520Stage%2520Clear.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 175,
+    "filesize_mp3_bytes": 3261069,
+    "filesize_flac_bytes": 10087300,
+    "tracks": 4
+  }
+}

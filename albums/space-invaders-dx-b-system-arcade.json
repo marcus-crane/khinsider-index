@@ -1,0 +1,100 @@
+{
+  "title": "Space Invaders DX (B System)",
+  "titles_alternative": [
+    "\u30b9\u30da\u30fc\u30b9\u30a4\u30f3\u30d9\u30fc\u30c0\u30fcDX"
+  ],
+  "crawled_at": "2023-09-24T16:40:58.436244+00:00",
+  "slug": "space-invaders-dx-b-system-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/space-invaders-dx-b-system-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/space-invaders-dx-b-system-arcade/S1.jpg"
+  ],
+  "year": 1994,
+  "date_added": "2022-06-04T00:00:00+00:00",
+  "developers": {
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/developer/taito"
+  },
+  "publishers": {
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/publisher/taito"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1835008,
+      "filesize_mp3_bytes": 723517,
+      "track_number": 1,
+      "title": "Title Demo",
+      "runtime": 35,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-invaders-dx-b-system-arcade/mkuhpfjyna/01%20Title%20Demo.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/space-invaders-dx-b-system-arcade/mkuhpfjyna/01%20Title%20Demo.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-invaders-dx-b-system-arcade/01%2520Title%2520Demo.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 62914,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 2,
+      "title": "Coin",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-invaders-dx-b-system-arcade/wmwcljzkzu/02%20Coin.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/space-invaders-dx-b-system-arcade/wmwcljzkzu/02%20Coin.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-invaders-dx-b-system-arcade/02%2520Coin.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2243952,
+      "filesize_mp3_bytes": 870318,
+      "track_number": 3,
+      "title": "Select Play Mode",
+      "runtime": 42,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-invaders-dx-b-system-arcade/lhagzyvqas/03%20Select%20Play%20Mode.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/space-invaders-dx-b-system-arcade/lhagzyvqas/03%20Select%20Play%20Mode.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-invaders-dx-b-system-arcade/03%2520Select%2520Play%2520Mode.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1205862,
+      "filesize_mp3_bytes": 524288,
+      "track_number": 4,
+      "title": "VS Mode",
+      "runtime": 26,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-invaders-dx-b-system-arcade/vhyaimeirx/04%20VS%20Mode.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/space-invaders-dx-b-system-arcade/vhyaimeirx/04%20VS%20Mode.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-invaders-dx-b-system-arcade/04%2520VS%2520Mode.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 188743,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 5,
+      "title": "Win",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-invaders-dx-b-system-arcade/sdagvmpezh/05%20Win.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/space-invaders-dx-b-system-arcade/sdagvmpezh/05%20Win.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-invaders-dx-b-system-arcade/05%2520Win.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1709178,
+      "filesize_mp3_bytes": 723517,
+      "track_number": 6,
+      "title": "Unused",
+      "runtime": 34,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-invaders-dx-b-system-arcade/kakqlubrlz/06%20Unused.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/space-invaders-dx-b-system-arcade/kakqlubrlz/06%20Unused.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-invaders-dx-b-system-arcade/06%2520Unused.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 142,
+    "filesize_mp3_bytes": 2936011,
+    "filesize_flac_bytes": 7245657,
+    "tracks": 6
+  }
+}

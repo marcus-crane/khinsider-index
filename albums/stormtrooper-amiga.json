@@ -1,0 +1,52 @@
+{
+  "title": "Stormtrooper",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T18:39:09.836809+00:00",
+  "slug": "stormtrooper-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/stormtrooper-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/stormtrooper-amiga/S1.png"
+  ],
+  "year": 1988,
+  "date_added": "2018-04-17T00:00:00+00:00",
+  "developers": {
+    "Creation": "https://downloads.khinsider.com/game-soundtracks/developer/creation"
+  },
+  "publishers": {
+    "Creation": "https://downloads.khinsider.com/game-soundtracks/publisher/creation"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9479127,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 273,
+      "source_mp3": "https://vgmsite.com/soundtracks/stormtrooper-amiga/cyslnvbu/01_Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stormtrooper-amiga/01_Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4466933,
+      "track_number": 2,
+      "title": "Name Entry",
+      "runtime": 125,
+      "source_mp3": "https://vgmsite.com/soundtracks/stormtrooper-amiga/zcfwyruz/02_Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stormtrooper-amiga/02_Name%2520Entry.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 398,
+    "filesize_mp3_bytes": 13946060,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

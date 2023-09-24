@@ -1,0 +1,95 @@
+{
+  "title": "Space Shadow",
+  "titles_alternative": [
+    "\u30b9\u30da\u30fc\u30b9\u30b7\u30e3\u30c9\u30fc"
+  ],
+  "crawled_at": "2023-09-24T16:44:21.861171+00:00",
+  "slug": "space-shadow-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/space-shadow-nes",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/space-shadow-nes/Space%20Shadow.jpg"
+  ],
+  "year": 1988,
+  "date_added": "2017-01-23T00:00:00+00:00",
+  "developers": {
+    "Bandai": "https://downloads.khinsider.com/game-soundtracks/developer/bandai"
+  },
+  "publishers": {
+    "Bandai": "https://downloads.khinsider.com/game-soundtracks/publisher/bandai"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4183818,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 122,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-shadow-nes/bluzknjy/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-shadow-nes/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2359296,
+      "track_number": 2,
+      "title": "Game Theme",
+      "runtime": 65,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-shadow-nes/eornhdix/02_Game%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-shadow-nes/02_Game%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2327838,
+      "track_number": 3,
+      "title": "Suspenseful Area",
+      "runtime": 61,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-shadow-nes/flcovchj/03_Suspenseful%20Area.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-shadow-nes/03_Suspenseful%2520Area.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1971322,
+      "track_number": 4,
+      "title": "Boss Battle",
+      "runtime": 54,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-shadow-nes/fwsulqmd/04_Boss%20Battle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-shadow-nes/04_Boss%2520Battle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 167772,
+      "track_number": 5,
+      "title": "Game Over",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-shadow-nes/emnmyhpb/05_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-shadow-nes/05_Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2264924,
+      "track_number": 6,
+      "title": "Ending",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-shadow-nes/wzqtlobp/06_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-shadow-nes/06_Ending.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 372,
+    "filesize_mp3_bytes": 13274970,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

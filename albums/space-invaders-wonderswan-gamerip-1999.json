@@ -1,0 +1,44 @@
+{
+  "title": "Space Invaders (WonderSwan)",
+  "titles_alternative": [
+    "\u30b9\u30da\u30fc\u30b9\u30a4\u30f3\u30d9\u30fc\u30c0\u30fc"
+  ],
+  "crawled_at": "2023-09-24T16:42:25.071228+00:00",
+  "slug": "space-invaders-wonderswan-gamerip-1999",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/space-invaders-wonderswan-gamerip-1999",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/space-invaders-wonderswan-gamerip-1999/Space%20Invaders%20Cover.jpg"
+  ],
+  "year": 1999,
+  "date_added": "2022-12-26T00:00:00+00:00",
+  "developers": {
+    "Sunsoft": "https://downloads.khinsider.com/game-soundtracks/developer/sunsoft",
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/developer/taito"
+  },
+  "publishers": {
+    "Sunsoft": "https://downloads.khinsider.com/game-soundtracks/publisher/sunsoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1163919,
+      "filesize_mp3_bytes": 398458,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 21,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-invaders-wonderswan-gamerip-1999/eukemyvgba/01%20Intro.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/space-invaders-wonderswan-gamerip-1999/eukemyvgba/01%20Intro.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-invaders-wonderswan-gamerip-1999/01%2520Intro.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 21,
+    "filesize_mp3_bytes": 398458,
+    "filesize_flac_bytes": 1163919,
+    "tracks": 1
+  }
+}

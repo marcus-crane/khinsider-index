@@ -1,0 +1,80 @@
+{
+  "title": "The Simpsons: Bart's Nightmare",
+  "titles_alternative": [
+    "Bart no Fushigi na Yume no Daib\u014dken",
+    "\u30d0\u30fc\u30c8\u306e\u4e0d\u601d\u8b70\u306a\u5922\u306e\u5927\u5192\u967a"
+  ],
+  "crawled_at": "2023-09-24T14:15:19.760501+00:00",
+  "slug": "simpsons-the-bart-s-nightmare-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/simpsons-the-bart-s-nightmare-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/simpsons-the-bart-s-nightmare-genesis/B1.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2020-03-23T00:00:00+00:00",
+  "developers": {
+    "Sculptured": "https://downloads.khinsider.com/game-soundtracks/developer/sculptured"
+  },
+  "publishers": {
+    "Flying Edge": "https://downloads.khinsider.com/game-soundtracks/publisher/flying-edge",
+    "Tectoy": "https://downloads.khinsider.com/game-soundtracks/publisher/tectoy"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 16462643,
+      "filesize_mp3_bytes": 6700400,
+      "track_number": 1,
+      "title": "Opening Theme",
+      "runtime": 291,
+      "source_mp3": "https://vgmsite.com/soundtracks/simpsons-the-bart-s-nightmare-genesis/aqgrqbnekd/01%20-%20Opening%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/simpsons-the-bart-s-nightmare-genesis/aqgrqbnekd/01%20-%20Opening%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/simpsons-the-bart-s-nightmare-genesis/01%2520-%2520Opening%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11209277,
+      "filesize_mp3_bytes": 4844421,
+      "track_number": 2,
+      "title": "Main Theme",
+      "runtime": 237,
+      "source_mp3": "https://vgmsite.com/soundtracks/simpsons-the-bart-s-nightmare-genesis/ryurxokzth/02%20-%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/simpsons-the-bart-s-nightmare-genesis/ryurxokzth/02%20-%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/simpsons-the-bart-s-nightmare-genesis/02%2520-%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5494538,
+      "filesize_mp3_bytes": 1992294,
+      "track_number": 3,
+      "title": "Itchy & Scratchy",
+      "runtime": 108,
+      "source_mp3": "https://vgmsite.com/soundtracks/simpsons-the-bart-s-nightmare-genesis/vdlhnbqxgv/03%20-%20Itchy%20%26%20Scratchy.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/simpsons-the-bart-s-nightmare-genesis/vdlhnbqxgv/03%20-%20Itchy%20%26%20Scratchy.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/simpsons-the-bart-s-nightmare-genesis/03%2520-%2520Itchy%2520%2526%2520Scratchy.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7612661,
+      "filesize_mp3_bytes": 2684354,
+      "track_number": 4,
+      "title": "Bartman",
+      "runtime": 145,
+      "source_mp3": "https://vgmsite.com/soundtracks/simpsons-the-bart-s-nightmare-genesis/rjwlcrbnfo/04%20-%20Bartman.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/simpsons-the-bart-s-nightmare-genesis/rjwlcrbnfo/04%20-%20Bartman.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/simpsons-the-bart-s-nightmare-genesis/04%2520-%2520Bartman.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 781,
+    "filesize_mp3_bytes": 16221469,
+    "filesize_flac_bytes": 40779119,
+    "tracks": 4
+  }
+}

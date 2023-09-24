@@ -1,0 +1,50 @@
+{
+  "title": "Space Shuttle (Williams Pinball)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T16:44:28.588419+00:00",
+  "slug": "space-shuttle-williams-pinball-gamerip-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/space-shuttle-williams-pinball-gamerip-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/space-shuttle-williams-pinball-gamerip-arcade/backglass.png"
+  ],
+  "year": 1984,
+  "date_added": "2022-06-12T00:00:00+00:00",
+  "developers": {
+    "Williams": "https://downloads.khinsider.com/game-soundtracks/developer/williams"
+  },
+  "publishers": {
+    "Williams": "https://downloads.khinsider.com/game-soundtracks/publisher/williams"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2243952,
+      "title": "Main Play",
+      "runtime": 65,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-shuttle-williams-pinball-gamerip-arcade/lcimgosxnf/Main%20Play.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-shuttle-williams-pinball-gamerip-arcade/Main%2520Play.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2317352,
+      "title": "Multiball",
+      "runtime": 67,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-shuttle-williams-pinball-gamerip-arcade/lwcodspyra/Multiball.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-shuttle-williams-pinball-gamerip-arcade/Multiball.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 132,
+    "filesize_mp3_bytes": 4561304,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

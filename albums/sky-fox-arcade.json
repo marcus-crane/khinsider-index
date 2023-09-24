@@ -1,0 +1,101 @@
+{
+  "title": "Sky Fox",
+  "titles_alternative": [
+    "Exerizer",
+    "\u30a8\u30af\u30bb\u30e9\u30a4\u30b6\u30fc"
+  ],
+  "crawled_at": "2023-09-24T14:32:12.845463+00:00",
+  "slug": "sky-fox-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/sky-fox-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/sky-fox-arcade/Exerizer.png"
+  ],
+  "year": 1987,
+  "date_added": "2022-06-01T00:00:00+00:00",
+  "developers": {
+    "Jaleco": "https://downloads.khinsider.com/game-soundtracks/developer/jaleco"
+  },
+  "publishers": {
+    "Jaleco": "https://downloads.khinsider.com/game-soundtracks/publisher/jaleco"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 41943,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 1,
+      "title": "Credit",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/sky-fox-arcade/mqxgyuowrs/01%20Credit.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sky-fox-arcade/mqxgyuowrs/01%20Credit.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sky-fox-arcade/01%2520Credit.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9563013,
+      "filesize_mp3_bytes": 3491758,
+      "track_number": 2,
+      "title": "BGM 1",
+      "runtime": 157,
+      "source_mp3": "https://vgmsite.com/soundtracks/sky-fox-arcade/xlobtcfumz/02%20BGM%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sky-fox-arcade/xlobtcfumz/02%20BGM%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sky-fox-arcade/02%2520BGM%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1740636,
+      "filesize_mp3_bytes": 817889,
+      "track_number": 3,
+      "title": "BGM 2",
+      "runtime": 34,
+      "source_mp3": "https://vgmsite.com/soundtracks/sky-fox-arcade/pwrsxlfwsu/03%20BGM%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sky-fox-arcade/pwrsxlfwsu/03%20BGM%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sky-fox-arcade/03%2520BGM%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 199229,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/sky-fox-arcade/lmbcfkdkhz/04%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sky-fox-arcade/lmbcfkdkhz/04%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sky-fox-arcade/04%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2569011,
+      "filesize_mp3_bytes": 975175,
+      "track_number": 5,
+      "title": "Name Entry",
+      "runtime": 45,
+      "source_mp3": "https://vgmsite.com/soundtracks/sky-fox-arcade/mxrdrcnuwf/05%20Name%20Entry.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sky-fox-arcade/mxrdrcnuwf/05%20Name%20Entry.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sky-fox-arcade/05%2520Name%2520Entry.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2715811,
+      "filesize_mp3_bytes": 1017118,
+      "track_number": 6,
+      "title": "Unused Name Entry Ver 2",
+      "runtime": 45,
+      "source_mp3": "https://vgmsite.com/soundtracks/sky-fox-arcade/fhnnmfbugl/06%20Unused%20Name%20Entry%20Ver%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sky-fox-arcade/fhnnmfbugl/06%20Unused%20Name%20Entry%20Ver%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sky-fox-arcade/06%2520Unused%2520Name%2520Entry%2520Ver%25202.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 286,
+    "filesize_mp3_bytes": 6406797,
+    "filesize_flac_bytes": 16829643,
+    "tracks": 6
+  }
+}

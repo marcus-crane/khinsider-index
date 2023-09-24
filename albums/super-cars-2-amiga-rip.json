@@ -1,0 +1,59 @@
+{
+  "title": "Super Cars 2",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T19:53:20.929871+00:00",
+  "slug": "super-cars-2-amiga-rip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/super-cars-2-amiga-rip",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/super-cars-2-amiga-rip/S1.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2006-11-25T00:00:00+00:00",
+  "developers": {
+    "Magnetic Fields": "https://downloads.khinsider.com/game-soundtracks/developer/magnetic-fields"
+  },
+  "publishers": {
+    "Gremlin Graphics": "https://downloads.khinsider.com/game-soundtracks/publisher/gremlin-graphics"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 398458,
+      "title": "Super Cars 2 00 Magnetic Fields",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-cars-2-amiga-rip/tsyczlzi/Super%20Cars%202%2000%20Magnetic%20Fields.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-cars-2-amiga-rip/Super%2520Cars%25202%252000%2520Magnetic%2520Fields.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 13033799,
+      "title": "Super Cars 2 01 Ecran Titre",
+      "runtime": 326,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-cars-2-amiga-rip/avshsrib/Super%20Cars%202%2001%20Ecran%20Titre.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-cars-2-amiga-rip/Super%2520Cars%25202%252001%2520Ecran%2520Titre.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 19870515,
+      "title": "Super Cars 2 02 Theme",
+      "runtime": 497,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-cars-2-amiga-rip/naffukfl/Super%20Cars%202%2002%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-cars-2-amiga-rip/Super%2520Cars%25202%252002%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 833,
+    "filesize_mp3_bytes": 33302772,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

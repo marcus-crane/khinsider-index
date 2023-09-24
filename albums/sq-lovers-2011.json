@@ -1,0 +1,63 @@
+{
+  "title": "SQ Lovers",
+  "titles_alternative": [
+    "SQ Lovers \u30ad\u30e3\u30f3\u30da\u30fc\u30f3\u7279\u5178CD",
+    "SQ Lovers Campaign Tokuten CD",
+    "SQ Lovers Campaign Bonus CD"
+  ],
+  "crawled_at": "2023-09-24T17:35:24.445346+00:00",
+  "slug": "sq-lovers-2011",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/sq-lovers-2011",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes",
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation",
+    "PS3": "https://downloads.khinsider.com/game-soundtracks/playstation-3",
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes",
+    "Xbox 360": "https://downloads.khinsider.com/game-soundtracks/xbox-360"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/sq-lovers-2011/01.jpg"
+  ],
+  "year": 2011,
+  "catalog_number": "SQMEGAMIX-2011",
+  "date_added": "2022-08-29T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Square Enix": "https://downloads.khinsider.com/game-soundtracks/publisher/square-enix"
+  },
+  "genres": {
+    "Remix": "https://downloads.khinsider.com/game-soundtracks/remixes"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 106619207,
+      "filesize_mp3_bytes": 25050480,
+      "track_number": 1,
+      "title": "SQ MEGAMIX Ver. S",
+      "runtime": 764,
+      "source_mp3": "https://vgmsite.com/soundtracks/sq-lovers-2011/qtwhrwalnu/01%20-%20SQ%20MEGAMIX%20Ver.%20S.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sq-lovers-2011/qtwhrwalnu/01%20-%20SQ%20MEGAMIX%20Ver.%20S.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sq-lovers-2011/01%2520-%2520SQ%2520MEGAMIX%2520Ver.%2520S.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 101554585,
+      "filesize_mp3_bytes": 25732055,
+      "track_number": 2,
+      "title": "SQ MEGAMIX Ver. Q",
+      "runtime": 786,
+      "source_mp3": "https://vgmsite.com/soundtracks/sq-lovers-2011/xisvaigaoo/02%20-%20SQ%20MEGAMIX%20Ver.%20Q.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sq-lovers-2011/xisvaigaoo/02%20-%20SQ%20MEGAMIX%20Ver.%20Q.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sq-lovers-2011/02%2520-%2520SQ%2520MEGAMIX%2520Ver.%2520Q.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1550,
+    "filesize_mp3_bytes": 50782535,
+    "filesize_flac_bytes": 208173792,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "title": "Stardancer",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T18:16:29.200701+00:00",
+  "slug": "stardancer-2008-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/stardancer-2008-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/stardancer-2008-nds-gamerip/Stardancer.jpg"
+  ],
+  "year": 2008,
+  "date_added": "2020-06-23T00:00:00+00:00",
+  "developers": {
+    "Tivola": "https://downloads.khinsider.com/game-soundtracks/developer/tivola"
+  },
+  "publishers": {
+    "Tivola": "https://downloads.khinsider.com/game-soundtracks/publisher/tivola"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3984588,
+      "filesize_mp3_bytes": 1289748,
+      "title": "Action",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/stardancer-2008-nds-gamerip/cntbmnuysz/Action.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/stardancer-2008-nds-gamerip/cntbmnuysz/Action.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stardancer-2008-nds-gamerip/Action.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3586129,
+      "filesize_mp3_bytes": 1457520,
+      "title": "Happy",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/stardancer-2008-nds-gamerip/tsjkcuyikn/Happy.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/stardancer-2008-nds-gamerip/tsjkcuyikn/Happy.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stardancer-2008-nds-gamerip/Happy.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2977955,
+      "filesize_mp3_bytes": 1342177,
+      "title": "Sad",
+      "runtime": 74,
+      "source_mp3": "https://vgmsite.com/soundtracks/stardancer-2008-nds-gamerip/qxaztcjqgr/Sad.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/stardancer-2008-nds-gamerip/qxaztcjqgr/Sad.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stardancer-2008-nds-gamerip/Sad.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4047503,
+      "filesize_mp3_bytes": 1373634,
+      "title": "Theme",
+      "runtime": 55,
+      "source_mp3": "https://vgmsite.com/soundtracks/stardancer-2008-nds-gamerip/gybxujgprm/Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/stardancer-2008-nds-gamerip/gybxujgprm/Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stardancer-2008-nds-gamerip/Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 241,
+    "filesize_mp3_bytes": 5463079,
+    "filesize_flac_bytes": 14596175,
+    "tracks": 4
+  }
+}

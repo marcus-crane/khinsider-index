@@ -1,0 +1,59 @@
+{
+  "title": "Striker",
+  "titles_alternative": [
+    "World Soccer",
+    "World Soccer 94: Road to Glory",
+    "Eric Cantona Football Challenge"
+  ],
+  "crawled_at": "2023-09-24T19:17:12.817493+00:00",
+  "slug": "striker-1993-snes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/striker-1993-snes",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/striker-1993-snes/W1.png"
+  ],
+  "year": 1993,
+  "date_added": "2019-08-25T00:00:00+00:00",
+  "developers": {
+    "Rage Software": "https://downloads.khinsider.com/game-soundtracks/developer/rage-software"
+  },
+  "publishers": {
+    "Atlus": "https://downloads.khinsider.com/game-soundtracks/publisher/atlus",
+    "Elite Systems": "https://downloads.khinsider.com/game-soundtracks/publisher/elite-systems"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 23163043,
+      "filesize_mp3_bytes": 7214202,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 313,
+      "source_mp3": "https://vgmsite.com/soundtracks/striker-1993-snes/mtlmrdaobo/01%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/striker-1993-snes/mtlmrdaobo/01%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/striker-1993-snes/01%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 23404216,
+      "filesize_mp3_bytes": 7224688,
+      "track_number": 2,
+      "title": "Main Theme (Variation)",
+      "runtime": 313,
+      "source_mp3": "https://vgmsite.com/soundtracks/striker-1993-snes/sqsskxmnrs/02%20Main%20Theme%20%28Variation%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/striker-1993-snes/sqsskxmnrs/02%20Main%20Theme%20%28Variation%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/striker-1993-snes/02%2520Main%2520Theme%2520%2528Variation%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 626,
+    "filesize_mp3_bytes": 14438890,
+    "filesize_flac_bytes": 46567259,
+    "tracks": 2
+  }
+}

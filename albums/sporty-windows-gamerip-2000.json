@@ -1,0 +1,65 @@
+{
+  "title": "Sporty",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T17:25:17.386594+00:00",
+  "slug": "sporty-windows-gamerip-2000",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/sporty-windows-gamerip-2000",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/sporty-windows-gamerip-2000/Sporty%20%28BT%29%20Cover.jpg"
+  ],
+  "year": 2000,
+  "date_added": "2023-05-01T00:00:00+00:00",
+  "developers": {
+    "ITE Media": "https://downloads.khinsider.com/game-soundtracks/developer/ite-media"
+  },
+  "publishers": {
+    "ITE Media": "https://downloads.khinsider.com/game-soundtracks/publisher/ite-media"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 828375,
+      "filesize_mp3_bytes": 765460,
+      "track_number": 1,
+      "title": "Main Menu",
+      "runtime": 41,
+      "source_mp3": "https://vgmsite.com/soundtracks/sporty-windows-gamerip-2000/iaqozjyekk/01.%20Main%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sporty-windows-gamerip-2000/iaqozjyekk/01.%20Main%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sporty-windows-gamerip-2000/01.%2520Main%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 283115,
+      "filesize_mp3_bytes": 262144,
+      "track_number": 3,
+      "title": "Credits",
+      "runtime": 13,
+      "source_mp3": "https://vgmsite.com/soundtracks/sporty-windows-gamerip-2000/vgmzyhebxl/03.%20Credits.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sporty-windows-gamerip-2000/vgmzyhebxl/03.%20Credits.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sporty-windows-gamerip-2000/03.%2520Credits.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 83886,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 3,
+      "title": "New Record",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/sporty-windows-gamerip-2000/vilcbrvksr/03.%20New%20Record.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sporty-windows-gamerip-2000/vilcbrvksr/03.%20New%20Record.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sporty-windows-gamerip-2000/03.%2520New%2520Record.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 61,
+    "filesize_mp3_bytes": 1101004,
+    "filesize_flac_bytes": 1195376,
+    "tracks": 3
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Spacola",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T16:45:35.874422+00:00",
+  "slug": "spacola-atari-st",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/spacola-atari-st",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/spacola-atari-st/Spacola.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2016-06-22T00:00:00+00:00",
+  "developers": {
+    "Dongleware": "https://downloads.khinsider.com/game-soundtracks/developer/dongleware"
+  },
+  "publishers": {
+    "Dongleware": "https://downloads.khinsider.com/game-soundtracks/publisher/dongleware"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6815744,
+      "track_number": 1,
+      "title": "Spacola Main Theme",
+      "runtime": 226,
+      "source_mp3": "https://vgmsite.com/soundtracks/spacola-atari-st/ofqocqgl/01_Spacola%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/spacola-atari-st/01_Spacola%2520Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 226,
+    "filesize_mp3_bytes": 6815744,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

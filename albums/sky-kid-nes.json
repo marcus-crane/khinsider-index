@@ -1,0 +1,80 @@
+{
+  "title": "Sky Kid",
+  "titles_alternative": [
+    "\u30b9\u30ab\u30a4\u30ad\u30c3\u30c9"
+  ],
+  "crawled_at": "2023-09-24T14:32:24.388382+00:00",
+  "slug": "sky-kid-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/sky-kid-nes",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/sky-kid-nes/SK1.jpg"
+  ],
+  "year": 1986,
+  "date_added": "2023-03-14T00:00:00+00:00",
+  "developers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/developer/namco"
+  },
+  "publishers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/publisher/namco",
+    "Sunsoft": "https://downloads.khinsider.com/game-soundtracks/publisher/sunsoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3890216,
+      "filesize_mp3_bytes": 2034237,
+      "track_number": 1,
+      "title": "Start Music ~ BGM Intro ~ BGM",
+      "runtime": 93,
+      "source_mp3": "https://vgmsite.com/soundtracks/sky-kid-nes/hflpabjojp/01%20Start%20Music%20~%20BGM%20Intro%20~%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sky-kid-nes/hflpabjojp/01%20Start%20Music%20~%20BGM%20Intro%20~%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sky-kid-nes/01%2520Start%2520Music%2520~%2520BGM%2520Intro%2520~%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 325058,
+      "filesize_mp3_bytes": 251658,
+      "track_number": 2,
+      "title": "Thunder",
+      "runtime": 13,
+      "source_mp3": "https://vgmsite.com/soundtracks/sky-kid-nes/xcvlwiyogs/02%20Thunder.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sky-kid-nes/xcvlwiyogs/02%20Thunder.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sky-kid-nes/02%2520Thunder.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 104857,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 3,
+      "title": "Round Music",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/sky-kid-nes/pojrpckuqu/03%20Round%20Music.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sky-kid-nes/pojrpckuqu/03%20Round%20Music.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sky-kid-nes/03%2520Round%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 188743,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 4,
+      "title": "Game Over Music",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/sky-kid-nes/hglbkglazr/04%20Game%20Over%20Music.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sky-kid-nes/hglbkglazr/04%20Game%20Over%20Music.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sky-kid-nes/04%2520Game%2520Over%2520Music.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 113,
+    "filesize_mp3_bytes": 2390752,
+    "filesize_flac_bytes": 4508874,
+    "tracks": 4
+  }
+}

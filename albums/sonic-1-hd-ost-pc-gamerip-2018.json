@@ -1,0 +1,50 @@
+{
+  "title": "Sonic 1 HD OST",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T15:43:45.095266+00:00",
+  "slug": "sonic-1-hd-ost-pc-gamerip-2018",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/sonic-1-hd-ost-pc-gamerip-2018",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/sonic-1-hd-ost-pc-gamerip-2018/Sonic%201%20HD%20OST%20Cover.png"
+  ],
+  "year": 2013,
+  "date_added": "2022-04-15T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11681136,
+      "filesize_mp3_bytes": 2222981,
+      "track_number": 1,
+      "title": "Green Hill Zone",
+      "runtime": 53,
+      "source_mp3": "https://vgmsite.com/soundtracks/sonic-1-hd-ost-pc-gamerip-2018/ovzbkcivdz/01.%20Green%20Hill%20Zone.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sonic-1-hd-ost-pc-gamerip-2018/ovzbkcivdz/01.%20Green%20Hill%20Zone.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sonic-1-hd-ost-pc-gamerip-2018/01.%2520Green%2520Hill%2520Zone.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1803550,
+      "filesize_mp3_bytes": 692060,
+      "track_number": 2,
+      "title": "Act Clear",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/sonic-1-hd-ost-pc-gamerip-2018/pwujbbyjkn/02.%20Act%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sonic-1-hd-ost-pc-gamerip-2018/pwujbbyjkn/02.%20Act%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sonic-1-hd-ost-pc-gamerip-2018/02.%2520Act%2520Clear.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 59,
+    "filesize_mp3_bytes": 2915041,
+    "filesize_flac_bytes": 13484686,
+    "tracks": 2
+  }
+}

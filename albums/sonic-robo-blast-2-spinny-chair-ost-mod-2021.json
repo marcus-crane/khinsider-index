@@ -1,0 +1,57 @@
+{
+  "title": "Sonic Robo Blast 2 - Spinny Chair OST (Mod)",
+  "titles_alternative": [
+    "Chair Mod",
+    "SRB2 Chair Mod"
+  ],
+  "crawled_at": "2023-09-24T15:50:56.770891+00:00",
+  "slug": "sonic-robo-blast-2-spinny-chair-ost-mod-2021",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/sonic-robo-blast-2-spinny-chair-ost-mod-2021",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/sonic-robo-blast-2-spinny-chair-ost-mod-2021/Speen.png"
+  ],
+  "year": 2021,
+  "date_added": "2022-11-25T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "SonicFan214": "https://downloads.khinsider.com/game-soundtracks/publisher/sonicfan214"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 65766686,
+      "filesize_mp3_bytes": 9353297,
+      "track_number": 1,
+      "title": "Hyper Chair",
+      "runtime": 241,
+      "source_mp3": "https://vgmsite.com/soundtracks/sonic-robo-blast-2-spinny-chair-ost-mod-2021/kvbifdqvws/01.%20Hyper%20Chair.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sonic-robo-blast-2-spinny-chair-ost-mod-2021/kvbifdqvws/01.%20Hyper%20Chair.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sonic-robo-blast-2-spinny-chair-ost-mod-2021/01.%2520Hyper%2520Chair.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 60775464,
+      "filesize_mp3_bytes": 7874805,
+      "track_number": 2,
+      "title": "Super Chair",
+      "runtime": 227,
+      "source_mp3": "https://vgmsite.com/soundtracks/sonic-robo-blast-2-spinny-chair-ost-mod-2021/hyqwdabgof/02.%20Super%20Chair.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sonic-robo-blast-2-spinny-chair-ost-mod-2021/hyqwdabgof/02.%20Super%20Chair.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sonic-robo-blast-2-spinny-chair-ost-mod-2021/02.%2520Super%2520Chair.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 468,
+    "filesize_mp3_bytes": 17228102,
+    "filesize_flac_bytes": 126542150,
+    "tracks": 2
+  }
+}

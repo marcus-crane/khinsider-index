@@ -1,0 +1,57 @@
+{
+  "title": "SoulBlaze Battle Edition",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T16:16:07.783501+00:00",
+  "slug": "soulblaze-battle-edition-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/soulblaze-battle-edition-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/soulblaze-battle-edition-android/screen-0.jpg"
+  ],
+  "date_added": "2018-06-21T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 503316,
+      "track_number": 1,
+      "title": "Intromusic",
+      "runtime": 31,
+      "source_mp3": "https://vgmsite.com/soundtracks/soulblaze-battle-edition-android/lgahhvij/1%20Intromusic.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/soulblaze-battle-edition-android/1%2520Intromusic.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3470786,
+      "track_number": 2,
+      "title": "Game BGM",
+      "runtime": 217,
+      "source_mp3": "https://vgmsite.com/soundtracks/soulblaze-battle-edition-android/aenjkmkm/2%20Game%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/soulblaze-battle-edition-android/2%2520Game%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3187671,
+      "track_number": 3,
+      "title": "Worldmap BGM",
+      "runtime": 191,
+      "source_mp3": "https://vgmsite.com/soundtracks/soulblaze-battle-edition-android/hinjlydf/3%20Worldmap%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/soulblaze-battle-edition-android/3%2520Worldmap%2520BGM.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 439,
+    "filesize_mp3_bytes": 7161773,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

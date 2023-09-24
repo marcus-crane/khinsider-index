@@ -1,0 +1,45 @@
+{
+  "title": "Sudoku",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T19:28:30.438448+00:00",
+  "slug": "sudoku-ios-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/sudoku-ios-gamerip",
+  "platforms": {
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/sudoku-ios-gamerip/Sudoku.png"
+  ],
+  "date_added": "2015-12-15T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1426063,
+      "title": "GameBoard",
+      "runtime": 89,
+      "source_mp3": "https://vgmsite.com/soundtracks/sudoku-ios-gamerip/gitibuna/GameBoard.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sudoku-ios-gamerip/GameBoard.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1824522,
+      "title": "Menu",
+      "runtime": 114,
+      "source_mp3": "https://vgmsite.com/soundtracks/sudoku-ios-gamerip/detvuygm/Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sudoku-ios-gamerip/Menu.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 203,
+    "filesize_mp3_bytes": 3250585,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

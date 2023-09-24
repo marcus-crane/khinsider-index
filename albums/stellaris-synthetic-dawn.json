@@ -1,0 +1,59 @@
+{
+  "title": "Stellaris - Synthetic Dawn",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T18:33:21.330630+00:00",
+  "slug": "stellaris-synthetic-dawn",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/stellaris-synthetic-dawn",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/stellaris-synthetic-dawn/folder.jpg"
+  ],
+  "year": 2017,
+  "date_added": "2018-08-17T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 35420897,
+      "filesize_mp3_bytes": 16829644,
+      "track_number": 1,
+      "title": "Synthetic Dawn Main Theme",
+      "runtime": 421,
+      "source_mp3": "https://vgmsite.com/soundtracks/stellaris-synthetic-dawn/rbfgjgqi/01%20-%20Synthetic%20Dawn%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/stellaris-synthetic-dawn/rbfgjgqi/01%20-%20Synthetic%20Dawn%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stellaris-synthetic-dawn/01%2520-%2520Synthetic%2520Dawn%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 34382807,
+      "filesize_mp3_bytes": 13138657,
+      "track_number": 2,
+      "title": "Robo Sapiens",
+      "runtime": 328,
+      "source_mp3": "https://vgmsite.com/soundtracks/stellaris-synthetic-dawn/bozunjil/02%20-%20Robo%20Sapiens.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/stellaris-synthetic-dawn/bozunjil/02%20-%20Robo%20Sapiens.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stellaris-synthetic-dawn/02%2520-%2520Robo%2520Sapiens.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 28940697,
+      "filesize_mp3_bytes": 11859394,
+      "track_number": 3,
+      "title": "Synthetic God",
+      "runtime": 297,
+      "source_mp3": "https://vgmsite.com/soundtracks/stellaris-synthetic-dawn/dvoxuiuo/03%20-%20Synthetic%20God.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/stellaris-synthetic-dawn/dvoxuiuo/03%20-%20Synthetic%20God.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stellaris-synthetic-dawn/03%2520-%2520Synthetic%2520God.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1046,
+    "filesize_mp3_bytes": 41827695,
+    "filesize_flac_bytes": 98744401,
+    "tracks": 3
+  }
+}

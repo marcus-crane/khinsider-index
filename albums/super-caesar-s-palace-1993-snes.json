@@ -1,0 +1,58 @@
+{
+  "title": "Super Caesar's Palace",
+  "titles_alternative": [
+    "Super Casino: Caesars Palace",
+    "\u30b9\u30fc\u30d1\u30fc\u30ab\u30b8\u30ce \u30b7\u30fc\u30b6\u30fc\u30b9\u30d1\u30ec\u30b9"
+  ],
+  "crawled_at": "2023-09-24T19:53:10.207151+00:00",
+  "slug": "super-caesar-s-palace-1993-snes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/super-caesar-s-palace-1993-snes",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/super-caesar-s-palace-1993-snes/141351-super-caesars-palace-snes-front-cover.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2019-05-01T00:00:00+00:00",
+  "developers": {
+    "Illusions Gaming Company": "https://downloads.khinsider.com/game-soundtracks/developer/illusions-gaming-company"
+  },
+  "publishers": {
+    "Coconuts Japan": "https://downloads.khinsider.com/game-soundtracks/publisher/coconuts-japan",
+    "Virgin": "https://downloads.khinsider.com/game-soundtracks/publisher/virgin"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3051356,
+      "filesize_mp3_bytes": 5567938,
+      "track_number": 1,
+      "title": "Las Vegas is My Lady!",
+      "runtime": 139,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-caesar-s-palace-1993-snes/xuthzvgw/01%20Las%20Vegas%20is%20My%20Lady%21.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-caesar-s-palace-1993-snes/xuthzvgw/01%20Las%20Vegas%20is%20My%20Lady%21.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-caesar-s-palace-1993-snes/01%2520Las%2520Vegas%2520is%2520My%2520Lady%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1331691,
+      "filesize_mp3_bytes": 2925527,
+      "track_number": 2,
+      "title": "Wandering the Casino Floor",
+      "runtime": 73,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-caesar-s-palace-1993-snes/ntrkmsbi/02%20Wandering%20the%20Casino%20Floor.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-caesar-s-palace-1993-snes/ntrkmsbi/02%20Wandering%20the%20Casino%20Floor.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-caesar-s-palace-1993-snes/02%2520Wandering%2520the%2520Casino%2520Floor.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 212,
+    "filesize_mp3_bytes": 8493465,
+    "filesize_flac_bytes": 4383047,
+    "tracks": 2
+  }
+}

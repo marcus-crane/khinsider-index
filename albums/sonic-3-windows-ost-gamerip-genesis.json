@@ -1,0 +1,72 @@
+{
+  "title": "Sonic 3 & Windows OST",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T15:44:50.959901+00:00",
+  "slug": "sonic-3-windows-ost-gamerip-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/sonic-3-windows-ost-gamerip-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/sonic-3-windows-ost-gamerip-genesis/Sonic%203%20%26%20Windows%20OST%20Cover.png"
+  ],
+  "year": 2017,
+  "date_added": "2022-07-15T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 12876513,
+      "filesize_mp3_bytes": 2348810,
+      "track_number": 1,
+      "title": "Launch Base Zone - Act 1",
+      "runtime": 105,
+      "source_mp3": "https://vgmsite.com/soundtracks/sonic-3-windows-ost-gamerip-genesis/wkvapjdpcm/01.%20Launch%20Base%20Zone%20-%20Act%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sonic-3-windows-ost-gamerip-genesis/wkvapjdpcm/01.%20Launch%20Base%20Zone%20-%20Act%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sonic-3-windows-ost-gamerip-genesis/01.%2520Launch%2520Base%2520Zone%2520-%2520Act%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 26487029,
+      "filesize_mp3_bytes": 4047503,
+      "track_number": 2,
+      "title": "Special Stage",
+      "runtime": 193,
+      "source_mp3": "https://vgmsite.com/soundtracks/sonic-3-windows-ost-gamerip-genesis/yfbmgukbna/02.%20Special%20Stage.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sonic-3-windows-ost-gamerip-genesis/yfbmgukbna/02.%20Special%20Stage.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sonic-3-windows-ost-gamerip-genesis/02.%2520Special%2520Stage.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 21034434,
+      "filesize_mp3_bytes": 3187671,
+      "track_number": 3,
+      "title": "Special Stage (Speedup Mix)",
+      "runtime": 151,
+      "source_mp3": "https://vgmsite.com/soundtracks/sonic-3-windows-ost-gamerip-genesis/hlyittxnqh/03.%20Special%20Stage%20%28Speedup%20Mix%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sonic-3-windows-ost-gamerip-genesis/hlyittxnqh/03.%20Special%20Stage%20%28Speedup%20Mix%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sonic-3-windows-ost-gamerip-genesis/03.%2520Special%2520Stage%2520%2528Speedup%2520Mix%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 25700597,
+      "filesize_mp3_bytes": 4047503,
+      "track_number": 4,
+      "title": "Carnival Night Zone - Act 2 (Unused)",
+      "runtime": 138,
+      "source_mp3": "https://vgmsite.com/soundtracks/sonic-3-windows-ost-gamerip-genesis/vrsnkbemgz/04.%20Carnival%20Night%20Zone%20-%20Act%202%20%28Unused%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sonic-3-windows-ost-gamerip-genesis/vrsnkbemgz/04.%20Carnival%20Night%20Zone%20-%20Act%202%20%28Unused%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sonic-3-windows-ost-gamerip-genesis/04.%2520Carnival%2520Night%2520Zone%2520-%2520Act%25202%2520%2528Unused%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 587,
+    "filesize_mp3_bytes": 13631487,
+    "filesize_flac_bytes": 86098573,
+    "tracks": 4
+  }
+}

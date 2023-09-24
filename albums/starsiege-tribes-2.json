@@ -1,0 +1,80 @@
+{
+  "title": "Tribes 2",
+  "titles_alternative": [
+    "Starsiege Tribes 2"
+  ],
+  "crawled_at": "2023-09-24T18:21:56.732845+00:00",
+  "slug": "starsiege-tribes-2",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/starsiege-tribes-2",
+  "platforms": {
+    "Linux": "https://downloads.khinsider.com/game-soundtracks/linux",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/starsiege-tribes-2/Starsiege%20Tribes%202.jpg"
+  ],
+  "year": 2001,
+  "date_added": "2022-07-13T00:00:00+00:00",
+  "developers": {
+    "Dynamix": "https://downloads.khinsider.com/game-soundtracks/developer/dynamix"
+  },
+  "publishers": {
+    "Sierra On-Line": "https://downloads.khinsider.com/game-soundtracks/publisher/sierra-on-line"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3837788,
+      "title": "Badlands",
+      "runtime": 240,
+      "source_mp3": "https://vgmsite.com/soundtracks/starsiege-tribes-2/jhrbxrrund/Badlands.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/starsiege-tribes-2/Badlands.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4152360,
+      "title": "Desert",
+      "runtime": 259,
+      "source_mp3": "https://vgmsite.com/soundtracks/starsiege-tribes-2/gddzajwsdq/Desert.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/starsiege-tribes-2/Desert.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4141875,
+      "title": "Ice",
+      "runtime": 259,
+      "source_mp3": "https://vgmsite.com/soundtracks/starsiege-tribes-2/psovxghppu/Ice.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/starsiege-tribes-2/Ice.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4120903,
+      "title": "Lush",
+      "runtime": 257,
+      "source_mp3": "https://vgmsite.com/soundtracks/starsiege-tribes-2/mpkcapwhci/Lush.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/starsiege-tribes-2/Lush.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4162846,
+      "title": "Volcanic",
+      "runtime": 260,
+      "source_mp3": "https://vgmsite.com/soundtracks/starsiege-tribes-2/xomvggponu/Volcanic.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/starsiege-tribes-2/Volcanic.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1275,
+    "filesize_mp3_bytes": 20415772,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

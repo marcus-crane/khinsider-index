@@ -1,0 +1,82 @@
+{
+  "title": "Spy Hunter",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T17:27:22.093096+00:00",
+  "slug": "spy-hunter-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/spy-hunter-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/spy-hunter-arcade/cover.jpg"
+  ],
+  "year": 1983,
+  "date_added": "2015-02-03T00:00:00+00:00",
+  "developers": {
+    "Bally Midway": "https://downloads.khinsider.com/game-soundtracks/developer/bally-midway"
+  },
+  "publishers": {
+    "Bally Midway": "https://downloads.khinsider.com/game-soundtracks/publisher/bally-midway"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1006632,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 21,
+      "source_mp3": "https://vgmsite.com/soundtracks/spy-hunter-arcade/wlpbvyqg/01%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/spy-hunter-arcade/01%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 545259,
+      "track_number": 2,
+      "title": "Die",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/spy-hunter-arcade/tdxmfgpa/02%20Die.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/spy-hunter-arcade/02%2520Die.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10989076,
+      "track_number": 3,
+      "title": "Intro (Extended)",
+      "runtime": 271,
+      "source_mp3": "https://vgmsite.com/soundtracks/spy-hunter-arcade/cxzznrxz/03%20Intro%20%28Extended%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/spy-hunter-arcade/03%2520Intro%2520%2528Extended%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 241172,
+      "track_number": 4,
+      "title": "Coin",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/spy-hunter-arcade/hbidfrlr/04%20Coin.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/spy-hunter-arcade/04%2520Coin.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3166699,
+      "track_number": 5,
+      "title": "Sounds",
+      "runtime": 75,
+      "source_mp3": "https://vgmsite.com/soundtracks/spy-hunter-arcade/hmftqgng/05%20Sounds.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/spy-hunter-arcade/05%2520Sounds.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 379,
+    "filesize_mp3_bytes": 15948838,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Spongebob Squarepants - Dunces and Dragons",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T17:19:58.945174+00:00",
+  "slug": "spongebob-squarepants-dunces-and-dragons",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/spongebob-squarepants-dunces-and-dragons",
+  "platforms": {
+    "Online": "https://downloads.khinsider.com/game-soundtracks/online"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/spongebob-squarepants-dunces-and-dragons/Dunces.png"
+  ],
+  "date_added": "2020-07-31T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 367001,
+      "title": "In Game",
+      "runtime": 26,
+      "source_mp3": "https://vgmsite.com/soundtracks/spongebob-squarepants-dunces-and-dragons/yxbtlsbxcb/In%20Game.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/spongebob-squarepants-dunces-and-dragons/In%2520Game.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 220200,
+      "title": "In Pack",
+      "runtime": 16,
+      "source_mp3": "https://vgmsite.com/soundtracks/spongebob-squarepants-dunces-and-dragons/ycjfuhuici/In%20Pack.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/spongebob-squarepants-dunces-and-dragons/In%2520Pack.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 42,
+    "filesize_mp3_bytes": 587201,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

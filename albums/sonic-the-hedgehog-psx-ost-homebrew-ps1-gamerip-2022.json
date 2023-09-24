@@ -1,0 +1,58 @@
+{
+  "title": "Sonic The Hedgehog (PSX) OST (Homebrew)",
+  "titles_alternative": [
+    "Sonic The Hedgehog (PS1)",
+    "Sonic 1 PSX",
+    "Sonic 1 PS1"
+  ],
+  "crawled_at": "2023-09-24T15:55:22.685237+00:00",
+  "slug": "sonic-the-hedgehog-psx-ost-homebrew-ps1-gamerip-2022",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/sonic-the-hedgehog-psx-ost-homebrew-ps1-gamerip-2022",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/sonic-the-hedgehog-psx-ost-homebrew-ps1-gamerip-2022/Sonic%201%20PSX%20ost%20cover.png"
+  ],
+  "year": 2022,
+  "date_added": "2023-08-04T00:00:00+00:00",
+  "developers": {
+    "TiagoSC": "https://downloads.khinsider.com/game-soundtracks/developer/tiagosc"
+  },
+  "publishers": {
+    "TiagoSC": "https://downloads.khinsider.com/game-soundtracks/publisher/tiagosc"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 39898316,
+      "filesize_mp3_bytes": 6385827,
+      "track_number": 1,
+      "title": "Green Hill Zone",
+      "runtime": 174,
+      "source_mp3": "https://vgmsite.com/soundtracks/sonic-the-hedgehog-psx-ost-homebrew-ps1-gamerip-2022/llgndjkvym/01.%20Green%20Hill%20Zone.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sonic-the-hedgehog-psx-ost-homebrew-ps1-gamerip-2022/llgndjkvym/01.%20Green%20Hill%20Zone.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sonic-the-hedgehog-psx-ost-homebrew-ps1-gamerip-2022/01.%2520Green%2520Hill%2520Zone.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10391388,
+      "filesize_mp3_bytes": 1835008,
+      "track_number": 2,
+      "title": "Invincibility",
+      "runtime": 46,
+      "source_mp3": "https://vgmsite.com/soundtracks/sonic-the-hedgehog-psx-ost-homebrew-ps1-gamerip-2022/pbosknadmx/02.%20Invincibility.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sonic-the-hedgehog-psx-ost-homebrew-ps1-gamerip-2022/pbosknadmx/02.%20Invincibility.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sonic-the-hedgehog-psx-ost-homebrew-ps1-gamerip-2022/02.%2520Invincibility.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 220,
+    "filesize_mp3_bytes": 8220835,
+    "filesize_flac_bytes": 50289704,
+    "tracks": 2
+  }
+}

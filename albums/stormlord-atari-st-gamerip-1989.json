@@ -1,0 +1,89 @@
+{
+  "title": "Stormlord",
+  "titles_alternative": [
+    "\u30b9\u30c8\u30fc\u30e0\u30ed\u30fc\u30c9"
+  ],
+  "crawled_at": "2023-09-24T18:39:02.719885+00:00",
+  "slug": "stormlord-atari-st-gamerip-1989",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/stormlord-atari-st-gamerip-1989",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/stormlord-atari-st-gamerip-1989/Stormlord.png"
+  ],
+  "year": 1989,
+  "date_added": "2022-12-03T00:00:00+00:00",
+  "developers": {
+    "Hewson Consultants": "https://downloads.khinsider.com/game-soundtracks/developer/hewson-consultants"
+  },
+  "publishers": {
+    "Hewson Consultants": "https://downloads.khinsider.com/game-soundtracks/publisher/hewson-consultants"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 42205184,
+      "filesize_mp3_bytes": 18182307,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 824,
+      "source_mp3": "https://vgmsite.com/soundtracks/stormlord-atari-st-gamerip-1989/cnhavrezon/01%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/stormlord-atari-st-gamerip-1989/cnhavrezon/01%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stormlord-atari-st-gamerip-1989/01%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 44166021,
+      "filesize_mp3_bytes": 15644753,
+      "track_number": 2,
+      "title": "Intro",
+      "runtime": 754,
+      "source_mp3": "https://vgmsite.com/soundtracks/stormlord-atari-st-gamerip-1989/npcvikzats/02%20Intro.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/stormlord-atari-st-gamerip-1989/npcvikzats/02%20Intro.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stormlord-atari-st-gamerip-1989/02%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 251658,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 3,
+      "title": "Start",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/stormlord-atari-st-gamerip-1989/avdtkqrcfb/03%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/stormlord-atari-st-gamerip-1989/avdtkqrcfb/03%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stormlord-atari-st-gamerip-1989/03%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 59034828,
+      "filesize_mp3_bytes": 20216545,
+      "track_number": 4,
+      "title": "In-Game BGM",
+      "runtime": 992,
+      "source_mp3": "https://vgmsite.com/soundtracks/stormlord-atari-st-gamerip-1989/cwpciziplo/04%20In-Game%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/stormlord-atari-st-gamerip-1989/cwpciziplo/04%20In-Game%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stormlord-atari-st-gamerip-1989/04%2520In-Game%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 576716,
+      "filesize_mp3_bytes": 199229,
+      "track_number": 5,
+      "title": "Game Over",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/stormlord-atari-st-gamerip-1989/biuldsbgmd/05%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/stormlord-atari-st-gamerip-1989/biuldsbgmd/05%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stormlord-atari-st-gamerip-1989/05%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2584,
+    "filesize_mp3_bytes": 54326720,
+    "filesize_flac_bytes": 146234407,
+    "tracks": 5
+  }
+}

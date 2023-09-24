@@ -1,0 +1,36 @@
+{
+  "title": "Super Bunny World (Lucky Kat Studios)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T19:52:40.306039+00:00",
+  "slug": "super-bunny-world-lucky-kat-studios-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/super-bunny-world-lucky-kat-studios-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/super-bunny-world-lucky-kat-studios-android/carrot.png"
+  ],
+  "date_added": "2018-03-06T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1153433,
+      "title": "bgm_loop",
+      "runtime": 72,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-bunny-world-lucky-kat-studios-android/uhmydtvl/bgm_loop.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-bunny-world-lucky-kat-studios-android/bgm_loop.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 72,
+    "filesize_mp3_bytes": 1153433,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

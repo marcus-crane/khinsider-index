@@ -1,0 +1,37 @@
+{
+  "title": "Sonic 2.5 OST (PICO-8)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T15:44:24.677695+00:00",
+  "slug": "sonic-2.5-ost-pico-8-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/sonic-2.5-ost-pico-8-gamerip",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/sonic-2.5-ost-pico-8-gamerip/Sonic%202.5%20OST%20Cover.png"
+  ],
+  "year": 2020,
+  "date_added": "2022-06-10T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 17783848,
+      "filesize_mp3_bytes": 4875878,
+      "track_number": 1,
+      "title": "Gray Hill Zone (Main Theme)",
+      "runtime": 135,
+      "source_mp3": "https://vgmsite.com/soundtracks/sonic-2.5-ost-pico-8-gamerip/osxzfgvkgx/01.%20Gray%20Hill%20Zone%20%28Main%20Theme%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sonic-2.5-ost-pico-8-gamerip/osxzfgvkgx/01.%20Gray%20Hill%20Zone%20%28Main%20Theme%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sonic-2.5-ost-pico-8-gamerip/01.%2520Gray%2520Hill%2520Zone%2520%2528Main%2520Theme%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 135,
+    "filesize_mp3_bytes": 4875878,
+    "filesize_flac_bytes": 17783848,
+    "tracks": 1
+  }
+}

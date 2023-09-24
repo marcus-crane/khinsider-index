@@ -1,0 +1,80 @@
+{
+  "title": "Smash T.V.",
+  "titles_alternative": [
+    "\u30b9\u30de\u30c3\u30b7\u30e5TV"
+  ],
+  "crawled_at": "2023-09-24T14:57:32.839949+00:00",
+  "slug": "smash-t.v.-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/smash-t.v.-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/smash-t.v.-nes/4704235-smash-tv-front-cover.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2017-08-19T00:00:00+00:00",
+  "developers": {
+    "Rare": "https://downloads.khinsider.com/game-soundtracks/developer/rare",
+    "Williams": "https://downloads.khinsider.com/game-soundtracks/developer/williams"
+  },
+  "publishers": {
+    "Acclaim": "https://downloads.khinsider.com/game-soundtracks/publisher/acclaim"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1017118,
+      "title": "Track 01",
+      "runtime": 63,
+      "source_mp3": "https://vgmsite.com/soundtracks/smash-t.v.-nes/oszvhoyt/Track%2001.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/smash-t.v.-nes/Track%252001.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 765460,
+      "title": "Track 02",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/smash-t.v.-nes/kvmzmdup/Track%2002.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/smash-t.v.-nes/Track%252002.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3219128,
+      "title": "Track 03",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/smash-t.v.-nes/hupaxqcv/Track%2003.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/smash-t.v.-nes/Track%252003.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2621440,
+      "title": "Track 04",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/smash-t.v.-nes/ixnrsmsj/Track%2004.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/smash-t.v.-nes/Track%252004.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 52428,
+      "title": "Track 05",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/smash-t.v.-nes/mngyvjad/Track%2005.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/smash-t.v.-nes/Track%252005.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 475,
+    "filesize_mp3_bytes": 7675574,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

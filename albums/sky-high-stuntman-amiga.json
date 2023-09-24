@@ -1,0 +1,52 @@
+{
+  "title": "Sky High Stuntman",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T14:32:15.336550+00:00",
+  "slug": "sky-high-stuntman-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/sky-high-stuntman-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/sky-high-stuntman-amiga/Sky%20High%20Stuntman.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2016-01-28T00:00:00+00:00",
+  "developers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/developer/codemasters"
+  },
+  "publishers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/publisher/codemasters"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4246732,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 135,
+      "source_mp3": "https://vgmsite.com/soundtracks/sky-high-stuntman-amiga/xqeaktgm/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sky-high-stuntman-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4445962,
+      "track_number": 2,
+      "title": "In-Game BGM",
+      "runtime": 153,
+      "source_mp3": "https://vgmsite.com/soundtracks/sky-high-stuntman-amiga/ljktzkfk/02_In-Game%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sky-high-stuntman-amiga/02_In-Game%2520BGM.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 288,
+    "filesize_mp3_bytes": 8692694,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

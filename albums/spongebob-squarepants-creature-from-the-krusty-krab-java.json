@@ -1,0 +1,59 @@
+{
+  "title": "SpongeBob SquarePants: Creature from the Krusty Krab (Java)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T17:19:51.715347+00:00",
+  "slug": "spongebob-squarepants-creature-from-the-krusty-krab-java",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/spongebob-squarepants-creature-from-the-krusty-krab-java",
+  "platforms": {
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/spongebob-squarepants-creature-from-the-krusty-krab-java/CFTKK%20%28JAVA%29.png"
+  ],
+  "year": 2006,
+  "date_added": "2021-02-11T00:00:00+00:00",
+  "developers": {
+    "Two Tribes": "https://downloads.khinsider.com/game-soundtracks/developer/two-tribes"
+  },
+  "publishers": {
+    "THQ": "https://downloads.khinsider.com/game-soundtracks/publisher/thq"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 52428,
+      "title": "Lose",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/spongebob-squarepants-creature-from-the-krusty-krab-java/pnkswrnqkr/Lose.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/spongebob-squarepants-creature-from-the-krusty-krab-java/Lose.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 765460,
+      "title": "Menu",
+      "runtime": 37,
+      "source_mp3": "https://vgmsite.com/soundtracks/spongebob-squarepants-creature-from-the-krusty-krab-java/ldthoxogmh/Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/spongebob-squarepants-creature-from-the-krusty-krab-java/Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 52428,
+      "title": "Win",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/spongebob-squarepants-creature-from-the-krusty-krab-java/ouuhzmjocg/Win.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/spongebob-squarepants-creature-from-the-krusty-krab-java/Win.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 41,
+    "filesize_mp3_bytes": 870316,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

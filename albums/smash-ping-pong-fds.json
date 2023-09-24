@@ -1,0 +1,80 @@
+{
+  "title": "Smash Ping Pong",
+  "titles_alternative": [
+    "Konami's Ping Pong",
+    "Smash Table Tennis",
+    "\u30b9\u30de\u30c3\u30b7\u30e5\u30d4\u30f3\u30dd\u30f3"
+  ],
+  "crawled_at": "2023-09-24T14:57:30.987438+00:00",
+  "slug": "smash-ping-pong-fds",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/smash-ping-pong-fds",
+  "platforms": {
+    "FDS": "https://downloads.khinsider.com/game-soundtracks/famicom-disk-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/smash-ping-pong-fds/Smash%20Ping%20Pong.png"
+  ],
+  "year": 1987,
+  "date_added": "2022-06-06T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami"
+  },
+  "publishers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 314572,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 1,
+      "title": "Game Start",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/smash-ping-pong-fds/ogkcjtdpxl/01%20Game%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/smash-ping-pong-fds/ogkcjtdpxl/01%20Game%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/smash-ping-pong-fds/01%2520Game%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 188743,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 2,
+      "title": "Game Set",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/smash-ping-pong-fds/ivfylfyzob/02%20Game%20Set.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/smash-ping-pong-fds/ivfylfyzob/02%20Game%20Set.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/smash-ping-pong-fds/02%2520Game%2520Set.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 587202,
+      "filesize_mp3_bytes": 199229,
+      "track_number": 3,
+      "title": "Half-Time",
+      "runtime": 12,
+      "source_mp3": "https://vgmsite.com/soundtracks/smash-ping-pong-fds/jmofhrpvgv/03%20Half-Time.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/smash-ping-pong-fds/jmofhrpvgv/03%20Half-Time.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/smash-ping-pong-fds/03%2520Half-Time.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 157286,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/smash-ping-pong-fds/hpwxilxbez/04%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/smash-ping-pong-fds/hpwxilxbez/04%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/smash-ping-pong-fds/04%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 26,
+    "filesize_mp3_bytes": 429914,
+    "filesize_flac_bytes": 1247803,
+    "tracks": 4
+  }
+}

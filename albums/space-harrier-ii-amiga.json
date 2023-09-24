@@ -1,0 +1,95 @@
+{
+  "title": "Space Harrier II",
+  "titles_alternative": [
+    "\u30b9\u30da\u30fc\u30b9\u30cf\u30ea\u30a2\u30fcII"
+  ],
+  "crawled_at": "2023-09-24T16:38:36.505694+00:00",
+  "slug": "space-harrier-ii-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/space-harrier-ii-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/space-harrier-ii-amiga/SH2.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2018-12-25T00:00:00+00:00",
+  "developers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega",
+    "Teque": "https://downloads.khinsider.com/game-soundtracks/developer/teque"
+  },
+  "publishers": {
+    "Grandslam": "https://downloads.khinsider.com/game-soundtracks/publisher/grandslam"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5211422,
+      "track_number": 1,
+      "title": "Harrier Saga (Stage Theme)",
+      "runtime": 171,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-harrier-ii-amiga/yesslcdc/01%20Harrier%20Saga%20%28Stage%20Theme%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-harrier-ii-amiga/01%2520Harrier%2520Saga%2520%2528Stage%2520Theme%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1939865,
+      "track_number": 2,
+      "title": "Mind Quake (Boss Theme 1)",
+      "runtime": 69,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-harrier-ii-amiga/fwashdrj/02%20Mind%20Quake%20%28Boss%20Theme%201%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-harrier-ii-amiga/02%2520Mind%2520Quake%2520%2528Boss%2520Theme%25201%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1614807,
+      "track_number": 3,
+      "title": "The Stairs to Z (Boss Theme 2)",
+      "runtime": 56,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-harrier-ii-amiga/tsnsbmig/03%20The%20Stairs%20to%20Z%20%28Boss%20Theme%202%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-harrier-ii-amiga/03%2520The%2520Stairs%2520to%2520Z%2520%2528Boss%2520Theme%25202%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2285895,
+      "track_number": 4,
+      "title": "Winner's Flight (Bonus Stage)",
+      "runtime": 76,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-harrier-ii-amiga/vliewopx/04%20Winner%27s%20Flight%20%28Bonus%20Stage%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-harrier-ii-amiga/04%2520Winner%2527s%2520Flight%2520%2528Bonus%2520Stage%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1782579,
+      "track_number": 5,
+      "title": "Neo (Boss Theme 3)",
+      "runtime": 58,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-harrier-ii-amiga/mqmhydst/05%20Neo%20%28Boss%20Theme%203%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-harrier-ii-amiga/05%2520Neo%2520%2528Boss%2520Theme%25203%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2831155,
+      "track_number": 6,
+      "title": "Ending",
+      "runtime": 98,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-harrier-ii-amiga/jmyargzn/06%20Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-harrier-ii-amiga/06%2520Ending.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 528,
+    "filesize_mp3_bytes": 15665723,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}
