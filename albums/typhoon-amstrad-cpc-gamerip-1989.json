@@ -1,0 +1,67 @@
+{
+  "title": "Typhoon (Amstrad CPC)",
+  "titles_alternative": [
+    "Ajax",
+    "A-Jax"
+  ],
+  "crawled_at": "2023-09-25T11:30:06.866532+00:00",
+  "slug": "typhoon-amstrad-cpc-gamerip-1989",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/typhoon-amstrad-cpc-gamerip-1989",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/typhoon-amstrad-cpc-gamerip-1989/Typhoon%20%28CTM644%29.png"
+  ],
+  "year": 1989,
+  "date_added": "2023-03-16T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami",
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/developer/ocean"
+  },
+  "publishers": {
+    "Imagine": "https://downloads.khinsider.com/game-soundtracks/publisher/imagine"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2904555,
+      "filesize_mp3_bytes": 1163919,
+      "track_number": 1,
+      "title": "A Jax (Title Demo)",
+      "runtime": 50,
+      "source_mp3": "https://vgmsite.com/soundtracks/typhoon-amstrad-cpc-gamerip-1989/slcakutzbz/01.%20A%20Jax%20%28Title%20Demo%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/typhoon-amstrad-cpc-gamerip-1989/slcakutzbz/01.%20A%20Jax%20%28Title%20Demo%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/typhoon-amstrad-cpc-gamerip-1989/01.%2520A%2520Jax%2520%2528Title%2520Demo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 188743,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 2,
+      "title": "Pattern Clear",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/typhoon-amstrad-cpc-gamerip-1989/utiumdyaxo/02.%20Pattern%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/typhoon-amstrad-cpc-gamerip-1989/utiumdyaxo/02.%20Pattern%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/typhoon-amstrad-cpc-gamerip-1989/02.%2520Pattern%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 199229,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 3,
+      "title": "Try Again (Game Over)",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/typhoon-amstrad-cpc-gamerip-1989/mleipqwcvx/03.%20Try%20Again%20%28Game%20Over%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/typhoon-amstrad-cpc-gamerip-1989/mleipqwcvx/03.%20Try%20Again%20%28Game%20Over%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/typhoon-amstrad-cpc-gamerip-1989/03.%2520Try%2520Again%2520%2528Game%2520Over%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 56,
+    "filesize_mp3_bytes": 1310719,
+    "filesize_flac_bytes": 3292527,
+    "tracks": 3
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "title": "Wayne Gretzky Hockey",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T12:21:37.320327+00:00",
+  "slug": "wayne-gretzky-hockey-1991-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/wayne-gretzky-hockey-1991-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/wayne-gretzky-hockey-1991-nes/Wayne%20Gretzky%20Hockey.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2022-06-29T00:00:00+00:00",
+  "developers": {
+    "Bethesda": "https://downloads.khinsider.com/game-soundtracks/developer/bethesda"
+  },
+  "publishers": {
+    "THQ": "https://downloads.khinsider.com/game-soundtracks/publisher/thq"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 513802,
+      "filesize_mp3_bytes": 157286,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/wayne-gretzky-hockey-1991-nes/ioxjntqqof/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/wayne-gretzky-hockey-1991-nes/ioxjntqqof/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wayne-gretzky-hockey-1991-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10255073,
+      "filesize_mp3_bytes": 3512729,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/wayne-gretzky-hockey-1991-nes/tbhgswbpnw/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/wayne-gretzky-hockey-1991-nes/tbhgswbpnw/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wayne-gretzky-hockey-1991-nes/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 419430,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/wayne-gretzky-hockey-1991-nes/ognhgexsvr/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/wayne-gretzky-hockey-1991-nes/ognhgexsvr/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wayne-gretzky-hockey-1991-nes/03.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 196,
+    "filesize_mp3_bytes": 3785358,
+    "filesize_flac_bytes": 11188305,
+    "tracks": 3
+  }
+}

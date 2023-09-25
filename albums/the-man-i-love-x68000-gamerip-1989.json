@@ -1,0 +1,65 @@
+{
+  "title": "The Man I Love",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T07:06:00.237854+00:00",
+  "slug": "the-man-i-love-x68000-gamerip-1989",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/the-man-i-love-x68000-gamerip-1989",
+  "platforms": {
+    "X68000": "https://downloads.khinsider.com/game-soundtracks/x68000"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/the-man-i-love-x68000-gamerip-1989/folder.png"
+  ],
+  "year": 1989,
+  "date_added": "2022-06-21T00:00:00+00:00",
+  "developers": {
+    "Thinking Rabbit": "https://downloads.khinsider.com/game-soundtracks/developer/thinking-rabbit"
+  },
+  "publishers": {
+    "Thinking Rabbit": "https://downloads.khinsider.com/game-soundtracks/publisher/thinking-rabbit"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4875878,
+      "filesize_mp3_bytes": 1876951,
+      "track_number": 1,
+      "title": "Opening",
+      "runtime": 69,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-man-i-love-x68000-gamerip-1989/xqsqphxxhj/01%20-%20Opening.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/the-man-i-love-x68000-gamerip-1989/xqsqphxxhj/01%20-%20Opening.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-man-i-love-x68000-gamerip-1989/01%2520-%2520Opening.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11922309,
+      "filesize_mp3_bytes": 4299161,
+      "track_number": 2,
+      "title": "In Game BGM",
+      "runtime": 162,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-man-i-love-x68000-gamerip-1989/rliuffwdwa/02%20-%20In%20Game%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/the-man-i-love-x68000-gamerip-1989/rliuffwdwa/02%20-%20In%20Game%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-man-i-love-x68000-gamerip-1989/02%2520-%2520In%2520Game%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9258926,
+      "filesize_mp3_bytes": 3921674,
+      "track_number": 3,
+      "title": "Ending",
+      "runtime": 142,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-man-i-love-x68000-gamerip-1989/bcyykpkjse/03%20-%20Ending.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/the-man-i-love-x68000-gamerip-1989/bcyykpkjse/03%20-%20Ending.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-man-i-love-x68000-gamerip-1989/03%2520-%2520Ending.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 373,
+    "filesize_mp3_bytes": 10097786,
+    "filesize_flac_bytes": 26057113,
+    "tracks": 3
+  }
+}

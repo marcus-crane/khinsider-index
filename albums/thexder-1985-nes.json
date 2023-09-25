@@ -1,0 +1,48 @@
+{
+  "title": "Thexder",
+  "titles_alternative": [
+    "Thexder 88",
+    "\u30c6\u30b0\u30b6\u30fc"
+  ],
+  "crawled_at": "2023-09-25T08:24:20.963570+00:00",
+  "slug": "thexder-1985-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/thexder-1985-nes",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/thexder-1985-nes/296145-thexder-nes-front-cover.jpg"
+  ],
+  "year": 1985,
+  "date_added": "2022-06-27T00:00:00+00:00",
+  "developers": {
+    "Bits Laboratory": "https://downloads.khinsider.com/game-soundtracks/developer/bits-laboratory",
+    "Game Arts": "https://downloads.khinsider.com/game-soundtracks/developer/game-arts"
+  },
+  "publishers": {
+    "Square": "https://downloads.khinsider.com/game-soundtracks/publisher/square"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5746196,
+      "filesize_mp3_bytes": 2411724,
+      "track_number": 1,
+      "title": "Main BGM",
+      "runtime": 112,
+      "source_mp3": "https://vgmsite.com/soundtracks/thexder-1985-nes/dndnmxnftx/01%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/thexder-1985-nes/dndnmxnftx/01%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thexder-1985-nes/01%2520Main%2520BGM.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 112,
+    "filesize_mp3_bytes": 2411724,
+    "filesize_flac_bytes": 5746196,
+    "tracks": 1
+  }
+}

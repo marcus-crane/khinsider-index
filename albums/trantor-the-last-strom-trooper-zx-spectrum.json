@@ -1,0 +1,42 @@
+{
+  "title": "Trantor - The Last Strom Trooper",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T10:41:46.564766+00:00",
+  "slug": "trantor-the-last-strom-trooper-zx-spectrum",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/trantor-the-last-strom-trooper-zx-spectrum",
+  "platforms": {
+    "Spectrum": "https://downloads.khinsider.com/game-soundtracks/spectrum"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/trantor-the-last-strom-trooper-zx-spectrum/T1.jpg"
+  ],
+  "year": 1987,
+  "date_added": "2017-07-17T00:00:00+00:00",
+  "developers": {
+    "Probe": "https://downloads.khinsider.com/game-soundtracks/developer/probe"
+  },
+  "publishers": {
+    "Go!": "https://downloads.khinsider.com/game-soundtracks/publisher/go"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3816816,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 137,
+      "source_mp3": "https://vgmsite.com/soundtracks/trantor-the-last-strom-trooper-zx-spectrum/jffveger/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/trantor-the-last-strom-trooper-zx-spectrum/01_Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 137,
+    "filesize_mp3_bytes": 3816816,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

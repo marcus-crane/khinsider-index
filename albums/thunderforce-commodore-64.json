@@ -1,0 +1,112 @@
+{
+  "title": "Thunderforce",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T08:36:30.726197+00:00",
+  "slug": "thunderforce-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/thunderforce-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/thunderforce-commodore-64/Thunderforce.jpg"
+  ],
+  "year": 1987,
+  "date_added": "2016-08-07T00:00:00+00:00",
+  "developers": {
+    "Rack-It": "https://downloads.khinsider.com/game-soundtracks/developer/rack-it"
+  },
+  "publishers": {
+    "Rack-It": "https://downloads.khinsider.com/game-soundtracks/publisher/rack-it"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4655677,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 248,
+      "source_mp3": "https://vgmsite.com/soundtracks/thunderforce-commodore-64/tavidozf/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thunderforce-commodore-64/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3124756,
+      "track_number": 2,
+      "title": "In-Game BGM",
+      "runtime": 150,
+      "source_mp3": "https://vgmsite.com/soundtracks/thunderforce-commodore-64/ynbfmptf/02_In-Game%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thunderforce-commodore-64/02_In-Game%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2107637,
+      "track_number": 3,
+      "title": "Name Entry",
+      "runtime": 116,
+      "source_mp3": "https://vgmsite.com/soundtracks/thunderforce-commodore-64/ytbdeouk/03_Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thunderforce-commodore-64/03_Name%2520Entry.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2915041,
+      "track_number": 4,
+      "title": "Unknown",
+      "runtime": 151,
+      "source_mp3": "https://vgmsite.com/soundtracks/thunderforce-commodore-64/azgiqpcb/04_Unknown.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thunderforce-commodore-64/04_Unknown.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8283750,
+      "track_number": 5,
+      "title": "Title Screen (SID Stereo)",
+      "runtime": 247,
+      "source_mp3": "https://vgmsite.com/soundtracks/thunderforce-commodore-64/ulqurtmi/05_Title%20Screen%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thunderforce-commodore-64/05_Title%2520Screen%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5295308,
+      "track_number": 6,
+      "title": "In-Game BGM (SID Stereo)",
+      "runtime": 151,
+      "source_mp3": "https://vgmsite.com/soundtracks/thunderforce-commodore-64/uxotappo/06_In-Game%20BGM%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thunderforce-commodore-64/06_In-Game%2520BGM%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3701473,
+      "track_number": 7,
+      "title": "Name Entry (SID Stereo)",
+      "runtime": 115,
+      "source_mp3": "https://vgmsite.com/soundtracks/thunderforce-commodore-64/uormqhoe/07_Name%20Entry%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thunderforce-commodore-64/07_Name%2520Entry%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5190451,
+      "track_number": 8,
+      "title": "Unknown (SID Stereo)",
+      "runtime": 151,
+      "source_mp3": "https://vgmsite.com/soundtracks/thunderforce-commodore-64/xngfvkbi/08_Unknown%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thunderforce-commodore-64/08_Unknown%2520%2528SID%2520Stereo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1329,
+    "filesize_mp3_bytes": 35274093,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "title": "Tower of Fantasy: New World",
+  "titles_alternative": [
+    "New World (\u5e7b\u58542.0\u7248\u672c\u7ef4\u62c9\u4e3b\u9898\u66f2\uff09"
+  ],
+  "crawled_at": "2023-09-25T10:24:30.502435+00:00",
+  "slug": "tower-of-fantasy-new-world-2022",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tower-of-fantasy-new-world-2022",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "Online": "https://downloads.khinsider.com/game-soundtracks/online",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tower-of-fantasy-new-world-2022/109951167504990806.jpg"
+  ],
+  "year": 2022,
+  "catalog_number": null,
+  "date_added": "2023-06-15T00:00:00+00:00",
+  "developers": {
+    "Hotta Studio": "https://downloads.khinsider.com/game-soundtracks/developer/hotta-studio"
+  },
+  "publishers": {
+    "Hotta Studio": "https://downloads.khinsider.com/game-soundtracks/publisher/hotta-studio"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8587837,
+      "track_number": 1,
+      "title": "SUNMI(\uc120\ubbf8) ~ New World",
+      "runtime": 211,
+      "source_mp3": "https://vgmsite.com/soundtracks/tower-of-fantasy-new-world-2022/zpeyrdzgec/01.%20SUNMI%28%EC%84%A0%EB%AF%B8%29%20~%20New%20World.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tower-of-fantasy-new-world-2022/01.%2520SUNMI%2528%25EC%2584%25A0%25EB%25AF%25B8%2529%2520~%2520New%2520World.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8587837,
+      "track_number": 2,
+      "title": "New World - Instrumental",
+      "runtime": 211,
+      "source_mp3": "https://vgmsite.com/soundtracks/tower-of-fantasy-new-world-2022/hyclyhizjn/02.%20New%20World%20-%20Instrumental.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tower-of-fantasy-new-world-2022/02.%2520New%2520World%2520-%2520Instrumental.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 422,
+    "filesize_mp3_bytes": 17175674,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "title": "Thexder",
+  "titles_alternative": [
+    "Thexder 88",
+    "\u30c6\u30b0\u30b6\u30fc"
+  ],
+  "crawled_at": "2023-09-25T08:24:23.311187+00:00",
+  "slug": "thexder-msx",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/thexder-msx",
+  "platforms": {
+    "MSX": "https://downloads.khinsider.com/game-soundtracks/msx"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/thexder-msx/TX.jpg"
+  ],
+  "year": 1986,
+  "date_added": "2019-04-29T00:00:00+00:00",
+  "developers": {
+    "Compile": "https://downloads.khinsider.com/game-soundtracks/developer/compile",
+    "Game Arts": "https://downloads.khinsider.com/game-soundtracks/developer/game-arts"
+  },
+  "publishers": {
+    "Game Arts": "https://downloads.khinsider.com/game-soundtracks/publisher/game-arts"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3523215,
+      "track_number": 1,
+      "title": "Thexder",
+      "runtime": 127,
+      "source_mp3": "https://vgmsite.com/soundtracks/thexder-msx/uxrrxxzo/01_Thexder.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thexder-msx/01_Thexder.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 702545,
+      "track_number": 2,
+      "title": "Moon Light Sonata (Ending)",
+      "runtime": 26,
+      "source_mp3": "https://vgmsite.com/soundtracks/thexder-msx/rxjbmqye/02_Moon%20Light%20Sonata%20%28Ending%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thexder-msx/02_Moon%2520Light%2520Sonata%2520%2528Ending%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 153,
+    "filesize_mp3_bytes": 4225760,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

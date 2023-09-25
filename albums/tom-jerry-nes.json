@@ -1,0 +1,92 @@
+{
+  "title": "Tom & Jerry - The Ultimate Game of Cat and Mouse!",
+  "titles_alternative": [
+    "Tom and Jerry (and Tuffy)",
+    "\u30c8\u30e0\u3068\u30b8\u30a7\u30ea\u30fc&\u30bf\u30c3\u30d5\u30a3\u30fc"
+  ],
+  "crawled_at": "2023-09-25T09:43:38.494161+00:00",
+  "slug": "tom-jerry-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tom-jerry-nes",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tom-jerry-nes/5401484-tom-jerry-nes-front-cover.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2022-06-29T00:00:00+00:00",
+  "developers": {
+    "Software Creations": "https://downloads.khinsider.com/game-soundtracks/developer/software-creations"
+  },
+  "publishers": {
+    "Altron": "https://downloads.khinsider.com/game-soundtracks/publisher/altron",
+    "Hi-Tech Expressions": "https://downloads.khinsider.com/game-soundtracks/publisher/hi-tech-expressions"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 859832,
+      "filesize_mp3_bytes": 325058,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 17,
+      "source_mp3": "https://vgmsite.com/soundtracks/tom-jerry-nes/ftoylslvxr/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tom-jerry-nes/ftoylslvxr/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tom-jerry-nes/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10611589,
+      "filesize_mp3_bytes": 4057989,
+      "track_number": 2,
+      "title": "Opening - Stage Theme 2",
+      "runtime": 197,
+      "source_mp3": "https://vgmsite.com/soundtracks/tom-jerry-nes/gxgxmylqth/02%20Opening%20-%20Stage%20Theme%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tom-jerry-nes/gxgxmylqth/02%20Opening%20-%20Stage%20Theme%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tom-jerry-nes/02%2520Opening%2520-%2520Stage%2520Theme%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10957619,
+      "filesize_mp3_bytes": 4183818,
+      "track_number": 3,
+      "title": "Credits - Stage Theme 1",
+      "runtime": 205,
+      "source_mp3": "https://vgmsite.com/soundtracks/tom-jerry-nes/dejbtkzvbn/03%20Credits%20-%20Stage%20Theme%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tom-jerry-nes/dejbtkzvbn/03%20Credits%20-%20Stage%20Theme%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tom-jerry-nes/03%2520Credits%2520-%2520Stage%2520Theme%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 461373,
+      "filesize_mp3_bytes": 178257,
+      "track_number": 4,
+      "title": "World Clear",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/tom-jerry-nes/sntpeqosdh/04%20World%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tom-jerry-nes/sntpeqosdh/04%20World%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tom-jerry-nes/04%2520World%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 450887,
+      "filesize_mp3_bytes": 167772,
+      "track_number": 5,
+      "title": "Rescued Tuffy (MGM Intro)",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/tom-jerry-nes/qudhhnryhi/05%20Rescued%20Tuffy%20%28MGM%20Intro%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tom-jerry-nes/qudhhnryhi/05%20Rescued%20Tuffy%20%28MGM%20Intro%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tom-jerry-nes/05%2520Rescued%2520Tuffy%2520%2528MGM%2520Intro%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 437,
+    "filesize_mp3_bytes": 8912894,
+    "filesize_flac_bytes": 23341300,
+    "tracks": 5
+  }
+}

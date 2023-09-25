@@ -1,0 +1,52 @@
+{
+  "title": "Towers 2 Plight of the Stargazer",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T10:25:50.326459+00:00",
+  "slug": "towers-2-plight-of-the-stargazer-atari-jaguar",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/towers-2-plight-of-the-stargazer-atari-jaguar",
+  "platforms": {
+    "Atari Jaguar": "https://downloads.khinsider.com/game-soundtracks/atari-jaguar"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/towers-2-plight-of-the-stargazer-atari-jaguar/Towers%20II%20Plight%20of%20the%20Stargazer%20Jaguar%20back%20cover.jpg"
+  ],
+  "year": 1996,
+  "date_added": "2020-09-27T00:00:00+00:00",
+  "developers": {
+    "JV Enterprises": "https://downloads.khinsider.com/game-soundtracks/developer/jv-enterprises"
+  },
+  "publishers": {
+    "Telegames": "https://downloads.khinsider.com/game-soundtracks/publisher/telegames"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7214202,
+      "track_number": 1,
+      "title": "Intro Theme",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/towers-2-plight-of-the-stargazer-atari-jaguar/iqsvmmixga/1.%20Intro%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/towers-2-plight-of-the-stargazer-atari-jaguar/1.%2520Intro%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4812963,
+      "track_number": 2,
+      "title": "In-Game Music",
+      "runtime": 120,
+      "source_mp3": "https://vgmsite.com/soundtracks/towers-2-plight-of-the-stargazer-atari-jaguar/zbbsspoeck/2.%20In-Game%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/towers-2-plight-of-the-stargazer-atari-jaguar/2.%2520In-Game%2520Music.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 300,
+    "filesize_mp3_bytes": 12027165,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "title": "Tusker",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T11:15:35.039195+00:00",
+  "slug": "tusker-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tusker-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tusker-amiga/Tusker.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2019-06-03T00:00:00+00:00",
+  "developers": {
+    "System 3": "https://downloads.khinsider.com/game-soundtracks/developer/system-3"
+  },
+  "publishers": {
+    "Kixx": "https://downloads.khinsider.com/game-soundtracks/publisher/kixx",
+    "System 3": "https://downloads.khinsider.com/game-soundtracks/publisher/system-3"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4760535,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 171,
+      "source_mp3": "https://vgmsite.com/soundtracks/tusker-amiga/sokjhwabsc/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tusker-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7035944,
+      "track_number": 2,
+      "title": "Area 1 BGM",
+      "runtime": 253,
+      "source_mp3": "https://vgmsite.com/soundtracks/tusker-amiga/gziceskbxe/02_Area%201%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tusker-amiga/02_Area%25201%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10852761,
+      "track_number": 3,
+      "title": "Area 2 BGM",
+      "runtime": 355,
+      "source_mp3": "https://vgmsite.com/soundtracks/tusker-amiga/ryvkmytmbh/03_Area%202%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tusker-amiga/03_Area%25202%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 408944,
+      "track_number": 4,
+      "title": "Ending",
+      "runtime": 15,
+      "source_mp3": "https://vgmsite.com/soundtracks/tusker-amiga/qkxlrrceeo/04_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tusker-amiga/04_Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 325058,
+      "track_number": 5,
+      "title": "Game Over",
+      "runtime": 12,
+      "source_mp3": "https://vgmsite.com/soundtracks/tusker-amiga/ihqnjgfsiz/05_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tusker-amiga/05_Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5704253,
+      "track_number": 6,
+      "title": "Unused (Title Screen)",
+      "runtime": 202,
+      "source_mp3": "https://vgmsite.com/soundtracks/tusker-amiga/kxhhhtcfbv/06_Unused%20%28Title%20Screen%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tusker-amiga/06_Unused%2520%2528Title%2520Screen%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8252293,
+      "track_number": 7,
+      "title": "Unused (In-Game BGM)",
+      "runtime": 293,
+      "source_mp3": "https://vgmsite.com/soundtracks/tusker-amiga/lbrzynaznu/07_Unused%20%28In-Game%20BGM%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tusker-amiga/07_Unused%2520%2528In-Game%2520BGM%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1301,
+    "filesize_mp3_bytes": 37339788,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

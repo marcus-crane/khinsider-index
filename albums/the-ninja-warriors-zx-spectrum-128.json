@@ -1,0 +1,48 @@
+{
+  "title": "The Ninja Warriors (ZX Spectrum 128)",
+  "titles_alternative": [
+    "\u30cb\u30f3\u30b8\u30e3\u30a6\u30a9\u30fc\u30ea\u30a2\u30fc\u30ba"
+  ],
+  "crawled_at": "2023-09-25T07:12:30.793629+00:00",
+  "slug": "the-ninja-warriors-zx-spectrum-128",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/the-ninja-warriors-zx-spectrum-128",
+  "platforms": {
+    "Spectrum": "https://downloads.khinsider.com/game-soundtracks/spectrum"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/the-ninja-warriors-zx-spectrum-128/The%20Ninja%20Warriors.png"
+  ],
+  "year": 1989,
+  "date_added": "2022-06-18T00:00:00+00:00",
+  "developers": {
+    "Random Access": "https://downloads.khinsider.com/game-soundtracks/developer/random-access",
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/developer/taito"
+  },
+  "publishers": {
+    "Dro": "https://downloads.khinsider.com/game-soundtracks/publisher/dro",
+    "Tronix": "https://downloads.khinsider.com/game-soundtracks/publisher/tronix",
+    "Virgin": "https://downloads.khinsider.com/game-soundtracks/publisher/virgin"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 26812088,
+      "filesize_mp3_bytes": 11251220,
+      "track_number": 1,
+      "title": "Daddy Mulk",
+      "runtime": 505,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-ninja-warriors-zx-spectrum-128/ggrshedzoy/01%20Daddy%20Mulk.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/the-ninja-warriors-zx-spectrum-128/ggrshedzoy/01%20Daddy%20Mulk.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-ninja-warriors-zx-spectrum-128/01%2520Daddy%2520Mulk.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 505,
+    "filesize_mp3_bytes": 11251220,
+    "filesize_flac_bytes": 26812088,
+    "tracks": 1
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "title": "Thunder Warrior",
+  "titles_alternative": [
+    "Gluk the Thunder Warrior"
+  ],
+  "crawled_at": "2023-09-25T08:35:49.790172+00:00",
+  "slug": "thunder-warrior-1992-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/thunder-warrior-1992-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/thunder-warrior-1992-nes/Thunder%20Warrior%20%281992%29%20%28NES%29.jpg"
+  ],
+  "year": 1992,
+  "date_added": "2022-06-22T00:00:00+00:00",
+  "developers": {
+    "Micro Genius": "https://downloads.khinsider.com/game-soundtracks/developer/micro-genius"
+  },
+  "publishers": {
+    "Micro Genius": "https://downloads.khinsider.com/game-soundtracks/publisher/micro-genius"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11167334,
+      "filesize_mp3_bytes": 3932160,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/thunder-warrior-1992-nes/nfazdmyqgx/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/thunder-warrior-1992-nes/nfazdmyqgx/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thunder-warrior-1992-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 566231,
+      "filesize_mp3_bytes": 167772,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/thunder-warrior-1992-nes/ejjcirobap/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/thunder-warrior-1992-nes/ejjcirobap/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thunder-warrior-1992-nes/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10905190,
+      "filesize_mp3_bytes": 3690987,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/thunder-warrior-1992-nes/daxccojdrz/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/thunder-warrior-1992-nes/daxccojdrz/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thunder-warrior-1992-nes/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11660165,
+      "filesize_mp3_bytes": 3670016,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/thunder-warrior-1992-nes/rfyetrjomb/04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/thunder-warrior-1992-nes/rfyetrjomb/04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thunder-warrior-1992-nes/04.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 550,
+    "filesize_mp3_bytes": 11460935,
+    "filesize_flac_bytes": 34298920,
+    "tracks": 4
+  }
+}

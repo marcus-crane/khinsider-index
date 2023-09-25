@@ -1,0 +1,59 @@
+{
+  "title": "Tom and Jerry",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T09:25:39.118667+00:00",
+  "slug": "tom-and-jerry-amiga-rip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tom-and-jerry-amiga-rip",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tom-and-jerry-amiga-rip/T1.png"
+  ],
+  "year": 1989,
+  "date_added": "2006-11-25T00:00:00+00:00",
+  "developers": {
+    "Magic Bytes": "https://downloads.khinsider.com/game-soundtracks/developer/magic-bytes"
+  },
+  "publishers": {
+    "Magic Bytes": "https://downloads.khinsider.com/game-soundtracks/publisher/magic-bytes"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9573498,
+      "title": "tom & jerry -01- bgm 01",
+      "runtime": 239,
+      "source_mp3": "https://vgmsite.com/soundtracks/tom-and-jerry-amiga-rip/glqphzfq/tom%20%26%20jerry%20-01-%20bgm%2001.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tom-and-jerry-amiga-rip/tom%2520%2526%2520jerry%2520-01-%2520bgm%252001.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4739563,
+      "title": "tom & jerry -02- bgm 02",
+      "runtime": 118,
+      "source_mp3": "https://vgmsite.com/soundtracks/tom-and-jerry-amiga-rip/cqbujlcy/tom%20%26%20jerry%20-02-%20bgm%2002.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tom-and-jerry-amiga-rip/tom%2520%2526%2520jerry%2520-02-%2520bgm%252002.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 796917,
+      "title": "tom & jerry -03- game over",
+      "runtime": 20,
+      "source_mp3": "https://vgmsite.com/soundtracks/tom-and-jerry-amiga-rip/qkhodcej/tom%20%26%20jerry%20-03-%20game%20over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tom-and-jerry-amiga-rip/tom%2520%2526%2520jerry%2520-03-%2520game%2520over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 377,
+    "filesize_mp3_bytes": 15109978,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

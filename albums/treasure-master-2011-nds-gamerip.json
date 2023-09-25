@@ -1,0 +1,43 @@
+{
+  "title": "Treasure Master",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T10:46:39.074128+00:00",
+  "slug": "treasure-master-2011-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/treasure-master-2011-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/treasure-master-2011-nds-gamerip/Treasure%20Master.jpg"
+  ],
+  "year": 2011,
+  "date_added": "2020-06-24T00:00:00+00:00",
+  "developers": {
+    "MSL": "https://downloads.khinsider.com/game-soundtracks/developer/msl"
+  },
+  "publishers": {
+    "MSL": "https://downloads.khinsider.com/game-soundtracks/publisher/msl"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5221908,
+      "filesize_mp3_bytes": 2233466,
+      "track_number": 2,
+      "title": "music",
+      "runtime": 97,
+      "source_mp3": "https://vgmsite.com/soundtracks/treasure-master-2011-nds-gamerip/vruywuyozg/02music.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/treasure-master-2011-nds-gamerip/vruywuyozg/02music.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/treasure-master-2011-nds-gamerip/02music.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 97,
+    "filesize_mp3_bytes": 2233466,
+    "filesize_flac_bytes": 5221908,
+    "tracks": 1
+  }
+}

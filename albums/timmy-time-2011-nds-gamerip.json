@@ -1,0 +1,92 @@
+{
+  "title": "Timmy Time",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T08:47:29.139689+00:00",
+  "slug": "timmy-time-2011-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/timmy-time-2011-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/timmy-time-2011-nds-gamerip/Timmy%20Time.jpg"
+  ],
+  "year": 2011,
+  "date_added": "2020-06-24T00:00:00+00:00",
+  "developers": {
+    "GSP": "https://downloads.khinsider.com/game-soundtracks/developer/gsp"
+  },
+  "publishers": {
+    "GSP": "https://downloads.khinsider.com/game-soundtracks/publisher/gsp"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1897922,
+      "filesize_mp3_bytes": 786432,
+      "title": "G002 Song00",
+      "runtime": 47,
+      "source_mp3": "https://vgmsite.com/soundtracks/timmy-time-2011-nds-gamerip/tothgujdtz/G002%20Song00.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/timmy-time-2011-nds-gamerip/tothgujdtz/G002%20Song00.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/timmy-time-2011-nds-gamerip/G002%2520Song00.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 901775,
+      "filesize_mp3_bytes": 230686,
+      "title": "Music 00",
+      "runtime": 20,
+      "source_mp3": "https://vgmsite.com/soundtracks/timmy-time-2011-nds-gamerip/dpnhkkemef/Music%2000.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/timmy-time-2011-nds-gamerip/dpnhkkemef/Music%2000.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/timmy-time-2011-nds-gamerip/Music%252000.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2852126,
+      "filesize_mp3_bytes": 943718,
+      "title": "Theme De03",
+      "runtime": 55,
+      "source_mp3": "https://vgmsite.com/soundtracks/timmy-time-2011-nds-gamerip/aztewgaxef/Theme%20De03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/timmy-time-2011-nds-gamerip/aztewgaxef/Theme%20De03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/timmy-time-2011-nds-gamerip/Theme%2520De03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2936012,
+      "filesize_mp3_bytes": 838860,
+      "title": "Theme Fr01",
+      "runtime": 56,
+      "source_mp3": "https://vgmsite.com/soundtracks/timmy-time-2011-nds-gamerip/tcvfyieldy/Theme%20Fr01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/timmy-time-2011-nds-gamerip/tcvfyieldy/Theme%20Fr01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/timmy-time-2011-nds-gamerip/Theme%2520Fr01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2894069,
+      "filesize_mp3_bytes": 723517,
+      "title": "Theme Gb00",
+      "runtime": 55,
+      "source_mp3": "https://vgmsite.com/soundtracks/timmy-time-2011-nds-gamerip/yiemeqnsdd/Theme%20Gb00.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/timmy-time-2011-nds-gamerip/yiemeqnsdd/Theme%20Gb00.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/timmy-time-2011-nds-gamerip/Theme%2520Gb00.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2873098,
+      "filesize_mp3_bytes": 723517,
+      "title": "Theme Nl02",
+      "runtime": 55,
+      "source_mp3": "https://vgmsite.com/soundtracks/timmy-time-2011-nds-gamerip/uqfwdcootx/Theme%20Nl02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/timmy-time-2011-nds-gamerip/uqfwdcootx/Theme%20Nl02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/timmy-time-2011-nds-gamerip/Theme%2520Nl02.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 288,
+    "filesize_mp3_bytes": 4246730,
+    "filesize_flac_bytes": 14355002,
+    "tracks": 6
+  }
+}

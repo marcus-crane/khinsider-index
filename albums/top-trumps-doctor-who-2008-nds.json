@@ -1,0 +1,76 @@
+{
+  "title": "Top Trumps - Doctor Who",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T09:56:31.932422+00:00",
+  "slug": "top-trumps-doctor-who-2008-nds",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/top-trumps-doctor-who-2008-nds",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/top-trumps-doctor-who-2008-nds/Top%20Trumps%20-%20Doctor%20Who.jpg"
+  ],
+  "year": 2008,
+  "date_added": "2020-11-11T00:00:00+00:00",
+  "developers": {
+    "Rockpool": "https://downloads.khinsider.com/game-soundtracks/developer/rockpool"
+  },
+  "publishers": {
+    "Eidos": "https://downloads.khinsider.com/game-soundtracks/publisher/eidos"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5463080,
+      "filesize_mp3_bytes": 2065694,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 153,
+      "source_mp3": "https://vgmsite.com/soundtracks/top-trumps-doctor-who-2008-nds/tzfzjgmmig/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/top-trumps-doctor-who-2008-nds/tzfzjgmmig/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/top-trumps-doctor-who-2008-nds/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2485125,
+      "filesize_mp3_bytes": 891289,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 65,
+      "source_mp3": "https://vgmsite.com/soundtracks/top-trumps-doctor-who-2008-nds/noutxmcutj/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/top-trumps-doctor-who-2008-nds/noutxmcutj/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/top-trumps-doctor-who-2008-nds/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4204789,
+      "filesize_mp3_bytes": 1541406,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 122,
+      "source_mp3": "https://vgmsite.com/soundtracks/top-trumps-doctor-who-2008-nds/dcrtimqrpg/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/top-trumps-doctor-who-2008-nds/dcrtimqrpg/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/top-trumps-doctor-who-2008-nds/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3869245,
+      "filesize_mp3_bytes": 1373634,
+      "track_number": 4,
+      "title": "Test Music",
+      "runtime": 40,
+      "source_mp3": "https://vgmsite.com/soundtracks/top-trumps-doctor-who-2008-nds/aijtkqwomb/04%20Test%20Music.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/top-trumps-doctor-who-2008-nds/aijtkqwomb/04%20Test%20Music.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/top-trumps-doctor-who-2008-nds/04%2520Test%2520Music.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 380,
+    "filesize_mp3_bytes": 5872023,
+    "filesize_flac_bytes": 16022239,
+    "tracks": 4
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "title": "TwinWorld",
+  "titles_alternative": [
+    "Twin World: Land of Vision"
+  ],
+  "crawled_at": "2023-09-25T11:23:20.412443+00:00",
+  "slug": "twinworld-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/twinworld-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/twinworld-amiga/T1.png"
+  ],
+  "year": 1989,
+  "date_added": "2019-06-03T00:00:00+00:00",
+  "developers": {
+    "Blue Byte": "https://downloads.khinsider.com/game-soundtracks/developer/blue-byte"
+  },
+  "publishers": {
+    "Ubisoft": "https://downloads.khinsider.com/game-soundtracks/publisher/ubisoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4833935,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 183,
+      "source_mp3": "https://vgmsite.com/soundtracks/twinworld-amiga/ghvnajaecz/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/twinworld-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4267704,
+      "track_number": 2,
+      "title": "Level 1 Caves",
+      "runtime": 143,
+      "source_mp3": "https://vgmsite.com/soundtracks/twinworld-amiga/jixynxdsvo/02_Level%201%20Caves.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/twinworld-amiga/02_Level%25201%2520Caves.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3890216,
+      "track_number": 3,
+      "title": "Level 2 Dark Forest",
+      "runtime": 143,
+      "source_mp3": "https://vgmsite.com/soundtracks/twinworld-amiga/sipotltlon/03_Level%202%20Dark%20Forest.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/twinworld-amiga/03_Level%25202%2520Dark%2520Forest.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6448742,
+      "track_number": 4,
+      "title": "Level 3 Blackthorn",
+      "runtime": 222,
+      "source_mp3": "https://vgmsite.com/soundtracks/twinworld-amiga/vkmfduhgxt/04_Level%203%20Blackthorn.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/twinworld-amiga/04_Level%25203%2520Blackthorn.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6228541,
+      "track_number": 5,
+      "title": "Level 4 Swamps of Montain",
+      "runtime": 237,
+      "source_mp3": "https://vgmsite.com/soundtracks/twinworld-amiga/hafwvldywk/05_Level%204%20Swamps%20of%20Montain.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/twinworld-amiga/05_Level%25204%2520Swamps%2520of%2520Montain.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7801405,
+      "track_number": 6,
+      "title": "Level 5 Maldur's Temple",
+      "runtime": 237,
+      "source_mp3": "https://vgmsite.com/soundtracks/twinworld-amiga/abifwjzfbi/06_Level%205%20Maldur%27s%20Temple.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/twinworld-amiga/06_Level%25205%2520Maldur%2527s%2520Temple.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5840568,
+      "track_number": 7,
+      "title": "Ending",
+      "runtime": 222,
+      "source_mp3": "https://vgmsite.com/soundtracks/twinworld-amiga/jzignsjeug/07_Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/twinworld-amiga/07_Ending.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1387,
+    "filesize_mp3_bytes": 39311111,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

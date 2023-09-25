@@ -1,0 +1,51 @@
+{
+  "title": "Welcome to the PARADE! ~GRANBLUE FANTASY~",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T12:28:47.327128+00:00",
+  "slug": "welcome-to-the-parade-granblue-fantasy-2022",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/welcome-to-the-parade-granblue-fantasy-2022",
+  "platforms": {
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/welcome-to-the-parade-granblue-fantasy-2022/folder.jpg"
+  ],
+  "year": 2022,
+  "catalog_number": "SVWC-70592",
+  "date_added": "2023-02-25T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 33386659,
+      "filesize_mp3_bytes": 7822376,
+      "track_number": 1,
+      "title": "Welcome to the PARADE!",
+      "runtime": 237,
+      "source_mp3": "https://vgmsite.com/soundtracks/welcome-to-the-parade-granblue-fantasy-2022/zwqjvkimeb/01%20-%20Welcome%20to%20the%20PARADE%21.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/welcome-to-the-parade-granblue-fantasy-2022/zwqjvkimeb/01%20-%20Welcome%20to%20the%20PARADE%21.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/welcome-to-the-parade-granblue-fantasy-2022/01%2520-%2520Welcome%2520to%2520the%2520PARADE%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 31992053,
+      "filesize_mp3_bytes": 7843348,
+      "track_number": 2,
+      "title": "Welcome to the PARADE! (instrumental)",
+      "runtime": 234,
+      "source_mp3": "https://vgmsite.com/soundtracks/welcome-to-the-parade-granblue-fantasy-2022/qukhnhsxqz/02%20-%20Welcome%20to%20the%20PARADE%21%20%28instrumental%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/welcome-to-the-parade-granblue-fantasy-2022/qukhnhsxqz/02%20-%20Welcome%20to%20the%20PARADE%21%20%28instrumental%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/welcome-to-the-parade-granblue-fantasy-2022/02%2520-%2520Welcome%2520to%2520the%2520PARADE%2521%2520%2528instrumental%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 471,
+    "filesize_mp3_bytes": 15665724,
+    "filesize_flac_bytes": 65378712,
+    "tracks": 2
+  }
+}

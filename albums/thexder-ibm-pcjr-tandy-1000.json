@@ -1,0 +1,78 @@
+{
+  "title": "Thexder (IBM PCjr, Tandy 1000)",
+  "titles_alternative": [
+    "\u30c6\u30b0\u30b6\u30fc"
+  ],
+  "crawled_at": "2023-09-25T08:24:21.760376+00:00",
+  "slug": "thexder-ibm-pcjr-tandy-1000",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/thexder-ibm-pcjr-tandy-1000",
+  "platforms": {
+    "IBM PC": "https://downloads.khinsider.com/game-soundtracks/ibm-pc"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/thexder-ibm-pcjr-tandy-1000/Thexder%20%28EGA%29.png"
+  ],
+  "year": 1987,
+  "date_added": "2022-06-20T00:00:00+00:00",
+  "developers": {
+    "Game Arts": "https://downloads.khinsider.com/game-soundtracks/developer/game-arts"
+  },
+  "publishers": {
+    "Sierra On-Line": "https://downloads.khinsider.com/game-soundtracks/publisher/sierra-on-line"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11544821,
+      "filesize_mp3_bytes": 3890216,
+      "track_number": 1,
+      "title": "Title Screen (Moonlight Sonata) [IBM PCjr]",
+      "runtime": 210,
+      "source_mp3": "https://vgmsite.com/soundtracks/thexder-ibm-pcjr-tandy-1000/azwshknrod/01%20Title%20Screen%20%28Moonlight%20Sonata%29%20%5BIBM%20PCjr%5D.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/thexder-ibm-pcjr-tandy-1000/azwshknrod/01%20Title%20Screen%20%28Moonlight%20Sonata%29%20%5BIBM%20PCjr%5D.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thexder-ibm-pcjr-tandy-1000/01%2520Title%2520Screen%2520%2528Moonlight%2520Sonata%2529%2520%255BIBM%2520PCjr%255D.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6165626,
+      "filesize_mp3_bytes": 2222981,
+      "track_number": 2,
+      "title": "Thexder Theme [IBM PCjr]",
+      "runtime": 112,
+      "source_mp3": "https://vgmsite.com/soundtracks/thexder-ibm-pcjr-tandy-1000/gnxrguzoec/02%20Thexder%20Theme%20%5BIBM%20PCjr%5D.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/thexder-ibm-pcjr-tandy-1000/gnxrguzoec/02%20Thexder%20Theme%20%5BIBM%20PCjr%5D.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thexder-ibm-pcjr-tandy-1000/02%2520Thexder%2520Theme%2520%255BIBM%2520PCjr%255D.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11785994,
+      "filesize_mp3_bytes": 3837788,
+      "track_number": 3,
+      "title": "Title Screen (Moonlight Sonata) [Tandy 1000]",
+      "runtime": 210,
+      "source_mp3": "https://vgmsite.com/soundtracks/thexder-ibm-pcjr-tandy-1000/bcukoxqdkj/03%20Title%20Screen%20%28Moonlight%20Sonata%29%20%5BTandy%201000%5D.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/thexder-ibm-pcjr-tandy-1000/bcukoxqdkj/03%20Title%20Screen%20%28Moonlight%20Sonata%29%20%5BTandy%201000%5D.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thexder-ibm-pcjr-tandy-1000/03%2520Title%2520Screen%2520%2528Moonlight%2520Sonata%2529%2520%255BTandy%25201000%255D.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6197084,
+      "filesize_mp3_bytes": 2170552,
+      "track_number": 4,
+      "title": "Thexder Theme [Tandy 1000]",
+      "runtime": 112,
+      "source_mp3": "https://vgmsite.com/soundtracks/thexder-ibm-pcjr-tandy-1000/vxxcpxyraq/04%20Thexder%20Theme%20%5BTandy%201000%5D.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/thexder-ibm-pcjr-tandy-1000/vxxcpxyraq/04%20Thexder%20Theme%20%5BTandy%201000%5D.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thexder-ibm-pcjr-tandy-1000/04%2520Thexder%2520Theme%2520%255BTandy%25201000%255D.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 644,
+    "filesize_mp3_bytes": 12121537,
+    "filesize_flac_bytes": 35693525,
+    "tracks": 4
+  }
+}

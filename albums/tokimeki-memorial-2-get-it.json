@@ -1,0 +1,64 @@
+{
+  "title": "Tokimeki Memorial 2 Get It",
+  "titles_alternative": [
+    "Get it! / Junko Noda",
+    "Get it! / \u91ce\u7530\u9806\u5b50"
+  ],
+  "crawled_at": "2023-09-25T09:07:16.447508+00:00",
+  "slug": "tokimeki-memorial-2-get-it",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tokimeki-memorial-2-get-it",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tokimeki-memorial-2-get-it/KMCM-13.jpg"
+  ],
+  "year": 2001,
+  "catalog_number": "KMCM-13",
+  "date_added": "2022-07-03T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5200936,
+      "track_number": 1,
+      "title": "Get it!",
+      "runtime": 325,
+      "source_mp3": "https://vgmsite.com/soundtracks/tokimeki-memorial-2-get-it/tvrfucjgmc/01-Get%20it%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tokimeki-memorial-2-get-it/01-Get%2520it%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3837788,
+      "track_number": 2,
+      "title": "Omoi.. (Tokimeki Memorial Substories ~Memories Ringing On~ Opening Theme)",
+      "runtime": 240,
+      "source_mp3": "https://vgmsite.com/soundtracks/tokimeki-memorial-2-get-it/vyujcovbqh/02-Omoi..%20%28Tokimeki%20Memorial%20Substories%20~Memories%20Ringing%20On~%20Opening%20Theme%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tokimeki-memorial-2-get-it/02-Omoi..%2520%2528Tokimeki%2520Memorial%2520Substories%2520~Memories%2520Ringing%2520On~%2520Opening%2520Theme%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4561305,
+      "track_number": 3,
+      "title": "Kaisen Zen'ya",
+      "runtime": 285,
+      "source_mp3": "https://vgmsite.com/soundtracks/tokimeki-memorial-2-get-it/qhepqvpmvl/03-Kaisen%20Zen%27ya.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tokimeki-memorial-2-get-it/03-Kaisen%2520Zen%2527ya.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 850,
+    "filesize_mp3_bytes": 13600029,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

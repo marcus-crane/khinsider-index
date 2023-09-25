@@ -1,0 +1,62 @@
+{
+  "title": "The Morning Adventure",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T07:08:20.844094+00:00",
+  "slug": "the-morning-adventure-gba",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/the-morning-adventure-gba",
+  "platforms": {
+    "GBA": "https://downloads.khinsider.com/game-soundtracks/gameboy-advance"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/the-morning-adventure-gba/The%20Morning%20Adventure.jpg"
+  ],
+  "year": 2003,
+  "date_added": "2015-08-27T00:00:00+00:00",
+  "developers": {
+    "Bit Managers": "https://downloads.khinsider.com/game-soundtracks/developer/bit-managers"
+  },
+  "publishers": {
+    "Virtual Toys": "https://downloads.khinsider.com/game-soundtracks/publisher/virtual-toys"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5651824,
+      "track_number": 1,
+      "title": "Track 01 - The Morning Adventure",
+      "runtime": 165,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-morning-adventure-gba/hgtbiase/01_Track%2001%20-%20The%20Morning%20Adventure.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-morning-adventure-gba/01_Track%252001%2520-%2520The%2520Morning%2520Adventure.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3030384,
+      "track_number": 2,
+      "title": "Track 02 - The Morning Adventure",
+      "runtime": 88,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-morning-adventure-gba/wszklfri/02_Track%2002%20-%20The%20Morning%20Adventure.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-morning-adventure-gba/02_Track%252002%2520-%2520The%2520Morning%2520Adventure.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2411724,
+      "track_number": 3,
+      "title": "Track 03 - The Morning Adventure",
+      "runtime": 72,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-morning-adventure-gba/jdvmzlok/03_Track%2003%20-%20The%20Morning%20Adventure.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-morning-adventure-gba/03_Track%252003%2520-%2520The%2520Morning%2520Adventure.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 325,
+    "filesize_mp3_bytes": 11093932,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

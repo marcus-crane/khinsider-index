@@ -1,0 +1,53 @@
+{
+  "title": "Wicked",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T12:38:31.037521+00:00",
+  "slug": "wicked-amiga-gamerip-1989",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/wicked-amiga-gamerip-1989",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/wicked-amiga-gamerip-1989/296361_front.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2022-04-15T00:00:00+00:00",
+  "developers": {
+    "Binary Vision": "https://downloads.khinsider.com/game-soundtracks/developer/binary-vision",
+    "Electric Dreams Software": "https://downloads.khinsider.com/game-soundtracks/developer/electric-dreams-software"
+  },
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 54043607,
+      "filesize_mp3_bytes": 4131389,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 258,
+      "source_mp3": "https://vgmsite.com/soundtracks/wicked-amiga-gamerip-1989/ldflcrevfg/1.%20Intro.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/wicked-amiga-gamerip-1989/ldflcrevfg/1.%20Intro.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wicked-amiga-gamerip-1989/1.%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 27346862,
+      "filesize_mp3_bytes": 2296381,
+      "track_number": 2,
+      "title": "High Score",
+      "runtime": 143,
+      "source_mp3": "https://vgmsite.com/soundtracks/wicked-amiga-gamerip-1989/bpfoqcotqh/2.%20High%20Score.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/wicked-amiga-gamerip-1989/bpfoqcotqh/2.%20High%20Score.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wicked-amiga-gamerip-1989/2.%2520High%2520Score.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 401,
+    "filesize_mp3_bytes": 6427770,
+    "filesize_flac_bytes": 81390469,
+    "tracks": 2
+  }
+}

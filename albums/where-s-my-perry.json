@@ -1,0 +1,104 @@
+{
+  "title": "Where's My Perry?",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T12:33:47.243924+00:00",
+  "slug": "where-s-my-perry",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/where-s-my-perry",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios",
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/where-s-my-perry/maxresdefault%20%281%29.jpg"
+  ],
+  "year": 2012,
+  "date_added": "2017-11-04T00:00:00+00:00",
+  "developers": {
+    "Disney Mobile": "https://downloads.khinsider.com/game-soundtracks/developer/disney-mobile"
+  },
+  "publishers": {
+    "Disney Mobile": "https://downloads.khinsider.com/game-soundtracks/publisher/disney-mobile"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 1,
+      "title": "Open Loop",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/where-s-my-perry/nsciltmd/01%20Open%20Loop.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/where-s-my-perry/01%2520Open%2520Loop.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 230686,
+      "track_number": 2,
+      "title": "Theme Song",
+      "runtime": 58,
+      "source_mp3": "https://vgmsite.com/soundtracks/where-s-my-perry/shitnbvt/02%20Theme%20Song.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/where-s-my-perry/02%2520Theme%2520Song.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 220200,
+      "track_number": 3,
+      "title": "Menu",
+      "runtime": 55,
+      "source_mp3": "https://vgmsite.com/soundtracks/where-s-my-perry/arbivcrs/03%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/where-s-my-perry/03%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 314572,
+      "track_number": 4,
+      "title": "Level 1",
+      "runtime": 77,
+      "source_mp3": "https://vgmsite.com/soundtracks/where-s-my-perry/jitgdngo/04%20Level%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/where-s-my-perry/04%2520Level%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 188743,
+      "track_number": 5,
+      "title": "Level 2",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/where-s-my-perry/isesujxf/05%20Level%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/where-s-my-perry/05%2520Level%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 272629,
+      "track_number": 6,
+      "title": "Level 3",
+      "runtime": 68,
+      "source_mp3": "https://vgmsite.com/soundtracks/where-s-my-perry/esfkyjlz/06%20Level%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/where-s-my-perry/06%2520Level%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 251658,
+      "track_number": 7,
+      "title": "Level 4",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/where-s-my-perry/zgohvhuy/07%20Level%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/where-s-my-perry/07%2520Level%25204.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 378,
+    "filesize_mp3_bytes": 1509945,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

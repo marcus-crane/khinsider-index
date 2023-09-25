@@ -1,0 +1,61 @@
+{
+  "title": "Time Surfer OST",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T08:44:31.977206+00:00",
+  "slug": "time-surfer-original-soundtrack",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/time-surfer-original-soundtrack",
+  "platforms": {
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/time-surfer-original-soundtrack/over.png"
+  ],
+  "year": 2013,
+  "catalog_number": null,
+  "date_added": "2016-11-10T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Derris-Kharlan (Bandcamp)": "https://downloads.khinsider.com/game-soundtracks/publisher/derris-kharlan-bandcamp"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 20059258,
+      "track_number": 1,
+      "title": "Apocalypse",
+      "runtime": 602,
+      "source_mp3": "https://vgmsite.com/soundtracks/time-surfer-original-soundtrack/fxbxgskr/01%20Apocalypse.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/time-surfer-original-soundtrack/01%2520Apocalypse.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5158993,
+      "track_number": 2,
+      "title": "There's Always Time To Shop",
+      "runtime": 144,
+      "source_mp3": "https://vgmsite.com/soundtracks/time-surfer-original-soundtrack/hantppyz/02%20There%27s%20Always%20Time%20To%20Shop.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/time-surfer-original-soundtrack/02%2520There%2527s%2520Always%2520Time%2520To%2520Shop.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6857687,
+      "track_number": 3,
+      "title": "Sucks To Be You",
+      "runtime": 194,
+      "source_mp3": "https://vgmsite.com/soundtracks/time-surfer-original-soundtrack/xvghevfa/03%20Sucks%20To%20Be%20You.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/time-surfer-original-soundtrack/03%2520Sucks%2520To%2520Be%2520You.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 940,
+    "filesize_mp3_bytes": 32075938,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

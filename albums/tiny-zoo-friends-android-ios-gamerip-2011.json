@@ -1,0 +1,51 @@
+{
+  "title": "Tiny Zoo Friends",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T08:51:59.062480+00:00",
+  "slug": "tiny-zoo-friends-android-ios-gamerip-2011",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tiny-zoo-friends-android-ios-gamerip-2011",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tiny-zoo-friends-android-ios-gamerip-2011/643x0w.jpg"
+  ],
+  "year": 2011,
+  "date_added": "2023-08-24T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Swipe Forward LLC": "https://downloads.khinsider.com/game-soundtracks/publisher/swipe-forward-llc"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1677721,
+      "track_number": 1,
+      "title": "Tiny Zoo",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/tiny-zoo-friends-android-ios-gamerip-2011/kunjgfvxzf/01.%20Tiny%20Zoo.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tiny-zoo-friends-android-ios-gamerip-2011/01.%2520Tiny%2520Zoo.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2034237,
+      "track_number": 2,
+      "title": "Playpen",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/tiny-zoo-friends-android-ios-gamerip-2011/irauybdpbg/02.%20Playpen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tiny-zoo-friends-android-ios-gamerip-2011/02.%2520Playpen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 128,
+    "filesize_mp3_bytes": 3711958,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

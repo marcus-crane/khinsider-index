@@ -1,0 +1,73 @@
+{
+  "title": "Tusker",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T11:15:37.341005+00:00",
+  "slug": "tusker-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tusker-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tusker-commodore-64/T1.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2016-03-23T00:00:00+00:00",
+  "developers": {
+    "System 3": "https://downloads.khinsider.com/game-soundtracks/developer/system-3"
+  },
+  "publishers": {
+    "Kixx": "https://downloads.khinsider.com/game-soundtracks/publisher/kixx",
+    "System 3": "https://downloads.khinsider.com/game-soundtracks/publisher/system-3"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8975810,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 340,
+      "source_mp3": "https://vgmsite.com/soundtracks/tusker-commodore-64/eqjqhskb/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tusker-commodore-64/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6595543,
+      "track_number": 2,
+      "title": "Stage 1 Desert",
+      "runtime": 292,
+      "source_mp3": "https://vgmsite.com/soundtracks/tusker-commodore-64/ftzxyrfd/02_Stage%201%20Desert.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tusker-commodore-64/02_Stage%25201%2520Desert.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5913968,
+      "track_number": 3,
+      "title": "Stage 2 Village",
+      "runtime": 270,
+      "source_mp3": "https://vgmsite.com/soundtracks/tusker-commodore-64/imxginry/03_Stage%202%20Village.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tusker-commodore-64/03_Stage%25202%2520Village.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7245660,
+      "track_number": 4,
+      "title": "Stage 3 Ancient Temple",
+      "runtime": 282,
+      "source_mp3": "https://vgmsite.com/soundtracks/tusker-commodore-64/vzqmctsv/04_Stage%203%20Ancient%20Temple.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tusker-commodore-64/04_Stage%25203%2520Ancient%2520Temple.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1184,
+    "filesize_mp3_bytes": 28730981,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

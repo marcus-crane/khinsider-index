@@ -1,0 +1,72 @@
+{
+  "title": "Warship Battle 3D - WWII (Joycity Corp)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T12:15:27.853352+00:00",
+  "slug": "warship-battle-3d-wwii-joycity-corp-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/warship-battle-3d-wwii-joycity-corp-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/warship-battle-3d-wwii-joycity-corp-android/1.jpeg"
+  ],
+  "date_added": "2017-03-14T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 765460,
+      "title": "bgm",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/warship-battle-3d-wwii-joycity-corp-android/zmexxkep/bgm.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/warship-battle-3d-wwii-joycity-corp-android/bgm.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 555745,
+      "title": "bgm.battle0",
+      "runtime": 70,
+      "source_mp3": "https://vgmsite.com/soundtracks/warship-battle-3d-wwii-joycity-corp-android/ckoylkim/bgm.battle0.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/warship-battle-3d-wwii-joycity-corp-android/bgm.battle0.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 608174,
+      "title": "bgm.battle1",
+      "runtime": 76,
+      "source_mp3": "https://vgmsite.com/soundtracks/warship-battle-3d-wwii-joycity-corp-android/ngviohyf/bgm.battle1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/warship-battle-3d-wwii-joycity-corp-android/bgm.battle1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 136314,
+      "title": "bgm.mission_fail",
+      "runtime": 16,
+      "source_mp3": "https://vgmsite.com/soundtracks/warship-battle-3d-wwii-joycity-corp-android/nadirxwv/bgm.mission_fail.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/warship-battle-3d-wwii-joycity-corp-android/bgm.mission_fail.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 136314,
+      "title": "bgm.mission_succ",
+      "runtime": 17,
+      "source_mp3": "https://vgmsite.com/soundtracks/warship-battle-3d-wwii-joycity-corp-android/ydgajlzx/bgm.mission_succ.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/warship-battle-3d-wwii-joycity-corp-android/bgm.mission_succ.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 275,
+    "filesize_mp3_bytes": 2202007,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

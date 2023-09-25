@@ -1,0 +1,74 @@
+{
+  "title": "TOCA Touring Car Championship (GBC)",
+  "titles_alternative": [
+    "TOCA Championship Racing"
+  ],
+  "crawled_at": "2023-09-25T08:59:27.026825+00:00",
+  "slug": "toca-touring-car-championship-gb",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/toca-touring-car-championship-gb",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/toca-touring-car-championship-gb/TOCA%20Touring%20Car%20Championship.jpg"
+  ],
+  "year": 2000,
+  "date_added": "2015-03-20T00:00:00+00:00",
+  "developers": {
+    "Spellbound": "https://downloads.khinsider.com/game-soundtracks/developer/spellbound"
+  },
+  "publishers": {
+    "THQ": "https://downloads.khinsider.com/game-soundtracks/publisher/thq"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9258926,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 250,
+      "source_mp3": "https://vgmsite.com/soundtracks/toca-touring-car-championship-gb/hgupwnga/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/toca-touring-car-championship-gb/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2904555,
+      "track_number": 2,
+      "title": "Menu Screen",
+      "runtime": 78,
+      "source_mp3": "https://vgmsite.com/soundtracks/toca-touring-car-championship-gb/mtyebfjf/02_Menu%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/toca-touring-car-championship-gb/02_Menu%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3177185,
+      "track_number": 3,
+      "title": "Victory",
+      "runtime": 85,
+      "source_mp3": "https://vgmsite.com/soundtracks/toca-touring-car-championship-gb/nmhldjos/03_Victory.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/toca-touring-car-championship-gb/03_Victory.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/toca-touring-car-championship-gb/nbgtzclc/04_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/toca-touring-car-championship-gb/04_Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 417,
+    "filesize_mp3_bytes": 15466495,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

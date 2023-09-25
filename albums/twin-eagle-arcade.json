@@ -1,0 +1,74 @@
+{
+  "title": "Twin Eagle",
+  "titles_alternative": [
+    "\u30c4\u30a4\u30f3\u30a4\u30fc\u30b0\u30eb"
+  ],
+  "crawled_at": "2023-09-25T11:18:00.514069+00:00",
+  "slug": "twin-eagle-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/twin-eagle-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/twin-eagle-arcade/TE.jpg"
+  ],
+  "year": 1988,
+  "date_added": "2016-03-02T00:00:00+00:00",
+  "developers": {
+    "Seta": "https://downloads.khinsider.com/game-soundtracks/developer/seta"
+  },
+  "publishers": {
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/publisher/taito"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1730150,
+      "track_number": 1,
+      "title": "Overworld Level BGM (MAME)",
+      "runtime": 57,
+      "source_mp3": "https://vgmsite.com/soundtracks/twin-eagle-arcade/pvolkvao/01_Overworld%20Level%20BGM%20%28MAME%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/twin-eagle-arcade/01_Overworld%2520Level%2520BGM%2520%2528MAME%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2254438,
+      "track_number": 2,
+      "title": "High Speed Level BGM (MAME)",
+      "runtime": 78,
+      "source_mp3": "https://vgmsite.com/soundtracks/twin-eagle-arcade/tgfutbbf/02_High%20Speed%20Level%20BGM%20%28MAME%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/twin-eagle-arcade/02_High%2520Speed%2520Level%2520BGM%2520%2528MAME%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1572864,
+      "track_number": 3,
+      "title": "Overworld Level BGM (ROM)",
+      "runtime": 59,
+      "source_mp3": "https://vgmsite.com/soundtracks/twin-eagle-arcade/ilkgipyl/03_Overworld%20Level%20BGM%20%28ROM%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/twin-eagle-arcade/03_Overworld%2520Level%2520BGM%2520%2528ROM%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2222981,
+      "track_number": 4,
+      "title": "High Speed Level BGM (ROM)",
+      "runtime": 81,
+      "source_mp3": "https://vgmsite.com/soundtracks/twin-eagle-arcade/dlypqogi/04_High%20Speed%20Level%20BGM%20%28ROM%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/twin-eagle-arcade/04_High%2520Speed%2520Level%2520BGM%2520%2528ROM%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 275,
+    "filesize_mp3_bytes": 7780433,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

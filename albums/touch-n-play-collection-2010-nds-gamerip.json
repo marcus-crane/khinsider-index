@@ -1,0 +1,43 @@
+{
+  "title": "Touch 'N' Play Collection",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T10:07:31.808736+00:00",
+  "slug": "touch-n-play-collection-2010-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/touch-n-play-collection-2010-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/touch-n-play-collection-2010-nds-gamerip/T1.png"
+  ],
+  "year": 2010,
+  "date_added": "2020-06-24T00:00:00+00:00",
+  "developers": {
+    "O-Games": "https://downloads.khinsider.com/game-soundtracks/developer/o-games"
+  },
+  "publishers": {
+    "O-Games": "https://downloads.khinsider.com/game-soundtracks/publisher/o-games"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 15917383,
+      "filesize_mp3_bytes": 4456448,
+      "track_number": 1,
+      "title": "Tnp",
+      "runtime": 171,
+      "source_mp3": "https://vgmsite.com/soundtracks/touch-n-play-collection-2010-nds-gamerip/wuerfyegsz/01%20-%20Tnp.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/touch-n-play-collection-2010-nds-gamerip/wuerfyegsz/01%20-%20Tnp.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/touch-n-play-collection-2010-nds-gamerip/01%2520-%2520Tnp.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 171,
+    "filesize_mp3_bytes": 4456448,
+    "filesize_flac_bytes": 15917383,
+    "tracks": 1
+  }
+}

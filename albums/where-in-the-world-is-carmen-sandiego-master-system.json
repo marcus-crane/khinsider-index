@@ -1,0 +1,39 @@
+{
+  "title": "Where in the World is Carmen Sandiego",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T12:33:33.031396+00:00",
+  "slug": "where-in-the-world-is-carmen-sandiego-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/where-in-the-world-is-carmen-sandiego-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/where-in-the-world-is-carmen-sandiego-master-system/Where%20in%20the%20World%20is%20Carmen%20Sandiego.png"
+  ],
+  "year": 1988,
+  "date_added": "2020-07-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 870318,
+      "filesize_mp3_bytes": 314572,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 18,
+      "source_mp3": "https://vgmsite.com/soundtracks/where-in-the-world-is-carmen-sandiego-master-system/fsjonvnlwf/01%20-%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/where-in-the-world-is-carmen-sandiego-master-system/fsjonvnlwf/01%20-%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/where-in-the-world-is-carmen-sandiego-master-system/01%2520-%2520Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 18,
+    "filesize_mp3_bytes": 314572,
+    "filesize_flac_bytes": 870318,
+    "tracks": 1
+  }
+}

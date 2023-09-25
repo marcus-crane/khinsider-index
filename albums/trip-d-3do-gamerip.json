@@ -1,0 +1,94 @@
+{
+  "title": "Trip'd",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T10:54:57.635112+00:00",
+  "slug": "trip-d-3do-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/trip-d-3do-gamerip",
+  "platforms": {
+    "3DO": "https://downloads.khinsider.com/game-soundtracks/3do"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/trip-d-3do-gamerip/cover.jpg"
+  ],
+  "year": 1995,
+  "date_added": "2022-02-16T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3690987,
+      "filesize_mp3_bytes": 1017118,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 57,
+      "source_mp3": "https://vgmsite.com/soundtracks/trip-d-3do-gamerip/djdrmttaak/01%20Title.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/trip-d-3do-gamerip/djdrmttaak/01%20Title.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/trip-d-3do-gamerip/01%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8566865,
+      "filesize_mp3_bytes": 2726297,
+      "track_number": 2,
+      "title": "Earth",
+      "runtime": 140,
+      "source_mp3": "https://vgmsite.com/soundtracks/trip-d-3do-gamerip/lstxtejcba/02%20Earth.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/trip-d-3do-gamerip/lstxtejcba/02%20Earth.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/trip-d-3do-gamerip/02%2520Earth.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5179965,
+      "filesize_mp3_bytes": 1656750,
+      "track_number": 3,
+      "title": "Wind",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/trip-d-3do-gamerip/rvdqgjxgdc/03%20Wind.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/trip-d-3do-gamerip/rvdqgjxgdc/03%20Wind.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/trip-d-3do-gamerip/03%2520Wind.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 13065256,
+      "filesize_mp3_bytes": 3869245,
+      "track_number": 4,
+      "title": "Fire",
+      "runtime": 222,
+      "source_mp3": "https://vgmsite.com/soundtracks/trip-d-3do-gamerip/opmoorgxsg/04%20Fire.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/trip-d-3do-gamerip/opmoorgxsg/04%20Fire.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/trip-d-3do-gamerip/04%2520Fire.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6815744,
+      "filesize_mp3_bytes": 2254438,
+      "track_number": 5,
+      "title": "Danger!",
+      "runtime": 117,
+      "source_mp3": "https://vgmsite.com/soundtracks/trip-d-3do-gamerip/feutifldbc/05%20Danger%21.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/trip-d-3do-gamerip/feutifldbc/05%20Danger%21.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/trip-d-3do-gamerip/05%2520Danger%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4959764,
+      "filesize_mp3_bytes": 1551892,
+      "track_number": 6,
+      "title": "Select Your Opponent",
+      "runtime": 86,
+      "source_mp3": "https://vgmsite.com/soundtracks/trip-d-3do-gamerip/goqaniwost/06%20Select%20Your%20Opponent.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/trip-d-3do-gamerip/goqaniwost/06%20Select%20Your%20Opponent.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/trip-d-3do-gamerip/06%2520Select%2520Your%2520Opponent.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 718,
+    "filesize_mp3_bytes": 13075740,
+    "filesize_flac_bytes": 42278581,
+    "tracks": 6
+  }
+}

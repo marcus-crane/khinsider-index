@@ -1,0 +1,43 @@
+{
+  "title": "Touch the Sky",
+  "titles_alternative": [
+    "Mobile Legends: Bang Bang"
+  ],
+  "crawled_at": "2023-09-25T10:07:32.584114+00:00",
+  "slug": "touch-the-sky-2023",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/touch-the-sky-2023",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/touch-the-sky-2023/cover.png"
+  ],
+  "year": 2023,
+  "date_added": "2023-09-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Moonton": "https://downloads.khinsider.com/game-soundtracks/publisher/moonton"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7434403,
+      "track_number": 1,
+      "title": "Touch The Sky",
+      "runtime": 182,
+      "source_mp3": "https://vgmsite.com/soundtracks/touch-the-sky-2023/oslzjenknv/01.%20Touch%20The%20Sky.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/touch-the-sky-2023/01.%2520Touch%2520The%2520Sky.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 182,
+    "filesize_mp3_bytes": 7434403,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

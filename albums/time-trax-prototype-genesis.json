@@ -1,0 +1,98 @@
+{
+  "title": "Time Trax (Prototype) (50Hz)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T08:45:01.541592+00:00",
+  "slug": "time-trax-prototype-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/time-trax-prototype-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/time-trax-prototype-genesis/Time%20Trax%20%28Prototype%29.png"
+  ],
+  "year": 1994,
+  "date_added": "2023-07-29T00:00:00+00:00",
+  "developers": {
+    "Malibu Interactive": "https://downloads.khinsider.com/game-soundtracks/developer/malibu-interactive"
+  },
+  "publishers": {
+    "Black Pearl Software": "https://downloads.khinsider.com/game-soundtracks/publisher/black-pearl-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 28405923,
+      "filesize_mp3_bytes": 8881438,
+      "track_number": 1,
+      "title": "Title Screen, Credits",
+      "runtime": 276,
+      "source_mp3": "https://vgmsite.com/soundtracks/time-trax-prototype-genesis/mnctnolaeo/01%20-%20Title%20Screen%2C%20Credits.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/time-trax-prototype-genesis/mnctnolaeo/01%20-%20Title%20Screen%2C%20Credits.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/time-trax-prototype-genesis/01%2520-%2520Title%2520Screen%252C%2520Credits.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 40988835,
+      "filesize_mp3_bytes": 13967032,
+      "track_number": 2,
+      "title": "Mission Briefing",
+      "runtime": 457,
+      "source_mp3": "https://vgmsite.com/soundtracks/time-trax-prototype-genesis/rwkxzfvrnl/02%20-%20Mission%20Briefing.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/time-trax-prototype-genesis/rwkxzfvrnl/02%20-%20Mission%20Briefing.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/time-trax-prototype-genesis/02%2520-%2520Mission%2520Briefing.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 29496442,
+      "filesize_mp3_bytes": 7811891,
+      "track_number": 3,
+      "title": "Stages 1, 3, 8",
+      "runtime": 292,
+      "source_mp3": "https://vgmsite.com/soundtracks/time-trax-prototype-genesis/wklfqqgpwl/03%20-%20Stages%201%2C%203%2C%208.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/time-trax-prototype-genesis/wklfqqgpwl/03%20-%20Stages%201%2C%203%2C%208.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/time-trax-prototype-genesis/03%2520-%2520Stages%25201%252C%25203%252C%25208.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 32191283,
+      "filesize_mp3_bytes": 10632560,
+      "track_number": 4,
+      "title": "Stages 2, 5, 7",
+      "runtime": 309,
+      "source_mp3": "https://vgmsite.com/soundtracks/time-trax-prototype-genesis/szcmvnwnby/04%20-%20Stages%202%2C%205%2C%207.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/time-trax-prototype-genesis/szcmvnwnby/04%20-%20Stages%202%2C%205%2C%207.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/time-trax-prototype-genesis/04%2520-%2520Stages%25202%252C%25205%252C%25207.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 29852958,
+      "filesize_mp3_bytes": 9112125,
+      "track_number": 5,
+      "title": "Stages 4, 6",
+      "runtime": 292,
+      "source_mp3": "https://vgmsite.com/soundtracks/time-trax-prototype-genesis/hnuuhcqyke/05%20-%20Stages%204%2C%206.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/time-trax-prototype-genesis/hnuuhcqyke/05%20-%20Stages%204%2C%206.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/time-trax-prototype-genesis/05%2520-%2520Stages%25204%252C%25206.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1331691,
+      "filesize_mp3_bytes": 335544,
+      "track_number": 6,
+      "title": "Game Over",
+      "runtime": 13,
+      "source_mp3": "https://vgmsite.com/soundtracks/time-trax-prototype-genesis/xxqodarirc/06%20-%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/time-trax-prototype-genesis/xxqodarirc/06%20-%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/time-trax-prototype-genesis/06%2520-%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1639,
+    "filesize_mp3_bytes": 50740590,
+    "filesize_flac_bytes": 162267132,
+    "tracks": 6
+  }
+}

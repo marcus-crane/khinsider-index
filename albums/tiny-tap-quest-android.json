@@ -1,0 +1,45 @@
+{
+  "title": "Tiny Tap Quest",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T08:50:31.473658+00:00",
+  "slug": "tiny-tap-quest-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tiny-tap-quest-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tiny-tap-quest-android/1.png"
+  ],
+  "date_added": "2017-07-22T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1447034,
+      "title": "s0000",
+      "runtime": 67,
+      "source_mp3": "https://vgmsite.com/soundtracks/tiny-tap-quest-android/qayytceq/s0000.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tiny-tap-quest-android/s0000.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1038090,
+      "title": "s0005",
+      "runtime": 55,
+      "source_mp3": "https://vgmsite.com/soundtracks/tiny-tap-quest-android/rflgqgly/s0005.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tiny-tap-quest-android/s0005.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 122,
+    "filesize_mp3_bytes": 2485124,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

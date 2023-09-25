@@ -1,0 +1,63 @@
+{
+  "title": "WHITE ALBUM / Yuki Morikawa",
+  "titles_alternative": [
+    "\u300cWHITE ALBUM\u300d \u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de"
+  ],
+  "crawled_at": "2023-09-25T12:36:06.901837+00:00",
+  "slug": "white-album-yuki-morikawa",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/white-album-yuki-morikawa",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/white-album-yuki-morikawa/Folder.jpg"
+  ],
+  "year": 1998,
+  "catalog_number": "KIDA-5501",
+  "date_added": "2022-04-17T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "King": "https://downloads.khinsider.com/game-soundtracks/publisher/king"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11156848,
+      "track_number": 1,
+      "title": "WHITE ALBUM",
+      "runtime": 278,
+      "source_mp3": "https://vgmsite.com/soundtracks/white-album-yuki-morikawa/yjlnivegjz/01.%20WHITE%20ALBUM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/white-album-yuki-morikawa/01.%2520WHITE%2520ALBUM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10192158,
+      "track_number": 2,
+      "title": "SOUND OF DESTINY",
+      "runtime": 254,
+      "source_mp3": "https://vgmsite.com/soundtracks/white-album-yuki-morikawa/itkgnayysl/02.%20SOUND%20OF%20DESTINY.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/white-album-yuki-morikawa/02.%2520SOUND%2520OF%2520DESTINY.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 12540968,
+      "track_number": 3,
+      "title": "POWDER SNOW",
+      "runtime": 313,
+      "source_mp3": "https://vgmsite.com/soundtracks/white-album-yuki-morikawa/ifcuufuzns/03.%20POWDER%20SNOW.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/white-album-yuki-morikawa/03.%2520POWDER%2520SNOW.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 845,
+    "filesize_mp3_bytes": 33889974,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

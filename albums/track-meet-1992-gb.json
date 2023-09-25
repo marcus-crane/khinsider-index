@@ -1,0 +1,101 @@
+{
+  "title": "Track Meet",
+  "titles_alternative": [
+    "Track Meet - Mezase! Barcelona",
+    "Litti's Summer Sports"
+  ],
+  "crawled_at": "2023-09-25T10:31:00.595225+00:00",
+  "slug": "track-meet-1992-gb",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/track-meet-1992-gb",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/track-meet-1992-gb/Track%20Meet%20%281992%29%20%28GB%29.jpg"
+  ],
+  "year": 1992,
+  "date_added": "2022-06-22T00:00:00+00:00",
+  "developers": {
+    "Interplay Productions": "https://downloads.khinsider.com/game-soundtracks/developer/interplay-productions"
+  },
+  "publishers": {
+    "Hiro": "https://downloads.khinsider.com/game-soundtracks/publisher/hiro"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1342177,
+      "filesize_mp3_bytes": 534773,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 28,
+      "source_mp3": "https://vgmsite.com/soundtracks/track-meet-1992-gb/chgsoyiybu/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/track-meet-1992-gb/chgsoyiybu/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/track-meet-1992-gb/01%2520BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 587202,
+      "filesize_mp3_bytes": 220200,
+      "track_number": 2,
+      "title": "BGM #02",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/track-meet-1992-gb/jfggvidfwj/02%20BGM%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/track-meet-1992-gb/jfggvidfwj/02%20BGM%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/track-meet-1992-gb/02%2520BGM%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 377487,
+      "filesize_mp3_bytes": 178257,
+      "track_number": 3,
+      "title": "BGM #03",
+      "runtime": 12,
+      "source_mp3": "https://vgmsite.com/soundtracks/track-meet-1992-gb/pofvgyffgs/03%20BGM%20%2303.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/track-meet-1992-gb/pofvgyffgs/03%20BGM%20%2303.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/track-meet-1992-gb/03%2520BGM%2520%252303.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 335544,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 4,
+      "title": "Jingle #01",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/track-meet-1992-gb/eaiexludti/04%20Jingle%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/track-meet-1992-gb/eaiexludti/04%20Jingle%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/track-meet-1992-gb/04%2520Jingle%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 304087,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 5,
+      "title": "Jingle #02",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/track-meet-1992-gb/hygrnxanan/05%20Jingle%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/track-meet-1992-gb/hygrnxanan/05%20Jingle%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/track-meet-1992-gb/05%2520Jingle%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 419430,
+      "filesize_mp3_bytes": 167772,
+      "track_number": 6,
+      "title": "Jingle #03",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/track-meet-1992-gb/ckwscwbnen/06%20Jingle%20%2303.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/track-meet-1992-gb/ckwscwbnen/06%20Jingle%20%2303.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/track-meet-1992-gb/06%2520Jingle%2520%252303.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 75,
+    "filesize_mp3_bytes": 1331687,
+    "filesize_flac_bytes": 3365927,
+    "tracks": 6
+  }
+}

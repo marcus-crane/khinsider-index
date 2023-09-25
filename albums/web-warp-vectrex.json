@@ -1,0 +1,41 @@
+{
+  "title": "Web Warp (Vectrex)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T12:26:35.217781+00:00",
+  "slug": "web-warp-vectrex",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/web-warp-vectrex",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/web-warp-vectrex/Web%20Warp.png"
+  ],
+  "year": 1983,
+  "date_added": "2022-06-27T00:00:00+00:00",
+  "developers": {
+    "General Consumer Electronics": "https://downloads.khinsider.com/game-soundtracks/developer/general-consumer-electronics"
+  },
+  "publishers": {
+    "General Consumer Electronics": "https://downloads.khinsider.com/game-soundtracks/publisher/general-consumer-electronics"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 62914,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/web-warp-vectrex/aqdfldaadw/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/web-warp-vectrex/aqdfldaadw/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/web-warp-vectrex/01%2520Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2,
+    "filesize_mp3_bytes": 52428,
+    "filesize_flac_bytes": 62914,
+    "tracks": 1
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "title": "three stars",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T08:30:02.276387+00:00",
+  "slug": "three-stars-2009",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/three-stars-2009",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/three-stars-2009/cover.jpg"
+  ],
+  "year": 2009,
+  "catalog_number": "ANCD-0003",
+  "date_added": "2022-11-01T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Tokyo Active NEETs": "https://downloads.khinsider.com/game-soundtracks/publisher/tokyo-active-neets"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 27755806,
+      "filesize_mp3_bytes": 6784286,
+      "track_number": 1,
+      "title": "FIFTH GRADE",
+      "runtime": 198,
+      "source_mp3": "https://vgmsite.com/soundtracks/three-stars-2009/lhwpkxyzhl/01.%20FIFTH%20GRADE.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/three-stars-2009/lhwpkxyzhl/01.%20FIFTH%20GRADE.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/three-stars-2009/01.%2520FIFTH%2520GRADE.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 28615639,
+      "filesize_mp3_bytes": 7277117,
+      "track_number": 2,
+      "title": "MILK301",
+      "runtime": 210,
+      "source_mp3": "https://vgmsite.com/soundtracks/three-stars-2009/eshilnisgr/02.%20MILK301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/three-stars-2009/eshilnisgr/02.%20MILK301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/three-stars-2009/02.%2520MILK301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 33449574,
+      "filesize_mp3_bytes": 8283750,
+      "track_number": 3,
+      "title": "Ayaya on the G string",
+      "runtime": 237,
+      "source_mp3": "https://vgmsite.com/soundtracks/three-stars-2009/wwkjazogtz/03.%20Ayaya%20on%20the%20G%20string.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/three-stars-2009/wwkjazogtz/03.%20Ayaya%20on%20the%20G%20string.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/three-stars-2009/03.%2520Ayaya%2520on%2520the%2520G%2520string.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 84724940,
+      "filesize_mp3_bytes": 23530045,
+      "track_number": 4,
+      "title": "Suite Seirensen",
+      "runtime": 672,
+      "source_mp3": "https://vgmsite.com/soundtracks/three-stars-2009/foiyxvisgb/04.%20Suite%20Seirensen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/three-stars-2009/foiyxvisgb/04.%20Suite%20Seirensen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/three-stars-2009/04.%2520Suite%2520Seirensen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1317,
+    "filesize_mp3_bytes": 45875198,
+    "filesize_flac_bytes": 174545959,
+    "tracks": 4
+  }
+}

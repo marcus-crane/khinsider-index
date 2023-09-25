@@ -1,0 +1,90 @@
+{
+  "title": "WildSnake",
+  "titles_alternative": [
+    "Super Snakey",
+    "\u30b9\u30fc\u30d1\u30fc\u30fb\u30b9\u30cd\u30fc\u30ad\u30fc"
+  ],
+  "crawled_at": "2023-09-25T12:53:49.038935+00:00",
+  "slug": "wildsnake-game-boy",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/wildsnake-game-boy",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/wildsnake-game-boy/WildSnake.png"
+  ],
+  "year": 1994,
+  "date_added": "2018-12-30T00:00:00+00:00",
+  "developers": {
+    "Realtime Associates": "https://downloads.khinsider.com/game-soundtracks/developer/realtime-associates"
+  },
+  "publishers": {
+    "Spectrum Holobyte": "https://downloads.khinsider.com/game-soundtracks/publisher/spectrum-holobyte",
+    "Yojigen": "https://downloads.khinsider.com/game-soundtracks/publisher/yojigen"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7203717,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/wildsnake-game-boy/vofpvlzq/BGM%20%2301.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wildsnake-game-boy/BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7203717,
+      "title": "BGM #02",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/wildsnake-game-boy/heratdfv/BGM%20%2302.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wildsnake-game-boy/BGM%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7203717,
+      "title": "BGM #03",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/wildsnake-game-boy/qjceipnc/BGM%20%2303.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wildsnake-game-boy/BGM%2520%252303.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 230686,
+      "title": "Jingle #01",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/wildsnake-game-boy/yoqcavbn/Jingle%20%2301.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wildsnake-game-boy/Jingle%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 199229,
+      "title": "Jingle #02",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/wildsnake-game-boy/ogphpnxz/Jingle%20%2302.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wildsnake-game-boy/Jingle%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 199229,
+      "title": "Jingle #03",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/wildsnake-game-boy/olhdkfum/Jingle%20%2303.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wildsnake-game-boy/Jingle%2520%252303.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 556,
+    "filesize_mp3_bytes": 22240295,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

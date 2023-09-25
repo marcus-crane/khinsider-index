@@ -1,0 +1,46 @@
+{
+  "title": "WannaMine",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T11:51:01.819910+00:00",
+  "slug": "wannamine-2018-gamerip-pc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/wannamine-2018-gamerip-pc",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/wannamine-2018-gamerip-pc/wm_1.jpg"
+  ],
+  "year": 2018,
+  "date_added": "2022-05-10T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10485,
+      "title": "Error",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/wannamine-2018-gamerip-pc/yhjppkuson/Error.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wannamine-2018-gamerip-pc/Error.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4141875,
+      "title": "Trick Composer",
+      "runtime": 155,
+      "source_mp3": "https://vgmsite.com/soundtracks/wannamine-2018-gamerip-pc/gcqlmpqhje/Trick%20Composer.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wannamine-2018-gamerip-pc/Trick%2520Composer.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 156,
+    "filesize_mp3_bytes": 4152360,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

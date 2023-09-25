@@ -1,0 +1,44 @@
+{
+  "title": "Touhou Book 03 - Grimoire of Marisa",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T10:10:22.513512+00:00",
+  "slug": "touhou-book-03-grimoire-of-marisa",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/touhou-book-03-grimoire-of-marisa",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/touhou-book-03-grimoire-of-marisa/Image0001.JPG"
+  ],
+  "year": 2009,
+  "date_added": "2022-04-09T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7581204,
+      "track_number": 1,
+      "title": "Magician's Melancholy",
+      "runtime": 270,
+      "source_mp3": "https://vgmsite.com/soundtracks/touhou-book-03-grimoire-of-marisa/evbvukholb/01.%20Magician%27s%20Melancholy.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/touhou-book-03-grimoire-of-marisa/01.%2520Magician%2527s%2520Melancholy.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7707033,
+      "track_number": 2,
+      "title": "Illusionary Sputnik Night",
+      "runtime": 274,
+      "source_mp3": "https://vgmsite.com/soundtracks/touhou-book-03-grimoire-of-marisa/fsynlxafqk/02.%20Illusionary%20Sputnik%20Night.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/touhou-book-03-grimoire-of-marisa/02.%2520Illusionary%2520Sputnik%2520Night.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 544,
+    "filesize_mp3_bytes": 15288237,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

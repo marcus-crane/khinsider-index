@@ -1,0 +1,82 @@
+{
+  "title": "Turrican",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T11:13:50.509118+00:00",
+  "slug": "turrican-gb",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/turrican-gb",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/turrican-gb/TC.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2017-07-17T00:00:00+00:00",
+  "developers": {
+    "The Code Monkeys": "https://downloads.khinsider.com/game-soundtracks/developer/the-code-monkeys"
+  },
+  "publishers": {
+    "Accolade": "https://downloads.khinsider.com/game-soundtracks/publisher/accolade"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8535408,
+      "track_number": 1,
+      "title": "Title Theme",
+      "runtime": 256,
+      "source_mp3": "https://vgmsite.com/soundtracks/turrican-gb/aaoedhgh/01_Title%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/turrican-gb/01_Title%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6585057,
+      "track_number": 2,
+      "title": "Mountain Madness (World 1 - Outpost)",
+      "runtime": 204,
+      "source_mp3": "https://vgmsite.com/soundtracks/turrican-gb/ncpdksud/02_Mountain%20Madness%20%28World%201%20-%20Outpost%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/turrican-gb/02_Mountain%2520Madness%2520%2528World%25201%2520-%2520Outpost%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5368709,
+      "track_number": 3,
+      "title": "Enemy Mine (World 2 - Techno Dungeon)",
+      "runtime": 170,
+      "source_mp3": "https://vgmsite.com/soundtracks/turrican-gb/sjtiotrg/03_Enemy%20Mine%20%28World%202%20-%20Techno%20Dungeon%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/turrican-gb/03_Enemy%2520Mine%2520%2528World%25202%2520-%2520Techno%2520Dungeon%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4655677,
+      "track_number": 4,
+      "title": "Pathfinder (World 4 - Machine World)",
+      "runtime": 134,
+      "source_mp3": "https://vgmsite.com/soundtracks/turrican-gb/qwyqnwdh/04_Pathfinder%20%28World%204%20-%20Machine%20World%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/turrican-gb/04_Pathfinder%2520%2528World%25204%2520-%2520Machine%2520World%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 5,
+      "title": "Unknown Jingle",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/turrican-gb/ahceczag/05_Unknown%20Jingle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/turrican-gb/05_Unknown%2520Jingle.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 767,
+    "filesize_mp3_bytes": 25218251,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

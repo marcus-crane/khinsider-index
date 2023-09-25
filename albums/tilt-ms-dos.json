@@ -1,0 +1,95 @@
+{
+  "title": "Tilt",
+  "titles_alternative": [
+    "Hyper 3-D Pinball",
+    "\u30cf\u30a4\u30d1\u30fc3D\u30d4\u30f3\u30dc\u30fc\u30eb"
+  ],
+  "crawled_at": "2023-09-25T08:40:26.306399+00:00",
+  "slug": "tilt-ms-dos",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tilt-ms-dos",
+  "platforms": {
+    "MS-DOS": "https://downloads.khinsider.com/game-soundtracks/ms-dos"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tilt-ms-dos/T1.jpg"
+  ],
+  "year": 1995,
+  "date_added": "2018-01-03T00:00:00+00:00",
+  "developers": {
+    "NMS Software": "https://downloads.khinsider.com/game-soundtracks/developer/nms-software"
+  },
+  "publishers": {
+    "Virgin": "https://downloads.khinsider.com/game-soundtracks/publisher/virgin"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4288675,
+      "track_number": 1,
+      "title": "Myst & Majik",
+      "runtime": 131,
+      "source_mp3": "https://vgmsite.com/soundtracks/tilt-ms-dos/nfmemctf/01_Myst%20%26%20Majik.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tilt-ms-dos/01_Myst%2520%2526%2520Majik.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4550819,
+      "track_number": 2,
+      "title": "Fun Fair",
+      "runtime": 127,
+      "source_mp3": "https://vgmsite.com/soundtracks/tilt-ms-dos/uujrlabe/02_Fun%20Fair.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tilt-ms-dos/02_Fun%2520Fair.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4550819,
+      "track_number": 3,
+      "title": "The Gangster",
+      "runtime": 124,
+      "source_mp3": "https://vgmsite.com/soundtracks/tilt-ms-dos/viavakca/03_The%20Gangster.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tilt-ms-dos/03_The%2520Gangster.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4739563,
+      "track_number": 4,
+      "title": "Road King USA",
+      "runtime": 139,
+      "source_mp3": "https://vgmsite.com/soundtracks/tilt-ms-dos/pgbitlwz/04_Road%20King%20USA.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tilt-ms-dos/04_Road%2520King%2520USA.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5263851,
+      "track_number": 5,
+      "title": "The Monster",
+      "runtime": 164,
+      "source_mp3": "https://vgmsite.com/soundtracks/tilt-ms-dos/vhkxlcdk/05_The%20Monster.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tilt-ms-dos/05_The%2520Monster.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4330618,
+      "track_number": 6,
+      "title": "Star Quest",
+      "runtime": 136,
+      "source_mp3": "https://vgmsite.com/soundtracks/tilt-ms-dos/qeadygom/06_Star%20Quest.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tilt-ms-dos/06_Star%2520Quest.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 821,
+    "filesize_mp3_bytes": 27724345,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

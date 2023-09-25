@@ -1,0 +1,98 @@
+{
+  "title": "Wii System Menu",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T12:46:17.278731+00:00",
+  "slug": "wii-system-menu",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/wii-system-menu",
+  "platforms": {
+    "Wii": "https://downloads.khinsider.com/game-soundtracks/nintendo-wii"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/wii-system-menu/Wii.png"
+  ],
+  "year": 2006,
+  "date_added": "2018-07-05T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 1,
+      "title": "Start Wii",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/wii-system-menu/fzmwjeub/001%20-%20Start%20Wii.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wii-system-menu/001%2520-%2520Start%2520Wii.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8336179,
+      "track_number": 2,
+      "title": "Menu",
+      "runtime": 382,
+      "source_mp3": "https://vgmsite.com/soundtracks/wii-system-menu/tcrljspa/002%20-%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wii-system-menu/002%2520-%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 3,
+      "title": "Unknown Disc",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/wii-system-menu/rrwpskln/003%20-%20Unknown%20Disc.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wii-system-menu/003%2520-%2520Unknown%2520Disc.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 4,
+      "title": "Remove Disc",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/wii-system-menu/imcwtvjv/004%20-%20Remove%20Disc.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wii-system-menu/004%2520-%2520Remove%2520Disc.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 5,
+      "title": "Gamecube Disc Intro",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/wii-system-menu/ycmaftrf/005%20-%20Gamecube%20Disc%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wii-system-menu/005%2520-%2520Gamecube%2520Disc%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 6,
+      "title": "Virtual Console Game Channel Intro",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/wii-system-menu/bbkiqajg/006%20-%20Virtual%20Console%20Game%20Channel%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wii-system-menu/006%2520-%2520Virtual%2520Console%2520Game%2520Channel%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 7,
+      "title": "SD Channel Intro",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/wii-system-menu/iaioqgrr/007%20-%20SD%20Channel%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wii-system-menu/007%2520-%2520SD%2520Channel%2520Intro.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 402,
+    "filesize_mp3_bytes": 8797550,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

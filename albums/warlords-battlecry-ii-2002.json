@@ -1,0 +1,82 @@
+{
+  "title": "Warlords Battlecry II",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T12:13:03.649812+00:00",
+  "slug": "warlords-battlecry-ii-2002",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/warlords-battlecry-ii-2002",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/warlords-battlecry-ii-2002/cover.jpg"
+  ],
+  "year": 2002,
+  "date_added": "2023-02-15T00:00:00+00:00",
+  "developers": {
+    "Strategic Simulations": "https://downloads.khinsider.com/game-soundtracks/developer/strategic-simulations"
+  },
+  "publishers": {
+    "Ubisoft": "https://downloads.khinsider.com/game-soundtracks/publisher/ubisoft"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5400166,
+      "track_number": 1,
+      "title": "Track 01",
+      "runtime": 222,
+      "source_mp3": "https://vgmsite.com/soundtracks/warlords-battlecry-ii-2002/ymxfnexcyi/01.%20Track%2001.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/warlords-battlecry-ii-2002/01.%2520Track%252001.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5945425,
+      "track_number": 2,
+      "title": "Track 02",
+      "runtime": 245,
+      "source_mp3": "https://vgmsite.com/soundtracks/warlords-battlecry-ii-2002/gylmteqqso/02.%20Track%2002.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/warlords-battlecry-ii-2002/02.%2520Track%252002.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7444889,
+      "track_number": 3,
+      "title": "Track 03",
+      "runtime": 304,
+      "source_mp3": "https://vgmsite.com/soundtracks/warlords-battlecry-ii-2002/kwhattbibg/03.%20Track%2003.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/warlords-battlecry-ii-2002/03.%2520Track%252003.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8011120,
+      "track_number": 4,
+      "title": "Track 04",
+      "runtime": 328,
+      "source_mp3": "https://vgmsite.com/soundtracks/warlords-battlecry-ii-2002/tqyfbanspa/04.%20Track%2004.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/warlords-battlecry-ii-2002/04.%2520Track%252004.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2946498,
+      "track_number": 5,
+      "title": "Main Theme",
+      "runtime": 120,
+      "source_mp3": "https://vgmsite.com/soundtracks/warlords-battlecry-ii-2002/hwduueigkc/05.%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/warlords-battlecry-ii-2002/05.%2520Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1219,
+    "filesize_mp3_bytes": 29748098,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

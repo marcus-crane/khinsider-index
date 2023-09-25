@@ -1,0 +1,83 @@
+{
+  "title": "TINCan Escape",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T08:47:49.803818+00:00",
+  "slug": "tincan-escape-2009-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tincan-escape-2009-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tincan-escape-2009-nds-gamerip/T1.jpg"
+  ],
+  "year": 2009,
+  "date_added": "2020-06-24T00:00:00+00:00",
+  "developers": {
+    "Visual Imagination": "https://downloads.khinsider.com/game-soundtracks/developer/visual-imagination"
+  },
+  "publishers": {
+    "MumboJumbo": "https://downloads.khinsider.com/game-soundtracks/publisher/mumbojumbo",
+    "Phenomedia": "https://downloads.khinsider.com/game-soundtracks/publisher/phenomedia"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 346030,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 62,
+      "source_mp3": "https://vgmsite.com/soundtracks/tincan-escape-2009-nds-gamerip/dwkxxgwdaq/01%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tincan-escape-2009-nds-gamerip/01%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 576716,
+      "track_number": 2,
+      "title": "Lab",
+      "runtime": 101,
+      "source_mp3": "https://vgmsite.com/soundtracks/tincan-escape-2009-nds-gamerip/eeylpswpon/02%20Lab.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tincan-escape-2009-nds-gamerip/02%2520Lab.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 419430,
+      "track_number": 3,
+      "title": "Factory",
+      "runtime": 75,
+      "source_mp3": "https://vgmsite.com/soundtracks/tincan-escape-2009-nds-gamerip/wvberczgdd/03%20Factory.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tincan-escape-2009-nds-gamerip/03%2520Factory.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 461373,
+      "track_number": 4,
+      "title": "Office",
+      "runtime": 74,
+      "source_mp3": "https://vgmsite.com/soundtracks/tincan-escape-2009-nds-gamerip/uqcfuzlzus/04%20Office.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tincan-escape-2009-nds-gamerip/04%2520Office.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 272629,
+      "track_number": 5,
+      "title": "Menue",
+      "runtime": 44,
+      "source_mp3": "https://vgmsite.com/soundtracks/tincan-escape-2009-nds-gamerip/oywrjjxlzh/05%20Menue.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tincan-escape-2009-nds-gamerip/05%2520Menue.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 356,
+    "filesize_mp3_bytes": 2076178,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

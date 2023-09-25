@@ -1,0 +1,143 @@
+{
+  "title": "Toki Tori (GBC)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T09:05:40.542750+00:00",
+  "slug": "toki-tori-gb",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/toki-tori-gb",
+  "platforms": {
+    "3DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-3ds",
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/toki-tori-gb/TT.jpg"
+  ],
+  "year": 2001,
+  "date_added": "2015-02-01T00:00:00+00:00",
+  "developers": {
+    "Two Tribes": "https://downloads.khinsider.com/game-soundtracks/developer/two-tribes"
+  },
+  "publishers": {
+    "Capcom": "https://downloads.khinsider.com/game-soundtracks/publisher/capcom"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4959764,
+      "track_number": 1,
+      "title": "Menu Music",
+      "runtime": 236,
+      "source_mp3": "https://vgmsite.com/soundtracks/toki-tori-gb/svyuccxh/01_Menu%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/toki-tori-gb/01_Menu%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2306867,
+      "track_number": 2,
+      "title": "Intro Music",
+      "runtime": 98,
+      "source_mp3": "https://vgmsite.com/soundtracks/toki-tori-gb/lvebudqz/02_Intro%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/toki-tori-gb/02_Intro%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7392460,
+      "track_number": 3,
+      "title": "Forest Falls",
+      "runtime": 340,
+      "source_mp3": "https://vgmsite.com/soundtracks/toki-tori-gb/cbmhenvj/03_Forest%20Falls.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/toki-tori-gb/03_Forest%2520Falls.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7046430,
+      "track_number": 4,
+      "title": "Creepy Castle",
+      "runtime": 334,
+      "source_mp3": "https://vgmsite.com/soundtracks/toki-tori-gb/yprsnkef/04_Creepy%20Castle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/toki-tori-gb/04_Creepy%2520Castle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5326766,
+      "track_number": 5,
+      "title": "Slime Cave",
+      "runtime": 246,
+      "source_mp3": "https://vgmsite.com/soundtracks/toki-tori-gb/wzjzmowb/05_Slime%20Cave.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/toki-tori-gb/05_Slime%2520Cave.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5777653,
+      "track_number": 6,
+      "title": "Bubble Barrage",
+      "runtime": 271,
+      "source_mp3": "https://vgmsite.com/soundtracks/toki-tori-gb/gtxxkkhg/06_Bubble%20Barrage.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/toki-tori-gb/06_Bubble%2520Barrage.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 7,
+      "title": "Level Completed",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/toki-tori-gb/sekuxhhc/07_Level%20Completed.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/toki-tori-gb/07_Level%2520Completed.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3544186,
+      "track_number": 8,
+      "title": "Extra 1",
+      "runtime": 147,
+      "source_mp3": "https://vgmsite.com/soundtracks/toki-tori-gb/xsppqybj/08_Extra%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/toki-tori-gb/08_Extra%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3670016,
+      "track_number": 9,
+      "title": "Extra 2",
+      "runtime": 170,
+      "source_mp3": "https://vgmsite.com/soundtracks/toki-tori-gb/chybgvhi/09_Extra%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/toki-tori-gb/09_Extra%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 10,
+      "title": "Toki Tori Died",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/toki-tori-gb/yrxmbbhm/10_Toki%20Tori%20Died.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/toki-tori-gb/10_Toki%2520Tori%2520Died.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1342177,
+      "track_number": 11,
+      "title": "Unknown Song",
+      "runtime": 59,
+      "source_mp3": "https://vgmsite.com/soundtracks/toki-tori-gb/auchvsfp/11_Unknown%20Song.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/toki-tori-gb/11_Unknown%2520Song.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1913,
+    "filesize_mp3_bytes": 41586519,
+    "filesize_flac_bytes": 0,
+    "tracks": 11
+  }
+}

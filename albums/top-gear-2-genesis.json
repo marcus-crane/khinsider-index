@@ -1,0 +1,79 @@
+{
+  "title": "Top Gear 2",
+  "titles_alternative": [
+    "Top Racer 2",
+    "\u30c8\u30c3\u30d7\u30ec\u30fc\u30b5\u30fc2"
+  ],
+  "crawled_at": "2023-09-25T09:54:15.679619+00:00",
+  "slug": "top-gear-2-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/top-gear-2-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/top-gear-2-genesis/6104591-top-gear-2-front-cover.jpg"
+  ],
+  "year": 1994,
+  "date_added": "2020-03-26T00:00:00+00:00",
+  "developers": {
+    "Gremlin Graphics Software": "https://downloads.khinsider.com/game-soundtracks/developer/gremlin-graphics-software"
+  },
+  "publishers": {
+    "Vic Tokai": "https://downloads.khinsider.com/game-soundtracks/publisher/vic-tokai"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5588910,
+      "filesize_mp3_bytes": 2726297,
+      "track_number": 1,
+      "title": "Title Theme",
+      "runtime": 106,
+      "source_mp3": "https://vgmsite.com/soundtracks/top-gear-2-genesis/erhyqduvtq/01%20-%20Title%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/top-gear-2-genesis/erhyqduvtq/01%20-%20Title%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/top-gear-2-genesis/01%2520-%2520Title%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 15225323,
+      "filesize_mp3_bytes": 6008340,
+      "track_number": 2,
+      "title": "Canterbury Plains",
+      "runtime": 254,
+      "source_mp3": "https://vgmsite.com/soundtracks/top-gear-2-genesis/oinmlgutof/02%20-%20Canterbury%20Plains.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/top-gear-2-genesis/oinmlgutof/02%20-%20Canterbury%20Plains.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/top-gear-2-genesis/02%2520-%2520Canterbury%2520Plains.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 19115540,
+      "filesize_mp3_bytes": 7287603,
+      "track_number": 3,
+      "title": "Ayers Rock",
+      "runtime": 316,
+      "source_mp3": "https://vgmsite.com/soundtracks/top-gear-2-genesis/zbeefqadhd/03%20-%20Ayers%20Rock.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/top-gear-2-genesis/zbeefqadhd/03%20-%20Ayers%20Rock.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/top-gear-2-genesis/03%2520-%2520Ayers%2520Rock.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10999562,
+      "filesize_mp3_bytes": 4676648,
+      "track_number": 4,
+      "title": "Auckland",
+      "runtime": 198,
+      "source_mp3": "https://vgmsite.com/soundtracks/top-gear-2-genesis/nhkijimchw/04%20-%20Auckland.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/top-gear-2-genesis/nhkijimchw/04%20-%20Auckland.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/top-gear-2-genesis/04%2520-%2520Auckland.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 874,
+    "filesize_mp3_bytes": 20698888,
+    "filesize_flac_bytes": 50929335,
+    "tracks": 4
+  }
+}

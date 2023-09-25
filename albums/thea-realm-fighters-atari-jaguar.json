@@ -1,0 +1,41 @@
+{
+  "title": "Thea Realm Fighters (Unreleased)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T08:22:15.678342+00:00",
+  "slug": "thea-realm-fighters-atari-jaguar",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/thea-realm-fighters-atari-jaguar",
+  "platforms": {
+    "Atari Jaguar": "https://downloads.khinsider.com/game-soundtracks/atari-jaguar"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/thea-realm-fighters-atari-jaguar/Thea%20Realm%20Fighters%20Jaguar%20front%20cover.jpg"
+  ],
+  "year": 2018,
+  "date_added": "2020-09-27T00:00:00+00:00",
+  "developers": {
+    "High Voltage Software": "https://downloads.khinsider.com/game-soundtracks/developer/high-voltage-software"
+  },
+  "publishers": {
+    "Atari": "https://downloads.khinsider.com/game-soundtracks/publisher/atari"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2621440,
+      "title": "Thea Realm Fighters Music",
+      "runtime": 65,
+      "source_mp3": "https://vgmsite.com/soundtracks/thea-realm-fighters-atari-jaguar/beehsewupg/Thea%20Realm%20Fighters%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thea-realm-fighters-atari-jaguar/Thea%2520Realm%2520Fighters%2520Music.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 65,
+    "filesize_mp3_bytes": 2621440,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

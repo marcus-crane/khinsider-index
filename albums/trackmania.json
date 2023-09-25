@@ -1,0 +1,130 @@
+{
+  "title": "TrackMania",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T10:31:02.703488+00:00",
+  "slug": "trackmania",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/trackmania",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/trackmania/Folder.jpg"
+  ],
+  "year": 2003,
+  "date_added": "2016-01-27T00:00:00+00:00",
+  "developers": {
+    "Nadeo": "https://downloads.khinsider.com/game-soundtracks/developer/nadeo"
+  },
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2967470,
+      "track_number": 1,
+      "title": "main_menu",
+      "runtime": 184,
+      "source_mp3": "https://vgmsite.com/soundtracks/trackmania/oqwmzqpz/01-main_menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/trackmania/01-main_menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4812963,
+      "track_number": 2,
+      "title": "speed_race",
+      "runtime": 300,
+      "source_mp3": "https://vgmsite.com/soundtracks/trackmania/zoxmhbhg/02-speed_race.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/trackmania/02-speed_race.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1939865,
+      "track_number": 3,
+      "title": "speed_replay",
+      "runtime": 120,
+      "source_mp3": "https://vgmsite.com/soundtracks/trackmania/xewwjean/03-speed_replay.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/trackmania/03-speed_replay.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3093299,
+      "track_number": 4,
+      "title": "speed_edit",
+      "runtime": 192,
+      "source_mp3": "https://vgmsite.com/soundtracks/trackmania/fcszolrx/04-speed_edit.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/trackmania/04-speed_edit.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4844421,
+      "track_number": 5,
+      "title": "snow_race",
+      "runtime": 302,
+      "source_mp3": "https://vgmsite.com/soundtracks/trackmania/bzujfddc/05-snow_race.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/trackmania/05-snow_race.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1667235,
+      "track_number": 6,
+      "title": "snow_replay",
+      "runtime": 103,
+      "source_mp3": "https://vgmsite.com/soundtracks/trackmania/nxotgevz/06-snow_replay.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/trackmania/06-snow_replay.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3397386,
+      "track_number": 7,
+      "title": "snow_edit",
+      "runtime": 211,
+      "source_mp3": "https://vgmsite.com/soundtracks/trackmania/fzefbgrg/07-snow_edit.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/trackmania/07-snow_edit.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4823449,
+      "track_number": 8,
+      "title": "rally_race",
+      "runtime": 300,
+      "source_mp3": "https://vgmsite.com/soundtracks/trackmania/hjqoeins/08-rally_race.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/trackmania/08-rally_race.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2275409,
+      "track_number": 9,
+      "title": "rally_replay",
+      "runtime": 141,
+      "source_mp3": "https://vgmsite.com/soundtracks/trackmania/cohxdini/09-rally_replay.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/trackmania/09-rally_replay.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2684354,
+      "track_number": 10,
+      "title": "rally_edit",
+      "runtime": 167,
+      "source_mp3": "https://vgmsite.com/soundtracks/trackmania/kpfdurnq/10-rally_edit.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/trackmania/10-rally_edit.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2020,
+    "filesize_mp3_bytes": 32505851,
+    "filesize_flac_bytes": 0,
+    "tracks": 10
+  }
+}

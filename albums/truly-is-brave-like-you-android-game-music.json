@@ -1,0 +1,43 @@
+{
+  "title": "truly is brave like you (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T11:05:10.188467+00:00",
+  "slug": "truly-is-brave-like-you-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/truly-is-brave-like-you-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/truly-is-brave-like-you-android-game-music/1.jpeg"
+  ],
+  "date_added": "2016-10-26T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 786432,
+      "title": "enemy_battle",
+      "runtime": 131,
+      "source_mp3": "https://vgmsite.com/soundtracks/truly-is-brave-like-you-android-game-music/bahohvik/enemy_battle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/truly-is-brave-like-you-android-game-music/enemy_battle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 534773,
+      "title": "op",
+      "runtime": 89,
+      "source_mp3": "https://vgmsite.com/soundtracks/truly-is-brave-like-you-android-game-music/eatkumhm/op.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/truly-is-brave-like-you-android-game-music/op.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 220,
+    "filesize_mp3_bytes": 1321205,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

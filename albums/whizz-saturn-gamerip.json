@@ -1,0 +1,86 @@
+{
+  "title": "Whizz",
+  "titles_alternative": [
+    "Akupyon Game Whizz",
+    "\u30a2\u30af\u30d4\u30e7\u30f3\u30fb\u30b2\u30fc\u30e0 \u30a6\u30a3\u30ba"
+  ],
+  "crawled_at": "2023-09-25T12:37:30.980826+00:00",
+  "slug": "whizz-saturn-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/whizz-saturn-gamerip",
+  "platforms": {
+    "Saturn": "https://downloads.khinsider.com/game-soundtracks/sega-saturn"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/whizz-saturn-gamerip/W1.png"
+  ],
+  "year": 1997,
+  "date_added": "2020-05-25T00:00:00+00:00",
+  "developers": {
+    "Flair Software": "https://downloads.khinsider.com/game-soundtracks/developer/flair-software"
+  },
+  "publishers": {
+    "BANDAI VISUAL CO.": "https://downloads.khinsider.com/game-soundtracks/publisher/bandai-visual",
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3313500,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 115,
+      "source_mp3": "https://vgmsite.com/soundtracks/whizz-saturn-gamerip/uayasvxqym/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/whizz-saturn-gamerip/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8011120,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 301,
+      "source_mp3": "https://vgmsite.com/soundtracks/whizz-saturn-gamerip/ejbkhjkbes/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/whizz-saturn-gamerip/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7832862,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 295,
+      "source_mp3": "https://vgmsite.com/soundtracks/whizz-saturn-gamerip/kusatjhevj/03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/whizz-saturn-gamerip/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8042577,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 294,
+      "source_mp3": "https://vgmsite.com/soundtracks/whizz-saturn-gamerip/nqybugzvfj/04.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/whizz-saturn-gamerip/04.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7602176,
+      "track_number": 5,
+      "title": "Track 5",
+      "runtime": 278,
+      "source_mp3": "https://vgmsite.com/soundtracks/whizz-saturn-gamerip/jglssrvhfv/05.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/whizz-saturn-gamerip/05.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1283,
+    "filesize_mp3_bytes": 34802235,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

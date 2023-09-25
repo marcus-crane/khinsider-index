@@ -1,0 +1,61 @@
+{
+  "title": "We are PAC-MAN!",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T12:22:44.563112+00:00",
+  "slug": "we-are-pac-man-2022",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/we-are-pac-man-2022",
+  "platforms": {
+    "Movie": "https://downloads.khinsider.com/game-soundtracks/movie"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/we-are-pac-man-2022/We%20are%20PAC-MAN%21.jpg"
+  ],
+  "year": 2022,
+  "catalog_number": null,
+  "date_added": "2022-09-12T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Bandai Namco Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/bandai-namco-entertainment"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7193231,
+      "track_number": 1,
+      "title": "We are PAC-MAN!",
+      "runtime": 179,
+      "source_mp3": "https://vgmsite.com/soundtracks/we-are-pac-man-2022/hlsiypakwq/01.%20We%20are%20PAC-MAN%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/we-are-pac-man-2022/01.%2520We%2520are%2520PAC-MAN%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7193231,
+      "track_number": 2,
+      "title": "We are PAC-MAN! (English ver.)",
+      "runtime": 179,
+      "source_mp3": "https://vgmsite.com/soundtracks/we-are-pac-man-2022/blyptycmjt/02.%20We%20are%20PAC-MAN%21%20%28English%20ver.%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/we-are-pac-man-2022/02.%2520We%2520are%2520PAC-MAN%2521%2520%2528English%2520ver.%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7193231,
+      "track_number": 3,
+      "title": "We are PAC-MAN! (Chinese ver.)",
+      "runtime": 179,
+      "source_mp3": "https://vgmsite.com/soundtracks/we-are-pac-man-2022/hugsxqxqyc/03.%20We%20are%20PAC-MAN%21%20%28Chinese%20ver.%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/we-are-pac-man-2022/03.%2520We%2520are%2520PAC-MAN%2521%2520%2528Chinese%2520ver.%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 537,
+    "filesize_mp3_bytes": 21579693,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

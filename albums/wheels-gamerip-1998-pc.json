@@ -1,0 +1,55 @@
+{
+  "title": "Wheels!",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T12:31:48.213894+00:00",
+  "slug": "wheels-gamerip-1998-pc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/wheels-gamerip-1998-pc",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/wheels-gamerip-1998-pc/cover1.PNG"
+  ],
+  "year": 1998,
+  "date_added": "2022-05-17T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6731857,
+      "title": "Level 1",
+      "runtime": 168,
+      "source_mp3": "https://vgmsite.com/soundtracks/wheels-gamerip-1998-pc/mcphjtsrlq/Level%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wheels-gamerip-1998-pc/Level%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7361003,
+      "title": "Level 2",
+      "runtime": 184,
+      "source_mp3": "https://vgmsite.com/soundtracks/wheels-gamerip-1998-pc/pemkihhwqg/Level%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wheels-gamerip-1998-pc/Level%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5945425,
+      "title": "Level 3",
+      "runtime": 149,
+      "source_mp3": "https://vgmsite.com/soundtracks/wheels-gamerip-1998-pc/arkckagnnj/Level%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wheels-gamerip-1998-pc/Level%25203.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 501,
+    "filesize_mp3_bytes": 20038285,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

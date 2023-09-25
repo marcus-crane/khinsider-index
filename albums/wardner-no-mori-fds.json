@@ -1,0 +1,102 @@
+{
+  "title": "Wardner no Mori",
+  "titles_alternative": [
+    "Pyros",
+    "\u30ef\u30fc\u30c9\u30ca\u306e\u68ee"
+  ],
+  "crawled_at": "2023-09-25T11:55:40.983052+00:00",
+  "slug": "wardner-no-mori-fds",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/wardner-no-mori-fds",
+  "platforms": {
+    "FDS": "https://downloads.khinsider.com/game-soundtracks/famicom-disk-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/wardner-no-mori-fds/W1.jpg"
+  ],
+  "year": 1988,
+  "date_added": "2022-06-27T00:00:00+00:00",
+  "developers": {
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/developer/taito",
+    "Toaplan": "https://downloads.khinsider.com/game-soundtracks/developer/toaplan"
+  },
+  "publishers": {
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/publisher/taito"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3407872,
+      "filesize_mp3_bytes": 1174405,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 62,
+      "source_mp3": "https://vgmsite.com/soundtracks/wardner-no-mori-fds/ljsisqrswk/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/wardner-no-mori-fds/ljsisqrswk/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wardner-no-mori-fds/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4603248,
+      "filesize_mp3_bytes": 1646264,
+      "track_number": 2,
+      "title": "Main Theme",
+      "runtime": 89,
+      "source_mp3": "https://vgmsite.com/soundtracks/wardner-no-mori-fds/ndsyqvglhr/02%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/wardner-no-mori-fds/ndsyqvglhr/02%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wardner-no-mori-fds/02%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2285895,
+      "filesize_mp3_bytes": 1090519,
+      "track_number": 3,
+      "title": "Shop",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/wardner-no-mori-fds/nlzntylljj/03%20Shop.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/wardner-no-mori-fds/nlzntylljj/03%20Shop.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wardner-no-mori-fds/03%2520Shop.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3397386,
+      "filesize_mp3_bytes": 1478492,
+      "track_number": 4,
+      "title": "Chika-e",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/wardner-no-mori-fds/egcgaydrqz/04%20Chika-e.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/wardner-no-mori-fds/egcgaydrqz/04%20Chika-e.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wardner-no-mori-fds/04%2520Chika-e.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 650117,
+      "filesize_mp3_bytes": 262144,
+      "track_number": 5,
+      "title": "Nodoka",
+      "runtime": 16,
+      "source_mp3": "https://vgmsite.com/soundtracks/wardner-no-mori-fds/uiznpdvmok/05%20Nodoka.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/wardner-no-mori-fds/uiznpdvmok/05%20Nodoka.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wardner-no-mori-fds/05%2520Nodoka.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 62914,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 6,
+      "title": "Game Over",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/wardner-no-mori-fds/ouutvxzcrn/06%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/wardner-no-mori-fds/ouutvxzcrn/06%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wardner-no-mori-fds/06%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 281,
+    "filesize_mp3_bytes": 5683281,
+    "filesize_flac_bytes": 14407432,
+    "tracks": 6
+  }
+}

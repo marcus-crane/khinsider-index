@@ -1,0 +1,72 @@
+{
+  "title": "Wayne's World",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T12:21:42.915891+00:00",
+  "slug": "wayne-s-world-ibm-pc-at",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/wayne-s-world-ibm-pc-at",
+  "platforms": {
+    "IBM PC/AT": "https://downloads.khinsider.com/game-soundtracks/ibm-pc-at"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/wayne-s-world-ibm-pc-at/Wayne%27s%20World.png"
+  ],
+  "year": 1993,
+  "date_added": "2022-06-27T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5295308,
+      "filesize_mp3_bytes": 3512729,
+      "track_number": 1,
+      "title": "Pop-A",
+      "runtime": 153,
+      "source_mp3": "https://vgmsite.com/soundtracks/wayne-s-world-ibm-pc-at/inxrqsmpej/01%20Pop-A.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/wayne-s-world-ibm-pc-at/inxrqsmpej/01%20Pop-A.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wayne-s-world-ibm-pc-at/01%2520Pop-A.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 14313062,
+      "filesize_mp3_bytes": 7413432,
+      "track_number": 2,
+      "title": "Metal 1",
+      "runtime": 325,
+      "source_mp3": "https://vgmsite.com/soundtracks/wayne-s-world-ibm-pc-at/ahwczrgycn/02%20Metal%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/wayne-s-world-ibm-pc-at/ahwczrgycn/02%20Metal%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wayne-s-world-ibm-pc-at/02%2520Metal%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8095006,
+      "filesize_mp3_bytes": 4267704,
+      "track_number": 3,
+      "title": "Metal 2",
+      "runtime": 203,
+      "source_mp3": "https://vgmsite.com/soundtracks/wayne-s-world-ibm-pc-at/idwwkrfore/03%20Metal%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/wayne-s-world-ibm-pc-at/idwwkrfore/03%20Metal%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wayne-s-world-ibm-pc-at/03%2520Metal%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5609881,
+      "filesize_mp3_bytes": 2946498,
+      "track_number": 4,
+      "title": "Metal 3",
+      "runtime": 138,
+      "source_mp3": "https://vgmsite.com/soundtracks/wayne-s-world-ibm-pc-at/urkvuvlfur/04%20Metal%203.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/wayne-s-world-ibm-pc-at/urkvuvlfur/04%20Metal%203.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wayne-s-world-ibm-pc-at/04%2520Metal%25203.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 819,
+    "filesize_mp3_bytes": 18140363,
+    "filesize_flac_bytes": 33313257,
+    "tracks": 4
+  }
+}

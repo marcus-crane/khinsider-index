@@ -1,0 +1,104 @@
+{
+  "title": "Windows 98",
+  "titles_alternative": [
+    "Win 98 sound pack"
+  ],
+  "crawled_at": "2023-09-25T13:00:18.450358+00:00",
+  "slug": "windows-98-1998",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/windows-98-1998",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/windows-98-1998/Logo.jpg"
+  ],
+  "year": 1998,
+  "date_added": "2023-08-06T00:00:00+00:00",
+  "developers": {
+    "Microsoft": "https://downloads.khinsider.com/game-soundtracks/developer/microsoft"
+  },
+  "publishers": {},
+  "genres": {
+    "Compilation": "https://downloads.khinsider.com/game-soundtracks/compilations"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 209715,
+      "title": "Connection",
+      "runtime": 12,
+      "source_mp3": "https://vgmsite.com/soundtracks/windows-98-1998/vtxcxibqht/Connection.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/windows-98-1998/Connection.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 31457,
+      "title": "Ding",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/windows-98-1998/crqdbsjsab/Ding.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/windows-98-1998/Ding.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 31457,
+      "title": "ERROR",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/windows-98-1998/mmqixhpcoc/ERROR.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/windows-98-1998/ERROR.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 31457,
+      "title": "Notify",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/windows-98-1998/gksolzrodo/Notify.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/windows-98-1998/Notify.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 20971,
+      "title": "Recycle",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/windows-98-1998/nfyqcgwyzk/Recycle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/windows-98-1998/Recycle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 62914,
+      "title": "Shutdown",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/windows-98-1998/wsyqdannkj/Shutdown.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/windows-98-1998/Shutdown.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 178257,
+      "title": "Start up",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/windows-98-1998/irocxzjwsf/Start%20up.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/windows-98-1998/Start%2520up.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 41943,
+      "title": "Tada",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/windows-98-1998/subthgbdag/Tada.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/windows-98-1998/Tada.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 39,
+    "filesize_mp3_bytes": 608171,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

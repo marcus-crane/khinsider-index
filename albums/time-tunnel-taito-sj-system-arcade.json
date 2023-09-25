@@ -1,0 +1,67 @@
+{
+  "title": "Time Tunnel (Taito SJ System)",
+  "titles_alternative": [
+    "\u30bf\u30a4\u30e0\u30c8\u30f3\u30cd\u30eb"
+  ],
+  "crawled_at": "2023-09-25T08:45:04.119459+00:00",
+  "slug": "time-tunnel-taito-sj-system-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/time-tunnel-taito-sj-system-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/time-tunnel-taito-sj-system-arcade/T1.jpg"
+  ],
+  "year": 1982,
+  "date_added": "2022-06-18T00:00:00+00:00",
+  "developers": {
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/developer/taito"
+  },
+  "publishers": {
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/publisher/taito"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 335544,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 1,
+      "title": "Start Demo",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/time-tunnel-taito-sj-system-arcade/pyejpspyha/01%20Start%20Demo.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/time-tunnel-taito-sj-system-arcade/pyejpspyha/01%20Start%20Demo.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/time-tunnel-taito-sj-system-arcade/01%2520Start%2520Demo.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3156213,
+      "filesize_mp3_bytes": 1090519,
+      "track_number": 2,
+      "title": "Stage 1, 2 BGM",
+      "runtime": 61,
+      "source_mp3": "https://vgmsite.com/soundtracks/time-tunnel-taito-sj-system-arcade/udduxaekcd/02%20Stage%201%2C%202%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/time-tunnel-taito-sj-system-arcade/udduxaekcd/02%20Stage%201%2C%202%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/time-tunnel-taito-sj-system-arcade/02%2520Stage%25201%252C%25202%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1027604,
+      "filesize_mp3_bytes": 450887,
+      "track_number": 3,
+      "title": "Stage 3 BGM",
+      "runtime": 27,
+      "source_mp3": "https://vgmsite.com/soundtracks/time-tunnel-taito-sj-system-arcade/tvnktfcbpm/03%20Stage%203%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/time-tunnel-taito-sj-system-arcade/tvnktfcbpm/03%20Stage%203%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/time-tunnel-taito-sj-system-arcade/03%2520Stage%25203%2520BGM.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 95,
+    "filesize_mp3_bytes": 1667235,
+    "filesize_flac_bytes": 4519361,
+    "tracks": 3
+  }
+}

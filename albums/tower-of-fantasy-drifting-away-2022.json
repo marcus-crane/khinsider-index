@@ -1,0 +1,55 @@
+{
+  "title": "Tower of Fantasy: Drifting Away",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T10:24:04.375344+00:00",
+  "slug": "tower-of-fantasy-drifting-away-2022",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tower-of-fantasy-drifting-away-2022",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "Online": "https://downloads.khinsider.com/game-soundtracks/online",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tower-of-fantasy-drifting-away-2022/109951168119603324.jpg"
+  ],
+  "year": 2022,
+  "catalog_number": null,
+  "date_added": "2023-06-15T00:00:00+00:00",
+  "developers": {
+    "Hotta Studio": "https://downloads.khinsider.com/game-soundtracks/developer/hotta-studio"
+  },
+  "publishers": {
+    "Hotta Studio": "https://downloads.khinsider.com/game-soundtracks/publisher/hotta-studio"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7916748,
+      "track_number": 1,
+      "title": "Drifting Away (Instrumental)",
+      "runtime": 193,
+      "source_mp3": "https://vgmsite.com/soundtracks/tower-of-fantasy-drifting-away-2022/qchkfibrpr/01.%20Drifting%20Away%20%28Instrumental%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tower-of-fantasy-drifting-away-2022/01.%2520Drifting%2520Away%2520%2528Instrumental%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7916748,
+      "track_number": 2,
+      "title": "Drifting Away",
+      "runtime": 193,
+      "source_mp3": "https://vgmsite.com/soundtracks/tower-of-fantasy-drifting-away-2022/zzpppqzsfq/02.%20Drifting%20Away.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tower-of-fantasy-drifting-away-2022/02.%2520Drifting%2520Away.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 386,
+    "filesize_mp3_bytes": 15833496,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

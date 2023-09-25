@@ -1,0 +1,103 @@
+{
+  "title": "WILD ARMS Drama CD",
+  "titles_alternative": [
+    "\u30c9\u30e9\u30deCD\u3000\u30ef\u30a4\u30eb\u30c9\u30a2\u30fc\u30e0\u30ba"
+  ],
+  "crawled_at": "2023-09-25T12:49:30.216251+00:00",
+  "slug": "wild-arms-drama-cd",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/wild-arms-drama-cd",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/wild-arms-drama-cd/Wild%20Arms%20Drama%20CD.jpg"
+  ],
+  "year": 2002,
+  "catalog_number": "MACB-6501",
+  "date_added": "2006-11-25T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "MOVIC Co.": "https://downloads.khinsider.com/game-soundtracks/publisher/movic"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4362076,
+      "track_number": 1,
+      "title": "prologue",
+      "runtime": 273,
+      "source_mp3": "https://vgmsite.com/soundtracks/wild-arms-drama-cd/yzqzsjay/01.%20prologue.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wild-arms-drama-cd/01.%2520prologue.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1918894,
+      "track_number": 2,
+      "title": "opening",
+      "runtime": 120,
+      "source_mp3": "https://vgmsite.com/soundtracks/wild-arms-drama-cd/rmjvrcci/02.%20opening.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wild-arms-drama-cd/02.%2520opening.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7843348,
+      "track_number": 3,
+      "title": "travel with friends",
+      "runtime": 490,
+      "source_mp3": "https://vgmsite.com/soundtracks/wild-arms-drama-cd/ohtkhdgl/03.%20travel%20with%20friends.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wild-arms-drama-cd/03.%2520travel%2520with%2520friends.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2516582,
+      "track_number": 4,
+      "title": "lady harken",
+      "runtime": 157,
+      "source_mp3": "https://vgmsite.com/soundtracks/wild-arms-drama-cd/wguaswvg/04.%20lady%20harken.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wild-arms-drama-cd/04.%2520lady%2520harken.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8493465,
+      "track_number": 5,
+      "title": "annoyance",
+      "runtime": 531,
+      "source_mp3": "https://vgmsite.com/soundtracks/wild-arms-drama-cd/hbiwupfv/05.%20annoyance.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wild-arms-drama-cd/05.%2520annoyance.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11775508,
+      "track_number": 6,
+      "title": "elmina",
+      "runtime": 736,
+      "source_mp3": "https://vgmsite.com/soundtracks/wild-arms-drama-cd/ydtltskl/06.%20elmina.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wild-arms-drama-cd/06.%2520elmina.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9521070,
+      "track_number": 7,
+      "title": "epilogue",
+      "runtime": 595,
+      "source_mp3": "https://vgmsite.com/soundtracks/wild-arms-drama-cd/rolkzcfd/07.%20epilogue.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wild-arms-drama-cd/07.%2520epilogue.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2902,
+    "filesize_mp3_bytes": 46430943,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

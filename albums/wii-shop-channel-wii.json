@@ -1,0 +1,54 @@
+{
+  "title": "Wii Shop Channel",
+  "titles_alternative": [
+    "Wii\u30b7\u30e7\u30c3\u30d7\u30c1\u30e3\u30f3\u30cd\u30eb"
+  ],
+  "crawled_at": "2023-09-25T12:45:09.749925+00:00",
+  "slug": "wii-shop-channel-wii",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/wii-shop-channel-wii",
+  "platforms": {
+    "Wii": "https://downloads.khinsider.com/game-soundtracks/nintendo-wii"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/wii-shop-channel-wii/cover.jpg"
+  ],
+  "year": 2006,
+  "date_added": "2015-01-30T00:00:00+00:00",
+  "developers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/developer/nintendo"
+  },
+  "publishers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1017118,
+      "track_number": 1,
+      "title": "Shop Channel Title",
+      "runtime": 36,
+      "source_mp3": "https://vgmsite.com/soundtracks/wii-shop-channel-wii/mgklijvu/01_Shop%20Channel%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wii-shop-channel-wii/01_Shop%2520Channel%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3250585,
+      "track_number": 2,
+      "title": "Shop Channel",
+      "runtime": 119,
+      "source_mp3": "https://vgmsite.com/soundtracks/wii-shop-channel-wii/hqewrabe/02_Shop%20Channel.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wii-shop-channel-wii/02_Shop%2520Channel.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 155,
+    "filesize_mp3_bytes": 4267703,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

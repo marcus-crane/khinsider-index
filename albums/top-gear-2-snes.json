@@ -1,0 +1,101 @@
+{
+  "title": "Top Gear 2",
+  "titles_alternative": [
+    "Top Racer 2",
+    "\u30c8\u30c3\u30d7\u30ec\u30fc\u30b5\u30fc2"
+  ],
+  "crawled_at": "2023-09-25T09:54:17.250440+00:00",
+  "slug": "top-gear-2-snes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/top-gear-2-snes",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/top-gear-2-snes/T1.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2019-08-16T00:00:00+00:00",
+  "developers": {
+    "Gremlin Graphics Software": "https://downloads.khinsider.com/game-soundtracks/developer/gremlin-graphics-software"
+  },
+  "publishers": {
+    "Kemco": "https://downloads.khinsider.com/game-soundtracks/publisher/kemco"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20174602,
+      "filesize_mp3_bytes": 7748976,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 226,
+      "source_mp3": "https://vgmsite.com/soundtracks/top-gear-2-snes/arokxscxlp/01%20Title.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/top-gear-2-snes/arokxscxlp/01%20Title.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/top-gear-2-snes/01%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 31383879,
+      "filesize_mp3_bytes": 11534336,
+      "track_number": 2,
+      "title": "Auckland",
+      "runtime": 349,
+      "source_mp3": "https://vgmsite.com/soundtracks/top-gear-2-snes/bdabhsuexe/02%20Auckland.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/top-gear-2-snes/bdabhsuexe/02%20Auckland.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/top-gear-2-snes/02%2520Auckland.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 23582474,
+      "filesize_mp3_bytes": 9101639,
+      "track_number": 3,
+      "title": "Ayers Rock",
+      "runtime": 274,
+      "source_mp3": "https://vgmsite.com/soundtracks/top-gear-2-snes/yhwfsynghv/03%20Ayers%20Rock.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/top-gear-2-snes/yhwfsynghv/03%20Ayers%20Rock.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/top-gear-2-snes/03%2520Ayers%2520Rock.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20604518,
+      "filesize_mp3_bytes": 6857687,
+      "track_number": 4,
+      "title": "Canterbury Plains",
+      "runtime": 212,
+      "source_mp3": "https://vgmsite.com/soundtracks/top-gear-2-snes/uizlauxmos/04%20Canterbury%20Plains.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/top-gear-2-snes/uizlauxmos/04%20Canterbury%20Plains.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/top-gear-2-snes/04%2520Canterbury%2520Plains.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 293601,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 5,
+      "title": "Qualified",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/top-gear-2-snes/qhaoqyiycb/05%20Qualified.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/top-gear-2-snes/qhaoqyiycb/05%20Qualified.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/top-gear-2-snes/05%2520Qualified.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11093934,
+      "filesize_mp3_bytes": 3638558,
+      "track_number": 6,
+      "title": "Ending Theme",
+      "runtime": 145,
+      "source_mp3": "https://vgmsite.com/soundtracks/top-gear-2-snes/iqgbetutld/06%20Ending%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/top-gear-2-snes/iqgbetutld/06%20Ending%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/top-gear-2-snes/06%2520Ending%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1212,
+    "filesize_mp3_bytes": 38986053,
+    "filesize_flac_bytes": 107133008,
+    "tracks": 6
+  }
+}

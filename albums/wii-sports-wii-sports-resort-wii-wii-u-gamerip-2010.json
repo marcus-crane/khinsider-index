@@ -1,0 +1,54 @@
+{
+  "title": "Wii Sports + Wii Sports Resort",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T12:46:16.194512+00:00",
+  "slug": "wii-sports-wii-sports-resort-wii-wii-u-gamerip-2010",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/wii-sports-wii-sports-resort-wii-wii-u-gamerip-2010",
+  "platforms": {
+    "Wii": "https://downloads.khinsider.com/game-soundtracks/nintendo-wii"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/wii-sports-wii-sports-resort-wii-wii-u-gamerip-2010/Wii%20Sports%20%2B%20Resort%20Art.png"
+  ],
+  "year": 2009,
+  "date_added": "2023-05-12T00:00:00+00:00",
+  "developers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/developer/nintendo"
+  },
+  "publishers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 471859,
+      "filesize_mp3_bytes": 241172,
+      "track_number": 1,
+      "title": "Disc Channel Banner",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/wii-sports-wii-sports-resort-wii-wii-u-gamerip-2010/fcdiznyctq/01.%20Disc%20Channel%20Banner.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/wii-sports-wii-sports-resort-wii-wii-u-gamerip-2010/fcdiznyctq/01.%20Disc%20Channel%20Banner.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wii-sports-wii-sports-resort-wii-wii-u-gamerip-2010/01.%2520Disc%2520Channel%2520Banner.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5525995,
+      "filesize_mp3_bytes": 2097152,
+      "track_number": 2,
+      "title": "Game Select",
+      "runtime": 69,
+      "source_mp3": "https://vgmsite.com/soundtracks/wii-sports-wii-sports-resort-wii-wii-u-gamerip-2010/intuiovsqo/02.%20Game%20Select.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/wii-sports-wii-sports-resort-wii-wii-u-gamerip-2010/intuiovsqo/02.%20Game%20Select.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wii-sports-wii-sports-resort-wii-wii-u-gamerip-2010/02.%2520Game%2520Select.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 75,
+    "filesize_mp3_bytes": 2338324,
+    "filesize_flac_bytes": 5997854,
+    "tracks": 2
+  }
+}

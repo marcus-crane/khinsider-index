@@ -1,0 +1,65 @@
+{
+  "title": "Toy Story",
+  "titles_alternative": [
+    "Disney's Toy Story",
+    "\u30c8\u30a4\u30fb\u30b9\u30c8\u30fc\u30ea\u30fc"
+  ],
+  "crawled_at": "2023-09-25T10:29:01.150181+00:00",
+  "slug": "toy-story-game-boy",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/toy-story-game-boy",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/toy-story-game-boy/T1.png"
+  ],
+  "year": 1996,
+  "date_added": "2018-12-08T00:00:00+00:00",
+  "developers": {
+    "Tiertex": "https://downloads.khinsider.com/game-soundtracks/developer/tiertex"
+  },
+  "publishers": {
+    "Black Pearl": "https://downloads.khinsider.com/game-soundtracks/publisher/black-pearl"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7203717,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/toy-story-game-boy/ujcrgtty/01%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/toy-story-game-boy/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3512729,
+      "track_number": 2,
+      "title": "Storyline",
+      "runtime": 88,
+      "source_mp3": "https://vgmsite.com/soundtracks/toy-story-game-boy/skdiootl/02%20Storyline.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/toy-story-game-boy/02%2520Storyline.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7203717,
+      "track_number": 3,
+      "title": "Playtime",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/toy-story-game-boy/ywoucudg/03%20Playtime.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/toy-story-game-boy/03%2520Playtime.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 448,
+    "filesize_mp3_bytes": 17920163,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

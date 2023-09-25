@@ -1,0 +1,53 @@
+{
+  "title": "Tokimeki Memorial Namida no EERU",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T09:14:12.869980+00:00",
+  "slug": "tokimeki-memorial-namida-no-eeru",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tokimeki-memorial-namida-no-eeru",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/tokimeki-memorial-namida-no-eeru/Tokimeki%20Memorial%20Namida%20no%20EERU.jpg"
+  ],
+  "date_added": "2022-07-03T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4865392,
+      "track_number": 1,
+      "title": "Namida no EERU",
+      "runtime": 304,
+      "source_mp3": "https://vgmsite.com/soundtracks/tokimeki-memorial-namida-no-eeru/xayfsmrshk/01-Namida%20no%20EERU.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tokimeki-memorial-namida-no-eeru/01-Namida%2520no%2520EERU.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4120903,
+      "track_number": 2,
+      "title": "Shiroi T-SHATSU to SUNIIKAA",
+      "runtime": 257,
+      "source_mp3": "https://vgmsite.com/soundtracks/tokimeki-memorial-namida-no-eeru/wyxcpvptpc/02-Shiroi%20T-SHATSU%20to%20SUNIIKAA.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tokimeki-memorial-namida-no-eeru/02-Shiroi%2520T-SHATSU%2520to%2520SUNIIKAA.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4844421,
+      "track_number": 3,
+      "title": "Namida no EERU (Original Karaoke)",
+      "runtime": 303,
+      "source_mp3": "https://vgmsite.com/soundtracks/tokimeki-memorial-namida-no-eeru/ztkmpryyrb/03-Namida%20no%20EERU%20%28Original%20Karaoke%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tokimeki-memorial-namida-no-eeru/03-Namida%2520no%2520EERU%2520%2528Original%2520Karaoke%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 864,
+    "filesize_mp3_bytes": 13830716,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

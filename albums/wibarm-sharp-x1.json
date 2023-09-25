@@ -1,0 +1,84 @@
+{
+  "title": "WiBArm",
+  "titles_alternative": [
+    "\u30a6\u30a3\u30d0\u30fc\u30f3"
+  ],
+  "crawled_at": "2023-09-25T12:38:20.335347+00:00",
+  "slug": "wibarm-sharp-x1",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/wibarm-sharp-x1",
+  "platforms": {
+    "Sharp X1": "https://downloads.khinsider.com/game-soundtracks/sharp-x1"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/wibarm-sharp-x1/WiBArm%20%28Sharp%20X1%29%20%28gamerip%29%20%281986%29.jpg"
+  ],
+  "year": 1986,
+  "date_added": "2017-10-11T00:00:00+00:00",
+  "developers": {
+    "Arsys Software": "https://downloads.khinsider.com/game-soundtracks/developer/arsys-software"
+  },
+  "publishers": {
+    "Arsys Software": "https://downloads.khinsider.com/game-soundtracks/publisher/arsys-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1384120,
+      "track_number": 1,
+      "title": "Base (\u57fa\u5730)",
+      "runtime": 51,
+      "source_mp3": "https://vgmsite.com/soundtracks/wibarm-sharp-x1/eqzxfoov/01_Base%20%28%E5%9F%BA%E5%9C%B0%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wibarm-sharp-x1/01_Base%2520%2528%25E5%259F%25BA%25E5%259C%25B0%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2369781,
+      "track_number": 2,
+      "title": "Land (\u5730\u4e0a)",
+      "runtime": 89,
+      "source_mp3": "https://vgmsite.com/soundtracks/wibarm-sharp-x1/lhnaguje/02_Land%20%28%E5%9C%B0%E4%B8%8A%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wibarm-sharp-x1/02_Land%2520%2528%25E5%259C%25B0%25E4%25B8%258A%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1038090,
+      "track_number": 3,
+      "title": "Battle (\u6226\u95d8)",
+      "runtime": 33,
+      "source_mp3": "https://vgmsite.com/soundtracks/wibarm-sharp-x1/bgfwqubb/03_Battle%20%28%E6%88%A6%E9%97%98%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wibarm-sharp-x1/03_Battle%2520%2528%25E6%2588%25A6%25E9%2597%2598%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2453667,
+      "track_number": 4,
+      "title": "3D Maze (Interior) (3D\u8ff7\u8def(\u5026\u7269\u5185))",
+      "runtime": 89,
+      "source_mp3": "https://vgmsite.com/soundtracks/wibarm-sharp-x1/cmvulqif/04_3D%20Maze%20%28Interior%29%20%283D%E8%BF%B7%E8%B7%AF%28%E5%80%A6%E7%89%A9%E5%86%85%29%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wibarm-sharp-x1/04_3D%2520Maze%2520%2528Interior%2529%2520%25283D%25E8%25BF%25B7%25E8%25B7%25AF%2528%25E5%2580%25A6%25E7%2589%25A9%25E5%2586%2585%2529%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4078960,
+      "track_number": 5,
+      "title": "Ending (\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0)",
+      "runtime": 153,
+      "source_mp3": "https://vgmsite.com/soundtracks/wibarm-sharp-x1/rabilytg/05_Ending%20%28%E3%82%A8%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wibarm-sharp-x1/05_Ending%2520%2528%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 415,
+    "filesize_mp3_bytes": 11324618,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

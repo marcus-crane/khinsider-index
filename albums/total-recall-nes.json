@@ -1,0 +1,102 @@
+{
+  "title": "Total Recall",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T10:02:53.648489+00:00",
+  "slug": "total-recall-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/total-recall-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/total-recall-nes/Total%20Recall%20%28NES%29.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2019-09-12T00:00:00+00:00",
+  "developers": {
+    "Interplay": "https://downloads.khinsider.com/game-soundtracks/developer/interplay"
+  },
+  "publishers": {
+    "Acclaim": "https://downloads.khinsider.com/game-soundtracks/publisher/acclaim"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 796917,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/total-recall-nes/lajcbpjlhj/01%20-%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/total-recall-nes/01%2520-%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3365928,
+      "track_number": 2,
+      "title": "Earth",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/total-recall-nes/utfhpsfbrv/02%20-%20Earth.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/total-recall-nes/02%2520-%2520Earth.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3407872,
+      "track_number": 3,
+      "title": "Mars",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/total-recall-nes/bjgusyugvb/03%20-%20Mars.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/total-recall-nes/03%2520-%2520Mars.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3061841,
+      "track_number": 4,
+      "title": "Ending",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/total-recall-nes/nnkqtlnaqm/04%20-%20Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/total-recall-nes/04%2520-%2520Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3376414,
+      "track_number": 5,
+      "title": "Track 5",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/total-recall-nes/rdkcnqtree/05%20-%20Track%205.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/total-recall-nes/05%2520-%2520Track%25205.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3156213,
+      "track_number": 6,
+      "title": "Track 6",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/total-recall-nes/hdkhhxkuqc/06%20-%20Track%206.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/total-recall-nes/06%2520-%2520Track%25206.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 7,
+      "title": "SFX",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/total-recall-nes/yqmgzqitjr/07%20-%20SFX.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/total-recall-nes/07%2520-%2520SFX.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 952,
+    "filesize_mp3_bytes": 17217613,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

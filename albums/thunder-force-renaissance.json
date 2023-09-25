@@ -1,0 +1,103 @@
+{
+  "title": "Thunder Force Renaissance",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T08:34:16.477861+00:00",
+  "slug": "thunder-force-renaissance",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/thunder-force-renaissance",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation",
+    "Saturn": "https://downloads.khinsider.com/game-soundtracks/sega-saturn",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/thunder-force-renaissance/renaissance.jpg"
+  ],
+  "year": 2005,
+  "catalog_number": "AKCD-01",
+  "date_added": "2006-11-25T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Akindoh": "https://downloads.khinsider.com/game-soundtracks/publisher/akindoh"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3638558,
+      "track_number": 1,
+      "title": "rising blue lightning",
+      "runtime": 182,
+      "source_mp3": "https://vgmsite.com/soundtracks/thunder-force-renaissance/msuydfes/01.rising%20blue%20lightning.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thunder-force-renaissance/01.rising%2520blue%2520lightning.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6039797,
+      "track_number": 2,
+      "title": "legendary wings",
+      "runtime": 302,
+      "source_mp3": "https://vgmsite.com/soundtracks/thunder-force-renaissance/ngoctrjc/02.legendary%20wings.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thunder-force-renaissance/02.legendary%2520wings.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4362076,
+      "track_number": 3,
+      "title": "steel of destiny",
+      "runtime": 218,
+      "source_mp3": "https://vgmsite.com/soundtracks/thunder-force-renaissance/juguxvwe/03.steel%20of%20destiny.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thunder-force-renaissance/03.steel%2520of%2520destiny.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2642411,
+      "track_number": 4,
+      "title": "the justice ray part2",
+      "runtime": 132,
+      "source_mp3": "https://vgmsite.com/soundtracks/thunder-force-renaissance/xwtplgpo/04.the%20justice%20ray%20part2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thunder-force-renaissance/04.the%2520justice%2520ray%2520part2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4561305,
+      "track_number": 5,
+      "title": "fire-leo-05p syrinx",
+      "runtime": 228,
+      "source_mp3": "https://vgmsite.com/soundtracks/thunder-force-renaissance/nuszjodu/05.fire-leo-05p%20syrinx.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thunder-force-renaissance/05.fire-leo-05p%2520syrinx.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6522142,
+      "track_number": 6,
+      "title": "Track 6",
+      "runtime": 326,
+      "source_mp3": "https://vgmsite.com/soundtracks/thunder-force-renaissance/ktailtml/06.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thunder-force-renaissance/06.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9342812,
+      "track_number": 7,
+      "title": "last letter",
+      "runtime": 467,
+      "source_mp3": "https://vgmsite.com/soundtracks/thunder-force-renaissance/jprqnent/07.last%20letter.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thunder-force-renaissance/07.last%2520letter.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1855,
+    "filesize_mp3_bytes": 37109101,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

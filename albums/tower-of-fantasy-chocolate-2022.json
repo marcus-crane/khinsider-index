@@ -1,0 +1,57 @@
+{
+  "title": "Tower of Fantasy: Chocolate",
+  "titles_alternative": [
+    "Chocolate\uff08\u82ac\u7483\u5c14\u62df\u6001\u5267\u60c5\u63d2\u66f2\uff09"
+  ],
+  "crawled_at": "2023-09-25T10:24:02.101470+00:00",
+  "slug": "tower-of-fantasy-chocolate-2022",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tower-of-fantasy-chocolate-2022",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "Online": "https://downloads.khinsider.com/game-soundtracks/online",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tower-of-fantasy-chocolate-2022/109951168070894447.jpg"
+  ],
+  "year": 2022,
+  "catalog_number": null,
+  "date_added": "2023-06-15T00:00:00+00:00",
+  "developers": {
+    "Hotta Studio": "https://downloads.khinsider.com/game-soundtracks/developer/hotta-studio"
+  },
+  "publishers": {
+    "Hotta Studio": "https://downloads.khinsider.com/game-soundtracks/publisher/hotta-studio"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5714739,
+      "track_number": 1,
+      "title": "Chocolate (Instrumental)",
+      "runtime": 137,
+      "source_mp3": "https://vgmsite.com/soundtracks/tower-of-fantasy-chocolate-2022/vcxjhhyzwf/01.%20Chocolate%20%28Instrumental%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tower-of-fantasy-chocolate-2022/01.%2520Chocolate%2520%2528Instrumental%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5714739,
+      "track_number": 2,
+      "title": "Chocolate",
+      "runtime": 137,
+      "source_mp3": "https://vgmsite.com/soundtracks/tower-of-fantasy-chocolate-2022/kkulkrcjkk/02.%20Chocolate.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tower-of-fantasy-chocolate-2022/02.%2520Chocolate.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 274,
+    "filesize_mp3_bytes": 11429478,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

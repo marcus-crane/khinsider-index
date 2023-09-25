@@ -1,0 +1,50 @@
+{
+  "title": "The Treehouse",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T07:48:30.623538+00:00",
+  "slug": "the-treehouse-pc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/the-treehouse-pc",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/the-treehouse-pc/Tree%20House.png"
+  ],
+  "year": 1991,
+  "date_added": "2022-06-20T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 314572,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 1,
+      "title": "Broderbund Software Logo",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-treehouse-pc/mmhgmqlzqg/01%20Broderbund%20Software%20Logo.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/the-treehouse-pc/mmhgmqlzqg/01%20Broderbund%20Software%20Logo.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-treehouse-pc/01%2520Broderbund%2520Software%2520Logo.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 16169041,
+      "filesize_mp3_bytes": 6742343,
+      "track_number": 2,
+      "title": "Title Screen",
+      "runtime": 317,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-treehouse-pc/wmxibublmy/02%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/the-treehouse-pc/wmxibublmy/02%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-treehouse-pc/02%2520Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 323,
+    "filesize_mp3_bytes": 6878657,
+    "filesize_flac_bytes": 16483613,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Torikaekko Please",
+  "titles_alternative": [
+    "\u3068\u308a\u304b\u3048\u3063\u3053\u30d7\u30ea\u30fc\u30ba"
+  ],
+  "crawled_at": "2023-09-25T09:58:19.745726+00:00",
+  "slug": "torikaekko-puriizu",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/torikaekko-puriizu",
+  "platforms": {
+    "Anime": "https://downloads.khinsider.com/game-soundtracks/anime"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/torikaekko-puriizu/single3.jpg"
+  ],
+  "year": 1999,
+  "catalog_number": "CXDA-101",
+  "date_added": "2006-11-25T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Media Factory": "https://downloads.khinsider.com/game-soundtracks/publisher/media-factory"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3890216,
+      "track_number": 1,
+      "title": "torikaekko puriizu",
+      "runtime": 243,
+      "source_mp3": "https://vgmsite.com/soundtracks/torikaekko-puriizu/mwcxxqvi/01%20-%20torikaekko%20puriizu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/torikaekko-puriizu/01%2520-%2520torikaekko%2520puriizu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3827302,
+      "track_number": 2,
+      "title": "poketto ni fyantajii",
+      "runtime": 239,
+      "source_mp3": "https://vgmsite.com/soundtracks/torikaekko-puriizu/edpihuti/02%20-%20poketto%20ni%20fyantajii.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/torikaekko-puriizu/02%2520-%2520poketto%2520ni%2520fyantajii.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4173332,
+      "track_number": 3,
+      "title": "pok\u00e9mon ondo",
+      "runtime": 261,
+      "source_mp3": "https://vgmsite.com/soundtracks/torikaekko-puriizu/vlcrjklm/03%20-%20pok%C3%A9mon%20ondo.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/torikaekko-puriizu/03%2520-%2520pok%25C3%25A9mon%2520ondo.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3806330,
+      "track_number": 4,
+      "title": "torikaekko puriizu (karaoke)",
+      "runtime": 238,
+      "source_mp3": "https://vgmsite.com/soundtracks/torikaekko-puriizu/ikfxgetz/04%20-%20torikaekko%20puriizu%20%28karaoke%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/torikaekko-puriizu/04%2520-%2520torikaekko%2520puriizu%2520%2528karaoke%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3732930,
+      "track_number": 5,
+      "title": "poketto ni fyantajii (karaoke)",
+      "runtime": 233,
+      "source_mp3": "https://vgmsite.com/soundtracks/torikaekko-puriizu/zyyvhdtv/05%20-%20poketto%20ni%20fyantajii%20%28karaoke%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/torikaekko-puriizu/05%2520-%2520poketto%2520ni%2520fyantajii%2520%2528karaoke%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1214,
+    "filesize_mp3_bytes": 19430110,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

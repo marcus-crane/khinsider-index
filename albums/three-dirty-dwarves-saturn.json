@@ -1,0 +1,112 @@
+{
+  "title": "Three Dirty Dwarves",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T08:29:46.331221+00:00",
+  "slug": "three-dirty-dwarves-saturn",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/three-dirty-dwarves-saturn",
+  "platforms": {
+    "Saturn": "https://downloads.khinsider.com/game-soundtracks/sega-saturn"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/three-dirty-dwarves-saturn/T1.jpg"
+  ],
+  "year": 1996,
+  "date_added": "2015-02-18T00:00:00+00:00",
+  "developers": {
+    "Appaloosa": "https://downloads.khinsider.com/game-soundtracks/developer/appaloosa"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3607101,
+      "track_number": 1,
+      "title": "Pit Bully",
+      "runtime": 217,
+      "source_mp3": "https://vgmsite.com/soundtracks/three-dirty-dwarves-saturn/ujppzqgr/01_Pit%20Bully.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/three-dirty-dwarves-saturn/01_Pit%2520Bully.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2820669,
+      "track_number": 2,
+      "title": "Mattress Battle",
+      "runtime": 184,
+      "source_mp3": "https://vgmsite.com/soundtracks/three-dirty-dwarves-saturn/vkiethro/02_Mattress%20Battle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/three-dirty-dwarves-saturn/02_Mattress%2520Battle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3334471,
+      "track_number": 3,
+      "title": "Man of a Thousand Swords",
+      "runtime": 194,
+      "source_mp3": "https://vgmsite.com/soundtracks/three-dirty-dwarves-saturn/iqrvzbce/03_Man%20of%20a%20Thousand%20Swords.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/three-dirty-dwarves-saturn/03_Man%2520of%2520a%2520Thousand%2520Swords.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2883584,
+      "track_number": 4,
+      "title": "Gymhouse",
+      "runtime": 168,
+      "source_mp3": "https://vgmsite.com/soundtracks/three-dirty-dwarves-saturn/yzjxdslq/04_Gymhouse.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/three-dirty-dwarves-saturn/04_Gymhouse.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3114270,
+      "track_number": 5,
+      "title": "House of Fire",
+      "runtime": 182,
+      "source_mp3": "https://vgmsite.com/soundtracks/three-dirty-dwarves-saturn/kdrnvovn/05_House%20of%20Fire.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/three-dirty-dwarves-saturn/05_House%2520of%2520Fire.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2684354,
+      "track_number": 6,
+      "title": "Taconic Parkway",
+      "runtime": 160,
+      "source_mp3": "https://vgmsite.com/soundtracks/three-dirty-dwarves-saturn/misbeejr/06_Taconic%20Parkway.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/three-dirty-dwarves-saturn/06_Taconic%2520Parkway.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3743416,
+      "track_number": 7,
+      "title": "The Stadium",
+      "runtime": 219,
+      "source_mp3": "https://vgmsite.com/soundtracks/three-dirty-dwarves-saturn/ipnqkhok/07_The%20Stadium.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/three-dirty-dwarves-saturn/07_The%2520Stadium.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2967470,
+      "track_number": 8,
+      "title": "The End",
+      "runtime": 175,
+      "source_mp3": "https://vgmsite.com/soundtracks/three-dirty-dwarves-saturn/vicmatib/08_The%20End.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/three-dirty-dwarves-saturn/08_The%2520End.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1499,
+    "filesize_mp3_bytes": 25155335,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

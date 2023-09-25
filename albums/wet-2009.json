@@ -1,0 +1,83 @@
+{
+  "title": "WET",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T12:29:44.975982+00:00",
+  "slug": "wet-2009",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/wet-2009",
+  "platforms": {
+    "PS3": "https://downloads.khinsider.com/game-soundtracks/playstation-3",
+    "Xbox 360": "https://downloads.khinsider.com/game-soundtracks/xbox-360"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/wet-2009/Zune%20Album%20Art%20-%20Music%20from%20WET.jpg"
+  ],
+  "year": 2009,
+  "date_added": "2023-08-12T00:00:00+00:00",
+  "developers": {
+    "Behaviour Interactive": "https://downloads.khinsider.com/game-soundtracks/developer/behaviour-interactive"
+  },
+  "publishers": {
+    "Bethesda Softworks": "https://downloads.khinsider.com/game-soundtracks/publisher/bethesda-softworks"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5127536,
+      "track_number": 1,
+      "title": "Undead West",
+      "runtime": 123,
+      "source_mp3": "https://vgmsite.com/soundtracks/wet-2009/aywhqjnylq/01.%20Undead%20West.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wet-2009/01.%2520Undead%2520West.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7906263,
+      "track_number": 2,
+      "title": "The Crazy Loco Loquito",
+      "runtime": 193,
+      "source_mp3": "https://vgmsite.com/soundtracks/wet-2009/grmvpnrmni/02.%20The%20Crazy%20Loco%20Loquito.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wet-2009/02.%2520The%2520Crazy%2520Loco%2520Loquito.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8891924,
+      "track_number": 3,
+      "title": "Desert Slaying",
+      "runtime": 217,
+      "source_mp3": "https://vgmsite.com/soundtracks/wet-2009/opzvfteruj/03.%20Desert%20Slaying.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wet-2009/03.%2520Desert%2520Slaying.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7245660,
+      "track_number": 4,
+      "title": "Psychobilly Freakshow",
+      "runtime": 176,
+      "source_mp3": "https://vgmsite.com/soundtracks/wet-2009/cqpivusjkr/04.%20Psychobilly%20Freakshow.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wet-2009/04.%2520Psychobilly%2520Freakshow.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7056916,
+      "track_number": 5,
+      "title": "Insane",
+      "runtime": 171,
+      "source_mp3": "https://vgmsite.com/soundtracks/wet-2009/tcqknmxlcr/05.%20Insane.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wet-2009/05.%2520Insane.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 880,
+    "filesize_mp3_bytes": 36228299,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "title": "Touhou Manga - Silent Sinner in Blue",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T10:15:51.522927+00:00",
+  "slug": "touhou-manga-silent-sinner-in-blue",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/touhou-manga-silent-sinner-in-blue",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/touhou-manga-silent-sinner-in-blue/Image0001.JPG"
+  ],
+  "year": 2008,
+  "date_added": "2022-04-09T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11471421,
+      "track_number": 1,
+      "title": "Youkai Space Travel",
+      "runtime": 400,
+      "source_mp3": "https://vgmsite.com/soundtracks/touhou-manga-silent-sinner-in-blue/kqwxulpaox/01.%20Youkai%20Space%20Travel.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/touhou-manga-silent-sinner-in-blue/01.%2520Youkai%2520Space%2520Travel.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6280970,
+      "track_number": 2,
+      "title": "Watatsuki's Spell Card ~ Lunatic Blue",
+      "runtime": 216,
+      "source_mp3": "https://vgmsite.com/soundtracks/touhou-manga-silent-sinner-in-blue/inbvjbfyql/02.%20Watatsuki%27s%20Spell%20Card%20~%20Lunatic%20Blue.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/touhou-manga-silent-sinner-in-blue/02.%2520Watatsuki%2527s%2520Spell%2520Card%2520~%2520Lunatic%2520Blue.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6574571,
+      "track_number": 3,
+      "title": "A Drunkard's Lemuria (Retro Ver)",
+      "runtime": 234,
+      "source_mp3": "https://vgmsite.com/soundtracks/touhou-manga-silent-sinner-in-blue/tjymxjkvjp/03.%20A%20Drunkard%27s%20Lemuria%20%28Retro%20Ver%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/touhou-manga-silent-sinner-in-blue/03.%2520A%2520Drunkard%2527s%2520Lemuria%2520%2528Retro%2520Ver%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 850,
+    "filesize_mp3_bytes": 24326962,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

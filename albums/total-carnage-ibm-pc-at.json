@@ -1,0 +1,98 @@
+{
+  "title": "Total Carnage",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T10:01:25.548968+00:00",
+  "slug": "total-carnage-ibm-pc-at",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/total-carnage-ibm-pc-at",
+  "platforms": {
+    "IBM PC/AT": "https://downloads.khinsider.com/game-soundtracks/ibm-pc-at"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/total-carnage-ibm-pc-at/Total%20Carnage.png"
+  ],
+  "year": 1994,
+  "date_added": "2022-06-20T00:00:00+00:00",
+  "developers": {
+    "Midway": "https://downloads.khinsider.com/game-soundtracks/developer/midway"
+  },
+  "publishers": {
+    "Midway": "https://downloads.khinsider.com/game-soundtracks/publisher/midway"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 12960399,
+      "filesize_mp3_bytes": 6585057,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 291,
+      "source_mp3": "https://vgmsite.com/soundtracks/total-carnage-ibm-pc-at/gowbdplotc/01%20Intro.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/total-carnage-ibm-pc-at/gowbdplotc/01%20Intro.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/total-carnage-ibm-pc-at/01%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2768240,
+      "filesize_mp3_bytes": 1394606,
+      "track_number": 2,
+      "title": "News Report",
+      "runtime": 69,
+      "source_mp3": "https://vgmsite.com/soundtracks/total-carnage-ibm-pc-at/kcduuwftut/02%20News%20Report.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/total-carnage-ibm-pc-at/kcduuwftut/02%20News%20Report.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/total-carnage-ibm-pc-at/02%2520News%2520Report.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7665090,
+      "filesize_mp3_bytes": 2852126,
+      "track_number": 3,
+      "title": "BGM",
+      "runtime": 135,
+      "source_mp3": "https://vgmsite.com/soundtracks/total-carnage-ibm-pc-at/diuntegrsn/03%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/total-carnage-ibm-pc-at/diuntegrsn/03%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/total-carnage-ibm-pc-at/03%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4571791,
+      "filesize_mp3_bytes": 2621440,
+      "track_number": 4,
+      "title": "Victory",
+      "runtime": 98,
+      "source_mp3": "https://vgmsite.com/soundtracks/total-carnage-ibm-pc-at/afqxcjndza/04%20Victory.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/total-carnage-ibm-pc-at/afqxcjndza/04%20Victory.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/total-carnage-ibm-pc-at/04%2520Victory.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6805258,
+      "filesize_mp3_bytes": 3229614,
+      "track_number": 5,
+      "title": "General Akhboob Battle",
+      "runtime": 128,
+      "source_mp3": "https://vgmsite.com/soundtracks/total-carnage-ibm-pc-at/kttmshlsjn/05%20General%20Akhboob%20Battle.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/total-carnage-ibm-pc-at/kttmshlsjn/05%20General%20Akhboob%20Battle.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/total-carnage-ibm-pc-at/05%2520General%2520Akhboob%2520Battle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 16043212,
+      "filesize_mp3_bytes": 7214202,
+      "track_number": 6,
+      "title": "Ending - Pleasure Domes",
+      "runtime": 325,
+      "source_mp3": "https://vgmsite.com/soundtracks/total-carnage-ibm-pc-at/jonsdfoyfc/06%20Ending%20-%20Pleasure%20Domes.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/total-carnage-ibm-pc-at/jonsdfoyfc/06%20Ending%20-%20Pleasure%20Domes.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/total-carnage-ibm-pc-at/06%2520Ending%2520-%2520Pleasure%2520Domes.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1046,
+    "filesize_mp3_bytes": 23897045,
+    "filesize_flac_bytes": 50813990,
+    "tracks": 6
+  }
+}

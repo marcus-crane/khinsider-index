@@ -1,0 +1,93 @@
+{
+  "title": "Himegoto ep / SiLC",
+  "titles_alternative": [
+    "Vandread Himegoto Single"
+  ],
+  "crawled_at": "2023-09-25T11:35:09.626469+00:00",
+  "slug": "vandread-himegoto-single",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/vandread-himegoto-single",
+  "platforms": {
+    "Anime": "https://downloads.khinsider.com/game-soundtracks/anime"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/vandread-himegoto-single/Vandread%20Himegoto%20Single.jpg"
+  ],
+  "year": 2000,
+  "catalog_number": "MKCA-1026",
+  "date_added": "2006-11-25T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Music Mine": "https://downloads.khinsider.com/game-soundtracks/publisher/music-mine"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4718592,
+      "track_number": 1,
+      "title": "himegoto",
+      "runtime": 295,
+      "source_mp3": "https://vgmsite.com/soundtracks/vandread-himegoto-single/gglvnuau/01%20himegoto.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vandread-himegoto-single/01%2520himegoto.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4550819,
+      "track_number": 2,
+      "title": "vibe",
+      "runtime": 284,
+      "source_mp3": "https://vgmsite.com/soundtracks/vandread-himegoto-single/uzrpinmn/02%20vibe.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vandread-himegoto-single/02%2520vibe.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5452595,
+      "track_number": 3,
+      "title": "higemoto (cold filter mix)",
+      "runtime": 341,
+      "source_mp3": "https://vgmsite.com/soundtracks/vandread-himegoto-single/yofkihhh/03%20higemoto%20%28cold%20filter%20mix%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vandread-himegoto-single/03%2520higemoto%2520%2528cold%2520filter%2520mix%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5505024,
+      "track_number": 4,
+      "title": "vibe (pcm re-programmed 80's mix)",
+      "runtime": 344,
+      "source_mp3": "https://vgmsite.com/soundtracks/vandread-himegoto-single/ocbsdckj/04%20vibe%20%28pcm%20re-programmed%2080%27s%20mix%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vandread-himegoto-single/04%2520vibe%2520%2528pcm%2520re-programmed%252080%2527s%2520mix%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6994001,
+      "track_number": 5,
+      "title": "in heaven",
+      "runtime": 437,
+      "source_mp3": "https://vgmsite.com/soundtracks/vandread-himegoto-single/aveutbkb/05%20in%20heaven.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vandread-himegoto-single/05%2520in%2520heaven.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5211422,
+      "track_number": 6,
+      "title": "we got the beat",
+      "runtime": 325,
+      "source_mp3": "https://vgmsite.com/soundtracks/vandread-himegoto-single/puqnnenu/06%20we%20got%20the%20beat.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vandread-himegoto-single/06%2520we%2520got%2520the%2520beat.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2026,
+    "filesize_mp3_bytes": 32432453,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

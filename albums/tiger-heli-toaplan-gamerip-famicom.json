@@ -1,0 +1,93 @@
+{
+  "title": "Tiger-Heli",
+  "titles_alternative": [
+    "\u30bf\u30a4\u30ac\u30fc\u30d8\u30ea"
+  ],
+  "crawled_at": "2023-09-25T08:37:22.863722+00:00",
+  "slug": "tiger-heli-toaplan-gamerip-famicom",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tiger-heli-toaplan-gamerip-famicom",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tiger-heli-toaplan-gamerip-famicom/T1.jpg"
+  ],
+  "year": 1986,
+  "date_added": "2022-06-27T00:00:00+00:00",
+  "developers": {
+    "Micronics": "https://downloads.khinsider.com/game-soundtracks/developer/micronics",
+    "Toaplan": "https://downloads.khinsider.com/game-soundtracks/developer/toaplan"
+  },
+  "publishers": {
+    "Acclaim": "https://downloads.khinsider.com/game-soundtracks/publisher/acclaim",
+    "Hyundai": "https://downloads.khinsider.com/game-soundtracks/publisher/hyundai",
+    "Pony Canyon": "https://downloads.khinsider.com/game-soundtracks/publisher/pony-canyon"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 482344,
+      "filesize_mp3_bytes": 230686,
+      "track_number": 1,
+      "title": "First Mission",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/tiger-heli-toaplan-gamerip-famicom/tshodpjjmq/01%20First%20Mission.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tiger-heli-toaplan-gamerip-famicom/tshodpjjmq/01%20First%20Mission.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tiger-heli-toaplan-gamerip-famicom/01%2520First%2520Mission.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2495610,
+      "filesize_mp3_bytes": 975175,
+      "track_number": 2,
+      "title": "Look Out",
+      "runtime": 50,
+      "source_mp3": "https://vgmsite.com/soundtracks/tiger-heli-toaplan-gamerip-famicom/niehtjkgga/02%20Look%20Out.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tiger-heli-toaplan-gamerip-famicom/niehtjkgga/02%20Look%20Out.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tiger-heli-toaplan-gamerip-famicom/02%2520Look%2520Out.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3040870,
+      "filesize_mp3_bytes": 1226833,
+      "track_number": 3,
+      "title": "Fire!",
+      "runtime": 61,
+      "source_mp3": "https://vgmsite.com/soundtracks/tiger-heli-toaplan-gamerip-famicom/mokpqizels/03%20Fire%21.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tiger-heli-toaplan-gamerip-famicom/mokpqizels/03%20Fire%21.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tiger-heli-toaplan-gamerip-famicom/03%2520Fire%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 220200,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 4,
+      "title": "Oasis",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/tiger-heli-toaplan-gamerip-famicom/imsvtlifkf/04%20Oasis.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tiger-heli-toaplan-gamerip-famicom/imsvtlifkf/04%20Oasis.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tiger-heli-toaplan-gamerip-famicom/04%2520Oasis.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 83886,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 5,
+      "title": "Close",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/tiger-heli-toaplan-gamerip-famicom/whflbpmryz/05%20Close.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tiger-heli-toaplan-gamerip-famicom/whflbpmryz/05%20Close.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tiger-heli-toaplan-gamerip-famicom/05%2520Close.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 129,
+    "filesize_mp3_bytes": 2558522,
+    "filesize_flac_bytes": 6322910,
+    "tracks": 5
+  }
+}

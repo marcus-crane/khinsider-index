@@ -1,0 +1,92 @@
+{
+  "title": "Total Recall",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T10:02:50.953110+00:00",
+  "slug": "total-recall-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/total-recall-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/total-recall-amiga/T1.png"
+  ],
+  "year": 1990,
+  "date_added": "2017-09-02T00:00:00+00:00",
+  "developers": {
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/developer/ocean"
+  },
+  "publishers": {
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/publisher/ocean"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4037017,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 141,
+      "source_mp3": "https://vgmsite.com/soundtracks/total-recall-amiga/vvhszamd/01_Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/total-recall-amiga/01_Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2988441,
+      "track_number": 2,
+      "title": "Section 1, Ending",
+      "runtime": 91,
+      "source_mp3": "https://vgmsite.com/soundtracks/total-recall-amiga/jfzzntgn/02_Section%201%2C%20Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/total-recall-amiga/02_Section%25201%252C%2520Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5966397,
+      "track_number": 3,
+      "title": "Section 2, 5",
+      "runtime": 184,
+      "source_mp3": "https://vgmsite.com/soundtracks/total-recall-amiga/qqbwxwhy/03_Section%202%2C%205.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/total-recall-amiga/03_Section%25202%252C%25205.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6606028,
+      "track_number": 4,
+      "title": "Section 3, 4, 6",
+      "runtime": 195,
+      "source_mp3": "https://vgmsite.com/soundtracks/total-recall-amiga/wzhpxmgi/04_Section%203%2C%204%2C%206.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/total-recall-amiga/04_Section%25203%252C%25204%252C%25206.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5158993,
+      "track_number": 5,
+      "title": "Unused (Game Over)",
+      "runtime": 181,
+      "source_mp3": "https://vgmsite.com/soundtracks/total-recall-amiga/glzlrpzk/05_Unused%20%28Game%20Over%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/total-recall-amiga/05_Unused%2520%2528Game%2520Over%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2936012,
+      "track_number": 6,
+      "title": "Unused (In-Game)",
+      "runtime": 94,
+      "source_mp3": "https://vgmsite.com/soundtracks/total-recall-amiga/rlgjkkfr/06_Unused%20%28In-Game%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/total-recall-amiga/06_Unused%2520%2528In-Game%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 886,
+    "filesize_mp3_bytes": 27692888,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

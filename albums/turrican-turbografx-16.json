@@ -1,0 +1,88 @@
+{
+  "title": "Turrican",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T11:15:14.005220+00:00",
+  "slug": "turrican-turbografx-16",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/turrican-turbografx-16",
+  "platforms": {
+    "TurboGrafx-16": "https://downloads.khinsider.com/game-soundtracks/turbografx-16"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/turrican-turbografx-16/Turrican.png"
+  ],
+  "year": 1991,
+  "date_added": "2022-09-25T00:00:00+00:00",
+  "developers": {
+    "Code Monkeys": "https://downloads.khinsider.com/game-soundtracks/developer/code-monkeys",
+    "Rainbow Arts": "https://downloads.khinsider.com/game-soundtracks/developer/rainbow-arts"
+  },
+  "publishers": {
+    "Accolade": "https://downloads.khinsider.com/game-soundtracks/publisher/accolade"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 14166261,
+      "filesize_mp3_bytes": 4833935,
+      "track_number": 1,
+      "title": "Shoot or Die",
+      "runtime": 242,
+      "source_mp3": "https://vgmsite.com/soundtracks/turrican-turbografx-16/mopcxdqgtf/01%20Shoot%20or%20Die.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/turrican-turbografx-16/mopcxdqgtf/01%20Shoot%20or%20Die.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/turrican-turbografx-16/01%2520Shoot%2520or%2520Die.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 16305356,
+      "filesize_mp3_bytes": 6060769,
+      "track_number": 2,
+      "title": "Mountain Madness",
+      "runtime": 286,
+      "source_mp3": "https://vgmsite.com/soundtracks/turrican-turbografx-16/ndnqljsyvg/02%20Mountain%20Madness.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/turrican-turbografx-16/ndnqljsyvg/02%20Mountain%20Madness.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/turrican-turbografx-16/02%2520Mountain%2520Madness.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9374269,
+      "filesize_mp3_bytes": 3827302,
+      "track_number": 3,
+      "title": "Enemy Mine",
+      "runtime": 165,
+      "source_mp3": "https://vgmsite.com/soundtracks/turrican-turbografx-16/rtppxsacfb/03%20Enemy%20Mine.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/turrican-turbografx-16/rtppxsacfb/03%20Enemy%20Mine.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/turrican-turbografx-16/03%2520Enemy%2520Mine.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3753902,
+      "filesize_mp3_bytes": 1614807,
+      "track_number": 4,
+      "title": "Pathfinder",
+      "runtime": 68,
+      "source_mp3": "https://vgmsite.com/soundtracks/turrican-turbografx-16/htdtazfbvw/04%20Pathfinder.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/turrican-turbografx-16/htdtazfbvw/04%20Pathfinder.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/turrican-turbografx-16/04%2520Pathfinder.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 167772,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 5,
+      "title": "Level Complete",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/turrican-turbografx-16/kdusqjawwa/05%20Level%20Complete.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/turrican-turbografx-16/kdusqjawwa/05%20Level%20Complete.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/turrican-turbografx-16/05%2520Level%2520Complete.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 765,
+    "filesize_mp3_bytes": 16420699,
+    "filesize_flac_bytes": 43767560,
+    "tracks": 5
+  }
+}

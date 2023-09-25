@@ -1,0 +1,74 @@
+{
+  "title": "Thunder Force",
+  "titles_alternative": [
+    "\u30b5\u30f3\u30c0\u30fc\u30d5\u30a9\u30fc\u30b9"
+  ],
+  "crawled_at": "2023-09-25T08:33:42.954135+00:00",
+  "slug": "thunder-force-i",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/thunder-force-i",
+  "platforms": {
+    "PC-88": "https://downloads.khinsider.com/game-soundtracks/pc-8801"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/thunder-force-i/coverart.jpg"
+  ],
+  "year": 1985,
+  "date_added": "2021-03-11T00:00:00+00:00",
+  "developers": {
+    "Tecnosoft": "https://downloads.khinsider.com/game-soundtracks/developer/tecnosoft"
+  },
+  "publishers": {
+    "Tecnosoft": "https://downloads.khinsider.com/game-soundtracks/publisher/tecnosoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2956984,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 53,
+      "source_mp3": "https://vgmsite.com/soundtracks/thunder-force-i/ukzvywneyz/01%20-%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thunder-force-i/01%2520-%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1541406,
+      "track_number": 2,
+      "title": "Stage Clear!",
+      "runtime": 13,
+      "source_mp3": "https://vgmsite.com/soundtracks/thunder-force-i/fiejtnfied/02%20-%20Stage%20Clear%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thunder-force-i/02%2520-%2520Stage%2520Clear%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2139095,
+      "track_number": 3,
+      "title": "Boss Theme",
+      "runtime": 32,
+      "source_mp3": "https://vgmsite.com/soundtracks/thunder-force-i/vqygrplmie/03%20-%20Boss%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thunder-force-i/03%2520-%2520Boss%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1572864,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 12,
+      "source_mp3": "https://vgmsite.com/soundtracks/thunder-force-i/dmybujejrz/04%20-%20Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thunder-force-i/04%2520-%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 110,
+    "filesize_mp3_bytes": 8210349,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

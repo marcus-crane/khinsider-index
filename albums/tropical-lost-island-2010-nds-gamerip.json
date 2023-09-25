@@ -1,0 +1,42 @@
+{
+  "title": "Tropical Lost Island",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T10:58:31.538611+00:00",
+  "slug": "tropical-lost-island-2010-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tropical-lost-island-2010-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tropical-lost-island-2010-nds-gamerip/Tropical%20Lost%20Island.jpg"
+  ],
+  "year": 2010,
+  "date_added": "2020-06-24T00:00:00+00:00",
+  "developers": {
+    "Media Sales & Licensing": "https://downloads.khinsider.com/game-soundtracks/developer/media-sales-licensing"
+  },
+  "publishers": {
+    "Media Sales & Licensing": "https://downloads.khinsider.com/game-soundtracks/publisher/media-sales-licensing"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7717519,
+      "filesize_mp3_bytes": 2862612,
+      "title": "Tune1a",
+      "runtime": 88,
+      "source_mp3": "https://vgmsite.com/soundtracks/tropical-lost-island-2010-nds-gamerip/culezbcwcu/Tune1a.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tropical-lost-island-2010-nds-gamerip/culezbcwcu/Tune1a.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tropical-lost-island-2010-nds-gamerip/Tune1a.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 88,
+    "filesize_mp3_bytes": 2862612,
+    "filesize_flac_bytes": 7717519,
+    "tracks": 1
+  }
+}

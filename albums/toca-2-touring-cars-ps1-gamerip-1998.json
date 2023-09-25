@@ -1,0 +1,55 @@
+{
+  "title": "TOCA 2 Touring Cars",
+  "titles_alternative": [
+    "TOCA 2: Touring Car Challenge"
+  ],
+  "crawled_at": "2023-09-25T08:59:25.462527+00:00",
+  "slug": "toca-2-touring-cars-ps1-gamerip-1998",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/toca-2-touring-cars-ps1-gamerip-1998",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/toca-2-touring-cars-ps1-gamerip-1998/image_2023-04-01_170952131.png"
+  ],
+  "year": 1998,
+  "date_added": "2023-04-05T00:00:00+00:00",
+  "developers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/developer/codemasters"
+  },
+  "publishers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/publisher/codemasters",
+    "Fireshine Games": "https://downloads.khinsider.com/game-soundtracks/publisher/fireshine-games"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 828375,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 51,
+      "source_mp3": "https://vgmsite.com/soundtracks/toca-2-touring-cars-ps1-gamerip-1998/rudyrlslkk/01.%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/toca-2-touring-cars-ps1-gamerip-1998/01.%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3753902,
+      "track_number": 2,
+      "title": "Menu Theme",
+      "runtime": 234,
+      "source_mp3": "https://vgmsite.com/soundtracks/toca-2-touring-cars-ps1-gamerip-1998/qboffpsyur/02.%20Menu%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/toca-2-touring-cars-ps1-gamerip-1998/02.%2520Menu%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 285,
+    "filesize_mp3_bytes": 4582277,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

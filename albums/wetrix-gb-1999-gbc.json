@@ -1,0 +1,101 @@
+{
+  "title": "Wetrix GB (GBC)",
+  "titles_alternative": [
+    "\u30a6\u30a8\u30c3\u30c8\u30ea\u30b9GB"
+  ],
+  "crawled_at": "2023-09-25T12:29:58.267512+00:00",
+  "slug": "wetrix-gb-1999-gbc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/wetrix-gb-1999-gbc",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/wetrix-gb-1999-gbc/Wetrix%20GB%20%281999%29%20%28GBC%29.png"
+  ],
+  "year": 1999,
+  "date_added": "2022-06-27T00:00:00+00:00",
+  "developers": {
+    "Zed Two": "https://downloads.khinsider.com/game-soundtracks/developer/zed-two"
+  },
+  "publishers": {
+    "Imagineer": "https://downloads.khinsider.com/game-soundtracks/publisher/imagineer",
+    "Infogrames": "https://downloads.khinsider.com/game-soundtracks/publisher/infogrames"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 21422407,
+      "filesize_mp3_bytes": 5788139,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/wetrix-gb-1999-gbc/hjssfrcfxe/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/wetrix-gb-1999-gbc/hjssfrcfxe/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wetrix-gb-1999-gbc/01%2520BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 21464350,
+      "filesize_mp3_bytes": 6574571,
+      "track_number": 2,
+      "title": "BGM #02",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/wetrix-gb-1999-gbc/btfiiidwvk/02%20BGM%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/wetrix-gb-1999-gbc/btfiiidwvk/02%20BGM%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wetrix-gb-1999-gbc/02%2520BGM%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 17343447,
+      "filesize_mp3_bytes": 5641338,
+      "track_number": 3,
+      "title": "BGM #03",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/wetrix-gb-1999-gbc/lzdrllvblr/03%20BGM%20%2303.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/wetrix-gb-1999-gbc/lzdrllvblr/03%20BGM%20%2303.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wetrix-gb-1999-gbc/03%2520BGM%2520%252303.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 18633195,
+      "filesize_mp3_bytes": 5620367,
+      "track_number": 4,
+      "title": "BGM #04",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/wetrix-gb-1999-gbc/jnkijlfxhw/04%20BGM%20%2304.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/wetrix-gb-1999-gbc/jnkijlfxhw/04%20BGM%20%2304.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wetrix-gb-1999-gbc/04%2520BGM%2520%252304.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20719861,
+      "filesize_mp3_bytes": 6427770,
+      "track_number": 5,
+      "title": "BGM #05",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/wetrix-gb-1999-gbc/ufxxbhlffc/05%20BGM%20%2305.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/wetrix-gb-1999-gbc/ufxxbhlffc/05%20BGM%20%2305.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wetrix-gb-1999-gbc/05%2520BGM%2520%252305.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20971520,
+      "filesize_mp3_bytes": 6060769,
+      "track_number": 6,
+      "title": "BGM #06",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/wetrix-gb-1999-gbc/snnztnfyeq/06%20BGM%20%2306.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/wetrix-gb-1999-gbc/snnztnfyeq/06%20BGM%20%2306.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wetrix-gb-1999-gbc/06%2520BGM%2520%252306.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1080,
+    "filesize_mp3_bytes": 36112954,
+    "filesize_flac_bytes": 120554780,
+    "tracks": 6
+  }
+}

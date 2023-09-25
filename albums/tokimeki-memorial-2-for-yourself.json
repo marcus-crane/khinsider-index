@@ -1,0 +1,63 @@
+{
+  "title": "Tokimeki Memorial 2 For Yourself",
+  "titles_alternative": [
+    "For Yourself / Junko Noda"
+  ],
+  "crawled_at": "2023-09-25T09:07:15.131591+00:00",
+  "slug": "tokimeki-memorial-2-for-yourself",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tokimeki-memorial-2-for-yourself",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tokimeki-memorial-2-for-yourself/KMCM-11.jpg"
+  ],
+  "year": 2001,
+  "catalog_number": "KMCM-11",
+  "date_added": "2022-07-03T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4477419,
+      "track_number": 1,
+      "title": "For Yourself",
+      "runtime": 280,
+      "source_mp3": "https://vgmsite.com/soundtracks/tokimeki-memorial-2-for-yourself/qcaimykiem/01-For%20Yourself.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tokimeki-memorial-2-for-yourself/01-For%2520Yourself.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5075107,
+      "track_number": 2,
+      "title": "Chisana Kokoro",
+      "runtime": 317,
+      "source_mp3": "https://vgmsite.com/soundtracks/tokimeki-memorial-2-for-yourself/airlvtfntz/02-Chisana%20Kokoro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tokimeki-memorial-2-for-yourself/02-Chisana%2520Kokoro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4697620,
+      "track_number": 3,
+      "title": "I Believe",
+      "runtime": 294,
+      "source_mp3": "https://vgmsite.com/soundtracks/tokimeki-memorial-2-for-yourself/puclyvubss/03-I%20Believe.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tokimeki-memorial-2-for-yourself/03-I%2520Believe.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 891,
+    "filesize_mp3_bytes": 14250146,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

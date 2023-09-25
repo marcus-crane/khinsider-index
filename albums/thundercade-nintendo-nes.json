@@ -1,0 +1,90 @@
+{
+  "title": "Thundercade",
+  "titles_alternative": [
+    "Twin Formation",
+    "\u7279\u6b8a\u90e8\u968aUAG"
+  ],
+  "crawled_at": "2023-09-25T08:36:12.111705+00:00",
+  "slug": "thundercade-nintendo-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/thundercade-nintendo-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/thundercade-nintendo-nes/T1.png"
+  ],
+  "year": 1989,
+  "date_added": "2017-10-06T00:00:00+00:00",
+  "developers": {
+    "Micronics": "https://downloads.khinsider.com/game-soundtracks/developer/micronics",
+    "Seta": "https://downloads.khinsider.com/game-soundtracks/developer/seta"
+  },
+  "publishers": {
+    "American Sammy": "https://downloads.khinsider.com/game-soundtracks/publisher/american-sammy"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 209715,
+      "title": "Track 1",
+      "runtime": 16,
+      "source_mp3": "https://vgmsite.com/soundtracks/thundercade-nintendo-nes/qhsbbdgg/Track%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thundercade-nintendo-nes/Track%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2380267,
+      "title": "Track 2",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/thundercade-nintendo-nes/eedugnnh/Track%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thundercade-nintendo-nes/Track%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2390753,
+      "title": "Track 3",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/thundercade-nintendo-nes/nwwebmqu/Track%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thundercade-nintendo-nes/Track%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2160066,
+      "title": "Track 4",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/thundercade-nintendo-nes/nuftmrsd/Track%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thundercade-nintendo-nes/Track%25204.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2453667,
+      "title": "Track 5",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/thundercade-nintendo-nes/bpllqjsn/Track%205.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thundercade-nintendo-nes/Track%25205.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2191523,
+      "title": "Track 6",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/thundercade-nintendo-nes/gvpskxnx/Track%206.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thundercade-nintendo-nes/Track%25206.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 916,
+    "filesize_mp3_bytes": 11785991,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

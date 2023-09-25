@@ -1,0 +1,54 @@
+{
+  "title": "The Ninja Warriors",
+  "titles_alternative": [
+    "\u30cb\u30f3\u30b8\u30e3\u30a6\u30a9\u30fc\u30ea\u30a2\u30fc\u30ba"
+  ],
+  "crawled_at": "2023-09-25T07:12:24.739276+00:00",
+  "slug": "the-ninja-warriors-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/the-ninja-warriors-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/the-ninja-warriors-amiga/ninja_warriors_01.png"
+  ],
+  "year": 1989,
+  "date_added": "2015-02-21T00:00:00+00:00",
+  "developers": {
+    "Taito / Random Access": "https://downloads.khinsider.com/game-soundtracks/developer/taito-random-access"
+  },
+  "publishers": {
+    "Virgin Mastertronic": "https://downloads.khinsider.com/game-soundtracks/publisher/virgin-mastertronic"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 13778288,
+      "track_number": 1,
+      "title": "Daddy Mulk",
+      "runtime": 511,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-ninja-warriors-amiga/cwtciijg/01-Daddy%20Mulk.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-ninja-warriors-amiga/01-Daddy%2520Mulk.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5976883,
+      "track_number": 2,
+      "title": "Are You Lady",
+      "runtime": 225,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-ninja-warriors-amiga/rzjafuql/02-Are%20You%20Lady.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-ninja-warriors-amiga/02-Are%2520You%2520Lady.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 736,
+    "filesize_mp3_bytes": 19755171,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "title": "To-Fu Collection",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T08:54:56.786648+00:00",
+  "slug": "to-fu-collection-2012-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/to-fu-collection-2012-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/to-fu-collection-2012-nds-gamerip/TF.png"
+  ],
+  "year": 2012,
+  "date_added": "2020-06-24T00:00:00+00:00",
+  "developers": {
+    "HotGen": "https://downloads.khinsider.com/game-soundtracks/developer/hotgen"
+  },
+  "publishers": {
+    "Rising Star": "https://downloads.khinsider.com/game-soundtracks/publisher/rising-star"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 12079595,
+      "filesize_mp3_bytes": 4802478,
+      "track_number": 1,
+      "title": "In Game1",
+      "runtime": 137,
+      "source_mp3": "https://vgmsite.com/soundtracks/to-fu-collection-2012-nds-gamerip/ubwkcjspez/01%20-%20In%20Game1.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/to-fu-collection-2012-nds-gamerip/ubwkcjspez/01%20-%20In%20Game1.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/to-fu-collection-2012-nds-gamerip/01%2520-%2520In%2520Game1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6668943,
+      "filesize_mp3_bytes": 3135242,
+      "track_number": 2,
+      "title": "In Game2",
+      "runtime": 95,
+      "source_mp3": "https://vgmsite.com/soundtracks/to-fu-collection-2012-nds-gamerip/obswuewklc/02%20-%20In%20Game2.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/to-fu-collection-2012-nds-gamerip/obswuewklc/02%20-%20In%20Game2.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/to-fu-collection-2012-nds-gamerip/02%2520-%2520In%2520Game2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 18308136,
+      "filesize_mp3_bytes": 5955911,
+      "track_number": 3,
+      "title": "Title",
+      "runtime": 168,
+      "source_mp3": "https://vgmsite.com/soundtracks/to-fu-collection-2012-nds-gamerip/hgcahfsqhk/03%20-%20Title.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/to-fu-collection-2012-nds-gamerip/hgcahfsqhk/03%20-%20Title.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/to-fu-collection-2012-nds-gamerip/03%2520-%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 13390315,
+      "filesize_mp3_bytes": 4613734,
+      "track_number": 4,
+      "title": "Dojo",
+      "runtime": 147,
+      "source_mp3": "https://vgmsite.com/soundtracks/to-fu-collection-2012-nds-gamerip/vauywvzmyo/04%20-%20Dojo.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/to-fu-collection-2012-nds-gamerip/vauywvzmyo/04%20-%20Dojo.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/to-fu-collection-2012-nds-gamerip/04%2520-%2520Dojo.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 547,
+    "filesize_mp3_bytes": 18507365,
+    "filesize_flac_bytes": 50446989,
+    "tracks": 4
+  }
+}

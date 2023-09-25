@@ -1,0 +1,54 @@
+{
+  "title": "Trosh",
+  "titles_alternative": [
+    "Trosh: The Movie: The Game"
+  ],
+  "crawled_at": "2023-09-25T10:59:33.889506+00:00",
+  "slug": "trosh-linux-macos-windows-gamerip-2016",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/trosh-linux-macos-windows-gamerip-2016",
+  "platforms": {
+    "Linux": "https://downloads.khinsider.com/game-soundtracks/linux",
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/trosh-linux-macos-windows-gamerip-2016/Trosh.png"
+  ],
+  "year": 2016,
+  "date_added": "2023-05-21T00:00:00+00:00",
+  "developers": {
+    "Stabyourself.net": "https://downloads.khinsider.com/game-soundtracks/developer/stabyourself.net"
+  },
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 975175,
+      "track_number": 1,
+      "title": "Credits",
+      "runtime": 29,
+      "source_mp3": "https://vgmsite.com/soundtracks/trosh-linux-macos-windows-gamerip-2016/pnqnspkvoy/01.%20Credits.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/trosh-linux-macos-windows-gamerip-2016/01.%2520Credits.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5410652,
+      "track_number": 2,
+      "title": "Trosh",
+      "runtime": 179,
+      "source_mp3": "https://vgmsite.com/soundtracks/trosh-linux-macos-windows-gamerip-2016/aucubxjjtp/02.%20Trosh.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/trosh-linux-macos-windows-gamerip-2016/02.%2520Trosh.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 208,
+    "filesize_mp3_bytes": 6385827,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

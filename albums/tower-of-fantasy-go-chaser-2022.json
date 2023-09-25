@@ -1,0 +1,55 @@
+{
+  "title": "Tower of Fantasy - Go, Chaser",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T10:24:07.668444+00:00",
+  "slug": "tower-of-fantasy-go-chaser-2022",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tower-of-fantasy-go-chaser-2022",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "Online": "https://downloads.khinsider.com/game-soundtracks/online",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tower-of-fantasy-go-chaser-2022/109951168122263473.jpg"
+  ],
+  "year": 2022,
+  "catalog_number": null,
+  "date_added": "2022-12-21T00:00:00+00:00",
+  "developers": {
+    "Hotta Studio": "https://downloads.khinsider.com/game-soundtracks/developer/hotta-studio"
+  },
+  "publishers": {
+    "Hotta Studio": "https://downloads.khinsider.com/game-soundtracks/publisher/hotta-studio"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7402946,
+      "track_number": 1,
+      "title": "Go, Chaser",
+      "runtime": 258,
+      "source_mp3": "https://vgmsite.com/soundtracks/tower-of-fantasy-go-chaser-2022/kuyteagovd/01%20Go%2C%20Chaser.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tower-of-fantasy-go-chaser-2022/01%2520Go%252C%2520Chaser.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7539261,
+      "track_number": 2,
+      "title": "Go, Chaser (Instrumental)",
+      "runtime": 258,
+      "source_mp3": "https://vgmsite.com/soundtracks/tower-of-fantasy-go-chaser-2022/zegktuxleb/02%20Go%2C%20Chaser%20%28Instrumental%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tower-of-fantasy-go-chaser-2022/02%2520Go%252C%2520Chaser%2520%2528Instrumental%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 516,
+    "filesize_mp3_bytes": 14942207,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

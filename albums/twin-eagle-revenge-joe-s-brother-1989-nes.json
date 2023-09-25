@@ -1,0 +1,59 @@
+{
+  "title": "Twin Eagle - Revenge Joe's Brother",
+  "titles_alternative": [
+    "\u30c4\u30a4\u30f3\u30a4\u30fc\u30b0\u30eb"
+  ],
+  "crawled_at": "2023-09-25T11:18:08.702070+00:00",
+  "slug": "twin-eagle-revenge-joe-s-brother-1989-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/twin-eagle-revenge-joe-s-brother-1989-nes",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/twin-eagle-revenge-joe-s-brother-1989-nes/T1.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2022-06-25T00:00:00+00:00",
+  "developers": {
+    "Seta": "https://downloads.khinsider.com/game-soundtracks/developer/seta",
+    "Visco": "https://downloads.khinsider.com/game-soundtracks/developer/visco"
+  },
+  "publishers": {
+    "Romstar": "https://downloads.khinsider.com/game-soundtracks/publisher/romstar",
+    "Visco": "https://downloads.khinsider.com/game-soundtracks/publisher/visco"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9563013,
+      "filesize_mp3_bytes": 3365928,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/twin-eagle-revenge-joe-s-brother-1989-nes/vvwsyfqxik/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/twin-eagle-revenge-joe-s-brother-1989-nes/vvwsyfqxik/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/twin-eagle-revenge-joe-s-brother-1989-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8587837,
+      "filesize_mp3_bytes": 3386900,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/twin-eagle-revenge-joe-s-brother-1989-nes/gbgvfgtogp/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/twin-eagle-revenge-joe-s-brother-1989-nes/gbgvfgtogp/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/twin-eagle-revenge-joe-s-brother-1989-nes/02.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 360,
+    "filesize_mp3_bytes": 6752828,
+    "filesize_flac_bytes": 18150850,
+    "tracks": 2
+  }
+}

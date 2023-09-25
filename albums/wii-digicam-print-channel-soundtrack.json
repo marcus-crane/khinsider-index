@@ -1,0 +1,74 @@
+{
+  "title": "Wii Digicam Print Channel",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T12:39:17.742176+00:00",
+  "slug": "wii-digicam-print-channel-soundtrack",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/wii-digicam-print-channel-soundtrack",
+  "platforms": {
+    "Wii": "https://downloads.khinsider.com/game-soundtracks/nintendo-wii"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/wii-digicam-print-channel-soundtrack/Digicam%20Print%20Channel%20Soundtrack.png"
+  ],
+  "year": 2008,
+  "date_added": "2020-07-12T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 723517,
+      "filesize_mp3_bytes": 314572,
+      "track_number": 1,
+      "title": "Digicam Print Channel Banner",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/wii-digicam-print-channel-soundtrack/rrqflfjwef/01%20Digicam%20Print%20Channel%20Banner.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/wii-digicam-print-channel-soundtrack/rrqflfjwef/01%20Digicam%20Print%20Channel%20Banner.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wii-digicam-print-channel-soundtrack/01%2520Digicam%2520Print%2520Channel%2520Banner.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 24987566,
+      "filesize_mp3_bytes": 8189378,
+      "track_number": 2,
+      "title": "Digicam Print Channel",
+      "runtime": 274,
+      "source_mp3": "https://vgmsite.com/soundtracks/wii-digicam-print-channel-soundtrack/dxzditazsz/02%20Digicam%20Print%20Channel.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/wii-digicam-print-channel-soundtrack/dxzditazsz/02%20Digicam%20Print%20Channel.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wii-digicam-print-channel-soundtrack/02%2520Digicam%2520Print%2520Channel.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 17175674,
+      "filesize_mp3_bytes": 6417285,
+      "track_number": 3,
+      "title": "Transmitting Information",
+      "runtime": 207,
+      "source_mp3": "https://vgmsite.com/soundtracks/wii-digicam-print-channel-soundtrack/jcsfdghvzf/03%20Transmitting%20Information.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/wii-digicam-print-channel-soundtrack/jcsfdghvzf/03%20Transmitting%20Information.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wii-digicam-print-channel-soundtrack/03%2520Transmitting%2520Information.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 26287800,
+      "filesize_mp3_bytes": 7811891,
+      "track_number": 4,
+      "title": "Digicam Print Channel (All Channels)",
+      "runtime": 274,
+      "source_mp3": "https://vgmsite.com/soundtracks/wii-digicam-print-channel-soundtrack/wlmyczxphe/04%20Digicam%20Print%20Channel%20%28All%20Channels%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/wii-digicam-print-channel-soundtrack/wlmyczxphe/04%20Digicam%20Print%20Channel%20%28All%20Channels%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wii-digicam-print-channel-soundtrack/04%2520Digicam%2520Print%2520Channel%2520%2528All%2520Channels%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 766,
+    "filesize_mp3_bytes": 22733126,
+    "filesize_flac_bytes": 69174557,
+    "tracks": 4
+  }
+}

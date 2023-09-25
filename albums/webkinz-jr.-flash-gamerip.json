@@ -1,0 +1,55 @@
+{
+  "title": "Webkinz Jr.",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T12:26:35.999328+00:00",
+  "slug": "webkinz-jr.-flash-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/webkinz-jr.-flash-gamerip",
+  "platforms": {
+    "Online": "https://downloads.khinsider.com/game-soundtracks/online"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/webkinz-jr.-flash-gamerip/coverart.jpg"
+  ],
+  "year": 2009,
+  "date_added": "2022-04-12T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1897922,
+      "title": "Bebop ABC's",
+      "runtime": 91,
+      "source_mp3": "https://vgmsite.com/soundtracks/webkinz-jr.-flash-gamerip/gjtfepzoyk/Bebop%20ABC%27s.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/webkinz-jr.-flash-gamerip/Bebop%2520ABC%2527s.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1688207,
+      "title": "Count On Me",
+      "runtime": 78,
+      "source_mp3": "https://vgmsite.com/soundtracks/webkinz-jr.-flash-gamerip/rwvwrzlvni/Count%20On%20Me.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/webkinz-jr.-flash-gamerip/Count%2520On%2520Me.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1121976,
+      "title": "Trailer 2009",
+      "runtime": 43,
+      "source_mp3": "https://vgmsite.com/soundtracks/webkinz-jr.-flash-gamerip/vbiylnrtwh/Trailer%202009.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/webkinz-jr.-flash-gamerip/Trailer%25202009.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 212,
+    "filesize_mp3_bytes": 4708105,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

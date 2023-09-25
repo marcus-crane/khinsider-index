@@ -1,0 +1,79 @@
+{
+  "title": "Warpman",
+  "titles_alternative": [
+    "\u30ef\u30fc\u30d7\u30de\u30f3"
+  ],
+  "crawled_at": "2023-09-25T12:13:58.539571+00:00",
+  "slug": "warpman-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/warpman-nes",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/warpman-nes/W1.jpg"
+  ],
+  "year": 1985,
+  "date_added": "2022-06-13T00:00:00+00:00",
+  "developers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/developer/namco"
+  },
+  "publishers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/publisher/namco"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 262144,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 1,
+      "title": "Game Start",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/warpman-nes/outfjnzacd/01%20Game%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/warpman-nes/outfjnzacd/01%20Game%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/warpman-nes/01%2520Game%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 251658,
+      "filesize_mp3_bytes": 209715,
+      "track_number": 2,
+      "title": "Main BGM",
+      "runtime": 13,
+      "source_mp3": "https://vgmsite.com/soundtracks/warpman-nes/jrzxuqxhhm/02%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/warpman-nes/jrzxuqxhhm/02%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/warpman-nes/02%2520Main%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 157286,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 3,
+      "title": "Round Clear",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/warpman-nes/qqitjaezfv/03%20Round%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/warpman-nes/qqitjaezfv/03%20Round%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/warpman-nes/03%2520Round%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 178257,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/warpman-nes/jeebzhtxlf/04%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/warpman-nes/jeebzhtxlf/04%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/warpman-nes/04%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 26,
+    "filesize_mp3_bytes": 440400,
+    "filesize_flac_bytes": 849345,
+    "tracks": 4
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "title": "Waterworld (Unreleased)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T12:19:01.131088+00:00",
+  "slug": "waterworld-unreleased-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/waterworld-unreleased-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/waterworld-unreleased-genesis/Waterworld.png"
+  ],
+  "year": 1995,
+  "date_added": "2018-10-06T00:00:00+00:00",
+  "developers": {
+    "Data Design": "https://downloads.khinsider.com/game-soundtracks/developer/data-design",
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/developer/ocean"
+  },
+  "publishers": {
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/publisher/ocean"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 13893632,
+      "track_number": 1,
+      "title": "Titles",
+      "runtime": 402,
+      "source_mp3": "https://vgmsite.com/soundtracks/waterworld-unreleased-genesis/brxutcfi/01_Titles.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/waterworld-unreleased-genesis/01_Titles.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4561305,
+      "track_number": 2,
+      "title": "Game Lost",
+      "runtime": 128,
+      "source_mp3": "https://vgmsite.com/soundtracks/waterworld-unreleased-genesis/xybnwevn/02_Game%20Lost.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/waterworld-unreleased-genesis/02_Game%2520Lost.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4183818,
+      "track_number": 3,
+      "title": "Game Won",
+      "runtime": 128,
+      "source_mp3": "https://vgmsite.com/soundtracks/waterworld-unreleased-genesis/dbmvujak/03_Game%20Won.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/waterworld-unreleased-genesis/03_Game%2520Won.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8954839,
+      "track_number": 4,
+      "title": "In Atoll",
+      "runtime": 266,
+      "source_mp3": "https://vgmsite.com/soundtracks/waterworld-unreleased-genesis/fqowdelw/04_In%20Atoll.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/waterworld-unreleased-genesis/04_In%2520Atoll.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10957619,
+      "track_number": 5,
+      "title": "On Trimaran",
+      "runtime": 328,
+      "source_mp3": "https://vgmsite.com/soundtracks/waterworld-unreleased-genesis/aebzobdg/05_On%20Trimaran.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/waterworld-unreleased-genesis/05_On%2520Trimaran.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 17605591,
+      "track_number": 6,
+      "title": "Underwater",
+      "runtime": 477,
+      "source_mp3": "https://vgmsite.com/soundtracks/waterworld-unreleased-genesis/ljtpvgrc/06_Underwater.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/waterworld-unreleased-genesis/06_Underwater.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5945425,
+      "track_number": 7,
+      "title": "Map",
+      "runtime": 165,
+      "source_mp3": "https://vgmsite.com/soundtracks/waterworld-unreleased-genesis/rcwqpeqk/07_Map.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/waterworld-unreleased-genesis/07_Map.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3900702,
+      "track_number": 8,
+      "title": "Shop 1",
+      "runtime": 112,
+      "source_mp3": "https://vgmsite.com/soundtracks/waterworld-unreleased-genesis/huhprlyf/08_Shop%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/waterworld-unreleased-genesis/08_Shop%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6836715,
+      "track_number": 9,
+      "title": "Shop 2",
+      "runtime": 189,
+      "source_mp3": "https://vgmsite.com/soundtracks/waterworld-unreleased-genesis/zxxmpoyr/09_Shop%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/waterworld-unreleased-genesis/09_Shop%25202.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2195,
+    "filesize_mp3_bytes": 76839646,
+    "filesize_flac_bytes": 0,
+    "tracks": 9
+  }
+}

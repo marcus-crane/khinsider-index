@@ -1,0 +1,82 @@
+{
+  "title": "Toree Genesis OST",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T09:57:59.177465+00:00",
+  "slug": "toree-genesis-ost-2022",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/toree-genesis-ost-2022",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/toree-genesis-ost-2022/cover.png"
+  ],
+  "year": 2022,
+  "date_added": "2023-07-13T00:00:00+00:00",
+  "developers": {
+    "Siactro": "https://downloads.khinsider.com/game-soundtracks/developer/siactro"
+  },
+  "publishers": {
+    "Siactro": "https://downloads.khinsider.com/game-soundtracks/publisher/siactro"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 828375,
+      "track_number": 1,
+      "title": "Genesis (Title Screen)",
+      "runtime": 24,
+      "source_mp3": "https://vgmsite.com/soundtracks/toree-genesis-ost-2022/etiosiyeeo/01.%20Genesis%20%28Title%20Screen%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/toree-genesis-ost-2022/01.%2520Genesis%2520%2528Title%2520Screen%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3523215,
+      "track_number": 2,
+      "title": "Tropical Processing (Jungle Hill)",
+      "runtime": 130,
+      "source_mp3": "https://vgmsite.com/soundtracks/toree-genesis-ost-2022/ckgkgpgiph/02.%20Tropical%20Processing%20%28Jungle%20Hill%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/toree-genesis-ost-2022/02.%2520Tropical%2520Processing%2520%2528Jungle%2520Hill%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3816816,
+      "track_number": 3,
+      "title": "Can't Take It Anymore (Chemical City)",
+      "runtime": 136,
+      "source_mp3": "https://vgmsite.com/soundtracks/toree-genesis-ost-2022/aqbbadduqg/03.%20Can%27t%20Take%20It%20Anymore%20%28Chemical%20City%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/toree-genesis-ost-2022/03.%2520Can%2527t%2520Take%2520It%2520Anymore%2520%2528Chemical%2520City%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5840568,
+      "track_number": 4,
+      "title": "Yellow Feather (Cloud Fortress)",
+      "runtime": 190,
+      "source_mp3": "https://vgmsite.com/soundtracks/toree-genesis-ost-2022/gyapumflma/04.%20Yellow%20Feather%20%28Cloud%20Fortress%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/toree-genesis-ost-2022/04.%2520Yellow%2520Feather%2520%2528Cloud%2520Fortress%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 346030,
+      "track_number": 5,
+      "title": "Victory!",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/toree-genesis-ost-2022/esbitbrbzx/05.%20Victory%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/toree-genesis-ost-2022/05.%2520Victory%2521.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 486,
+    "filesize_mp3_bytes": 14355004,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

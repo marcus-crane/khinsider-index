@@ -1,0 +1,79 @@
+{
+  "title": "Tip Off",
+  "titles_alternative": [
+    "GB Basketball",
+    "GB\u30d0\u30b9\u30b1\u30c3\u30c8\u30dc\u30fc\u30eb"
+  ],
+  "crawled_at": "2023-09-25T08:52:09.561979+00:00",
+  "slug": "tip-off-1993-gb",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tip-off-1993-gb",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tip-off-1993-gb/11258348-tip-off-game-boy-front-cover.png"
+  ],
+  "year": 1993,
+  "date_added": "2022-06-20T00:00:00+00:00",
+  "developers": {
+    "Enigma Variations": "https://downloads.khinsider.com/game-soundtracks/developer/enigma-variations"
+  },
+  "publishers": {
+    "Imagineer": "https://downloads.khinsider.com/game-soundtracks/publisher/imagineer"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10978590,
+      "filesize_mp3_bytes": 3806330,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/tip-off-1993-gb/kgmssmsmef/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tip-off-1993-gb/kgmssmsmef/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tip-off-1993-gb/01%2520BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11219763,
+      "filesize_mp3_bytes": 3795845,
+      "track_number": 2,
+      "title": "BGM #02",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/tip-off-1993-gb/cbsglxdhil/02%20BGM%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tip-off-1993-gb/cbsglxdhil/02%20BGM%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tip-off-1993-gb/02%2520BGM%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 73400,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 3,
+      "title": "Jingle #01",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/tip-off-1993-gb/bxjwfuddpk/03%20Jingle%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tip-off-1993-gb/bxjwfuddpk/03%20Jingle%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tip-off-1993-gb/03%2520Jingle%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 73400,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 4,
+      "title": "Jingle #02",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/tip-off-1993-gb/isldmhdkew/04%20Jingle%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tip-off-1993-gb/isldmhdkew/04%20Jingle%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tip-off-1993-gb/04%2520Jingle%2520%252302.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 364,
+    "filesize_mp3_bytes": 7665089,
+    "filesize_flac_bytes": 22345153,
+    "tracks": 4
+  }
+}

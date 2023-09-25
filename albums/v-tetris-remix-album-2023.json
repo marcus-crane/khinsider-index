@@ -1,0 +1,67 @@
+{
+  "title": "V-Tetris Remix Album",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T11:34:05.448369+00:00",
+  "slug": "v-tetris-remix-album-2023",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/v-tetris-remix-album-2023",
+  "platforms": {
+    "Virtual Boy": "https://downloads.khinsider.com/game-soundtracks/virtual-boy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/v-tetris-remix-album-2023/V-Tetris-Box-Scan-Front-Japan-scaled.jpg"
+  ],
+  "year": 2023,
+  "date_added": "2023-09-24T00:00:00+00:00",
+  "developers": {
+    "Cine Arko": "https://downloads.khinsider.com/game-soundtracks/developer/cine-arko",
+    "RaldyV": "https://downloads.khinsider.com/game-soundtracks/developer/raldyv",
+    "SonicFan214": "https://downloads.khinsider.com/game-soundtracks/developer/sonicfan214"
+  },
+  "publishers": {
+    "eeveelover64": "https://downloads.khinsider.com/game-soundtracks/publisher/eeveelover64"
+  },
+  "genres": {
+    "Remix": "https://downloads.khinsider.com/game-soundtracks/remixes"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 35095838,
+      "filesize_mp3_bytes": 5525995,
+      "track_number": 1,
+      "title": "Song A (Cine Arko Remix)",
+      "runtime": 156,
+      "source_mp3": "https://vgmsite.com/soundtracks/v-tetris-remix-album-2023/ljiovxgwgx/01.%20Song%20A%20%28Cine%20Arko%20Remix%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/v-tetris-remix-album-2023/ljiovxgwgx/01.%20Song%20A%20%28Cine%20Arko%20Remix%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/v-tetris-remix-album-2023/01.%2520Song%2520A%2520%2528Cine%2520Arko%2520Remix%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 33554432,
+      "filesize_mp3_bytes": 4561305,
+      "track_number": 2,
+      "title": "Song B (RaldyV Remix)",
+      "runtime": 155,
+      "source_mp3": "https://vgmsite.com/soundtracks/v-tetris-remix-album-2023/xpyqheejce/02.%20Song%20B%20%28RaldyV%20Remix%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/v-tetris-remix-album-2023/xpyqheejce/02.%20Song%20B%20%28RaldyV%20Remix%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/v-tetris-remix-album-2023/02.%2520Song%2520B%2520%2528RaldyV%2520Remix%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 32736542,
+      "filesize_mp3_bytes": 5484052,
+      "track_number": 3,
+      "title": "Song C (SonicFan214's MIDI Remix)",
+      "runtime": 153,
+      "source_mp3": "https://vgmsite.com/soundtracks/v-tetris-remix-album-2023/wklrmxnfvb/03.%20Song%20C%20%28SonicFan214%27s%20MIDI%20Remix%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/v-tetris-remix-album-2023/wklrmxnfvb/03.%20Song%20C%20%28SonicFan214%27s%20MIDI%20Remix%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/v-tetris-remix-album-2023/03.%2520Song%2520C%2520%2528SonicFan214%2527s%2520MIDI%2520Remix%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 464,
+    "filesize_mp3_bytes": 15571352,
+    "filesize_flac_bytes": 101386812,
+    "tracks": 3
+  }
+}

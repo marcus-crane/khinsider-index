@@ -1,0 +1,71 @@
+{
+  "title": "Waves Soundtrack",
+  "titles_alternative": [
+    "Waves OST"
+  ],
+  "crawled_at": "2023-09-25T12:20:24.374384+00:00",
+  "slug": "waves-soundtrack-2012",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/waves-soundtrack-2012",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/waves-soundtrack-2012/WAVES%20OST.jpg"
+  ],
+  "year": 2012,
+  "catalog_number": null,
+  "date_added": "2022-09-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11282677,
+      "track_number": 1,
+      "title": "SquareWave",
+      "runtime": 281,
+      "source_mp3": "https://vgmsite.com/soundtracks/waves-soundtrack-2012/kjwodlcmdo/01.%20SquareWave.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/waves-soundtrack-2012/01.%2520SquareWave.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9489612,
+      "track_number": 2,
+      "title": "SineWave",
+      "runtime": 236,
+      "source_mp3": "https://vgmsite.com/soundtracks/waves-soundtrack-2012/wujgjkoltx/02.%20SineWave.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/waves-soundtrack-2012/02.%2520SineWave.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7717519,
+      "track_number": 3,
+      "title": "SawtoothWave",
+      "runtime": 192,
+      "source_mp3": "https://vgmsite.com/soundtracks/waves-soundtrack-2012/jfguoaaybh/03.%20SawtoothWave.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/waves-soundtrack-2012/03.%2520SawtoothWave.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9437184,
+      "track_number": 4,
+      "title": "PulseWave",
+      "runtime": 235,
+      "source_mp3": "https://vgmsite.com/soundtracks/waves-soundtrack-2012/avqjomxhec/04.%20PulseWave.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/waves-soundtrack-2012/04.%2520PulseWave.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 944,
+    "filesize_mp3_bytes": 37926992,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

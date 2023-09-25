@@ -1,0 +1,109 @@
+{
+  "title": "Treasure Master",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T10:46:39.915416+00:00",
+  "slug": "treasure-master-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/treasure-master-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/treasure-master-nes/Treasure%20Master.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2022-06-29T00:00:00+00:00",
+  "developers": {
+    "Software Creations": "https://downloads.khinsider.com/game-soundtracks/developer/software-creations"
+  },
+  "publishers": {
+    "ASC Games": "https://downloads.khinsider.com/game-soundtracks/publisher/asc-games"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10003415,
+      "filesize_mp3_bytes": 3628072,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 176,
+      "source_mp3": "https://vgmsite.com/soundtracks/treasure-master-nes/hvttmccmmh/01%20Title.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/treasure-master-nes/hvttmccmmh/01%20Title.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/treasure-master-nes/01%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11062476,
+      "filesize_mp3_bytes": 3995074,
+      "track_number": 2,
+      "title": "World 1",
+      "runtime": 192,
+      "source_mp3": "https://vgmsite.com/soundtracks/treasure-master-nes/xzbmxndziw/02%20World%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/treasure-master-nes/xzbmxndziw/02%20World%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/treasure-master-nes/02%2520World%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10349445,
+      "filesize_mp3_bytes": 3544186,
+      "track_number": 3,
+      "title": "World 2",
+      "runtime": 173,
+      "source_mp3": "https://vgmsite.com/soundtracks/treasure-master-nes/hyjxhnpvnp/03%20World%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/treasure-master-nes/hyjxhnpvnp/03%20World%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/treasure-master-nes/03%2520World%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11481907,
+      "filesize_mp3_bytes": 4466933,
+      "track_number": 4,
+      "title": "Worlds 3 & 5",
+      "runtime": 217,
+      "source_mp3": "https://vgmsite.com/soundtracks/treasure-master-nes/yzweryxolu/04%20Worlds%203%20%26%205.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/treasure-master-nes/yzweryxolu/04%20Worlds%203%20%26%205.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/treasure-master-nes/04%2520Worlds%25203%2520%2526%25205.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11240734,
+      "filesize_mp3_bytes": 4089446,
+      "track_number": 5,
+      "title": "World 4",
+      "runtime": 197,
+      "source_mp3": "https://vgmsite.com/soundtracks/treasure-master-nes/tkmikvrfnh/05%20World%204.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/treasure-master-nes/tkmikvrfnh/05%20World%204.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/treasure-master-nes/05%2520World%25204.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7769948,
+      "filesize_mp3_bytes": 2684354,
+      "track_number": 6,
+      "title": "World 6",
+      "runtime": 136,
+      "source_mp3": "https://vgmsite.com/soundtracks/treasure-master-nes/tcukonzsbf/06%20World%206.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/treasure-master-nes/tcukonzsbf/06%20World%206.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/treasure-master-nes/06%2520World%25206.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3890216,
+      "filesize_mp3_bytes": 1436549,
+      "track_number": 7,
+      "title": "World Complete",
+      "runtime": 70,
+      "source_mp3": "https://vgmsite.com/soundtracks/treasure-master-nes/andgljrccz/07%20World%20Complete.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/treasure-master-nes/andgljrccz/07%20World%20Complete.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/treasure-master-nes/07%2520World%2520Complete.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1161,
+    "filesize_mp3_bytes": 23844614,
+    "filesize_flac_bytes": 65798141,
+    "tracks": 7
+  }
+}

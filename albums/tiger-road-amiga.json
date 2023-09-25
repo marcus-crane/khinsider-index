@@ -1,0 +1,47 @@
+{
+  "title": "Tiger Road",
+  "titles_alternative": [
+    "Tora E No Michi",
+    "\u864e\u3078\u306e\u9053"
+  ],
+  "crawled_at": "2023-09-25T08:37:24.823005+00:00",
+  "slug": "tiger-road-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tiger-road-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tiger-road-amiga/TR1.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2017-05-20T00:00:00+00:00",
+  "developers": {
+    "Capcom": "https://downloads.khinsider.com/game-soundtracks/developer/capcom",
+    "Probe": "https://downloads.khinsider.com/game-soundtracks/developer/probe"
+  },
+  "publishers": {
+    "Capcom": "https://downloads.khinsider.com/game-soundtracks/publisher/capcom",
+    "U.S. Gold": "https://downloads.khinsider.com/game-soundtracks/publisher/u.s.-gold"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7245660,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 279,
+      "source_mp3": "https://vgmsite.com/soundtracks/tiger-road-amiga/tqcvuomq/01_Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tiger-road-amiga/01_Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 279,
+    "filesize_mp3_bytes": 7245660,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

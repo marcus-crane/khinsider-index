@@ -1,0 +1,69 @@
+{
+  "title": "Typhoon (ZX Spectrum 128)",
+  "titles_alternative": [
+    "Ajax",
+    "A-Jax"
+  ],
+  "crawled_at": "2023-09-25T11:30:08.247148+00:00",
+  "slug": "typhoon-zx-spectrum-128-gamerip-1988",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/typhoon-zx-spectrum-128-gamerip-1988",
+  "platforms": {
+    "Spectrum": "https://downloads.khinsider.com/game-soundtracks/spectrum"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/typhoon-zx-spectrum-128-gamerip-1988/Typhoon.png"
+  ],
+  "year": 1988,
+  "date_added": "2023-03-16T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami",
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/developer/ocean"
+  },
+  "publishers": {
+    "Imagine": "https://downloads.khinsider.com/game-soundtracks/publisher/imagine"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2726297,
+      "filesize_mp3_bytes": 1237319,
+      "track_number": 1,
+      "title": "A Jax (Title Demo)",
+      "runtime": 50,
+      "source_mp3": "https://vgmsite.com/soundtracks/typhoon-zx-spectrum-128-gamerip-1988/ztspapafio/01.%20A%20Jax%20%28Title%20Demo%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/typhoon-zx-spectrum-128-gamerip-1988/ztspapafio/01.%20A%20Jax%20%28Title%20Demo%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/typhoon-zx-spectrum-128-gamerip-1988/01.%2520A%2520Jax%2520%2528Title%2520Demo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 167772,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 2,
+      "title": "Pattern Clear",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/typhoon-zx-spectrum-128-gamerip-1988/ppzgdxpnzy/02.%20Pattern%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/typhoon-zx-spectrum-128-gamerip-1988/ppzgdxpnzy/02.%20Pattern%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/typhoon-zx-spectrum-128-gamerip-1988/02.%2520Pattern%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 188743,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 3,
+      "title": "Try Again (Game Over)",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/typhoon-zx-spectrum-128-gamerip-1988/kctkgudsog/03.%20Try%20Again%20%28Game%20Over%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/typhoon-zx-spectrum-128-gamerip-1988/kctkgudsog/03.%20Try%20Again%20%28Game%20Over%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/typhoon-zx-spectrum-128-gamerip-1988/03.%2520Try%2520Again%2520%2528Game%2520Over%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 56,
+    "filesize_mp3_bytes": 1394605,
+    "filesize_flac_bytes": 3082812,
+    "tracks": 3
+  }
+}

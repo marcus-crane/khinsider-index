@@ -1,0 +1,63 @@
+{
+  "title": "Tian Long Ba Bu",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T08:36:40.653138+00:00",
+  "slug": "tian-long-ba-bu-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tian-long-ba-bu-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tian-long-ba-bu-nes/Tian%20Long%20Ba%20Bu%20%28NES%29.jpg"
+  ],
+  "date_added": "2022-06-22T00:00:00+00:00",
+  "developers": {
+    "19xx": "https://downloads.khinsider.com/game-soundtracks/developer/19xx",
+    "Shenzhen Nanjing Technology": "https://downloads.khinsider.com/game-soundtracks/developer/shenzhen-nanjing-technology"
+  },
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11135877,
+      "filesize_mp3_bytes": 3512729,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/tian-long-ba-bu-nes/veyhveolnv/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tian-long-ba-bu-nes/veyhveolnv/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tian-long-ba-bu-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11869880,
+      "filesize_mp3_bytes": 3575644,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/tian-long-ba-bu-nes/yuisztiebz/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tian-long-ba-bu-nes/yuisztiebz/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tian-long-ba-bu-nes/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11754536,
+      "filesize_mp3_bytes": 3565158,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/tian-long-ba-bu-nes/upzkjnqrxd/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tian-long-ba-bu-nes/upzkjnqrxd/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tian-long-ba-bu-nes/03.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 540,
+    "filesize_mp3_bytes": 10653531,
+    "filesize_flac_bytes": 34760293,
+    "tracks": 3
+  }
+}

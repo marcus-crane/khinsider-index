@@ -1,0 +1,74 @@
+{
+  "title": "Weiss Kreuz No Reason",
+  "titles_alternative": [
+    "No Reason / Takehito Koyasu, Tomokazu Seki, Shinichiro Miki, Hiro Yuuki",
+    "No Reason / \u5b50\u5b89\u6b66\u4eba, \u95a2\u667a\u4e00, \u4e09\u6728\u771e\u4e00\u90ce, \u7d50\u57ce\u6bd4\u5442"
+  ],
+  "crawled_at": "2023-09-25T12:28:29.367020+00:00",
+  "slug": "weiss-kruez-no-reason",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/weiss-kruez-no-reason",
+  "platforms": {
+    "Anime": "https://downloads.khinsider.com/game-soundtracks/anime"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/weiss-kruez-no-reason/cdcover.jpg"
+  ],
+  "year": 1999,
+  "catalog_number": "MMDM-1006",
+  "date_added": "2006-11-25T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "PIONEER LDC": "https://downloads.khinsider.com/game-soundtracks/publisher/pioneer-ldc"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3449815,
+      "track_number": 1,
+      "title": "no reason",
+      "runtime": 216,
+      "source_mp3": "https://vgmsite.com/soundtracks/weiss-kruez-no-reason/pokhczds/01%20-%20no%20reason.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/weiss-kruez-no-reason/01%2520-%2520no%2520reason.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4351590,
+      "track_number": 2,
+      "title": "mellow candle",
+      "runtime": 272,
+      "source_mp3": "https://vgmsite.com/soundtracks/weiss-kruez-no-reason/qnzobobf/02%20-%20mellow%20candle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/weiss-kruez-no-reason/02%2520-%2520mellow%2520candle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3019898,
+      "track_number": 3,
+      "title": "no reason (off vocal)",
+      "runtime": 215,
+      "source_mp3": "https://vgmsite.com/soundtracks/weiss-kruez-no-reason/wiqpoeaz/03%20-%20no%20reason%20%28off%20vocal%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/weiss-kruez-no-reason/03%2520-%2520no%2520reason%2520%2528off%2520vocal%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3806330,
+      "track_number": 4,
+      "title": "mellow candle (off vocal)",
+      "runtime": 272,
+      "source_mp3": "https://vgmsite.com/soundtracks/weiss-kruez-no-reason/nnyavrhr/04%20-%20mellow%20candle%20%28off%20vocal%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/weiss-kruez-no-reason/04%2520-%2520mellow%2520candle%2520%2528off%2520vocal%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 975,
+    "filesize_mp3_bytes": 14627633,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "title": "Tower of Fantasy: Mirroria Concert",
+  "titles_alternative": [
+    "\u4ef2\u590f\u591c\u7684\u68a6\u60f3 (\u857e\u8d1d\u62df\u6001\u5267\u60c5\u63d2\u66f2\uff09"
+  ],
+  "crawled_at": "2023-09-25T10:24:28.856592+00:00",
+  "slug": "tower-of-fantasy-mirroria-concert-2022",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tower-of-fantasy-mirroria-concert-2022",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "Online": "https://downloads.khinsider.com/game-soundtracks/online",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tower-of-fantasy-mirroria-concert-2022/109951167675978269.jpg"
+  ],
+  "year": 2022,
+  "catalog_number": null,
+  "date_added": "2023-06-15T00:00:00+00:00",
+  "developers": {
+    "Hotta Studio": "https://downloads.khinsider.com/game-soundtracks/developer/hotta-studio"
+  },
+  "publishers": {
+    "Hotta Studio": "https://downloads.khinsider.com/game-soundtracks/publisher/hotta-studio"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6962544,
+      "track_number": 1,
+      "title": "A Midsummer Night's Dream - CH",
+      "runtime": 170,
+      "source_mp3": "https://vgmsite.com/soundtracks/tower-of-fantasy-mirroria-concert-2022/igbvutgjbb/01%20A%20Midsummer%20Night%27s%20Dream%20-%20CH.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tower-of-fantasy-mirroria-concert-2022/01%2520A%2520Midsummer%2520Night%2527s%2520Dream%2520-%2520CH.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6962544,
+      "track_number": 2,
+      "title": "A Midsummer Night's Dream - JP",
+      "runtime": 170,
+      "source_mp3": "https://vgmsite.com/soundtracks/tower-of-fantasy-mirroria-concert-2022/udjiwtdxwn/02%20A%20Midsummer%20Night%27s%20Dream%20-%20JP.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tower-of-fantasy-mirroria-concert-2022/02%2520A%2520Midsummer%2520Night%2527s%2520Dream%2520-%2520JP.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6081740,
+      "track_number": 3,
+      "title": "A Midsummer Night's Dream - KOR",
+      "runtime": 168,
+      "source_mp3": "https://vgmsite.com/soundtracks/tower-of-fantasy-mirroria-concert-2022/psmdiepegq/03%20A%20Midsummer%20Night%27s%20Dream%20-%20KOR.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tower-of-fantasy-mirroria-concert-2022/03%2520A%2520Midsummer%2520Night%2527s%2520Dream%2520-%2520KOR.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6962544,
+      "track_number": 4,
+      "title": "A Midsummer Night's Dream - Instrumental",
+      "runtime": 170,
+      "source_mp3": "https://vgmsite.com/soundtracks/tower-of-fantasy-mirroria-concert-2022/gzybityqcp/04%20A%20Midsummer%20Night%27s%20Dream%20-%20Instrumental.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tower-of-fantasy-mirroria-concert-2022/04%2520A%2520Midsummer%2520Night%2527s%2520Dream%2520-%2520Instrumental.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 678,
+    "filesize_mp3_bytes": 26969372,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

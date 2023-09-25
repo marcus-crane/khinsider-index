@@ -1,0 +1,55 @@
+{
+  "title": "Tsukumonotsuki Maxi Single CD",
+  "titles_alternative": [
+    "\u30c4\u30af\u30e2\u30ce\u30c4\u30ad \u30de\u30ad\u30b7\u30b7\u30f3\u30b0\u30ebCD"
+  ],
+  "crawled_at": "2023-09-25T11:09:17.732404+00:00",
+  "slug": "tsukumonotsuki-maxi-single-cd",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tsukumonotsuki-maxi-single-cd",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tsukumonotsuki-maxi-single-cd/coverart.jpg"
+  ],
+  "year": 2012,
+  "catalog_number": null,
+  "date_added": "2020-04-24T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Sugar pot": "https://downloads.khinsider.com/game-soundtracks/publisher/sugar-pot"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 44365250,
+      "filesize_mp3_bytes": 10076815,
+      "track_number": 1,
+      "title": "Tsukumonotsuki",
+      "runtime": 298,
+      "source_mp3": "https://vgmsite.com/soundtracks/tsukumonotsuki-maxi-single-cd/seqblxmaxo/01%20-%20Tsukumonotsuki.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tsukumonotsuki-maxi-single-cd/seqblxmaxo/01%20-%20Tsukumonotsuki.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tsukumonotsuki-maxi-single-cd/01%2520-%2520Tsukumonotsuki.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 35976642,
+      "filesize_mp3_bytes": 10464788,
+      "track_number": 2,
+      "title": "Kizunaboshi",
+      "runtime": 282,
+      "source_mp3": "https://vgmsite.com/soundtracks/tsukumonotsuki-maxi-single-cd/xkmybcvkio/02%20-%20Kizunaboshi.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tsukumonotsuki-maxi-single-cd/xkmybcvkio/02%20-%20Kizunaboshi.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tsukumonotsuki-maxi-single-cd/02%2520-%2520Kizunaboshi.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 580,
+    "filesize_mp3_bytes": 20541603,
+    "filesize_flac_bytes": 80341892,
+    "tracks": 2
+  }
+}

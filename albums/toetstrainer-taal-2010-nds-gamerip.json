@@ -1,0 +1,42 @@
+{
+  "title": "ToetsTrainer: Taal",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T09:00:52.102611+00:00",
+  "slug": "toetstrainer-taal-2010-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/toetstrainer-taal-2010-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/toetstrainer-taal-2010-nds-gamerip/ToetsTrainer%20-%20Taal.jpg"
+  ],
+  "year": 2010,
+  "date_added": "2020-06-24T00:00:00+00:00",
+  "developers": {
+    "Foreign Media": "https://downloads.khinsider.com/game-soundtracks/developer/foreign-media"
+  },
+  "publishers": {
+    "Foreign Media": "https://downloads.khinsider.com/game-soundtracks/publisher/foreign-media"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5599395,
+      "filesize_mp3_bytes": 2013265,
+      "title": "Menu",
+      "runtime": 158,
+      "source_mp3": "https://vgmsite.com/soundtracks/toetstrainer-taal-2010-nds-gamerip/rfgagspbgk/Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/toetstrainer-taal-2010-nds-gamerip/rfgagspbgk/Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/toetstrainer-taal-2010-nds-gamerip/Menu.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 158,
+    "filesize_mp3_bytes": 2013265,
+    "filesize_flac_bytes": 5599395,
+    "tracks": 1
+  }
+}

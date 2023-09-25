@@ -1,0 +1,75 @@
+{
+  "title": "Welcome to the Dungeon (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T12:28:45.466535+00:00",
+  "slug": "welcome-to-the-dungeon-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/welcome-to-the-dungeon-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/welcome-to-the-dungeon-android-game-music/1.png"
+  ],
+  "date_added": "2016-06-20T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1981808,
+      "track_number": 1,
+      "title": "BGM_Title",
+      "runtime": 62,
+      "source_mp3": "https://vgmsite.com/soundtracks/welcome-to-the-dungeon-android-game-music/pklrfpno/1%20BGM_Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/welcome-to-the-dungeon-android-game-music/1%2520BGM_Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 440401,
+      "track_number": 2,
+      "title": "BGM_Worldmap",
+      "runtime": 14,
+      "source_mp3": "https://vgmsite.com/soundtracks/welcome-to-the-dungeon-android-game-music/pjjixllh/2%20BGM_Worldmap.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/welcome-to-the-dungeon-android-game-music/2%2520BGM_Worldmap.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 775946,
+      "track_number": 3,
+      "title": "Dungeon_WoldmapBGM_Loop",
+      "runtime": 24,
+      "source_mp3": "https://vgmsite.com/soundtracks/welcome-to-the-dungeon-android-game-music/qzcqkrxe/3%20Dungeon_WoldmapBGM_Loop.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/welcome-to-the-dungeon-android-game-music/3%2520Dungeon_WoldmapBGM_Loop.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1541406,
+      "track_number": 4,
+      "title": "BGM_Dungeon",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/welcome-to-the-dungeon-android-game-music/nrsvtbws/4%20BGM_Dungeon.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/welcome-to-the-dungeon-android-game-music/4%2520BGM_Dungeon.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1698693,
+      "track_number": 5,
+      "title": "dungeon_adventure",
+      "runtime": 142,
+      "source_mp3": "https://vgmsite.com/soundtracks/welcome-to-the-dungeon-android-game-music/jtnoxkfd/5%20dungeon_adventure.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/welcome-to-the-dungeon-android-game-music/5%2520dungeon_adventure.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 290,
+    "filesize_mp3_bytes": 6438254,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

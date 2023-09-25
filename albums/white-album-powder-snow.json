@@ -1,0 +1,71 @@
+{
+  "title": "White Album ~ POWDER SNOW",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T12:35:49.791503+00:00",
+  "slug": "white-album-powder-snow",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/white-album-powder-snow",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/white-album-powder-snow/2029-1244789653.jpg"
+  ],
+  "year": 2001,
+  "catalog_number": "KICM-4006",
+  "date_added": "2022-04-17T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "King Record Co., Ltd.": "https://downloads.khinsider.com/game-soundtracks/publisher/king-record"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 12194938,
+      "track_number": 1,
+      "title": "POWDER SNOW -English Version-",
+      "runtime": 304,
+      "source_mp3": "https://vgmsite.com/soundtracks/white-album-powder-snow/epyiyxjjgn/01.%20POWDER%20SNOW%20-English%20Version-.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/white-album-powder-snow/01.%2520POWDER%2520SNOW%2520-English%2520Version-.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 12415139,
+      "track_number": 2,
+      "title": "I Believe ~A New Premonition~ -English Version-",
+      "runtime": 309,
+      "source_mp3": "https://vgmsite.com/soundtracks/white-album-powder-snow/kmslmbrmiu/02.%20I%20Believe%20~A%20New%20Premonition~%20-English%20Version-.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/white-album-powder-snow/02.%2520I%2520Believe%2520~A%2520New%2520Premonition~%2520-English%2520Version-.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 12194938,
+      "track_number": 3,
+      "title": "POWDER SNOW -Vocal less Version-",
+      "runtime": 304,
+      "source_mp3": "https://vgmsite.com/soundtracks/white-album-powder-snow/nknpozfyxv/03.%20POWDER%20SNOW%20-Vocal%20less%20Version-.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/white-album-powder-snow/03.%2520POWDER%2520SNOW%2520-Vocal%2520less%2520Version-.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 12362711,
+      "track_number": 4,
+      "title": "I Believe ~A New Premonition~ -Vocal less Version-",
+      "runtime": 308,
+      "source_mp3": "https://vgmsite.com/soundtracks/white-album-powder-snow/saorbbcvzk/04.%20I%20Believe%20~A%20New%20Premonition~%20-Vocal%20less%20Version-.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/white-album-powder-snow/04.%2520I%2520Believe%2520~A%2520New%2520Premonition~%2520-Vocal%2520less%2520Version-.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1225,
+    "filesize_mp3_bytes": 49167726,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

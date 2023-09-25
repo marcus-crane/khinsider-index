@@ -1,0 +1,82 @@
+{
+  "title": "WCW Nitro",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T12:22:01.182733+00:00",
+  "slug": "wcw-nitro-psx",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/wcw-nitro-psx",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/wcw-nitro-psx/W1.png"
+  ],
+  "year": 1997,
+  "date_added": "2016-01-28T00:00:00+00:00",
+  "developers": {
+    "Inland": "https://downloads.khinsider.com/game-soundtracks/developer/inland"
+  },
+  "publishers": {
+    "THQ": "https://downloads.khinsider.com/game-soundtracks/publisher/thq"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6689914,
+      "track_number": 1,
+      "title": "Game 1",
+      "runtime": 207,
+      "source_mp3": "https://vgmsite.com/soundtracks/wcw-nitro-psx/ymudftel/01_Game%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wcw-nitro-psx/01_Game%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7423918,
+      "track_number": 2,
+      "title": "Manson",
+      "runtime": 220,
+      "source_mp3": "https://vgmsite.com/soundtracks/wcw-nitro-psx/djrjcfgb/02_Manson.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wcw-nitro-psx/02_Manson.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6658457,
+      "track_number": 3,
+      "title": "Tune 3",
+      "runtime": 199,
+      "source_mp3": "https://vgmsite.com/soundtracks/wcw-nitro-psx/drlpgpsp/03_Tune%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wcw-nitro-psx/03_Tune%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8986296,
+      "track_number": 4,
+      "title": "Disco",
+      "runtime": 254,
+      "source_mp3": "https://vgmsite.com/soundtracks/wcw-nitro-psx/kmuxthnh/04_Disco.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wcw-nitro-psx/04_Disco.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6165626,
+      "track_number": 5,
+      "title": "Same",
+      "runtime": 196,
+      "source_mp3": "https://vgmsite.com/soundtracks/wcw-nitro-psx/taplutao/05_Same.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wcw-nitro-psx/05_Same.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1076,
+    "filesize_mp3_bytes": 35924211,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "title": "Totally Tangled",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T10:05:14.421844+00:00",
+  "slug": "totally-tangled-ios-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/totally-tangled-ios-gamerip",
+  "platforms": {
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/totally-tangled-ios-gamerip/Totally%20Tangled.png"
+  ],
+  "date_added": "2015-12-15T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 0,
+      "title": "BlankTile",
+      "runtime": 0,
+      "source_mp3": "https://vgmsite.com/soundtracks/totally-tangled-ios-gamerip/vymisjot/BlankTile.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/totally-tangled-ios-gamerip/BlankTile.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10485,
+      "title": "PaperCrumple",
+      "runtime": 0,
+      "source_mp3": "https://vgmsite.com/soundtracks/totally-tangled-ios-gamerip/tltqwbxt/PaperCrumple.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/totally-tangled-ios-gamerip/PaperCrumple.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10485,
+      "title": "pascal_chirps_camo",
+      "runtime": 0,
+      "source_mp3": "https://vgmsite.com/soundtracks/totally-tangled-ios-gamerip/sgpxauhs/pascal_chirps_camo.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/totally-tangled-ios-gamerip/pascal_chirps_camo.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 20971,
+      "title": "pascal_chirps_trans",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/totally-tangled-ios-gamerip/adbtxfdf/pascal_chirps_trans.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/totally-tangled-ios-gamerip/pascal_chirps_trans.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 20971,
+      "title": "solved",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/totally-tangled-ios-gamerip/vvlbzsup/solved.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/totally-tangled-ios-gamerip/solved.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 0,
+      "title": "TapSound",
+      "runtime": 0,
+      "source_mp3": "https://vgmsite.com/soundtracks/totally-tangled-ios-gamerip/qsdjcxxv/TapSound.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/totally-tangled-ios-gamerip/TapSound.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2,
+    "filesize_mp3_bytes": 62912,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

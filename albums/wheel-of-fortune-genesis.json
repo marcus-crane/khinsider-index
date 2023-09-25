@@ -1,0 +1,43 @@
+{
+  "title": "Wheel of Fortune",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T12:31:38.097480+00:00",
+  "slug": "wheel-of-fortune-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/wheel-of-fortune-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/wheel-of-fortune-genesis/Wheel%20of%20Fortune.png"
+  ],
+  "year": 1992,
+  "date_added": "2020-03-30T00:00:00+00:00",
+  "developers": {
+    "Imagitec": "https://downloads.khinsider.com/game-soundtracks/developer/imagitec"
+  },
+  "publishers": {
+    "GameTek": "https://downloads.khinsider.com/game-soundtracks/publisher/gametek"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1006632,
+      "filesize_mp3_bytes": 629145,
+      "track_number": 1,
+      "title": "Title Screen (Changing Keys)",
+      "runtime": 32,
+      "source_mp3": "https://vgmsite.com/soundtracks/wheel-of-fortune-genesis/otifljfbwp/01%20-%20Title%20Screen%20%28Changing%20Keys%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/wheel-of-fortune-genesis/otifljfbwp/01%20-%20Title%20Screen%20%28Changing%20Keys%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wheel-of-fortune-genesis/01%2520-%2520Title%2520Screen%2520%2528Changing%2520Keys%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 32,
+    "filesize_mp3_bytes": 629145,
+    "filesize_flac_bytes": 1006632,
+    "tracks": 1
+  }
+}

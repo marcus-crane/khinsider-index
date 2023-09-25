@@ -1,0 +1,95 @@
+{
+  "title": "Trap Adventure",
+  "titles_alternative": [
+    "Hiroyoshi Oshiba",
+    "Trap Adventure 2"
+  ],
+  "crawled_at": "2023-09-25T10:41:47.376610+00:00",
+  "slug": "trap-adventure-ios-gamerip-2016",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/trap-adventure-ios-gamerip-2016",
+  "platforms": {
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/trap-adventure-ios-gamerip-2016/Trap_Adventure.png"
+  ],
+  "year": 2016,
+  "date_added": "2023-09-05T00:00:00+00:00",
+  "developers": {
+    "Hiroyoshi Oshiba": "https://downloads.khinsider.com/game-soundtracks/developer/hiroyoshi-oshiba"
+  },
+  "publishers": {
+    "Hiroyoshi Oshiba": "https://downloads.khinsider.com/game-soundtracks/publisher/hiroyoshi-oshiba"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 713031,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 45,
+      "source_mp3": "https://vgmsite.com/soundtracks/trap-adventure-ios-gamerip-2016/xtcvtgebxu/01.%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/trap-adventure-ios-gamerip-2016/01.%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 157286,
+      "track_number": 2,
+      "title": "Semi Dark Stage",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/trap-adventure-ios-gamerip-2016/aliawgyhud/02.%20Semi%20Dark%20Stage.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/trap-adventure-ios-gamerip-2016/02.%2520Semi%2520Dark%2520Stage.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1069547,
+      "track_number": 3,
+      "title": "Blue Stage",
+      "runtime": 67,
+      "source_mp3": "https://vgmsite.com/soundtracks/trap-adventure-ios-gamerip-2016/sbarsktvkn/03.%20Blue%20Stage.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/trap-adventure-ios-gamerip-2016/03.%2520Blue%2520Stage.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1751121,
+      "track_number": 4,
+      "title": "Red Stage",
+      "runtime": 109,
+      "source_mp3": "https://vgmsite.com/soundtracks/trap-adventure-ios-gamerip-2016/ykzcnokeje/04.%20Red%20Stage.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/trap-adventure-ios-gamerip-2016/04.%2520Red%2520Stage.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 188743,
+      "track_number": 5,
+      "title": "All Stage Clear!",
+      "runtime": 12,
+      "source_mp3": "https://vgmsite.com/soundtracks/trap-adventure-ios-gamerip-2016/alrjcdkdex/05.%20All%20Stage%20Clear%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/trap-adventure-ios-gamerip-2016/05.%2520All%2520Stage%2520Clear%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1279262,
+      "track_number": 6,
+      "title": "Unused Looks Like",
+      "runtime": 80,
+      "source_mp3": "https://vgmsite.com/soundtracks/trap-adventure-ios-gamerip-2016/kcwknnbyso/06.%20Unused%20Looks%20Like.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/trap-adventure-ios-gamerip-2016/06.%2520Unused%2520Looks%2520Like.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 323,
+    "filesize_mp3_bytes": 5158990,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

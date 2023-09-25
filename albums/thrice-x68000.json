@@ -1,0 +1,78 @@
+{
+  "title": "Thrice",
+  "titles_alternative": [
+    "\u30b9\u30e9\u30a4\u30b9"
+  ],
+  "crawled_at": "2023-09-25T08:30:31.102713+00:00",
+  "slug": "thrice-x68000",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/thrice-x68000",
+  "platforms": {
+    "X68000": "https://downloads.khinsider.com/game-soundtracks/x68000"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/thrice-x68000/T1.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2022-10-03T00:00:00+00:00",
+  "developers": {
+    "M.N.M Software": "https://downloads.khinsider.com/game-soundtracks/developer/m.n.m-software"
+  },
+  "publishers": {
+    "M.N.M Software": "https://downloads.khinsider.com/game-soundtracks/publisher/m.n.m-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 828375,
+      "filesize_mp3_bytes": 419430,
+      "track_number": 1,
+      "title": "Block Time",
+      "runtime": 20,
+      "source_mp3": "https://vgmsite.com/soundtracks/thrice-x68000/njcgcxyirp/01.%20Block%20Time.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/thrice-x68000/njcgcxyirp/01.%20Block%20Time.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thrice-x68000/01.%2520Block%2520Time.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9185525,
+      "filesize_mp3_bytes": 3544186,
+      "track_number": 2,
+      "title": "That's Thrice",
+      "runtime": 176,
+      "source_mp3": "https://vgmsite.com/soundtracks/thrice-x68000/rgumgsfmun/02.%20That%27s%20Thrice.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/thrice-x68000/rgumgsfmun/02.%20That%27s%20Thrice.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thrice-x68000/02.%2520That%2527s%2520Thrice.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10485,
+      "filesize_mp3_bytes": 10485,
+      "track_number": 3,
+      "title": "Credit",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/thrice-x68000/ogafpksnwr/03.%20Credit.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/thrice-x68000/ogafpksnwr/03.%20Credit.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thrice-x68000/03.%2520Credit.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 461373,
+      "filesize_mp3_bytes": 199229,
+      "track_number": 4,
+      "title": "World Wide",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/thrice-x68000/gpqtdgvpgc/04.%20World%20Wide.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/thrice-x68000/gpqtdgvpgc/04.%20World%20Wide.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thrice-x68000/04.%2520World%2520Wide.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 207,
+    "filesize_mp3_bytes": 4173330,
+    "filesize_flac_bytes": 10485758,
+    "tracks": 4
+  }
+}

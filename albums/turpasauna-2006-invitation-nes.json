@@ -1,0 +1,38 @@
+{
+  "title": "Turpasauna 2006 Invitation",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T11:13:20.869160+00:00",
+  "slug": "turpasauna-2006-invitation-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/turpasauna-2006-invitation-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/turpasauna-2006-invitation-nes/Turpasauna%202006%20Invitation%20%28NES%29.png"
+  ],
+  "date_added": "2022-06-25T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9258926,
+      "filesize_mp3_bytes": 4330618,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/turpasauna-2006-invitation-nes/gdazlcngaf/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/turpasauna-2006-invitation-nes/gdazlcngaf/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/turpasauna-2006-invitation-nes/01.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 180,
+    "filesize_mp3_bytes": 4330618,
+    "filesize_flac_bytes": 9258926,
+    "tracks": 1
+  }
+}

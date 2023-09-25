@@ -1,0 +1,43 @@
+{
+  "title": "Warriors Games (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T12:14:28.908459+00:00",
+  "slug": "warriors-games-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/warriors-games-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/warriors-games-android-game-music/1.png"
+  ],
+  "date_added": "2017-11-24T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6616514,
+      "title": "snd_boss_music",
+      "runtime": 165,
+      "source_mp3": "https://vgmsite.com/soundtracks/warriors-games-android-game-music/qmfyblpz/snd_boss_music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/warriors-games-android-game-music/snd_boss_music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4718592,
+      "title": "snd_music",
+      "runtime": 118,
+      "source_mp3": "https://vgmsite.com/soundtracks/warriors-games-android-game-music/wkmwuopy/snd_music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/warriors-games-android-game-music/snd_music.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 283,
+    "filesize_mp3_bytes": 11335106,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

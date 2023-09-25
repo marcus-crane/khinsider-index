@@ -1,0 +1,93 @@
+{
+  "title": "Top Gear Rally",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T09:54:41.588435+00:00",
+  "slug": "top-gear-rally",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/top-gear-rally",
+  "platforms": {
+    "N64": "https://downloads.khinsider.com/game-soundtracks/nintendo-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/top-gear-rally/Top%20Gear%20Rally.jpg"
+  ],
+  "year": 1997,
+  "date_added": "2006-11-25T00:00:00+00:00",
+  "developers": {
+    "Boss Game Studios": "https://downloads.khinsider.com/game-soundtracks/developer/boss-game-studios"
+  },
+  "publishers": {
+    "Kemco": "https://downloads.khinsider.com/game-soundtracks/publisher/kemco",
+    "Midway Games": "https://downloads.khinsider.com/game-soundtracks/publisher/midway-games"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8808038,
+      "track_number": 1,
+      "title": "main menu",
+      "runtime": 369,
+      "source_mp3": "https://vgmsite.com/soundtracks/top-gear-rally/ddbaonpy/01%20main%20menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/top-gear-rally/01%2520main%2520menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11051991,
+      "track_number": 2,
+      "title": "coastline",
+      "runtime": 409,
+      "source_mp3": "https://vgmsite.com/soundtracks/top-gear-rally/wegrafnf/02%20coastline.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/top-gear-rally/02%2520coastline.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10559160,
+      "track_number": 3,
+      "title": "desert",
+      "runtime": 395,
+      "source_mp3": "https://vgmsite.com/soundtracks/top-gear-rally/lkxlvsjp/03%20desert.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/top-gear-rally/03%2520desert.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11439964,
+      "track_number": 4,
+      "title": "jungle",
+      "runtime": 420,
+      "source_mp3": "https://vgmsite.com/soundtracks/top-gear-rally/hthuzpdc/04%20jungle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/top-gear-rally/04%2520jungle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 12226396,
+      "track_number": 5,
+      "title": "mountain",
+      "runtime": 445,
+      "source_mp3": "https://vgmsite.com/soundtracks/top-gear-rally/nrsazrlh/05%20mountain.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/top-gear-rally/05%2520mountain.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8000634,
+      "track_number": 6,
+      "title": "strip mine",
+      "runtime": 315,
+      "source_mp3": "https://vgmsite.com/soundtracks/top-gear-rally/qxmlzjbd/06%20strip%20mine.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/top-gear-rally/06%2520strip%2520mine.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2353,
+    "filesize_mp3_bytes": 62086183,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Waluigi's Taco Stand",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T11:47:43.709030+00:00",
+  "slug": "waluigi-s-taco-stand-silvagunner-2016",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/waluigi-s-taco-stand-silvagunner-2016",
+  "platforms": {
+    "Online": "https://downloads.khinsider.com/game-soundtracks/online"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/waluigi-s-taco-stand-silvagunner-2016/Waluigi%27s%20Taco%20Stand%20%28SilvaGunner%29%20%282016%29.jpg"
+  ],
+  "year": 2016,
+  "date_added": "2022-06-10T00:00:00+00:00",
+  "developers": {
+    "El Bean and the Three Caballeros.": "https://downloads.khinsider.com/game-soundtracks/developer/el-bean-and-the-three-caballeros"
+  },
+  "publishers": {
+    "SiIvaGunner": "https://downloads.khinsider.com/game-soundtracks/publisher/siivagunner"
+  },
+  "genres": {
+    "Inspired By": "https://downloads.khinsider.com/game-soundtracks/inspired-by"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 754974,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 82,
+      "source_mp3": "https://vgmsite.com/soundtracks/waluigi-s-taco-stand-silvagunner-2016/soluiydbkt/01%20-%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/waluigi-s-taco-stand-silvagunner-2016/01%2520-%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 199229,
+      "track_number": 2,
+      "title": "Secondary Theme",
+      "runtime": 27,
+      "source_mp3": "https://vgmsite.com/soundtracks/waluigi-s-taco-stand-silvagunner-2016/ztzildtnqw/02%20-%20Secondary%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/waluigi-s-taco-stand-silvagunner-2016/02%2520-%2520Secondary%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 109,
+    "filesize_mp3_bytes": 954203,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

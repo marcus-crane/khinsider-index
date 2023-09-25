@@ -1,0 +1,45 @@
+{
+  "title": "Internet Channel",
+  "titles_alternative": [
+    "Wii Internet Channel"
+  ],
+  "crawled_at": "2023-09-25T12:40:56.610738+00:00",
+  "slug": "wii-internet-channel",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/wii-internet-channel",
+  "platforms": {
+    "Wii": "https://downloads.khinsider.com/game-soundtracks/nintendo-wii"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/wii-internet-channel/320px-Wii-InternetChannelTitleScreen.png"
+  ],
+  "year": 2007,
+  "date_added": "2018-07-05T00:00:00+00:00",
+  "developers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/developer/nintendo",
+    "Opera Software": "https://downloads.khinsider.com/game-soundtracks/developer/opera-software"
+  },
+  "publishers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 293601,
+      "track_number": 1,
+      "title": "Channel Intro",
+      "runtime": 12,
+      "source_mp3": "https://vgmsite.com/soundtracks/wii-internet-channel/yowmxjck/001%20-%20Channel%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wii-internet-channel/001%2520-%2520Channel%2520Intro.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 12,
+    "filesize_mp3_bytes": 293601,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

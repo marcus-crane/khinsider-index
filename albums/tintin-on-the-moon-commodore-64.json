@@ -1,0 +1,92 @@
+{
+  "title": "Tintin on the Moon",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T08:49:11.310398+00:00",
+  "slug": "tintin-on-the-moon-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tintin-on-the-moon-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tintin-on-the-moon-commodore-64/T1.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2019-04-29T00:00:00+00:00",
+  "developers": {
+    "Infogrames": "https://downloads.khinsider.com/game-soundtracks/developer/infogrames"
+  },
+  "publishers": {
+    "Infogrames": "https://downloads.khinsider.com/game-soundtracks/publisher/infogrames"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4655677,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 231,
+      "source_mp3": "https://vgmsite.com/soundtracks/tintin-on-the-moon-commodore-64/jtfqfmci/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tintin-on-the-moon-commodore-64/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1646264,
+      "track_number": 2,
+      "title": "Name Entry",
+      "runtime": 68,
+      "source_mp3": "https://vgmsite.com/soundtracks/tintin-on-the-moon-commodore-64/glpqulag/02_Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tintin-on-the-moon-commodore-64/02_Name%2520Entry.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 3,
+      "title": "Game Over",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/tintin-on-the-moon-commodore-64/xwfjuioq/03_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tintin-on-the-moon-commodore-64/03_Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8053063,
+      "track_number": 4,
+      "title": "Title Screen (SID Stereo)",
+      "runtime": 230,
+      "source_mp3": "https://vgmsite.com/soundtracks/tintin-on-the-moon-commodore-64/unnrccdc/04_Title%20Screen%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tintin-on-the-moon-commodore-64/04_Title%2520Screen%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2527068,
+      "track_number": 5,
+      "title": "Name Entry (SID Stereo)",
+      "runtime": 68,
+      "source_mp3": "https://vgmsite.com/soundtracks/tintin-on-the-moon-commodore-64/wvgojihe/05_Name%20Entry%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tintin-on-the-moon-commodore-64/05_Name%2520Entry%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 157286,
+      "track_number": 6,
+      "title": "Game Over (SID Stereo)",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/tintin-on-the-moon-commodore-64/qkfthirh/06_Game%20Over%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tintin-on-the-moon-commodore-64/06_Game%2520Over%2520%2528SID%2520Stereo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 607,
+    "filesize_mp3_bytes": 17123244,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "title": "Tsurikko Penta",
+  "titles_alternative": [
+    "\u3064\u308a\u3063\u5b50\u30da\u30f3\u592a"
+  ],
+  "crawled_at": "2023-09-25T11:10:52.484860+00:00",
+  "slug": "tsurikko-penta-arcade-gamerip-1991",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tsurikko-penta-arcade-gamerip-1991",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tsurikko-penta-arcade-gamerip-1991/T1.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2023-03-16T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami"
+  },
+  "publishers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4592762,
+      "filesize_mp3_bytes": 1415577,
+      "track_number": 1,
+      "title": "Title BGM",
+      "runtime": 74,
+      "source_mp3": "https://vgmsite.com/soundtracks/tsurikko-penta-arcade-gamerip-1991/mjdothrifz/01.%20Title%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tsurikko-penta-arcade-gamerip-1991/mjdothrifz/01.%20Title%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tsurikko-penta-arcade-gamerip-1991/01.%2520Title%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2149580,
+      "filesize_mp3_bytes": 723517,
+      "track_number": 2,
+      "title": "Main BGM",
+      "runtime": 36,
+      "source_mp3": "https://vgmsite.com/soundtracks/tsurikko-penta-arcade-gamerip-1991/bzmgoxpzvw/02.%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tsurikko-penta-arcade-gamerip-1991/bzmgoxpzvw/02.%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tsurikko-penta-arcade-gamerip-1991/02.%2520Main%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 209715,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 3,
+      "title": "Lose (Get Trash, Get Octopus)",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/tsurikko-penta-arcade-gamerip-1991/gsdagnmzhk/03.%20Lose%20%28Get%20Trash%2C%20Get%20Octopus%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tsurikko-penta-arcade-gamerip-1991/gsdagnmzhk/03.%20Lose%20%28Get%20Trash%2C%20Get%20Octopus%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tsurikko-penta-arcade-gamerip-1991/03.%2520Lose%2520%2528Get%2520Trash%252C%2520Get%2520Octopus%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 304087,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 4,
+      "title": "Lose (Get Whale)",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/tsurikko-penta-arcade-gamerip-1991/nrlrvechbn/04.%20Lose%20%28Get%20Whale%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tsurikko-penta-arcade-gamerip-1991/nrlrvechbn/04.%20Lose%20%28Get%20Whale%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tsurikko-penta-arcade-gamerip-1991/04.%2520Lose%2520%2528Get%2520Whale%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 262144,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 5,
+      "title": "Won",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/tsurikko-penta-arcade-gamerip-1991/mbxvwhxomm/05.%20Won.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tsurikko-penta-arcade-gamerip-1991/mbxvwhxomm/05.%20Won.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tsurikko-penta-arcade-gamerip-1991/05.%2520Won.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 123,
+    "filesize_mp3_bytes": 2380265,
+    "filesize_flac_bytes": 7518288,
+    "tracks": 5
+  }
+}
