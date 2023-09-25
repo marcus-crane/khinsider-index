@@ -1,0 +1,59 @@
+{
+  "title": "Sword of Sodan",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T22:57:04.193218+00:00",
+  "slug": "sword-of-sodan-amiga-rip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/sword-of-sodan-amiga-rip",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/sword-of-sodan-amiga-rip/Sword%20of%20Sodan%20%28Amiga%20Rip%29.jpg"
+  ],
+  "year": 1988,
+  "date_added": "2006-11-25T00:00:00+00:00",
+  "developers": {
+    "Discovery Software": "https://downloads.khinsider.com/game-soundtracks/developer/discovery-software"
+  },
+  "publishers": {
+    "Discovery Software": "https://downloads.khinsider.com/game-soundtracks/publisher/discovery-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1132462,
+      "title": "sword of sodan -01- intro 01",
+      "runtime": 28,
+      "source_mp3": "https://vgmsite.com/soundtracks/sword-of-sodan-amiga-rip/zpzucvor/sword%20of%20sodan%20-01-%20intro%2001.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sword-of-sodan-amiga-rip/sword%2520of%2520sodan%2520-01-%2520intro%252001.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7287603,
+      "title": "sword of sodan -02- intro 02",
+      "runtime": 182,
+      "source_mp3": "https://vgmsite.com/soundtracks/sword-of-sodan-amiga-rip/trmqzhnm/sword%20of%20sodan%20-02-%20intro%2002.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sword-of-sodan-amiga-rip/sword%2520of%2520sodan%2520-02-%2520intro%252002.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1887436,
+      "title": "sword of sodan -03- intro 03",
+      "runtime": 47,
+      "source_mp3": "https://vgmsite.com/soundtracks/sword-of-sodan-amiga-rip/umlanzge/sword%20of%20sodan%20-03-%20intro%2003.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sword-of-sodan-amiga-rip/sword%2520of%2520sodan%2520-03-%2520intro%252003.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 257,
+    "filesize_mp3_bytes": 10307501,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "title": "Super Oswald",
+  "titles_alternative": [
+    "Super OsWALD"
+  ],
+  "crawled_at": "2023-09-24T21:47:44.357398+00:00",
+  "slug": "super-oswald-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/super-oswald-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/super-oswald-commodore-64/SO.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2016-02-01T00:00:00+00:00",
+  "developers": {
+    "Ivan S\u00f8lvason": "https://downloads.khinsider.com/game-soundtracks/developer/ivans-lvason"
+  },
+  "publishers": {
+    "Silverrock Productions": "https://downloads.khinsider.com/game-soundtracks/publisher/silverrock-productions"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3921674,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 188,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-oswald-commodore-64/uvuimazx/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-oswald-commodore-64/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3858759,
+      "track_number": 2,
+      "title": "Unused",
+      "runtime": 185,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-oswald-commodore-64/zxilfflm/02_Unused.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-oswald-commodore-64/02_Unused.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7256145,
+      "track_number": 3,
+      "title": "Title Screen (SID Stereo)",
+      "runtime": 197,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-oswald-commodore-64/qjtufxvh/03_Title%20Screen%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-oswald-commodore-64/03_Title%2520Screen%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7130316,
+      "track_number": 4,
+      "title": "Unused (SID Stereo)",
+      "runtime": 194,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-oswald-commodore-64/atubnvbv/04_Unused%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-oswald-commodore-64/04_Unused%2520%2528SID%2520Stereo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 764,
+    "filesize_mp3_bytes": 22166894,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

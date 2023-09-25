@@ -1,0 +1,39 @@
+{
+  "title": "Super Mario Odyssey - Jump Up, Super Star!",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T21:33:14.079281+00:00",
+  "slug": "super-mario-odyssey-jump-up-super-star",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-odyssey-jump-up-super-star",
+  "platforms": {
+    "Switch": "https://downloads.khinsider.com/game-soundtracks/nintendo-switch"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/super-mario-odyssey-jump-up-super-star/Cover.jpg"
+  ],
+  "year": 2018,
+  "date_added": "2022-01-28T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 34844180,
+      "filesize_mp3_bytes": 8954839,
+      "track_number": 1,
+      "title": "Jump Up, Super Star!",
+      "runtime": 248,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-odyssey-jump-up-super-star/edlzwqtofw/01.%20Jump%20Up%2C%20Super%20Star%21.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-mario-odyssey-jump-up-super-star/edlzwqtofw/01.%20Jump%20Up%2C%20Super%20Star%21.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-odyssey-jump-up-super-star/01.%2520Jump%2520Up%252C%2520Super%2520Star%2521.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 248,
+    "filesize_mp3_bytes": 8954839,
+    "filesize_flac_bytes": 34844180,
+    "tracks": 1
+  }
+}

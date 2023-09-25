@@ -1,0 +1,68 @@
+{
+  "title": "T.A.C. Heroes - Big Red One",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T23:10:31.482499+00:00",
+  "slug": "t.a.c.-heroes-big-red-one-2010-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/t.a.c.-heroes-big-red-one-2010-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/t.a.c.-heroes-big-red-one-2010-nds-gamerip/T.A.C.%20Heroes%20-%20Big%20Red%20One.jpg"
+  ],
+  "year": 2010,
+  "date_added": "2020-06-24T00:00:00+00:00",
+  "developers": {
+    "Hoplite Research": "https://downloads.khinsider.com/game-soundtracks/developer/hoplite-research"
+  },
+  "publishers": {
+    "Storm City": "https://downloads.khinsider.com/game-soundtracks/publisher/storm-city"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 325058,
+      "title": "PBACKG8",
+      "runtime": 86,
+      "source_mp3": "https://vgmsite.com/soundtracks/t.a.c.-heroes-big-red-one-2010-nds-gamerip/tkyykynhqi/PBACKG8.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/t.a.c.-heroes-big-red-one-2010-nds-gamerip/PBACKG8.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 964689,
+      "title": "TAC BG",
+      "runtime": 269,
+      "source_mp3": "https://vgmsite.com/soundtracks/t.a.c.-heroes-big-red-one-2010-nds-gamerip/yvlkpakkmq/TAC%20BG.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/t.a.c.-heroes-big-red-one-2010-nds-gamerip/TAC%2520BG.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 241172,
+      "title": "TAC MAIN",
+      "runtime": 71,
+      "source_mp3": "https://vgmsite.com/soundtracks/t.a.c.-heroes-big-red-one-2010-nds-gamerip/qezklkahrg/TAC%20MAIN.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/t.a.c.-heroes-big-red-one-2010-nds-gamerip/TAC%2520MAIN.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 891289,
+      "title": "TAC SELECT",
+      "runtime": 249,
+      "source_mp3": "https://vgmsite.com/soundtracks/t.a.c.-heroes-big-red-one-2010-nds-gamerip/vnyjittvyq/TAC%20SELECT.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/t.a.c.-heroes-big-red-one-2010-nds-gamerip/TAC%2520SELECT.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 675,
+    "filesize_mp3_bytes": 2422208,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

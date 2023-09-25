@@ -1,0 +1,61 @@
+{
+  "title": "Tankfight",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T00:31:13.172605+00:00",
+  "slug": "tankfight-2020-gamerip-pc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tankfight-2020-gamerip-pc",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tankfight-2020-gamerip-pc/Tankfight_1.jpg"
+  ],
+  "year": 2020,
+  "date_added": "2022-05-15T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10485,
+      "filesize_mp3_bytes": 0,
+      "track_number": 1,
+      "title": "flyu",
+      "runtime": 0,
+      "source_mp3": "https://vgmsite.com/soundtracks/tankfight-2020-gamerip-pc/yqclqwabaa/1.%20flyu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tankfight-2020-gamerip-pc/yqclqwabaa/1.%20flyu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tankfight-2020-gamerip-pc/1.%2520flyu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20971,
+      "filesize_mp3_bytes": 10485,
+      "track_number": 2,
+      "title": "gameover",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/tankfight-2020-gamerip-pc/qifzvoijkw/2.%20gameover.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tankfight-2020-gamerip-pc/qifzvoijkw/2.%20gameover.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tankfight-2020-gamerip-pc/2.%2520gameover.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10485,
+      "filesize_mp3_bytes": 0,
+      "track_number": 3,
+      "title": "mouseclick1",
+      "runtime": 0,
+      "source_mp3": "https://vgmsite.com/soundtracks/tankfight-2020-gamerip-pc/dkiigtdixy/3.%20mouseclick1.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tankfight-2020-gamerip-pc/dkiigtdixy/3.%20mouseclick1.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tankfight-2020-gamerip-pc/3.%2520mouseclick1.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1,
+    "filesize_mp3_bytes": 10485,
+    "filesize_flac_bytes": 41941,
+    "tracks": 3
+  }
+}

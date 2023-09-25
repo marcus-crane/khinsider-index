@@ -1,0 +1,60 @@
+{
+  "title": "Tennis Masters Series",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T01:22:06.310730+00:00",
+  "slug": "tennis-master-series-ps1-windows-gamerip-2001",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tennis-master-series-ps1-windows-gamerip-2001",
+  "platforms": {
+    "PS2": "https://downloads.khinsider.com/game-soundtracks/playstation-2",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tennis-master-series-ps1-windows-gamerip-2001/712807-tennis-masters-series-windows-front-cover.jpg"
+  ],
+  "year": 2001,
+  "date_added": "2022-12-16T00:00:00+00:00",
+  "developers": {
+    "Microids": "https://downloads.khinsider.com/game-soundtracks/developer/microids"
+  },
+  "publishers": {
+    "Micro\u00efds": "https://downloads.khinsider.com/game-soundtracks/publisher/micro-ds"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1960837,
+      "title": "Menu 1",
+      "runtime": 123,
+      "source_mp3": "https://vgmsite.com/soundtracks/tennis-master-series-ps1-windows-gamerip-2001/qcunqzwtic/Menu%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tennis-master-series-ps1-windows-gamerip-2001/Menu%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2306867,
+      "title": "Menu 2",
+      "runtime": 144,
+      "source_mp3": "https://vgmsite.com/soundtracks/tennis-master-series-ps1-windows-gamerip-2001/bvjrkdoohb/Menu%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tennis-master-series-ps1-windows-gamerip-2001/Menu%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1541406,
+      "title": "Menu 3",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/tennis-master-series-ps1-windows-gamerip-2001/fgqelmwmaz/Menu%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tennis-master-series-ps1-windows-gamerip-2001/Menu%25203.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 363,
+    "filesize_mp3_bytes": 5809110,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

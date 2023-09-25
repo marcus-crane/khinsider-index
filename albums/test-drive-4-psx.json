@@ -1,0 +1,115 @@
+{
+  "title": "Test Drive 4",
+  "titles_alternative": [
+    "\u30c6\u30b9\u30c8\u30c9\u30e9\u30a4\u30d64"
+  ],
+  "crawled_at": "2023-09-25T01:33:01.578887+00:00",
+  "slug": "test-drive-4-psx",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/test-drive-4-psx",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/test-drive-4-psx/T1.jpg"
+  ],
+  "year": 1997,
+  "date_added": "2015-03-24T00:00:00+00:00",
+  "developers": {
+    "Pitbull Syndicate": "https://downloads.khinsider.com/game-soundtracks/developer/pitbull-syndicate"
+  },
+  "publishers": {
+    "Accolade": "https://downloads.khinsider.com/game-soundtracks/publisher/accolade",
+    "EA": "https://downloads.khinsider.com/game-soundtracks/publisher/ea"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1048576,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 32,
+      "source_mp3": "https://vgmsite.com/soundtracks/test-drive-4-psx/ftthcyqi/01_Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/test-drive-4-psx/01_Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 27955036,
+      "track_number": 2,
+      "title": "Out There Somewhere",
+      "runtime": 807,
+      "source_mp3": "https://vgmsite.com/soundtracks/test-drive-4-psx/jmtzngny/02_Out%20There%20Somewhere.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/test-drive-4-psx/02_Out%2520There%2520Somewhere.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7769948,
+      "track_number": 3,
+      "title": "Pit Stop",
+      "runtime": 220,
+      "source_mp3": "https://vgmsite.com/soundtracks/test-drive-4-psx/ujmqrzlk/03_Pit%20Stop.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/test-drive-4-psx/03_Pit%2520Stop.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5997854,
+      "track_number": 4,
+      "title": "Pit Stop 2",
+      "runtime": 181,
+      "source_mp3": "https://vgmsite.com/soundtracks/test-drive-4-psx/egiefcxd/04_Pit%20Stop%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/test-drive-4-psx/04_Pit%2520Stop%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7214202,
+      "track_number": 5,
+      "title": "Keep the Beat",
+      "runtime": 218,
+      "source_mp3": "https://vgmsite.com/soundtracks/test-drive-4-psx/arclaxsv/05_Keep%20the%20Beat.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/test-drive-4-psx/05_Keep%2520the%2520Beat.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8944353,
+      "track_number": 6,
+      "title": "Gonna Get Ya",
+      "runtime": 270,
+      "source_mp3": "https://vgmsite.com/soundtracks/test-drive-4-psx/dwmdhvgr/06_Gonna%20Get%20Ya.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/test-drive-4-psx/06_Gonna%2520Get%2520Ya.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 13725859,
+      "track_number": 7,
+      "title": "Unknown",
+      "runtime": 418,
+      "source_mp3": "https://vgmsite.com/soundtracks/test-drive-4-psx/botbdvvn/07_Unknown.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/test-drive-4-psx/07_Unknown.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 12834570,
+      "track_number": 8,
+      "title": "Unknown 2",
+      "runtime": 389,
+      "source_mp3": "https://vgmsite.com/soundtracks/test-drive-4-psx/wbhcbvhr/08_Unknown%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/test-drive-4-psx/08_Unknown%25202.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2535,
+    "filesize_mp3_bytes": 85490398,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

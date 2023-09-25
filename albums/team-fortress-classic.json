@@ -1,0 +1,83 @@
+{
+  "title": "Team Fortress Classic",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T00:39:29.536346+00:00",
+  "slug": "team-fortress-classic",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/team-fortress-classic",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/team-fortress-classic/2DE1EEEE-8701-4A66-8295-113F3EA20A69.jpeg"
+  ],
+  "year": 1999,
+  "date_added": "2018-07-15T00:00:00+00:00",
+  "developers": {
+    "Valve": "https://downloads.khinsider.com/game-soundtracks/developer/valve"
+  },
+  "publishers": {
+    "Sierra Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/sierra-entertainment",
+    "Valve": "https://downloads.khinsider.com/game-soundtracks/publisher/valve"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 1,
+      "title": "Goal",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/team-fortress-classic/orkfjfkl/001%20-%20Goal.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/team-fortress-classic/001%2520-%2520Goal.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 2,
+      "title": "Party 1",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/team-fortress-classic/cpvbwyfl/002%20-%20Party%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/team-fortress-classic/002%2520-%2520Party%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 3,
+      "title": "Party 2",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/team-fortress-classic/avhkdvvz/003%20-%20Party%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/team-fortress-classic/003%2520-%2520Party%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 4,
+      "title": "End Game",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/team-fortress-classic/vbhnfpyq/004%20-%20End%20Game.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/team-fortress-classic/004%2520-%2520End%2520Game.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 5,
+      "title": "End Game 2",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/team-fortress-classic/gjyhxxet/005%20-%20End%20Game%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/team-fortress-classic/005%2520-%2520End%2520Game%25202.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 32,
+    "filesize_mp3_bytes": 461371,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

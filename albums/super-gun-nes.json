@@ -1,0 +1,76 @@
+{
+  "title": "Super Gun (Unlicensed)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T21:09:00.325958+00:00",
+  "slug": "super-gun-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/super-gun-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/super-gun-nes/Super%20Gun.png"
+  ],
+  "year": 1992,
+  "date_added": "2021-07-30T00:00:00+00:00",
+  "developers": {
+    "NTDEC": "https://downloads.khinsider.com/game-soundtracks/developer/ntdec"
+  },
+  "publishers": {
+    "NTDEC": "https://downloads.khinsider.com/game-soundtracks/publisher/ntdec"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1908408,
+      "filesize_mp3_bytes": 723517,
+      "track_number": 1,
+      "title": "Title Screen, Ending",
+      "runtime": 36,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-gun-nes/oaetgtvgbj/01%20Title%20Screen%2C%20Ending.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-gun-nes/oaetgtvgbj/01%20Title%20Screen%2C%20Ending.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-gun-nes/01%2520Title%2520Screen%252C%2520Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2464153,
+      "filesize_mp3_bytes": 1289748,
+      "track_number": 2,
+      "title": "Stages 1&4",
+      "runtime": 53,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-gun-nes/walrismxwf/02%20Stages%201%264.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-gun-nes/walrismxwf/02%20Stages%201%264.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-gun-nes/02%2520Stages%25201%25264.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1971322,
+      "filesize_mp3_bytes": 912261,
+      "track_number": 3,
+      "title": "Stages 2&5",
+      "runtime": 44,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-gun-nes/shcvwvnrgw/03%20Stages%202%265.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-gun-nes/shcvwvnrgw/03%20Stages%202%265.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-gun-nes/03%2520Stages%25202%25265.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1499463,
+      "filesize_mp3_bytes": 1069547,
+      "track_number": 4,
+      "title": "Stages 3&6",
+      "runtime": 44,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-gun-nes/wnxekkqebc/04%20Stages%203%266.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-gun-nes/wnxekkqebc/04%20Stages%203%266.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-gun-nes/04%2520Stages%25203%25266.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 177,
+    "filesize_mp3_bytes": 3995073,
+    "filesize_flac_bytes": 7843346,
+    "tracks": 4
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "title": "Symphony Ys",
+  "titles_alternative": [
+    "\u4ea4\u97ff\u66f2 \u300c\u30a4\u30fc\u30b9\u300d"
+  ],
+  "crawled_at": "2023-09-24T23:03:36.290519+00:00",
+  "slug": "symphony-ys",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/symphony-ys",
+  "platforms": {
+    "PC-88": "https://downloads.khinsider.com/game-soundtracks/pc-8801"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/symphony-ys/kica-2305%20scan01.jpg"
+  ],
+  "year": 1988,
+  "catalog_number": "K32X-7710",
+  "date_added": "2022-08-29T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "King Records": "https://downloads.khinsider.com/game-soundtracks/publisher/king-records"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 57294192,
+      "filesize_mp3_bytes": 20300431,
+      "track_number": 1,
+      "title": "First Movement ~from Ys~",
+      "runtime": 669,
+      "source_mp3": "https://vgmsite.com/soundtracks/symphony-ys/azqdmnrrga/01.%20First%20Movement%20~from%20Ys~.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/symphony-ys/azqdmnrrga/01.%20First%20Movement%20~from%20Ys~.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/symphony-ys/01.%2520First%2520Movement%2520~from%2520Ys~.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 46126858,
+      "filesize_mp3_bytes": 15781068,
+      "track_number": 2,
+      "title": "Second Movement ~from Ys~",
+      "runtime": 520,
+      "source_mp3": "https://vgmsite.com/soundtracks/symphony-ys/yoxvvhyuvz/02.%20Second%20Movement%20~from%20Ys~.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/symphony-ys/yoxvvhyuvz/02.%20Second%20Movement%20~from%20Ys~.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/symphony-ys/02.%2520Second%2520Movement%2520~from%2520Ys~.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 35085352,
+      "filesize_mp3_bytes": 13411287,
+      "track_number": 3,
+      "title": "Third Movement ~from Ys II~",
+      "runtime": 451,
+      "source_mp3": "https://vgmsite.com/soundtracks/symphony-ys/nrrufipvzx/03.%20Third%20Movement%20~from%20Ys%20II~.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/symphony-ys/nrrufipvzx/03.%20Third%20Movement%20~from%20Ys%20II~.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/symphony-ys/03.%2520Third%2520Movement%2520~from%2520Ys%2520II~.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 65630371,
+      "filesize_mp3_bytes": 21495808,
+      "track_number": 4,
+      "title": "Fourth Movement ~from Ys II~",
+      "runtime": 699,
+      "source_mp3": "https://vgmsite.com/soundtracks/symphony-ys/gxcddvoxmw/04.%20Fourth%20Movement%20~from%20Ys%20II~.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/symphony-ys/gxcddvoxmw/04.%20Fourth%20Movement%20~from%20Ys%20II~.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/symphony-ys/04.%2520Fourth%2520Movement%2520~from%2520Ys%2520II~.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2339,
+    "filesize_mp3_bytes": 70988594,
+    "filesize_flac_bytes": 204136773,
+    "tracks": 4
+  }
+}

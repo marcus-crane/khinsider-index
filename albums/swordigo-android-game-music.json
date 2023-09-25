@@ -1,0 +1,95 @@
+{
+  "title": "Swordigo (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T22:58:38.939205+00:00",
+  "slug": "swordigo-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/swordigo-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/swordigo-android-game-music/1.png"
+  ],
+  "date_added": "2016-06-10T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2055208,
+      "track_number": 1,
+      "title": "hero",
+      "runtime": 147,
+      "source_mp3": "https://vgmsite.com/soundtracks/swordigo-android-game-music/ggxnbehj/01%20hero.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/swordigo-android-game-music/01%2520hero.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1216348,
+      "track_number": 2,
+      "title": "safe zone",
+      "runtime": 87,
+      "source_mp3": "https://vgmsite.com/soundtracks/swordigo-android-game-music/xqghgkfm/02%20safe%20zone.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/swordigo-android-game-music/02%2520safe%2520zone.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4037017,
+      "track_number": 3,
+      "title": "adventuring",
+      "runtime": 288,
+      "source_mp3": "https://vgmsite.com/soundtracks/swordigo-android-game-music/jadabsgp/03%20adventuring.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/swordigo-android-game-music/03%2520adventuring.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3753902,
+      "track_number": 4,
+      "title": "dungeon",
+      "runtime": 268,
+      "source_mp3": "https://vgmsite.com/soundtracks/swordigo-android-game-music/yteiiqfs/04%20dungeon.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/swordigo-android-game-music/04%2520dungeon.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2925527,
+      "track_number": 5,
+      "title": "cave",
+      "runtime": 209,
+      "source_mp3": "https://vgmsite.com/soundtracks/swordigo-android-game-music/lbmysqds/05%20cave.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/swordigo-android-game-music/05%2520cave.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2789212,
+      "track_number": 6,
+      "title": "boss",
+      "runtime": 199,
+      "source_mp3": "https://vgmsite.com/soundtracks/swordigo-android-game-music/ehuhglnh/06%20boss.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/swordigo-android-game-music/06%2520boss.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 7,
+      "title": "game over",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/swordigo-android-game-music/hjxwwwhv/07%20game%20over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/swordigo-android-game-music/07%2520game%2520over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1205,
+    "filesize_mp3_bytes": 16882071,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

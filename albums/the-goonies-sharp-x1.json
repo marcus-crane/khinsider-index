@@ -1,0 +1,89 @@
+{
+  "title": "The Goonies",
+  "titles_alternative": [
+    "\u30b0\u30fc\u30cb\u30fc\u30ba"
+  ],
+  "crawled_at": "2023-09-25T02:13:17.631850+00:00",
+  "slug": "the-goonies-sharp-x1",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/the-goonies-sharp-x1",
+  "platforms": {
+    "Sharp X1": "https://downloads.khinsider.com/game-soundtracks/sharp-x1"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/the-goonies-sharp-x1/The%20Goonies.png"
+  ],
+  "year": 1986,
+  "date_added": "2022-06-18T00:00:00+00:00",
+  "developers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/developer/konami"
+  },
+  "publishers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3460300,
+      "filesize_mp3_bytes": 1300234,
+      "track_number": 1,
+      "title": "The Goonies 'R' Good Enough",
+      "runtime": 68,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-goonies-sharp-x1/kibclzhkvo/01%20The%20Goonies%20%27R%27%20Good%20Enough.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/the-goonies-sharp-x1/kibclzhkvo/01%20The%20Goonies%20%27R%27%20Good%20Enough.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-goonies-sharp-x1/01%2520The%2520Goonies%2520%2527R%2527%2520Good%2520Enough.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2610954,
+      "filesize_mp3_bytes": 996147,
+      "track_number": 2,
+      "title": "Round 2",
+      "runtime": 50,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-goonies-sharp-x1/ifrwhbgiiv/02%20Round%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/the-goonies-sharp-x1/ifrwhbgiiv/02%20Round%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-goonies-sharp-x1/02%2520Round%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3166699,
+      "filesize_mp3_bytes": 1216348,
+      "track_number": 3,
+      "title": "Round 3",
+      "runtime": 61,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-goonies-sharp-x1/urmktatwqr/03%20Round%203.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/the-goonies-sharp-x1/urmktatwqr/03%20Round%203.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-goonies-sharp-x1/03%2520Round%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2380267,
+      "filesize_mp3_bytes": 1059061,
+      "track_number": 4,
+      "title": "Secret Cave",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-goonies-sharp-x1/sursabayeg/04%20Secret%20Cave.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/the-goonies-sharp-x1/sursabayeg/04%20Secret%20Cave.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-goonies-sharp-x1/04%2520Secret%2520Cave.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2852126,
+      "filesize_mp3_bytes": 807403,
+      "track_number": 5,
+      "title": "Ending",
+      "runtime": 49,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-goonies-sharp-x1/rwdrfioobe/05%20Ending.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/the-goonies-sharp-x1/rwdrfioobe/05%20Ending.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-goonies-sharp-x1/05%2520Ending.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 276,
+    "filesize_mp3_bytes": 5379193,
+    "filesize_flac_bytes": 14470346,
+    "tracks": 5
+  }
+}

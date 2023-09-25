@@ -1,0 +1,92 @@
+{
+  "title": "The Adventures of Rad Gravity",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T01:45:43.328149+00:00",
+  "slug": "the-adventures-of-rad-gravity-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/the-adventures-of-rad-gravity-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/the-adventures-of-rad-gravity-nes/The%20Adventures%20of%20Rad%20Gravity%20%28NES%29%20%28gamerip%29%20%281990%29.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2017-01-23T00:00:00+00:00",
+  "developers": {
+    "Interplay": "https://downloads.khinsider.com/game-soundtracks/developer/interplay"
+  },
+  "publishers": {
+    "Activision": "https://downloads.khinsider.com/game-soundtracks/publisher/activision"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1824522,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 54,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-adventures-of-rad-gravity-nes/ldjhknvm/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-adventures-of-rad-gravity-nes/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4833935,
+      "track_number": 2,
+      "title": "Stage Theme 1",
+      "runtime": 138,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-adventures-of-rad-gravity-nes/yzwxcqwm/02_Stage%20Theme%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-adventures-of-rad-gravity-nes/02_Stage%2520Theme%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 3,
+      "title": "Item & Notification",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-adventures-of-rad-gravity-nes/zzpniucb/03_Item%20%26%20Notification.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-adventures-of-rad-gravity-nes/03_Item%2520%2526%2520Notification.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1824522,
+      "track_number": 4,
+      "title": "Stage Theme 2 & Boss Battle",
+      "runtime": 51,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-adventures-of-rad-gravity-nes/bfelwnfw/04_Stage%20Theme%202%20%26%20Boss%20Battle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-adventures-of-rad-gravity-nes/04_Stage%2520Theme%25202%2520%2526%2520Boss%2520Battle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4487905,
+      "track_number": 5,
+      "title": "Ending & Credits",
+      "runtime": 134,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-adventures-of-rad-gravity-nes/zchjddmc/05_Ending%20%26%20Credits.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-adventures-of-rad-gravity-nes/05_Ending%2520%2526%2520Credits.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 6,
+      "title": "Unknown Jingle",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-adventures-of-rad-gravity-nes/bjsncewa/06_Unknown%20Jingle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-adventures-of-rad-gravity-nes/06_Unknown%2520Jingle.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 382,
+    "filesize_mp3_bytes": 13054769,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "title": "Super Hexagon EP",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T21:09:56.126593+00:00",
+  "slug": "super-hexagon",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/super-hexagon",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/super-hexagon/cover.jpg"
+  ],
+  "year": 2012,
+  "catalog_number": null,
+  "date_added": "2020-04-05T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Chipzel (Bandcamp)": "https://downloads.khinsider.com/game-soundtracks/publisher/chipzel-bandcamp"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 17259560,
+      "filesize_mp3_bytes": 4917821,
+      "track_number": 1,
+      "title": "Courtesy",
+      "runtime": 193,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-hexagon/znhsieaagb/01%20Courtesy.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-hexagon/znhsieaagb/01%20Courtesy.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-hexagon/01%2520Courtesy.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 18570280,
+      "filesize_mp3_bytes": 4435476,
+      "track_number": 2,
+      "title": "Otis",
+      "runtime": 156,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-hexagon/ktbbfpdlsp/02%20Otis.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-hexagon/ktbbfpdlsp/02%20Otis.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-hexagon/02%2520Otis.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 21894266,
+      "filesize_mp3_bytes": 5022679,
+      "track_number": 3,
+      "title": "Focus",
+      "runtime": 162,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-hexagon/ahdoqyjvpx/03%20Focus.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-hexagon/ahdoqyjvpx/03%20Focus.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-hexagon/03%2520Focus.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 511,
+    "filesize_mp3_bytes": 14375976,
+    "filesize_flac_bytes": 57724106,
+    "tracks": 3
+  }
+}

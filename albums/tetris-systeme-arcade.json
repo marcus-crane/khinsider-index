@@ -1,0 +1,68 @@
+{
+  "title": "Tetris (SystemE)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T01:40:49.011815+00:00",
+  "slug": "tetris-systeme-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-systeme-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tetris-systeme-arcade/Tetris.png"
+  ],
+  "year": 1988,
+  "date_added": "2022-02-19T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4771020,
+      "filesize_mp3_bytes": 2285895,
+      "title": "Tetris - 01 - Tetremix",
+      "runtime": 132,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-systeme-arcade/qkzqotvufx/Tetris%20-%2001%20-%20Tetremix.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-systeme-arcade/qkzqotvufx/Tetris%20-%2001%20-%20Tetremix.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-systeme-arcade/Tetris%2520-%252001%2520-%2520Tetremix.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2160066,
+      "filesize_mp3_bytes": 985661,
+      "title": "Tetris - 02 - Deadlock",
+      "runtime": 47,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-systeme-arcade/pcbmksqxjk/Tetris%20-%2002%20-%20Deadlock.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-systeme-arcade/pcbmksqxjk/Tetris%20-%2002%20-%20Deadlock.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-systeme-arcade/Tetris%2520-%252002%2520-%2520Deadlock.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 482344,
+      "filesize_mp3_bytes": 146800,
+      "title": "Tetris - 03 - Game Over",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-systeme-arcade/pjodlzudfg/Tetris%20-%2003%20-%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-systeme-arcade/pjodlzudfg/Tetris%20-%2003%20-%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-systeme-arcade/Tetris%2520-%252003%2520-%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1803550,
+      "filesize_mp3_bytes": 650117,
+      "title": "Tetris - 04 - Communistic Invasion",
+      "runtime": 35,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-systeme-arcade/kznjgrayhw/Tetris%20-%2004%20-%20Communistic%20Invasion.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-systeme-arcade/kznjgrayhw/Tetris%20-%2004%20-%20Communistic%20Invasion.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-systeme-arcade/Tetris%2520-%252004%2520-%2520Communistic%2520Invasion.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 223,
+    "filesize_mp3_bytes": 4068473,
+    "filesize_flac_bytes": 9216980,
+    "tracks": 4
+  }
+}

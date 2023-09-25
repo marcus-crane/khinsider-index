@@ -1,0 +1,46 @@
+{
+  "title": "Super Level Up!",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T21:12:36.428734+00:00",
+  "slug": "super-level-up-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/super-level-up-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/super-level-up-android/1.jpg"
+  ],
+  "year": 2010,
+  "date_added": "2017-07-22T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1667235,
+      "title": "BGM",
+      "runtime": 102,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-level-up-android/joemssup/BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-level-up-android/BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1530920,
+      "title": "BGM_Fever",
+      "runtime": 94,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-level-up-android/vidzgjfk/BGM_Fever.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-level-up-android/BGM_Fever.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 196,
+    "filesize_mp3_bytes": 3198155,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

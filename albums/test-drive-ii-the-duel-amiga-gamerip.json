@@ -1,0 +1,41 @@
+{
+  "title": "Test Drive II The Duel",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T01:33:20.613512+00:00",
+  "slug": "test-drive-ii-the-duel-amiga-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/test-drive-ii-the-duel-amiga-gamerip",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/test-drive-ii-the-duel-amiga-gamerip/test_drive_-_the_duel_01.png"
+  ],
+  "year": 1989,
+  "date_added": "2020-07-05T00:00:00+00:00",
+  "developers": {
+    "Distinctive Software Inc.": "https://downloads.khinsider.com/game-soundtracks/developer/distinctive-software"
+  },
+  "publishers": {
+    "Accolade": "https://downloads.khinsider.com/game-soundtracks/publisher/accolade"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2181038,
+      "title": "Main Theme",
+      "runtime": 71,
+      "source_mp3": "https://vgmsite.com/soundtracks/test-drive-ii-the-duel-amiga-gamerip/pzfcbcyomz/Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/test-drive-ii-the-duel-amiga-gamerip/Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 71,
+    "filesize_mp3_bytes": 2181038,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

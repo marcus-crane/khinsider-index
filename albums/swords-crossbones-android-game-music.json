@@ -1,0 +1,55 @@
+{
+  "title": "Swords & Crossbones (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T22:59:08.929144+00:00",
+  "slug": "swords-crossbones-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/swords-crossbones-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/swords-crossbones-android-game-music/1.jpg"
+  ],
+  "date_added": "2016-06-25T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2401239,
+      "track_number": 1,
+      "title": "Main",
+      "runtime": 109,
+      "source_mp3": "https://vgmsite.com/soundtracks/swords-crossbones-android-game-music/qusxcrxb/1%20Main.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/swords-crossbones-android-game-music/1%2520Main.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3502243,
+      "track_number": 2,
+      "title": "Village Reggae",
+      "runtime": 148,
+      "source_mp3": "https://vgmsite.com/soundtracks/swords-crossbones-android-game-music/iacyaitd/2%20Village%20Reggae.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/swords-crossbones-android-game-music/2%2520Village%2520Reggae.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2401239,
+      "track_number": 3,
+      "title": "Battle",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/swords-crossbones-android-game-music/cxprnvwo/3%20Battle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/swords-crossbones-android-game-music/3%2520Battle.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 353,
+    "filesize_mp3_bytes": 8304721,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

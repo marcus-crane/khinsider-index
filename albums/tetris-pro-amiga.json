@@ -1,0 +1,70 @@
+{
+  "title": "Tetris Pro",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T01:40:33.131983+00:00",
+  "slug": "tetris-pro-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-pro-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tetris-pro-amiga/tetris_pro_01.png"
+  ],
+  "year": 1993,
+  "date_added": "2019-04-01T00:00:00+00:00",
+  "developers": {
+    "Logic System": "https://downloads.khinsider.com/game-soundtracks/developer/logic-system"
+  },
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2422210,
+      "track_number": 1,
+      "title": "Multi-Tune Dungeon (Intro)",
+      "runtime": 79,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-pro-amiga/texvfjqb/01_Multi-Tune%20Dungeon%20%28Intro%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-pro-amiga/01_Multi-Tune%2520Dungeon%2520%2528Intro%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6794772,
+      "track_number": 2,
+      "title": "Silent Force (Main Menu)",
+      "runtime": 243,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-pro-amiga/razjthdi/02_Silent%20Force%20%28Main%20Menu%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-pro-amiga/02_Silent%2520Force%2520%2528Main%2520Menu%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6994001,
+      "track_number": 3,
+      "title": "Digital E-Motions (BGM)",
+      "runtime": 264,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-pro-amiga/lphyssxh/03_Digital%20E-Motions%20%28BGM%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-pro-amiga/03_Digital%2520E-Motions%2520%2528BGM%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6333399,
+      "track_number": 4,
+      "title": "Progressions (Name Entry)",
+      "runtime": 219,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-pro-amiga/neakgnjd/04_Progressions%20%28Name%20Entry%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-pro-amiga/04_Progressions%2520%2528Name%2520Entry%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 805,
+    "filesize_mp3_bytes": 22544382,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "title": "Syndicate",
+  "titles_alternative": [
+    "\u30b7\u30f3\u30b8\u30b1\u30fc\u30c8"
+  ],
+  "crawled_at": "2023-09-24T23:03:41.539758+00:00",
+  "slug": "syndicate-1995-snes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/syndicate-1995-snes",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/syndicate-1995-snes/SD.png"
+  ],
+  "year": 1995,
+  "date_added": "2019-08-27T00:00:00+00:00",
+  "developers": {
+    "Bullfrog": "https://downloads.khinsider.com/game-soundtracks/developer/bullfrog"
+  },
+  "publishers": {
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/publisher/ocean"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2841640,
+      "filesize_mp3_bytes": 1887436,
+      "track_number": 1,
+      "title": "Opening ~ Dangerous Future",
+      "runtime": 70,
+      "source_mp3": "https://vgmsite.com/soundtracks/syndicate-1995-snes/kufzktkmyu/01%20Opening%20~%20Dangerous%20Future.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/syndicate-1995-snes/kufzktkmyu/01%20Opening%20~%20Dangerous%20Future.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/syndicate-1995-snes/01%2520Opening%2520~%2520Dangerous%2520Future.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5284823,
+      "filesize_mp3_bytes": 4320133,
+      "track_number": 2,
+      "title": "Theme of the Syndicate",
+      "runtime": 186,
+      "source_mp3": "https://vgmsite.com/soundtracks/syndicate-1995-snes/tslbjbbnjn/02%20Theme%20of%20the%20Syndicate.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/syndicate-1995-snes/tslbjbbnjn/02%20Theme%20of%20the%20Syndicate.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/syndicate-1995-snes/02%2520Theme%2520of%2520the%2520Syndicate.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2285895,
+      "filesize_mp3_bytes": 1855979,
+      "track_number": 3,
+      "title": "Enemy Agents",
+      "runtime": 65,
+      "source_mp3": "https://vgmsite.com/soundtracks/syndicate-1995-snes/pqiymmhzpe/03%20Enemy%20Agents.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/syndicate-1995-snes/pqiymmhzpe/03%20Enemy%20Agents.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/syndicate-1995-snes/03%2520Enemy%2520Agents.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 188743,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 4,
+      "title": "Mission Complete",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/syndicate-1995-snes/mubytmkaol/04%20Mission%20Complete.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/syndicate-1995-snes/mubytmkaol/04%20Mission%20Complete.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/syndicate-1995-snes/04%2520Mission%2520Complete.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 167772,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 5,
+      "title": "Mission Failure",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/syndicate-1995-snes/hlyiahxtjg/05%20Mission%20Failure.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/syndicate-1995-snes/hlyiahxtjg/05%20Mission%20Failure.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/syndicate-1995-snes/05%2520Mission%2520Failure.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 334,
+    "filesize_mp3_bytes": 8325691,
+    "filesize_flac_bytes": 10768873,
+    "tracks": 5
+  }
+}

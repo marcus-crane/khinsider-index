@@ -1,0 +1,82 @@
+{
+  "title": "Tag Team Wrestling",
+  "titles_alternative": [
+    "Tag Team Pro-Wrestling",
+    "\u30bf\u30c3\u30b0\u30c1\u30fc\u30e0 \u30d7\u30ed\u30ec\u30b9\u30ea\u30f3\u30b0"
+  ],
+  "crawled_at": "2023-09-24T23:14:19.657267+00:00",
+  "slug": "tag-team-wrestling-1986-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tag-team-wrestling-1986-nes",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tag-team-wrestling-1986-nes/T1.png"
+  ],
+  "year": 1986,
+  "date_added": "2022-06-20T00:00:00+00:00",
+  "developers": {
+    "Sakata SAS": "https://downloads.khinsider.com/game-soundtracks/developer/sakata-sas",
+    "Technos Japan": "https://downloads.khinsider.com/game-soundtracks/developer/technos-japan"
+  },
+  "publishers": {
+    "Data East": "https://downloads.khinsider.com/game-soundtracks/publisher/data-east",
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/publisher/namco"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7864320,
+      "filesize_mp3_bytes": 4980736,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/tag-team-wrestling-1986-nes/pcbetaoyzc/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tag-team-wrestling-1986-nes/pcbetaoyzc/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tag-team-wrestling-1986-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 429916,
+      "filesize_mp3_bytes": 167772,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/tag-team-wrestling-1986-nes/tclaeeibga/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tag-team-wrestling-1986-nes/tclaeeibga/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tag-team-wrestling-1986-nes/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 272629,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/tag-team-wrestling-1986-nes/rnedzenkub/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tag-team-wrestling-1986-nes/rnedzenkub/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tag-team-wrestling-1986-nes/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 272629,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/tag-team-wrestling-1986-nes/devdefbujl/04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tag-team-wrestling-1986-nes/devdefbujl/04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tag-team-wrestling-1986-nes/04.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 201,
+    "filesize_mp3_bytes": 5337250,
+    "filesize_flac_bytes": 8839494,
+    "tracks": 4
+  }
+}

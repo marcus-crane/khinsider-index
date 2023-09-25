@@ -1,0 +1,58 @@
+{
+  "title": "Swarog",
+  "titles_alternative": [
+    "\u0421\u0432\u0430\u0440\u043e\u0433"
+  ],
+  "crawled_at": "2023-09-24T22:51:54.761604+00:00",
+  "slug": "swarog-windows-gamerip-1999",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/swarog-windows-gamerip-1999",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/swarog-windows-gamerip-1999/Image.png"
+  ],
+  "year": 1999,
+  "date_added": "2023-07-11T00:00:00+00:00",
+  "developers": {
+    "Alawar": "https://downloads.khinsider.com/game-soundtracks/developer/alawar"
+  },
+  "publishers": {
+    "Crystal Interactive": "https://downloads.khinsider.com/game-soundtracks/publisher/crystal-interactive",
+    "Phoenix Games": "https://downloads.khinsider.com/game-soundtracks/publisher/phoenix-games",
+    "Yavsoft": "https://downloads.khinsider.com/game-soundtracks/publisher/yavsoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 21611151,
+      "filesize_mp3_bytes": 6784286,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 256,
+      "source_mp3": "https://vgmsite.com/soundtracks/swarog-windows-gamerip-1999/mbwecnzkbg/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/swarog-windows-gamerip-1999/mbwecnzkbg/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/swarog-windows-gamerip-1999/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 119212605,
+      "filesize_mp3_bytes": 41597009,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 1568,
+      "source_mp3": "https://vgmsite.com/soundtracks/swarog-windows-gamerip-1999/panovwohyh/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/swarog-windows-gamerip-1999/panovwohyh/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/swarog-windows-gamerip-1999/02.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1824,
+    "filesize_mp3_bytes": 48381295,
+    "filesize_flac_bytes": 140823756,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "title": "The Cure",
+  "titles_alternative": [
+    "Arknights"
+  ],
+  "crawled_at": "2023-09-25T02:01:06.889381+00:00",
+  "slug": "the-cure-2023",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/the-cure-2023",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios",
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/the-cure-2023/01.png"
+  ],
+  "year": 2023,
+  "date_added": "2023-05-22T00:00:00+00:00",
+  "developers": {
+    "HyperGryph": "https://downloads.khinsider.com/game-soundtracks/developer/hypergryph",
+    "Monster Siren Records": "https://downloads.khinsider.com/game-soundtracks/developer/monster-siren-records"
+  },
+  "publishers": {},
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 40758149,
+      "filesize_mp3_bytes": 6438256,
+      "title": "\u585e\u58ec\u5531\u7247-MSR,Obadiah Brown-Beach - The cure (Instrumental)",
+      "runtime": 196,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-cure-2023/iryxszkfxn/%E5%A1%9E%E5%A3%AC%E5%94%B1%E7%89%87-MSR%2CObadiah%20Brown-Beach%20-%20The%20cure%20%28Instrumental%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/the-cure-2023/iryxszkfxn/%E5%A1%9E%E5%A3%AC%E5%94%B1%E7%89%87-MSR%2CObadiah%20Brown-Beach%20-%20The%20cure%20%28Instrumental%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-cure-2023/%25E5%25A1%259E%25E5%25A3%25AC%25E5%2594%25B1%25E7%2589%2587-MSR%252CObadiah%2520Brown-Beach%2520-%2520The%2520cure%2520%2528Instrumental%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 42184212,
+      "filesize_mp3_bytes": 6553600,
+      "title": "\u585e\u58ec\u5531\u7247-MSR,Obadiah Brown-Beach,Denney - The cure",
+      "runtime": 196,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-cure-2023/ixjoradmlj/%E5%A1%9E%E5%A3%AC%E5%94%B1%E7%89%87-MSR%2CObadiah%20Brown-Beach%2CDenney%20-%20The%20cure.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/the-cure-2023/ixjoradmlj/%E5%A1%9E%E5%A3%AC%E5%94%B1%E7%89%87-MSR%2CObadiah%20Brown-Beach%2CDenney%20-%20The%20cure.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-cure-2023/%25E5%25A1%259E%25E5%25A3%25AC%25E5%2594%25B1%25E7%2589%2587-MSR%252CObadiah%2520Brown-Beach%252CDenney%2520-%2520The%2520cure.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 392,
+    "filesize_mp3_bytes": 12991856,
+    "filesize_flac_bytes": 82942361,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "title": "The Legend of Kage",
+  "titles_alternative": [
+    "\u5f71\u306e\u4f1d\u8aac"
+  ],
+  "crawled_at": "2023-09-25T02:40:23.320340+00:00",
+  "slug": "the-legend-of-kage-sharp-x1",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/the-legend-of-kage-sharp-x1",
+  "platforms": {
+    "Sharp X1": "https://downloads.khinsider.com/game-soundtracks/sharp-x1"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/the-legend-of-kage-sharp-x1/The%20Legend%20of%20Kage.png"
+  ],
+  "year": 1986,
+  "date_added": "2022-05-16T00:00:00+00:00",
+  "developers": {
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/developer/taito"
+  },
+  "publishers": {
+    "Nidecom Soft": "https://downloads.khinsider.com/game-soundtracks/publisher/nidecom-soft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7046430,
+      "filesize_mp3_bytes": 2464153,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 127,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-legend-of-kage-sharp-x1/jgdbwgpzma/01%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/the-legend-of-kage-sharp-x1/jgdbwgpzma/01%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-legend-of-kage-sharp-x1/01%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 62914,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 2,
+      "title": "Miss",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-legend-of-kage-sharp-x1/krmzreaopj/02%20Miss.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/the-legend-of-kage-sharp-x1/krmzreaopj/02%20Miss.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-legend-of-kage-sharp-x1/02%2520Miss.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2946498,
+      "filesize_mp3_bytes": 954204,
+      "track_number": 3,
+      "title": "Stage Clear",
+      "runtime": 52,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-legend-of-kage-sharp-x1/hmpwrecboo/03%20Stage%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/the-legend-of-kage-sharp-x1/hmpwrecboo/03%20Stage%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-legend-of-kage-sharp-x1/03%2520Stage%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3093299,
+      "filesize_mp3_bytes": 1006632,
+      "track_number": 4,
+      "title": "Theme of Princess",
+      "runtime": 56,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-legend-of-kage-sharp-x1/cwbxwsadur/04%20Theme%20of%20Princess.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/the-legend-of-kage-sharp-x1/cwbxwsadur/04%20Theme%20of%20Princess.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-legend-of-kage-sharp-x1/04%2520Theme%2520of%2520Princess.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 237,
+    "filesize_mp3_bytes": 4456446,
+    "filesize_flac_bytes": 13149141,
+    "tracks": 4
+  }
+}

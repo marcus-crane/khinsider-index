@@ -1,0 +1,43 @@
+{
+  "title": "Super Laura in Wonderland (Android Game Music)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T21:11:45.058178+00:00",
+  "slug": "super-laura-in-wonderland-android-game-music",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/super-laura-in-wonderland-android-game-music",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/super-laura-in-wonderland-android-game-music/1.png"
+  ],
+  "date_added": "2016-10-27T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 786432,
+      "title": "game",
+      "runtime": 98,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-laura-in-wonderland-android-game-music/umwyhtwy/game.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-laura-in-wonderland-android-game-music/game.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 555745,
+      "title": "menu",
+      "runtime": 70,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-laura-in-wonderland-android-game-music/heavheta/menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-laura-in-wonderland-android-game-music/menu.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 168,
+    "filesize_mp3_bytes": 1342177,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Tales of Dream Project - Endless Journey",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T23:57:50.067237+00:00",
+  "slug": "tales-of-dream-project-endless-journey",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tales-of-dream-project-endless-journey",
+  "platforms": {
+    "GC": "https://downloads.khinsider.com/game-soundtracks/nintendo-gamecube",
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation",
+    "PS2": "https://downloads.khinsider.com/game-soundtracks/playstation-2",
+    "PS3": "https://downloads.khinsider.com/game-soundtracks/playstation-3",
+    "Xbox 360": "https://downloads.khinsider.com/game-soundtracks/xbox-360"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tales-of-dream-project-endless-journey/Cover.jpg"
+  ],
+  "year": 2020,
+  "date_added": "2021-07-15T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Bandai Namco Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/bandai-namco-entertainment"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9510584,
+      "track_number": 1,
+      "title": "Endless Journey",
+      "runtime": 234,
+      "source_mp3": "https://vgmsite.com/soundtracks/tales-of-dream-project-endless-journey/jgubjdggjw/01.%20Endless%20Journey.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tales-of-dream-project-endless-journey/01.%2520Endless%2520Journey.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 234,
+    "filesize_mp3_bytes": 9510584,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

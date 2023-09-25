@@ -1,0 +1,78 @@
+{
+  "title": "Tetris (Taito H System)",
+  "titles_alternative": [
+    "\u30c6\u30c8\u30ea\u30b9"
+  ],
+  "crawled_at": "2023-09-25T01:40:50.547844+00:00",
+  "slug": "tetris-taito-h-system-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-taito-h-system-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tetris-taito-h-system-arcade/Tetris.png"
+  ],
+  "year": 1988,
+  "date_added": "2022-06-13T00:00:00+00:00",
+  "developers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4959764,
+      "filesize_mp3_bytes": 2464153,
+      "track_number": 1,
+      "title": "Tetremix",
+      "runtime": 122,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-taito-h-system-arcade/jchnhrrdgt/01%20Tetremix.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-taito-h-system-arcade/jchnhrrdgt/01%20Tetremix.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-taito-h-system-arcade/01%2520Tetremix.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1908408,
+      "filesize_mp3_bytes": 838860,
+      "track_number": 2,
+      "title": "Deadlock",
+      "runtime": 39,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-taito-h-system-arcade/gphgfxacmz/02%20Deadlock.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-taito-h-system-arcade/gphgfxacmz/02%20Deadlock.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-taito-h-system-arcade/02%2520Deadlock.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 408944,
+      "filesize_mp3_bytes": 178257,
+      "track_number": 3,
+      "title": "Game Over",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-taito-h-system-arcade/iruhhkhifb/03%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-taito-h-system-arcade/iruhhkhifb/03%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-taito-h-system-arcade/03%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1363148,
+      "filesize_mp3_bytes": 734003,
+      "track_number": 4,
+      "title": "Name Entry",
+      "runtime": 41,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-taito-h-system-arcade/ofqfmwxmfm/04%20Name%20Entry.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-taito-h-system-arcade/ofqfmwxmfm/04%20Name%20Entry.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-taito-h-system-arcade/04%2520Name%2520Entry.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 211,
+    "filesize_mp3_bytes": 4215273,
+    "filesize_flac_bytes": 8640264,
+    "tracks": 4
+  }
+}

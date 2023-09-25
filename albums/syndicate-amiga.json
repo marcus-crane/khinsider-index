@@ -1,0 +1,43 @@
+{
+  "title": "Syndicate",
+  "titles_alternative": [
+    "\u30b7\u30f3\u30b8\u30b1\u30fc\u30c8"
+  ],
+  "crawled_at": "2023-09-24T23:03:43.383999+00:00",
+  "slug": "syndicate-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/syndicate-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/syndicate-amiga/Syndicate.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2020-06-06T00:00:00+00:00",
+  "developers": {
+    "Bullfrog": "https://downloads.khinsider.com/game-soundtracks/developer/bullfrog"
+  },
+  "publishers": {
+    "EA": "https://downloads.khinsider.com/game-soundtracks/publisher/ea"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1300234,
+      "title": "Introduction",
+      "runtime": 61,
+      "source_mp3": "https://vgmsite.com/soundtracks/syndicate-amiga/ymxltkdans/Introduction.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/syndicate-amiga/Introduction.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 61,
+    "filesize_mp3_bytes": 1300234,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

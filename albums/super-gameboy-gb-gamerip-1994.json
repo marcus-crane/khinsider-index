@@ -1,0 +1,54 @@
+{
+  "title": "Super Gameboy",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T21:07:23.462925+00:00",
+  "slug": "super-gameboy-gb-gamerip-1994",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/super-gameboy-gb-gamerip-1994",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/super-gameboy-gb-gamerip-1994/s-l640.jpg"
+  ],
+  "year": 1994,
+  "date_added": "2023-05-02T00:00:00+00:00",
+  "developers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/developer/nintendo"
+  },
+  "publishers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 15005122,
+      "filesize_mp3_bytes": 4246732,
+      "track_number": 1,
+      "title": "Credits Roll",
+      "runtime": 106,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-gameboy-gb-gamerip-1994/mgjdkqoymv/01%20Credits%20Roll.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-gameboy-gb-gamerip-1994/mgjdkqoymv/01%20Credits%20Roll.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-gameboy-gb-gamerip-1994/01%2520Credits%2520Roll.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 377487,
+      "filesize_mp3_bytes": 220200,
+      "track_number": 2,
+      "title": "Cart Present",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-gameboy-gb-gamerip-1994/vatmewakfq/02%20Cart%20Present.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-gameboy-gb-gamerip-1994/vatmewakfq/02%20Cart%20Present.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-gameboy-gb-gamerip-1994/02%2520Cart%2520Present.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 111,
+    "filesize_mp3_bytes": 4466932,
+    "filesize_flac_bytes": 15382609,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Terasurware - 4 Happy Hom! ~ Search Renkin Adventure",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T01:26:02.524721+00:00",
+  "slug": "terasurware-4-happy-hom-search-renkin-adventure-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/terasurware-4-happy-hom-search-renkin-adventure-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/terasurware-4-happy-hom-search-renkin-adventure-android/1.png"
+  ],
+  "date_added": "2016-10-26T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 524288,
+      "title": "bgm_adv",
+      "runtime": 33,
+      "source_mp3": "https://vgmsite.com/soundtracks/terasurware-4-happy-hom-search-renkin-adventure-android/iurrlhtb/bgm_adv.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/terasurware-4-happy-hom-search-renkin-adventure-android/bgm_adv.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 440401,
+      "title": "bgm_main",
+      "runtime": 28,
+      "source_mp3": "https://vgmsite.com/soundtracks/terasurware-4-happy-hom-search-renkin-adventure-android/ygpqisha/bgm_main.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/terasurware-4-happy-hom-search-renkin-adventure-android/bgm_main.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 61,
+    "filesize_mp3_bytes": 964689,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

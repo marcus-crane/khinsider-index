@@ -1,0 +1,58 @@
+{
+  "title": "Tetris (MSX1)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T01:39:10.272842+00:00",
+  "slug": "tetris-msx1",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-msx1",
+  "platforms": {
+    "MSX": "https://downloads.khinsider.com/game-soundtracks/msx"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tetris-msx1/Album%20Image.jpg"
+  ],
+  "year": 1987,
+  "date_added": "2020-07-18T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5190451,
+      "track_number": 1,
+      "title": "In-game Theme (MSX)",
+      "runtime": 286,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-msx1/ferucvkiby/01%20In-game%20Theme%20%28MSX%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-msx1/01%2520In-game%2520Theme%2520%2528MSX%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 681574,
+      "track_number": 2,
+      "title": "Game Over (MSX)",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-msx1/dyibleixxl/02%20Game%20Over%20%28MSX%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-msx1/02%2520Game%2520Over%2520%2528MSX%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1258291,
+      "track_number": 3,
+      "title": "High Scores (MSX)",
+      "runtime": 40,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-msx1/tdjinyazdk/03%20High%20Scores%20%28MSX%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-msx1/03%2520High%2520Scores%2520%2528MSX%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 330,
+    "filesize_mp3_bytes": 7130316,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "title": "TFX",
+  "titles_alternative": [
+    "Tactical Fighter eXperiment"
+  ],
+  "crawled_at": "2023-09-25T01:43:09.695101+00:00",
+  "slug": "tfx-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tfx-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tfx-amiga/TFX.png"
+  ],
+  "year": 1997,
+  "date_added": "2015-10-13T00:00:00+00:00",
+  "developers": {
+    "Digital Image Design": "https://downloads.khinsider.com/game-soundtracks/developer/digital-image-design"
+  },
+  "publishers": {
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/publisher/ocean"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8315207,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 286,
+      "source_mp3": "https://vgmsite.com/soundtracks/tfx-amiga/nwmrdanj/01_Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tfx-amiga/01_Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2956984,
+      "track_number": 2,
+      "title": "Loader 1",
+      "runtime": 104,
+      "source_mp3": "https://vgmsite.com/soundtracks/tfx-amiga/mhgltrpi/02_Loader%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tfx-amiga/02_Loader%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3711959,
+      "track_number": 3,
+      "title": "Loader 2",
+      "runtime": 127,
+      "source_mp3": "https://vgmsite.com/soundtracks/tfx-amiga/lbhuadaf/03_Loader%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tfx-amiga/03_Loader%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2998927,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 97,
+      "source_mp3": "https://vgmsite.com/soundtracks/tfx-amiga/uyyfnafv/04_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tfx-amiga/04_Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 614,
+    "filesize_mp3_bytes": 17983077,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

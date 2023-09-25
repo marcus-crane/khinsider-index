@@ -1,0 +1,84 @@
+{
+  "title": "Syndicate",
+  "titles_alternative": [
+    "\u30b7\u30f3\u30b8\u30b1\u30fc\u30c8"
+  ],
+  "crawled_at": "2023-09-24T23:03:44.202473+00:00",
+  "slug": "syndicate-atari-jaguar",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/syndicate-atari-jaguar",
+  "platforms": {
+    "Atari Jaguar": "https://downloads.khinsider.com/game-soundtracks/atari-jaguar"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/syndicate-atari-jaguar/Syndicate%20Atari%20Jaguar%20cover.jpg"
+  ],
+  "year": 1995,
+  "date_added": "2020-08-22T00:00:00+00:00",
+  "developers": {
+    "Bullfrog": "https://downloads.khinsider.com/game-soundtracks/developer/bullfrog"
+  },
+  "publishers": {
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/publisher/ocean"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7245660,
+      "track_number": 1,
+      "title": "Intro Theme",
+      "runtime": 181,
+      "source_mp3": "https://vgmsite.com/soundtracks/syndicate-atari-jaguar/rkkdaxcbga/1.%20Intro%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/syndicate-atari-jaguar/1.%2520Intro%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5242880,
+      "track_number": 2,
+      "title": "Patrolling",
+      "runtime": 131,
+      "source_mp3": "https://vgmsite.com/soundtracks/syndicate-atari-jaguar/dxdbrmtdxu/2.%20Patrolling.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/syndicate-atari-jaguar/2.%2520Patrolling.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2443182,
+      "track_number": 3,
+      "title": "Combat",
+      "runtime": 61,
+      "source_mp3": "https://vgmsite.com/soundtracks/syndicate-atari-jaguar/kszqvlhrhd/3.%20Combat.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/syndicate-atari-jaguar/3.%2520Combat.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 367001,
+      "track_number": 4,
+      "title": "State Conquered",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/syndicate-atari-jaguar/yclsnvizri/4.%20State%20Conquered.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/syndicate-atari-jaguar/4.%2520State%2520Conquered.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 408944,
+      "track_number": 5,
+      "title": "Mission Failed",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/syndicate-atari-jaguar/jcgmqhjonw/5.%20Mission%20Failed.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/syndicate-atari-jaguar/5.%2520Mission%2520Failed.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 392,
+    "filesize_mp3_bytes": 15707667,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

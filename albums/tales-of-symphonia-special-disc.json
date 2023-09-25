@@ -1,0 +1,71 @@
+{
+  "title": "Tales of Symphonia Special Disc",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T00:13:01.400983+00:00",
+  "slug": "tales-of-symphonia-special-disc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tales-of-symphonia-special-disc",
+  "platforms": {
+    "GC": "https://downloads.khinsider.com/game-soundtracks/nintendo-gamecube"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tales-of-symphonia-special-disc/Tales%20Of%20Symphonia%20Special%20Disc.jpg"
+  ],
+  "year": 2003,
+  "catalog_number": "TOS-SP001",
+  "date_added": "2006-11-25T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Namco": "https://downloads.khinsider.com/game-soundtracks/publisher/namco"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 943718,
+      "track_number": 1,
+      "title": "tales of symphonia",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/tales-of-symphonia-special-disc/bvyuqkad/01%20tales%20of%20symphonia.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tales-of-symphonia-special-disc/01%2520tales%2520of%2520symphonia.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1080033,
+      "track_number": 2,
+      "title": "trip on the ship",
+      "runtime": 55,
+      "source_mp3": "https://vgmsite.com/soundtracks/tales-of-symphonia-special-disc/whlckluk/02%20trip%20on%20the%20ship.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tales-of-symphonia-special-disc/02%2520trip%2520on%2520the%2520ship.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2149580,
+      "track_number": 3,
+      "title": "water symphony ~despair~",
+      "runtime": 95,
+      "source_mp3": "https://vgmsite.com/soundtracks/tales-of-symphonia-special-disc/hfeusacy/03%20water%20symphony%20~despair~.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tales-of-symphonia-special-disc/03%2520water%2520symphony%2520~despair~.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2967470,
+      "track_number": 4,
+      "title": "a snow light",
+      "runtime": 128,
+      "source_mp3": "https://vgmsite.com/soundtracks/tales-of-symphonia-special-disc/dcorbccx/04%20a%20snow%20light.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tales-of-symphonia-special-disc/04%2520a%2520snow%2520light.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 326,
+    "filesize_mp3_bytes": 7140801,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

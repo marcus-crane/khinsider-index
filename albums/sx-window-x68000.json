@@ -1,0 +1,39 @@
+{
+  "title": "SX-Window",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T22:59:20.416156+00:00",
+  "slug": "sx-window-x68000",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/sx-window-x68000",
+  "platforms": {
+    "X68000": "https://downloads.khinsider.com/game-soundtracks/x68000"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/sx-window-x68000/SX-Window.png"
+  ],
+  "year": 1990,
+  "date_added": "2022-06-13T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2747269,
+      "filesize_mp3_bytes": 1121976,
+      "track_number": 1,
+      "title": "Unknown",
+      "runtime": 38,
+      "source_mp3": "https://vgmsite.com/soundtracks/sx-window-x68000/rubiyguxji/01%20Unknown.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/sx-window-x68000/rubiyguxji/01%20Unknown.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sx-window-x68000/01%2520Unknown.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 38,
+    "filesize_mp3_bytes": 1121976,
+    "filesize_flac_bytes": 2747269,
+    "tracks": 1
+  }
+}

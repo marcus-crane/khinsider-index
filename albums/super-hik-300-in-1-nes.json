@@ -1,0 +1,38 @@
+{
+  "title": "Super HIK 300 in 1",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T21:10:05.623416+00:00",
+  "slug": "super-hik-300-in-1-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/super-hik-300-in-1-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/super-hik-300-in-1-nes/Super%20HIK%20300%20in%201.png"
+  ],
+  "date_added": "2022-06-13T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9227468,
+      "filesize_mp3_bytes": 3344957,
+      "track_number": 1,
+      "title": "Menu",
+      "runtime": 163,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-hik-300-in-1-nes/ydmkytzlke/01%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-hik-300-in-1-nes/ydmkytzlke/01%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-hik-300-in-1-nes/01%2520Menu.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 163,
+    "filesize_mp3_bytes": 3344957,
+    "filesize_flac_bytes": 9227468,
+    "tracks": 1
+  }
+}

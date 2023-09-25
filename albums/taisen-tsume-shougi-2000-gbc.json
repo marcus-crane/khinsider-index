@@ -1,0 +1,67 @@
+{
+  "title": "Taisen Tsume Shougi (GBC)",
+  "titles_alternative": [
+    "\u5bfe\u6226 \u8a70\u5c06\u68cb"
+  ],
+  "crawled_at": "2023-09-24T23:41:58.439854+00:00",
+  "slug": "taisen-tsume-shougi-2000-gbc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/taisen-tsume-shougi-2000-gbc",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/taisen-tsume-shougi-2000-gbc/Taisen%20Tsume%20Shougi.png"
+  ],
+  "year": 2000,
+  "date_added": "2022-06-20T00:00:00+00:00",
+  "developers": {
+    "Log": "https://downloads.khinsider.com/game-soundtracks/developer/log"
+  },
+  "publishers": {
+    "Athena": "https://downloads.khinsider.com/game-soundtracks/publisher/athena"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 18779996,
+      "filesize_mp3_bytes": 5840568,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/taisen-tsume-shougi-2000-gbc/psraxusjoj/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/taisen-tsume-shougi-2000-gbc/psraxusjoj/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/taisen-tsume-shougi-2000-gbc/01%2520BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 15833497,
+      "filesize_mp3_bytes": 6081740,
+      "track_number": 2,
+      "title": "BGM #02",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/taisen-tsume-shougi-2000-gbc/owldvjwrhs/02%20BGM%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/taisen-tsume-shougi-2000-gbc/owldvjwrhs/02%20BGM%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/taisen-tsume-shougi-2000-gbc/02%2520BGM%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 283115,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 3,
+      "title": "Jingle #01",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/taisen-tsume-shougi-2000-gbc/azmlpvvcfi/03%20Jingle%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/taisen-tsume-shougi-2000-gbc/azmlpvvcfi/03%20Jingle%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/taisen-tsume-shougi-2000-gbc/03%2520Jingle%2520%252301.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 364,
+    "filesize_mp3_bytes": 12016679,
+    "filesize_flac_bytes": 34896608,
+    "tracks": 3
+  }
+}

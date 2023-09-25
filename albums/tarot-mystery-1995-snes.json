@@ -1,0 +1,89 @@
+{
+  "title": "Tarot Mystery",
+  "titles_alternative": [
+    "\u30bf\u30ed\u30c3\u30c8\u30df\u30b9\u30c6\u30ea\u30fc"
+  ],
+  "crawled_at": "2023-09-25T00:34:00.592554+00:00",
+  "slug": "tarot-mystery-1995-snes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tarot-mystery-1995-snes",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tarot-mystery-1995-snes/Tarot%20Mystery.jpg"
+  ],
+  "year": 1995,
+  "date_added": "2019-08-28T00:00:00+00:00",
+  "developers": {
+    "Ukiyotei": "https://downloads.khinsider.com/game-soundtracks/developer/ukiyotei"
+  },
+  "publishers": {
+    "Visit": "https://downloads.khinsider.com/game-soundtracks/publisher/visit"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3617587,
+      "filesize_mp3_bytes": 1373634,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 45,
+      "source_mp3": "https://vgmsite.com/soundtracks/tarot-mystery-1995-snes/clxowsbetq/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tarot-mystery-1995-snes/clxowsbetq/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tarot-mystery-1995-snes/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10674503,
+      "filesize_mp3_bytes": 4404019,
+      "track_number": 2,
+      "title": "What is your birthday",
+      "runtime": 151,
+      "source_mp3": "https://vgmsite.com/soundtracks/tarot-mystery-1995-snes/yqcytdsfle/02%20What%20is%20your%20birthday.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tarot-mystery-1995-snes/yqcytdsfle/02%20What%20is%20your%20birthday.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tarot-mystery-1995-snes/02%2520What%2520is%2520your%2520birthday.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2789212,
+      "filesize_mp3_bytes": 1184890,
+      "track_number": 3,
+      "title": "Your Horoscope Results",
+      "runtime": 38,
+      "source_mp3": "https://vgmsite.com/soundtracks/tarot-mystery-1995-snes/tpnoxifwja/03%20Your%20Horoscope%20Results.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tarot-mystery-1995-snes/tpnoxifwja/03%20Your%20Horoscope%20Results.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tarot-mystery-1995-snes/03%2520Your%2520Horoscope%2520Results.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8378122,
+      "filesize_mp3_bytes": 3166699,
+      "track_number": 4,
+      "title": "Playing The Card Game Tarot",
+      "runtime": 115,
+      "source_mp3": "https://vgmsite.com/soundtracks/tarot-mystery-1995-snes/lprdukvjiz/04%20Playing%20The%20Card%20Game%20Tarot.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tarot-mystery-1995-snes/lprdukvjiz/04%20Playing%20The%20Card%20Game%20Tarot.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tarot-mystery-1995-snes/04%2520Playing%2520The%2520Card%2520Game%2520Tarot.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2831155,
+      "filesize_mp3_bytes": 1226833,
+      "track_number": 5,
+      "title": "Your Tarot Results",
+      "runtime": 39,
+      "source_mp3": "https://vgmsite.com/soundtracks/tarot-mystery-1995-snes/zkqyrwgmax/05%20Your%20Tarot%20Results.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tarot-mystery-1995-snes/zkqyrwgmax/05%20Your%20Tarot%20Results.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tarot-mystery-1995-snes/05%2520Your%2520Tarot%2520Results.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 388,
+    "filesize_mp3_bytes": 11356075,
+    "filesize_flac_bytes": 28290579,
+    "tracks": 5
+  }
+}

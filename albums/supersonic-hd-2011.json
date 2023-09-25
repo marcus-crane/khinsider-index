@@ -1,0 +1,104 @@
+{
+  "title": "Supersonic HD",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T22:46:49.484113+00:00",
+  "slug": "supersonic-hd-2011",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/supersonic-hd-2011",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/supersonic-hd-2011/Boxart.JPG"
+  ],
+  "year": 2011,
+  "catalog_number": null,
+  "date_added": "2023-02-19T00:00:00+00:00",
+  "developers": {
+    "Kuuasema": "https://downloads.khinsider.com/game-soundtracks/developer/kuuasema"
+  },
+  "publishers": {
+    "Kuuasema": "https://downloads.khinsider.com/game-soundtracks/publisher/kuuasema"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10674503,
+      "track_number": 1,
+      "title": "SH-09",
+      "runtime": 241,
+      "source_mp3": "https://vgmsite.com/soundtracks/supersonic-hd-2011/htzovgbclw/01%20SH-09.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/supersonic-hd-2011/01%2520SH-09.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7423918,
+      "track_number": 2,
+      "title": "Beyond Quasar",
+      "runtime": 160,
+      "source_mp3": "https://vgmsite.com/soundtracks/supersonic-hd-2011/trereoschz/02%20Beyond%20Quasar.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/supersonic-hd-2011/02%2520Beyond%2520Quasar.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10213130,
+      "track_number": 3,
+      "title": "Acid 2.0",
+      "runtime": 229,
+      "source_mp3": "https://vgmsite.com/soundtracks/supersonic-hd-2011/qwqsdxwwaa/03%20Acid%202.0.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/supersonic-hd-2011/03%2520Acid%25202.0.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7444889,
+      "track_number": 4,
+      "title": "Resurrection State",
+      "runtime": 160,
+      "source_mp3": "https://vgmsite.com/soundtracks/supersonic-hd-2011/fyvyexedrk/04%20Resurrection%20State.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/supersonic-hd-2011/04%2520Resurrection%2520State.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10653532,
+      "track_number": 5,
+      "title": "Archaeoceti",
+      "runtime": 240,
+      "source_mp3": "https://vgmsite.com/soundtracks/supersonic-hd-2011/shuluwzljx/05%20Archaeoceti.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/supersonic-hd-2011/05%2520Archaeoceti.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8996782,
+      "track_number": 6,
+      "title": "Switch",
+      "runtime": 199,
+      "source_mp3": "https://vgmsite.com/soundtracks/supersonic-hd-2011/aftrozlzhr/06%20Switch.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/supersonic-hd-2011/06%2520Switch.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10213130,
+      "track_number": 7,
+      "title": "Exit Star",
+      "runtime": 230,
+      "source_mp3": "https://vgmsite.com/soundtracks/supersonic-hd-2011/kwjkyifthd/07%20Exit%20Star.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/supersonic-hd-2011/07%2520Exit%2520Star.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1459,
+    "filesize_mp3_bytes": 65619884,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

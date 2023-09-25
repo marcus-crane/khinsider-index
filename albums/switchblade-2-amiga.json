@@ -1,0 +1,62 @@
+{
+  "title": "Switchblade 2",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T22:53:39.542199+00:00",
+  "slug": "switchblade-2-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/switchblade-2-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/switchblade-2-amiga/Switchblade%202%20%28Amiga%29.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2017-08-15T00:00:00+00:00",
+  "developers": {
+    "Gremlin Graphics": "https://downloads.khinsider.com/game-soundtracks/developer/gremlin-graphics"
+  },
+  "publishers": {
+    "GBH Gold": "https://downloads.khinsider.com/game-soundtracks/publisher/gbh-gold"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2883584,
+      "track_number": 1,
+      "title": "Loading Tune",
+      "runtime": 110,
+      "source_mp3": "https://vgmsite.com/soundtracks/switchblade-2-amiga/fiwdzrio/01_Loading%20Tune.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/switchblade-2-amiga/01_Loading%2520Tune.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6773800,
+      "track_number": 2,
+      "title": "Title Screen",
+      "runtime": 250,
+      "source_mp3": "https://vgmsite.com/soundtracks/switchblade-2-amiga/ovppodfz/02_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/switchblade-2-amiga/02_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4183818,
+      "track_number": 3,
+      "title": "Name Entry",
+      "runtime": 159,
+      "source_mp3": "https://vgmsite.com/soundtracks/switchblade-2-amiga/szhrdkkj/03_Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/switchblade-2-amiga/03_Name%2520Entry.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 519,
+    "filesize_mp3_bytes": 13841202,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

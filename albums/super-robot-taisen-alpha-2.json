@@ -1,0 +1,80 @@
+{
+  "title": "Super Robot Taisen Alpha 2",
+  "titles_alternative": [
+    "The 2nd Super Robot Wars Alpha",
+    "\u7b2c2\u6b21\u30b9\u30fc\u30d1\u30fc\u30ed\u30dc\u30c3\u30c8\u5927\u6226\u03b1"
+  ],
+  "crawled_at": "2023-09-24T21:53:36.422010+00:00",
+  "slug": "super-robot-taisen-alpha-2",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/super-robot-taisen-alpha-2",
+  "platforms": {
+    "PS2": "https://downloads.khinsider.com/game-soundtracks/playstation-2"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/super-robot-taisen-alpha-2/Super%20Robot%20Wars%20%28Taisen%29%20Alpha%202.jpg"
+  ],
+  "year": 2003,
+  "date_added": "2006-11-25T00:00:00+00:00",
+  "developers": {
+    "Banpresto": "https://downloads.khinsider.com/game-soundtracks/developer/banpresto"
+  },
+  "publishers": {
+    "Banpresto": "https://downloads.khinsider.com/game-soundtracks/publisher/banpresto"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 94371,
+      "title": "banpresto! alpha",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-robot-taisen-alpha-2/rxgchfrr/banpresto%21%20alpha.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-robot-taisen-alpha-2/banpresto%2521%2520alpha.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1551892,
+      "title": "intro",
+      "runtime": 97,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-robot-taisen-alpha-2/ujzdvxdh/intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-robot-taisen-alpha-2/intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3753902,
+      "title": "please feel free",
+      "runtime": 235,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-robot-taisen-alpha-2/elmthdqr/please%20feel%20free.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-robot-taisen-alpha-2/please%2520feel%2520free.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2757754,
+      "title": "pull the strings",
+      "runtime": 172,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-robot-taisen-alpha-2/srwarvvn/pull%20the%20strings.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-robot-taisen-alpha-2/pull%2520the%2520strings.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3911188,
+      "title": "the fellowship",
+      "runtime": 244,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-robot-taisen-alpha-2/ebiaxqoa/the%20fellowship.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-robot-taisen-alpha-2/the%2520fellowship.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 754,
+    "filesize_mp3_bytes": 12069107,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

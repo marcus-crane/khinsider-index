@@ -1,0 +1,92 @@
+{
+  "title": "Switchblade",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T22:53:43.447120+00:00",
+  "slug": "switchblade-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/switchblade-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/switchblade-commodore-64/32814_front.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2019-06-17T00:00:00+00:00",
+  "developers": {
+    "Core Design": "https://downloads.khinsider.com/game-soundtracks/developer/core-design"
+  },
+  "publishers": {
+    "Gremlin Graphics": "https://downloads.khinsider.com/game-soundtracks/publisher/gremlin-graphics"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3449815,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 187,
+      "source_mp3": "https://vgmsite.com/soundtracks/switchblade-commodore-64/frwmcwgnxl/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/switchblade-commodore-64/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 2,
+      "title": "Get Ready!",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/switchblade-commodore-64/womywvgili/02_Get%20Ready%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/switchblade-commodore-64/02_Get%2520Ready%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4078960,
+      "track_number": 3,
+      "title": "In-Game BGM",
+      "runtime": 218,
+      "source_mp3": "https://vgmsite.com/soundtracks/switchblade-commodore-64/jqlnlhdtrr/03_In-Game%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/switchblade-commodore-64/03_In-Game%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6092226,
+      "track_number": 4,
+      "title": "Title Screen (SID Stereo)",
+      "runtime": 186,
+      "source_mp3": "https://vgmsite.com/soundtracks/switchblade-commodore-64/gopsscwrff/04_Title%20Screen%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/switchblade-commodore-64/04_Title%2520Screen%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 5,
+      "title": "Get Ready! (SID Stereo)",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/switchblade-commodore-64/fophmyuprm/05_Get%20Ready%21%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/switchblade-commodore-64/05_Get%2520Ready%2521%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6721372,
+      "track_number": 6,
+      "title": "In-Game BGM (SID Stereo)",
+      "runtime": 218,
+      "source_mp3": "https://vgmsite.com/soundtracks/switchblade-commodore-64/vlcgjvzchx/06_In-Game%20BGM%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/switchblade-commodore-64/06_In-Game%2520BGM%2520%2528SID%2520Stereo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 818,
+    "filesize_mp3_bytes": 20541602,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

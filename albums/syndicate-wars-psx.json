@@ -1,0 +1,77 @@
+{
+  "title": "Syndicate Wars",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T23:04:34.700833+00:00",
+  "slug": "syndicate-wars-psx",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/syndicate-wars-psx",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/syndicate-wars-psx/Syndicate%20Wars%20Playstation%20back%20cover.jpg"
+  ],
+  "year": 1996,
+  "date_added": "2020-06-21T00:00:00+00:00",
+  "developers": {
+    "Bullfrog": "https://downloads.khinsider.com/game-soundtracks/developer/bullfrog"
+  },
+  "publishers": {
+    "EA": "https://downloads.khinsider.com/game-soundtracks/publisher/ea"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 618659,
+      "title": "Intro",
+      "runtime": 52,
+      "source_mp3": "https://vgmsite.com/soundtracks/syndicate-wars-psx/solrxxnlxc/Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/syndicate-wars-psx/Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5641338,
+      "title": "Track 01",
+      "runtime": 282,
+      "source_mp3": "https://vgmsite.com/soundtracks/syndicate-wars-psx/yrpcqvsmvl/Track%2001.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/syndicate-wars-psx/Track%252001.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5945425,
+      "title": "Track 02",
+      "runtime": 297,
+      "source_mp3": "https://vgmsite.com/soundtracks/syndicate-wars-psx/pxyxpengpz/Track%2002.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/syndicate-wars-psx/Track%252002.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6113198,
+      "title": "Track 03",
+      "runtime": 305,
+      "source_mp3": "https://vgmsite.com/soundtracks/syndicate-wars-psx/lqcjugbwjn/Track%2003.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/syndicate-wars-psx/Track%252003.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5651824,
+      "title": "Track 04",
+      "runtime": 282,
+      "source_mp3": "https://vgmsite.com/soundtracks/syndicate-wars-psx/txfyqknyyr/Track%2004.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/syndicate-wars-psx/Track%252004.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1218,
+    "filesize_mp3_bytes": 23970444,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

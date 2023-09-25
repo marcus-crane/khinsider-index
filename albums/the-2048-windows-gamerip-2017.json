@@ -1,0 +1,44 @@
+{
+  "title": "The 2048",
+  "titles_alternative": [
+    "2048"
+  ],
+  "crawled_at": "2023-09-25T01:44:37.267575+00:00",
+  "slug": "the-2048-windows-gamerip-2017",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/the-2048-windows-gamerip-2017",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/the-2048-windows-gamerip-2017/header.jpg"
+  ],
+  "year": 2017,
+  "date_added": "2023-02-28T00:00:00+00:00",
+  "developers": {
+    "Thick & Thin": "https://downloads.khinsider.com/game-soundtracks/developer/thick-thin"
+  },
+  "publishers": {
+    "Thick & Thin": "https://downloads.khinsider.com/game-soundtracks/publisher/thick-thin"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 28741468,
+      "filesize_mp3_bytes": 6060769,
+      "title": "Main Theme",
+      "runtime": 222,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-2048-windows-gamerip-2017/kpuznwxoss/Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/the-2048-windows-gamerip-2017/kpuznwxoss/Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-2048-windows-gamerip-2017/Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 222,
+    "filesize_mp3_bytes": 6060769,
+    "filesize_flac_bytes": 28741468,
+    "tracks": 1
+  }
+}

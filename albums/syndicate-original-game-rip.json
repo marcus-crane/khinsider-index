@@ -1,0 +1,94 @@
+{
+  "title": "Syndicate (DOS)",
+  "titles_alternative": [
+    "\u30b7\u30f3\u30b8\u30b1\u30fc\u30c8"
+  ],
+  "crawled_at": "2023-09-24T23:04:28.970353+00:00",
+  "slug": "syndicate-original-game-rip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/syndicate-original-game-rip",
+  "platforms": {
+    "MS-DOS": "https://downloads.khinsider.com/game-soundtracks/ms-dos"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/syndicate-original-game-rip/SD.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2006-11-25T00:00:00+00:00",
+  "developers": {
+    "Bullfrog": "https://downloads.khinsider.com/game-soundtracks/developer/bullfrog"
+  },
+  "publishers": {
+    "EA": "https://downloads.khinsider.com/game-soundtracks/publisher/ea"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2631925,
+      "track_number": 1,
+      "title": "opening",
+      "runtime": 127,
+      "source_mp3": "https://vgmsite.com/soundtracks/syndicate-original-game-rip/tztpoujv/01%20-%20opening.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/syndicate-original-game-rip/01%2520-%2520opening.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4823449,
+      "track_number": 2,
+      "title": "assassinate",
+      "runtime": 257,
+      "source_mp3": "https://vgmsite.com/soundtracks/syndicate-original-game-rip/axrbtftd/02%20-%20assassinate.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/syndicate-original-game-rip/02%2520-%2520assassinate.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1541406,
+      "track_number": 3,
+      "title": "danger",
+      "runtime": 80,
+      "source_mp3": "https://vgmsite.com/soundtracks/syndicate-original-game-rip/ngavwbkr/03%20-%20danger.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/syndicate-original-game-rip/03%2520-%2520danger.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 157286,
+      "track_number": 4,
+      "title": "mission failed",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/syndicate-original-game-rip/lbbofypd/04%20-%20mission%20failed.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/syndicate-original-game-rip/04%2520-%2520mission%2520failed.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 178257,
+      "track_number": 5,
+      "title": "mission completed",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/syndicate-original-game-rip/uluzlpkt/05%20-%20mission%20completed.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/syndicate-original-game-rip/05%2520-%2520mission%2520completed.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2977955,
+      "track_number": 6,
+      "title": "opening (sfx)",
+      "runtime": 136,
+      "source_mp3": "https://vgmsite.com/soundtracks/syndicate-original-game-rip/wpswuyvi/06%20-%20opening%20%28sfx%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/syndicate-original-game-rip/06%2520-%2520opening%2520%2528sfx%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 618,
+    "filesize_mp3_bytes": 12310278,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

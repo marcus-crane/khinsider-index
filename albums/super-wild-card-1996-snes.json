@@ -1,0 +1,67 @@
+{
+  "title": "Super Wild Card",
+  "titles_alternative": [
+    "Super Wild Card DX V1.122"
+  ],
+  "crawled_at": "2023-09-24T22:41:45.144807+00:00",
+  "slug": "super-wild-card-1996-snes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/super-wild-card-1996-snes",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/super-wild-card-1996-snes/SWC.jpg"
+  ],
+  "year": 1996,
+  "date_added": "2019-08-27T00:00:00+00:00",
+  "developers": {
+    "JSI": "https://downloads.khinsider.com/game-soundtracks/developer/jsi"
+  },
+  "publishers": {
+    "JSI": "https://downloads.khinsider.com/game-soundtracks/publisher/jsi"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7665090,
+      "filesize_mp3_bytes": 3019898,
+      "track_number": 1,
+      "title": "Song 1",
+      "runtime": 105,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-wild-card-1996-snes/vmxbqqfefb/01%20Song%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-wild-card-1996-snes/vmxbqqfefb/01%20Song%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-wild-card-1996-snes/01%2520Song%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6207569,
+      "filesize_mp3_bytes": 2810183,
+      "track_number": 2,
+      "title": "Song 2",
+      "runtime": 104,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-wild-card-1996-snes/tidmdywxfp/02%20Song%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-wild-card-1996-snes/tidmdywxfp/02%20Song%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-wild-card-1996-snes/02%2520Song%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 41943,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 3,
+      "title": "''Classical!''",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-wild-card-1996-snes/ldjxmrxotp/03%20%27%27Classical%21%27%27.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-wild-card-1996-snes/ldjxmrxotp/03%20%27%27Classical%21%27%27.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-wild-card-1996-snes/03%2520%2527%2527Classical%2521%2527%2527.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 213,
+    "filesize_mp3_bytes": 5872024,
+    "filesize_flac_bytes": 13914602,
+    "tracks": 3
+  }
+}

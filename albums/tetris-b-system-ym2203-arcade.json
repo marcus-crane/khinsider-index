@@ -1,0 +1,78 @@
+{
+  "title": "Tetris (B-System YM2203)",
+  "titles_alternative": [
+    "\u30c6\u30c8\u30ea\u30b9"
+  ],
+  "crawled_at": "2023-09-25T01:37:19.716987+00:00",
+  "slug": "tetris-b-system-ym2203-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-b-system-ym2203-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tetris-b-system-ym2203-arcade/Tetris.png"
+  ],
+  "year": 1989,
+  "date_added": "2022-06-13T00:00:00+00:00",
+  "developers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5221908,
+      "filesize_mp3_bytes": 2516582,
+      "track_number": 1,
+      "title": "Tetremix",
+      "runtime": 122,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-b-system-ym2203-arcade/mzrknqbccg/01%20Tetremix.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-b-system-ym2203-arcade/mzrknqbccg/01%20Tetremix.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-b-system-ym2203-arcade/01%2520Tetremix.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2013265,
+      "filesize_mp3_bytes": 901775,
+      "track_number": 2,
+      "title": "Deadlock",
+      "runtime": 40,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-b-system-ym2203-arcade/doyydlntjd/02%20Deadlock.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-b-system-ym2203-arcade/doyydlntjd/02%20Deadlock.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-b-system-ym2203-arcade/02%2520Deadlock.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 482344,
+      "filesize_mp3_bytes": 199229,
+      "track_number": 3,
+      "title": "Game Over",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-b-system-ym2203-arcade/bmdojuxwnk/03%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-b-system-ym2203-arcade/bmdojuxwnk/03%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-b-system-ym2203-arcade/03%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1824522,
+      "filesize_mp3_bytes": 775946,
+      "track_number": 4,
+      "title": "Name Entry",
+      "runtime": 42,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-b-system-ym2203-arcade/dmdsnwvjdu/04%20Name%20Entry.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-b-system-ym2203-arcade/dmdsnwvjdu/04%20Name%20Entry.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-b-system-ym2203-arcade/04%2520Name%2520Entry.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 214,
+    "filesize_mp3_bytes": 4393532,
+    "filesize_flac_bytes": 9542039,
+    "tracks": 4
+  }
+}

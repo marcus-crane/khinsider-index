@@ -1,0 +1,42 @@
+{
+  "title": "Super Fun Chess",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T21:07:07.461991+00:00",
+  "slug": "super-fun-chess-2009-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/super-fun-chess-2009-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/super-fun-chess-2009-nds-gamerip/Super%20Fun%20Chess.jpg"
+  ],
+  "year": 2009,
+  "date_added": "2020-06-23T00:00:00+00:00",
+  "developers": {
+    "Elephant Games": "https://downloads.khinsider.com/game-soundtracks/developer/elephant-games"
+  },
+  "publishers": {
+    "White Park Bay": "https://downloads.khinsider.com/game-soundtracks/publisher/white-park-bay"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2873098,
+      "filesize_mp3_bytes": 1048576,
+      "title": "Bg Menu",
+      "runtime": 63,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-fun-chess-2009-nds-gamerip/yvenxuhxeq/Bg%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-fun-chess-2009-nds-gamerip/yvenxuhxeq/Bg%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-fun-chess-2009-nds-gamerip/Bg%2520Menu.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 63,
+    "filesize_mp3_bytes": 1048576,
+    "filesize_flac_bytes": 2873098,
+    "tracks": 1
+  }
+}

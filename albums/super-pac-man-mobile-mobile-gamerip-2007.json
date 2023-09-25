@@ -1,0 +1,68 @@
+{
+  "title": "Super Pac-Man (Mobile)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T21:47:58.072274+00:00",
+  "slug": "super-pac-man-mobile-mobile-gamerip-2007",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/super-pac-man-mobile-mobile-gamerip-2007",
+  "platforms": {
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/super-pac-man-mobile-mobile-gamerip-2007/Thumbnail.png"
+  ],
+  "year": 2007,
+  "date_added": "2022-12-27T00:00:00+00:00",
+  "developers": {
+    "Namco Networks America Inc.": "https://downloads.khinsider.com/game-soundtracks/developer/namco-networks-america"
+  },
+  "publishers": {
+    "Namco Networks America Inc.": "https://downloads.khinsider.com/game-soundtracks/publisher/namco-networks-america"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 62914,
+      "title": "Game Over",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-pac-man-mobile-mobile-gamerip-2007/hyuovgcdby/Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-pac-man-mobile-mobile-gamerip-2007/Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 157286,
+      "title": "Intermission",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-pac-man-mobile-mobile-gamerip-2007/jhvjayifro/Intermission.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-pac-man-mobile-mobile-gamerip-2007/Intermission.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 41943,
+      "title": "Stage Complete",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-pac-man-mobile-mobile-gamerip-2007/kfvcybcorv/Stage%20Complete.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-pac-man-mobile-mobile-gamerip-2007/Stage%2520Complete.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 73400,
+      "title": "Start",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-pac-man-mobile-mobile-gamerip-2007/cyicewrdie/Start.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-pac-man-mobile-mobile-gamerip-2007/Start.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 21,
+    "filesize_mp3_bytes": 335543,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

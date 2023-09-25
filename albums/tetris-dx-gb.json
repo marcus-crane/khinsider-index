@@ -1,0 +1,441 @@
+{
+  "title": "Tetris DX (GBC)",
+  "titles_alternative": [
+    "\u30c6\u30c8\u30ea\u30b9 \u30c7\u30e9\u30c3\u30af\u30b9"
+  ],
+  "crawled_at": "2023-09-25T01:38:18.996871+00:00",
+  "slug": "tetris-dx-gb",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-dx-gb",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tetris-dx-gb/TDX%20OST.jpg"
+  ],
+  "year": 1998,
+  "date_added": "2021-07-01T00:00:00+00:00",
+  "developers": {
+    "Nintendo RD1": "https://downloads.khinsider.com/game-soundtracks/developer/nintendo-rd1"
+  },
+  "publishers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 639631,
+      "filesize_mp3_bytes": 220200,
+      "track_number": 1,
+      "title": "Tetris!",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-dx-gb/jegmcizdqz/1-01%20-%20Tetris%21.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-dx-gb/jegmcizdqz/1-01%20-%20Tetris%21.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-dx-gb/1-01%2520-%2520Tetris%2521.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 618659,
+      "filesize_mp3_bytes": 209715,
+      "track_number": 2,
+      "title": "Level Up!",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-dx-gb/cldqrhetqd/1-02%20-%20Level%20Up%21.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-dx-gb/cldqrhetqd/1-02%20-%20Level%20Up%21.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-dx-gb/1-02%2520-%2520Level%2520Up%2521.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 9930014,
+      "filesize_mp3_bytes": 3690987,
+      "track_number": 3,
+      "title": "Title Screen",
+      "runtime": 112,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-dx-gb/ekrjqlkzsi/1-03%20-%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-dx-gb/ekrjqlkzsi/1-03%20-%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-dx-gb/1-03%2520-%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 2474639,
+      "filesize_mp3_bytes": 943718,
+      "track_number": 4,
+      "title": "Name Entry ~ from Tetris",
+      "runtime": 24,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-dx-gb/acxunsrozv/1-04%20-%20Name%20Entry%20~%20from%20Tetris.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-dx-gb/acxunsrozv/1-04%20-%20Name%20Entry%20~%20from%20Tetris.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-dx-gb/1-04%2520-%2520Name%2520Entry%2520~%2520from%2520Tetris.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 1929379,
+      "filesize_mp3_bytes": 912261,
+      "track_number": 5,
+      "title": "Menu",
+      "runtime": 20,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-dx-gb/ucnzsxumgp/1-05%20-%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-dx-gb/ucnzsxumgp/1-05%20-%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-dx-gb/1-05%2520-%2520Menu.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 17343447,
+      "filesize_mp3_bytes": 7035944,
+      "track_number": 6,
+      "title": "A-Type",
+      "runtime": 206,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-dx-gb/eeyihlwnvg/1-06%20-%20A-Type.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-dx-gb/eeyihlwnvg/1-06%20-%20A-Type.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-dx-gb/1-06%2520-%2520A-Type.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 9133096,
+      "filesize_mp3_bytes": 3344957,
+      "track_number": 7,
+      "title": "A-Type ~ Faster",
+      "runtime": 100,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-dx-gb/hveknalqdr/1-07%20-%20A-Type%20~%20Faster.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-dx-gb/hveknalqdr/1-07%20-%20A-Type%20~%20Faster.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-dx-gb/1-07%2520-%2520A-Type%2520~%2520Faster.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 7874805,
+      "filesize_mp3_bytes": 2684354,
+      "track_number": 8,
+      "title": "A-Type ~ Danger!",
+      "runtime": 83,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-dx-gb/njghixqvxt/1-08%20-%20A-Type%20~%20Danger%21.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-dx-gb/njghixqvxt/1-08%20-%20A-Type%20~%20Danger%21.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-dx-gb/1-08%2520-%2520A-Type%2520~%2520Danger%2521.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 3858759,
+      "filesize_mp3_bytes": 1121976,
+      "track_number": 9,
+      "title": "Rocket Cutscene [Marathon]",
+      "runtime": 40,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-dx-gb/crgtnevlrh/1-09%20-%20Rocket%20Cutscene%20%5BMarathon%5D.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-dx-gb/crgtnevlrh/1-09%20-%20Rocket%20Cutscene%20%5BMarathon%5D.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-dx-gb/1-09%2520-%2520Rocket%2520Cutscene%2520%255BMarathon%255D.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 8724152,
+      "filesize_mp3_bytes": 2789212,
+      "track_number": 10,
+      "title": "B-Type",
+      "runtime": 99,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-dx-gb/uwsbjduyzx/1-10%20-%20B-Type.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-dx-gb/uwsbjduyzx/1-10%20-%20B-Type.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-dx-gb/1-10%2520-%2520B-Type.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 8902410,
+      "filesize_mp3_bytes": 3019898,
+      "track_number": 11,
+      "title": "B-Type ~ Faster",
+      "runtime": 100,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-dx-gb/ehsqkcxyun/1-11%20-%20B-Type%20~%20Faster.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-dx-gb/ehsqkcxyun/1-11%20-%20B-Type%20~%20Faster.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-dx-gb/1-11%2520-%2520B-Type%2520~%2520Faster.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 3166699,
+      "filesize_mp3_bytes": 1038090,
+      "track_number": 12,
+      "title": "B-Type ~ Danger!",
+      "runtime": 31,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-dx-gb/opwvhhzxna/1-12%20-%20B-Type%20~%20Danger%21.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-dx-gb/opwvhhzxna/1-12%20-%20B-Type%20~%20Danger%21.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-dx-gb/1-12%2520-%2520B-Type%2520~%2520Danger%2521.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 1509949,
+      "filesize_mp3_bytes": 461373,
+      "track_number": 13,
+      "title": "Rocket Cutscene ~ Statue of Liberty [Marathon]",
+      "runtime": 12,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-dx-gb/odpmkmyfjl/1-13%20-%20Rocket%20Cutscene%20~%20Statue%20of%20Liberty%20%5BMarathon%5D.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-dx-gb/odpmkmyfjl/1-13%20-%20Rocket%20Cutscene%20~%20Statue%20of%20Liberty%20%5BMarathon%5D.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-dx-gb/1-13%2520-%2520Rocket%2520Cutscene%2520~%2520Statue%2520of%2520Liberty%2520%255BMarathon%255D.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 21369978,
+      "filesize_mp3_bytes": 9070182,
+      "track_number": 14,
+      "title": "C-Type",
+      "runtime": 262,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-dx-gb/ygoheafzrt/1-14%20-%20C-Type.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-dx-gb/ygoheafzrt/1-14%20-%20C-Type.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-dx-gb/1-14%2520-%2520C-Type.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 10160701,
+      "filesize_mp3_bytes": 3491758,
+      "track_number": 15,
+      "title": "C-Type ~ Faster",
+      "runtime": 109,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-dx-gb/uzjcniuikc/1-15%20-%20C-Type%20~%20Faster.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-dx-gb/uzjcniuikc/1-15%20-%20C-Type%20~%20Faster.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-dx-gb/1-15%2520-%2520C-Type%2520~%2520Faster.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 3355443,
+      "filesize_mp3_bytes": 1205862,
+      "track_number": 16,
+      "title": "C-Type ~ Danger!",
+      "runtime": 36,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-dx-gb/ycgozsoipm/1-16%20-%20C-Type%20~%20Danger%21.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-dx-gb/ycgozsoipm/1-16%20-%20C-Type%20~%20Danger%21.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-dx-gb/1-16%2520-%2520C-Type%2520~%2520Danger%2521.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 1111490,
+      "filesize_mp3_bytes": 408944,
+      "track_number": 17,
+      "title": "Danger!",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-dx-gb/mwflhteabj/1-17%20-%20Danger%21.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-dx-gb/mwflhteabj/1-17%20-%20Danger%21.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-dx-gb/1-17%2520-%2520Danger%2521.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 629145,
+      "filesize_mp3_bytes": 230686,
+      "track_number": 18,
+      "title": "Game Over",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-dx-gb/sqitewljgh/1-18%20-%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-dx-gb/sqitewljgh/1-18%20-%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-dx-gb/1-18%2520-%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 2411724,
+      "filesize_mp3_bytes": 838860,
+      "track_number": 19,
+      "title": "Rocket Cutscene ~ Space Shuttle [Marathon]",
+      "runtime": 24,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-dx-gb/xisqtzalex/1-19%20-%20Rocket%20Cutscene%20~%20Space%20Shuttle%20%5BMarathon%5D.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-dx-gb/xisqtzalex/1-19%20-%20Rocket%20Cutscene%20~%20Space%20Shuttle%20%5BMarathon%5D.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-dx-gb/1-19%2520-%2520Rocket%2520Cutscene%2520~%2520Space%2520Shuttle%2520%255BMarathon%255D.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 4288675,
+      "filesize_mp3_bytes": 1551892,
+      "track_number": 20,
+      "title": "Continue",
+      "runtime": 45,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-dx-gb/svipdtccov/1-20%20-%20Continue.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-dx-gb/svipdtccov/1-20%20-%20Continue.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-dx-gb/1-20%2520-%2520Continue.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 5400166,
+      "filesize_mp3_bytes": 1614807,
+      "track_number": 21,
+      "title": "High Score Entry",
+      "runtime": 56,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-dx-gb/fwafabqmmh/1-21%20-%20High%20Score%20Entry.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-dx-gb/fwafabqmmh/1-21%20-%20High%20Score%20Entry.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-dx-gb/1-21%2520-%2520High%2520Score%2520Entry.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 576716,
+      "filesize_mp3_bytes": 209715,
+      "track_number": 22,
+      "title": "Pause",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-dx-gb/cqwyuaeqrm/1-22%20-%20Pause.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-dx-gb/cqwyuaeqrm/1-22%20-%20Pause.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-dx-gb/1-22%2520-%2520Pause.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 807403,
+      "filesize_mp3_bytes": 283115,
+      "track_number": 23,
+      "title": "Time Over [Ultra]",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-dx-gb/pnphvjhwkv/1-23%20-%20Time%20Over%20%5BUltra%5D.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-dx-gb/pnphvjhwkv/1-23%20-%20Time%20Over%20%5BUltra%5D.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-dx-gb/1-23%2520-%2520Time%2520Over%2520%255BUltra%255D.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 618659,
+      "filesize_mp3_bytes": 209715,
+      "track_number": 24,
+      "title": "Ten Lines [Vs. Mode]",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-dx-gb/kujgmnssxc/1-24%20-%20Ten%20Lines%20%5BVs.%20Mode%5D.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-dx-gb/kujgmnssxc/1-24%20-%20Ten%20Lines%20%5BVs.%20Mode%5D.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-dx-gb/1-24%2520-%2520Ten%2520Lines%2520%255BVs.%2520Mode%255D.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 4026531,
+      "filesize_mp3_bytes": 1740636,
+      "track_number": 25,
+      "title": "You Lose! [Vs. Mode]",
+      "runtime": 49,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-dx-gb/resamsajxg/1-25%20-%20You%20Lose%21%20%5BVs.%20Mode%5D.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-dx-gb/resamsajxg/1-25%20-%20You%20Lose%21%20%5BVs.%20Mode%5D.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-dx-gb/1-25%2520-%2520You%2520Lose%2521%2520%255BVs.%2520Mode%255D.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 744488,
+      "filesize_mp3_bytes": 241172,
+      "track_number": 26,
+      "title": "Victory! [Vs. Mode]",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-dx-gb/zeflyzapgr/1-26%20-%20Victory%21%20%5BVs.%20Mode%5D.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-dx-gb/zeflyzapgr/1-26%20-%20Victory%21%20%5BVs.%20Mode%5D.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-dx-gb/1-26%2520-%2520Victory%2521%2520%255BVs.%2520Mode%255D.mp3"
+    },
+    {
+      "disc_number": 1,
+      "filesize_flac_bytes": 5525995,
+      "filesize_mp3_bytes": 1698693,
+      "track_number": 27,
+      "title": "You Win! [Vs. Mode]",
+      "runtime": 56,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-dx-gb/kqqlrhmfwt/1-27%20-%20You%20Win%21%20%5BVs.%20Mode%5D.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-dx-gb/kqqlrhmfwt/1-27%20-%20You%20Win%21%20%5BVs.%20Mode%5D.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-dx-gb/1-27%2520-%2520You%2520Win%2521%2520%255BVs.%2520Mode%255D.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 9846128,
+      "filesize_mp3_bytes": 3586129,
+      "track_number": 1,
+      "title": "Title Screen [No Intro]",
+      "runtime": 108,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-dx-gb/ylkdzdugdn/2-01%20-%20Title%20Screen%20%5BNo%20Intro%5D.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-dx-gb/ylkdzdugdn/2-01%20-%20Title%20Screen%20%5BNo%20Intro%5D.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-dx-gb/2-01%2520-%2520Title%2520Screen%2520%255BNo%2520Intro%255D.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 5934940,
+      "filesize_mp3_bytes": 2485125,
+      "track_number": 2,
+      "title": "A-Type [Menu Preview]",
+      "runtime": 67,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-dx-gb/tbedbsrgyw/2-02%20-%20A-Type%20%5BMenu%20Preview%5D.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-dx-gb/tbedbsrgyw/2-02%20-%20A-Type%20%5BMenu%20Preview%5D.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-dx-gb/2-02%2520-%2520A-Type%2520%255BMenu%2520Preview%255D.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 8598323,
+      "filesize_mp3_bytes": 2988441,
+      "track_number": 3,
+      "title": "B-Type [Menu Preview]",
+      "runtime": 99,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-dx-gb/zthkaojzqe/2-03%20-%20B-Type%20%5BMenu%20Preview%5D.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-dx-gb/zthkaojzqe/2-03%20-%20B-Type%20%5BMenu%20Preview%5D.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-dx-gb/2-03%2520-%2520B-Type%2520%255BMenu%2520Preview%255D.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 8210350,
+      "filesize_mp3_bytes": 3533701,
+      "track_number": 4,
+      "title": "C-Type [Menu Preview]",
+      "runtime": 99,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-dx-gb/bforbruuln/2-04%20-%20C-Type%20%5BMenu%20Preview%5D.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-dx-gb/bforbruuln/2-04%20-%20C-Type%20%5BMenu%20Preview%5D.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-dx-gb/2-04%2520-%2520C-Type%2520%255BMenu%2520Preview%255D.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 8933867,
+      "filesize_mp3_bytes": 2243952,
+      "track_number": 5,
+      "title": "A-Type ~ from Tetris [Unused]",
+      "runtime": 87,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-dx-gb/kfmtmuouwe/2-05%20-%20A-Type%20~%20from%20Tetris%20%5BUnused%5D.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-dx-gb/kfmtmuouwe/2-05%20-%20A-Type%20~%20from%20Tetris%20%5BUnused%5D.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-dx-gb/2-05%2520-%2520A-Type%2520~%2520from%2520Tetris%2520%255BUnused%255D.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 4288675,
+      "filesize_mp3_bytes": 1226833,
+      "track_number": 6,
+      "title": "The March of The Toreadors ~ from Carmen [Unused]",
+      "runtime": 40,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-dx-gb/vqquqicyah/2-06%20-%20The%20March%20of%20The%20Toreadors%20~%20from%20Carmen%20%5BUnused%5D.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-dx-gb/vqquqicyah/2-06%20-%20The%20March%20of%20The%20Toreadors%20~%20from%20Carmen%20%5BUnused%5D.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-dx-gb/2-06%2520-%2520The%2520March%2520of%2520The%2520Toreadors%2520~%2520from%2520Carmen%2520%255BUnused%255D.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 3009413,
+      "filesize_mp3_bytes": 849346,
+      "track_number": 7,
+      "title": "The March of The Toreadors ~ Danger! [Unused]",
+      "runtime": 25,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-dx-gb/visfjigcuc/2-07%20-%20The%20March%20of%20The%20Toreadors%20~%20Danger%21%20%5BUnused%5D.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-dx-gb/visfjigcuc/2-07%20-%20The%20March%20of%20The%20Toreadors%20~%20Danger%21%20%5BUnused%5D.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-dx-gb/2-07%2520-%2520The%2520March%2520of%2520The%2520Toreadors%2520~%2520Danger%2521%2520%255BUnused%255D.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 8220835,
+      "filesize_mp3_bytes": 2894069,
+      "track_number": 8,
+      "title": "Credits Song [Unused]",
+      "runtime": 86,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-dx-gb/opjwmeirut/2-08%20-%20Credits%20Song%20%5BUnused%5D.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-dx-gb/opjwmeirut/2-08%20-%20Credits%20Song%20%5BUnused%5D.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-dx-gb/2-08%2520-%2520Credits%2520Song%2520%255BUnused%255D.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 1184890,
+      "filesize_mp3_bytes": 503316,
+      "track_number": 9,
+      "title": "Jingle Medley [Unused]",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-dx-gb/fpcawralve/2-09%20-%20Jingle%20Medley%20%5BUnused%5D.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-dx-gb/fpcawralve/2-09%20-%20Jingle%20Medley%20%5BUnused%5D.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-dx-gb/2-09%2520-%2520Jingle%2520Medley%2520%255BUnused%255D.mp3"
+    },
+    {
+      "disc_number": 2,
+      "filesize_flac_bytes": 891289,
+      "filesize_mp3_bytes": 293601,
+      "track_number": 10,
+      "title": "Jingle [Unused]",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-dx-gb/ximttifgjk/2-10%20-%20Jingle%20%5BUnused%5D.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-dx-gb/ximttifgjk/2-10%20-%20Jingle%20%5BUnused%5D.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-dx-gb/2-10%2520-%2520Jingle%2520%255BUnused%255D.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2116,
+    "filesize_mp3_bytes": 70873235,
+    "filesize_flac_bytes": 196251463,
+    "tracks": 37
+  }
+}

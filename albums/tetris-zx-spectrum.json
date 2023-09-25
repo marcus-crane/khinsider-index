@@ -1,0 +1,82 @@
+{
+  "title": "Tetris",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T01:41:27.872231+00:00",
+  "slug": "tetris-zx-spectrum",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-zx-spectrum",
+  "platforms": {
+    "Spectrum": "https://downloads.khinsider.com/game-soundtracks/spectrum"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tetris-zx-spectrum/TR.png"
+  ],
+  "year": 1988,
+  "date_added": "2019-04-01T00:00:00+00:00",
+  "developers": {
+    "Elorg": "https://downloads.khinsider.com/game-soundtracks/developer/elorg"
+  },
+  "publishers": {
+    "Mirrorsoft": "https://downloads.khinsider.com/game-soundtracks/publisher/mirrorsoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1069547,
+      "track_number": 1,
+      "title": "Title Screen (AY)",
+      "runtime": 62,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-zx-spectrum/ivryjgls/01_Title%20Screen%20%28AY%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-zx-spectrum/01_Title%2520Screen%2520%2528AY%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3198156,
+      "track_number": 2,
+      "title": "In-Game BGM (AY)",
+      "runtime": 189,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-zx-spectrum/wceeevql/02_In-Game%20BGM%20%28AY%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-zx-spectrum/02_In-Game%2520BGM%2520%2528AY%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 3,
+      "title": "Game Over (AY)",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-zx-spectrum/tsubyeaf/03_Game%20Over%20%28AY%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-zx-spectrum/03_Game%2520Over%2520%2528AY%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1614807,
+      "track_number": 4,
+      "title": "Title Screen (Beeper)",
+      "runtime": 63,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-zx-spectrum/ylfgvsiu/04_Title%20Screen%20%28Beeper%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-zx-spectrum/04_Title%2520Screen%2520%2528Beeper%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 5,
+      "title": "Game Over (Beeper)",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-zx-spectrum/bjsahukx/05_Game%20Over%20%28Beeper%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-zx-spectrum/05_Game%2520Over%2520%2528Beeper%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 321,
+    "filesize_mp3_bytes": 5997853,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

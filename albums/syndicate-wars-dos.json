@@ -1,0 +1,77 @@
+{
+  "title": "Syndicate Wars",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T23:04:32.892798+00:00",
+  "slug": "syndicate-wars-dos",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/syndicate-wars-dos",
+  "platforms": {
+    "MS-DOS": "https://downloads.khinsider.com/game-soundtracks/ms-dos"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/syndicate-wars-dos/Syndicate%20Wars%20Dos%20back%20cover.jpg"
+  ],
+  "year": 1996,
+  "date_added": "2020-06-21T00:00:00+00:00",
+  "developers": {
+    "Bullfrog": "https://downloads.khinsider.com/game-soundtracks/developer/bullfrog"
+  },
+  "publishers": {
+    "EA": "https://downloads.khinsider.com/game-soundtracks/publisher/ea"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1258291,
+      "title": "Intro",
+      "runtime": 103,
+      "source_mp3": "https://vgmsite.com/soundtracks/syndicate-wars-dos/ujyejhnbde/Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/syndicate-wars-dos/Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6794772,
+      "title": "Track 02",
+      "runtime": 566,
+      "source_mp3": "https://vgmsite.com/soundtracks/syndicate-wars-dos/raqftlvfnk/Track%2002.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/syndicate-wars-dos/Track%252002.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7151288,
+      "title": "Track 03",
+      "runtime": 596,
+      "source_mp3": "https://vgmsite.com/soundtracks/syndicate-wars-dos/meintfmwzl/Track%2003.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/syndicate-wars-dos/Track%252003.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7319060,
+      "title": "Track 04",
+      "runtime": 609,
+      "source_mp3": "https://vgmsite.com/soundtracks/syndicate-wars-dos/ebykmgocnr/Track%2004.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/syndicate-wars-dos/Track%252004.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6270484,
+      "title": "Tribute",
+      "runtime": 356,
+      "source_mp3": "https://vgmsite.com/soundtracks/syndicate-wars-dos/nboxtftvcz/Tribute.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/syndicate-wars-dos/Tribute.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2230,
+    "filesize_mp3_bytes": 28793895,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

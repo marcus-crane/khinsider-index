@@ -1,0 +1,63 @@
+{
+  "title": "Super Spin (Unreleased Prototype)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T22:29:50.370431+00:00",
+  "slug": "super-spin-genesis-gamerip-1993",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/super-spin-genesis-gamerip-1993",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/super-spin-genesis-gamerip-1993/Super%20Spin.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2023-07-28T00:00:00+00:00",
+  "developers": {
+    "Zyrinx": "https://downloads.khinsider.com/game-soundtracks/developer/zyrinx"
+  },
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20793262,
+      "filesize_mp3_bytes": 6721372,
+      "track_number": 1,
+      "title": "Race BGM 1",
+      "runtime": 235,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-spin-genesis-gamerip-1993/pycfwrlrym/01.%20Race%20BGM%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-spin-genesis-gamerip-1993/pycfwrlrym/01.%20Race%20BGM%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-spin-genesis-gamerip-1993/01.%2520Race%2520BGM%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 23089643,
+      "filesize_mp3_bytes": 9059696,
+      "track_number": 2,
+      "title": "Race BGM 2",
+      "runtime": 287,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-spin-genesis-gamerip-1993/fcvdzdqsjh/02.%20Race%20BGM%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-spin-genesis-gamerip-1993/fcvdzdqsjh/02.%20Race%20BGM%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-spin-genesis-gamerip-1993/02.%2520Race%2520BGM%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8189378,
+      "filesize_mp3_bytes": 2778726,
+      "track_number": 3,
+      "title": "Unknown",
+      "runtime": 109,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-spin-genesis-gamerip-1993/mkevxlrbte/03.%20Unknown.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-spin-genesis-gamerip-1993/mkevxlrbte/03.%20Unknown.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-spin-genesis-gamerip-1993/03.%2520Unknown.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 631,
+    "filesize_mp3_bytes": 18559794,
+    "filesize_flac_bytes": 52072283,
+    "tracks": 3
+  }
+}

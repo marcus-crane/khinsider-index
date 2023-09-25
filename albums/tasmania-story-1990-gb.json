@@ -1,0 +1,69 @@
+{
+  "title": "Tasmania Story",
+  "titles_alternative": [
+    "Tasmania Monogatari",
+    "\u30bf\u30b9\u30de\u30cb\u30a2\u7269\u8a9e"
+  ],
+  "crawled_at": "2023-09-25T00:35:43.477789+00:00",
+  "slug": "tasmania-story-1990-gb",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tasmania-story-1990-gb",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tasmania-story-1990-gb/T1.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2022-06-20T00:00:00+00:00",
+  "developers": {
+    "Pony Canyon": "https://downloads.khinsider.com/game-soundtracks/developer/pony-canyon"
+  },
+  "publishers": {
+    "FCI": "https://downloads.khinsider.com/game-soundtracks/publisher/fci",
+    "Pony Canyon": "https://downloads.khinsider.com/game-soundtracks/publisher/pony-canyon"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9583984,
+      "filesize_mp3_bytes": 3764387,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/tasmania-story-1990-gb/rnksjgliws/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tasmania-story-1990-gb/rnksjgliws/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tasmania-story-1990-gb/01%2520BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10590617,
+      "filesize_mp3_bytes": 4393533,
+      "track_number": 2,
+      "title": "BGM #02",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/tasmania-story-1990-gb/wdqufqkwjy/02%20BGM%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tasmania-story-1990-gb/wdqufqkwjy/02%20BGM%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tasmania-story-1990-gb/02%2520BGM%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11020533,
+      "filesize_mp3_bytes": 3344957,
+      "track_number": 3,
+      "title": "BGM #03",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/tasmania-story-1990-gb/zhbuvrfqal/03%20BGM%20%2303.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tasmania-story-1990-gb/zhbuvrfqal/03%20BGM%20%2303.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tasmania-story-1990-gb/03%2520BGM%2520%252303.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 540,
+    "filesize_mp3_bytes": 11502877,
+    "filesize_flac_bytes": 31195134,
+    "tracks": 3
+  }
+}

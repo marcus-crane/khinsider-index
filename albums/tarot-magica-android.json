@@ -1,0 +1,36 @@
+{
+  "title": "Tarot Magica",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T00:33:59.810862+00:00",
+  "slug": "tarot-magica-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tarot-magica-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tarot-magica-android/back.jpg"
+  ],
+  "date_added": "2017-03-14T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3124756,
+      "title": "bgm",
+      "runtime": 156,
+      "source_mp3": "https://vgmsite.com/soundtracks/tarot-magica-android/owlsftzb/bgm.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tarot-magica-android/bgm.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 156,
+    "filesize_mp3_bytes": 3124756,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

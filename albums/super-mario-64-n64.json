@@ -1,0 +1,456 @@
+{
+  "title": "Super Mario 64",
+  "titles_alternative": [
+    "\u30b9\u30fc\u30d1\u30fc\u30de\u30ea\u30aa64",
+    "\u795e\u6e38\u9a6c\u529b\u6b27"
+  ],
+  "crawled_at": "2023-09-24T21:17:32.841049+00:00",
+  "slug": "super-mario-64-n64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-64-n64",
+  "platforms": {
+    "N64": "https://downloads.khinsider.com/game-soundtracks/nintendo-64",
+    "Switch": "https://downloads.khinsider.com/game-soundtracks/nintendo-switch",
+    "Wii": "https://downloads.khinsider.com/game-soundtracks/nintendo-wii",
+    "Wii U": "https://downloads.khinsider.com/game-soundtracks/nintendo-wii-u"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/super-mario-64-n64/cover.jpg"
+  ],
+  "year": 1996,
+  "date_added": "2021-05-05T00:00:00+00:00",
+  "developers": {
+    "Nintendo EAD": "https://downloads.khinsider.com/game-soundtracks/developer/nintendo-ead"
+  },
+  "publishers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 22974300,
+      "filesize_mp3_bytes": 8357150,
+      "track_number": 1,
+      "title": "Title Theme",
+      "runtime": 226,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-64-n64/flhfgmvhhx/01.%20Title%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-mario-64-n64/flhfgmvhhx/01.%20Title%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-64-n64/01.%2520Title%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 555745,
+      "filesize_mp3_bytes": 188743,
+      "track_number": 2,
+      "title": "Peach's Message",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-64-n64/tkdlvpqnpz/02.%20Peach%27s%20Message.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-mario-64-n64/tkdlvpqnpz/02.%20Peach%27s%20Message.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-64-n64/02.%2520Peach%2527s%2520Message.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2715811,
+      "filesize_mp3_bytes": 985661,
+      "track_number": 3,
+      "title": "Opening",
+      "runtime": 31,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-64-n64/plznngynwx/03.%20Opening.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-mario-64-n64/plznngynwx/03.%20Opening.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-64-n64/03.%2520Opening.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 14134804,
+      "filesize_mp3_bytes": 5473566,
+      "track_number": 4,
+      "title": "Main Theme",
+      "runtime": 162,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-64-n64/gtvacwrcsq/04.%20Main%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-mario-64-n64/gtvacwrcsq/04.%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-64-n64/04.%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 19304284,
+      "filesize_mp3_bytes": 6658457,
+      "track_number": 5,
+      "title": "Slider",
+      "runtime": 182,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-64-n64/oowymklwml/05.%20Slider.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-mario-64-n64/oowymklwml/05.%20Slider.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-64-n64/05.%2520Slider.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10716446,
+      "filesize_mp3_bytes": 4288675,
+      "track_number": 6,
+      "title": "Inside the Castle Walls",
+      "runtime": 142,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-64-n64/bsbibjqmte/06.%20Inside%20the%20Castle%20Walls.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-mario-64-n64/bsbibjqmte/06.%20Inside%20the%20Castle%20Walls.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-64-n64/06.%2520Inside%2520the%2520Castle%2520Walls.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4110417,
+      "filesize_mp3_bytes": 1331691,
+      "track_number": 7,
+      "title": "Looping Steps",
+      "runtime": 41,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-64-n64/pjwpvqnggr/07.%20Looping%20Steps.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-mario-64-n64/pjwpvqnggr/07.%20Looping%20Steps.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-64-n64/07.%2520Looping%2520Steps.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 12509511,
+      "filesize_mp3_bytes": 5987368,
+      "track_number": 8,
+      "title": "Dire, Dire Docks",
+      "runtime": 197,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-64-n64/psnsvokwau/08.%20Dire%2C%20Dire%20Docks.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-mario-64-n64/psnsvokwau/08.%20Dire%2C%20Dire%20Docks.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-64-n64/08.%2520Dire%252C%2520Dire%2520Docks.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 16557015,
+      "filesize_mp3_bytes": 6259998,
+      "track_number": 9,
+      "title": "Dire, Dire Docks (in water)",
+      "runtime": 197,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-64-n64/qbboexhrya/09.%20Dire%2C%20Dire%20Docks%20%28in%20water%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-mario-64-n64/qbboexhrya/09.%20Dire%2C%20Dire%20Docks%20%28in%20water%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-64-n64/09.%2520Dire%252C%2520Dire%2520Docks%2520%2528in%2520water%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 18612224,
+      "filesize_mp3_bytes": 6742343,
+      "track_number": 10,
+      "title": "Dire, Dire Docks (underwater cave)b",
+      "runtime": 197,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-64-n64/vppzqnlljb/10.%20Dire%2C%20Dire%20Docks%20%28underwater%20cave%29b.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-mario-64-n64/vppzqnlljb/10.%20Dire%2C%20Dire%20Docks%20%28underwater%20cave%29b.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-64-n64/10.%2520Dire%252C%2520Dire%2520Docks%2520%2528underwater%2520cave%2529b.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 12687769,
+      "filesize_mp3_bytes": 4970250,
+      "track_number": 11,
+      "title": "Lethal Lava Land",
+      "runtime": 177,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-64-n64/fxgjvcvbqi/11.%20Lethal%20Lava%20Land.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-mario-64-n64/fxgjvcvbqi/11.%20Lethal%20Lava%20Land.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-64-n64/11.%2520Lethal%2520Lava%2520Land.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20573061,
+      "filesize_mp3_bytes": 7119831,
+      "track_number": 12,
+      "title": "Snow Mountain",
+      "runtime": 212,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-64-n64/qozrxiziss/12.%20Snow%20Mountain.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-mario-64-n64/qozrxiziss/12.%20Snow%20Mountain.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-64-n64/12.%2520Snow%2520Mountain.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20174602,
+      "filesize_mp3_bytes": 6836715,
+      "track_number": 13,
+      "title": "Haunted House",
+      "runtime": 210,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-64-n64/hkucwwdfbo/13.%20Haunted%20House.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-mario-64-n64/hkucwwdfbo/13.%20Haunted%20House.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-64-n64/13.%2520Haunted%2520House.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7350517,
+      "filesize_mp3_bytes": 2464153,
+      "track_number": 14,
+      "title": "Merry-Go-Round",
+      "runtime": 75,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-64-n64/temsosddae/14.%20Merry-Go-Round.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-mario-64-n64/temsosddae/14.%20Merry-Go-Round.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-64-n64/14.%2520Merry-Go-Round.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20803747,
+      "filesize_mp3_bytes": 8032092,
+      "track_number": 15,
+      "title": "Cave Dungeon",
+      "runtime": 233,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-64-n64/zpttnxfayj/15.%20Cave%20Dungeon.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-mario-64-n64/zpttnxfayj/15.%20Cave%20Dungeon.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-64-n64/15.%2520Cave%2520Dungeon.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20814233,
+      "filesize_mp3_bytes": 7916748,
+      "track_number": 16,
+      "title": "Cave Dungeon (Hazy Maze)",
+      "runtime": 233,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-64-n64/hjffvxkgdc/16.%20Cave%20Dungeon%20%28Hazy%20Maze%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-mario-64-n64/hjffvxkgdc/16.%20Cave%20Dungeon%20%28Hazy%20Maze%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-64-n64/16.%2520Cave%2520Dungeon%2520%2528Hazy%2520Maze%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 21212692,
+      "filesize_mp3_bytes": 7979663,
+      "track_number": 17,
+      "title": "Cave Dungeon (both variations)",
+      "runtime": 233,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-64-n64/aeekzfcnog/17.%20Cave%20Dungeon%20%28both%20variations%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-mario-64-n64/aeekzfcnog/17.%20Cave%20Dungeon%20%28both%20variations%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-64-n64/17.%2520Cave%2520Dungeon%2520%2528both%2520variations%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7822376,
+      "filesize_mp3_bytes": 4162846,
+      "track_number": 18,
+      "title": "Piranha Plant's Lullaby",
+      "runtime": 159,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-64-n64/hfpkabidpd/18.%20Piranha%20Plant%27s%20Lullaby.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-mario-64-n64/hfpkabidpd/18.%20Piranha%20Plant%27s%20Lullaby.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-64-n64/18.%2520Piranha%2520Plant%2527s%2520Lullaby.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6595543,
+      "filesize_mp3_bytes": 2233466,
+      "track_number": 19,
+      "title": "Powerful Mario",
+      "runtime": 61,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-64-n64/qjkrydykks/19.%20Powerful%20Mario.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-mario-64-n64/qjkrydykks/19.%20Powerful%20Mario.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-64-n64/19.%2520Powerful%2520Mario.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5882511,
+      "filesize_mp3_bytes": 2149580,
+      "track_number": 20,
+      "title": "Metallic Mario",
+      "runtime": 58,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-64-n64/zuszggrlmm/20.%20Metallic%20Mario.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-mario-64-n64/zuszggrlmm/20.%20Metallic%20Mario.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-64-n64/20.%2520Metallic%2520Mario.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4970250,
+      "filesize_mp3_bytes": 1751121,
+      "track_number": 21,
+      "title": "File Select",
+      "runtime": 52,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-64-n64/focjddhxkp/21.%20File%20Select.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-mario-64-n64/focjddhxkp/21.%20File%20Select.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-64-n64/21.%2520File%2520Select.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 220200,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 22,
+      "title": "Correct Solution",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-64-n64/xrslxcakqf/22.%20Correct%20Solution.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-mario-64-n64/xrslxcakqf/22.%20Correct%20Solution.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-64-n64/22.%2520Correct%2520Solution.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 188743,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 23,
+      "title": "Toad's Message",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-64-n64/nteaxeoblc/23.%20Toad%27s%20Message.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-mario-64-n64/nteaxeoblc/23.%20Toad%27s%20Message.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-64-n64/23.%2520Toad%2527s%2520Message.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 440401,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 24,
+      "title": "Power Star",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-64-n64/yxrfrbasta/24.%20Power%20Star.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-mario-64-n64/yxrfrbasta/24.%20Power%20Star.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-64-n64/24.%2520Power%2520Star.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 251658,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 25,
+      "title": "Race Fanfare",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-64-n64/snergvuccs/25.%20Race%20Fanfare.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-mario-64-n64/snergvuccs/25.%20Race%20Fanfare.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-64-n64/25.%2520Race%2520Fanfare.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 304087,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 26,
+      "title": "Star Catch Fanfare",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-64-n64/bjaoddcojb/26.%20Star%20Catch%20Fanfare.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-mario-64-n64/bjaoddcojb/26.%20Star%20Catch%20Fanfare.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-64-n64/26.%2520Star%2520Catch%2520Fanfare.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 136314,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 27,
+      "title": "Game Start",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-64-n64/yahyvsmosp/27.%20Game%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-mario-64-n64/yahyvsmosp/27.%20Game%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-64-n64/27.%2520Game%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 230686,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 28,
+      "title": "Course Clear",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-64-n64/umtbdoxqro/28.%20Course%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-mario-64-n64/umtbdoxqro/28.%20Course%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-64-n64/28.%2520Course%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9636413,
+      "filesize_mp3_bytes": 3512729,
+      "track_number": 29,
+      "title": "Stage Boss",
+      "runtime": 103,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-64-n64/mnlzxhwsnj/29.%20Stage%20Boss.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-mario-64-n64/mnlzxhwsnj/29.%20Stage%20Boss.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-64-n64/29.%2520Stage%2520Boss.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 314572,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 30,
+      "title": "Bowser's Message",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-64-n64/khwzxsponk/30.%20Bowser%27s%20Message.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-mario-64-n64/khwzxsponk/30.%20Bowser%27s%20Message.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-64-n64/30.%2520Bowser%2527s%2520Message.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 13191086,
+      "filesize_mp3_bytes": 4750049,
+      "track_number": 31,
+      "title": "Bowser's Road",
+      "runtime": 158,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-64-n64/ytgzxzzonp/31.%20Bowser%27s%20Road.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-mario-64-n64/ytgzxzzonp/31.%20Bowser%27s%20Road.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-64-n64/31.%2520Bowser%2527s%2520Road.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 16525557,
+      "filesize_mp3_bytes": 5756682,
+      "track_number": 32,
+      "title": "Bowser's Theme",
+      "runtime": 159,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-64-n64/scfpwbphoj/32.%20Bowser%27s%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-mario-64-n64/scfpwbphoj/32.%20Bowser%27s%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-64-n64/32.%2520Bowser%2527s%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 262144,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 33,
+      "title": "Bowser Clear",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-64-n64/pbqbpdhuqf/33.%20Bowser%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-mario-64-n64/pbqbpdhuqf/33.%20Bowser%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-64-n64/33.%2520Bowser%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 23173529,
+      "filesize_mp3_bytes": 6857687,
+      "track_number": 34,
+      "title": "Ultimate Bowser",
+      "runtime": 197,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-64-n64/kluiusskum/34.%20Ultimate%20Bowser.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-mario-64-n64/kluiusskum/34.%20Ultimate%20Bowser.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-64-n64/34.%2520Ultimate%2520Bowser.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2432696,
+      "filesize_mp3_bytes": 765460,
+      "track_number": 35,
+      "title": "Ultimate Bowser Clear",
+      "runtime": 25,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-64-n64/cgvyxbpwsn/35.%20Ultimate%20Bowser%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-mario-64-n64/cgvyxbpwsn/35.%20Ultimate%20Bowser%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-64-n64/35.%2520Ultimate%2520Bowser%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6574571,
+      "filesize_mp3_bytes": 2306867,
+      "track_number": 36,
+      "title": "Ending Demo",
+      "runtime": 73,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-64-n64/dxsvkcyndg/36.%20Ending%20Demo.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-mario-64-n64/dxsvkcyndg/36.%20Ending%20Demo.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-64-n64/36.%2520Ending%2520Demo.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20625489,
+      "filesize_mp3_bytes": 7256145,
+      "track_number": 37,
+      "title": "Staff Roll",
+      "runtime": 201,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-64-n64/xesvhkaeiy/37.%20Staff%20Roll.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-mario-64-n64/xesvhkaeiy/37.%20Staff%20Roll.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-64-n64/37.%2520Staff%2520Roll.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 325058,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 38,
+      "title": "Lakitu's Message",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-64-n64/oamokrhgvr/38.%20Lakitu%27s%20Message.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-mario-64-n64/oamokrhgvr/38.%20Lakitu%27s%20Message.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-64-n64/38.%2520Lakitu%2527s%2520Message.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 4032,
+    "filesize_mp3_bytes": 134091878,
+    "filesize_flac_bytes": 365911062,
+    "tracks": 38
+  }
+}

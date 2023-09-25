@@ -1,0 +1,85 @@
+{
+  "title": "The Game Boy Tree Adventures",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T02:12:19.256407+00:00",
+  "slug": "the-game-boy-tree-adventures",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/the-game-boy-tree-adventures",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/the-game-boy-tree-adventures/coverart.jpg"
+  ],
+  "date_added": "2015-12-03T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {},
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2652897,
+      "track_number": 1,
+      "title": "bom didl",
+      "runtime": 119,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-game-boy-tree-adventures/noebpfxl/01%20bom%20didl.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-game-boy-tree-adventures/01%2520bom%2520didl.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1646264,
+      "track_number": 2,
+      "title": "hey day",
+      "runtime": 69,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-game-boy-tree-adventures/asvqhgfj/02%20hey%20day.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-game-boy-tree-adventures/02%2520hey%2520day.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3407872,
+      "track_number": 3,
+      "title": "texas battle",
+      "runtime": 158,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-game-boy-tree-adventures/lzffbuxu/03%20texas%20battle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-game-boy-tree-adventures/03%2520texas%2520battle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3177185,
+      "track_number": 4,
+      "title": "23_35",
+      "runtime": 183,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-game-boy-tree-adventures/ztrxxsgy/04%2023_35.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-game-boy-tree-adventures/04%252023_35.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2233466,
+      "track_number": 5,
+      "title": "killing time",
+      "runtime": 99,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-game-boy-tree-adventures/cihumabn/05%20killing%20time.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-game-boy-tree-adventures/05%2520killing%2520time.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3785359,
+      "track_number": 6,
+      "title": "what_ nothing.",
+      "runtime": 176,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-game-boy-tree-adventures/nezsmmpv/06%20what_%20nothing..mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-game-boy-tree-adventures/06%2520what_%2520nothing..mp3"
+    }
+  ],
+  "total": {
+    "runtime": 804,
+    "filesize_mp3_bytes": 16903043,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

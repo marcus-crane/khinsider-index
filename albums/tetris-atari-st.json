@@ -1,0 +1,55 @@
+{
+  "title": "Tetris",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T01:36:49.916147+00:00",
+  "slug": "tetris-atari-st",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-atari-st",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tetris-atari-st/Tetris%20%28Atari%20ST%29.jpg"
+  ],
+  "year": 1988,
+  "date_added": "2020-08-15T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 775946,
+      "title": "Tetris (ST) - Game Over",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-atari-st/msuoxwfyfj/Tetris%20%28ST%29%20-%20Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-atari-st/Tetris%2520%2528ST%2529%2520-%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1656750,
+      "title": "Tetris (ST) - High Scores",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-atari-st/taipdoizot/Tetris%20%28ST%29%20-%20High%20Scores.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-atari-st/Tetris%2520%2528ST%2529%2520-%2520High%2520Scores.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4099932,
+      "title": "Tetris (ST) - Main Theme",
+      "runtime": 170,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-atari-st/tslxiwzkzh/Tetris%20%28ST%29%20-%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-atari-st/Tetris%2520%2528ST%2529%2520-%2520Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 222,
+    "filesize_mp3_bytes": 6532628,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

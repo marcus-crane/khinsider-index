@@ -1,0 +1,45 @@
+{
+  "title": "Takeda Nobuhiro no Ace Striker",
+  "titles_alternative": [
+    "\u6b66\u7530\u4fee\u5b8f\u306e\u30a8\u30fc\u30b9\u30b9\u30c8\u30e9\u30a4\u30ab\u30fc"
+  ],
+  "crawled_at": "2023-09-24T23:49:17.835765+00:00",
+  "slug": "takeda-nobuhiro-no-ace-striker-1994-gb",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/takeda-nobuhiro-no-ace-striker-1994-gb",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/takeda-nobuhiro-no-ace-striker-1994-gb/Takeda%20Nobuhiro%20no%20Ace%20Striker.jpg"
+  ],
+  "year": 1994,
+  "date_added": "2022-06-20T00:00:00+00:00",
+  "developers": {
+    "Tose": "https://downloads.khinsider.com/game-soundtracks/developer/tose"
+  },
+  "publishers": {
+    "Jaleco": "https://downloads.khinsider.com/game-soundtracks/publisher/jaleco"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11041505,
+      "filesize_mp3_bytes": 3481272,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/takeda-nobuhiro-no-ace-striker-1994-gb/jwsiofipbv/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/takeda-nobuhiro-no-ace-striker-1994-gb/jwsiofipbv/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/takeda-nobuhiro-no-ace-striker-1994-gb/01%2520BGM%2520%252301.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 180,
+    "filesize_mp3_bytes": 3481272,
+    "filesize_flac_bytes": 11041505,
+    "tracks": 1
+  }
+}

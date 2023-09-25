@@ -1,0 +1,85 @@
+{
+  "title": "The Final Earth 2",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T02:10:40.325345+00:00",
+  "slug": "the-final-earth-2-2019",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/the-final-earth-2-2019",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile",
+    "Online": "https://downloads.khinsider.com/game-soundtracks/online",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/the-final-earth-2-2019/cover.png"
+  ],
+  "year": 2019,
+  "catalog_number": "na",
+  "date_added": "2023-01-04T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "stijn cappetijn": "https://downloads.khinsider.com/game-soundtracks/publisher/stijn-cappetijn"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3061841,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 109,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-final-earth-2-2019/bqoqmndust/01.%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-final-earth-2-2019/01.%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8933867,
+      "track_number": 2,
+      "title": "The Final Earth",
+      "runtime": 318,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-final-earth-2-2019/kxtasyrndo/02.%20The%20Final%20Earth.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-final-earth-2-2019/02.%2520The%2520Final%2520Earth.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9783214,
+      "track_number": 3,
+      "title": "Horizon",
+      "runtime": 311,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-final-earth-2-2019/hwiesmzvcr/03.%20Horizon.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-final-earth-2-2019/03.%2520Horizon.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8912896,
+      "track_number": 4,
+      "title": "Out There",
+      "runtime": 249,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-final-earth-2-2019/gomlfzjyrn/04.%20Out%20There.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-final-earth-2-2019/04.%2520Out%2520There.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2275409,
+      "track_number": 5,
+      "title": "Reprise",
+      "runtime": 76,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-final-earth-2-2019/bghidpproi/05.%20Reprise.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-final-earth-2-2019/05.%2520Reprise.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1063,
+    "filesize_mp3_bytes": 32967227,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

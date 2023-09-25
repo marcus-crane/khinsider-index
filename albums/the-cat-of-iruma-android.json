@@ -1,0 +1,81 @@
+{
+  "title": "The cat of Iruma",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T01:56:00.476322+00:00",
+  "slug": "the-cat-of-iruma-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/the-cat-of-iruma-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/the-cat-of-iruma-android/1.jpg"
+  ],
+  "date_added": "2017-07-22T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 429916,
+      "title": "bgm_end1_A",
+      "runtime": 27,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-cat-of-iruma-android/jtenilqw/bgm_end1_A.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-cat-of-iruma-android/bgm_end1_A.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 272629,
+      "title": "bgm_end2_A",
+      "runtime": 17,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-cat-of-iruma-android/lgawpmpn/bgm_end2_A.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-cat-of-iruma-android/bgm_end2_A.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 251658,
+      "title": "bgm_end3_A",
+      "runtime": 16,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-cat-of-iruma-android/rnlkeuuv/bgm_end3_A.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-cat-of-iruma-android/bgm_end3_A.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 377487,
+      "title": "bgm_end_final",
+      "runtime": 23,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-cat-of-iruma-android/chtwzlna/bgm_end_final.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-cat-of-iruma-android/bgm_end_final.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 230686,
+      "title": "bgm_out_01",
+      "runtime": 14,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-cat-of-iruma-android/imtfjzia/bgm_out_01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-cat-of-iruma-android/bgm_out_01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 440401,
+      "title": "bgm_st_01",
+      "runtime": 27,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-cat-of-iruma-android/kfgqgpyu/bgm_st_01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-cat-of-iruma-android/bgm_st_01.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 124,
+    "filesize_mp3_bytes": 2002777,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

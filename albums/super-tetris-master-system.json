@@ -1,0 +1,56 @@
+{
+  "title": "Super Tetris (Unlicensed)",
+  "titles_alternative": [
+    "\u4fc4\u7f85\u65af\u65b9\u584a"
+  ],
+  "crawled_at": "2023-09-24T22:39:38.352488+00:00",
+  "slug": "super-tetris-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/super-tetris-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/super-tetris-master-system/Super%20Tetris.png"
+  ],
+  "date_added": "2020-07-21T00:00:00+00:00",
+  "developers": {
+    "Inc., Spectrum HoloByte": "https://downloads.khinsider.com/game-soundtracks/developer/inc.-spectrum-holobyte",
+    "Sphere": "https://downloads.khinsider.com/game-soundtracks/developer/sphere"
+  },
+  "publishers": {
+    "Spectrum Holobyte": "https://downloads.khinsider.com/game-soundtracks/publisher/spectrum-holobyte"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3795845,
+      "filesize_mp3_bytes": 2631925,
+      "track_number": 1,
+      "title": "Tetremix",
+      "runtime": 129,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-tetris-master-system/gmarkdymjm/01%20-%20Tetremix.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-tetris-master-system/gmarkdymjm/01%20-%20Tetremix.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-tetris-master-system/01%2520-%2520Tetremix.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 440401,
+      "filesize_mp3_bytes": 199229,
+      "track_number": 2,
+      "title": "Good Luck! (Game Over)",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-tetris-master-system/kfzjpbqmvr/02%20-%20Good%20Luck%21%20%28Game%20Over%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-tetris-master-system/kfzjpbqmvr/02%20-%20Good%20Luck%21%20%28Game%20Over%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-tetris-master-system/02%2520-%2520Good%2520Luck%2521%2520%2528Game%2520Over%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 138,
+    "filesize_mp3_bytes": 2831154,
+    "filesize_flac_bytes": 4236246,
+    "tracks": 2
+  }
+}

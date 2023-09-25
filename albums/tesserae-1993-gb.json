@@ -1,0 +1,43 @@
+{
+  "title": "Tesserae",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T01:32:58.329790+00:00",
+  "slug": "tesserae-1993-gb",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tesserae-1993-gb",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tesserae-1993-gb/Tesserae.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2022-06-20T00:00:00+00:00",
+  "developers": {
+    "Eurocom": "https://downloads.khinsider.com/game-soundtracks/developer/eurocom"
+  },
+  "publishers": {
+    "GameTek": "https://downloads.khinsider.com/game-soundtracks/publisher/gametek"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9405726,
+      "filesize_mp3_bytes": 3911188,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/tesserae-1993-gb/addhyqbhio/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tesserae-1993-gb/addhyqbhio/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tesserae-1993-gb/01%2520BGM%2520%252301.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 180,
+    "filesize_mp3_bytes": 3911188,
+    "filesize_flac_bytes": 9405726,
+    "tracks": 1
+  }
+}

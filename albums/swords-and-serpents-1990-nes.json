@@ -1,0 +1,65 @@
+{
+  "title": "Swords and Serpents",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T22:59:07.616361+00:00",
+  "slug": "swords-and-serpents-1990-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/swords-and-serpents-1990-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/swords-and-serpents-1990-nes/Swords%20and%20Serpents%20%281990%29%20%28NES%29.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2022-06-20T00:00:00+00:00",
+  "developers": {
+    "Interplay": "https://downloads.khinsider.com/game-soundtracks/developer/interplay"
+  },
+  "publishers": {
+    "Acclaim": "https://downloads.khinsider.com/game-soundtracks/publisher/acclaim"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10538188,
+      "filesize_mp3_bytes": 3365928,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/swords-and-serpents-1990-nes/wlnqotktiy/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/swords-and-serpents-1990-nes/wlnqotktiy/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/swords-and-serpents-1990-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9405726,
+      "filesize_mp3_bytes": 3795845,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/swords-and-serpents-1990-nes/ktuzhtlyza/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/swords-and-serpents-1990-nes/ktuzhtlyza/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/swords-and-serpents-1990-nes/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10842275,
+      "filesize_mp3_bytes": 3638558,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/swords-and-serpents-1990-nes/lthkzlzuta/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/swords-and-serpents-1990-nes/lthkzlzuta/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/swords-and-serpents-1990-nes/03.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 540,
+    "filesize_mp3_bytes": 10800331,
+    "filesize_flac_bytes": 30786189,
+    "tracks": 3
+  }
+}

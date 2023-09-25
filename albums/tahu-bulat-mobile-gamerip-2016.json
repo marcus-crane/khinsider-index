@@ -1,0 +1,62 @@
+{
+  "title": "Tahu Bulat",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T23:14:55.460723+00:00",
+  "slug": "tahu-bulat-mobile-gamerip-2016",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tahu-bulat-mobile-gamerip-2016",
+  "platforms": {
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tahu-bulat-mobile-gamerip-2016/cover.png"
+  ],
+  "year": 2016,
+  "date_added": "2023-03-03T00:00:00+00:00",
+  "developers": {
+    "Own Games": "https://downloads.khinsider.com/game-soundtracks/developer/own-games"
+  },
+  "publishers": {
+    "Own Games": "https://downloads.khinsider.com/game-soundtracks/publisher/own-games"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 975175,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 110,
+      "source_mp3": "https://vgmsite.com/soundtracks/tahu-bulat-mobile-gamerip-2016/aitzpzmxgt/01.%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tahu-bulat-mobile-gamerip-2016/01.%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 954204,
+      "track_number": 2,
+      "title": "Demam Tahu!",
+      "runtime": 24,
+      "source_mp3": "https://vgmsite.com/soundtracks/tahu-bulat-mobile-gamerip-2016/gjlxlsmryb/02.%20Demam%20Tahu%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tahu-bulat-mobile-gamerip-2016/02.%2520Demam%2520Tahu%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1279262,
+      "track_number": 3,
+      "title": "Sahur! Sahur!",
+      "runtime": 32,
+      "source_mp3": "https://vgmsite.com/soundtracks/tahu-bulat-mobile-gamerip-2016/lljysvxqhl/03.%20Sahur%21%20Sahur%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tahu-bulat-mobile-gamerip-2016/03.%2520Sahur%2521%2520Sahur%2521.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 166,
+    "filesize_mp3_bytes": 3208641,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

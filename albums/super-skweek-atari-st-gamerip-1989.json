@@ -1,0 +1,76 @@
+{
+  "title": "Skweek",
+  "titles_alternative": [
+    "Slider",
+    "\u30b9\u30af\u30a6\u30a3\u30fc\u30af"
+  ],
+  "crawled_at": "2023-09-24T22:09:02.090995+00:00",
+  "slug": "super-skweek-atari-st-gamerip-1989",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/super-skweek-atari-st-gamerip-1989",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/super-skweek-atari-st-gamerip-1989/skweek-cover.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2023-01-30T00:00:00+00:00",
+  "developers": {
+    "Loriciel": "https://downloads.khinsider.com/game-soundtracks/developer/loriciel"
+  },
+  "publishers": {
+    "Loriciel": "https://downloads.khinsider.com/game-soundtracks/publisher/loriciel",
+    "U.S. Gold": "https://downloads.khinsider.com/game-soundtracks/publisher/u.s.-gold"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3334471,
+      "track_number": 1,
+      "title": "Main Title, Stage Theme 1",
+      "runtime": 83,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-skweek-atari-st-gamerip-1989/bgsbmqkeyg/01.%20Main%20Title%2C%20Stage%20Theme%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-skweek-atari-st-gamerip-1989/01.%2520Main%2520Title%252C%2520Stage%2520Theme%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6018826,
+      "track_number": 2,
+      "title": "Stage Theme 2",
+      "runtime": 150,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-skweek-atari-st-gamerip-1989/nzcouvepbm/02.%20Stage%20Theme%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-skweek-atari-st-gamerip-1989/02.%2520Stage%2520Theme%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2327838,
+      "track_number": 3,
+      "title": "Stage Theme 3",
+      "runtime": 58,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-skweek-atari-st-gamerip-1989/tpyakoilie/03.%20Stage%20Theme%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-skweek-atari-st-gamerip-1989/03.%2520Stage%2520Theme%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-skweek-atari-st-gamerip-1989/cdplxrtsrn/04.%20Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-skweek-atari-st-gamerip-1989/04.%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 294,
+    "filesize_mp3_bytes": 11827935,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Tesserae",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T01:32:59.134024+00:00",
+  "slug": "tesserae-game-gear",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tesserae-game-gear",
+  "platforms": {
+    "Game Gear": "https://downloads.khinsider.com/game-soundtracks/sega-game-gear"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tesserae-game-gear/Tesserae%20%28GG%29.png"
+  ],
+  "year": 1992,
+  "date_added": "2020-07-22T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3512729,
+      "filesize_mp3_bytes": 2359296,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 119,
+      "source_mp3": "https://vgmsite.com/soundtracks/tesserae-game-gear/imsvxokrlg/01%20-%20Title.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tesserae-game-gear/imsvxokrlg/01%20-%20Title.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tesserae-game-gear/01%2520-%2520Title.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 119,
+    "filesize_mp3_bytes": 2359296,
+    "filesize_flac_bytes": 3512729,
+    "tracks": 1
+  }
+}

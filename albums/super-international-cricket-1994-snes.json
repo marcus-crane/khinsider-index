@@ -1,0 +1,65 @@
+{
+  "title": "Super International Cricket",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T21:10:19.191586+00:00",
+  "slug": "super-international-cricket-1994-snes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/super-international-cricket-1994-snes",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/super-international-cricket-1994-snes/S1.png"
+  ],
+  "year": 1994,
+  "date_added": "2019-08-26T00:00:00+00:00",
+  "developers": {
+    "Beam": "https://downloads.khinsider.com/game-soundtracks/developer/beam"
+  },
+  "publishers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5620367,
+      "filesize_mp3_bytes": 2726297,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 95,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-international-cricket-1994-snes/ygcvznqyjq/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-international-cricket-1994-snes/ygcvznqyjq/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-international-cricket-1994-snes/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5798625,
+      "filesize_mp3_bytes": 4917821,
+      "track_number": 2,
+      "title": "Playing a Game of Cricket",
+      "runtime": 197,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-international-cricket-1994-snes/bxtyvmkscm/02%20Playing%20a%20Game%20of%20Cricket.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-international-cricket-1994-snes/bxtyvmkscm/02%20Playing%20a%20Game%20of%20Cricket.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-international-cricket-1994-snes/02%2520Playing%2520a%2520Game%2520of%2520Cricket.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2988441,
+      "filesize_mp3_bytes": 1625292,
+      "track_number": 3,
+      "title": "Unused Song",
+      "runtime": 69,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-international-cricket-1994-snes/gfkfregxui/03%20Unused%20Song.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-international-cricket-1994-snes/gfkfregxui/03%20Unused%20Song.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-international-cricket-1994-snes/03%2520Unused%2520Song.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 361,
+    "filesize_mp3_bytes": 9269410,
+    "filesize_flac_bytes": 14407433,
+    "tracks": 3
+  }
+}

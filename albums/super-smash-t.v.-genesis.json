@@ -1,0 +1,102 @@
+{
+  "title": "Super Smash T.V.",
+  "titles_alternative": [
+    "Smash TV",
+    "\u30b9\u30fc\u30d1\u30fc\u30b9\u30de\u30c3\u30b7\u30e5\uff34\uff36"
+  ],
+  "crawled_at": "2023-09-24T22:28:56.088084+00:00",
+  "slug": "super-smash-t.v.-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/super-smash-t.v.-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/super-smash-t.v.-genesis/S1.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2020-03-25T00:00:00+00:00",
+  "developers": {
+    "Probe": "https://downloads.khinsider.com/game-soundtracks/developer/probe",
+    "Williams": "https://downloads.khinsider.com/game-soundtracks/developer/williams"
+  },
+  "publishers": {
+    "Flying Edge": "https://downloads.khinsider.com/game-soundtracks/publisher/flying-edge"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 30167531,
+      "filesize_mp3_bytes": 9447669,
+      "track_number": 1,
+      "title": "Title ~ First Circuit",
+      "runtime": 257,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-smash-t.v.-genesis/jqfzdpolbq/01%20-%20Title%20~%20First%20Circuit.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-smash-t.v.-genesis/jqfzdpolbq/01%20-%20Title%20~%20First%20Circuit.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-smash-t.v.-genesis/01%2520-%2520Title%2520~%2520First%2520Circuit.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20017315,
+      "filesize_mp3_bytes": 6081740,
+      "track_number": 2,
+      "title": "Second Circuit",
+      "runtime": 174,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-smash-t.v.-genesis/bjdqwkwbjp/02%20-%20Second%20Circuit.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-smash-t.v.-genesis/bjdqwkwbjp/02%20-%20Second%20Circuit.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-smash-t.v.-genesis/02%2520-%2520Second%2520Circuit.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 16200499,
+      "filesize_mp3_bytes": 6280970,
+      "track_number": 3,
+      "title": "Third Circuit",
+      "runtime": 177,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-smash-t.v.-genesis/zqyppjjoau/03%20-%20Third%20Circuit.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-smash-t.v.-genesis/zqyppjjoau/03%20-%20Third%20Circuit.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-smash-t.v.-genesis/03%2520-%2520Third%2520Circuit.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 62914,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 4,
+      "title": "Invulnerability",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-smash-t.v.-genesis/ooiahcwowl/04%20-%20Invulnerability.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-smash-t.v.-genesis/ooiahcwowl/04%20-%20Invulnerability.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-smash-t.v.-genesis/04%2520-%2520Invulnerability.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 52428,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 5,
+      "title": "Victory",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-smash-t.v.-genesis/olfwdhwcsd/05%20-%20Victory.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-smash-t.v.-genesis/olfwdhwcsd/05%20-%20Victory.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-smash-t.v.-genesis/05%2520-%2520Victory.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5746196,
+      "filesize_mp3_bytes": 1939865,
+      "track_number": 6,
+      "title": "Unused Track",
+      "runtime": 68,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-smash-t.v.-genesis/gxotlqckuv/06%20-%20Unused%20Track.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-smash-t.v.-genesis/gxotlqckuv/06%20-%20Unused%20Track.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-smash-t.v.-genesis/06%2520-%2520Unused%2520Track.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 678,
+    "filesize_mp3_bytes": 23792186,
+    "filesize_flac_bytes": 72246883,
+    "tracks": 6
+  }
+}

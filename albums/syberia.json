@@ -1,0 +1,92 @@
+{
+  "title": "Syberia",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T22:59:21.239154+00:00",
+  "slug": "syberia",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/syberia",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/syberia/Syberia.jpg"
+  ],
+  "year": 2002,
+  "date_added": "2007-09-19T00:00:00+00:00",
+  "developers": {
+    "Microids": "https://downloads.khinsider.com/game-soundtracks/developer/microids"
+  },
+  "publishers": {
+    "Micro\u00efds": "https://downloads.khinsider.com/game-soundtracks/publisher/micro-ds"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2977955,
+      "track_number": 1,
+      "title": "Sybria Theme",
+      "runtime": 186,
+      "source_mp3": "https://vgmsite.com/soundtracks/syberia/ltlpbnbu/01%20-%20Sybria%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/syberia/01%2520-%2520Sybria%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 796917,
+      "track_number": 2,
+      "title": "Syberia Menu Music",
+      "runtime": 50,
+      "source_mp3": "https://vgmsite.com/soundtracks/syberia/oflmuhgh/02%20-%20Syberia%20Menu%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/syberia/02%2520-%2520Syberia%2520Menu%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2915041,
+      "track_number": 3,
+      "title": "Syberia Music 01",
+      "runtime": 182,
+      "source_mp3": "https://vgmsite.com/soundtracks/syberia/lkpiqgdu/03%20-%20Syberia%20Music%2001.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/syberia/03%2520-%2520Syberia%2520Music%252001.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3061841,
+      "track_number": 4,
+      "title": "Syberia Music 02",
+      "runtime": 191,
+      "source_mp3": "https://vgmsite.com/soundtracks/syberia/xjezihqo/04%20-%20Syberia%20Music%2002.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/syberia/04%2520-%2520Syberia%2520Music%252002.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2956984,
+      "track_number": 5,
+      "title": "Syberia Music 03",
+      "runtime": 185,
+      "source_mp3": "https://vgmsite.com/soundtracks/syberia/nhediniy/05%20-%20Syberia%20Music%2003.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/syberia/05%2520-%2520Syberia%2520Music%252003.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 849346,
+      "track_number": 6,
+      "title": "Zeppelin",
+      "runtime": 53,
+      "source_mp3": "https://vgmsite.com/soundtracks/syberia/qtiqnfrx/06%20-%20Zeppelin.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/syberia/06%2520-%2520Zeppelin.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 847,
+    "filesize_mp3_bytes": 13558084,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

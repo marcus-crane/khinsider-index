@@ -1,0 +1,82 @@
+{
+  "title": "Teenage Mutant Hero Turtles - The Coin-Op!",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T00:53:54.565409+00:00",
+  "slug": "teenage-mutant-hero-turtles-the-coin-op-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/teenage-mutant-hero-turtles-the-coin-op-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/teenage-mutant-hero-turtles-the-coin-op-amiga/TC.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2019-05-20T00:00:00+00:00",
+  "developers": {
+    "Probe": "https://downloads.khinsider.com/game-soundtracks/developer/probe"
+  },
+  "publishers": {
+    "Image Works": "https://downloads.khinsider.com/game-soundtracks/publisher/image-works"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2610954,
+      "track_number": 1,
+      "title": "Opening",
+      "runtime": 89,
+      "source_mp3": "https://vgmsite.com/soundtracks/teenage-mutant-hero-turtles-the-coin-op-amiga/fqiwgivg/01_Opening.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/teenage-mutant-hero-turtles-the-coin-op-amiga/01_Opening.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1331691,
+      "track_number": 2,
+      "title": "Unused (Bonus)",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/teenage-mutant-hero-turtles-the-coin-op-amiga/perjibkg/02_Unused%20%28Bonus%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/teenage-mutant-hero-turtles-the-coin-op-amiga/02_Unused%2520%2528Bonus%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2181038,
+      "track_number": 3,
+      "title": "Unused (Boss Theme)",
+      "runtime": 67,
+      "source_mp3": "https://vgmsite.com/soundtracks/teenage-mutant-hero-turtles-the-coin-op-amiga/dsfytonv/03_Unused%20%28Boss%20Theme%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/teenage-mutant-hero-turtles-the-coin-op-amiga/03_Unused%2520%2528Boss%2520Theme%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 220200,
+      "track_number": 4,
+      "title": "Unused (Stage Clear)",
+      "runtime": 9,
+      "source_mp3": "https://vgmsite.com/soundtracks/teenage-mutant-hero-turtles-the-coin-op-amiga/otvysotk/04_Unused%20%28Stage%20Clear%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/teenage-mutant-hero-turtles-the-coin-op-amiga/04_Unused%2520%2528Stage%2520Clear%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 5,
+      "title": "Unused (Game Over)",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/teenage-mutant-hero-turtles-the-coin-op-amiga/wwdkbfyl/05_Unused%20%28Game%20Over%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/teenage-mutant-hero-turtles-the-coin-op-amiga/05_Unused%2520%2528Game%2520Over%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 218,
+    "filesize_mp3_bytes": 6480197,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "title": "Super Mario Brothers ~Mario Syndrome~",
+  "titles_alternative": [
+    "\u30de\u30ea\u30aa\u30fb\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0"
+  ],
+  "crawled_at": "2023-09-24T21:23:29.808549+00:00",
+  "slug": "super-mario-brothers-mario-syndrome",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-brothers-mario-syndrome",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/super-mario-brothers-mario-syndrome/Super%20Mario%20Brothers%20~Mario%20Syndrome~.jpg"
+  ],
+  "year": 1986,
+  "catalog_number": "K13A-748",
+  "date_added": "2006-11-25T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "King Record Co., Ltd.": "https://downloads.khinsider.com/game-soundtracks/publisher/king-record"
+  },
+  "genres": {
+    "Remix": "https://downloads.khinsider.com/game-soundtracks/remixes"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9028239,
+      "title": "01 Mario Syndrome.mp3",
+      "runtime": 367,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-brothers-mario-syndrome/wdjrqdod/01%20Mario%20Syndrome.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-brothers-mario-syndrome/01%2520Mario%2520Syndrome.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5064622,
+      "title": "02 Mario Syndrome Re Mix Version.mp3",
+      "runtime": 223,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-brothers-mario-syndrome/jhffojum/02%20Mario%20Syndrome%20Re%20Mix%20Version.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-brothers-mario-syndrome/02%2520Mario%2520Syndrome%2520Re%2520Mix%2520Version.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8839495,
+      "title": "03 Princess Peach.mp3",
+      "runtime": 371,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-brothers-mario-syndrome/vzsptdmd/03%20Princess%20Peach.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-brothers-mario-syndrome/03%2520Princess%2520Peach.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1971322,
+      "title": "Save me with your charm.mp3",
+      "runtime": 120,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-mario-brothers-mario-syndrome/punpolbz/Save%20me%20with%20your%20charm.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-mario-brothers-mario-syndrome/Save%2520me%2520with%2520your%2520charm.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1081,
+    "filesize_mp3_bytes": 24903678,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

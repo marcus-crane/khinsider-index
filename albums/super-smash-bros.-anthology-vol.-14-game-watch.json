@@ -1,0 +1,62 @@
+{
+  "title": "Super Smash Bros. Anthology Vol. 14 - Game & Watch",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T22:13:52.548566+00:00",
+  "slug": "super-smash-bros.-anthology-vol.-14-game-watch",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/super-smash-bros.-anthology-vol.-14-game-watch",
+  "platforms": {
+    "3DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-3ds",
+    "GC": "https://downloads.khinsider.com/game-soundtracks/nintendo-gamecube",
+    "Switch": "https://downloads.khinsider.com/game-soundtracks/nintendo-switch",
+    "Wii": "https://downloads.khinsider.com/game-soundtracks/nintendo-wii",
+    "Wii U": "https://downloads.khinsider.com/game-soundtracks/nintendo-wii-u"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/super-smash-bros.-anthology-vol.-14-game-watch/game_%26_watch.png"
+  ],
+  "year": 2001,
+  "date_added": "2020-09-01T00:00:00+00:00",
+  "developers": {
+    "BNE Entertainment": "https://downloads.khinsider.com/game-soundtracks/developer/bne-entertainment",
+    "Masahiro Sakurai": "https://downloads.khinsider.com/game-soundtracks/developer/masahiro-sakurai",
+    "MORE": "https://downloads.khinsider.com/game-soundtracks/developer/more",
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/developer/nintendo"
+  },
+  "publishers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo",
+    "Nintendo of America": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo-of-america"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 22387097,
+      "filesize_mp3_bytes": 8032092,
+      "track_number": 1,
+      "title": "Flat Zone",
+      "runtime": 216,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-smash-bros.-anthology-vol.-14-game-watch/oeubbiubgz/01.%20Flat%20Zone.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-smash-bros.-anthology-vol.-14-game-watch/oeubbiubgz/01.%20Flat%20Zone.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-smash-bros.-anthology-vol.-14-game-watch/01.%2520Flat%2520Zone.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 27315404,
+      "filesize_mp3_bytes": 8545894,
+      "track_number": 2,
+      "title": "Flat Zone 2",
+      "runtime": 227,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-smash-bros.-anthology-vol.-14-game-watch/ffnqbrqqpo/02.%20Flat%20Zone%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-smash-bros.-anthology-vol.-14-game-watch/ffnqbrqqpo/02.%20Flat%20Zone%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-smash-bros.-anthology-vol.-14-game-watch/02.%2520Flat%2520Zone%25202.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 443,
+    "filesize_mp3_bytes": 16577986,
+    "filesize_flac_bytes": 49702501,
+    "tracks": 2
+  }
+}

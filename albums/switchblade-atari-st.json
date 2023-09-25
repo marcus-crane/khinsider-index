@@ -1,0 +1,62 @@
+{
+  "title": "Switchblade",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T22:53:42.124533+00:00",
+  "slug": "switchblade-atari-st",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/switchblade-atari-st",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/switchblade-atari-st/Switchblade%20%28Atari%20ST%29.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2019-07-01T00:00:00+00:00",
+  "developers": {
+    "Core Design": "https://downloads.khinsider.com/game-soundtracks/developer/core-design"
+  },
+  "publishers": {
+    "Gremlin Graphics": "https://downloads.khinsider.com/game-soundtracks/publisher/gremlin-graphics"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4970250,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 165,
+      "source_mp3": "https://vgmsite.com/soundtracks/switchblade-atari-st/awodiaurco/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/switchblade-atari-st/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 2,
+      "title": "Get Ready!",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/switchblade-atari-st/klokpjwlhh/02_Get%20Ready%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/switchblade-atari-st/02_Get%2520Ready%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6585057,
+      "track_number": 3,
+      "title": "In-Game BGM",
+      "runtime": 210,
+      "source_mp3": "https://vgmsite.com/soundtracks/switchblade-atari-st/wwewhjrciy/03_In-Game%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/switchblade-atari-st/03_In-Game%2520BGM.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 380,
+    "filesize_mp3_bytes": 11681136,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

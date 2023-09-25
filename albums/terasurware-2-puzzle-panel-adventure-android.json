@@ -1,0 +1,45 @@
+{
+  "title": "Terasurware - 2 Puzzle Panel & Adventure !!",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T01:26:00.669181+00:00",
+  "slug": "terasurware-2-puzzle-panel-adventure-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/terasurware-2-puzzle-panel-adventure-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/terasurware-2-puzzle-panel-adventure-android/1.jpg"
+  ],
+  "date_added": "2016-10-26T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 901775,
+      "title": "adv",
+      "runtime": 225,
+      "source_mp3": "https://vgmsite.com/soundtracks/terasurware-2-puzzle-panel-adventure-android/zwucqbqc/adv.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/terasurware-2-puzzle-panel-adventure-android/adv.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1006632,
+      "title": "game",
+      "runtime": 167,
+      "source_mp3": "https://vgmsite.com/soundtracks/terasurware-2-puzzle-panel-adventure-android/xvoejkpe/game.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/terasurware-2-puzzle-panel-adventure-android/game.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 392,
+    "filesize_mp3_bytes": 1908407,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "title": "Super Skidmarks",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-24T22:08:49.389682+00:00",
+  "slug": "super-skidmarks-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/super-skidmarks-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/super-skidmarks-genesis/Super%20Skidmarks.png"
+  ],
+  "year": 1995,
+  "date_added": "2020-03-25T00:00:00+00:00",
+  "developers": {
+    "Acid Software": "https://downloads.khinsider.com/game-soundtracks/developer/acid-software"
+  },
+  "publishers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/publisher/codemasters"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 13547601,
+      "filesize_mp3_bytes": 4362076,
+      "track_number": 1,
+      "title": "Title Theme",
+      "runtime": 215,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-skidmarks-genesis/fcdohaftfv/01%20-%20Title%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-skidmarks-genesis/fcdohaftfv/01%20-%20Title%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-skidmarks-genesis/01%2520-%2520Title%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7612661,
+      "filesize_mp3_bytes": 2768240,
+      "track_number": 2,
+      "title": "Result",
+      "runtime": 131,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-skidmarks-genesis/ggldqkawuj/02%20-%20Result.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-skidmarks-genesis/ggldqkawuj/02%20-%20Result.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-skidmarks-genesis/02%2520-%2520Result.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4571791,
+      "filesize_mp3_bytes": 1447034,
+      "track_number": 3,
+      "title": "Win",
+      "runtime": 73,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-skidmarks-genesis/mwjmbjrtor/03%20-%20Win.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-skidmarks-genesis/mwjmbjrtor/03%20-%20Win.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-skidmarks-genesis/03%2520-%2520Win.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 419,
+    "filesize_mp3_bytes": 8577350,
+    "filesize_flac_bytes": 25732053,
+    "tracks": 3
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "title": "The Cycles - International Grand Prix Racing",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T02:01:13.455527+00:00",
+  "slug": "the-cycles-international-grand-prix-racing-pc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/the-cycles-international-grand-prix-racing-pc",
+  "platforms": {
+    "IBM PC": "https://downloads.khinsider.com/game-soundtracks/ibm-pc",
+    "MS-DOS": "https://downloads.khinsider.com/game-soundtracks/ms-dos"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/the-cycles-international-grand-prix-racing-pc/C1.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2022-06-18T00:00:00+00:00",
+  "developers": {
+    "Distinctive Software Inc.": "https://downloads.khinsider.com/game-soundtracks/developer/distinctive-software"
+  },
+  "publishers": {
+    "Accolade": "https://downloads.khinsider.com/game-soundtracks/publisher/accolade",
+    "The Hit Squad": "https://downloads.khinsider.com/game-soundtracks/publisher/the-hit-squad"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3680501,
+      "filesize_mp3_bytes": 1688207,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 68,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-cycles-international-grand-prix-racing-pc/hlpdhcllrw/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/the-cycles-international-grand-prix-racing-pc/hlpdhcllrw/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-cycles-international-grand-prix-racing-pc/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4351590,
+      "filesize_mp3_bytes": 1803550,
+      "track_number": 2,
+      "title": "Choose Game Type",
+      "runtime": 76,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-cycles-international-grand-prix-racing-pc/cvzxbjelco/02%20Choose%20Game%20Type.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/the-cycles-international-grand-prix-racing-pc/cvzxbjelco/02%20Choose%20Game%20Type.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-cycles-international-grand-prix-racing-pc/02%2520Choose%2520Game%2520Type.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4886364,
+      "filesize_mp3_bytes": 1929379,
+      "track_number": 3,
+      "title": "Podium",
+      "runtime": 92,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-cycles-international-grand-prix-racing-pc/lazfbunvrn/03%20Podium.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/the-cycles-international-grand-prix-racing-pc/lazfbunvrn/03%20Podium.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-cycles-international-grand-prix-racing-pc/03%2520Podium.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 236,
+    "filesize_mp3_bytes": 5421136,
+    "filesize_flac_bytes": 12918455,
+    "tracks": 3
+  }
+}

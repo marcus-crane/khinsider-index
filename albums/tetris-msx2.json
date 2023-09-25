@@ -1,0 +1,111 @@
+{
+  "title": "Tetris",
+  "titles_alternative": [
+    "\u30c6\u30c8\u30ea\u30b9"
+  ],
+  "crawled_at": "2023-09-25T01:39:11.586128+00:00",
+  "slug": "tetris-msx2",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-msx2",
+  "platforms": {
+    "MSX2": "https://downloads.khinsider.com/game-soundtracks/msx2"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tetris-msx2/Tetris%20Cover.jpg"
+  ],
+  "year": 1988,
+  "date_added": "2022-06-15T00:00:00+00:00",
+  "developers": {
+    "Bullet-Proof Software": "https://downloads.khinsider.com/game-soundtracks/developer/bullet-proof-software"
+  },
+  "publishers": {
+    "Bullet-Proof Software": "https://downloads.khinsider.com/game-soundtracks/publisher/bullet-proof-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9007267,
+      "filesize_mp3_bytes": 3271557,
+      "track_number": 1,
+      "title": "Peddler",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-msx2/whcosvfpen/01%20Peddler.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-msx2/whcosvfpen/01%20Peddler.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-msx2/01%2520Peddler.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5599395,
+      "filesize_mp3_bytes": 2684354,
+      "track_number": 2,
+      "title": "Technotris",
+      "runtime": 126,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-msx2/igsrgqutdd/02%20Technotris.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-msx2/igsrgqutdd/02%20Technotris.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-msx2/02%2520Technotris.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5211422,
+      "filesize_mp3_bytes": 1981808,
+      "track_number": 3,
+      "title": "Karinka",
+      "runtime": 106,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-msx2/alzesmjobg/03%20Karinka.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-msx2/alzesmjobg/03%20Karinka.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-msx2/03%2520Karinka.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6081740,
+      "filesize_mp3_bytes": 2432696,
+      "track_number": 4,
+      "title": "Troika",
+      "runtime": 131,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-msx2/rodxdssabn/04%20Troika.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-msx2/rodxdssabn/04%20Troika.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-msx2/04%2520Troika.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4320133,
+      "filesize_mp3_bytes": 1551892,
+      "track_number": 5,
+      "title": "Celebration 1",
+      "runtime": 85,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-msx2/sywlgthccn/05%20Celebration%201.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-msx2/sywlgthccn/05%20Celebration%201.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-msx2/05%2520Celebration%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3837788,
+      "filesize_mp3_bytes": 1415577,
+      "track_number": 6,
+      "title": "Celebration 2",
+      "runtime": 74,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-msx2/imvwdwidak/06%20Celebration%202.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-msx2/imvwdwidak/06%20Celebration%202.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-msx2/06%2520Celebration%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3481272,
+      "filesize_mp3_bytes": 1488977,
+      "track_number": 7,
+      "title": "Heroes",
+      "runtime": 76,
+      "source_mp3": "https://vgmsite.com/soundtracks/tetris-msx2/tiqabkcqtb/07%20Heroes.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tetris-msx2/tiqabkcqtb/07%20Heroes.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-msx2/07%2520Heroes.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 778,
+    "filesize_mp3_bytes": 14826861,
+    "filesize_flac_bytes": 37539017,
+    "tracks": 7
+  }
+}
