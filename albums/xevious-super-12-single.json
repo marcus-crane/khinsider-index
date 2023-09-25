@@ -1,0 +1,61 @@
+{
+  "title": "Super Xevious (12\" Single)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T15:21:27.226460+00:00",
+  "slug": "xevious-super-12-single",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/xevious-super-12-single",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/xevious-super-12-single/Super%20Xevious%20%2812%20Single%29.jpg"
+  ],
+  "year": 1984,
+  "catalog_number": "YLR-12002",
+  "date_added": "2006-11-25T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "YEN Records": "https://downloads.khinsider.com/game-soundtracks/publisher/yen-records"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 12582912,
+      "track_number": 1,
+      "title": "super xevious",
+      "runtime": 526,
+      "source_mp3": "https://vgmsite.com/soundtracks/xevious-super-12-single/tfskfqhi/01-super%20xevious.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xevious-super-12-single/01-super%2520xevious.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7623147,
+      "track_number": 2,
+      "title": "gaplus",
+      "runtime": 318,
+      "source_mp3": "https://vgmsite.com/soundtracks/xevious-super-12-single/xmgflzjj/02-gaplus.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xevious-super-12-single/02-gaplus.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2506096,
+      "track_number": 3,
+      "title": "the tower of druaga",
+      "runtime": 105,
+      "source_mp3": "https://vgmsite.com/soundtracks/xevious-super-12-single/lyeigqee/03-the%20tower%20of%20druaga.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xevious-super-12-single/03-the%2520tower%2520of%2520druaga.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 949,
+    "filesize_mp3_bytes": 22712155,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Your Demise",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T15:50:42.341369+00:00",
+  "slug": "your-demise-2021",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/your-demise-2021",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/your-demise-2021/cover.jpg"
+  ],
+  "year": 2021,
+  "date_added": "2023-05-06T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10412359,
+      "filesize_mp3_bytes": 2610954,
+      "title": "Your Demise - FruityDaLei",
+      "runtime": 87,
+      "source_mp3": "https://vgmsite.com/soundtracks/your-demise-2021/dyphraxihj/Your%20Demise%20-%20FruityDaLei.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/your-demise-2021/dyphraxihj/Your%20Demise%20-%20FruityDaLei.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/your-demise-2021/Your%2520Demise%2520-%2520FruityDaLei.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 87,
+    "filesize_mp3_bytes": 2610954,
+    "filesize_flac_bytes": 10412359,
+    "tracks": 1
+  }
+}

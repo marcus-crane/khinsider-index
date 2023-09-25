@@ -1,0 +1,97 @@
+{
+  "title": "World Online",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T14:56:29.381722+00:00",
+  "slug": "world-online-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/world-online-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/world-online-android/Screenshot_2017-04-21-15-39-19.png"
+  ],
+  "date_added": "2017-07-22T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 891289,
+      "track_number": 1,
+      "title": "main",
+      "runtime": 37,
+      "source_mp3": "https://vgmsite.com/soundtracks/world-online-android/lcprkijg/1%20main.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/world-online-android/1%2520main.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1488977,
+      "track_number": 2,
+      "title": "city",
+      "runtime": 57,
+      "source_mp3": "https://vgmsite.com/soundtracks/world-online-android/xhmyaouj/2%20city.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/world-online-android/2%2520city.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1751121,
+      "track_number": 3,
+      "title": "att",
+      "runtime": 60,
+      "source_mp3": "https://vgmsite.com/soundtracks/world-online-android/evwopuib/3%20att.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/world-online-android/3%2520att.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1646264,
+      "track_number": 4,
+      "title": "wild",
+      "runtime": 63,
+      "source_mp3": "https://vgmsite.com/soundtracks/world-online-android/jwmeuotx/4%20wild.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/world-online-android/4%2520wild.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 5,
+      "title": "up",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/world-online-android/eisvvgib/5%20up.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/world-online-android/5%2520up.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 6,
+      "title": "win",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/world-online-android/psbxifkx/6%20win.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/world-online-android/6%2520win.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 7,
+      "title": "lose",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/world-online-android/ymbpehka/7%20lose.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/world-online-android/7%2520lose.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 228,
+    "filesize_mp3_bytes": 6039794,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

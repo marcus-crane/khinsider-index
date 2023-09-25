@@ -1,0 +1,90 @@
+{
+  "title": "Wrecking Crew (HD)",
+  "titles_alternative": [
+    "\u30ec\u30c3\u30ad\u30f3\u30b0\u30af\u30eb\u30fc"
+  ],
+  "crawled_at": "2023-09-25T15:04:40.562904+00:00",
+  "slug": "wrecking-crew-rip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/wrecking-crew-rip",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/wrecking-crew-rip/W1.jpg"
+  ],
+  "year": 1985,
+  "date_added": "2022-06-18T00:00:00+00:00",
+  "developers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/developer/nintendo"
+  },
+  "publishers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5054136,
+      "filesize_mp3_bytes": 2212495,
+      "track_number": 1,
+      "title": "Start ~ Phase BGM",
+      "runtime": 118,
+      "source_mp3": "https://vgmsite.com/soundtracks/wrecking-crew-rip/sbyevdeory/01%20Start%20~%20Phase%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/wrecking-crew-rip/sbyevdeory/01%20Start%20~%20Phase%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wrecking-crew-rip/01%2520Start%2520~%2520Phase%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 115343,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 2,
+      "title": "Phase Clear",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/wrecking-crew-rip/loxgbdoldn/02%20Phase%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/wrecking-crew-rip/loxgbdoldn/02%20Phase%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wrecking-crew-rip/02%2520Phase%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3774873,
+      "filesize_mp3_bytes": 1625292,
+      "track_number": 3,
+      "title": "Bonus Stage",
+      "runtime": 73,
+      "source_mp3": "https://vgmsite.com/soundtracks/wrecking-crew-rip/muhjgluhie/03%20Bonus%20Stage.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/wrecking-crew-rip/muhjgluhie/03%20Bonus%20Stage.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wrecking-crew-rip/03%2520Bonus%2520Stage.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 104857,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/wrecking-crew-rip/hfrukrukes/04%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/wrecking-crew-rip/hfrukrukes/04%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wrecking-crew-rip/04%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3827302,
+      "filesize_mp3_bytes": 1635778,
+      "track_number": 5,
+      "title": "Golden Hammer",
+      "runtime": 81,
+      "source_mp3": "https://vgmsite.com/soundtracks/wrecking-crew-rip/ktdypocdtr/05%20Golden%20Hammer.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/wrecking-crew-rip/ktdypocdtr/05%20Golden%20Hammer.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wrecking-crew-rip/05%2520Golden%2520Hammer.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 278,
+    "filesize_mp3_bytes": 5578421,
+    "filesize_flac_bytes": 12876511,
+    "tracks": 5
+  }
+}

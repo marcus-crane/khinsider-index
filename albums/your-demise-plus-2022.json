@@ -1,0 +1,48 @@
+{
+  "title": "Your Demise Plus",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T15:50:43.269593+00:00",
+  "slug": "your-demise-plus-2022",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/your-demise-plus-2022",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/your-demise-plus-2022/cover.jpg"
+  ],
+  "year": 2022,
+  "date_added": "2023-05-06T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 22072524,
+      "filesize_mp3_bytes": 5536481,
+      "track_number": 1,
+      "title": "Your Demise",
+      "runtime": 162,
+      "source_mp3": "https://vgmsite.com/soundtracks/your-demise-plus-2022/lgovqvokfl/01.%20Your%20Demise.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/your-demise-plus-2022/lgovqvokfl/01.%20Your%20Demise.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/your-demise-plus-2022/01.%2520Your%2520Demise.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20017315,
+      "filesize_mp3_bytes": 5546967,
+      "track_number": 2,
+      "title": "Your Demise (Instrumental)",
+      "runtime": 162,
+      "source_mp3": "https://vgmsite.com/soundtracks/your-demise-plus-2022/bjrudauaka/02.%20Your%20Demise%20%28Instrumental%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/your-demise-plus-2022/bjrudauaka/02.%20Your%20Demise%20%28Instrumental%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/your-demise-plus-2022/02.%2520Your%2520Demise%2520%2528Instrumental%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 324,
+    "filesize_mp3_bytes": 11083448,
+    "filesize_flac_bytes": 42089839,
+    "tracks": 2
+  }
+}

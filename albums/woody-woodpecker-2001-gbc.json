@@ -1,0 +1,90 @@
+{
+  "title": "Woody Woodpecker (GBC)",
+  "titles_alternative": [
+    "Woody Woodpecker: Escape from Buzz Buzzard Park"
+  ],
+  "crawled_at": "2023-09-25T14:36:48.593721+00:00",
+  "slug": "woody-woodpecker-2001-gbc",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/woody-woodpecker-2001-gbc",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/woody-woodpecker-2001-gbc/Woody%20Woodpecker%20%282001%29%20%28GBC%29.jpg"
+  ],
+  "year": 2001,
+  "date_added": "2022-06-27T00:00:00+00:00",
+  "developers": {
+    "Planet": "https://downloads.khinsider.com/game-soundtracks/developer/planet"
+  },
+  "publishers": {
+    "Cryo": "https://downloads.khinsider.com/game-soundtracks/publisher/cryo",
+    "DreamCatcher": "https://downloads.khinsider.com/game-soundtracks/publisher/dreamcatcher"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10653532,
+      "filesize_mp3_bytes": 3607101,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/woody-woodpecker-2001-gbc/ymqrcuylsn/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/woody-woodpecker-2001-gbc/ymqrcuylsn/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/woody-woodpecker-2001-gbc/01%2520BGM%2520%252301.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10338959,
+      "filesize_mp3_bytes": 3711959,
+      "track_number": 2,
+      "title": "BGM #02",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/woody-woodpecker-2001-gbc/mzelpkyjny/02%20BGM%20%2302.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/woody-woodpecker-2001-gbc/mzelpkyjny/02%20BGM%20%2302.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/woody-woodpecker-2001-gbc/02%2520BGM%2520%252302.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9720299,
+      "filesize_mp3_bytes": 3869245,
+      "track_number": 3,
+      "title": "BGM #03",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/woody-woodpecker-2001-gbc/qcjcfdcdbu/03%20BGM%20%2303.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/woody-woodpecker-2001-gbc/qcjcfdcdbu/03%20BGM%20%2303.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/woody-woodpecker-2001-gbc/03%2520BGM%2520%252303.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10475274,
+      "filesize_mp3_bytes": 3690987,
+      "track_number": 4,
+      "title": "BGM #04",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/woody-woodpecker-2001-gbc/xynxhrycig/04%20BGM%20%2304.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/woody-woodpecker-2001-gbc/xynxhrycig/04%20BGM%20%2304.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/woody-woodpecker-2001-gbc/04%2520BGM%2520%252304.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10391388,
+      "filesize_mp3_bytes": 3659530,
+      "track_number": 5,
+      "title": "BGM #05",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/woody-woodpecker-2001-gbc/stqqkihtoo/05%20BGM%20%2305.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/woody-woodpecker-2001-gbc/stqqkihtoo/05%20BGM%20%2305.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/woody-woodpecker-2001-gbc/05%2520BGM%2520%252305.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 900,
+    "filesize_mp3_bytes": 18538822,
+    "filesize_flac_bytes": 51579452,
+    "tracks": 5
+  }
+}

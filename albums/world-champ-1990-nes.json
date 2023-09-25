@@ -1,0 +1,104 @@
+{
+  "title": "World Champ",
+  "titles_alternative": [
+    "Great Boxing - Rush Up",
+    "\u30b0\u30ec\u30fc\u30c8\u30dc\u30af\u30b7\u30f3\u30b0 RUSH\u30fbUP"
+  ],
+  "crawled_at": "2023-09-25T14:40:09.378924+00:00",
+  "slug": "world-champ-1990-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/world-champ-1990-nes",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/world-champ-1990-nes/World%20Champ.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2022-06-29T00:00:00+00:00",
+  "developers": {
+    "Pixel": "https://downloads.khinsider.com/game-soundtracks/developer/pixel"
+  },
+  "publishers": {
+    "Romstar": "https://downloads.khinsider.com/game-soundtracks/publisher/romstar",
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/publisher/taito",
+    "Visco": "https://downloads.khinsider.com/game-soundtracks/publisher/visco"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11020533,
+      "filesize_mp3_bytes": 3732930,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/world-champ-1990-nes/bsnqblzene/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/world-champ-1990-nes/bsnqblzene/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/world-champ-1990-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11418992,
+      "filesize_mp3_bytes": 3680501,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/world-champ-1990-nes/hbeakgwigq/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/world-champ-1990-nes/hbeakgwigq/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/world-champ-1990-nes/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11010048,
+      "filesize_mp3_bytes": 3607101,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/world-champ-1990-nes/gzxxfbpuqs/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/world-champ-1990-nes/gzxxfbpuqs/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/world-champ-1990-nes/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10999562,
+      "filesize_mp3_bytes": 3900702,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/world-champ-1990-nes/zpnhplsbol/04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/world-champ-1990-nes/zpnhplsbol/04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/world-champ-1990-nes/04.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10873733,
+      "filesize_mp3_bytes": 3701473,
+      "track_number": 5,
+      "title": "Track 5",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/world-champ-1990-nes/auoxddvcmp/05.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/world-champ-1990-nes/auoxddvcmp/05.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/world-champ-1990-nes/05.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10789847,
+      "filesize_mp3_bytes": 3690987,
+      "track_number": 6,
+      "title": "Track 6",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/world-champ-1990-nes/qvqyrolyvm/06.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/world-champ-1990-nes/qvqyrolyvm/06.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/world-champ-1990-nes/06.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1080,
+    "filesize_mp3_bytes": 22313694,
+    "filesize_flac_bytes": 66112715,
+    "tracks": 6
+  }
+}

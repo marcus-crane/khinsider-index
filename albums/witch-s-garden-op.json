@@ -1,0 +1,77 @@
+{
+  "title": "Witch's Garden",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T14:10:08.931079+00:00",
+  "slug": "witch-s-garden-op",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/witch-s-garden-op",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/witch-s-garden-op/01.jpg"
+  ],
+  "year": 2012,
+  "catalog_number": "LACM-14030",
+  "date_added": "2020-04-28T00:00:00+00:00",
+  "developers": {
+    "Windmill Oasis": "https://downloads.khinsider.com/game-soundtracks/developer/windmill-oasis"
+  },
+  "publishers": {
+    "Lantis": "https://downloads.khinsider.com/game-soundtracks/publisher/lantis"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 42278584,
+      "filesize_mp3_bytes": 11219763,
+      "track_number": 1,
+      "title": "Witch\u0081's Garden",
+      "runtime": 303,
+      "source_mp3": "https://vgmsite.com/soundtracks/witch-s-garden-op/hmtrsxkkeh/01%20-%20Witch%C2%81%27s%20Garden.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/witch-s-garden-op/hmtrsxkkeh/01%20-%20Witch%C2%81%27s%20Garden.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/witch-s-garden-op/01%2520-%2520Witch%25C2%2581%2527s%2520Garden.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 26455572,
+      "filesize_mp3_bytes": 7319060,
+      "track_number": 2,
+      "title": "Prologue",
+      "runtime": 192,
+      "source_mp3": "https://vgmsite.com/soundtracks/witch-s-garden-op/emlhksltwv/02%20-%20Prologue.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/witch-s-garden-op/emlhksltwv/02%20-%20Prologue.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/witch-s-garden-op/02%2520-%2520Prologue.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 41617981,
+      "filesize_mp3_bytes": 11324620,
+      "track_number": 3,
+      "title": "Witch\u0081's Garden (Inst.)",
+      "runtime": 303,
+      "source_mp3": "https://vgmsite.com/soundtracks/witch-s-garden-op/ypufsqyusd/03%20-%20Witch%C2%81%27s%20Garden%20%28Inst.%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/witch-s-garden-op/ypufsqyusd/03%20-%20Witch%C2%81%27s%20Garden%20%28Inst.%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/witch-s-garden-op/03%2520-%2520Witch%25C2%2581%2527s%2520Garden%2520%2528Inst.%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 26214400,
+      "filesize_mp3_bytes": 7319060,
+      "track_number": 4,
+      "title": "Prologue (Inst.)",
+      "runtime": 190,
+      "source_mp3": "https://vgmsite.com/soundtracks/witch-s-garden-op/xyfvmhzfoa/04%20-%20Prologue%20%28Inst.%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/witch-s-garden-op/xyfvmhzfoa/04%20-%20Prologue%20%28Inst.%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/witch-s-garden-op/04%2520-%2520Prologue%2520%2528Inst.%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 988,
+    "filesize_mp3_bytes": 37182503,
+    "filesize_flac_bytes": 136566537,
+    "tracks": 4
+  }
+}

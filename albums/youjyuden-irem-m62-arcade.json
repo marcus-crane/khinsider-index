@@ -1,0 +1,101 @@
+{
+  "title": "Youjyuden (Irem M62)",
+  "titles_alternative": [
+    "Y\u014dj\u016bden",
+    "\u5996\u7363\u4f1d"
+  ],
+  "crawled_at": "2023-09-25T15:49:41.325204+00:00",
+  "slug": "youjyuden-irem-m62-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/youjyuden-irem-m62-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/youjyuden-irem-m62-arcade/Y1.jpg"
+  ],
+  "year": 1986,
+  "date_added": "2022-06-29T00:00:00+00:00",
+  "developers": {
+    "Irem": "https://downloads.khinsider.com/game-soundtracks/developer/irem"
+  },
+  "publishers": {
+    "Irem": "https://downloads.khinsider.com/game-soundtracks/publisher/irem"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 167772,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 1,
+      "title": "Start",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/youjyuden-irem-m62-arcade/raueenasuo/01%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/youjyuden-irem-m62-arcade/raueenasuo/01%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/youjyuden-irem-m62-arcade/01%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2768240,
+      "filesize_mp3_bytes": 912261,
+      "track_number": 2,
+      "title": "BGM",
+      "runtime": 53,
+      "source_mp3": "https://vgmsite.com/soundtracks/youjyuden-irem-m62-arcade/dwsnilrhge/02%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/youjyuden-irem-m62-arcade/dwsnilrhge/02%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/youjyuden-irem-m62-arcade/02%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 73400,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 3,
+      "title": "Clear",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/youjyuden-irem-m62-arcade/vcqngcwqpt/03%20Clear.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/youjyuden-irem-m62-arcade/vcqngcwqpt/03%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/youjyuden-irem-m62-arcade/03%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1258291,
+      "filesize_mp3_bytes": 461373,
+      "track_number": 4,
+      "title": "Going to Next Area",
+      "runtime": 26,
+      "source_mp3": "https://vgmsite.com/soundtracks/youjyuden-irem-m62-arcade/joifymoqtc/04%20Going%20to%20Next%20Area.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/youjyuden-irem-m62-arcade/joifymoqtc/04%20Going%20to%20Next%20Area.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/youjyuden-irem-m62-arcade/04%2520Going%2520to%2520Next%2520Area.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1835008,
+      "filesize_mp3_bytes": 660602,
+      "track_number": 5,
+      "title": "Name Entry",
+      "runtime": 37,
+      "source_mp3": "https://vgmsite.com/soundtracks/youjyuden-irem-m62-arcade/gfirprrzah/05%20Name%20Entry.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/youjyuden-irem-m62-arcade/gfirprrzah/05%20Name%20Entry.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/youjyuden-irem-m62-arcade/05%2520Name%2520Entry.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 157286,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 6,
+      "title": "Game Over",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/youjyuden-irem-m62-arcade/yngcmabkay/06%20Game%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/youjyuden-irem-m62-arcade/yngcmabkay/06%20Game%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/youjyuden-irem-m62-arcade/06%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 125,
+    "filesize_mp3_bytes": 2170549,
+    "filesize_flac_bytes": 6259997,
+    "tracks": 6
+  }
+}

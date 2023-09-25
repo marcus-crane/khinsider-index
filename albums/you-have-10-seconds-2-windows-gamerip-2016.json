@@ -1,0 +1,52 @@
+{
+  "title": "You Have 10 Seconds 2",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T15:49:09.985439+00:00",
+  "slug": "you-have-10-seconds-2-windows-gamerip-2016",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/you-have-10-seconds-2-windows-gamerip-2016",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/you-have-10-seconds-2-windows-gamerip-2016/You%20Have%2010%20Seconds%202.png"
+  ],
+  "year": 2016,
+  "date_added": "2022-10-17T00:00:00+00:00",
+  "developers": {
+    "Tamationgames": "https://downloads.khinsider.com/game-soundtracks/developer/tamationgames"
+  },
+  "publishers": {
+    "Tamationgames": "https://downloads.khinsider.com/game-soundtracks/publisher/tamationgames"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3900702,
+      "track_number": 1,
+      "title": "Mus Area4",
+      "runtime": 137,
+      "source_mp3": "https://vgmsite.com/soundtracks/you-have-10-seconds-2-windows-gamerip-2016/aitpdotgdt/01.%20Mus%20Area4.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/you-have-10-seconds-2-windows-gamerip-2016/01.%2520Mus%2520Area4.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3219128,
+      "track_number": 2,
+      "title": "Mus Area1",
+      "runtime": 117,
+      "source_mp3": "https://vgmsite.com/soundtracks/you-have-10-seconds-2-windows-gamerip-2016/beyyiufxvs/02.%20Mus%20Area1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/you-have-10-seconds-2-windows-gamerip-2016/02.%2520Mus%2520Area1.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 254,
+    "filesize_mp3_bytes": 7119830,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

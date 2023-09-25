@@ -1,0 +1,108 @@
+{
+  "title": "Wisdom Boy",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T14:09:03.731091+00:00",
+  "slug": "wisdom-boy-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/wisdom-boy-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/wisdom-boy-nes/Wisdom%20Boy%20%28NES%29.jpg"
+  ],
+  "date_added": "2022-06-29T00:00:00+00:00",
+  "developers": {
+    "19xx": "https://downloads.khinsider.com/game-soundtracks/developer/19xx",
+    "Gamtec": "https://downloads.khinsider.com/game-soundtracks/developer/gamtec",
+    "Sun Team": "https://downloads.khinsider.com/game-soundtracks/developer/sun-team"
+  },
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10527703,
+      "filesize_mp3_bytes": 3523215,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/wisdom-boy-nes/tzrdbyfgte/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/wisdom-boy-nes/tzrdbyfgte/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wisdom-boy-nes/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9542041,
+      "filesize_mp3_bytes": 4120903,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/wisdom-boy-nes/gprytrydsz/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/wisdom-boy-nes/gprytrydsz/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wisdom-boy-nes/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10391388,
+      "filesize_mp3_bytes": 2915041,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/wisdom-boy-nes/uufxqikwdb/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/wisdom-boy-nes/uufxqikwdb/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wisdom-boy-nes/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11198791,
+      "filesize_mp3_bytes": 3166699,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/wisdom-boy-nes/pjufajmmgs/04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/wisdom-boy-nes/pjufajmmgs/04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wisdom-boy-nes/04.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10884218,
+      "filesize_mp3_bytes": 3240099,
+      "track_number": 5,
+      "title": "Track 5",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/wisdom-boy-nes/ieojwiydhs/05.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/wisdom-boy-nes/ieojwiydhs/05.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wisdom-boy-nes/05.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10055843,
+      "filesize_mp3_bytes": 3271557,
+      "track_number": 6,
+      "title": "Track 6",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/wisdom-boy-nes/vfcizjfjmh/06.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/wisdom-boy-nes/vfcizjfjmh/06.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wisdom-boy-nes/06.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10789847,
+      "filesize_mp3_bytes": 3481272,
+      "track_number": 7,
+      "title": "Track 7",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/wisdom-boy-nes/jpvmyjqvdn/07.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/wisdom-boy-nes/jpvmyjqvdn/07.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wisdom-boy-nes/07.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1260,
+    "filesize_mp3_bytes": 23718786,
+    "filesize_flac_bytes": 73389831,
+    "tracks": 7
+  }
+}

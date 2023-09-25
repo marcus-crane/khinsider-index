@@ -1,0 +1,77 @@
+{
+  "title": "Super Xevious",
+  "titles_alternative": [
+    "\u30b9\u30fc\u30d1\u30fc\u30bc\u30d3\u30a6\u30b9"
+  ],
+  "crawled_at": "2023-09-25T15:21:25.495508+00:00",
+  "slug": "xevious-super",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/xevious-super",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade",
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes",
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation",
+    "X68000": "https://downloads.khinsider.com/game-soundtracks/x68000"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/xevious-super/00-super-xevious-00-new-booklet-scdc-00099.jpg"
+  ],
+  "year": 2001,
+  "catalog_number": "SCDC-00099",
+  "date_added": "2006-11-25T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Scitron Digital Contents Inc.": "https://downloads.khinsider.com/game-soundtracks/publisher/scitron-digital-contents"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 20594032,
+      "track_number": 1,
+      "title": "super xevious",
+      "runtime": 531,
+      "source_mp3": "https://vgmsite.com/soundtracks/xevious-super/pfgwzvjx/01-super%20xevious.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xevious-super/01-super%2520xevious.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 12404654,
+      "track_number": 2,
+      "title": "gaplus",
+      "runtime": 320,
+      "source_mp3": "https://vgmsite.com/soundtracks/xevious-super/zgjuowrr/02-gaplus.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xevious-super/02-gaplus.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4047503,
+      "track_number": 3,
+      "title": "the tower of druaga",
+      "runtime": 108,
+      "source_mp3": "https://vgmsite.com/soundtracks/xevious-super/vxurkenc/03-the%20tower%20of%20druaga.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xevious-super/03-the%2520tower%2520of%2520druaga.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8745123,
+      "track_number": 4,
+      "title": "super xevious (gust notch mix)",
+      "runtime": 226,
+      "source_mp3": "https://vgmsite.com/soundtracks/xevious-super/xczwvald/04-super%20xevious%20%28gust%20notch%20mix%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xevious-super/04-super%2520xevious%2520%2528gust%2520notch%2520mix%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1185,
+    "filesize_mp3_bytes": 45791312,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

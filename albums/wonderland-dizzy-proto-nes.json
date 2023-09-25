@@ -1,0 +1,102 @@
+{
+  "title": "Wonderland Dizzy (proto)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T14:35:34.182380+00:00",
+  "slug": "wonderland-dizzy-proto-nes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/wonderland-dizzy-proto-nes",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/wonderland-dizzy-proto-nes/WD1.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2017-12-28T00:00:00+00:00",
+  "developers": {
+    "The Oliver Twins": "https://downloads.khinsider.com/game-soundtracks/developer/the-oliver-twins"
+  },
+  "publishers": {
+    "Dizzy Enterprises": "https://downloads.khinsider.com/game-soundtracks/publisher/dizzy-enterprises"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8640266,
+      "track_number": 1,
+      "title": "Title Screen & Ending",
+      "runtime": 250,
+      "source_mp3": "https://vgmsite.com/soundtracks/wonderland-dizzy-proto-nes/pvbsczkv/01_Title%20Screen%20%26%20Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wonderland-dizzy-proto-nes/01_Title%2520Screen%2520%2526%2520Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5033164,
+      "track_number": 2,
+      "title": "In-Game 1",
+      "runtime": 145,
+      "source_mp3": "https://vgmsite.com/soundtracks/wonderland-dizzy-proto-nes/jmunizks/02_In-Game%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wonderland-dizzy-proto-nes/02_In-Game%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7214202,
+      "track_number": 3,
+      "title": "In-Game 2",
+      "runtime": 211,
+      "source_mp3": "https://vgmsite.com/soundtracks/wonderland-dizzy-proto-nes/ysgzwrcf/03_In-Game%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wonderland-dizzy-proto-nes/03_In-Game%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1457520,
+      "track_number": 4,
+      "title": "In-Game 3",
+      "runtime": 42,
+      "source_mp3": "https://vgmsite.com/soundtracks/wonderland-dizzy-proto-nes/cbumpnlc/04_In-Game%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wonderland-dizzy-proto-nes/04_In-Game%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8011120,
+      "track_number": 5,
+      "title": "In-Game 4",
+      "runtime": 230,
+      "source_mp3": "https://vgmsite.com/soundtracks/wonderland-dizzy-proto-nes/ttdtatsb/05_In-Game%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wonderland-dizzy-proto-nes/05_In-Game%25204.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 6,
+      "title": "Game Over",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/wonderland-dizzy-proto-nes/rfrxsnoe/06_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wonderland-dizzy-proto-nes/06_Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6354370,
+      "track_number": 7,
+      "title": "Unknown",
+      "runtime": 183,
+      "source_mp3": "https://vgmsite.com/soundtracks/wonderland-dizzy-proto-nes/bilputin/07_Unknown.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wonderland-dizzy-proto-nes/07_Unknown.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1065,
+    "filesize_mp3_bytes": 36857442,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

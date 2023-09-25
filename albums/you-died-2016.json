@@ -1,0 +1,60 @@
+{
+  "title": "MegaDriver - You Died",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T15:48:45.228101+00:00",
+  "slug": "you-died-2016",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/you-died-2016",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/you-died-2016/Back.jpg"
+  ],
+  "year": 2016,
+  "date_added": "2022-10-21T00:00:00+00:00",
+  "developers": {
+    "MegaDriver": "https://downloads.khinsider.com/game-soundtracks/developer/megadriver"
+  },
+  "publishers": {
+    "MegaDriver": "https://downloads.khinsider.com/game-soundtracks/publisher/megadriver"
+  },
+  "genres": {
+    "Inspired By": "https://downloads.khinsider.com/game-soundtracks/inspired-by"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8745123,
+      "track_number": 1,
+      "title": "Dark Souls III Metal Opera (Menu Theme)",
+      "runtime": 215,
+      "source_mp3": "https://vgmsite.com/soundtracks/you-died-2016/vewbzzpcrk/01.%20Dark%20Souls%20III%20Metal%20Opera%20%28Menu%20Theme%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/you-died-2016/01.%2520Dark%2520Souls%2520III%2520Metal%2520Opera%2520%2528Menu%2520Theme%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6889144,
+      "track_number": 2,
+      "title": "Sir Alonne, Crown Of The Old Iron King",
+      "runtime": 169,
+      "source_mp3": "https://vgmsite.com/soundtracks/you-died-2016/jbylwyduch/02.%20Sir%20Alonne%2C%20Crown%20Of%20The%20Old%20Iron%20King.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/you-died-2016/02.%2520Sir%2520Alonne%252C%2520Crown%2520Of%2520The%2520Old%2520Iron%2520King.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6773800,
+      "track_number": 3,
+      "title": "Gwyn, Lord Of Cinder",
+      "runtime": 166,
+      "source_mp3": "https://vgmsite.com/soundtracks/you-died-2016/bimqvmjdaq/03.%20Gwyn%2C%20Lord%20Of%20Cinder.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/you-died-2016/03.%2520Gwyn%252C%2520Lord%2520Of%2520Cinder.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 550,
+    "filesize_mp3_bytes": 22408067,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

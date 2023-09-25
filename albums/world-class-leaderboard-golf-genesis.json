@@ -1,0 +1,65 @@
+{
+  "title": "World Class Leaderboard Golf",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T14:40:31.642000+00:00",
+  "slug": "world-class-leaderboard-golf-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/world-class-leaderboard-golf-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/world-class-leaderboard-golf-genesis/World%20Class%20Leaderboard%20Golf.png"
+  ],
+  "year": 1992,
+  "date_added": "2020-03-30T00:00:00+00:00",
+  "developers": {
+    "Access Software": "https://downloads.khinsider.com/game-soundtracks/developer/access-software"
+  },
+  "publishers": {
+    "U.S. Gold": "https://downloads.khinsider.com/game-soundtracks/publisher/u.s.-gold"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6899630,
+      "filesize_mp3_bytes": 2380267,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 112,
+      "source_mp3": "https://vgmsite.com/soundtracks/world-class-leaderboard-golf-genesis/kstxedyvzm/01%20-%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/world-class-leaderboard-golf-genesis/kstxedyvzm/01%20-%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/world-class-leaderboard-golf-genesis/01%2520-%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 199229,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 2,
+      "title": "Game Start",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/world-class-leaderboard-golf-genesis/firyfoeaec/02%20-%20Game%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/world-class-leaderboard-golf-genesis/firyfoeaec/02%20-%20Game%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/world-class-leaderboard-golf-genesis/02%2520-%2520Game%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11272192,
+      "filesize_mp3_bytes": 4404019,
+      "track_number": 3,
+      "title": "End of Tournament",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/world-class-leaderboard-golf-genesis/vjmkspcmyf/03%20-%20End%20of%20Tournament.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/world-class-leaderboard-golf-genesis/vjmkspcmyf/03%20-%20End%20of%20Tournament.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/world-class-leaderboard-golf-genesis/03%2520-%2520End%2520of%2520Tournament.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 295,
+    "filesize_mp3_bytes": 6847200,
+    "filesize_flac_bytes": 18371051,
+    "tracks": 3
+  }
+}

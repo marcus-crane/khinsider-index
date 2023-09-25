@@ -1,0 +1,88 @@
+{
+  "title": "Kokoro / Joanne Hogg Theme from \"Xenosaga Episode I\"",
+  "titles_alternative": [
+    "\u30b3\u30b3\u30ed\uff0f\u30b8\u30e7\u30a2\u30f3\u30cc\u30fb\u30db\u30c3\u30b0 \"\u30bc\u30ce\u30b5\u30fc\u30ac\u30fb\u30a8\u30d4\u30bd\u30fc\u30c9 I\" \u30c6\u30fc\u30de"
+  ],
+  "crawled_at": "2023-09-25T15:21:20.599443+00:00",
+  "slug": "xenosaga-kokoro-single-album",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/xenosaga-kokoro-single-album",
+  "platforms": {
+    "PS2": "https://downloads.khinsider.com/game-soundtracks/playstation-2"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/xenosaga-kokoro-single-album/Back.jpg"
+  ],
+  "year": 2002,
+  "catalog_number": "SSCX-10061",
+  "date_added": "2021-04-12T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "DigiCube": "https://downloads.khinsider.com/game-soundtracks/publisher/digicube"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 35924213,
+      "filesize_mp3_bytes": 11083448,
+      "track_number": 1,
+      "title": "Pain",
+      "runtime": 336,
+      "source_mp3": "https://vgmsite.com/soundtracks/xenosaga-kokoro-single-album/zjueeacyhc/01.%20Pain.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/xenosaga-kokoro-single-album/zjueeacyhc/01.%20Pain.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xenosaga-kokoro-single-album/01.%2520Pain.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 36448501,
+      "filesize_mp3_bytes": 10957619,
+      "track_number": 2,
+      "title": "Kokoro",
+      "runtime": 339,
+      "source_mp3": "https://vgmsite.com/soundtracks/xenosaga-kokoro-single-album/qqqqritzkg/02.%20Kokoro.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/xenosaga-kokoro-single-album/qqqqritzkg/02.%20Kokoro.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xenosaga-kokoro-single-album/02.%2520Kokoro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5127536,
+      "filesize_mp3_bytes": 2537553,
+      "track_number": 3,
+      "title": "Kokoro Piano Version",
+      "runtime": 84,
+      "source_mp3": "https://vgmsite.com/soundtracks/xenosaga-kokoro-single-album/aaarjkcypk/03.%20Kokoro%20Piano%20Version.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/xenosaga-kokoro-single-album/aaarjkcypk/03.%20Kokoro%20Piano%20Version.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xenosaga-kokoro-single-album/03.%2520Kokoro%2520Piano%2520Version.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 33942405,
+      "filesize_mp3_bytes": 11188305,
+      "track_number": 4,
+      "title": "Pain instrumental",
+      "runtime": 337,
+      "source_mp3": "https://vgmsite.com/soundtracks/xenosaga-kokoro-single-album/dqgefginfg/04.%20Pain%20instrumental.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/xenosaga-kokoro-single-album/dqgefginfg/04.%20Pain%20instrumental.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xenosaga-kokoro-single-album/04.%2520Pain%2520instrumental.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 34466693,
+      "filesize_mp3_bytes": 10989076,
+      "track_number": 5,
+      "title": "Kokoro instrumental",
+      "runtime": 338,
+      "source_mp3": "https://vgmsite.com/soundtracks/xenosaga-kokoro-single-album/cqwngbkapw/05.%20Kokoro%20instrumental.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/xenosaga-kokoro-single-album/cqwngbkapw/05.%20Kokoro%20instrumental.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/xenosaga-kokoro-single-album/05.%2520Kokoro%2520instrumental.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1434,
+    "filesize_mp3_bytes": 46756001,
+    "filesize_flac_bytes": 145909348,
+    "tracks": 5
+  }
+}

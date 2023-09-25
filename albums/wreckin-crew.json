@@ -1,0 +1,105 @@
+{
+  "title": "Wrecking Crew",
+  "titles_alternative": [
+    "\u30ec\u30c3\u30ad\u30f3\u30b0\u30af\u30eb\u30fc"
+  ],
+  "crawled_at": "2023-09-25T15:04:20.830486+00:00",
+  "slug": "wreckin-crew",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/wreckin-crew",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/wreckin-crew/W1.jpg"
+  ],
+  "year": 1985,
+  "date_added": "2006-11-25T00:00:00+00:00",
+  "developers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/developer/nintendo"
+  },
+  "publishers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 1,
+      "title": "stage intro",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/wreckin-crew/fdjqtnaz/01%20stage%20intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wreckin-crew/01%2520stage%2520intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2285895,
+      "track_number": 2,
+      "title": "stage 1",
+      "runtime": 95,
+      "source_mp3": "https://vgmsite.com/soundtracks/wreckin-crew/ikesojzn/02%20stage%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wreckin-crew/02%2520stage%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1153433,
+      "track_number": 3,
+      "title": "stage 2",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/wreckin-crew/xpmjfmkh/03%20stage%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wreckin-crew/03%2520stage%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1593835,
+      "track_number": 4,
+      "title": "stage 3",
+      "runtime": 66,
+      "source_mp3": "https://vgmsite.com/soundtracks/wreckin-crew/uumsgemh/04%20stage%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wreckin-crew/04%2520stage%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 73400,
+      "track_number": 5,
+      "title": "stage clear",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/wreckin-crew/wsnemhmi/05%20stage%20clear.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wreckin-crew/05%2520stage%2520clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 6,
+      "title": "stage intro 2",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/wreckin-crew/mchxllge/06%20stage%20intro%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wreckin-crew/06%2520stage%2520intro%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2296381,
+      "track_number": 7,
+      "title": "theme",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/wreckin-crew/sqfesxnz/07%20theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wreckin-crew/07%2520theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 316,
+    "filesize_mp3_bytes": 7591687,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

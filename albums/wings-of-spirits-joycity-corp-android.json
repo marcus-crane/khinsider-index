@@ -1,0 +1,36 @@
+{
+  "title": "Wings of Spirits (Joycity Corp)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T14:03:24.755901+00:00",
+  "slug": "wings-of-spirits-joycity-corp-android",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/wings-of-spirits-joycity-corp-android",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/wings-of-spirits-joycity-corp-android/1.png"
+  ],
+  "date_added": "2017-03-14T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2254438,
+      "title": "lobby_music",
+      "runtime": 71,
+      "source_mp3": "https://vgmsite.com/soundtracks/wings-of-spirits-joycity-corp-android/smlsnexg/lobby_music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wings-of-spirits-joycity-corp-android/lobby_music.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 71,
+    "filesize_mp3_bytes": 2254438,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

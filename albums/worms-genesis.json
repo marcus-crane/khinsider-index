@@ -1,0 +1,57 @@
+{
+  "title": "Worms",
+  "titles_alternative": [
+    "\u30ef\u30fc\u30e0\u30b9"
+  ],
+  "crawled_at": "2023-09-25T15:01:38.321600+00:00",
+  "slug": "worms-genesis",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/worms-genesis",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/worms-genesis/W1.jpg"
+  ],
+  "year": 1996,
+  "date_added": "2020-03-30T00:00:00+00:00",
+  "developers": {
+    "East Point Software": "https://downloads.khinsider.com/game-soundtracks/developer/east-point-software",
+    "Team 17": "https://downloads.khinsider.com/game-soundtracks/developer/team-17"
+  },
+  "publishers": {
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/publisher/ocean"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7340032,
+      "filesize_mp3_bytes": 2705326,
+      "track_number": 1,
+      "title": "Wormsong (NTSC Beta)",
+      "runtime": 128,
+      "source_mp3": "https://vgmsite.com/soundtracks/worms-genesis/afbfkijedh/01%20-%20Wormsong%20%28NTSC%20Beta%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/worms-genesis/afbfkijedh/01%20-%20Wormsong%20%28NTSC%20Beta%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/worms-genesis/01%2520-%2520Wormsong%2520%2528NTSC%2520Beta%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7361003,
+      "filesize_mp3_bytes": 2705326,
+      "track_number": 2,
+      "title": "Wormsong",
+      "runtime": 129,
+      "source_mp3": "https://vgmsite.com/soundtracks/worms-genesis/sncyfxupca/02%20-%20Wormsong.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/worms-genesis/sncyfxupca/02%20-%20Wormsong.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/worms-genesis/02%2520-%2520Wormsong.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 257,
+    "filesize_mp3_bytes": 5410652,
+    "filesize_flac_bytes": 14701035,
+    "tracks": 2
+  }
+}

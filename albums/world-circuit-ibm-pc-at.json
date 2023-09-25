@@ -1,0 +1,78 @@
+{
+  "title": "World Circuit",
+  "titles_alternative": [
+    "Formula One Grand Prix"
+  ],
+  "crawled_at": "2023-09-25T14:40:18.243151+00:00",
+  "slug": "world-circuit-ibm-pc-at",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/world-circuit-ibm-pc-at",
+  "platforms": {
+    "IBM PC/AT": "https://downloads.khinsider.com/game-soundtracks/ibm-pc-at"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/world-circuit-ibm-pc-at/Microprose%20Formula%20One%20Grand%20Prix%20%28E.U.%29.png"
+  ],
+  "year": 1992,
+  "date_added": "2022-06-29T00:00:00+00:00",
+  "developers": {
+    "MicroProse": "https://downloads.khinsider.com/game-soundtracks/developer/microprose"
+  },
+  "publishers": {
+    "MicroProse": "https://downloads.khinsider.com/game-soundtracks/publisher/microprose"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4781506,
+      "filesize_mp3_bytes": 1772093,
+      "track_number": 1,
+      "title": "Introduction",
+      "runtime": 63,
+      "source_mp3": "https://vgmsite.com/soundtracks/world-circuit-ibm-pc-at/ibdtsrvclr/01%20Introduction.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/world-circuit-ibm-pc-at/ibdtsrvclr/01%20Introduction.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/world-circuit-ibm-pc-at/01%2520Introduction.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 16074670,
+      "filesize_mp3_bytes": 5641338,
+      "track_number": 2,
+      "title": "Opening Credits",
+      "runtime": 199,
+      "source_mp3": "https://vgmsite.com/soundtracks/world-circuit-ibm-pc-at/sieabnjesa/02%20Opening%20Credits.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/world-circuit-ibm-pc-at/sieabnjesa/02%20Opening%20Credits.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/world-circuit-ibm-pc-at/02%2520Opening%2520Credits.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 912261,
+      "filesize_mp3_bytes": 408944,
+      "track_number": 3,
+      "title": "Race Over",
+      "runtime": 13,
+      "source_mp3": "https://vgmsite.com/soundtracks/world-circuit-ibm-pc-at/bowrwmoisk/03%20Race%20Over.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/world-circuit-ibm-pc-at/bowrwmoisk/03%20Race%20Over.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/world-circuit-ibm-pc-at/03%2520Race%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2789212,
+      "filesize_mp3_bytes": 975175,
+      "track_number": 4,
+      "title": "Spraying Champagne",
+      "runtime": 31,
+      "source_mp3": "https://vgmsite.com/soundtracks/world-circuit-ibm-pc-at/bfzmxdkjqr/04%20Spraying%20Champagne.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/world-circuit-ibm-pc-at/bfzmxdkjqr/04%20Spraying%20Champagne.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/world-circuit-ibm-pc-at/04%2520Spraying%2520Champagne.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 306,
+    "filesize_mp3_bytes": 8797550,
+    "filesize_flac_bytes": 24557649,
+    "tracks": 4
+  }
+}

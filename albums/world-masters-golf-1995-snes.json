@@ -1,0 +1,65 @@
+{
+  "title": "World Masters Golf",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T14:47:41.639205+00:00",
+  "slug": "world-masters-golf-1995-snes",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/world-masters-golf-1995-snes",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/world-masters-golf-1995-snes/WMG1.jpg"
+  ],
+  "year": 1995,
+  "date_added": "2019-08-29T00:00:00+00:00",
+  "developers": {
+    "Arc Developments": "https://downloads.khinsider.com/game-soundtracks/developer/arc-developments"
+  },
+  "publishers": {
+    "Virgin Interactive Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/virgin-interactive-entertainment"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4823449,
+      "filesize_mp3_bytes": 2726297,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 113,
+      "source_mp3": "https://vgmsite.com/soundtracks/world-masters-golf-1995-snes/nmaqzvgfbh/01%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/world-masters-golf-1995-snes/nmaqzvgfbh/01%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/world-masters-golf-1995-snes/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6511656,
+      "filesize_mp3_bytes": 4089446,
+      "track_number": 2,
+      "title": "Main Menu",
+      "runtime": 164,
+      "source_mp3": "https://vgmsite.com/soundtracks/world-masters-golf-1995-snes/oabgllezkr/02%20Main%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/world-masters-golf-1995-snes/oabgllezkr/02%20Main%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/world-masters-golf-1995-snes/02%2520Main%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1111490,
+      "filesize_mp3_bytes": 629145,
+      "track_number": 3,
+      "title": "End of Golf Course",
+      "runtime": 28,
+      "source_mp3": "https://vgmsite.com/soundtracks/world-masters-golf-1995-snes/vkrsrburqa/03%20End%20of%20Golf%20Course.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/world-masters-golf-1995-snes/vkrsrburqa/03%20End%20of%20Golf%20Course.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/world-masters-golf-1995-snes/03%2520End%2520of%2520Golf%2520Course.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 305,
+    "filesize_mp3_bytes": 7444888,
+    "filesize_flac_bytes": 12446595,
+    "tracks": 3
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "title": "Worms 2: Armageddon",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T14:59:13.983511+00:00",
+  "slug": "worms-2-armageddon",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/worms-2-armageddon",
+  "platforms": {
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios",
+    "PS3": "https://downloads.khinsider.com/game-soundtracks/playstation-3",
+    "Xbox 360": "https://downloads.khinsider.com/game-soundtracks/xbox-360"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/worms-2-armageddon/Worms%202%20Armageddon.jpg"
+  ],
+  "year": 2009,
+  "date_added": "2018-07-06T00:00:00+00:00",
+  "developers": {
+    "Team 17": "https://downloads.khinsider.com/game-soundtracks/developer/team-17"
+  },
+  "publishers": {
+    "Team 17": "https://downloads.khinsider.com/game-soundtracks/publisher/team-17"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6752829,
+      "track_number": 1,
+      "title": "Frontend",
+      "runtime": 266,
+      "source_mp3": "https://vgmsite.com/soundtracks/worms-2-armageddon/erpwvlxm/001%20Frontend.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/worms-2-armageddon/001%2520Frontend.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 16179527,
+      "track_number": 2,
+      "title": "Generic",
+      "runtime": 569,
+      "source_mp3": "https://vgmsite.com/soundtracks/worms-2-armageddon/fomeewwz/002%20Generic.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/worms-2-armageddon/002%2520Generic.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 14417920,
+      "track_number": 3,
+      "title": "Forest",
+      "runtime": 520,
+      "source_mp3": "https://vgmsite.com/soundtracks/worms-2-armageddon/tegznspt/003%20Forest.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/worms-2-armageddon/003%2520Forest.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 14365491,
+      "track_number": 4,
+      "title": "Outerspace",
+      "runtime": 521,
+      "source_mp3": "https://vgmsite.com/soundtracks/worms-2-armageddon/vdhuobjg/004%20Outerspace.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/worms-2-armageddon/004%2520Outerspace.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 16190013,
+      "track_number": 5,
+      "title": "Battle",
+      "runtime": 562,
+      "source_mp3": "https://vgmsite.com/soundtracks/worms-2-armageddon/vrxmipnu/005%20Battle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/worms-2-armageddon/005%2520Battle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7570718,
+      "track_number": 6,
+      "title": "Suddendeath",
+      "runtime": 242,
+      "source_mp3": "https://vgmsite.com/soundtracks/worms-2-armageddon/halshsni/006%20Suddendeath.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/worms-2-armageddon/006%2520Suddendeath.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2680,
+    "filesize_mp3_bytes": 75476498,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

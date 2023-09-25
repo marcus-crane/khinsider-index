@@ -1,0 +1,45 @@
+{
+  "title": "Yamato (Nichibutsu Crazy Climber)",
+  "titles_alternative": [
+    "\u30e4\u30de\u30c8"
+  ],
+  "crawled_at": "2023-09-25T15:28:58.042996+00:00",
+  "slug": "yamato-nichibutsu-crazy-climber-arcade",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/yamato-nichibutsu-crazy-climber-arcade",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/yamato-nichibutsu-crazy-climber-arcade/Yamato.png"
+  ],
+  "year": 1983,
+  "date_added": "2022-06-29T00:00:00+00:00",
+  "developers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/publisher/sega"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1688207,
+      "filesize_mp3_bytes": 545259,
+      "track_number": 1,
+      "title": "Main BGM",
+      "runtime": 31,
+      "source_mp3": "https://vgmsite.com/soundtracks/yamato-nichibutsu-crazy-climber-arcade/rkzthsjies/01%20Main%20BGM.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/yamato-nichibutsu-crazy-climber-arcade/rkzthsjies/01%20Main%20BGM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/yamato-nichibutsu-crazy-climber-arcade/01%2520Main%2520BGM.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 31,
+    "filesize_mp3_bytes": 545259,
+    "filesize_flac_bytes": 1688207,
+    "tracks": 1
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "title": "World Tour Racing (Atari Jaguar CD)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T14:58:40.913674+00:00",
+  "slug": "world-tour-racing-atari-jaguar-cd",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/world-tour-racing-atari-jaguar-cd",
+  "platforms": {
+    "Atari Jaguar": "https://downloads.khinsider.com/game-soundtracks/atari-jaguar"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/world-tour-racing-atari-jaguar-cd/World%20Tour%20Racing%20Jaguar%20back%20manual.jpg"
+  ],
+  "year": 1997,
+  "date_added": "2020-09-27T00:00:00+00:00",
+  "developers": {
+    "Teque London": "https://downloads.khinsider.com/game-soundtracks/developer/teque-london"
+  },
+  "publishers": {
+    "Telegames": "https://downloads.khinsider.com/game-soundtracks/publisher/telegames",
+    "Terre du Milieu": "https://downloads.khinsider.com/game-soundtracks/publisher/terre-du-milieu"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 14407434,
+      "title": "Race Theme 1",
+      "runtime": 360,
+      "source_mp3": "https://vgmsite.com/soundtracks/world-tour-racing-atari-jaguar-cd/dvhcpghfij/Race%20Theme%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/world-tour-racing-atari-jaguar-cd/Race%2520Theme%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 14522777,
+      "title": "Race Theme 2",
+      "runtime": 363,
+      "source_mp3": "https://vgmsite.com/soundtracks/world-tour-racing-atari-jaguar-cd/czopwrqzfs/Race%20Theme%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/world-tour-racing-atari-jaguar-cd/Race%2520Theme%25202.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 723,
+    "filesize_mp3_bytes": 28930211,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

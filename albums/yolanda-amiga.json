@@ -1,0 +1,85 @@
+{
+  "title": "Yolanda",
+  "titles_alternative": [
+    "Hercules"
+  ],
+  "crawled_at": "2023-09-25T15:42:37.411800+00:00",
+  "slug": "yolanda-amiga",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/yolanda-amiga",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/yolanda-amiga/Y1.png"
+  ],
+  "year": 1990,
+  "date_added": "2019-06-03T00:00:00+00:00",
+  "developers": {
+    "Millennium": "https://downloads.khinsider.com/game-soundtracks/developer/millennium",
+    "Quantum": "https://downloads.khinsider.com/game-soundtracks/developer/quantum"
+  },
+  "publishers": {
+    "Millennium": "https://downloads.khinsider.com/game-soundtracks/publisher/millennium"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4666163,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 163,
+      "source_mp3": "https://vgmsite.com/soundtracks/yolanda-amiga/msagdnmnhc/01_Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/yolanda-amiga/01_Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1541406,
+      "track_number": 2,
+      "title": "Stage Intro",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/yolanda-amiga/gpsnqjlarq/02_Stage%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/yolanda-amiga/02_Stage%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 629145,
+      "track_number": 3,
+      "title": "Fire!",
+      "runtime": 23,
+      "source_mp3": "https://vgmsite.com/soundtracks/yolanda-amiga/gcqibrdpkf/03_Fire%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/yolanda-amiga/03_Fire%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4949278,
+      "track_number": 4,
+      "title": "In-Game BGM",
+      "runtime": 164,
+      "source_mp3": "https://vgmsite.com/soundtracks/yolanda-amiga/vrnzllzrxd/04_In-Game%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/yolanda-amiga/04_In-Game%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2390753,
+      "track_number": 5,
+      "title": "Stage Outro  Name Entry",
+      "runtime": 82,
+      "source_mp3": "https://vgmsite.com/soundtracks/yolanda-amiga/gfvhasyrzg/05_Stage%20Outro%20%20Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/yolanda-amiga/05_Stage%2520Outro%2520%2520Name%2520Entry.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 480,
+    "filesize_mp3_bytes": 14176745,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

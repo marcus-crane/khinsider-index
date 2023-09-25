@@ -1,0 +1,102 @@
+{
+  "title": "Worms",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T15:01:52.069648+00:00",
+  "slug": "worms-psx-redbook",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/worms-psx-redbook",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/worms-psx-redbook/coverart.jpg"
+  ],
+  "year": 1995,
+  "date_added": "2006-11-25T00:00:00+00:00",
+  "developers": {
+    "Team 17": "https://downloads.khinsider.com/game-soundtracks/developer/team-17"
+  },
+  "publishers": {
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/publisher/ocean"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7266631,
+      "track_number": 1,
+      "title": "the wormsong",
+      "runtime": 287,
+      "source_mp3": "https://vgmsite.com/soundtracks/worms-psx-redbook/mrefypsl/01%20the%20wormsong.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/worms-psx-redbook/01%2520the%2520wormsong.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9426698,
+      "track_number": 2,
+      "title": "forest ambience",
+      "runtime": 412,
+      "source_mp3": "https://vgmsite.com/soundtracks/worms-psx-redbook/elhvnnju/02%20%20forest%20ambience.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/worms-psx-redbook/02%2520%2520forest%2520ambience.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9720299,
+      "track_number": 3,
+      "title": "evil hell",
+      "runtime": 392,
+      "source_mp3": "https://vgmsite.com/soundtracks/worms-psx-redbook/dvbdcegc/03%20evil%20hell.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/worms-psx-redbook/03%2520evil%2520hell.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9489612,
+      "track_number": 4,
+      "title": "icy landscape",
+      "runtime": 400,
+      "source_mp3": "https://vgmsite.com/soundtracks/worms-psx-redbook/fvmgqbcy/04%20icy%20landscape.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/worms-psx-redbook/04%2520icy%2520landscape.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8944353,
+      "track_number": 5,
+      "title": "weird alien",
+      "runtime": 396,
+      "source_mp3": "https://vgmsite.com/soundtracks/worms-psx-redbook/mdztrrcf/05%20weird%20alien.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/worms-psx-redbook/05%2520weird%2520alien.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9835642,
+      "track_number": 6,
+      "title": "desert island",
+      "runtime": 418,
+      "source_mp3": "https://vgmsite.com/soundtracks/worms-psx-redbook/znecnich/06%20desert%20island.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/worms-psx-redbook/06%2520desert%2520island.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 209715,
+      "track_number": 7,
+      "title": "silence",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/worms-psx-redbook/ahntxnog/07%20silence.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/worms-psx-redbook/07%2520silence.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2316,
+    "filesize_mp3_bytes": 54892950,
+    "filesize_flac_bytes": 0,
+    "tracks": 7
+  }
+}

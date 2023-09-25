@@ -1,0 +1,44 @@
+{
+  "title": "Wolfchild",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T14:19:20.070475+00:00",
+  "slug": "wolfchild-game-gear",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/wolfchild-game-gear",
+  "platforms": {
+    "Game Gear": "https://downloads.khinsider.com/game-soundtracks/sega-game-gear",
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/wolfchild-game-gear/Wolfchild%20%28Europe%29.png"
+  ],
+  "year": 1993,
+  "date_added": "2020-07-23T00:00:00+00:00",
+  "developers": {
+    "Core Design": "https://downloads.khinsider.com/game-soundtracks/developer/core-design"
+  },
+  "publishers": {
+    "Virgin": "https://downloads.khinsider.com/game-soundtracks/publisher/virgin"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10255073,
+      "filesize_mp3_bytes": 3732930,
+      "track_number": 1,
+      "title": "BGM #01",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/wolfchild-game-gear/jrbdjqkklk/01%20BGM%20%2301.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/wolfchild-game-gear/jrbdjqkklk/01%20BGM%20%2301.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wolfchild-game-gear/01%2520BGM%2520%252301.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 180,
+    "filesize_mp3_bytes": 3732930,
+    "filesize_flac_bytes": 10255073,
+    "tracks": 1
+  }
+}

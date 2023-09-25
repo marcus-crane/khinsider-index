@@ -1,0 +1,75 @@
+{
+  "title": "Yogi Bear and Friends",
+  "titles_alternative": [
+    "Yogi Bear & Friends in the Greed Monster: A Treasure Hunt"
+  ],
+  "crawled_at": "2023-09-25T15:39:33.041505+00:00",
+  "slug": "yogi-bear-and-friends-commodore-64",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/yogi-bear-and-friends-commodore-64",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/yogi-bear-and-friends-commodore-64/Y1.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2019-04-29T00:00:00+00:00",
+  "developers": {
+    "PAL Developments": "https://downloads.khinsider.com/game-soundtracks/developer/pal-developments",
+    "Twilight": "https://downloads.khinsider.com/game-soundtracks/developer/twilight"
+  },
+  "publishers": {
+    "Hi-Tec Software": "https://downloads.khinsider.com/game-soundtracks/publisher/hi-tec-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3586129,
+      "track_number": 1,
+      "title": "Main BGM",
+      "runtime": 200,
+      "source_mp3": "https://vgmsite.com/soundtracks/yogi-bear-and-friends-commodore-64/grjwgejy/01_Main%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/yogi-bear-and-friends-commodore-64/01_Main%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 167772,
+      "track_number": 2,
+      "title": "Game Over",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/yogi-bear-and-friends-commodore-64/nmxqldwx/02_Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/yogi-bear-and-friends-commodore-64/02_Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6448742,
+      "track_number": 3,
+      "title": "Main BGM (SID Stereo)",
+      "runtime": 199,
+      "source_mp3": "https://vgmsite.com/soundtracks/yogi-bear-and-friends-commodore-64/aodmqbqw/03_Main%20BGM%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/yogi-bear-and-friends-commodore-64/03_Main%2520BGM%2520%2528SID%2520Stereo%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 293601,
+      "track_number": 4,
+      "title": "Game Over (SID Stereo)",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/yogi-bear-and-friends-commodore-64/wqziotwr/04_Game%20Over%20%28SID%20Stereo%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/yogi-bear-and-friends-commodore-64/04_Game%2520Over%2520%2528SID%2520Stereo%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 419,
+    "filesize_mp3_bytes": 10496244,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

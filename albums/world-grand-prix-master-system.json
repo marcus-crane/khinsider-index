@@ -1,0 +1,46 @@
+{
+  "title": "World Grand Prix",
+  "titles_alternative": [
+    "The Circuit",
+    "GP World",
+    "\u30b6\u30fb\u30b5\u30fc\u30ad\u30c3\u30c8"
+  ],
+  "crawled_at": "2023-09-25T14:42:38.628058+00:00",
+  "slug": "world-grand-prix-master-system",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/world-grand-prix-master-system",
+  "platforms": {
+    "Master System": "https://downloads.khinsider.com/game-soundtracks/sega-master-system"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/world-grand-prix-master-system/World%20Grand%20Prix.png"
+  ],
+  "year": 1986,
+  "catalog_number": "Sega",
+  "date_added": "2020-07-23T00:00:00+00:00",
+  "developers": {
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 692060,
+      "filesize_mp3_bytes": 251658,
+      "track_number": 1,
+      "title": "Victory",
+      "runtime": 14,
+      "source_mp3": "https://vgmsite.com/soundtracks/world-grand-prix-master-system/zgkvtsvcgs/01%20-%20Victory.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/world-grand-prix-master-system/zgkvtsvcgs/01%20-%20Victory.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/world-grand-prix-master-system/01%2520-%2520Victory.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 14,
+    "filesize_mp3_bytes": 251658,
+    "filesize_flac_bytes": 692060,
+    "tracks": 1
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Yamaha Supercross",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-25T15:28:36.503982+00:00",
+  "slug": "yamaha-supercross-2008-nds-gamerip",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/yamaha-supercross-2008-nds-gamerip",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/yamaha-supercross-2008-nds-gamerip/Yamaha%20Supercross.jpg"
+  ],
+  "year": 2008,
+  "date_added": "2020-06-26T00:00:00+00:00",
+  "developers": {
+    "Coyote Console": "https://downloads.khinsider.com/game-soundtracks/developer/coyote-console"
+  },
+  "publishers": {
+    "DSI": "https://downloads.khinsider.com/game-soundtracks/publisher/dsi",
+    "Zoo": "https://downloads.khinsider.com/game-soundtracks/publisher/zoo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5536481,
+      "filesize_mp3_bytes": 1845493,
+      "title": "Menu",
+      "runtime": 102,
+      "source_mp3": "https://vgmsite.com/soundtracks/yamaha-supercross-2008-nds-gamerip/fpzudaswlo/Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/yamaha-supercross-2008-nds-gamerip/fpzudaswlo/Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/yamaha-supercross-2008-nds-gamerip/Menu.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 102,
+    "filesize_mp3_bytes": 1845493,
+    "filesize_flac_bytes": 5536481,
+    "tracks": 1
+  }
+}
