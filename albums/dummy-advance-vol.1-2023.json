@@ -1,0 +1,88 @@
+{
+  "title": "Dummy Advance Vol.1",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-26T07:01:50.662276+00:00",
+  "slug": "dummy-advance-vol.1-2023",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dummy-advance-vol.1-2023",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dummy-advance-vol.1-2023/album.png"
+  ],
+  "year": 2023,
+  "date_added": "2023-09-26T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10821304,
+      "track_number": 1,
+      "title": "Bossfight",
+      "runtime": 331,
+      "source_mp3": "https://vgmsite.com/soundtracks/dummy-advance-vol.1-2023/jzfnawxjeq/01.%20Bossfight.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dummy-advance-vol.1-2023/01.%2520Bossfight.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10643046,
+      "track_number": 2,
+      "title": "Crossroads",
+      "runtime": 338,
+      "source_mp3": "https://vgmsite.com/soundtracks/dummy-advance-vol.1-2023/ljtxrtcjyc/02.%20Crossroads.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dummy-advance-vol.1-2023/02.%2520Crossroads.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7665090,
+      "track_number": 3,
+      "title": "Final Rush",
+      "runtime": 220,
+      "source_mp3": "https://vgmsite.com/soundtracks/dummy-advance-vol.1-2023/okfvdosbwv/03.%20Final%20Rush.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dummy-advance-vol.1-2023/03.%2520Final%2520Rush.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3407872,
+      "track_number": 4,
+      "title": "Primus City",
+      "runtime": 119,
+      "source_mp3": "https://vgmsite.com/soundtracks/dummy-advance-vol.1-2023/rieffopgzq/04.%20Primus%20City.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dummy-advance-vol.1-2023/04.%2520Primus%2520City.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2474639,
+      "track_number": 5,
+      "title": "The Complex",
+      "runtime": 78,
+      "source_mp3": "https://vgmsite.com/soundtracks/dummy-advance-vol.1-2023/cgftdmsjfz/05.%20The%20Complex.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dummy-advance-vol.1-2023/05.%2520The%2520Complex.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7361003,
+      "track_number": 6,
+      "title": "The Heights",
+      "runtime": 203,
+      "source_mp3": "https://vgmsite.com/soundtracks/dummy-advance-vol.1-2023/kemziorgqv/06.%20The%20Heights.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dummy-advance-vol.1-2023/06.%2520The%2520Heights.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1289,
+    "filesize_mp3_bytes": 42372954,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}
