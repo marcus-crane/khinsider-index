@@ -1,0 +1,50 @@
+{
+  "title": "Five Nights at Freddy's - Big Band Version",
+  "titles_alternative": [
+    "Five Nights at Freddy's"
+  ],
+  "crawled_at": "2023-09-28T14:03:59.683648+00:00",
+  "slug": "five-nights-at-freddys-big-band-version-2020",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/five-nights-at-freddys-big-band-version-2020",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/five-nights-at-freddys-big-band-version-2020/cover.png"
+  ],
+  "year": 2020,
+  "date_added": "2023-09-28T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "The 8-Bit Big Band": "https://downloads.khinsider.com/game-soundtracks/publisher/the-8-bit-big-band"
+  },
+  "genres": {
+    "Inspired By": "https://downloads.khinsider.com/game-soundtracks/inspired-by"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7843348,
+      "track_number": 1,
+      "title": "FNAF 1 - (Big Band Version)",
+      "runtime": 222,
+      "source_mp3": "https://vgmsite.com/soundtracks/five-nights-at-freddys-big-band-version-2020/xouwdxbhgn/01.%20FNAF%201%20-%20%28Big%20Band%20Version%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/five-nights-at-freddys-big-band-version-2020/01.%2520FNAF%25201%2520-%2520%2528Big%2520Band%2520Version%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7696547,
+      "track_number": 2,
+      "title": "FNAF 1 Instrumental - (Big Band Version)",
+      "runtime": 222,
+      "source_mp3": "https://vgmsite.com/soundtracks/five-nights-at-freddys-big-band-version-2020/diwlcytfei/02.%20FNAF%201%20Instrumental%20-%20%28Big%20Band%20Version%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/five-nights-at-freddys-big-band-version-2020/02.%2520FNAF%25201%2520Instrumental%2520-%2520%2528Big%2520Band%2520Version%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 444,
+    "filesize_mp3_bytes": 15539895,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

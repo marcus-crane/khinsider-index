@@ -1,0 +1,72 @@
+{
+  "title": "Rolling Hero",
+  "titles_alternative": [
+    "RollingHero: Hack & Slash"
+  ],
+  "crawled_at": "2023-09-28T14:08:51.948671+00:00",
+  "slug": "rolling-hero-2011",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/rolling-hero-2011",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/rolling-hero-2011/cover%20%281%29.png"
+  ],
+  "year": 2011,
+  "date_added": "2023-09-28T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "LIXELSOFT": "https://downloads.khinsider.com/game-soundtracks/publisher/lixelsoft"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1604321,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 160,
+      "source_mp3": "https://vgmsite.com/soundtracks/rolling-hero-2011/bhdkqofncb/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rolling-hero-2011/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 503316,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 50,
+      "source_mp3": "https://vgmsite.com/soundtracks/rolling-hero-2011/vxvbnvmbzu/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rolling-hero-2011/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2338324,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 233,
+      "source_mp3": "https://vgmsite.com/soundtracks/rolling-hero-2011/ypekvuutze/03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rolling-hero-2011/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 775946,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/rolling-hero-2011/dstqmoqurw/04.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rolling-hero-2011/04.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 539,
+    "filesize_mp3_bytes": 5221907,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}
