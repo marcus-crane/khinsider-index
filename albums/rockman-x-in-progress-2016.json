@@ -1,0 +1,41 @@
+{
+  "title": "Rockman X (In-Progress)",
+  "titles_alternative": [],
+  "crawled_at": "2023-09-30T14:18:44.508366+00:00",
+  "slug": "rockman-x-in-progress-2016",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/rockman-x-in-progress-2016",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/rockman-x-in-progress-2016/cover.png"
+  ],
+  "year": 2016,
+  "catalog_number": null,
+  "date_added": "2023-09-30T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Gatorcat": "https://downloads.khinsider.com/game-soundtracks/publisher/gatorcat"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 27850178,
+      "filesize_mp3_bytes": 7434403,
+      "title": "gatorcat - ROCKMAN X (In-Progress) - 01 X",
+      "runtime": 236,
+      "source_mp3": "https://vgmsite.com/soundtracks/rockman-x-in-progress-2016/rwualpoppq/gatorcat%20-%20ROCKMAN%20X%20%28In-Progress%29%20-%2001%20X.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/rockman-x-in-progress-2016/rwualpoppq/gatorcat%20-%20ROCKMAN%20X%20%28In-Progress%29%20-%2001%20X.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rockman-x-in-progress-2016/gatorcat%2520-%2520ROCKMAN%2520X%2520%2528In-Progress%2529%2520-%252001%2520X.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 236,
+    "filesize_mp3_bytes": 7434403,
+    "filesize_flac_bytes": 27850178,
+    "tracks": 1
+  }
+}
