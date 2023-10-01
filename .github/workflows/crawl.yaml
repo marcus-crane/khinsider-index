@@ -36,6 +36,9 @@ jobs:
       
       - run: python scrape.py
         working-directory: scripts
+      
+      - run: python remove_dead_links.py
+        working-directory: scripts
 
       - name: Commit changes
         if: always()
