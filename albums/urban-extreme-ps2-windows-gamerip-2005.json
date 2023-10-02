@@ -1,0 +1,63 @@
+{
+  "title": "Urban Extreme",
+  "titles_alternative": [],
+  "crawled_at": "2023-10-02T21:02:06.815354+00:00",
+  "slug": "urban-extreme-ps2-windows-gamerip-2005",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/urban-extreme-ps2-windows-gamerip-2005",
+  "platforms": {
+    "PS2": "https://downloads.khinsider.com/game-soundtracks/playstation-2",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/urban-extreme-ps2-windows-gamerip-2005/UrbanExtreme_Packshot_UK-B.jpg"
+  ],
+  "year": 2005,
+  "date_added": "2023-10-02T00:00:00+00:00",
+  "developers": {
+    "Data Design Interactive": "https://downloads.khinsider.com/game-soundtracks/developer/data-design-interactive"
+  },
+  "publishers": {
+    "Metro3D Europe": "https://downloads.khinsider.com/game-soundtracks/publisher/metro3d-europe"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6983516,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 175,
+      "source_mp3": "https://vgmsite.com/soundtracks/urban-extreme-ps2-windows-gamerip-2005/hmwmvmuwrq/01.%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/urban-extreme-ps2-windows-gamerip-2005/01.%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6511656,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 163,
+      "source_mp3": "https://vgmsite.com/soundtracks/urban-extreme-ps2-windows-gamerip-2005/pdwqgvjtmv/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/urban-extreme-ps2-windows-gamerip-2005/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7046430,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 176,
+      "source_mp3": "https://vgmsite.com/soundtracks/urban-extreme-ps2-windows-gamerip-2005/aisdwxofrl/03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/urban-extreme-ps2-windows-gamerip-2005/03.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 514,
+    "filesize_mp3_bytes": 20541602,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}
