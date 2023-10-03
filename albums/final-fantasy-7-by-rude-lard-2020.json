@@ -1,0 +1,52 @@
+{
+  "title": "Final Fantasy 7 [By Rude Lard]",
+  "titles_alternative": [],
+  "crawled_at": "2023-10-03T14:02:30.175156+00:00",
+  "slug": "final-fantasy-7-by-rude-lard-2020",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/final-fantasy-7-by-rude-lard-2020",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/final-fantasy-7-by-rude-lard-2020/Cover%20Art.jpg"
+  ],
+  "year": 2020,
+  "catalog_number": null,
+  "date_added": "2023-10-03T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Rude Lard": "https://downloads.khinsider.com/game-soundtracks/publisher/rude-lard"
+  },
+  "genres": {
+    "Remix": "https://downloads.khinsider.com/game-soundtracks/remixes"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5368709,
+      "track_number": 1,
+      "title": "Mako",
+      "runtime": 218,
+      "source_mp3": "https://vgmsite.com/soundtracks/final-fantasy-7-by-rude-lard-2020/fzkhmdgebd/01.%20Mako.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/final-fantasy-7-by-rude-lard-2020/01.%2520Mako.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8902410,
+      "track_number": 2,
+      "title": "The Promised Land",
+      "runtime": 356,
+      "source_mp3": "https://vgmsite.com/soundtracks/final-fantasy-7-by-rude-lard-2020/uldetozneu/02.%20The%20Promised%20Land.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/final-fantasy-7-by-rude-lard-2020/02.%2520The%2520Promised%2520Land.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 574,
+    "filesize_mp3_bytes": 14271119,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "title": "Strider",
+  "titles_alternative": [
+    "Strider Hiry\u016b",
+    "\u30b9\u30c8\u30e9\u30a4\u30c0\u30fc\u98db\u7adc"
+  ],
+  "crawled_at": "2023-10-03T14:04:52.720487+00:00",
+  "slug": "strider-atari-st-gamerip-1989",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/strider-atari-st-gamerip-1989",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/strider-atari-st-gamerip-1989/Strider%20Atari%20ST%20Cover.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2023-10-03T00:00:00+00:00",
+  "developers": {
+    "Capcom": "https://downloads.khinsider.com/game-soundtracks/developer/capcom",
+    "Tiertex": "https://downloads.khinsider.com/game-soundtracks/developer/tiertex"
+  },
+  "publishers": {
+    "U.S. Gold": "https://downloads.khinsider.com/game-soundtracks/publisher/u.s.-gold"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2799697,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 59,
+      "source_mp3": "https://vgmsite.com/soundtracks/strider-atari-st-gamerip-1989/zzexcwqlii/01.%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/strider-atari-st-gamerip-1989/01.%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1866465,
+      "track_number": 2,
+      "title": "Line of Defense (Get Ready!)",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/strider-atari-st-gamerip-1989/nefumqzcoj/02.%20Line%20of%20Defense%20%28Get%20Ready%21%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/strider-atari-st-gamerip-1989/02.%2520Line%2520of%2520Defense%2520%2528Get%2520Ready%2521%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3974103,
+      "track_number": 3,
+      "title": "Step Into It! (In-Game BGM)",
+      "runtime": 108,
+      "source_mp3": "https://vgmsite.com/soundtracks/strider-atari-st-gamerip-1989/gdchltzqgw/03.%20Step%20Into%20It%21%20%28In-Game%20BGM%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/strider-atari-st-gamerip-1989/03.%2520Step%2520Into%2520It%2521%2520%2528In-Game%2520BGM%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2275409,
+      "track_number": 4,
+      "title": "Ouroboros (Boss Theme)",
+      "runtime": 18,
+      "source_mp3": "https://vgmsite.com/soundtracks/strider-atari-st-gamerip-1989/rejktxzczf/04.%20Ouroboros%20%28Boss%20Theme%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/strider-atari-st-gamerip-1989/04.%2520Ouroboros%2520%2528Boss%2520Theme%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1855979,
+      "track_number": 5,
+      "title": "Stage Clear",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/strider-atari-st-gamerip-1989/zovqoazfvm/05.%20Stage%20Clear.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/strider-atari-st-gamerip-1989/05.%2520Stage%2520Clear.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 196,
+    "filesize_mp3_bytes": 12771653,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

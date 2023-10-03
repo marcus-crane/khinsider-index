@@ -1,0 +1,50 @@
+{
+  "title": "Drippypop K.MIX",
+  "titles_alternative": [],
+  "crawled_at": "2023-10-03T14:02:29.023250+00:00",
+  "slug": "drippypop-k.mix-2023",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/drippypop-k.mix-2023",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/drippypop-k.mix-2023/Drippypop%20k%20mix.png"
+  ],
+  "year": 2023,
+  "date_added": "2023-10-03T00:00:00+00:00",
+  "developers": {
+    "Kayodonet": "https://downloads.khinsider.com/game-soundtracks/developer/kayodonet"
+  },
+  "publishers": {
+    "Kayodonet": "https://downloads.khinsider.com/game-soundtracks/publisher/kayodonet"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2684354,
+      "track_number": 1,
+      "title": "Drippypop k mix",
+      "runtime": 147,
+      "source_mp3": "https://vgmsite.com/soundtracks/drippypop-k.mix-2023/olqznlhdfz/01.%20Drippypop%20k%20mix.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/drippypop-k.mix-2023/01.%2520Drippypop%2520k%2520mix.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2684354,
+      "track_number": 2,
+      "title": "Drippypop k mix (instramental)",
+      "runtime": 147,
+      "source_mp3": "https://vgmsite.com/soundtracks/drippypop-k.mix-2023/jzwmwxeeoo/02.%20Drippypop%20k%20mix%20%28instramental%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/drippypop-k.mix-2023/02.%2520Drippypop%2520k%2520mix%2520%2528instramental%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 294,
+    "filesize_mp3_bytes": 5368708,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}
