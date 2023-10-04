@@ -1,0 +1,76 @@
+{
+  "title": "F1 2000",
+  "titles_alternative": [],
+  "crawled_at": "2023-10-04T21:02:47.554233+00:00",
+  "slug": "f1-2000-windows-gamerip-2000",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/f1-2000-windows-gamerip-2000",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/f1-2000-windows-gamerip-2000/Image.jpg"
+  ],
+  "year": 2000,
+  "date_added": "2023-10-04T00:00:00+00:00",
+  "developers": {
+    "Image Space": "https://downloads.khinsider.com/game-soundtracks/developer/image-space"
+  },
+  "publishers": {
+    "Electronic Arts": "https://downloads.khinsider.com/game-soundtracks/publisher/electronic-arts"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 18517852,
+      "filesize_mp3_bytes": 5442109,
+      "track_number": 1,
+      "title": "F1Track1",
+      "runtime": 288,
+      "source_mp3": "https://vgmsite.com/soundtracks/f1-2000-windows-gamerip-2000/bkuaiylsox/01.%20F1Track1.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/f1-2000-windows-gamerip-2000/bkuaiylsox/01.%20F1Track1.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/f1-2000-windows-gamerip-2000/01.%2520F1Track1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 14375976,
+      "filesize_mp3_bytes": 3848273,
+      "track_number": 2,
+      "title": "F1Track2",
+      "runtime": 215,
+      "source_mp3": "https://vgmsite.com/soundtracks/f1-2000-windows-gamerip-2000/kcylpbupmf/02.%20F1Track2.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/f1-2000-windows-gamerip-2000/kcylpbupmf/02.%20F1Track2.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/f1-2000-windows-gamerip-2000/02.%2520F1Track2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 14459863,
+      "filesize_mp3_bytes": 4037017,
+      "track_number": 3,
+      "title": "F1Track3",
+      "runtime": 222,
+      "source_mp3": "https://vgmsite.com/soundtracks/f1-2000-windows-gamerip-2000/lbazgiybzz/03.%20F1Track3.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/f1-2000-windows-gamerip-2000/lbazgiybzz/03.%20F1Track3.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/f1-2000-windows-gamerip-2000/03.%2520F1Track3.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 16441671,
+      "filesize_mp3_bytes": 4907335,
+      "track_number": 4,
+      "title": "Leftfield - Phat Planet",
+      "runtime": 278,
+      "source_mp3": "https://vgmsite.com/soundtracks/f1-2000-windows-gamerip-2000/dofntbjtsa/04.%20Leftfield%20-%20Phat%20Planet.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/f1-2000-windows-gamerip-2000/dofntbjtsa/04.%20Leftfield%20-%20Phat%20Planet.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/f1-2000-windows-gamerip-2000/04.%2520Leftfield%2520-%2520Phat%2520Planet.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1003,
+    "filesize_mp3_bytes": 18234734,
+    "filesize_flac_bytes": 63795362,
+    "tracks": 4
+  }
+}
