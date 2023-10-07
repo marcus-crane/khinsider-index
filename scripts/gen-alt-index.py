@@ -9,6 +9,8 @@ index = {}
 
 for entry in entries:
     trimmed_uri = entries[entry].replace('/game-soundtracks/album/', '')
+    # TODO: Fix this when index is generated
+    slim_name = entry.replace(f" ({trimmed_uri})", "")
     try:
         with open(f"../albums/{trimmed_uri}.json", "r") as file:
             album = json.loads(file.read())
@@ -26,7 +28,7 @@ for entry in entries:
             if album['tracks'][-1]['disc_number'] is not None:
                 meta['d'] = album['tracks'][-1]['disc_number']
 
-            index[entry] = meta
+            index[slim_name] = meta
     except Exception as ex:
         # pass
         print(f"Issue with {trimmed_uri}: {ex}")
