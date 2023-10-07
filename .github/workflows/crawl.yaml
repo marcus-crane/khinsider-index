@@ -34,7 +34,7 @@ jobs:
       - run: python index_to_letters.py
         working-directory: scripts
       
-      - run: python trim-index.py
+      - run: python gen-alt-index.py
         working-directory: scripts
       
       - run: python scrape.py
