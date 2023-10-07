@@ -1,0 +1,66 @@
+{
+  "title": "Global Operations",
+  "titles_alternative": [],
+  "crawled_at": "2023-10-07T07:11:18.484414+00:00",
+  "slug": "global-operations-windows-gamerip-2002",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/global-operations-windows-gamerip-2002",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/global-operations-windows-gamerip-2002/Image.jpg"
+  ],
+  "year": 2002,
+  "date_added": "2023-10-07T00:00:00+00:00",
+  "developers": {
+    "Barking Dog Studios": "https://downloads.khinsider.com/game-soundtracks/developer/barking-dog-studios"
+  },
+  "publishers": {
+    "Crave Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/crave-entertainment",
+    "Electronic Arts": "https://downloads.khinsider.com/game-soundtracks/publisher/electronic-arts"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9175040,
+      "filesize_mp3_bytes": 3103784,
+      "track_number": 1,
+      "title": "Front End",
+      "runtime": 101,
+      "source_mp3": "https://vgmsite.com/soundtracks/global-operations-windows-gamerip-2002/aepqwdpjtd/01.%20Front%20End.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/global-operations-windows-gamerip-2002/aepqwdpjtd/01.%20Front%20End.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/global-operations-windows-gamerip-2002/01.%2520Front%2520End.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 35704012,
+      "filesize_mp3_bytes": 10380902,
+      "track_number": 2,
+      "title": "GO Credits",
+      "runtime": 323,
+      "source_mp3": "https://vgmsite.com/soundtracks/global-operations-windows-gamerip-2002/qytymimttl/02.%20GO%20Credits.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/global-operations-windows-gamerip-2002/qytymimttl/02.%20GO%20Credits.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/global-operations-windows-gamerip-2002/02.%2520GO%2520Credits.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8063549,
+      "filesize_mp3_bytes": 3208642,
+      "track_number": 3,
+      "title": "GONIS",
+      "runtime": 95,
+      "source_mp3": "https://vgmsite.com/soundtracks/global-operations-windows-gamerip-2002/edrqxvzwuq/03.%20GONIS.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/global-operations-windows-gamerip-2002/edrqxvzwuq/03.%20GONIS.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/global-operations-windows-gamerip-2002/03.%2520GONIS.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 519,
+    "filesize_mp3_bytes": 16693328,
+    "filesize_flac_bytes": 52942601,
+    "tracks": 3
+  }
+}

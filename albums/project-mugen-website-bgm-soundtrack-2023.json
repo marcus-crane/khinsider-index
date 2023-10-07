@@ -1,0 +1,40 @@
+{
+  "title": "Project MUGEN - Website BGM Soundtrack",
+  "titles_alternative": [],
+  "crawled_at": "2023-10-07T07:13:50.365402+00:00",
+  "slug": "project-mugen-website-bgm-soundtrack-2023",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/project-mugen-website-bgm-soundtrack-2023",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile",
+    "Online": "https://downloads.khinsider.com/game-soundtracks/online"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/project-mugen-website-bgm-soundtrack-2023/Project%20M%2Cugen.png"
+  ],
+  "year": 2023,
+  "date_added": "2023-10-07T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Compilation": "https://downloads.khinsider.com/game-soundtracks/compilations"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5546967,
+      "track_number": 1,
+      "title": "Website BGM Soundtrack",
+      "runtime": 163,
+      "source_mp3": "https://vgmsite.com/soundtracks/project-mugen-website-bgm-soundtrack-2023/jcxqzndlwz/01.%20Website%20BGM%20Soundtrack.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/project-mugen-website-bgm-soundtrack-2023/01.%2520Website%2520BGM%2520Soundtrack.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 163,
+    "filesize_mp3_bytes": 5546967,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}
