@@ -67,6 +67,7 @@ jobs:
         if: always()
         uses: up9cloud/action-rsync@master
         env:
+          USER: gharunner
           HOST: 5.78.105.134
           KEY: ${{ secrets.DEPLOY_SSH_KEY }}
           SOURCE: alt-index.json
