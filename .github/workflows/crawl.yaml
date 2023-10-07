@@ -70,8 +70,8 @@ jobs:
           USER: gharunner
           HOST: 5.78.105.134
           KEY: ${{ secrets.DEPLOY_SSH_KEY }}
-          SOURCE: alt-index.json
-          TARGET: /var/www/html/khindex/index-alt.json
+          SOURCE: index-alt.json
+          TARGET: /var/www/html/khindex/index.json
           ARGS: -azv
     
       - name: Sync alphabetical groupings to API
@@ -83,4 +83,15 @@ jobs:
           KEY: ${{ secrets.DEPLOY_SSH_KEY }}
           SOURCE: letters/
           TARGET: /var/www/html/khindex/letters
+          ARGS: -azv
+
+      - name: Sync albums to API
+        if: always()
+        uses: up9cloud/action-rsync@master
+        env:
+          USER: gharunner
+          HOST: 5.78.105.134
+          KEY: ${{ secrets.DEPLOY_SSH_KEY }}
+          SOURCE: albums/
+          TARGET: /var/www/html/khindex/albums
           ARGS: -azv
