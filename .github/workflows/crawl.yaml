@@ -68,7 +68,7 @@ jobs:
         uses: up9cloud/action-rsync@master
         env:
           USER: gharunner
-          HOST: 5.78.105.134
+          HOST: khindex.utf9k.net
           KEY: ${{ secrets.DEPLOY_SSH_KEY }}
           SOURCE: index-alt.json
           TARGET: /var/www/html/khindex/index.json
@@ -79,7 +79,7 @@ jobs:
         uses: up9cloud/action-rsync@master
         env:
           USER: gharunner
-          HOST: 5.78.105.134
+          HOST: khindex.utf9k.net
           KEY: ${{ secrets.DEPLOY_SSH_KEY }}
           SOURCE: letters/
           TARGET: /var/www/html/khindex/letters
@@ -90,8 +90,19 @@ jobs:
         uses: up9cloud/action-rsync@master
         env:
           USER: gharunner
-          HOST: 5.78.105.134
+          HOST: khindex.utf9k.net
           KEY: ${{ secrets.DEPLOY_SSH_KEY }}
           SOURCE: albums/
           TARGET: /var/www/html/khindex/albums
+          ARGS: -azv
+        
+      - name: Sync platform list to API
+        if: always()
+        uses: up9cloud/action-rsync@master
+        env:
+          USER: gharunner
+          HOST: khindex.utf9k.net
+          KEY: ${{ secrets.DEPLOY_SSH_KEY }}
+          SOURCE: platforms.json
+          TARGET: /var/www/html/khindex/platforms.json
           ARGS: -azv
