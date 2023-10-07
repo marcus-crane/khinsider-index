@@ -5,7 +5,7 @@ with open("../index.json", "r") as file:
 
 entries = data.get('entries')
 
-index = 
+index = {}
 
 for entry in entries:
     trimmed_uri = entries[entry].replace('/game-soundtracks/album/', '')
