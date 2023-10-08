@@ -1,0 +1,61 @@
+{
+  "title": "Golden Apple 1.2",
+  "titles_alternative": [],
+  "crawled_at": "2023-10-08T14:01:53.352154+00:00",
+  "slug": "golden-apple-1.2-2023",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/golden-apple-1.2-2023",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/golden-apple-1.2-2023/cover.png"
+  ],
+  "year": 2023,
+  "date_added": "2023-10-08T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 118363258,
+      "filesize_mp3_bytes": 30681333,
+      "track_number": 1,
+      "title": "Ferocious",
+      "runtime": 922,
+      "source_mp3": "https://vgmsite.com/soundtracks/golden-apple-1.2-2023/jonkhhnnei/01.%20Ferocious.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/golden-apple-1.2-2023/jonkhhnnei/01.%20Ferocious.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/golden-apple-1.2-2023/01.%2520Ferocious.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 27137146,
+      "filesize_mp3_bytes": 7088373,
+      "track_number": 2,
+      "title": "Resumed",
+      "runtime": 235,
+      "source_mp3": "https://vgmsite.com/soundtracks/golden-apple-1.2-2023/jcawuvwynz/02.%20Resumed.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/golden-apple-1.2-2023/jcawuvwynz/02.%20Resumed.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/golden-apple-1.2-2023/02.%2520Resumed.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 24589107,
+      "filesize_mp3_bytes": 6721372,
+      "track_number": 3,
+      "title": "The Big Dingle",
+      "runtime": 214,
+      "source_mp3": "https://vgmsite.com/soundtracks/golden-apple-1.2-2023/mleuvquqdq/03.%20The%20Big%20Dingle.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/golden-apple-1.2-2023/mleuvquqdq/03.%20The%20Big%20Dingle.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/golden-apple-1.2-2023/03.%2520The%2520Big%2520Dingle.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1371,
+    "filesize_mp3_bytes": 44491078,
+    "filesize_flac_bytes": 170089511,
+    "tracks": 3
+  }
+}
