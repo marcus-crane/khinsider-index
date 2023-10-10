@@ -1,0 +1,78 @@
+{
+  "title": "Miitopia Casting Call",
+  "titles_alternative": [
+    "\u597d\u304d\u306aMii\u3067\u898b\u308b Miitopia \u4e88\u544a\u7de8"
+  ],
+  "crawled_at": "2023-10-10T14:02:51.537172+00:00",
+  "slug": "miitopia-casting-call-3ds-gamerip-2016",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/miitopia-casting-call-3ds-gamerip-2016",
+  "platforms": {
+    "3DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-3ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/miitopia-casting-call-3ds-gamerip-2016/cover.png"
+  ],
+  "year": 2016,
+  "date_added": "2023-10-10T00:00:00+00:00",
+  "developers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/developer/nintendo"
+  },
+  "publishers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1520435,
+      "filesize_mp3_bytes": 209715,
+      "track_number": 1,
+      "title": "Home Menu Banner",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/miitopia-casting-call-3ds-gamerip-2016/ieagwteomw/01.%20Home%20Menu%20Banner.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/miitopia-casting-call-3ds-gamerip-2016/ieagwteomw/01.%20Home%20Menu%20Banner.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/miitopia-casting-call-3ds-gamerip-2016/01.%2520Home%2520Menu%2520Banner.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 14742978,
+      "filesize_mp3_bytes": 4477419,
+      "track_number": 2,
+      "title": "Chosen Heroes (Intro)",
+      "runtime": 153,
+      "source_mp3": "https://vgmsite.com/soundtracks/miitopia-casting-call-3ds-gamerip-2016/lnjnotrfki/02.%20Chosen%20Heroes%20%28Intro%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/miitopia-casting-call-3ds-gamerip-2016/lnjnotrfki/02.%20Chosen%20Heroes%20%28Intro%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/miitopia-casting-call-3ds-gamerip-2016/02.%2520Chosen%2520Heroes%2520%2528Intro%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 17815306,
+      "filesize_mp3_bytes": 5211422,
+      "track_number": 3,
+      "title": "Camaraderie",
+      "runtime": 188,
+      "source_mp3": "https://vgmsite.com/soundtracks/miitopia-casting-call-3ds-gamerip-2016/qignmyiesf/03.%20Camaraderie.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/miitopia-casting-call-3ds-gamerip-2016/qignmyiesf/03.%20Camaraderie.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/miitopia-casting-call-3ds-gamerip-2016/03.%2520Camaraderie.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3785359,
+      "filesize_mp3_bytes": 1551892,
+      "track_number": 4,
+      "title": "Venture Forth (Ending)",
+      "runtime": 53,
+      "source_mp3": "https://vgmsite.com/soundtracks/miitopia-casting-call-3ds-gamerip-2016/xrpcrkekpj/04.%20Venture%20Forth%20%28Ending%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/miitopia-casting-call-3ds-gamerip-2016/xrpcrkekpj/04.%20Venture%20Forth%20%28Ending%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/miitopia-casting-call-3ds-gamerip-2016/04.%2520Venture%2520Forth%2520%2528Ending%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 397,
+    "filesize_mp3_bytes": 11450448,
+    "filesize_flac_bytes": 37864078,
+    "tracks": 4
+  }
+}

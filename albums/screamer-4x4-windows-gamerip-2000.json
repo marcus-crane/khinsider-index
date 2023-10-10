@@ -1,0 +1,54 @@
+{
+  "title": "Screamer 4x4",
+  "titles_alternative": [],
+  "crawled_at": "2023-10-10T14:03:39.036652+00:00",
+  "slug": "screamer-4x4-windows-gamerip-2000",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/screamer-4x4-windows-gamerip-2000",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/screamer-4x4-windows-gamerip-2000/Image.jpg"
+  ],
+  "year": 2000,
+  "date_added": "2023-10-10T00:00:00+00:00",
+  "developers": {
+    "Clever's Software Development": "https://downloads.khinsider.com/game-soundtracks/developer/clevers-software-development"
+  },
+  "publishers": {
+    "Virgin Interactive": "https://downloads.khinsider.com/game-soundtracks/publisher/virgin-interactive"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 16315842,
+      "filesize_mp3_bytes": 4466933,
+      "track_number": 1,
+      "title": "Credit",
+      "runtime": 150,
+      "source_mp3": "https://vgmsite.com/soundtracks/screamer-4x4-windows-gamerip-2000/tmjnupladq/01.%20Credit.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/screamer-4x4-windows-gamerip-2000/tmjnupladq/01.%20Credit.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/screamer-4x4-windows-gamerip-2000/01.%2520Credit.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 12740198,
+      "filesize_mp3_bytes": 3795845,
+      "track_number": 2,
+      "title": "Menu",
+      "runtime": 129,
+      "source_mp3": "https://vgmsite.com/soundtracks/screamer-4x4-windows-gamerip-2000/rgldqifbru/02.%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/screamer-4x4-windows-gamerip-2000/rgldqifbru/02.%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/screamer-4x4-windows-gamerip-2000/02.%2520Menu.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 279,
+    "filesize_mp3_bytes": 8262778,
+    "filesize_flac_bytes": 29056040,
+    "tracks": 2
+  }
+}
