@@ -1,0 +1,83 @@
+{
+  "title": "Gloomwood",
+  "titles_alternative": [],
+  "crawled_at": "2023-10-13T14:03:49.245567+00:00",
+  "slug": "gloomwood-2022",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/gloomwood-2022",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/gloomwood-2022/Gloomwood.png"
+  ],
+  "year": 2022,
+  "date_added": "2023-10-13T00:00:00+00:00",
+  "developers": {
+    "David Szymanski": "https://downloads.khinsider.com/game-soundtracks/developer/david-szymanski",
+    "Dillon Rogers": "https://downloads.khinsider.com/game-soundtracks/developer/dillon-rogers"
+  },
+  "publishers": {
+    "New Blood Interactive": "https://downloads.khinsider.com/game-soundtracks/publisher/new-blood-interactive"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6427770,
+      "track_number": 1,
+      "title": "Cliffs Ambient",
+      "runtime": 397,
+      "source_mp3": "https://vgmsite.com/soundtracks/gloomwood-2022/smcjnqiqiw/01.%20Cliffs%20Ambient.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gloomwood-2022/01.%2520Cliffs%2520Ambient.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2181038,
+      "track_number": 2,
+      "title": "Goatman Fight (Phase 1)",
+      "runtime": 132,
+      "source_mp3": "https://vgmsite.com/soundtracks/gloomwood-2022/pagsapzbiu/02.%20Goatman%20Fight%20%28Phase%201%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gloomwood-2022/02.%2520Goatman%2520Fight%2520%2528Phase%25201%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2181038,
+      "track_number": 3,
+      "title": "Goatman Fight (Phase 2)",
+      "runtime": 132,
+      "source_mp3": "https://vgmsite.com/soundtracks/gloomwood-2022/jtcggggwic/03.%20Goatman%20Fight%20%28Phase%202%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gloomwood-2022/03.%2520Goatman%2520Fight%2520%2528Phase%25202%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3827302,
+      "track_number": 4,
+      "title": "Saferoom Phonograph Music (Version 1)",
+      "runtime": 236,
+      "source_mp3": "https://vgmsite.com/soundtracks/gloomwood-2022/xhznznfubz/04.%20Saferoom%20Phonograph%20Music%20%28Version%201%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gloomwood-2022/04.%2520Saferoom%2520Phonograph%2520Music%2520%2528Version%25201%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1373634,
+      "track_number": 5,
+      "title": "Early Access Release Date (Trailer)",
+      "runtime": 82,
+      "source_mp3": "https://vgmsite.com/soundtracks/gloomwood-2022/lgqolmdvik/05.%20Early%20Access%20Release%20Date%20%28Trailer%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gloomwood-2022/05.%2520Early%2520Access%2520Release%2520Date%2520%2528Trailer%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 979,
+    "filesize_mp3_bytes": 15990782,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}
