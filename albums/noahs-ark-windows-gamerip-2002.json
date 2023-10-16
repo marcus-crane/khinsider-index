@@ -1,0 +1,74 @@
+{
+  "title": "Noah's Ark",
+  "titles_alternative": [
+    "Noah's Ark Deluxe"
+  ],
+  "crawled_at": "2023-10-16T14:03:17.994109+00:00",
+  "slug": "noahs-ark-windows-gamerip-2002",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/noahs-ark-windows-gamerip-2002",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/noahs-ark-windows-gamerip-2002/Image.jpg"
+  ],
+  "year": 2002,
+  "date_added": "2023-10-16T00:00:00+00:00",
+  "developers": {
+    "PopCap Games": "https://downloads.khinsider.com/game-soundtracks/developer/popcap-games"
+  },
+  "publishers": {
+    "PopCap Games": "https://downloads.khinsider.com/game-soundtracks/publisher/popcap-games"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 304087,
+      "track_number": 1,
+      "title": "Gameover",
+      "runtime": 14,
+      "source_mp3": "https://vgmsite.com/soundtracks/noahs-ark-windows-gamerip-2002/jdjadsbhdm/01.%20Gameover.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/noahs-ark-windows-gamerip-2002/01.%2520Gameover.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 262144,
+      "track_number": 2,
+      "title": "Loading",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/noahs-ark-windows-gamerip-2002/wiyfptejry/02.%20Loading.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/noahs-ark-windows-gamerip-2002/02.%2520Loading.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 104857,
+      "track_number": 3,
+      "title": "Mainintro",
+      "runtime": 4,
+      "source_mp3": "https://vgmsite.com/soundtracks/noahs-ark-windows-gamerip-2002/eyyzxtdizy/03.%20Mainintro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/noahs-ark-windows-gamerip-2002/03.%2520Mainintro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1006632,
+      "track_number": 4,
+      "title": "Mainloop",
+      "runtime": 41,
+      "source_mp3": "https://vgmsite.com/soundtracks/noahs-ark-windows-gamerip-2002/tbognpujrj/04.%20Mainloop.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/noahs-ark-windows-gamerip-2002/04.%2520Mainloop.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 69,
+    "filesize_mp3_bytes": 1677720,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

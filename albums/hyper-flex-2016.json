@@ -1,0 +1,63 @@
+{
+  "title": "Hyper Flex",
+  "titles_alternative": [],
+  "crawled_at": "2023-10-16T14:03:03.212131+00:00",
+  "slug": "hyper-flex-2016",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hyper-flex-2016",
+  "platforms": {
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/hyper-flex-2016/cover.jpg"
+  ],
+  "year": 2016,
+  "date_added": "2023-10-16T00:00:00+00:00",
+  "developers": {
+    "Chai Foxes": "https://downloads.khinsider.com/game-soundtracks/developer/chai-foxes"
+  },
+  "publishers": {
+    "Chai Foxes": "https://downloads.khinsider.com/game-soundtracks/publisher/chai-foxes"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 16169041,
+      "track_number": 1,
+      "title": "Shaft",
+      "runtime": 403,
+      "source_mp3": "https://vgmsite.com/soundtracks/hyper-flex-2016/bkyucyxlgp/01.%20Shaft.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hyper-flex-2016/01.%2520Shaft.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 12886999,
+      "track_number": 2,
+      "title": "Void",
+      "runtime": 321,
+      "source_mp3": "https://vgmsite.com/soundtracks/hyper-flex-2016/hffvgppmvr/02.%20Void.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hyper-flex-2016/02.%2520Void.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11471421,
+      "track_number": 3,
+      "title": "Chasm",
+      "runtime": 285,
+      "source_mp3": "https://vgmsite.com/soundtracks/hyper-flex-2016/txgnbixoch/03.%20Chasm.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hyper-flex-2016/03.%2520Chasm.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1009,
+    "filesize_mp3_bytes": 40527461,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

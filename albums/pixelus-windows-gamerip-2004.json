@@ -1,0 +1,74 @@
+{
+  "title": "Pixelus",
+  "titles_alternative": [
+    "Pixelus Deluxe"
+  ],
+  "crawled_at": "2023-10-16T14:03:52.921634+00:00",
+  "slug": "pixelus-windows-gamerip-2004",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pixelus-windows-gamerip-2004",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pixelus-windows-gamerip-2004/Image.jpg"
+  ],
+  "year": 2004,
+  "date_added": "2023-10-16T00:00:00+00:00",
+  "developers": {
+    "Nuclide games": "https://downloads.khinsider.com/game-soundtracks/developer/nuclide-games"
+  },
+  "publishers": {
+    "PopCap Games": "https://downloads.khinsider.com/game-soundtracks/publisher/popcap-games"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4655677,
+      "track_number": 1,
+      "title": "In Game",
+      "runtime": 222,
+      "source_mp3": "https://vgmsite.com/soundtracks/pixelus-windows-gamerip-2004/htseyogupj/01.%20In%20Game.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pixelus-windows-gamerip-2004/01.%2520In%2520Game.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 220200,
+      "track_number": 2,
+      "title": "Main Menu Loop v02",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/pixelus-windows-gamerip-2004/yxgzrhznop/02.%20Main%20Menu%20Loop%20v02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pixelus-windows-gamerip-2004/02.%2520Main%2520Menu%2520Loop%2520v02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 251658,
+      "track_number": 3,
+      "title": "Story Screen Loop v01",
+      "runtime": 12,
+      "source_mp3": "https://vgmsite.com/soundtracks/pixelus-windows-gamerip-2004/wwokzxdota/03.%20Story%20Screen%20Loop%20v01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pixelus-windows-gamerip-2004/03.%2520Story%2520Screen%2520Loop%2520v01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 4,
+      "title": "Temple Screen Loop v01",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/pixelus-windows-gamerip-2004/yuwswpgywm/04.%20Temple%20Screen%20Loop%20v01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pixelus-windows-gamerip-2004/04.%2520Temple%2520Screen%2520Loop%2520v01.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 255,
+    "filesize_mp3_bytes": 5274335,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

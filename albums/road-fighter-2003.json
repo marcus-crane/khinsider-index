@@ -1,0 +1,100 @@
+{
+  "title": "Road Fighter",
+  "titles_alternative": [],
+  "crawled_at": "2023-10-16T14:05:00.053844+00:00",
+  "slug": "road-fighter-2003",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/road-fighter-2003",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/road-fighter-2003/maxresdefault.jpg"
+  ],
+  "year": 2003,
+  "date_added": "2023-10-16T00:00:00+00:00",
+  "developers": {
+    "Brain Games": "https://downloads.khinsider.com/game-soundtracks/developer/brain-games",
+    "Jorito": "https://downloads.khinsider.com/game-soundtracks/developer/jorito"
+  },
+  "publishers": {
+    "Brain Games": "https://downloads.khinsider.com/game-soundtracks/publisher/brain-games",
+    "Jorito": "https://downloads.khinsider.com/game-soundtracks/publisher/jorito"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7843348,
+      "filesize_mp3_bytes": 1897922,
+      "track_number": 1,
+      "title": "Game Theme",
+      "runtime": 67,
+      "source_mp3": "https://vgmsite.com/soundtracks/road-fighter-2003/qkmmcopewl/01.%20Game%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/road-fighter-2003/qkmmcopewl/01.%20Game%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/road-fighter-2003/01.%2520Game%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6857687,
+      "filesize_mp3_bytes": 1782579,
+      "track_number": 2,
+      "title": "Game Theme2",
+      "runtime": 56,
+      "source_mp3": "https://vgmsite.com/soundtracks/road-fighter-2003/batbjdosxd/02.%20Game%20Theme2.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/road-fighter-2003/batbjdosxd/02.%20Game%20Theme2.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/road-fighter-2003/02.%2520Game%2520Theme2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 513802,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 3,
+      "title": "Gameover",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/road-fighter-2003/lhtapmxgsv/03.%20Gameover.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/road-fighter-2003/lhtapmxgsv/03.%20Gameover.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/road-fighter-2003/03.%2520Gameover.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 901775,
+      "filesize_mp3_bytes": 272629,
+      "track_number": 4,
+      "title": "Levelcomplete",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/road-fighter-2003/cmmxksaftx/04.%20Levelcomplete.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/road-fighter-2003/cmmxksaftx/04.%20Levelcomplete.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/road-fighter-2003/04.%2520Levelcomplete.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3649044,
+      "filesize_mp3_bytes": 901775,
+      "track_number": 5,
+      "title": "Menu Theme",
+      "runtime": 30,
+      "source_mp3": "https://vgmsite.com/soundtracks/road-fighter-2003/sxwqyovrjv/05.%20Menu%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/road-fighter-2003/sxwqyovrjv/05.%20Menu%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/road-fighter-2003/05.%2520Menu%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 492830,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 6,
+      "title": "Start",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/road-fighter-2003/uxdvvyqatr/06.%20Start.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/road-fighter-2003/uxdvvyqatr/06.%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/road-fighter-2003/06.%2520Start.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 171,
+    "filesize_mp3_bytes": 5148505,
+    "filesize_flac_bytes": 20258486,
+    "tracks": 6
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Yahtzee",
+  "titles_alternative": [],
+  "crawled_at": "2023-10-16T14:06:45.407297+00:00",
+  "slug": "yahtzee-windows-gamerip-2007",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/yahtzee-windows-gamerip-2007",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/yahtzee-windows-gamerip-2007/Image.jpg"
+  ],
+  "year": 2007,
+  "date_added": "2023-10-16T00:00:00+00:00",
+  "developers": {
+    "Zylom": "https://downloads.khinsider.com/game-soundtracks/developer/zylom"
+  },
+  "publishers": {
+    "GameHouse": "https://downloads.khinsider.com/game-soundtracks/publisher/gamehouse"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4718592,
+      "filesize_mp3_bytes": 1436549,
+      "track_number": 1,
+      "title": "Main Menu",
+      "runtime": 46,
+      "source_mp3": "https://vgmsite.com/soundtracks/yahtzee-windows-gamerip-2007/joebsqyogf/01.%20Main%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/yahtzee-windows-gamerip-2007/joebsqyogf/01.%20Main%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/yahtzee-windows-gamerip-2007/01.%2520Main%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10328473,
+      "filesize_mp3_bytes": 3481272,
+      "track_number": 2,
+      "title": "Ingame",
+      "runtime": 115,
+      "source_mp3": "https://vgmsite.com/soundtracks/yahtzee-windows-gamerip-2007/yyiyiuednd/02.%20Ingame.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/yahtzee-windows-gamerip-2007/yyiyiuednd/02.%20Ingame.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/yahtzee-windows-gamerip-2007/02.%2520Ingame.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 161,
+    "filesize_mp3_bytes": 4917821,
+    "filesize_flac_bytes": 15047065,
+    "tracks": 2
+  }
+}
