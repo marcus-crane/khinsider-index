@@ -1,0 +1,86 @@
+{
+  "title": "Ultimate Briefcase",
+  "titles_alternative": [
+    "Super Briefcase 2"
+  ],
+  "crawled_at": "2023-10-17T07:03:42.520441+00:00",
+  "slug": "ultimate-briefcase-android-ios-gamerip-2016",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ultimate-briefcase-android-ios-gamerip-2016",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/ultimate-briefcase-android-ios-gamerip-2016/cover.png"
+  ],
+  "year": 2016,
+  "date_added": "2023-10-17T00:00:00+00:00",
+  "developers": {
+    "Nitrome": "https://downloads.khinsider.com/game-soundtracks/developer/nitrome"
+  },
+  "publishers": {
+    "Apple Store": "https://downloads.khinsider.com/game-soundtracks/publisher/apple-store",
+    "Play Store": "https://downloads.khinsider.com/game-soundtracks/publisher/play-store"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5085593,
+      "track_number": 1,
+      "title": "Main",
+      "runtime": 169,
+      "source_mp3": "https://vgmsite.com/soundtracks/ultimate-briefcase-android-ios-gamerip-2016/hffcavqczz/01.%20Main.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ultimate-briefcase-android-ios-gamerip-2016/01.%2520Main.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1289748,
+      "track_number": 2,
+      "title": "Orbs",
+      "runtime": 42,
+      "source_mp3": "https://vgmsite.com/soundtracks/ultimate-briefcase-android-ios-gamerip-2016/qbrtztwbsk/02.%20Orbs.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ultimate-briefcase-android-ios-gamerip-2016/02.%2520Orbs.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 3,
+      "title": "Pills",
+      "runtime": 10,
+      "source_mp3": "https://vgmsite.com/soundtracks/ultimate-briefcase-android-ios-gamerip-2016/erxyvsfwzu/03.%20Pills.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ultimate-briefcase-android-ios-gamerip-2016/03.%2520Pills.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 4,
+      "title": "Trucktrack",
+      "runtime": 7,
+      "source_mp3": "https://vgmsite.com/soundtracks/ultimate-briefcase-android-ios-gamerip-2016/oxlrshswhy/04.%20Trucktrack.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ultimate-briefcase-android-ios-gamerip-2016/04.%2520Trucktrack.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 5,
+      "title": "Tutorial",
+      "runtime": 3,
+      "source_mp3": "https://vgmsite.com/soundtracks/ultimate-briefcase-android-ios-gamerip-2016/ekrwawxcoh/05.%20Tutorial.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ultimate-briefcase-android-ios-gamerip-2016/05.%2520Tutorial.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 231,
+    "filesize_mp3_bytes": 6574570,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "title": "Watman",
+  "titles_alternative": [],
+  "crawled_at": "2023-10-17T07:03:44.571281+00:00",
+  "slug": "watman-ms-dos-gamerip-2000",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/watman-ms-dos-gamerip-2000",
+  "platforms": {
+    "MS-DOS": "https://downloads.khinsider.com/game-soundtracks/ms-dos"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/watman-ms-dos-gamerip-2000/Image%20%281%29.png"
+  ],
+  "year": 2000,
+  "date_added": "2023-10-17T00:00:00+00:00",
+  "developers": {
+    "David \"The GGG\" Gowers": "https://downloads.khinsider.com/game-soundtracks/developer/david-the-ggg-gowers",
+    "Kakarot": "https://downloads.khinsider.com/game-soundtracks/developer/kakarot",
+    "Russell Hoy": "https://downloads.khinsider.com/game-soundtracks/developer/russell-hoy",
+    "System Halted": "https://downloads.khinsider.com/game-soundtracks/developer/system-halted",
+    "Vincent": "https://downloads.khinsider.com/game-soundtracks/developer/vincent"
+  },
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 346030,
+      "track_number": 1,
+      "title": "Batcraft Screen",
+      "runtime": 14,
+      "source_mp3": "https://vgmsite.com/soundtracks/watman-ms-dos-gamerip-2000/rlxsufeaau/01.%20Batcraft%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/watman-ms-dos-gamerip-2000/01.%2520Batcraft%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 524288,
+      "track_number": 2,
+      "title": "Game Over",
+      "runtime": 21,
+      "source_mp3": "https://vgmsite.com/soundtracks/watman-ms-dos-gamerip-2000/aznuhmugnv/02.%20Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/watman-ms-dos-gamerip-2000/02.%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2390753,
+      "track_number": 3,
+      "title": "Intro",
+      "runtime": 125,
+      "source_mp3": "https://vgmsite.com/soundtracks/watman-ms-dos-gamerip-2000/zrzojsgmpc/03.%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/watman-ms-dos-gamerip-2000/03.%2520Intro.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 160,
+    "filesize_mp3_bytes": 3261071,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

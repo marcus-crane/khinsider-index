@@ -1,0 +1,54 @@
+{
+  "title": "Snowy: Space Trip",
+  "titles_alternative": [
+    "\u0421\u043d\u0435\u0436\u043e\u043a. \u041f\u0440\u0438\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f \u0432 \u043a\u043e\u0441\u043c\u043e\u0441\u0435"
+  ],
+  "crawled_at": "2023-10-17T07:03:32.796682+00:00",
+  "slug": "snowy-space-trip-windows-gamerip-2004",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/snowy-space-trip-windows-gamerip-2004",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/snowy-space-trip-windows-gamerip-2004/Snowy%20-%20Space%20Trip.jpg"
+  ],
+  "year": 2004,
+  "date_added": "2023-10-17T00:00:00+00:00",
+  "developers": {
+    "Aliasworlds Entertainment": "https://downloads.khinsider.com/game-soundtracks/developer/aliasworlds-entertainment"
+  },
+  "publishers": {
+    "Alawar Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/alawar-entertainment"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4383047,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 110,
+      "source_mp3": "https://vgmsite.com/soundtracks/snowy-space-trip-windows-gamerip-2004/iputbbtfoo/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/snowy-space-trip-windows-gamerip-2004/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4613734,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 115,
+      "source_mp3": "https://vgmsite.com/soundtracks/snowy-space-trip-windows-gamerip-2004/fdmwsdvtev/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/snowy-space-trip-windows-gamerip-2004/02.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 225,
+    "filesize_mp3_bytes": 8996781,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

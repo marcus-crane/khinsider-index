@@ -1,0 +1,94 @@
+{
+  "title": "Basement",
+  "titles_alternative": [],
+  "crawled_at": "2023-10-17T07:02:26.691770+00:00",
+  "slug": "basement-linux-macos-windows-gamerip-2019",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/basement-linux-macos-windows-gamerip-2019",
+  "platforms": {
+    "Linux": "https://downloads.khinsider.com/game-soundtracks/linux",
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/basement-linux-macos-windows-gamerip-2019/Basement.png"
+  ],
+  "year": 2019,
+  "date_added": "2023-10-17T00:00:00+00:00",
+  "developers": {
+    "Halfbus": "https://downloads.khinsider.com/game-soundtracks/developer/halfbus"
+  },
+  "publishers": {
+    "Halfbus": "https://downloads.khinsider.com/game-soundtracks/publisher/halfbus"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5085593,
+      "track_number": 1,
+      "title": "Basement Theme",
+      "runtime": 127,
+      "source_mp3": "https://vgmsite.com/soundtracks/basement-linux-macos-windows-gamerip-2019/zzntqmgqfp/01.%20Basement%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/basement-linux-macos-windows-gamerip-2019/01.%2520Basement%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7266631,
+      "track_number": 2,
+      "title": "Descent",
+      "runtime": 181,
+      "source_mp3": "https://vgmsite.com/soundtracks/basement-linux-macos-windows-gamerip-2019/lxqczmzxae/02.%20Descent.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/basement-linux-macos-windows-gamerip-2019/02.%2520Descent.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9930014,
+      "track_number": 3,
+      "title": "Vulnus",
+      "runtime": 248,
+      "source_mp3": "https://vgmsite.com/soundtracks/basement-linux-macos-windows-gamerip-2019/ankchyzbwx/03.%20Vulnus.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/basement-linux-macos-windows-gamerip-2019/03.%2520Vulnus.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11785994,
+      "track_number": 4,
+      "title": "Collapse",
+      "runtime": 294,
+      "source_mp3": "https://vgmsite.com/soundtracks/basement-linux-macos-windows-gamerip-2019/ohoizhenxz/04.%20Collapse.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/basement-linux-macos-windows-gamerip-2019/04.%2520Collapse.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5022679,
+      "track_number": 5,
+      "title": "Ruin",
+      "runtime": 125,
+      "source_mp3": "https://vgmsite.com/soundtracks/basement-linux-macos-windows-gamerip-2019/zniyyqfcer/05.%20Ruin.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/basement-linux-macos-windows-gamerip-2019/05.%2520Ruin.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9877585,
+      "track_number": 6,
+      "title": "This Caustic Love",
+      "runtime": 247,
+      "source_mp3": "https://vgmsite.com/soundtracks/basement-linux-macos-windows-gamerip-2019/otyykwlbgk/06.%20This%20Caustic%20Love.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/basement-linux-macos-windows-gamerip-2019/06.%2520This%2520Caustic%2520Love.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1222,
+    "filesize_mp3_bytes": 48968496,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}
