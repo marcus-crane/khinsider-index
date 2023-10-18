@@ -1,0 +1,93 @@
+{
+  "title": "Pazzle Cache Cache",
+  "titles_alternative": [
+    "\u30d1\u30ba\u30eb \u30ab\u30fc\u30b7\u30e5\u30ab\u30fc\u30b7\u30e5"
+  ],
+  "crawled_at": "2023-10-18T14:05:31.407503+00:00",
+  "slug": "pazzle-cache-cache-2015",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pazzle-cache-cache-2015",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios",
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pazzle-cache-cache-2015/app_icon.png"
+  ],
+  "year": 2015,
+  "date_added": "2023-10-18T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1027604,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/pazzle-cache-cache-2015/dbjkqbcdga/01.%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pazzle-cache-cache-2015/01.%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 346030,
+      "track_number": 2,
+      "title": "Stage",
+      "runtime": 21,
+      "source_mp3": "https://vgmsite.com/soundtracks/pazzle-cache-cache-2015/rnldfhnnqo/02.%20Stage.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pazzle-cache-cache-2015/02.%2520Stage.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1153433,
+      "track_number": 3,
+      "title": "Pazzle",
+      "runtime": 72,
+      "source_mp3": "https://vgmsite.com/soundtracks/pazzle-cache-cache-2015/mnxjpnglbr/03.%20Pazzle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pazzle-cache-cache-2015/03.%2520Pazzle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 597688,
+      "track_number": 4,
+      "title": "Boss",
+      "runtime": 38,
+      "source_mp3": "https://vgmsite.com/soundtracks/pazzle-cache-cache-2015/gcelxjojdh/04.%20Boss.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pazzle-cache-cache-2015/04.%2520Boss.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 178257,
+      "track_number": 5,
+      "title": "Track 5",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/pazzle-cache-cache-2015/zaiokfvuho/05.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pazzle-cache-cache-2015/05.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 954204,
+      "track_number": 6,
+      "title": "Ending",
+      "runtime": 59,
+      "source_mp3": "https://vgmsite.com/soundtracks/pazzle-cache-cache-2015/ieyabbjprx/06.%20Ending.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pazzle-cache-cache-2015/06.%2520Ending.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 265,
+    "filesize_mp3_bytes": 4257216,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}
