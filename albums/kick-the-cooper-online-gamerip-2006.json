@@ -1,0 +1,55 @@
+{
+  "title": "Kick the Cooper",
+  "titles_alternative": [
+    "Kick the Cooper: Back in Action"
+  ],
+  "crawled_at": "2023-10-22T07:02:40.479147+00:00",
+  "slug": "kick-the-cooper-online-gamerip-2006",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/kick-the-cooper-online-gamerip-2006",
+  "platforms": {
+    "Online": "https://downloads.khinsider.com/game-soundtracks/online"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/kick-the-cooper-online-gamerip-2006/kickcooper1.jpg"
+  ],
+  "year": 2006,
+  "date_added": "2023-10-22T00:00:00+00:00",
+  "developers": {
+    "FriendsGames": "https://downloads.khinsider.com/game-soundtracks/developer/friendsgames"
+  },
+  "publishers": {
+    "Optimum Cablevision": "https://downloads.khinsider.com/game-soundtracks/publisher/optimum-cablevision",
+    "Zodiac Interactive": "https://downloads.khinsider.com/game-soundtracks/publisher/zodiac-interactive"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4592762,
+      "track_number": 1,
+      "title": "Golden Cooper",
+      "runtime": 115,
+      "source_mp3": "https://vgmsite.com/soundtracks/kick-the-cooper-online-gamerip-2006/esutfdyswc/01.%20Golden%20Cooper.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kick-the-cooper-online-gamerip-2006/01.%2520Golden%2520Cooper.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4854906,
+      "track_number": 2,
+      "title": "Cooper In Trance",
+      "runtime": 121,
+      "source_mp3": "https://vgmsite.com/soundtracks/kick-the-cooper-online-gamerip-2006/kujctvsicy/02.%20Cooper%20In%20Trance.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kick-the-cooper-online-gamerip-2006/02.%2520Cooper%2520In%2520Trance.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 236,
+    "filesize_mp3_bytes": 9447668,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

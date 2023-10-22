@@ -1,0 +1,83 @@
+{
+  "title": "Uno 52",
+  "titles_alternative": [],
+  "crawled_at": "2023-10-22T07:04:42.028442+00:00",
+  "slug": "uno-52-gba-gamerip-2006",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/uno-52-gba-gamerip-2006",
+  "platforms": {
+    "GBA": "https://downloads.khinsider.com/game-soundtracks/gameboy-advance"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/uno-52-gba-gamerip-2006/Image.jpg"
+  ],
+  "year": 2006,
+  "date_added": "2023-10-22T00:00:00+00:00",
+  "developers": {
+    "Black Lantern Studios Inc.": "https://downloads.khinsider.com/game-soundtracks/developer/black-lantern-studios"
+  },
+  "publishers": {
+    "Destination Software": "https://downloads.khinsider.com/game-soundtracks/publisher/destination-software",
+    "Zoo Digital Publishing": "https://downloads.khinsider.com/game-soundtracks/publisher/zoo-digital-publishing"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1216348,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 59,
+      "source_mp3": "https://vgmsite.com/soundtracks/uno-52-gba-gamerip-2006/mhbjwnphli/01.%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/uno-52-gba-gamerip-2006/01.%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1897922,
+      "track_number": 2,
+      "title": "Relax",
+      "runtime": 100,
+      "source_mp3": "https://vgmsite.com/soundtracks/uno-52-gba-gamerip-2006/hdlnqatqmd/02.%20Relax.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/uno-52-gba-gamerip-2006/02.%2520Relax.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1698693,
+      "track_number": 3,
+      "title": "Voyage",
+      "runtime": 89,
+      "source_mp3": "https://vgmsite.com/soundtracks/uno-52-gba-gamerip-2006/pgvtfkewcl/03.%20Voyage.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/uno-52-gba-gamerip-2006/03.%2520Voyage.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1719664,
+      "track_number": 4,
+      "title": "Wonder",
+      "runtime": 94,
+      "source_mp3": "https://vgmsite.com/soundtracks/uno-52-gba-gamerip-2006/mtgjgvyiak/04.%20Wonder.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/uno-52-gba-gamerip-2006/04.%2520Wonder.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1782579,
+      "track_number": 5,
+      "title": "Tense",
+      "runtime": 89,
+      "source_mp3": "https://vgmsite.com/soundtracks/uno-52-gba-gamerip-2006/kteckznrvx/05.%20Tense.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/uno-52-gba-gamerip-2006/05.%2520Tense.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 431,
+    "filesize_mp3_bytes": 8315206,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

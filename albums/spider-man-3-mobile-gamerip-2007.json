@@ -1,0 +1,72 @@
+{
+  "title": "Spider-Man 3",
+  "titles_alternative": [],
+  "crawled_at": "2023-10-22T07:03:56.527522+00:00",
+  "slug": "spider-man-3-mobile-gamerip-2007",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/spider-man-3-mobile-gamerip-2007",
+  "platforms": {
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/spider-man-3-mobile-gamerip-2007/download.jpeg"
+  ],
+  "year": 2007,
+  "date_added": "2023-10-22T00:00:00+00:00",
+  "developers": {
+    "Javaground": "https://downloads.khinsider.com/game-soundtracks/developer/javaground"
+  },
+  "publishers": {
+    "Sony Pictures Digital": "https://downloads.khinsider.com/game-soundtracks/publisher/sony-pictures-digital"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 912261,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 57,
+      "source_mp3": "https://vgmsite.com/soundtracks/spider-man-3-mobile-gamerip-2007/cxubepbujz/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/spider-man-3-mobile-gamerip-2007/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 775946,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 49,
+      "source_mp3": "https://vgmsite.com/soundtracks/spider-man-3-mobile-gamerip-2007/xtvieeuwgb/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/spider-man-3-mobile-gamerip-2007/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 964689,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 60,
+      "source_mp3": "https://vgmsite.com/soundtracks/spider-man-3-mobile-gamerip-2007/bdkktkcgmk/03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/spider-man-3-mobile-gamerip-2007/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1205862,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 75,
+      "source_mp3": "https://vgmsite.com/soundtracks/spider-man-3-mobile-gamerip-2007/kwplxhkart/04.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/spider-man-3-mobile-gamerip-2007/04.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 241,
+    "filesize_mp3_bytes": 3858758,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

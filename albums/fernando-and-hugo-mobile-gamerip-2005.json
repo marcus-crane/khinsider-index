@@ -1,0 +1,82 @@
+{
+  "title": "Fernando and Hugo",
+  "titles_alternative": [],
+  "crawled_at": "2023-10-22T07:02:23.884356+00:00",
+  "slug": "fernando-and-hugo-mobile-gamerip-2005",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/fernando-and-hugo-mobile-gamerip-2005",
+  "platforms": {
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/fernando-and-hugo-mobile-gamerip-2005/Title.jpg"
+  ],
+  "year": 2005,
+  "date_added": "2023-10-22T00:00:00+00:00",
+  "developers": {
+    "Kiloo ApS": "https://downloads.khinsider.com/game-soundtracks/developer/kiloo-aps"
+  },
+  "publishers": {
+    "ITE Media": "https://downloads.khinsider.com/game-soundtracks/publisher/ite-media"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1436549,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 90,
+      "source_mp3": "https://vgmsite.com/soundtracks/fernando-and-hugo-mobile-gamerip-2005/jbqohmarjw/01.%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fernando-and-hugo-mobile-gamerip-2005/01.%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1677721,
+      "track_number": 2,
+      "title": "Jungle",
+      "runtime": 105,
+      "source_mp3": "https://vgmsite.com/soundtracks/fernando-and-hugo-mobile-gamerip-2005/kqdemozlbz/02.%20Jungle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fernando-and-hugo-mobile-gamerip-2005/02.%2520Jungle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 3,
+      "title": "End Level",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/fernando-and-hugo-mobile-gamerip-2005/qqtetdvqjl/03.%20End%20Level.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fernando-and-hugo-mobile-gamerip-2005/03.%2520End%2520Level.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 4,
+      "title": "Die",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/fernando-and-hugo-mobile-gamerip-2005/snibphoepv/04.%20Die.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fernando-and-hugo-mobile-gamerip-2005/04.%2520Die.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 5,
+      "title": "Game Over",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/fernando-and-hugo-mobile-gamerip-2005/avwlqkigth/05.%20Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fernando-and-hugo-mobile-gamerip-2005/05.%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 212,
+    "filesize_mp3_bytes": 3386898,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

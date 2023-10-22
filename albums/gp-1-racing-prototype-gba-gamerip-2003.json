@@ -1,0 +1,60 @@
+{
+  "title": "GP-1 Racing (Prototype)",
+  "titles_alternative": [],
+  "crawled_at": "2023-10-22T07:02:34.063950+00:00",
+  "slug": "gp-1-racing-prototype-gba-gamerip-2003",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/gp-1-racing-prototype-gba-gamerip-2003",
+  "platforms": {
+    "GBA": "https://downloads.khinsider.com/game-soundtracks/gameboy-advance"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/gp-1-racing-prototype-gba-gamerip-2003/GP-1_Racing_%28U%29_%28Beta%29.png"
+  ],
+  "year": 2003,
+  "date_added": "2023-10-22T00:00:00+00:00",
+  "developers": {
+    "Edge Interact": "https://downloads.khinsider.com/game-soundtracks/developer/edge-interact"
+  },
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3512729,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 247,
+      "source_mp3": "https://vgmsite.com/soundtracks/gp-1-racing-prototype-gba-gamerip-2003/tfczbgqxdq/01.%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gp-1-racing-prototype-gba-gamerip-2003/01.%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2495610,
+      "track_number": 2,
+      "title": "Race BGM",
+      "runtime": 160,
+      "source_mp3": "https://vgmsite.com/soundtracks/gp-1-racing-prototype-gba-gamerip-2003/uebbiwpuiv/02.%20Race%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gp-1-racing-prototype-gba-gamerip-2003/02.%2520Race%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1017118,
+      "track_number": 3,
+      "title": "High Score",
+      "runtime": 69,
+      "source_mp3": "https://vgmsite.com/soundtracks/gp-1-racing-prototype-gba-gamerip-2003/vzusjqwkti/03.%20High%20Score.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gp-1-racing-prototype-gba-gamerip-2003/03.%2520High%2520Score.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 476,
+    "filesize_mp3_bytes": 7025457,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}
