@@ -1,0 +1,50 @@
+{
+  "title": "House of Slendrina",
+  "titles_alternative": [],
+  "crawled_at": "2023-10-23T14:02:40.638748+00:00",
+  "slug": "house-of-slendrina-android-gamerip-2014",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/house-of-slendrina-android-gamerip-2014",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/house-of-slendrina-android-gamerip-2014/HouseOfSlendrina.png"
+  ],
+  "year": 2014,
+  "date_added": "2023-10-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "DVloper": "https://downloads.khinsider.com/game-soundtracks/publisher/dvloper"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1530920,
+      "track_number": 1,
+      "title": "Menu Music",
+      "runtime": 122,
+      "source_mp3": "https://vgmsite.com/soundtracks/house-of-slendrina-android-gamerip-2014/jikdblqnqf/01.%20Menu%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/house-of-slendrina-android-gamerip-2014/01.%2520Menu%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1205862,
+      "track_number": 2,
+      "title": "Slendrina Music",
+      "runtime": 109,
+      "source_mp3": "https://vgmsite.com/soundtracks/house-of-slendrina-android-gamerip-2014/fydnjidaox/02.%20Slendrina%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/house-of-slendrina-android-gamerip-2014/02.%2520Slendrina%2520Music.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 231,
+    "filesize_mp3_bytes": 2736782,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "title": "Slendrina: The Cellar",
+  "titles_alternative": [],
+  "crawled_at": "2023-10-23T14:05:32.245885+00:00",
+  "slug": "slendrina-the-cellar-android-gamerip-2014",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/slendrina-the-cellar-android-gamerip-2014",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/slendrina-the-cellar-android-gamerip-2014/Slendrina%20the%20cellar.png"
+  ],
+  "year": 2014,
+  "date_added": "2023-10-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "DVloper": "https://downloads.khinsider.com/game-soundtracks/publisher/dvloper"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 524288,
+      "track_number": 1,
+      "title": "Music Cellar1",
+      "runtime": 50,
+      "source_mp3": "https://vgmsite.com/soundtracks/slendrina-the-cellar-android-gamerip-2014/bsjjhwbzic/01.%20Music%20Cellar1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/slendrina-the-cellar-android-gamerip-2014/01.%2520Music%2520Cellar1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 482344,
+      "track_number": 2,
+      "title": "Music Cellar2",
+      "runtime": 40,
+      "source_mp3": "https://vgmsite.com/soundtracks/slendrina-the-cellar-android-gamerip-2014/qiotxbnsnm/02.%20Music%20Cellar2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/slendrina-the-cellar-android-gamerip-2014/02.%2520Music%2520Cellar2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 534773,
+      "track_number": 3,
+      "title": "Music Cellar3",
+      "runtime": 53,
+      "source_mp3": "https://vgmsite.com/soundtracks/slendrina-the-cellar-android-gamerip-2014/kquhalxeli/03.%20Music%20Cellar3.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/slendrina-the-cellar-android-gamerip-2014/03.%2520Music%2520Cellar3.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1551892,
+      "track_number": 4,
+      "title": "Slendrina The Cellar Menu Music",
+      "runtime": 100,
+      "source_mp3": "https://vgmsite.com/soundtracks/slendrina-the-cellar-android-gamerip-2014/yqeoebhcmz/04.%20Slendrina%20The%20Cellar%20Menu%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/slendrina-the-cellar-android-gamerip-2014/04.%2520Slendrina%2520The%2520Cellar%2520Menu%2520Music.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 243,
+    "filesize_mp3_bytes": 3093297,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}
