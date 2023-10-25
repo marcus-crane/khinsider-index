@@ -1,0 +1,41 @@
+{
+  "title": "Wekiddy",
+  "titles_alternative": [],
+  "crawled_at": "2023-10-25T07:04:10.630372+00:00",
+  "slug": "wekiddy-2023",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/wekiddy-2023",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios",
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/wekiddy-2023/Image.jpg"
+  ],
+  "year": 2023,
+  "date_added": "2023-10-25T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2778726,
+      "track_number": 1,
+      "title": "Wekiddy (OFFICIAL Incredibox music soundtrack)",
+      "runtime": 174,
+      "source_mp3": "https://vgmsite.com/soundtracks/wekiddy-2023/pxquolqgxs/01.%20Wekiddy%20%28OFFICIAL%20Incredibox%20music%20soundtrack%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wekiddy-2023/01.%2520Wekiddy%2520%2528OFFICIAL%2520Incredibox%2520music%2520soundtrack%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 174,
+    "filesize_mp3_bytes": 2778726,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

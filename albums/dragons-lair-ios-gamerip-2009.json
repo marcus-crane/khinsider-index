@@ -1,0 +1,42 @@
+{
+  "title": "Dragon's Lair",
+  "titles_alternative": [],
+  "crawled_at": "2023-10-25T07:02:12.224619+00:00",
+  "slug": "dragons-lair-ios-gamerip-2009",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dragons-lair-ios-gamerip-2009",
+  "platforms": {
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dragons-lair-ios-gamerip-2009/images.jpeg"
+  ],
+  "year": 2009,
+  "date_added": "2023-10-25T00:00:00+00:00",
+  "developers": {
+    "Code Mystics": "https://downloads.khinsider.com/game-soundtracks/developer/code-mystics"
+  },
+  "publishers": {
+    "Electronic Arts": "https://downloads.khinsider.com/game-soundtracks/publisher/electronic-arts"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3596615,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 125,
+      "source_mp3": "https://vgmsite.com/soundtracks/dragons-lair-ios-gamerip-2009/eertcxpgce/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dragons-lair-ios-gamerip-2009/01.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 125,
+    "filesize_mp3_bytes": 3596615,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}
