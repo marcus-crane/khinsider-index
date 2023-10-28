@@ -1,0 +1,42 @@
+{
+  "title": "Touch & Go",
+  "titles_alternative": [],
+  "crawled_at": "2023-10-28T14:05:17.374185+00:00",
+  "slug": "touch-go-ios-gamerip-2009",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/touch-go-ios-gamerip-2009",
+  "platforms": {
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/touch-go-ios-gamerip-2009/Screenshot_2023-10-26-15-24-59-71_ca795c1a1fa7ec9a1aeab1d63ff2f344.jpg"
+  ],
+  "year": 2009,
+  "date_added": "2023-10-28T00:00:00+00:00",
+  "developers": {
+    "The Game Creators": "https://downloads.khinsider.com/game-soundtracks/developer/the-game-creators"
+  },
+  "publishers": {
+    "The Game Creators": "https://downloads.khinsider.com/game-soundtracks/publisher/the-game-creators"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 251658,
+      "track_number": 1,
+      "title": "Kubes_v1",
+      "runtime": 16,
+      "source_mp3": "https://vgmsite.com/soundtracks/touch-go-ios-gamerip-2009/rumdwdsfci/01.%20Kubes_v1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/touch-go-ios-gamerip-2009/01.%2520Kubes_v1.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 16,
+    "filesize_mp3_bytes": 251658,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}
