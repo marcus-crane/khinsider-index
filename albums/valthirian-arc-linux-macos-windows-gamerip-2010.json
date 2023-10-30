@@ -1,0 +1,84 @@
+{
+  "title": "Valthirian Arc",
+  "titles_alternative": [],
+  "crawled_at": "2023-10-30T14:04:26.934067+00:00",
+  "slug": "valthirian-arc-linux-macos-windows-gamerip-2010",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/valthirian-arc-linux-macos-windows-gamerip-2010",
+  "platforms": {
+    "Linux": "https://downloads.khinsider.com/game-soundtracks/linux",
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/valthirian-arc-linux-macos-windows-gamerip-2010/ValthirianArc.png"
+  ],
+  "year": 2010,
+  "date_added": "2023-10-30T00:00:00+00:00",
+  "developers": {
+    "Lucidrine": "https://downloads.khinsider.com/game-soundtracks/developer/lucidrine"
+  },
+  "publishers": {
+    "Lucidrine": "https://downloads.khinsider.com/game-soundtracks/publisher/lucidrine"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 744488,
+      "track_number": 1,
+      "title": "Battle Theme1",
+      "runtime": 93,
+      "source_mp3": "https://vgmsite.com/soundtracks/valthirian-arc-linux-macos-windows-gamerip-2010/xsyfjtcpdt/01.%20Battle%20Theme1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/valthirian-arc-linux-macos-windows-gamerip-2010/01.%2520Battle%2520Theme1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 765460,
+      "track_number": 2,
+      "title": "Battle Theme2",
+      "runtime": 96,
+      "source_mp3": "https://vgmsite.com/soundtracks/valthirian-arc-linux-macos-windows-gamerip-2010/misyvtknhx/02.%20Battle%20Theme2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/valthirian-arc-linux-macos-windows-gamerip-2010/02.%2520Battle%2520Theme2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 314572,
+      "track_number": 3,
+      "title": "Fanfare",
+      "runtime": 39,
+      "source_mp3": "https://vgmsite.com/soundtracks/valthirian-arc-linux-macos-windows-gamerip-2010/dvfcdgxgjd/03.%20Fanfare.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/valthirian-arc-linux-macos-windows-gamerip-2010/03.%2520Fanfare.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 870318,
+      "track_number": 4,
+      "title": "Organize Screen",
+      "runtime": 109,
+      "source_mp3": "https://vgmsite.com/soundtracks/valthirian-arc-linux-macos-windows-gamerip-2010/ompbwvgymb/04.%20Organize%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/valthirian-arc-linux-macos-windows-gamerip-2010/04.%2520Organize%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 608174,
+      "track_number": 5,
+      "title": "Title",
+      "runtime": 76,
+      "source_mp3": "https://vgmsite.com/soundtracks/valthirian-arc-linux-macos-windows-gamerip-2010/gmhfkeduhg/05.%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/valthirian-arc-linux-macos-windows-gamerip-2010/05.%2520Title.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 413,
+    "filesize_mp3_bytes": 3303012,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

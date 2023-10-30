@@ -1,0 +1,65 @@
+{
+  "title": "Hyper Bucket",
+  "titles_alternative": [],
+  "crawled_at": "2023-10-30T14:02:16.699244+00:00",
+  "slug": "hyper-bucket-linux-macos-windows-gamerip-2007",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hyper-bucket-linux-macos-windows-gamerip-2007",
+  "platforms": {
+    "Linux": "https://downloads.khinsider.com/game-soundtracks/linux",
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/hyper-bucket-linux-macos-windows-gamerip-2007/New%20Project.png"
+  ],
+  "year": 2007,
+  "date_added": "2023-10-30T00:00:00+00:00",
+  "developers": {
+    "jmtb02": "https://downloads.khinsider.com/game-soundtracks/developer/jmtb02"
+  },
+  "publishers": {
+    "Armor Games": "https://downloads.khinsider.com/game-soundtracks/publisher/armor-games",
+    "Shockwave.com": "https://downloads.khinsider.com/game-soundtracks/publisher/shockwave.com"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 618659,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 38,
+      "source_mp3": "https://vgmsite.com/soundtracks/hyper-bucket-linux-macos-windows-gamerip-2007/pyvagrpywb/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hyper-bucket-linux-macos-windows-gamerip-2007/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 608174,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 77,
+      "source_mp3": "https://vgmsite.com/soundtracks/hyper-bucket-linux-macos-windows-gamerip-2007/eksunjtgqa/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hyper-bucket-linux-macos-windows-gamerip-2007/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 398458,
+      "track_number": 3,
+      "title": "Intro",
+      "runtime": 50,
+      "source_mp3": "https://vgmsite.com/soundtracks/hyper-bucket-linux-macos-windows-gamerip-2007/ywowachbys/03.%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hyper-bucket-linux-macos-windows-gamerip-2007/03.%2520Intro.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 165,
+    "filesize_mp3_bytes": 1625291,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}
