@@ -1,0 +1,68 @@
+{
+  "title": "JUSTICE / Baru",
+  "titles_alternative": [
+    "JUSTICE / \u30d0\u30eb"
+  ],
+  "crawled_at": "2023-11-02T21:04:59.064448+00:00",
+  "slug": "justice-baru-2018",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/justice-baru-2018",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios",
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/justice-baru-2018/Cover.jpg"
+  ],
+  "year": 2018,
+  "catalog_number": "01-0025",
+  "date_added": "2023-11-02T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Cave": "https://downloads.khinsider.com/game-soundtracks/publisher/cave"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 29999759,
+      "filesize_mp3_bytes": 7696547,
+      "track_number": 1,
+      "title": "JUSTICE",
+      "runtime": 231,
+      "source_mp3": "https://vgmsite.com/soundtracks/justice-baru-2018/wujmugpitb/01.%20JUSTICE.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/justice-baru-2018/wujmugpitb/01.%20JUSTICE.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/justice-baru-2018/01.%2520JUSTICE.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 29873930,
+      "filesize_mp3_bytes": 7728005,
+      "track_number": 2,
+      "title": "JUSTICE ~CHORUS Ver.~",
+      "runtime": 231,
+      "source_mp3": "https://vgmsite.com/soundtracks/justice-baru-2018/yfhjpbybzs/02.%20JUSTICE%20~CHORUS%20Ver.~.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/justice-baru-2018/yfhjpbybzs/02.%20JUSTICE%20~CHORUS%20Ver.~.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/justice-baru-2018/02.%2520JUSTICE%2520~CHORUS%2520Ver.~.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 29852958,
+      "filesize_mp3_bytes": 7675576,
+      "track_number": 3,
+      "title": "JUSTICE ~KARAOKE Ver.~",
+      "runtime": 229,
+      "source_mp3": "https://vgmsite.com/soundtracks/justice-baru-2018/suehbhjjmh/03.%20JUSTICE%20~KARAOKE%20Ver.~.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/justice-baru-2018/suehbhjjmh/03.%20JUSTICE%20~KARAOKE%20Ver.~.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/justice-baru-2018/03.%2520JUSTICE%2520~KARAOKE%2520Ver.~.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 691,
+    "filesize_mp3_bytes": 23100128,
+    "filesize_flac_bytes": 89726647,
+    "tracks": 3
+  }
+}
