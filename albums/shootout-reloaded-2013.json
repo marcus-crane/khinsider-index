@@ -1,0 +1,73 @@
+{
+  "title": "ShootOut! Reloaded",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-03T14:09:37.587555+00:00",
+  "slug": "shootout-reloaded-2013",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/shootout-reloaded-2013",
+  "platforms": {
+    "Xbox 360": "https://downloads.khinsider.com/game-soundtracks/xbox-360"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/shootout-reloaded-2013/Cover.png"
+  ],
+  "year": 2013,
+  "catalog_number": null,
+  "date_added": "2023-11-03T00:00:00+00:00",
+  "developers": {
+    "monufrak1": "https://downloads.khinsider.com/game-soundtracks/developer/monufrak1"
+  },
+  "publishers": {
+    "Microsoft": "https://downloads.khinsider.com/game-soundtracks/publisher/microsoft"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4624220,
+      "track_number": 1,
+      "title": "Through The Fog",
+      "runtime": 99,
+      "source_mp3": "https://vgmsite.com/soundtracks/shootout-reloaded-2013/kzoijluptj/01%20Through%20The%20Fog.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shootout-reloaded-2013/01%2520Through%2520The%2520Fog.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6700400,
+      "track_number": 2,
+      "title": "The Clock Is Ticking",
+      "runtime": 152,
+      "source_mp3": "https://vgmsite.com/soundtracks/shootout-reloaded-2013/ersuyxibzd/02%20The%20Clock%20Is%20Ticking.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shootout-reloaded-2013/02%2520The%2520Clock%2520Is%2520Ticking.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4362076,
+      "track_number": 3,
+      "title": "Continual Progress",
+      "runtime": 93,
+      "source_mp3": "https://vgmsite.com/soundtracks/shootout-reloaded-2013/knplqzilzy/03%20Continual%20Progress.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shootout-reloaded-2013/03%2520Continual%2520Progress.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4571791,
+      "track_number": 4,
+      "title": "Try Again",
+      "runtime": 98,
+      "source_mp3": "https://vgmsite.com/soundtracks/shootout-reloaded-2013/fwizrhernk/04%20Try%20Again.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/shootout-reloaded-2013/04%2520Try%2520Again.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 442,
+    "filesize_mp3_bytes": 20258487,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}
