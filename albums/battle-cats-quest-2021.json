@@ -1,0 +1,54 @@
+{
+  "title": "Battle Cats Quest",
+  "titles_alternative": [
+    "Battle Cats"
+  ],
+  "crawled_at": "2023-11-04T14:01:36.527780+00:00",
+  "slug": "battle-cats-quest-2021",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/battle-cats-quest-2021",
+  "platforms": {
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/battle-cats-quest-2021/icon.png"
+  ],
+  "year": 2021,
+  "date_added": "2023-11-04T00:00:00+00:00",
+  "developers": {
+    "PONOS Corporation": "https://downloads.khinsider.com/game-soundtracks/developer/ponos-corporation"
+  },
+  "publishers": {
+    "PONOS Corporation": "https://downloads.khinsider.com/game-soundtracks/publisher/ponos-corporation"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4666163,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 291,
+      "source_mp3": "https://vgmsite.com/soundtracks/battle-cats-quest-2021/qcxgiotlsg/01.%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battle-cats-quest-2021/01.%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4435476,
+      "track_number": 2,
+      "title": "Boss Theme",
+      "runtime": 277,
+      "source_mp3": "https://vgmsite.com/soundtracks/battle-cats-quest-2021/vparusibsp/02.%20Boss%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battle-cats-quest-2021/02.%2520Boss%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 568,
+    "filesize_mp3_bytes": 9101639,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

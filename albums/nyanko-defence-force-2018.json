@@ -1,0 +1,85 @@
+{
+  "title": "Nyanko Defence Force",
+  "titles_alternative": [
+    "Battle Cats"
+  ],
+  "crawled_at": "2023-11-04T14:03:44.309352+00:00",
+  "slug": "nyanko-defence-force-2018",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/nyanko-defence-force-2018",
+  "platforms": {
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/nyanko-defence-force-2018/icon.png"
+  ],
+  "year": 2018,
+  "date_added": "2023-11-04T00:00:00+00:00",
+  "developers": {
+    "Game Closure": "https://downloads.khinsider.com/game-soundtracks/developer/game-closure",
+    "Ponos": "https://downloads.khinsider.com/game-soundtracks/developer/ponos"
+  },
+  "publishers": {
+    "Ponos": "https://downloads.khinsider.com/game-soundtracks/publisher/ponos"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1006632,
+      "track_number": 1,
+      "title": "Menu Screen",
+      "runtime": 62,
+      "source_mp3": "https://vgmsite.com/soundtracks/nyanko-defence-force-2018/ygtycmhhts/01.%20Menu%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nyanko-defence-force-2018/01.%2520Menu%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2443182,
+      "track_number": 2,
+      "title": "Battle Theme",
+      "runtime": 152,
+      "source_mp3": "https://vgmsite.com/soundtracks/nyanko-defence-force-2018/vrzmffzmvf/02.%20Battle%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nyanko-defence-force-2018/02.%2520Battle%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1027604,
+      "track_number": 3,
+      "title": "Raid Battle Theme #1",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/nyanko-defence-force-2018/bbebrnhgef/03.%20Raid%20Battle%20Theme%20%231.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nyanko-defence-force-2018/03.%2520Raid%2520Battle%2520Theme%2520%25231.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1101004,
+      "track_number": 4,
+      "title": "Raid Battle Theme #2",
+      "runtime": 68,
+      "source_mp3": "https://vgmsite.com/soundtracks/nyanko-defence-force-2018/czlwhzaijs/04.%20Raid%20Battle%20Theme%20%232.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nyanko-defence-force-2018/04.%2520Raid%2520Battle%2520Theme%2520%25232.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 178257,
+      "track_number": 5,
+      "title": "Results",
+      "runtime": 11,
+      "source_mp3": "https://vgmsite.com/soundtracks/nyanko-defence-force-2018/mypgwitdlr/05.%20Results.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nyanko-defence-force-2018/05.%2520Results.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 357,
+    "filesize_mp3_bytes": 5756679,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "title": "Nyanko New Japan",
+  "titles_alternative": [
+    "Battle Cats"
+  ],
+  "crawled_at": "2023-11-04T14:03:45.848222+00:00",
+  "slug": "nyanko-new-japan-2020",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/nyanko-new-japan-2020",
+  "platforms": {
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/nyanko-new-japan-2020/icon.png"
+  ],
+  "year": 2020,
+  "date_added": "2023-11-04T00:00:00+00:00",
+  "developers": {
+    "PONOS Corporation": "https://downloads.khinsider.com/game-soundtracks/developer/ponos-corporation"
+  },
+  "publishers": {
+    "PONOS Corporation": "https://downloads.khinsider.com/game-soundtracks/publisher/ponos-corporation"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 1,
+      "title": "Game Start",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/nyanko-new-japan-2020/gzcniyhpbf/01.%20Game%20Start.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nyanko-new-japan-2020/01.%2520Game%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1583349,
+      "track_number": 2,
+      "title": "Gameplay Theme",
+      "runtime": 99,
+      "source_mp3": "https://vgmsite.com/soundtracks/nyanko-new-japan-2020/ffkkievtkp/02.%20Gameplay%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nyanko-new-japan-2020/02.%2520Gameplay%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 3,
+      "title": "Result Theme",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/nyanko-new-japan-2020/tzrunasrhh/03.%20Result%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nyanko-new-japan-2020/03.%2520Result%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 4,
+      "title": "Times Up Result Theme",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/nyanko-new-japan-2020/hktyxjekhx/04.%20Times%20Up%20Result%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nyanko-new-japan-2020/04.%2520Times%2520Up%2520Result%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 513802,
+      "track_number": 5,
+      "title": "Title Theme",
+      "runtime": 32,
+      "source_mp3": "https://vgmsite.com/soundtracks/nyanko-new-japan-2020/zwqfagjclh/05.%20Title%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nyanko-new-japan-2020/05.%2520Title%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 148,
+    "filesize_mp3_bytes": 2369779,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

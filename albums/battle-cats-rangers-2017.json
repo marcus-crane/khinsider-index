@@ -1,0 +1,67 @@
+{
+  "title": "Battle Cats Rangers",
+  "titles_alternative": [
+    "Battle Cats"
+  ],
+  "crawled_at": "2023-11-04T14:01:37.317322+00:00",
+  "slug": "battle-cats-rangers-2017",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/battle-cats-rangers-2017",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/battle-cats-rangers-2017/card.png"
+  ],
+  "year": 2017,
+  "date_added": "2023-11-04T00:00:00+00:00",
+  "developers": {
+    "MEMORY": "https://downloads.khinsider.com/game-soundtracks/developer/memory"
+  },
+  "publishers": {
+    "MEMORY": "https://downloads.khinsider.com/game-soundtracks/publisher/memory",
+    "Ponos": "https://downloads.khinsider.com/game-soundtracks/publisher/ponos",
+    "YD Online": "https://downloads.khinsider.com/game-soundtracks/publisher/yd-online"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1604321,
+      "track_number": 1,
+      "title": "Battle Theme #1",
+      "runtime": 100,
+      "source_mp3": "https://vgmsite.com/soundtracks/battle-cats-rangers-2017/hzrqfrcanh/01.%20Battle%20Theme%20%231.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battle-cats-rangers-2017/01.%2520Battle%2520Theme%2520%25231.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2086666,
+      "track_number": 2,
+      "title": "Battle Theme #2",
+      "runtime": 130,
+      "source_mp3": "https://vgmsite.com/soundtracks/battle-cats-rangers-2017/sxeymdzvdb/02.%20Battle%20Theme%20%232.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battle-cats-rangers-2017/02.%2520Battle%2520Theme%2520%25232.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1688207,
+      "track_number": 3,
+      "title": "Battle Theme #3",
+      "runtime": 105,
+      "source_mp3": "https://vgmsite.com/soundtracks/battle-cats-rangers-2017/waowlxolvb/03.%20Battle%20Theme%20%233.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/battle-cats-rangers-2017/03.%2520Battle%2520Theme%2520%25233.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 335,
+    "filesize_mp3_bytes": 5379194,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}
