@@ -1,0 +1,92 @@
+{
+  "title": "Prey: Featured Music Selections",
+  "titles_alternative": [
+    "Prey: Extraits de la Bande Originale"
+  ],
+  "crawled_at": "2023-11-05T21:02:24.910693+00:00",
+  "slug": "prey-featured-music-selections-2017",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/prey-featured-music-selections-2017",
+  "platforms": {
+    "PS3": "https://downloads.khinsider.com/game-soundtracks/playstation-3",
+    "PS4": "https://downloads.khinsider.com/game-soundtracks/playstation-4",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows",
+    "Xbox 360": "https://downloads.khinsider.com/game-soundtracks/xbox-360",
+    "Xbox One": "https://downloads.khinsider.com/game-soundtracks/xbox-one"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/prey-featured-music-selections-2017/cover.jpg"
+  ],
+  "year": 2017,
+  "catalog_number": null,
+  "date_added": "2023-11-05T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Bethesda Softworks": "https://downloads.khinsider.com/game-soundtracks/publisher/bethesda-softworks"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 14669578,
+      "filesize_mp3_bytes": 4833935,
+      "track_number": 1,
+      "title": "No Gravity",
+      "runtime": 153,
+      "source_mp3": "https://vgmsite.com/soundtracks/prey-featured-music-selections-2017/ychuwpuomf/01.%20No%20Gravity.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/prey-featured-music-selections-2017/ychuwpuomf/01.%20No%20Gravity.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/prey-featured-music-selections-2017/01.%2520No%2520Gravity.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 12425625,
+      "filesize_mp3_bytes": 3974103,
+      "track_number": 2,
+      "title": "Experiments In Confusion",
+      "runtime": 119,
+      "source_mp3": "https://vgmsite.com/soundtracks/prey-featured-music-selections-2017/vvjtqvmkok/02.%20Experiments%20In%20Confusion.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/prey-featured-music-selections-2017/vvjtqvmkok/02.%20Experiments%20In%20Confusion.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/prey-featured-music-selections-2017/02.%2520Experiments%2520In%2520Confusion.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10276044,
+      "filesize_mp3_bytes": 3848273,
+      "track_number": 3,
+      "title": "Typhon Voices",
+      "runtime": 121,
+      "source_mp3": "https://vgmsite.com/soundtracks/prey-featured-music-selections-2017/hoxhtftlcl/03.%20Typhon%20Voices.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/prey-featured-music-selections-2017/hoxhtftlcl/03.%20Typhon%20Voices.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/prey-featured-music-selections-2017/03.%2520Typhon%2520Voices.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 16829644,
+      "filesize_mp3_bytes": 5012193,
+      "track_number": 4,
+      "title": "Everything Is Going to Be Okay",
+      "runtime": 151,
+      "source_mp3": "https://vgmsite.com/soundtracks/prey-featured-music-selections-2017/wjmknankxi/04.%20Everything%20Is%20Going%20to%20Be%20Okay.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/prey-featured-music-selections-2017/wjmknankxi/04.%20Everything%20Is%20Going%20to%20Be%20Okay.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/prey-featured-music-selections-2017/04.%2520Everything%2520Is%2520Going%2520to%2520Be%2520Okay.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8566865,
+      "filesize_mp3_bytes": 2736783,
+      "track_number": 5,
+      "title": "Human Elements",
+      "runtime": 82,
+      "source_mp3": "https://vgmsite.com/soundtracks/prey-featured-music-selections-2017/wszbwxtsxw/05.%20Human%20Elements.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/prey-featured-music-selections-2017/wszbwxtsxw/05.%20Human%20Elements.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/prey-featured-music-selections-2017/05.%2520Human%2520Elements.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 626,
+    "filesize_mp3_bytes": 20405287,
+    "filesize_flac_bytes": 62767756,
+    "tracks": 5
+  }
+}
