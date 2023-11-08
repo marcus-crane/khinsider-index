@@ -1,0 +1,45 @@
+{
+  "title": "Demo One (Version 7) (Europe)",
+  "titles_alternative": [
+    "Demo 1"
+  ],
+  "crawled_at": "2023-11-08T21:03:07.181240+00:00",
+  "slug": "demo-one-version-7-europe-ps1-gamerip-1995",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/demo-one-version-7-europe-ps1-gamerip-1995",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/demo-one-version-7-europe-ps1-gamerip-1995/product-121268.jpg"
+  ],
+  "year": 1995,
+  "date_added": "2023-11-08T00:00:00+00:00",
+  "developers": {
+    "Sony": "https://downloads.khinsider.com/game-soundtracks/developer/sony"
+  },
+  "publishers": {
+    "Sony": "https://downloads.khinsider.com/game-soundtracks/publisher/sony"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2894069,
+      "filesize_mp3_bytes": 775946,
+      "track_number": 1,
+      "title": "Demo One Theme",
+      "runtime": 30,
+      "source_mp3": "https://vgmsite.com/soundtracks/demo-one-version-7-europe-ps1-gamerip-1995/ovlnhngjdv/01.%20Demo%20One%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/demo-one-version-7-europe-ps1-gamerip-1995/ovlnhngjdv/01.%20Demo%20One%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/demo-one-version-7-europe-ps1-gamerip-1995/01.%2520Demo%2520One%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 30,
+    "filesize_mp3_bytes": 775946,
+    "filesize_flac_bytes": 2894069,
+    "tracks": 1
+  }
+}
