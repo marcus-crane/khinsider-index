@@ -1,0 +1,76 @@
+{
+  "title": "Frontier: Elite II",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-09T14:03:35.455024+00:00",
+  "slug": "frontier-elite-ii-atari-st-gamerip-1993",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/frontier-elite-ii-atari-st-gamerip-1993",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/frontier-elite-ii-atari-st-gamerip-1993/cover.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2023-11-09T00:00:00+00:00",
+  "developers": {
+    "Gametek": "https://downloads.khinsider.com/game-soundtracks/developer/gametek"
+  },
+  "publishers": {
+    "Konami": "https://downloads.khinsider.com/game-soundtracks/publisher/konami"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10443816,
+      "filesize_mp3_bytes": 3145728,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 185,
+      "source_mp3": "https://vgmsite.com/soundtracks/frontier-elite-ii-atari-st-gamerip-1993/gmpkofjzds/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/frontier-elite-ii-atari-st-gamerip-1993/gmpkofjzds/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/frontier-elite-ii-atari-st-gamerip-1993/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4341104,
+      "filesize_mp3_bytes": 1321205,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 77,
+      "source_mp3": "https://vgmsite.com/soundtracks/frontier-elite-ii-atari-st-gamerip-1993/flhtshowkx/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/frontier-elite-ii-atari-st-gamerip-1993/flhtshowkx/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/frontier-elite-ii-atari-st-gamerip-1993/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5578424,
+      "filesize_mp3_bytes": 1604321,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 98,
+      "source_mp3": "https://vgmsite.com/soundtracks/frontier-elite-ii-atari-st-gamerip-1993/lzlrjtfjwd/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/frontier-elite-ii-atari-st-gamerip-1993/lzlrjtfjwd/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/frontier-elite-ii-atari-st-gamerip-1993/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2936012,
+      "filesize_mp3_bytes": 922746,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 52,
+      "source_mp3": "https://vgmsite.com/soundtracks/frontier-elite-ii-atari-st-gamerip-1993/ydwxwcjuyb/04.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/frontier-elite-ii-atari-st-gamerip-1993/ydwxwcjuyb/04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/frontier-elite-ii-atari-st-gamerip-1993/04.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 412,
+    "filesize_mp3_bytes": 6994000,
+    "filesize_flac_bytes": 23299356,
+    "tracks": 4
+  }
+}

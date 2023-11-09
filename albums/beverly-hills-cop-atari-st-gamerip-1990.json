@@ -1,0 +1,43 @@
+{
+  "title": "Beverly Hills Cop",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-09T14:03:10.950662+00:00",
+  "slug": "beverly-hills-cop-atari-st-gamerip-1990",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/beverly-hills-cop-atari-st-gamerip-1990",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/beverly-hills-cop-atari-st-gamerip-1990/cover.png"
+  ],
+  "year": 1990,
+  "date_added": "2023-11-09T00:00:00+00:00",
+  "developers": {
+    "Tynesoft": "https://downloads.khinsider.com/game-soundtracks/developer/tynesoft"
+  },
+  "publishers": {
+    "Tynesoft": "https://downloads.khinsider.com/game-soundtracks/publisher/tynesoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8283750,
+      "filesize_mp3_bytes": 2673868,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 132,
+      "source_mp3": "https://vgmsite.com/soundtracks/beverly-hills-cop-atari-st-gamerip-1990/drojxbjyee/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/beverly-hills-cop-atari-st-gamerip-1990/drojxbjyee/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/beverly-hills-cop-atari-st-gamerip-1990/01.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 132,
+    "filesize_mp3_bytes": 2673868,
+    "filesize_flac_bytes": 8283750,
+    "tracks": 1
+  }
+}
