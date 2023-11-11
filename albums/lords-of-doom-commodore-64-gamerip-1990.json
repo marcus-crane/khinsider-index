@@ -1,0 +1,44 @@
+{
+  "title": "Lords of DOOM",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-11T14:05:03.444720+00:00",
+  "slug": "lords-of-doom-commodore-64-gamerip-1990",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/lords-of-doom-commodore-64-gamerip-1990",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/lords-of-doom-commodore-64-gamerip-1990/cover.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2023-11-11T00:00:00+00:00",
+  "developers": {
+    "attic Entertainment Software GmbH": "https://downloads.khinsider.com/game-soundtracks/developer/attic-entertainment-software-gmbh"
+  },
+  "publishers": {
+    "Softgold Computerspiele GmbH": "https://downloads.khinsider.com/game-soundtracks/publisher/softgold-computerspiele-gmbh",
+    "Starbyte Software": "https://downloads.khinsider.com/game-soundtracks/publisher/starbyte-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 25427968,
+      "filesize_mp3_bytes": 9447669,
+      "track_number": 1,
+      "title": "Lords of Doom",
+      "runtime": 456,
+      "source_mp3": "https://vgmsite.com/soundtracks/lords-of-doom-commodore-64-gamerip-1990/udnpxkczvv/01.%20Lords%20of%20Doom.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/lords-of-doom-commodore-64-gamerip-1990/udnpxkczvv/01.%20Lords%20of%20Doom.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lords-of-doom-commodore-64-gamerip-1990/01.%2520Lords%2520of%2520Doom.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 456,
+    "filesize_mp3_bytes": 9447669,
+    "filesize_flac_bytes": 25427968,
+    "tracks": 1
+  }
+}

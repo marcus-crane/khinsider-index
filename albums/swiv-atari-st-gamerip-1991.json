@@ -1,0 +1,57 @@
+{
+  "title": "SWIV",
+  "titles_alternative": [
+    "SILKWORM IV"
+  ],
+  "crawled_at": "2023-11-11T14:18:10.728690+00:00",
+  "slug": "swiv-atari-st-gamerip-1991",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/swiv-atari-st-gamerip-1991",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/swiv-atari-st-gamerip-1991/cover.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2023-11-11T00:00:00+00:00",
+  "developers": {
+    "Random Access": "https://downloads.khinsider.com/game-soundtracks/developer/random-access"
+  },
+  "publishers": {
+    "Kixx": "https://downloads.khinsider.com/game-soundtracks/publisher/kixx",
+    "Storm": "https://downloads.khinsider.com/game-soundtracks/publisher/storm"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9667870,
+      "filesize_mp3_bytes": 3177185,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 164,
+      "source_mp3": "https://vgmsite.com/soundtracks/swiv-atari-st-gamerip-1991/aqivyqtvfq/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/swiv-atari-st-gamerip-1991/aqivyqtvfq/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/swiv-atari-st-gamerip-1991/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10538188,
+      "filesize_mp3_bytes": 3156213,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 173,
+      "source_mp3": "https://vgmsite.com/soundtracks/swiv-atari-st-gamerip-1991/qmfkchgrur/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/swiv-atari-st-gamerip-1991/qmfkchgrur/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/swiv-atari-st-gamerip-1991/02.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 337,
+    "filesize_mp3_bytes": 6333398,
+    "filesize_flac_bytes": 20206058,
+    "tracks": 2
+  }
+}

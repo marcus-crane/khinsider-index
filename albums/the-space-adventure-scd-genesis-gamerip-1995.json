@@ -1,0 +1,65 @@
+{
+  "title": "The Space Adventure (SCD)",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-11T14:18:54.597650+00:00",
+  "slug": "the-space-adventure-scd-genesis-gamerip-1995",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/the-space-adventure-scd-genesis-gamerip-1995",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/the-space-adventure-scd-genesis-gamerip-1995/cover.jpg"
+  ],
+  "year": 1995,
+  "date_added": "2023-11-11T00:00:00+00:00",
+  "developers": {
+    "Hudson Soft": "https://downloads.khinsider.com/game-soundtracks/developer/hudson-soft"
+  },
+  "publishers": {
+    "Hudson Soft": "https://downloads.khinsider.com/game-soundtracks/publisher/hudson-soft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 22512926,
+      "filesize_mp3_bytes": 6983516,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 202,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-space-adventure-scd-genesis-gamerip-1995/sucgcugocf/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/the-space-adventure-scd-genesis-gamerip-1995/sucgcugocf/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-space-adventure-scd-genesis-gamerip-1995/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 27787264,
+      "filesize_mp3_bytes": 9080668,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 255,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-space-adventure-scd-genesis-gamerip-1995/fbtydqvzjq/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/the-space-adventure-scd-genesis-gamerip-1995/fbtydqvzjq/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-space-adventure-scd-genesis-gamerip-1995/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5389680,
+      "filesize_mp3_bytes": 2191523,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 62,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-space-adventure-scd-genesis-gamerip-1995/dzayzmdsoe/03.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/the-space-adventure-scd-genesis-gamerip-1995/dzayzmdsoe/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-space-adventure-scd-genesis-gamerip-1995/03.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 519,
+    "filesize_mp3_bytes": 18255707,
+    "filesize_flac_bytes": 55689870,
+    "tracks": 3
+  }
+}

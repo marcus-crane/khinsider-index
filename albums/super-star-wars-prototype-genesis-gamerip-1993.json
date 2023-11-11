@@ -1,0 +1,74 @@
+{
+  "title": "Super Star Wars (Prototype)",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-11T14:18:09.085597+00:00",
+  "slug": "super-star-wars-prototype-genesis-gamerip-1993",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/super-star-wars-prototype-genesis-gamerip-1993",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/super-star-wars-prototype-genesis-gamerip-1993/cover.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2023-11-11T00:00:00+00:00",
+  "developers": {
+    "Sega Interactive": "https://downloads.khinsider.com/game-soundtracks/developer/sega-interactive"
+  },
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8231321,
+      "filesize_mp3_bytes": 2831155,
+      "track_number": 1,
+      "title": "Menu",
+      "runtime": 111,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-star-wars-prototype-genesis-gamerip-1993/xywbjbaxlr/01.%20Menu.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-star-wars-prototype-genesis-gamerip-1993/xywbjbaxlr/01.%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-star-wars-prototype-genesis-gamerip-1993/01.%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9384755,
+      "filesize_mp3_bytes": 2862612,
+      "track_number": 2,
+      "title": "Dune Sea",
+      "runtime": 154,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-star-wars-prototype-genesis-gamerip-1993/ayawjtujzw/02.%20Dune%20Sea.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-star-wars-prototype-genesis-gamerip-1993/ayawjtujzw/02.%20Dune%20Sea.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-star-wars-prototype-genesis-gamerip-1993/02.%2520Dune%2520Sea.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6658457,
+      "filesize_mp3_bytes": 1971322,
+      "track_number": 3,
+      "title": "Cantina",
+      "runtime": 117,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-star-wars-prototype-genesis-gamerip-1993/mlcxqfpzsc/03.%20Cantina.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-star-wars-prototype-genesis-gamerip-1993/mlcxqfpzsc/03.%20Cantina.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-star-wars-prototype-genesis-gamerip-1993/03.%2520Cantina.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7549747,
+      "filesize_mp3_bytes": 3470786,
+      "track_number": 4,
+      "title": "Tatooine Desert",
+      "runtime": 108,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-star-wars-prototype-genesis-gamerip-1993/aeicrpyctj/04.%20Tatooine%20Desert.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/super-star-wars-prototype-genesis-gamerip-1993/aeicrpyctj/04.%20Tatooine%20Desert.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-star-wars-prototype-genesis-gamerip-1993/04.%2520Tatooine%2520Desert.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 490,
+    "filesize_mp3_bytes": 11135875,
+    "filesize_flac_bytes": 31824280,
+    "tracks": 4
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "title": "James Bond: The Spy Who Loved Me",
+  "titles_alternative": [
+    "The Spy Who Loved Me"
+  ],
+  "crawled_at": "2023-11-11T14:04:12.916416+00:00",
+  "slug": "james-bond-the-spy-who-loved-me-atari-st-gamerip-1990",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/james-bond-the-spy-who-loved-me-atari-st-gamerip-1990",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/james-bond-the-spy-who-loved-me-atari-st-gamerip-1990/cover.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2023-11-11T00:00:00+00:00",
+  "developers": {
+    "The Kremlin": "https://downloads.khinsider.com/game-soundtracks/developer/the-kremlin"
+  },
+  "publishers": {
+    "Domark": "https://downloads.khinsider.com/game-soundtracks/publisher/domark"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 12866027,
+      "filesize_mp3_bytes": 4991221,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 225,
+      "source_mp3": "https://vgmsite.com/soundtracks/james-bond-the-spy-who-loved-me-atari-st-gamerip-1990/jtneahtmsm/01.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/james-bond-the-spy-who-loved-me-atari-st-gamerip-1990/jtneahtmsm/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/james-bond-the-spy-who-loved-me-atari-st-gamerip-1990/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 16756244,
+      "filesize_mp3_bytes": 5442109,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 300,
+      "source_mp3": "https://vgmsite.com/soundtracks/james-bond-the-spy-who-loved-me-atari-st-gamerip-1990/kfpoqihcyh/02.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/james-bond-the-spy-who-loved-me-atari-st-gamerip-1990/kfpoqihcyh/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/james-bond-the-spy-who-loved-me-atari-st-gamerip-1990/02.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 525,
+    "filesize_mp3_bytes": 10433330,
+    "filesize_flac_bytes": 29622271,
+    "tracks": 2
+  }
+}

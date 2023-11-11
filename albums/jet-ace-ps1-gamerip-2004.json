@@ -1,0 +1,43 @@
+{
+  "title": "Jet Ace",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-11T14:04:19.131852+00:00",
+  "slug": "jet-ace-ps1-gamerip-2004",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/jet-ace-ps1-gamerip-2004",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/jet-ace-ps1-gamerip-2004/SLES-04125.jpg"
+  ],
+  "year": 2004,
+  "date_added": "2023-11-11T00:00:00+00:00",
+  "developers": {
+    "Na.p.s. Team s.n.c": "https://downloads.khinsider.com/game-soundtracks/developer/na.p.s.-team-s.n.c"
+  },
+  "publishers": {
+    "Phoenix Games": "https://downloads.khinsider.com/game-soundtracks/publisher/phoenix-games"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11051991,
+      "filesize_mp3_bytes": 3816816,
+      "track_number": 1,
+      "title": "GAME",
+      "runtime": 171,
+      "source_mp3": "https://vgmsite.com/soundtracks/jet-ace-ps1-gamerip-2004/dtbtkdueqy/01.%20GAME.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/jet-ace-ps1-gamerip-2004/dtbtkdueqy/01.%20GAME.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jet-ace-ps1-gamerip-2004/01.%2520GAME.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 171,
+    "filesize_mp3_bytes": 3816816,
+    "filesize_flac_bytes": 11051991,
+    "tracks": 1
+  }
+}
