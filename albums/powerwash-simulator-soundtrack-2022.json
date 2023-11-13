@@ -1,0 +1,52 @@
+{
+  "title": "PowerWash Simulator Soundtrack",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-13T21:05:40.453749+00:00",
+  "slug": "powerwash-simulator-soundtrack-2022",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/powerwash-simulator-soundtrack-2022",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/powerwash-simulator-soundtrack-2022/FjluQeFVQAAou0w%20%281%29.jpg"
+  ],
+  "year": 2022,
+  "date_added": "2023-11-13T00:00:00+00:00",
+  "developers": {
+    "FuturLab": "https://downloads.khinsider.com/game-soundtracks/developer/futurlab"
+  },
+  "publishers": {
+    "Square Enix Collective": "https://downloads.khinsider.com/game-soundtracks/publisher/square-enix-collective"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10684989,
+      "track_number": 1,
+      "title": "Make It All Shine",
+      "runtime": 267,
+      "source_mp3": "https://vgmsite.com/soundtracks/powerwash-simulator-soundtrack-2022/mgfbngdwrw/01.%20Make%20It%20All%20Shine.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/powerwash-simulator-soundtrack-2022/01.%2520Make%2520It%2520All%2520Shine.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2705326,
+      "track_number": 2,
+      "title": "Carousel Theme",
+      "runtime": 67,
+      "source_mp3": "https://vgmsite.com/soundtracks/powerwash-simulator-soundtrack-2022/mershnseuw/02.%20Carousel%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/powerwash-simulator-soundtrack-2022/02.%2520Carousel%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 334,
+    "filesize_mp3_bytes": 13390315,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}
