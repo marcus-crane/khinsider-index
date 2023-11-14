@@ -1,0 +1,72 @@
+{
+  "title": "Warbirds",
+  "titles_alternative": [
+    "Warbirds (Lynx)"
+  ],
+  "crawled_at": "2023-11-14T14:02:38.979380+00:00",
+  "slug": "warbirds-gamerip-1990",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/warbirds-gamerip-1990",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/warbirds-gamerip-1990/Warbirds-cover.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2023-11-14T00:00:00+00:00",
+  "developers": {
+    "Atari": "https://downloads.khinsider.com/game-soundtracks/developer/atari"
+  },
+  "publishers": {
+    "Atari": "https://downloads.khinsider.com/game-soundtracks/publisher/atari"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 859832,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 94,
+      "source_mp3": "https://vgmsite.com/soundtracks/warbirds-gamerip-1990/wbwpqqlzfr/01.%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/warbirds-gamerip-1990/01.%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 503316,
+      "track_number": 2,
+      "title": "Mission Configuration",
+      "runtime": 50,
+      "source_mp3": "https://vgmsite.com/soundtracks/warbirds-gamerip-1990/zgixchsssk/02.%20Mission%20Configuration.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/warbirds-gamerip-1990/02.%2520Mission%2520Configuration.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 524288,
+      "track_number": 3,
+      "title": "Mission Complete",
+      "runtime": 53,
+      "source_mp3": "https://vgmsite.com/soundtracks/warbirds-gamerip-1990/dasocjcsra/03.%20Mission%20Complete.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/warbirds-gamerip-1990/03.%2520Mission%2520Complete.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 492830,
+      "track_number": 4,
+      "title": "Mission Failed",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/warbirds-gamerip-1990/mmbhlacpgo/04.%20Mission%20Failed.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/warbirds-gamerip-1990/04.%2520Mission%2520Failed.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 245,
+    "filesize_mp3_bytes": 2380266,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

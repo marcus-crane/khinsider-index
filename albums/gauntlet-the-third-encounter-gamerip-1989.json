@@ -1,0 +1,62 @@
+{
+  "title": "Gauntlet: The Third Encounter",
+  "titles_alternative": [
+    "Gauntlet: The Third Encounter (Lynx)"
+  ],
+  "crawled_at": "2023-11-14T14:01:43.922589+00:00",
+  "slug": "gauntlet-the-third-encounter-gamerip-1989",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/gauntlet-the-third-encounter-gamerip-1989",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/gauntlet-the-third-encounter-gamerip-1989/Gauntlet-The-Third-Encounter-01.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2023-11-14T00:00:00+00:00",
+  "developers": {
+    "Atari": "https://downloads.khinsider.com/game-soundtracks/developer/atari"
+  },
+  "publishers": {
+    "Atari": "https://downloads.khinsider.com/game-soundtracks/publisher/atari"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1876951,
+      "track_number": 1,
+      "title": "Character Select",
+      "runtime": 55,
+      "source_mp3": "https://vgmsite.com/soundtracks/gauntlet-the-third-encounter-gamerip-1989/pfjrlxihod/01.%20Character%20Select.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gauntlet-the-third-encounter-gamerip-1989/01.%2520Character%2520Select.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2013265,
+      "track_number": 2,
+      "title": "Levels",
+      "runtime": 60,
+      "source_mp3": "https://vgmsite.com/soundtracks/gauntlet-the-third-encounter-gamerip-1989/yhgdpcdvco/02.%20Levels.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gauntlet-the-third-encounter-gamerip-1989/02.%2520Levels.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1342177,
+      "track_number": 3,
+      "title": "Game Over",
+      "runtime": 39,
+      "source_mp3": "https://vgmsite.com/soundtracks/gauntlet-the-third-encounter-gamerip-1989/otmgmmraqv/03.%20Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/gauntlet-the-third-encounter-gamerip-1989/03.%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 154,
+    "filesize_mp3_bytes": 5232393,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

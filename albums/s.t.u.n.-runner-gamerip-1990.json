@@ -1,0 +1,62 @@
+{
+  "title": "S.T.U.N. Runner",
+  "titles_alternative": [
+    "S.T.U.N. Runner (Lynx)"
+  ],
+  "crawled_at": "2023-11-14T14:02:13.411573+00:00",
+  "slug": "s.t.u.n.-runner-gamerip-1990",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/s.t.u.n.-runner-gamerip-1990",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/s.t.u.n.-runner-gamerip-1990/STUN-Runner-01.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2023-11-14T00:00:00+00:00",
+  "developers": {
+    "Atari": "https://downloads.khinsider.com/game-soundtracks/developer/atari"
+  },
+  "publishers": {
+    "Atari": "https://downloads.khinsider.com/game-soundtracks/publisher/atari"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 335544,
+      "track_number": 1,
+      "title": "Theme",
+      "runtime": 29,
+      "source_mp3": "https://vgmsite.com/soundtracks/s.t.u.n.-runner-gamerip-1990/namiifgkqe/01.%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/s.t.u.n.-runner-gamerip-1990/01.%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 241172,
+      "track_number": 2,
+      "title": "Race Prep",
+      "runtime": 18,
+      "source_mp3": "https://vgmsite.com/soundtracks/s.t.u.n.-runner-gamerip-1990/mqkbiehvoq/02.%20Race%20Prep.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/s.t.u.n.-runner-gamerip-1990/02.%2520Race%2520Prep.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 209715,
+      "track_number": 3,
+      "title": "Continue",
+      "runtime": 14,
+      "source_mp3": "https://vgmsite.com/soundtracks/s.t.u.n.-runner-gamerip-1990/qngqbdpnds/03.%20Continue.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/s.t.u.n.-runner-gamerip-1990/03.%2520Continue.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 61,
+    "filesize_mp3_bytes": 786431,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Super Asteroids Mission Command",
+  "titles_alternative": [
+    "Super Asteroids Mission Command (Lynx)"
+  ],
+  "crawled_at": "2023-11-14T14:02:29.236980+00:00",
+  "slug": "super-asteroids-mission-command-gamerip-1993",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/super-asteroids-mission-command-gamerip-1993",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/super-asteroids-mission-command-gamerip-1993/Super-Asteroids-Missile-Command-01.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2023-11-14T00:00:00+00:00",
+  "developers": {
+    "Atari": "https://downloads.khinsider.com/game-soundtracks/developer/atari"
+  },
+  "publishers": {
+    "Atari": "https://downloads.khinsider.com/game-soundtracks/publisher/atari"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 503316,
+      "track_number": 1,
+      "title": "Asteroids Intro",
+      "runtime": 49,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-asteroids-mission-command-gamerip-1993/mtddhcoafv/01.%20Asteroids%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-asteroids-mission-command-gamerip-1993/01.%2520Asteroids%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 692060,
+      "track_number": 2,
+      "title": "Missle Command Intro",
+      "runtime": 71,
+      "source_mp3": "https://vgmsite.com/soundtracks/super-asteroids-mission-command-gamerip-1993/cwolorxirl/02.%20Missle%20Command%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-asteroids-mission-command-gamerip-1993/02.%2520Missle%2520Command%2520Intro.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 120,
+    "filesize_mp3_bytes": 1195376,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Checkered Flag",
+  "titles_alternative": [
+    "Checkered Flag (Lynx)"
+  ],
+  "crawled_at": "2023-11-14T14:01:33.396350+00:00",
+  "slug": "checkered-flag-gamerip-1991",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/checkered-flag-gamerip-1991",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/checkered-flag-gamerip-1991/Checkered-Flag.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2023-11-14T00:00:00+00:00",
+  "developers": {
+    "Atari": "https://downloads.khinsider.com/game-soundtracks/developer/atari"
+  },
+  "publishers": {
+    "Atari": "https://downloads.khinsider.com/game-soundtracks/publisher/atari"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1363148,
+      "track_number": 1,
+      "title": "Checkered Flag - Theme",
+      "runtime": 77,
+      "source_mp3": "https://vgmsite.com/soundtracks/checkered-flag-gamerip-1991/amjgmjqgwb/01.%20Checkered%20Flag%20-%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/checkered-flag-gamerip-1991/01.%2520Checkered%2520Flag%2520-%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 77,
+    "filesize_mp3_bytes": 1363148,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

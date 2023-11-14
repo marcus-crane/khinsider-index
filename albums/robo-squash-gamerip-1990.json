@@ -1,0 +1,42 @@
+{
+  "title": "Robo-Squash",
+  "titles_alternative": [
+    "Robo-Squash (Lynx)"
+  ],
+  "crawled_at": "2023-11-14T14:02:11.325489+00:00",
+  "slug": "robo-squash-gamerip-1990",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/robo-squash-gamerip-1990",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/robo-squash-gamerip-1990/Robo-Squash-01.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2023-11-14T00:00:00+00:00",
+  "developers": {
+    "Atari": "https://downloads.khinsider.com/game-soundtracks/developer/atari"
+  },
+  "publishers": {
+    "Atari": "https://downloads.khinsider.com/game-soundtracks/publisher/atari"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1017118,
+      "track_number": 1,
+      "title": "Robo-Squash - Theme",
+      "runtime": 55,
+      "source_mp3": "https://vgmsite.com/soundtracks/robo-squash-gamerip-1990/umkrdfjggm/01.%20Robo-Squash%20-%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/robo-squash-gamerip-1990/01.%2520Robo-Squash%2520-%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 55,
+    "filesize_mp3_bytes": 1017118,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

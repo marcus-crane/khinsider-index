@@ -1,0 +1,66 @@
+{
+  "title": "Carax 95",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-14T14:01:32.286923+00:00",
+  "slug": "carax-95-ms-dos-windows-gamerip-1995",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/carax-95-ms-dos-windows-gamerip-1995",
+  "platforms": {
+    "MS-DOS": "https://downloads.khinsider.com/game-soundtracks/ms-dos",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/carax-95-ms-dos-windows-gamerip-1995/folder.png"
+  ],
+  "year": 1995,
+  "date_added": "2023-11-14T00:00:00+00:00",
+  "developers": {
+    "Bio_100%": "https://downloads.khinsider.com/game-soundtracks/developer/bio-100"
+  },
+  "publishers": {
+    "Bio_100%": "https://downloads.khinsider.com/game-soundtracks/publisher/bio-100"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1625292,
+      "filesize_mp3_bytes": 692060,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 21,
+      "source_mp3": "https://vgmsite.com/soundtracks/carax-95-ms-dos-windows-gamerip-1995/hitzumqihv/01.%20Title%20Screen.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/carax-95-ms-dos-windows-gamerip-1995/hitzumqihv/01.%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/carax-95-ms-dos-windows-gamerip-1995/01.%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 18622709,
+      "filesize_mp3_bytes": 7885291,
+      "track_number": 2,
+      "title": "In-Game",
+      "runtime": 202,
+      "source_mp3": "https://vgmsite.com/soundtracks/carax-95-ms-dos-windows-gamerip-1995/twqeuborsg/02.%20In-Game.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/carax-95-ms-dos-windows-gamerip-1995/twqeuborsg/02.%20In-Game.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/carax-95-ms-dos-windows-gamerip-1995/02.%2520In-Game.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7109345,
+      "filesize_mp3_bytes": 3051356,
+      "track_number": 3,
+      "title": "High Score List",
+      "runtime": 100,
+      "source_mp3": "https://vgmsite.com/soundtracks/carax-95-ms-dos-windows-gamerip-1995/prxiqyctpr/03.%20High%20Score%20List.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/carax-95-ms-dos-windows-gamerip-1995/prxiqyctpr/03.%20High%20Score%20List.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/carax-95-ms-dos-windows-gamerip-1995/03.%2520High%2520Score%2520List.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 323,
+    "filesize_mp3_bytes": 11628707,
+    "filesize_flac_bytes": 27357346,
+    "tracks": 3
+  }
+}
