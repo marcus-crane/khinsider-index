@@ -1,0 +1,52 @@
+{
+  "title": "Hockey",
+  "titles_alternative": [
+    "Hockey (Lynx)"
+  ],
+  "crawled_at": "2023-11-15T14:02:09.057723+00:00",
+  "slug": "hockey-gamerip-1992",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hockey-gamerip-1992",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/hockey-gamerip-1992/Hockey-Lynx-01.jpg"
+  ],
+  "year": 1992,
+  "date_added": "2023-11-15T00:00:00+00:00",
+  "developers": {
+    "Alpine Software": "https://downloads.khinsider.com/game-soundtracks/developer/alpine-software"
+  },
+  "publishers": {
+    "Atari": "https://downloads.khinsider.com/game-soundtracks/publisher/atari"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4980736,
+      "track_number": 1,
+      "title": "Hockey - Theme",
+      "runtime": 121,
+      "source_mp3": "https://vgmsite.com/soundtracks/hockey-gamerip-1992/tbwoolawnz/01.%20Hockey%20-%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hockey-gamerip-1992/01.%2520Hockey%2520-%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 734003,
+      "track_number": 2,
+      "title": "Hockey - Game Stats",
+      "runtime": 29,
+      "source_mp3": "https://vgmsite.com/soundtracks/hockey-gamerip-1992/uzhgrotxgy/02.%20Hockey%20-%20Game%20Stats.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hockey-gamerip-1992/02.%2520Hockey%2520-%2520Game%2520Stats.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 150,
+    "filesize_mp3_bytes": 5714739,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

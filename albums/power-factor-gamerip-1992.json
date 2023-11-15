@@ -1,0 +1,42 @@
+{
+  "title": "Power Factor",
+  "titles_alternative": [
+    "Power Factor (Lynx)"
+  ],
+  "crawled_at": "2023-11-15T14:03:27.154928+00:00",
+  "slug": "power-factor-gamerip-1992",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/power-factor-gamerip-1992",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/power-factor-gamerip-1992/Power-Factor-01.jpg"
+  ],
+  "year": 1992,
+  "date_added": "2023-11-15T00:00:00+00:00",
+  "developers": {
+    "Hand Made Software": "https://downloads.khinsider.com/game-soundtracks/developer/hand-made-software"
+  },
+  "publishers": {
+    "Atari": "https://downloads.khinsider.com/game-soundtracks/publisher/atari"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7864320,
+      "track_number": 1,
+      "title": "Power Factor - Theme",
+      "runtime": 193,
+      "source_mp3": "https://vgmsite.com/soundtracks/power-factor-gamerip-1992/wupghlccqg/01.%20Power%20Factor%20-%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/power-factor-gamerip-1992/01.%2520Power%2520Factor%2520-%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 193,
+    "filesize_mp3_bytes": 7864320,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}
