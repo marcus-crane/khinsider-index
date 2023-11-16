@@ -1,0 +1,50 @@
+{
+  "title": "Touhou - Reitaisai 20 Venue-Limited Bonus CD",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-16T07:02:06.368819+00:00",
+  "slug": "touhou-reitaisai-20-venue-limited-bonus-cd-2023",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/touhou-reitaisai-20-venue-limited-bonus-cd-2023",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://dl.vgmdownloads.com/soundtracks/touhou-reitaisai-20-venue-limited-bonus-cd-2023/Cover.jpg"
+  ],
+  "year": 2023,
+  "date_added": "2023-11-16T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 27294433,
+      "filesize_mp3_bytes": 6522142,
+      "track_number": 1,
+      "title": "OCHANOKO-SAI!SAI!",
+      "runtime": 202,
+      "source_mp3": "https://dl.vgmdownloads.com/soundtracks/touhou-reitaisai-20-venue-limited-bonus-cd-2023/kqsvtvsqlz/01.%20OCHANOKO-SAI%21SAI%21.mp3",
+      "source_flac": "https://dl.vgmdownloads.com/soundtracks/touhou-reitaisai-20-venue-limited-bonus-cd-2023/kqsvtvsqlz/01.%20OCHANOKO-SAI%21SAI%21.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/touhou-reitaisai-20-venue-limited-bonus-cd-2023/01.%2520OCHANOKO-SAI%2521SAI%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 33512488,
+      "filesize_mp3_bytes": 8420065,
+      "track_number": 2,
+      "title": "Faith Unto Death",
+      "runtime": 254,
+      "source_mp3": "https://dl.vgmdownloads.com/soundtracks/touhou-reitaisai-20-venue-limited-bonus-cd-2023/drjoczhdbj/02.%20Faith%20Unto%20Death.mp3",
+      "source_flac": "https://dl.vgmdownloads.com/soundtracks/touhou-reitaisai-20-venue-limited-bonus-cd-2023/drjoczhdbj/02.%20Faith%20Unto%20Death.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/touhou-reitaisai-20-venue-limited-bonus-cd-2023/02.%2520Faith%2520Unto%2520Death.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 456,
+    "filesize_mp3_bytes": 14942207,
+    "filesize_flac_bytes": 60806921,
+    "tracks": 2
+  }
+}
