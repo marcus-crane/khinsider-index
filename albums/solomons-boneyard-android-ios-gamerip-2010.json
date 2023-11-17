@@ -1,0 +1,73 @@
+{
+  "title": "Solomon's Boneyard",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-17T14:03:17.579058+00:00",
+  "slug": "solomons-boneyard-android-ios-gamerip-2010",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/solomons-boneyard-android-ios-gamerip-2010",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/solomons-boneyard-android-ios-gamerip-2010/cover%20%288%29.png"
+  ],
+  "year": 2010,
+  "date_added": "2023-11-17T00:00:00+00:00",
+  "developers": {
+    "Raptisoft": "https://downloads.khinsider.com/game-soundtracks/developer/raptisoft"
+  },
+  "publishers": {
+    "Raptisoft": "https://downloads.khinsider.com/game-soundtracks/publisher/raptisoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 419430,
+      "track_number": 1,
+      "title": "Menu",
+      "runtime": 15,
+      "source_mp3": "https://vgmsite.com/soundtracks/solomons-boneyard-android-ios-gamerip-2010/cjntcncxmo/01%20-%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/solomons-boneyard-android-ios-gamerip-2010/01%2520-%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 744488,
+      "track_number": 2,
+      "title": "Office",
+      "runtime": 24,
+      "source_mp3": "https://vgmsite.com/soundtracks/solomons-boneyard-android-ios-gamerip-2010/bhnqwuoqdo/02%20-%20Office.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/solomons-boneyard-android-ios-gamerip-2010/02%2520-%2520Office.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4613734,
+      "track_number": 3,
+      "title": "Game",
+      "runtime": 142,
+      "source_mp3": "https://vgmsite.com/soundtracks/solomons-boneyard-android-ios-gamerip-2010/jhjnvvssfc/03%20-%20Game.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/solomons-boneyard-android-ios-gamerip-2010/03%2520-%2520Game.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 4,
+      "title": "Ambient Loop",
+      "runtime": 2,
+      "source_mp3": "https://vgmsite.com/soundtracks/solomons-boneyard-android-ios-gamerip-2010/ydllpfbcjk/04%20-%20Ambient%20Loop.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/solomons-boneyard-android-ios-gamerip-2010/04%2520-%2520Ambient%2520Loop.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 183,
+    "filesize_mp3_bytes": 5819595,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

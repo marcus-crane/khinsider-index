@@ -1,0 +1,54 @@
+{
+  "title": "Z Runaway",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-17T14:03:41.034805+00:00",
+  "slug": "z-runaway-windows-gamerip-2017",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/z-runaway-windows-gamerip-2017",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/z-runaway-windows-gamerip-2017/zr_1.jpg"
+  ],
+  "year": 2017,
+  "date_added": "2023-11-17T00:00:00+00:00",
+  "developers": {
+    "For Kids": "https://downloads.khinsider.com/game-soundtracks/developer/for-kids"
+  },
+  "publishers": {
+    "For Kids": "https://downloads.khinsider.com/game-soundtracks/publisher/for-kids"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10013900,
+      "filesize_mp3_bytes": 3638558,
+      "track_number": 1,
+      "title": "Protofunk",
+      "runtime": 182,
+      "source_mp3": "https://vgmsite.com/soundtracks/z-runaway-windows-gamerip-2017/grkpqatxzu/1.%20Protofunk.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/z-runaway-windows-gamerip-2017/grkpqatxzu/1.%20Protofunk.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/z-runaway-windows-gamerip-2017/1.%2520Protofunk.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 83886,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 2,
+      "title": "Victory",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/z-runaway-windows-gamerip-2017/hhuyrvqphf/2.%20Victory.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/z-runaway-windows-gamerip-2017/hhuyrvqphf/2.%20Victory.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/z-runaway-windows-gamerip-2017/2.%2520Victory.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 183,
+    "filesize_mp3_bytes": 3659529,
+    "filesize_flac_bytes": 10097786,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "title": "Solomon's Keep",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-17T14:03:19.257242+00:00",
+  "slug": "solomons-keep-android-ios-gamerip-2010",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/solomons-keep-android-ios-gamerip-2010",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/solomons-keep-android-ios-gamerip-2010/cover%20%289%29.png"
+  ],
+  "year": 2010,
+  "date_added": "2023-11-17T00:00:00+00:00",
+  "developers": {
+    "Raptisoft": "https://downloads.khinsider.com/game-soundtracks/developer/raptisoft"
+  },
+  "publishers": {
+    "Raptisoft": "https://downloads.khinsider.com/game-soundtracks/publisher/raptisoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 408944,
+      "track_number": 1,
+      "title": "Music Menu",
+      "runtime": 15,
+      "source_mp3": "https://vgmsite.com/soundtracks/solomons-keep-android-ios-gamerip-2010/ocavllulcs/01%20-%20Music%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/solomons-keep-android-ios-gamerip-2010/01%2520-%2520Music%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4718592,
+      "track_number": 2,
+      "title": "Music Game",
+      "runtime": 164,
+      "source_mp3": "https://vgmsite.com/soundtracks/solomons-keep-android-ios-gamerip-2010/txhzoqykns/02%20-%20Music%20Game.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/solomons-keep-android-ios-gamerip-2010/02%2520-%2520Music%2520Game.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 3,
+      "title": "Acidfall Loop",
+      "runtime": 5,
+      "source_mp3": "https://vgmsite.com/soundtracks/solomons-keep-android-ios-gamerip-2010/yaitxrmara/03%20-%20Acidfall%20Loop.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/solomons-keep-android-ios-gamerip-2010/03%2520-%2520Acidfall%2520Loop.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 184,
+    "filesize_mp3_bytes": 5190450,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}
