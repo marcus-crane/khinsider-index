@@ -1,0 +1,66 @@
+{
+  "title": "Indivisible (Prototype) Sample Soundtrackinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-19T00:03:15.381891+00:00",
+  "slug": "indivisible-prototype-sample-soundtrack-windows-gamerip-2019",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/indivisible-prototype-sample-soundtrack-windows-gamerip-2019",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/indivisible-prototype-sample-soundtrack-windows-gamerip-2019/cover.png"
+  ],
+  "year": 2019,
+  "catalog_number": "505 Games",
+  "date_added": "2023-11-18T00:00:00+00:00",
+  "developers": {
+    "505 Games": "https://downloads.khinsider.com/game-soundtracks/developer/505"
+  },
+  "publishers": {
+    "Lab Zero Games": "https://downloads.khinsider.com/game-soundtracks/publisher/lab-zero-games"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20363345,
+      "filesize_mp3_bytes": 6773800,
+      "track_number": 1,
+      "title": "Lost Genesis",
+      "runtime": 196,
+      "source_mp3": "https://vgmsite.com/soundtracks/indivisible-prototype-sample-soundtrack-windows-gamerip-2019/dkopztglio/01%20Lost%20Genesis.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/indivisible-prototype-sample-soundtrack-windows-gamerip-2019/dkopztglio/01%20Lost%20Genesis.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/indivisible-prototype-sample-soundtrack-windows-gamerip-2019/01%2520Lost%2520Genesis.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 26224885,
+      "filesize_mp3_bytes": 8462008,
+      "track_number": 2,
+      "title": "Girl of Destiny",
+      "runtime": 227,
+      "source_mp3": "https://vgmsite.com/soundtracks/indivisible-prototype-sample-soundtrack-windows-gamerip-2019/hpxjnwbfsk/02%20Girl%20of%20Destiny.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/indivisible-prototype-sample-soundtrack-windows-gamerip-2019/hpxjnwbfsk/02%20Girl%20of%20Destiny.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/indivisible-prototype-sample-soundtrack-windows-gamerip-2019/02%2520Girl%2520of%2520Destiny.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 33869004,
+      "filesize_mp3_bytes": 9363783,
+      "track_number": 3,
+      "title": "Crucial Fixture",
+      "runtime": 260,
+      "source_mp3": "https://vgmsite.com/soundtracks/indivisible-prototype-sample-soundtrack-windows-gamerip-2019/yvmadfigfj/03%20Crucial%20Fixture.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/indivisible-prototype-sample-soundtrack-windows-gamerip-2019/yvmadfigfj/03%20Crucial%20Fixture.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/indivisible-prototype-sample-soundtrack-windows-gamerip-2019/03%2520Crucial%2520Fixture.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 683,
+    "filesize_mp3_bytes": 24599591,
+    "filesize_flac_bytes": 80457234,
+    "tracks": 3
+  }
+}
