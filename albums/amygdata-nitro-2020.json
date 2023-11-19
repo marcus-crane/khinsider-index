@@ -1,0 +1,43 @@
+{
+  "title": "amygdata / nitroinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-19T14:01:12.380907+00:00",
+  "slug": "amygdata-nitro-2020",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/amygdata-nitro-2020",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/amygdata-nitro-2020/Cover.jpg"
+  ],
+  "year": 2020,
+  "catalog_number": null,
+  "date_added": "2023-11-19T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "nitro": "https://downloads.khinsider.com/game-soundtracks/publisher/nitro"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 37979422,
+      "filesize_mp3_bytes": 5232394,
+      "track_number": 1,
+      "title": "Amygdata",
+      "runtime": 162,
+      "source_mp3": "https://vgmsite.com/soundtracks/amygdata-nitro-2020/pnohjakfoz/01.%20Amygdata.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/amygdata-nitro-2020/pnohjakfoz/01.%20Amygdata.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/amygdata-nitro-2020/01.%2520Amygdata.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 162,
+    "filesize_mp3_bytes": 5232394,
+    "filesize_flac_bytes": 37979422,
+    "tracks": 1
+  }
+}

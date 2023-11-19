@@ -1,0 +1,43 @@
+{
+  "title": "Purple Verse / Hommarjuinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-19T14:03:25.213138+00:00",
+  "slug": "purple-verse-hommarju-2020",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/purple-verse-hommarju-2020",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/purple-verse-hommarju-2020/Cover.jpg"
+  ],
+  "year": 2020,
+  "catalog_number": "NO1ZSHOT-0006",
+  "date_added": "2023-11-19T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "The NO1ZE": "https://downloads.khinsider.com/game-soundtracks/publisher/the-no1ze"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 21296578,
+      "filesize_mp3_bytes": 4666163,
+      "track_number": 1,
+      "title": "Purple Verse",
+      "runtime": 145,
+      "source_mp3": "https://vgmsite.com/soundtracks/purple-verse-hommarju-2020/rkklolvobw/01.%20Purple%20Verse.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/purple-verse-hommarju-2020/rkklolvobw/01.%20Purple%20Verse.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/purple-verse-hommarju-2020/01.%2520Purple%2520Verse.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 145,
+    "filesize_mp3_bytes": 4666163,
+    "filesize_flac_bytes": 21296578,
+    "tracks": 1
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Felis / M2Uinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-19T14:01:31.435362+00:00",
+  "slug": "felis-m2u-2020",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/felis-m2u-2020",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/felis-m2u-2020/Cover.jpg"
+  ],
+  "year": 2020,
+  "catalog_number": null,
+  "date_added": "2023-11-19T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "M2U STUDIO": "https://downloads.khinsider.com/game-soundtracks/publisher/m2u-studio"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 18538823,
+      "filesize_mp3_bytes": 4771020,
+      "track_number": 1,
+      "title": "Felis",
+      "runtime": 141,
+      "source_mp3": "https://vgmsite.com/soundtracks/felis-m2u-2020/pzrvgsrfyj/01.%20Felis.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/felis-m2u-2020/pzrvgsrfyj/01.%20Felis.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/felis-m2u-2020/01.%2520Felis.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 141,
+    "filesize_mp3_bytes": 4771020,
+    "filesize_flac_bytes": 18538823,
+    "tracks": 1
+  }
+}

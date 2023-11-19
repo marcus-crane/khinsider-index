@@ -1,0 +1,45 @@
+{
+  "title": "To the Milky Way / Chromainfo",
+  "titles_alternative": [
+    "To the Milky Way / \u9ed2\u9b54"
+  ],
+  "crawled_at": "2023-11-19T14:04:11.563507+00:00",
+  "slug": "to-the-milky-way-chroma-2023",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/to-the-milky-way-chroma-2023",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/to-the-milky-way-chroma-2023/cover.jpg"
+  ],
+  "year": 2023,
+  "catalog_number": "NOT-0052",
+  "date_added": "2023-11-19T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "not records": "https://downloads.khinsider.com/game-soundtracks/publisher/not-records"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 41617981,
+      "filesize_mp3_bytes": 5672796,
+      "track_number": 1,
+      "title": "To the Milky Way",
+      "runtime": 166,
+      "source_mp3": "https://vgmsite.com/soundtracks/to-the-milky-way-chroma-2023/qwhybrrnwj/01.%20To%20the%20Milky%20Way.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/to-the-milky-way-chroma-2023/qwhybrrnwj/01.%20To%20the%20Milky%20Way.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/to-the-milky-way-chroma-2023/01.%2520To%2520the%2520Milky%2520Way.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 166,
+    "filesize_mp3_bytes": 5672796,
+    "filesize_flac_bytes": 41617981,
+    "tracks": 1
+  }
+}

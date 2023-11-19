@@ -1,0 +1,43 @@
+{
+  "title": "AttraqtiA / Camelliainfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-19T14:01:15.485302+00:00",
+  "slug": "attraqtia-camellia-2021",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/attraqtia-camellia-2021",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/attraqtia-camellia-2021/Cover.jpg"
+  ],
+  "year": 2021,
+  "catalog_number": null,
+  "date_added": "2023-11-19T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "KamelCamellia": "https://downloads.khinsider.com/game-soundtracks/publisher/kamelcamellia"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 23173529,
+      "filesize_mp3_bytes": 5242880,
+      "track_number": 1,
+      "title": "AttraqtiA",
+      "runtime": 161,
+      "source_mp3": "https://vgmsite.com/soundtracks/attraqtia-camellia-2021/ofbixrrueb/01.%20AttraqtiA.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/attraqtia-camellia-2021/ofbixrrueb/01.%20AttraqtiA.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/attraqtia-camellia-2021/01.%2520AttraqtiA.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 161,
+    "filesize_mp3_bytes": 5242880,
+    "filesize_flac_bytes": 23173529,
+    "tracks": 1
+  }
+}

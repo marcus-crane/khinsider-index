@@ -1,0 +1,43 @@
+{
+  "title": "Tempestissimo / t+pazoliteinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-19T14:03:31.436269+00:00",
+  "slug": "tempestissimo-t-pazolite-2020",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tempestissimo-t-pazolite-2020",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/tempestissimo-t-pazolite-2020/Cover.jpg"
+  ],
+  "year": 2020,
+  "catalog_number": null,
+  "date_added": "2023-11-19T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "C.H.S": "https://downloads.khinsider.com/game-soundtracks/publisher/c.h.s"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 19618856,
+      "filesize_mp3_bytes": 4487905,
+      "track_number": 1,
+      "title": "Tempestissimo",
+      "runtime": 138,
+      "source_mp3": "https://vgmsite.com/soundtracks/tempestissimo-t-pazolite-2020/nshgywnlcp/01.%20Tempestissimo.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/tempestissimo-t-pazolite-2020/nshgywnlcp/01.%20Tempestissimo.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tempestissimo-t-pazolite-2020/01.%2520Tempestissimo.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 138,
+    "filesize_mp3_bytes": 4487905,
+    "filesize_flac_bytes": 19618856,
+    "tracks": 1
+  }
+}

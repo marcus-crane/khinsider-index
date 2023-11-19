@@ -1,0 +1,43 @@
+{
+  "title": "Arcahv / Feryquitousinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-19T14:01:13.732191+00:00",
+  "slug": "arcahv-feryquitous-2020",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/arcahv-feryquitous-2020",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/arcahv-feryquitous-2020/cover.jpg"
+  ],
+  "year": 2020,
+  "catalog_number": null,
+  "date_added": "2023-11-19T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Feryquitous": "https://downloads.khinsider.com/game-soundtracks/publisher/feryquitous"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 40915435,
+      "filesize_mp3_bytes": 5830082,
+      "track_number": 1,
+      "title": "Arcahv",
+      "runtime": 166,
+      "source_mp3": "https://vgmsite.com/soundtracks/arcahv-feryquitous-2020/cedlntkdwu/01.%20Arcahv.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/arcahv-feryquitous-2020/cedlntkdwu/01.%20Arcahv.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/arcahv-feryquitous-2020/01.%2520Arcahv.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 166,
+    "filesize_mp3_bytes": 5830082,
+    "filesize_flac_bytes": 40915435,
+    "tracks": 1
+  }
+}

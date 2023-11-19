@@ -1,0 +1,43 @@
+{
+  "title": "Blocked Library / Kagetora.info",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-19T14:01:16.877539+00:00",
+  "slug": "blocked-library-kagetora.-2021",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/blocked-library-kagetora.-2021",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/blocked-library-kagetora.-2021/Cover.jpg"
+  ],
+  "year": 2021,
+  "catalog_number": null,
+  "date_added": "2023-11-19T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Greatoaks Music": "https://downloads.khinsider.com/game-soundtracks/publisher/greatoaks-music"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 32180797,
+      "filesize_mp3_bytes": 4498391,
+      "track_number": 1,
+      "title": "Blocked Library",
+      "runtime": 135,
+      "source_mp3": "https://vgmsite.com/soundtracks/blocked-library-kagetora.-2021/valxqkmtzq/01.%20Blocked%20Library.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/blocked-library-kagetora.-2021/valxqkmtzq/01.%20Blocked%20Library.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/blocked-library-kagetora.-2021/01.%2520Blocked%2520Library.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 135,
+    "filesize_mp3_bytes": 4498391,
+    "filesize_flac_bytes": 32180797,
+    "tracks": 1
+  }
+}

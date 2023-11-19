@@ -1,0 +1,43 @@
+{
+  "title": "san skia / yourmythosinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-19T14:03:28.320542+00:00",
+  "slug": "san-skia-yourmythos-2022",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/san-skia-yourmythos-2022",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/san-skia-yourmythos-2022/Cover.jpg"
+  ],
+  "year": 2022,
+  "catalog_number": null,
+  "date_added": "2023-11-19T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "yourmythos": "https://downloads.khinsider.com/game-soundtracks/publisher/yourmythos"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 51390709,
+      "filesize_mp3_bytes": 7266631,
+      "track_number": 1,
+      "title": "san skia",
+      "runtime": 229,
+      "source_mp3": "https://vgmsite.com/soundtracks/san-skia-yourmythos-2022/spmaystbhc/01.%20san%20skia.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/san-skia-yourmythos-2022/spmaystbhc/01.%20san%20skia.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/san-skia-yourmythos-2022/01.%2520san%2520skia.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 229,
+    "filesize_mp3_bytes": 7266631,
+    "filesize_flac_bytes": 51390709,
+    "tracks": 1
+  }
+}

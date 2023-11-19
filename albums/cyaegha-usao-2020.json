@@ -1,0 +1,43 @@
+{
+  "title": "Cyaegha / USAOinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-19T14:01:20.352044+00:00",
+  "slug": "cyaegha-usao-2020",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/cyaegha-usao-2020",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/cyaegha-usao-2020/cover.jpg"
+  ],
+  "year": 2020,
+  "catalog_number": "TCDR-0034",
+  "date_added": "2023-11-19T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "HARDCORE TANO*C": "https://downloads.khinsider.com/game-soundtracks/publisher/hardcore-tano-c"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 21076377,
+      "filesize_mp3_bytes": 4529848,
+      "track_number": 1,
+      "title": "Cyaegha",
+      "runtime": 140,
+      "source_mp3": "https://vgmsite.com/soundtracks/cyaegha-usao-2020/nkskeouwkc/01.%20Cyaegha.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/cyaegha-usao-2020/nkskeouwkc/01.%20Cyaegha.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cyaegha-usao-2020/01.%2520Cyaegha.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 140,
+    "filesize_mp3_bytes": 4529848,
+    "filesize_flac_bytes": 21076377,
+    "tracks": 1
+  }
+}

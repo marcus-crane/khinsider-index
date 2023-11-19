@@ -1,0 +1,43 @@
+{
+  "title": "Coastal Highway / Glitch Droidsinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-19T14:01:19.633690+00:00",
+  "slug": "coastal-highway-glitch-droids-2021",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/coastal-highway-glitch-droids-2021",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/coastal-highway-glitch-droids-2021/Cover.jpg"
+  ],
+  "year": 2021,
+  "catalog_number": null,
+  "date_added": "2023-11-19T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Glitch Droids": "https://downloads.khinsider.com/game-soundtracks/publisher/glitch-droids"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 37130076,
+      "filesize_mp3_bytes": 5221908,
+      "track_number": 1,
+      "title": "Coastal Highway",
+      "runtime": 149,
+      "source_mp3": "https://vgmsite.com/soundtracks/coastal-highway-glitch-droids-2021/bzksfuqpuc/01.%20Coastal%20Highway.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/coastal-highway-glitch-droids-2021/bzksfuqpuc/01.%20Coastal%20Highway.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/coastal-highway-glitch-droids-2021/01.%2520Coastal%2520Highway.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 149,
+    "filesize_mp3_bytes": 5221908,
+    "filesize_flac_bytes": 37130076,
+    "tracks": 1
+  }
+}

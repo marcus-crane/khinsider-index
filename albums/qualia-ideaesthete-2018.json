@@ -1,0 +1,43 @@
+{
+  "title": "qualia -ideaesthete-info",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-19T14:03:25.770545+00:00",
+  "slug": "qualia-ideaesthete-2018",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/qualia-ideaesthete-2018",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/qualia-ideaesthete-2018/Cover.jpg"
+  ],
+  "year": 2018,
+  "catalog_number": null,
+  "date_added": "2023-11-19T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "nitro": "https://downloads.khinsider.com/game-soundtracks/publisher/nitro"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 119390863,
+      "filesize_mp3_bytes": 15330181,
+      "track_number": 1,
+      "title": "qualia -ideaesthete-",
+      "runtime": 474,
+      "source_mp3": "https://vgmsite.com/soundtracks/qualia-ideaesthete-2018/owjippepbj/01.%20qualia%20-ideaesthete-.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/qualia-ideaesthete-2018/owjippepbj/01.%20qualia%20-ideaesthete-.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/qualia-ideaesthete-2018/01.%2520qualia%2520-ideaesthete-.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 474,
+    "filesize_mp3_bytes": 15330181,
+    "filesize_flac_bytes": 119390863,
+    "tracks": 1
+  }
+}

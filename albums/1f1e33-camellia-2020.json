@@ -1,0 +1,43 @@
+{
+  "title": "#1f1e33 / Camelliainfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-19T14:01:11.425118+00:00",
+  "slug": "1f1e33-camellia-2020",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/1f1e33-camellia-2020",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/1f1e33-camellia-2020/Cover.jpg"
+  ],
+  "year": 2020,
+  "catalog_number": null,
+  "date_added": "2023-11-19T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Camellia": "https://downloads.khinsider.com/game-soundtracks/publisher/camellia"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 39468400,
+      "filesize_mp3_bytes": 5410652,
+      "track_number": 1,
+      "title": "#1f1e33",
+      "runtime": 169,
+      "source_mp3": "https://vgmsite.com/soundtracks/1f1e33-camellia-2020/kqovnussgj/01.%20%231f1e33.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/1f1e33-camellia-2020/kqovnussgj/01.%20%231f1e33.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/1f1e33-camellia-2020/01.%2520%25231f1e33.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 169,
+    "filesize_mp3_bytes": 5410652,
+    "filesize_flac_bytes": 39468400,
+    "tracks": 1
+  }
+}

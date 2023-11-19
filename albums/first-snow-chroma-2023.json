@@ -1,0 +1,45 @@
+{
+  "title": "First Snow / Chromainfo",
+  "titles_alternative": [
+    "First Snow / \u9ed2\u9b54"
+  ],
+  "crawled_at": "2023-11-19T14:01:32.012363+00:00",
+  "slug": "first-snow-chroma-2023",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/first-snow-chroma-2023",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/first-snow-chroma-2023/Cover.jpg"
+  ],
+  "year": 2023,
+  "catalog_number": "NOT-0051",
+  "date_added": "2023-11-19T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "not records": "https://downloads.khinsider.com/game-soundtracks/publisher/not-records"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 21044920,
+      "filesize_mp3_bytes": 5484052,
+      "track_number": 1,
+      "title": "First Snow",
+      "runtime": 166,
+      "source_mp3": "https://vgmsite.com/soundtracks/first-snow-chroma-2023/uifdcetvki/01.%20First%20Snow.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/first-snow-chroma-2023/uifdcetvki/01.%20First%20Snow.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/first-snow-chroma-2023/01.%2520First%2520Snow.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 166,
+    "filesize_mp3_bytes": 5484052,
+    "filesize_flac_bytes": 21044920,
+    "tracks": 1
+  }
+}

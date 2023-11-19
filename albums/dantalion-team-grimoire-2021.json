@@ -1,0 +1,43 @@
+{
+  "title": "Dantalion / Team Grimoireinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-19T14:01:21.023727+00:00",
+  "slug": "dantalion-team-grimoire-2021",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dantalion-team-grimoire-2021",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dantalion-team-grimoire-2021/Cover.jpg"
+  ],
+  "year": 2021,
+  "catalog_number": null,
+  "date_added": "2023-11-19T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Team Grimoire": "https://downloads.khinsider.com/game-soundtracks/publisher/team-grimoire"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 33019658,
+      "filesize_mp3_bytes": 8304721,
+      "track_number": 1,
+      "title": "Dantalion",
+      "runtime": 248,
+      "source_mp3": "https://vgmsite.com/soundtracks/dantalion-team-grimoire-2021/wybsekrqcl/01.%20Dantalion.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/dantalion-team-grimoire-2021/wybsekrqcl/01.%20Dantalion.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dantalion-team-grimoire-2021/01.%2520Dantalion.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 248,
+    "filesize_mp3_bytes": 8304721,
+    "filesize_flac_bytes": 33019658,
+    "tracks": 1
+  }
+}

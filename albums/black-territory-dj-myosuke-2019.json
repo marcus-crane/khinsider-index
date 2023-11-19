@@ -1,0 +1,43 @@
+{
+  "title": "Black Territory / DJ Myosukeinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-19T14:01:16.274173+00:00",
+  "slug": "black-territory-dj-myosuke-2019",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/black-territory-dj-myosuke-2019",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/black-territory-dj-myosuke-2019/artwork.jpg"
+  ],
+  "year": 2019,
+  "catalog_number": "JSHEP005",
+  "date_added": "2023-11-19T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Japanese Stream Hardcore": "https://downloads.khinsider.com/game-soundtracks/publisher/japanese-stream-hardcore"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 35693527,
+      "filesize_mp3_bytes": 4750049,
+      "track_number": 1,
+      "title": "Black Territory",
+      "runtime": 139,
+      "source_mp3": "https://vgmsite.com/soundtracks/black-territory-dj-myosuke-2019/phjqevantc/01.%20Black%20Territory.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/black-territory-dj-myosuke-2019/phjqevantc/01.%20Black%20Territory.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/black-territory-dj-myosuke-2019/01.%2520Black%2520Territory.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 139,
+    "filesize_mp3_bytes": 4750049,
+    "filesize_flac_bytes": 35693527,
+    "tracks": 1
+  }
+}

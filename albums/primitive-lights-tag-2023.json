@@ -1,0 +1,43 @@
+{
+  "title": "PRIMITIVE LIGHTS / TAGinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-19T14:03:24.597225+00:00",
+  "slug": "primitive-lights-tag-2023",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/primitive-lights-tag-2023",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/primitive-lights-tag-2023/Cover.jpg"
+  ],
+  "year": 2023,
+  "catalog_number": null,
+  "date_added": "2023-11-19T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Tag": "https://downloads.khinsider.com/game-soundtracks/publisher/tag"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 21915238,
+      "filesize_mp3_bytes": 5494538,
+      "track_number": 1,
+      "title": "PRIMITIVE LIGHTS",
+      "runtime": 164,
+      "source_mp3": "https://vgmsite.com/soundtracks/primitive-lights-tag-2023/xdzmyzdfks/01.%20PRIMITIVE%20LIGHTS.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/primitive-lights-tag-2023/xdzmyzdfks/01.%20PRIMITIVE%20LIGHTS.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/primitive-lights-tag-2023/01.%2520PRIMITIVE%2520LIGHTS.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 164,
+    "filesize_mp3_bytes": 5494538,
+    "filesize_flac_bytes": 21915238,
+    "tracks": 1
+  }
+}
