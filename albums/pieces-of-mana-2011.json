@@ -1,0 +1,73 @@
+{
+  "title": "Pieces of Manainfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-23T14:07:56.418273+00:00",
+  "slug": "pieces-of-mana-2011",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pieces-of-mana-2011",
+  "platforms": {
+    "GB": "https://downloads.khinsider.com/game-soundtracks/gameboy",
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation",
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pieces-of-mana-2011/cover.png"
+  ],
+  "year": 2011,
+  "catalog_number": null,
+  "date_added": "2023-11-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Zephyr Cradle": "https://downloads.khinsider.com/game-soundtracks/publisher/zephyr-cradle"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3124756,
+      "track_number": 1,
+      "title": "In Tention",
+      "runtime": 130,
+      "source_mp3": "https://vgmsite.com/soundtracks/pieces-of-mana-2011/hunllnvplr/01.%20In%20Tention.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pieces-of-mana-2011/01.%2520In%2520Tention.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5421137,
+      "track_number": 2,
+      "title": "The Boy Heads for the Wilderness",
+      "runtime": 226,
+      "source_mp3": "https://vgmsite.com/soundtracks/pieces-of-mana-2011/zllczsypco/02.%20The%20Boy%20Heads%20for%20the%20Wilderness.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pieces-of-mana-2011/02.%2520The%2520Boy%2520Heads%2520for%2520the%2520Wilderness.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3428843,
+      "track_number": 3,
+      "title": "Autumn Leaf Avenue To Domina",
+      "runtime": 143,
+      "source_mp3": "https://vgmsite.com/soundtracks/pieces-of-mana-2011/kphvacmsrn/03.%20Autumn%20Leaf%20Avenue%20To%20Domina.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pieces-of-mana-2011/03.%2520Autumn%2520Leaf%2520Avenue%2520To%2520Domina.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7381975,
+      "track_number": 4,
+      "title": "Village ~ Endless Battlefield ~ Final Battle",
+      "runtime": 308,
+      "source_mp3": "https://vgmsite.com/soundtracks/pieces-of-mana-2011/xkbnvvdjzn/04.%20Village%20~%20Endless%20Battlefield%20~%20Final%20Battle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pieces-of-mana-2011/04.%2520Village%2520~%2520Endless%2520Battlefield%2520~%2520Final%2520Battle.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 807,
+    "filesize_mp3_bytes": 19356711,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "title": "SIGMA Becauseinfo",
+  "titles_alternative": [
+    "\u30ea\u30c8\u30eb\u30d0\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30ec\u30f3\u30b8\u30df\u30cb\u30a2\u30eb\u30d0\u30e0[\u30b7\u30b0\u30de\u30d3\u30b3\u30fc\u30ba]",
+    "\"SIGMA Because\" / Little Busters! Arrange Mini Album"
+  ],
+  "crawled_at": "2023-11-23T14:08:16.956579+00:00",
+  "slug": "sigma-because-2013",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/sigma-because-2013",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/sigma-because-2013/cover.jpg"
+  ],
+  "year": 2013,
+  "catalog_number": "TKM-0003",
+  "date_added": "2023-11-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Zephyr Cradle": "https://downloads.khinsider.com/game-soundtracks/publisher/zephyr-cradle"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7958691,
+      "track_number": 1,
+      "title": "RING! RING! RING! -Guitar style- v1.50",
+      "runtime": 249,
+      "source_mp3": "https://vgmsite.com/soundtracks/sigma-because-2013/utxdsfcvea/01.%20RING%21%20RING%21%20RING%21%20-Guitar%20style-%20v1.50.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sigma-because-2013/01.%2520RING%2521%2520RING%2521%2520RING%2521%2520-Guitar%2520style-%2520v1.50.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9961472,
+      "track_number": 2,
+      "title": "Gather the Light -SIGMA mix-",
+      "runtime": 311,
+      "source_mp3": "https://vgmsite.com/soundtracks/sigma-because-2013/ayvyhtgiqo/02.%20Gather%20the%20Light%20-SIGMA%20mix-.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sigma-because-2013/02.%2520Gather%2520the%2520Light%2520-SIGMA%2520mix-.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10129244,
+      "track_number": 3,
+      "title": "Song for friends -SIGMA mix-",
+      "runtime": 316,
+      "source_mp3": "https://vgmsite.com/soundtracks/sigma-because-2013/amycupjciy/03.%20Song%20for%20friends%20-SIGMA%20mix-.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sigma-because-2013/03.%2520Song%2520for%2520friends%2520-SIGMA%2520mix-.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 876,
+    "filesize_mp3_bytes": 28049407,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

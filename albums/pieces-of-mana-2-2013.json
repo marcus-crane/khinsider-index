@@ -1,0 +1,62 @@
+{
+  "title": "Pieces of Mana 2info",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-23T14:07:55.359047+00:00",
+  "slug": "pieces-of-mana-2-2013",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pieces-of-mana-2-2013",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/pieces-of-mana-2-2013/cover.jpg"
+  ],
+  "year": 2013,
+  "catalog_number": "TKM-0004",
+  "date_added": "2023-11-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Resonant Sound": "https://downloads.khinsider.com/game-soundtracks/publisher/resonant-sound",
+    "Zephyr Cradle": "https://downloads.khinsider.com/game-soundtracks/publisher/zephyr-cradle"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8032092,
+      "track_number": 1,
+      "title": "Angel's Fear",
+      "runtime": 335,
+      "source_mp3": "https://vgmsite.com/soundtracks/pieces-of-mana-2-2013/ikqecqzuey/01.%20Angel%27s%20Fear.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pieces-of-mana-2-2013/01.%2520Angel%2527s%2520Fear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6658457,
+      "track_number": 2,
+      "title": "Summer Sky Blue",
+      "runtime": 277,
+      "source_mp3": "https://vgmsite.com/soundtracks/pieces-of-mana-2-2013/wghfryohcb/02.%20Summer%20Sky%20Blue.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pieces-of-mana-2-2013/02.%2520Summer%2520Sky%2520Blue.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 12173967,
+      "track_number": 3,
+      "title": "Secret of Mana",
+      "runtime": 507,
+      "source_mp3": "https://vgmsite.com/soundtracks/pieces-of-mana-2-2013/gxcqvgcoup/03.%20Secret%20of%20Mana.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pieces-of-mana-2-2013/03.%2520Secret%2520of%2520Mana.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1119,
+    "filesize_mp3_bytes": 26864516,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

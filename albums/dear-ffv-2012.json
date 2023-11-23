@@ -1,0 +1,71 @@
+{
+  "title": "Dear FFVinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-23T14:04:41.830511+00:00",
+  "slug": "dear-ffv-2012",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dear-ffv-2012",
+  "platforms": {
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/dear-ffv-2012/cover.jpg"
+  ],
+  "year": 2012,
+  "catalog_number": null,
+  "date_added": "2023-11-23T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Zephyr Cradle": "https://downloads.khinsider.com/game-soundtracks/publisher/zephyr-cradle"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4330618,
+      "track_number": 1,
+      "title": "Final Fantasy V Main Theme",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/dear-ffv-2012/yxfvgsruqk/01.%20Final%20Fantasy%20V%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dear-ffv-2012/01.%2520Final%2520Fantasy%2520V%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3932160,
+      "track_number": 2,
+      "title": "Far-Distant Hometown",
+      "runtime": 164,
+      "source_mp3": "https://vgmsite.com/soundtracks/dear-ffv-2012/ozkprlnymh/02.%20Far-Distant%20Hometown.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dear-ffv-2012/02.%2520Far-Distant%2520Hometown.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4896849,
+      "track_number": 3,
+      "title": "Unknown Lands ~ A New World",
+      "runtime": 204,
+      "source_mp3": "https://vgmsite.com/soundtracks/dear-ffv-2012/ohprmdjmxo/03.%20Unknown%20Lands%20~%20A%20New%20World.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dear-ffv-2012/03.%2520Unknown%2520Lands%2520~%2520A%2520New%2520World.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6910115,
+      "track_number": 4,
+      "title": "To Dear Friends",
+      "runtime": 288,
+      "source_mp3": "https://vgmsite.com/soundtracks/dear-ffv-2012/xvrcvqblwn/04.%20To%20Dear%20Friends.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dear-ffv-2012/04.%2520To%2520Dear%2520Friends.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 836,
+    "filesize_mp3_bytes": 20069742,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}
