@@ -1,0 +1,96 @@
+{
+  "title": "Rememberinginfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-25T14:04:04.605200+00:00",
+  "slug": "remembering-2013",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/remembering-2013",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/remembering-2013/cover.png"
+  ],
+  "year": 2013,
+  "date_added": "2023-11-25T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "SonicPicnic": "https://downloads.khinsider.com/game-soundtracks/publisher/sonicpicnic"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9248440,
+      "filesize_mp3_bytes": 4603248,
+      "track_number": 1,
+      "title": "Becoming",
+      "runtime": 150,
+      "source_mp3": "https://vgmsite.com/soundtracks/remembering-2013/hkpwtuepqm/01.%20Becoming.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/remembering-2013/hkpwtuepqm/01.%20Becoming.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/remembering-2013/01.%2520Becoming.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9657384,
+      "filesize_mp3_bytes": 3900702,
+      "track_number": 2,
+      "title": "Conception",
+      "runtime": 127,
+      "source_mp3": "https://vgmsite.com/soundtracks/remembering-2013/erfviujkqq/02.%20Conception.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/remembering-2013/erfviujkqq/02.%20Conception.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/remembering-2013/02.%2520Conception.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 12373196,
+      "filesize_mp3_bytes": 6050283,
+      "track_number": 3,
+      "title": "You + Mother",
+      "runtime": 167,
+      "source_mp3": "https://vgmsite.com/soundtracks/remembering-2013/ierjokxapd/03.%20You%20%2B%20Mother.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/remembering-2013/ierjokxapd/03.%20You%20%2B%20Mother.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/remembering-2013/03.%2520You%2520%252B%2520Mother.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 13967032,
+      "filesize_mp3_bytes": 6249512,
+      "track_number": 4,
+      "title": "Touch",
+      "runtime": 192,
+      "source_mp3": "https://vgmsite.com/soundtracks/remembering-2013/dlcpqymhdi/04.%20Touch.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/remembering-2013/dlcpqymhdi/04.%20Touch.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/remembering-2013/04.%2520Touch.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 17993564,
+      "filesize_mp3_bytes": 6050283,
+      "track_number": 5,
+      "title": "Birth",
+      "runtime": 182,
+      "source_mp3": "https://vgmsite.com/soundtracks/remembering-2013/toaoykzzgm/05.%20Birth.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/remembering-2013/toaoykzzgm/05.%20Birth.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/remembering-2013/05.%2520Birth.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5630853,
+      "filesize_mp3_bytes": 2128609,
+      "track_number": 6,
+      "title": "Remembering",
+      "runtime": 66,
+      "source_mp3": "https://vgmsite.com/soundtracks/remembering-2013/snupthprec/06.%20Remembering.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/remembering-2013/snupthprec/06.%20Remembering.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/remembering-2013/06.%2520Remembering.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 884,
+    "filesize_mp3_bytes": 28982637,
+    "filesize_flac_bytes": 68870469,
+    "tracks": 6
+  }
+}

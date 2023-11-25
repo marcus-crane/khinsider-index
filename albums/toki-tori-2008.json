@@ -1,0 +1,85 @@
+{
+  "title": "Toki Toriinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-25T14:04:38.777829+00:00",
+  "slug": "toki-tori-2008",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/toki-tori-2008",
+  "platforms": {
+    "Wii": "https://downloads.khinsider.com/game-soundtracks/nintendo-wii"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/toki-tori-2008/cover.png"
+  ],
+  "year": 2008,
+  "date_added": "2023-11-25T00:00:00+00:00",
+  "developers": {
+    "Two Tribes": "https://downloads.khinsider.com/game-soundtracks/developer/two-tribes"
+  },
+  "publishers": {},
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 13264486,
+      "filesize_mp3_bytes": 3690987,
+      "track_number": 1,
+      "title": "Toki Tori Theme Song",
+      "runtime": 107,
+      "source_mp3": "https://vgmsite.com/soundtracks/toki-tori-2008/cpfnimpmgn/01.%20Toki%20Tori%20Theme%20Song.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/toki-tori-2008/cpfnimpmgn/01.%20Toki%20Tori%20Theme%20Song.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/toki-tori-2008/01.%2520Toki%2520Tori%2520Theme%2520Song.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 35032924,
+      "filesize_mp3_bytes": 10884218,
+      "track_number": 2,
+      "title": "Forest Falls",
+      "runtime": 307,
+      "source_mp3": "https://vgmsite.com/soundtracks/toki-tori-2008/xljoppbhsr/02.%20Forest%20Falls.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/toki-tori-2008/xljoppbhsr/02.%20Forest%20Falls.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/toki-tori-2008/02.%2520Forest%2520Falls.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 42698014,
+      "filesize_mp3_bytes": 12782141,
+      "track_number": 3,
+      "title": "Creepy Castle",
+      "runtime": 347,
+      "source_mp3": "https://vgmsite.com/soundtracks/toki-tori-2008/qlrdjxeshn/03.%20Creepy%20Castle.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/toki-tori-2008/qlrdjxeshn/03.%20Creepy%20Castle.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/toki-tori-2008/03.%2520Creepy%2520Castle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 45078282,
+      "filesize_mp3_bytes": 12719226,
+      "track_number": 4,
+      "title": "Slimey Sewer",
+      "runtime": 365,
+      "source_mp3": "https://vgmsite.com/soundtracks/toki-tori-2008/zcrnmunahn/04.%20Slimey%20Sewer.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/toki-tori-2008/zcrnmunahn/04.%20Slimey%20Sewer.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/toki-tori-2008/04.%2520Slimey%2520Sewer.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 31750881,
+      "filesize_mp3_bytes": 10684989,
+      "track_number": 5,
+      "title": "Bubble Barrage",
+      "runtime": 299,
+      "source_mp3": "https://vgmsite.com/soundtracks/toki-tori-2008/ltgcakxfcm/05.%20Bubble%20Barrage.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/toki-tori-2008/ltgcakxfcm/05.%20Bubble%20Barrage.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/toki-tori-2008/05.%2520Bubble%2520Barrage.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1425,
+    "filesize_mp3_bytes": 50761561,
+    "filesize_flac_bytes": 167824587,
+    "tracks": 5
+  }
+}

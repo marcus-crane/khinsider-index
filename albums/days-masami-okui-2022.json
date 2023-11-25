@@ -1,0 +1,53 @@
+{
+  "title": "days / Masami Okuiinfo",
+  "titles_alternative": [
+    "days / \u5965\u4e95\u96c5\u7f8e"
+  ],
+  "crawled_at": "2023-11-25T14:03:19.174781+00:00",
+  "slug": "days-masami-okui-2022",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/days-masami-okui-2022",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/days-masami-okui-2022/Cover.jpg"
+  ],
+  "year": 2022,
+  "catalog_number": "NVGS-0509",
+  "date_added": "2023-11-25T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Navel": "https://downloads.khinsider.com/game-soundtracks/publisher/navel"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 14805893,
+      "track_number": 1,
+      "title": "days -2022 ver.-",
+      "runtime": 370,
+      "source_mp3": "https://vgmsite.com/soundtracks/days-masami-okui-2022/peyyzkcbdv/01.%20days%20-2022%20ver.-.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/days-masami-okui-2022/01.%2520days%2520-2022%2520ver.-.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 14763950,
+      "track_number": 2,
+      "title": "days -2022 ver.- (Instrumental)",
+      "runtime": 369,
+      "source_mp3": "https://vgmsite.com/soundtracks/days-masami-okui-2022/kphzaugotm/02.%20days%20-2022%20ver.-%20%28Instrumental%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/days-masami-okui-2022/02.%2520days%2520-2022%2520ver.-%2520%2528Instrumental%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 739,
+    "filesize_mp3_bytes": 29569843,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

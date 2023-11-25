@@ -1,0 +1,78 @@
+{
+  "title": "Elementsinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-25T14:03:25.900629+00:00",
+  "slug": "elements-2020",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/elements-2020",
+  "platforms": {
+    "GC": "https://downloads.khinsider.com/game-soundtracks/nintendo-gamecube",
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis",
+    "N64": "https://downloads.khinsider.com/game-soundtracks/nintendo-64",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/elements-2020/cover.jpg"
+  ],
+  "year": 2020,
+  "catalog_number": null,
+  "date_added": "2023-11-25T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "GameGrooves": "https://downloads.khinsider.com/game-soundtracks/publisher/gamegrooves"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20782776,
+      "filesize_mp3_bytes": 6721372,
+      "track_number": 1,
+      "title": "Magmoor Caverns (From Metroid Prime)",
+      "runtime": 192,
+      "source_mp3": "https://vgmsite.com/soundtracks/elements-2020/isrsdmqrpz/01.%20Magmoor%20Caverns%20%28From%20Metroid%20Prime%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/elements-2020/isrsdmqrpz/01.%20Magmoor%20Caverns%20%28From%20Metroid%20Prime%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/elements-2020/01.%2520Magmoor%2520Caverns%2520%2528From%2520Metroid%2520Prime%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 29339156,
+      "filesize_mp3_bytes": 9353297,
+      "track_number": 2,
+      "title": "Dire, Dire Docks (From Super Mario 64)",
+      "runtime": 283,
+      "source_mp3": "https://vgmsite.com/soundtracks/elements-2020/pdkwjuybvh/02.%20Dire%2C%20Dire%20Docks%20%28From%20Super%20Mario%2064%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/elements-2020/pdkwjuybvh/02.%20Dire%2C%20Dire%20Docks%20%28From%20Super%20Mario%2064%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/elements-2020/02.%2520Dire%252C%2520Dire%2520Docks%2520%2528From%2520Super%2520Mario%252064%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 13295943,
+      "filesize_mp3_bytes": 3963617,
+      "track_number": 3,
+      "title": "Sky Chase Zone (From Sonic the Hedgehog 2)",
+      "runtime": 123,
+      "source_mp3": "https://vgmsite.com/soundtracks/elements-2020/tdgtkztold/03.%20Sky%20Chase%20Zone%20%28From%20Sonic%20the%20Hedgehog%202%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/elements-2020/tdgtkztold/03.%20Sky%20Chase%20Zone%20%28From%20Sonic%20the%20Hedgehog%202%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/elements-2020/03.%2520Sky%2520Chase%2520Zone%2520%2528From%2520Sonic%2520the%2520Hedgehog%25202%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 16483614,
+      "filesize_mp3_bytes": 5525995,
+      "track_number": 4,
+      "title": "Wet Hands (From Minecraft)",
+      "runtime": 178,
+      "source_mp3": "https://vgmsite.com/soundtracks/elements-2020/vnwaksykav/04.%20Wet%20Hands%20%28From%20Minecraft%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/elements-2020/vnwaksykav/04.%20Wet%20Hands%20%28From%20Minecraft%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/elements-2020/04.%2520Wet%2520Hands%2520%2528From%2520Minecraft%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 776,
+    "filesize_mp3_bytes": 25564281,
+    "filesize_flac_bytes": 79901489,
+    "tracks": 4
+  }
+}

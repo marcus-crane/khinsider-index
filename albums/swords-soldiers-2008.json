@@ -1,0 +1,81 @@
+{
+  "title": "Swords & Soldiersinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-25T14:04:32.393207+00:00",
+  "slug": "swords-soldiers-2008",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/swords-soldiers-2008",
+  "platforms": {
+    "3DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-3ds",
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "Linux": "https://downloads.khinsider.com/game-soundtracks/linux",
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "PS3": "https://downloads.khinsider.com/game-soundtracks/playstation-3",
+    "Switch": "https://downloads.khinsider.com/game-soundtracks/nintendo-switch",
+    "Wii U": "https://downloads.khinsider.com/game-soundtracks/nintendo-wii-u",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/swords-soldiers-2008/cover.png"
+  ],
+  "year": 2008,
+  "date_added": "2023-11-25T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Ronimo Games": "https://downloads.khinsider.com/game-soundtracks/publisher/ronimo-games"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 12436111,
+      "filesize_mp3_bytes": 3974103,
+      "track_number": 1,
+      "title": "Swords & Soldiers Theme",
+      "runtime": 122,
+      "source_mp3": "https://vgmsite.com/soundtracks/swords-soldiers-2008/sechwuloak/01.%20Swords%20%26%20Soldiers%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/swords-soldiers-2008/sechwuloak/01.%20Swords%20%26%20Soldiers%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/swords-soldiers-2008/01.%2520Swords%2520%2526%2520Soldiers%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 41261465,
+      "filesize_mp3_bytes": 12551454,
+      "track_number": 2,
+      "title": "Viking Theme",
+      "runtime": 394,
+      "source_mp3": "https://vgmsite.com/soundtracks/swords-soldiers-2008/mpybblpyjh/02.%20Viking%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/swords-soldiers-2008/mpybblpyjh/02.%20Viking%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/swords-soldiers-2008/02.%2520Viking%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 15927869,
+      "filesize_mp3_bytes": 4928307,
+      "track_number": 3,
+      "title": "Aztec Theme",
+      "runtime": 151,
+      "source_mp3": "https://vgmsite.com/soundtracks/swords-soldiers-2008/ajieauwrlg/03.%20Aztec%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/swords-soldiers-2008/ajieauwrlg/03.%20Aztec%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/swords-soldiers-2008/03.%2520Aztec%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 37234933,
+      "filesize_mp3_bytes": 12016680,
+      "track_number": 4,
+      "title": "Chinese Theme",
+      "runtime": 367,
+      "source_mp3": "https://vgmsite.com/soundtracks/swords-soldiers-2008/nzwdbvoksx/04.%20Chinese%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/swords-soldiers-2008/nzwdbvoksx/04.%20Chinese%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/swords-soldiers-2008/04.%2520Chinese%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1034,
+    "filesize_mp3_bytes": 33470544,
+    "filesize_flac_bytes": 106860378,
+    "tracks": 4
+  }
+}
