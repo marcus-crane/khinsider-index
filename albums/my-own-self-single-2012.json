@@ -1,0 +1,37 @@
+{
+  "title": "My Own Self - Singleinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-27T21:04:38.999242+00:00",
+  "slug": "my-own-self-single-2012",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/my-own-self-single-2012",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/my-own-self-single-2012/coverart.jpg"
+  ],
+  "year": 2012,
+  "catalog_number": null,
+  "date_added": "2023-11-27T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10118758,
+      "track_number": 1,
+      "title": "My Own Self",
+      "runtime": 297,
+      "source_mp3": "https://vgmsite.com/soundtracks/my-own-self-single-2012/adunhsqokh/01%20My%20Own%20Self.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/my-own-self-single-2012/01%2520My%2520Own%2520Self.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 297,
+    "filesize_mp3_bytes": 10118758,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

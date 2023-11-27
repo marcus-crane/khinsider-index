@@ -1,0 +1,75 @@
+{
+  "title": "ADVENTURE / Junko Nodainfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-27T21:01:59.281289+00:00",
+  "slug": "adventure-junko-noda-2000",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/adventure-junko-noda-2000",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/adventure-junko-noda-2000/Cover.jpg"
+  ],
+  "year": 2000,
+  "catalog_number": "KMDA-5",
+  "date_added": "2023-11-27T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Konami Music Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/konami-music-entertainment"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 34424750,
+      "filesize_mp3_bytes": 9038725,
+      "track_number": 1,
+      "title": "ADVENTURE",
+      "runtime": 257,
+      "source_mp3": "https://vgmsite.com/soundtracks/adventure-junko-noda-2000/odfacudyju/01.%20ADVENTURE.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/adventure-junko-noda-2000/odfacudyju/01.%20ADVENTURE.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/adventure-junko-noda-2000/01.%2520ADVENTURE.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 34634465,
+      "filesize_mp3_bytes": 9374269,
+      "track_number": 2,
+      "title": "SMILE AGAIN",
+      "runtime": 277,
+      "source_mp3": "https://vgmsite.com/soundtracks/adventure-junko-noda-2000/jmhchaamjk/02.%20SMILE%20AGAIN.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/adventure-junko-noda-2000/jmhchaamjk/02.%20SMILE%20AGAIN.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/adventure-junko-noda-2000/02.%2520SMILE%2520AGAIN.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 33711718,
+      "filesize_mp3_bytes": 8839495,
+      "track_number": 3,
+      "title": "ADVENTURE (karaoke)",
+      "runtime": 256,
+      "source_mp3": "https://vgmsite.com/soundtracks/adventure-junko-noda-2000/quqivsphgj/03.%20ADVENTURE%20%28karaoke%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/adventure-junko-noda-2000/quqivsphgj/03.%20ADVENTURE%20%28karaoke%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/adventure-junko-noda-2000/03.%2520ADVENTURE%2520%2528karaoke%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 33921433,
+      "filesize_mp3_bytes": 9531555,
+      "track_number": 4,
+      "title": "SMILE AGAIN (karaoke)",
+      "runtime": 277,
+      "source_mp3": "https://vgmsite.com/soundtracks/adventure-junko-noda-2000/zvgsqlmayt/04.%20SMILE%20AGAIN%20%28karaoke%29.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/adventure-junko-noda-2000/zvgsqlmayt/04.%20SMILE%20AGAIN%20%28karaoke%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/adventure-junko-noda-2000/04.%2520SMILE%2520AGAIN%2520%2528karaoke%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1067,
+    "filesize_mp3_bytes": 36784044,
+    "filesize_flac_bytes": 136692366,
+    "tracks": 4
+  }
+}
