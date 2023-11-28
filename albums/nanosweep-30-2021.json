@@ -1,0 +1,85 @@
+{
+  "title": "NANOSWEEP 30info",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-28T14:06:25.537118+00:00",
+  "slug": "nanosweep-30-2021",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-30-2021",
+  "platforms": {},
+  "images": [
+    "https://vgmsite.com/soundtracks/nanosweep-30-2021/Disc.png"
+  ],
+  "year": 2021,
+  "catalog_number": "NS-030",
+  "date_added": "2023-11-28T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "nanosounds": "https://downloads.khinsider.com/game-soundtracks/publisher/nanosounds",
+    "SuperSweep": "https://downloads.khinsider.com/game-soundtracks/publisher/supersweep"
+  },
+  "genres": {
+    "Inspired By": "https://downloads.khinsider.com/game-soundtracks/inspired-by"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 39814430,
+      "filesize_mp3_bytes": 10150215,
+      "track_number": 1,
+      "title": "techtribe",
+      "runtime": 301,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-30-2021/ckcyaqthhv/01.%20techtribe.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-30-2021/ckcyaqthhv/01.%20techtribe.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-30-2021/01.%2520techtribe.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 32159825,
+      "filesize_mp3_bytes": 8734638,
+      "track_number": 2,
+      "title": "Neuronal complexity",
+      "runtime": 258,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-30-2021/crdnzbfbhs/02.%20Neuronal%20complexity.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-30-2021/crdnzbfbhs/02.%20Neuronal%20complexity.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-30-2021/02.%2520Neuronal%2520complexity.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 43819991,
+      "filesize_mp3_bytes": 12100567,
+      "track_number": 3,
+      "title": "as time flies",
+      "runtime": 360,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-30-2021/oyxuipfvtc/03.%20as%20time%20flies.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-30-2021/oyxuipfvtc/03.%20as%20time%20flies.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-30-2021/03.%2520as%2520time%2520flies.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 29506928,
+      "filesize_mp3_bytes": 7245660,
+      "track_number": 4,
+      "title": "Already Burnt",
+      "runtime": 222,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-30-2021/uwcnmfblsr/04.%20Already%20Burnt.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-30-2021/uwcnmfblsr/04.%20Already%20Burnt.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-30-2021/04.%2520Already%2520Burnt.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 32327598,
+      "filesize_mp3_bytes": 9311354,
+      "track_number": 5,
+      "title": "Geranium",
+      "runtime": 285,
+      "source_mp3": "https://vgmsite.com/soundtracks/nanosweep-30-2021/ngqwywjwdn/05.%20Geranium.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/nanosweep-30-2021/ngqwywjwdn/05.%20Geranium.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nanosweep-30-2021/05.%2520Geranium.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1426,
+    "filesize_mp3_bytes": 47542434,
+    "filesize_flac_bytes": 177628772,
+    "tracks": 5
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "title": "Professor Layton Main Theme Trilogy CDinfo",
+  "titles_alternative": [
+    "\u30ec\u30a4\u30c8\u30f3\u6559\u6388\u30e1\u30a4\u30f3\u30c6\u30fc\u30de \u30c8\u30ea\u30ed\u30b8\u30fcCD"
+  ],
+  "crawled_at": "2023-11-28T14:06:46.355932+00:00",
+  "slug": "professor-layton-main-theme-trilogy-cd-2008",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/professor-layton-main-theme-trilogy-cd-2008",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/professor-layton-main-theme-trilogy-cd-2008/Cover.png"
+  ],
+  "year": 2008,
+  "catalog_number": "LAYTON-J001",
+  "date_added": "2023-11-28T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Level 5": "https://downloads.khinsider.com/game-soundtracks/publisher/level-5"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 17479761,
+      "filesize_mp3_bytes": 4120903,
+      "track_number": 1,
+      "title": "Professor Layton's Theme",
+      "runtime": 115,
+      "source_mp3": "https://vgmsite.com/soundtracks/professor-layton-main-theme-trilogy-cd-2008/emwiviicen/01.%20Professor%20Layton%27s%20Theme.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/professor-layton-main-theme-trilogy-cd-2008/emwiviicen/01.%20Professor%20Layton%27s%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/professor-layton-main-theme-trilogy-cd-2008/01.%2520Professor%2520Layton%2527s%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 18171822,
+      "filesize_mp3_bytes": 4278190,
+      "track_number": 2,
+      "title": "Pandora's Box",
+      "runtime": 120,
+      "source_mp3": "https://vgmsite.com/soundtracks/professor-layton-main-theme-trilogy-cd-2008/dqakpipzlz/02.%20Pandora%27s%20Box.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/professor-layton-main-theme-trilogy-cd-2008/dqakpipzlz/02.%20Pandora%27s%20Box.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/professor-layton-main-theme-trilogy-cd-2008/02.%2520Pandora%2527s%2520Box.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 28909240,
+      "filesize_mp3_bytes": 7738490,
+      "track_number": 3,
+      "title": "The Unwound Future",
+      "runtime": 215,
+      "source_mp3": "https://vgmsite.com/soundtracks/professor-layton-main-theme-trilogy-cd-2008/ffffqlsdlo/03.%20The%20Unwound%20Future.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/professor-layton-main-theme-trilogy-cd-2008/ffffqlsdlo/03.%20The%20Unwound%20Future.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/professor-layton-main-theme-trilogy-cd-2008/03.%2520The%2520Unwound%2520Future.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 450,
+    "filesize_mp3_bytes": 16137583,
+    "filesize_flac_bytes": 64560823,
+    "tracks": 3
+  }
+}

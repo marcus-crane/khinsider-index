@@ -1,0 +1,72 @@
+{
+  "title": "G-Forceinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-28T14:04:57.357436+00:00",
+  "slug": "g-force-ps2-gamerip-2006",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/g-force-ps2-gamerip-2006",
+  "platforms": {
+    "PS2": "https://downloads.khinsider.com/game-soundtracks/playstation-2"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/g-force-ps2-gamerip-2006/39da5f6a-c3f6-480f-9731-e0f780e1b8e5.jpg"
+  ],
+  "year": 2006,
+  "date_added": "2023-11-28T00:00:00+00:00",
+  "developers": {
+    "Mere Mortals Ltd.": "https://downloads.khinsider.com/game-soundtracks/developer/mere-mortals"
+  },
+  "publishers": {
+    "Phoenix Games B.V": "https://downloads.khinsider.com/game-soundtracks/publisher/phoenix-games-b.v"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 13233029,
+      "track_number": 1,
+      "title": "MAINMENU",
+      "runtime": 331,
+      "source_mp3": "https://vgmsite.com/soundtracks/g-force-ps2-gamerip-2006/ripplthwxb/1%20-%20MAINMENU.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/g-force-ps2-gamerip-2006/1%2520-%2520MAINMENU.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 13264486,
+      "track_number": 2,
+      "title": "SKIS1",
+      "runtime": 331,
+      "source_mp3": "https://vgmsite.com/soundtracks/g-force-ps2-gamerip-2006/ewibhblilp/2%20-%20SKIS1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/g-force-ps2-gamerip-2006/2%2520-%2520SKIS1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 12247367,
+      "track_number": 3,
+      "title": "SKIS2",
+      "runtime": 306,
+      "source_mp3": "https://vgmsite.com/soundtracks/g-force-ps2-gamerip-2006/acstrjcqup/3%20-%20SKIS2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/g-force-ps2-gamerip-2006/3%2520-%2520SKIS2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 12803112,
+      "track_number": 4,
+      "title": "SKIS3",
+      "runtime": 320,
+      "source_mp3": "https://vgmsite.com/soundtracks/g-force-ps2-gamerip-2006/pnaedimwaf/4%20-%20SKIS3.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/g-force-ps2-gamerip-2006/4%2520-%2520SKIS3.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1288,
+    "filesize_mp3_bytes": 51547994,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}
