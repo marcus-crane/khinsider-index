@@ -1,0 +1,83 @@
+{
+  "title": "Warzone 2100 - Premier Collection Musicinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-30T21:12:28.004718+00:00",
+  "slug": "warzone-2100-premier-collection-music-1999",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/warzone-2100-premier-collection-music-1999",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/warzone-2100-premier-collection-music-1999/warzone_2100_cd_cover.jpg"
+  ],
+  "year": 1999,
+  "date_added": "2023-11-30T00:00:00+00:00",
+  "developers": {
+    "Pivotal Games": "https://downloads.khinsider.com/game-soundtracks/developer/pivotal-games",
+    "Pumpkin Studios": "https://downloads.khinsider.com/game-soundtracks/developer/pumpkin-studios",
+    "Underdone Gaming": "https://downloads.khinsider.com/game-soundtracks/developer/underdone-gaming",
+    "Warzone 2100 Project": "https://downloads.khinsider.com/game-soundtracks/developer/warzone-2100-project"
+  },
+  "publishers": {
+    "Eidos Interactive": "https://downloads.khinsider.com/game-soundtracks/publisher/eidos-interactive",
+    "Fireshine Games": "https://downloads.khinsider.com/game-soundtracks/publisher/fireshine-games",
+    "Underdone Gaming": "https://downloads.khinsider.com/game-soundtracks/publisher/underdone-gaming",
+    "Warzone 2100 Project": "https://downloads.khinsider.com/game-soundtracks/publisher/warzone-2100-project"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 37025218,
+      "filesize_mp3_bytes": 12939427,
+      "track_number": 1,
+      "title": "Nuclear Silence",
+      "runtime": 421,
+      "source_mp3": "https://vgmsite.com/soundtracks/warzone-2100-premier-collection-music-1999/rsiyyfpbgc/01.%20Nuclear%20Silence.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/warzone-2100-premier-collection-music-1999/rsiyyfpbgc/01.%20Nuclear%20Silence.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/warzone-2100-premier-collection-music-1999/01.%2520Nuclear%2520Silence.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10590617,
+      "filesize_mp3_bytes": 5431623,
+      "track_number": 2,
+      "title": "Enfeebling Emptiness",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/warzone-2100-premier-collection-music-1999/eehxdtbyjy/02.%20Enfeebling%20Emptiness.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/warzone-2100-premier-collection-music-1999/eehxdtbyjy/02.%20Enfeebling%20Emptiness.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/warzone-2100-premier-collection-music-1999/02.%2520Enfeebling%2520Emptiness.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 43694161,
+      "filesize_mp3_bytes": 14952693,
+      "track_number": 3,
+      "title": "Radar Dish",
+      "runtime": 471,
+      "source_mp3": "https://vgmsite.com/soundtracks/warzone-2100-premier-collection-music-1999/aqdhlqhdvj/03.%20Radar%20Dish.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/warzone-2100-premier-collection-music-1999/aqdhlqhdvj/03.%20Radar%20Dish.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/warzone-2100-premier-collection-music-1999/03.%2520Radar%2520Dish.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 27671920,
+      "filesize_mp3_bytes": 8472494,
+      "track_number": 4,
+      "title": "Start a New Life",
+      "runtime": 299,
+      "source_mp3": "https://vgmsite.com/soundtracks/warzone-2100-premier-collection-music-1999/qchwscboxa/04.%20Start%20a%20New%20Life.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/warzone-2100-premier-collection-music-1999/qchwscboxa/04.%20Start%20a%20New%20Life.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/warzone-2100-premier-collection-music-1999/04.%2520Start%2520a%2520New%2520Life.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1371,
+    "filesize_mp3_bytes": 41796237,
+    "filesize_flac_bytes": 118981916,
+    "tracks": 4
+  }
+}

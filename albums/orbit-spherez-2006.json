@@ -1,0 +1,55 @@
+{
+  "title": "Orbit Spherezinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-30T21:08:15.043707+00:00",
+  "slug": "orbit-spherez-2006",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/orbit-spherez-2006",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "Linux": "https://downloads.khinsider.com/game-soundtracks/linux",
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "Online": "https://downloads.khinsider.com/game-soundtracks/online",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/orbit-spherez-2006/AlbumArtSmall.jpg"
+  ],
+  "year": 2006,
+  "catalog_number": null,
+  "date_added": "2023-11-30T00:00:00+00:00",
+  "developers": {
+    "N/A": "https://downloads.khinsider.com/game-soundtracks/developer/n-a"
+  },
+  "publishers": {
+    "CandyStand.com": "https://downloads.khinsider.com/game-soundtracks/publisher/candystand.com"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 954204,
+      "title": "Orbit Spherez 2007 MenuMusic",
+      "runtime": 59,
+      "source_mp3": "https://vgmsite.com/soundtracks/orbit-spherez-2006/hsbuuutjjf/Orbit%20Spherez%202007%20MenuMusic.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/orbit-spherez-2006/Orbit%2520Spherez%25202007%2520MenuMusic.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1268776,
+      "title": "Orbit Spherez 2007 Music",
+      "runtime": 80,
+      "source_mp3": "https://vgmsite.com/soundtracks/orbit-spherez-2006/urcpurwfwp/Orbit%20Spherez%202007%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/orbit-spherez-2006/Orbit%2520Spherez%25202007%2520Music.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 139,
+    "filesize_mp3_bytes": 2222980,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

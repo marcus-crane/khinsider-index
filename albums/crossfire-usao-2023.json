@@ -1,0 +1,40 @@
+{
+  "title": "CrossFire / USAOinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-30T21:05:10.714352+00:00",
+  "slug": "crossfire-usao-2023",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/crossfire-usao-2023",
+  "platforms": {
+    "Switch": "https://downloads.khinsider.com/game-soundtracks/nintendo-switch"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/crossfire-usao-2023/cover.jpg"
+  ],
+  "year": 2023,
+  "date_added": "2023-11-30T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "UOM Records": "https://downloads.khinsider.com/game-soundtracks/publisher/uom-records"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 21873295,
+      "filesize_mp3_bytes": 4750049,
+      "title": "Usao - CrossFire",
+      "runtime": 145,
+      "source_mp3": "https://vgmsite.com/soundtracks/crossfire-usao-2023/ozorafpufu/Usao%20-%20CrossFire.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/crossfire-usao-2023/ozorafpufu/Usao%20-%20CrossFire.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/crossfire-usao-2023/Usao%2520-%2520CrossFire.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 145,
+    "filesize_mp3_bytes": 4750049,
+    "filesize_flac_bytes": 21873295,
+    "tracks": 1
+  }
+}

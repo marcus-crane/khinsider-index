@@ -1,0 +1,51 @@
+{
+  "title": "The Legend of Zelda / The Mysterious Murasame Castleinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-30T21:09:47.900533+00:00",
+  "slug": "the-legend-of-zelda-the-mysterious-murasame-castle-1986",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/the-legend-of-zelda-the-mysterious-murasame-castle-1986",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/the-legend-of-zelda-the-mysterious-murasame-castle-1986/Cover.jpg"
+  ],
+  "year": 1986,
+  "catalog_number": null,
+  "date_added": "2023-11-30T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 89454018,
+      "filesize_mp3_bytes": 14050918,
+      "title": "Side A - The Legend of Zelda",
+      "runtime": 437,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-legend-of-zelda-the-mysterious-murasame-castle-1986/dqxhkvmbhf/Side%20A%20-%20The%20Legend%20of%20Zelda.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/the-legend-of-zelda-the-mysterious-murasame-castle-1986/dqxhkvmbhf/Side%20A%20-%20The%20Legend%20of%20Zelda.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-legend-of-zelda-the-mysterious-murasame-castle-1986/Side%2520A%2520-%2520The%2520Legend%2520of%2520Zelda.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 81893785,
+      "filesize_mp3_bytes": 14250147,
+      "title": "Side B - The Mysterious Murasame Castle",
+      "runtime": 394,
+      "source_mp3": "https://vgmsite.com/soundtracks/the-legend-of-zelda-the-mysterious-murasame-castle-1986/yvrqmfjxsn/Side%20B%20-%20The%20Mysterious%20Murasame%20Castle.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/the-legend-of-zelda-the-mysterious-murasame-castle-1986/yvrqmfjxsn/Side%20B%20-%20The%20Mysterious%20Murasame%20Castle.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-legend-of-zelda-the-mysterious-murasame-castle-1986/Side%2520B%2520-%2520The%2520Mysterious%2520Murasame%2520Castle.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 831,
+    "filesize_mp3_bytes": 28301065,
+    "filesize_flac_bytes": 171347803,
+    "tracks": 2
+  }
+}

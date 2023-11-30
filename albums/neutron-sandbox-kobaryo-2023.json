@@ -1,0 +1,41 @@
+{
+  "title": "NEUTRON SANDBOX / Kobaryoinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-30T21:08:11.748277+00:00",
+  "slug": "neutron-sandbox-kobaryo-2023",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/neutron-sandbox-kobaryo-2023",
+  "platforms": {
+    "Switch": "https://downloads.khinsider.com/game-soundtracks/nintendo-switch"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/neutron-sandbox-kobaryo-2023/cover.jpg"
+  ],
+  "year": 2023,
+  "catalog_number": "HNX-026",
+  "date_added": "2023-11-30T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "HiTNEX TRAX": "https://downloads.khinsider.com/game-soundtracks/publisher/hitnex-trax"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 21579694,
+      "filesize_mp3_bytes": 4414504,
+      "title": "Kobaryo - NEUTRON SANDBOX",
+      "runtime": 140,
+      "source_mp3": "https://vgmsite.com/soundtracks/neutron-sandbox-kobaryo-2023/ghnwpaulxy/Kobaryo%20-%20NEUTRON%20SANDBOX.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/neutron-sandbox-kobaryo-2023/ghnwpaulxy/Kobaryo%20-%20NEUTRON%20SANDBOX.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/neutron-sandbox-kobaryo-2023/Kobaryo%2520-%2520NEUTRON%2520SANDBOX.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 140,
+    "filesize_mp3_bytes": 4414504,
+    "filesize_flac_bytes": 21579694,
+    "tracks": 1
+  }
+}

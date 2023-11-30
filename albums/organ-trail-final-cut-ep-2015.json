@@ -1,0 +1,69 @@
+{
+  "title": "Organ Trail: Final Cut EPinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-11-30T21:08:18.454870+00:00",
+  "slug": "organ-trail-final-cut-ep-2015",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/organ-trail-final-cut-ep-2015",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios",
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile",
+    "PS4": "https://downloads.khinsider.com/game-soundtracks/playstation-4",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/organ-trail-final-cut-ep-2015/cover.png"
+  ],
+  "year": 2015,
+  "date_added": "2023-11-30T00:00:00+00:00",
+  "developers": {
+    "The Men Who Wear Many Hats": "https://downloads.khinsider.com/game-soundtracks/developer/the-men-who-wear-many-hats"
+  },
+  "publishers": {
+    "The Men Who Wear Many Hats": "https://downloads.khinsider.com/game-soundtracks/publisher/the-men-who-wear-many-hats"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 22502440,
+      "filesize_mp3_bytes": 4886364,
+      "track_number": 1,
+      "title": "Wake",
+      "runtime": 158,
+      "source_mp3": "https://vgmsite.com/soundtracks/organ-trail-final-cut-ep-2015/lsfulncnbx/01.%20Wake.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/organ-trail-final-cut-ep-2015/lsfulncnbx/01.%20Wake.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/organ-trail-final-cut-ep-2015/01.%2520Wake.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 51778682,
+      "filesize_mp3_bytes": 4624220,
+      "track_number": 2,
+      "title": "Octodead",
+      "runtime": 146,
+      "source_mp3": "https://vgmsite.com/soundtracks/organ-trail-final-cut-ep-2015/tsgistlrsa/02.%20Octodead.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/organ-trail-final-cut-ep-2015/tsgistlrsa/02.%20Octodead.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/organ-trail-final-cut-ep-2015/02.%2520Octodead.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 23026728,
+      "filesize_mp3_bytes": 4204789,
+      "track_number": 3,
+      "title": "Bloodied, Broken",
+      "runtime": 134,
+      "source_mp3": "https://vgmsite.com/soundtracks/organ-trail-final-cut-ep-2015/flftgbrxka/03.%20Bloodied%2C%20Broken.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/organ-trail-final-cut-ep-2015/flftgbrxka/03.%20Bloodied%2C%20Broken.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/organ-trail-final-cut-ep-2015/03.%2520Bloodied%252C%2520Broken.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 438,
+    "filesize_mp3_bytes": 13715373,
+    "filesize_flac_bytes": 97307850,
+    "tracks": 3
+  }
+}
