@@ -1,0 +1,97 @@
+{
+  "title": "Monster Dashinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-01T14:03:29.164949+00:00",
+  "slug": "monster-dash-2012",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/monster-dash-2012",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/monster-dash-2012/cover.jpg"
+  ],
+  "year": 2012,
+  "date_added": "2023-12-01T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Qobuz": "https://downloads.khinsider.com/game-soundtracks/publisher/qobuz"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20237516,
+      "filesize_mp3_bytes": 5588910,
+      "track_number": 1,
+      "title": "Back from the Dead",
+      "runtime": 180,
+      "source_mp3": "https://vgmsite.com/soundtracks/monster-dash-2012/cciwjegthv/01.%20Back%20from%20the%20Dead.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/monster-dash-2012/cciwjegthv/01.%20Back%20from%20the%20Dead.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monster-dash-2012/01.%2520Back%2520from%2520the%2520Dead.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 16462643,
+      "filesize_mp3_bytes": 4750049,
+      "track_number": 2,
+      "title": "Demon Dynasty",
+      "runtime": 152,
+      "source_mp3": "https://vgmsite.com/soundtracks/monster-dash-2012/qoohxoncoa/02.%20Demon%20Dynasty.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/monster-dash-2012/qoohxoncoa/02.%20Demon%20Dynasty.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monster-dash-2012/02.%2520Demon%2520Dynasty.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 16074670,
+      "filesize_mp3_bytes": 4404019,
+      "track_number": 3,
+      "title": "Tomb Town",
+      "runtime": 137,
+      "source_mp3": "https://vgmsite.com/soundtracks/monster-dash-2012/afhxqrzhxt/03.%20Tomb%20Town.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/monster-dash-2012/afhxqrzhxt/03.%20Tomb%20Town.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monster-dash-2012/03.%2520Tomb%2520Town.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 16934502,
+      "filesize_mp3_bytes": 4341104,
+      "track_number": 4,
+      "title": "Vampire Kingdom",
+      "runtime": 137,
+      "source_mp3": "https://vgmsite.com/soundtracks/monster-dash-2012/pncwgawadf/04.%20Vampire%20Kingdom.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/monster-dash-2012/pncwgawadf/04.%20Vampire%20Kingdom.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monster-dash-2012/04.%2520Vampire%2520Kingdom.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 16515072,
+      "filesize_mp3_bytes": 4152360,
+      "track_number": 5,
+      "title": "Zombie Metropolis",
+      "runtime": 137,
+      "source_mp3": "https://vgmsite.com/soundtracks/monster-dash-2012/fotcuhknkx/05.%20Zombie%20Metropolis.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/monster-dash-2012/fotcuhknkx/05.%20Zombie%20Metropolis.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monster-dash-2012/05.%2520Zombie%2520Metropolis.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 17689477,
+      "filesize_mp3_bytes": 4550819,
+      "track_number": 6,
+      "title": "Yeti Heights",
+      "runtime": 146,
+      "source_mp3": "https://vgmsite.com/soundtracks/monster-dash-2012/znhhzmkgsh/06.%20Yeti%20Heights.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/monster-dash-2012/znhhzmkgsh/06.%20Yeti%20Heights.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/monster-dash-2012/06.%2520Yeti%2520Heights.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 889,
+    "filesize_mp3_bytes": 27787261,
+    "filesize_flac_bytes": 103913880,
+    "tracks": 6
+  }
+}
