@@ -1,0 +1,73 @@
+{
+  "title": "Link-age / YURIAinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-06T14:04:53.190557+00:00",
+  "slug": "link-age-yuria-2009",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/link-age-yuria-2009",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/link-age-yuria-2009/Ad.jpg"
+  ],
+  "year": 2009,
+  "catalog_number": "LACM-4682",
+  "date_added": "2023-12-06T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 45392855,
+      "filesize_mp3_bytes": 10779361,
+      "track_number": 1,
+      "title": "Link-age",
+      "runtime": 291,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/link-age-yuria-2009/dntylpbhki/01.%20Link-age.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/link-age-yuria-2009/dntylpbhki/01.%20Link-age.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/link-age-yuria-2009/01.%2520Link-age.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 42802872,
+      "filesize_mp3_bytes": 9311354,
+      "track_number": 2,
+      "title": "Garnet",
+      "runtime": 274,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/link-age-yuria-2009/tvqbeqfyjg/02.%20Garnet.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/link-age-yuria-2009/tvqbeqfyjg/02.%20Garnet.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/link-age-yuria-2009/02.%2520Garnet.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 45298483,
+      "filesize_mp3_bytes": 10695475,
+      "track_number": 3,
+      "title": "Link-age (Off Vocal)",
+      "runtime": 291,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/link-age-yuria-2009/dgjziwforp/03.%20Link-age%20%28Off%20Vocal%29.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/link-age-yuria-2009/dgjziwforp/03.%20Link-age%20%28Off%20Vocal%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/link-age-yuria-2009/03.%2520Link-age%2520%2528Off%2520Vocal%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 42551214,
+      "filesize_mp3_bytes": 9269411,
+      "track_number": 4,
+      "title": "Garnet (Off Vocal)",
+      "runtime": 272,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/link-age-yuria-2009/funkzyoglp/04.%20Garnet%20%28Off%20Vocal%29.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/link-age-yuria-2009/funkzyoglp/04.%20Garnet%20%28Off%20Vocal%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/link-age-yuria-2009/04.%2520Garnet%2520%2528Off%2520Vocal%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1128,
+    "filesize_mp3_bytes": 40055601,
+    "filesize_flac_bytes": 176045424,
+    "tracks": 4
+  }
+}

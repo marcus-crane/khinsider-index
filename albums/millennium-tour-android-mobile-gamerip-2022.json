@@ -1,0 +1,41 @@
+{
+  "title": "Millennium Tourinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-06T14:05:21.805227+00:00",
+  "slug": "millennium-tour-android-mobile-gamerip-2022",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/millennium-tour-android-mobile-gamerip-2022",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/millennium-tour-android-mobile-gamerip-2022/Cover.png"
+  ],
+  "year": 2022,
+  "catalog_number": null,
+  "date_added": "2023-12-06T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8661237,
+      "filesize_mp3_bytes": 2810183,
+      "track_number": 1,
+      "title": "Millennium tour - Main Theme",
+      "runtime": 90,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/millennium-tour-android-mobile-gamerip-2022/eebbywacyc/01.%20Millennium%20tour%20-%20Main%20Theme.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/millennium-tour-android-mobile-gamerip-2022/eebbywacyc/01.%20Millennium%20tour%20-%20Main%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/millennium-tour-android-mobile-gamerip-2022/01.%2520Millennium%2520tour%2520-%2520Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 90,
+    "filesize_mp3_bytes": 2810183,
+    "filesize_flac_bytes": 8661237,
+    "tracks": 1
+  }
+}

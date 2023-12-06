@@ -1,0 +1,62 @@
+{
+  "title": "Motherloadinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-06T14:05:32.171282+00:00",
+  "slug": "motherload-online-gamerip-2004",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/motherload-online-gamerip-2004",
+  "platforms": {
+    "Online": "https://downloads.khinsider.com/game-soundtracks/online"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/motherload-online-gamerip-2004/Cover.jpg"
+  ],
+  "year": 2004,
+  "date_added": "2023-12-06T00:00:00+00:00",
+  "developers": {
+    "XGen Studios": "https://downloads.khinsider.com/game-soundtracks/developer/xgen-studios"
+  },
+  "publishers": {
+    "XGen Studios": "https://downloads.khinsider.com/game-soundtracks/publisher/xgen-studios"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 262144,
+      "track_number": 1,
+      "title": "Core",
+      "runtime": 33,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/motherload-online-gamerip-2004/hwigjtskkb/01.%20Core.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/motherload-online-gamerip-2004/01.%2520Core.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 220200,
+      "track_number": 2,
+      "title": "Main",
+      "runtime": 27,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/motherload-online-gamerip-2004/bwqtwceomv/02.%20Main.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/motherload-online-gamerip-2004/02.%2520Main.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 251658,
+      "track_number": 3,
+      "title": "Shop",
+      "runtime": 31,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/motherload-online-gamerip-2004/njlndyghrk/03.%20Shop.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/motherload-online-gamerip-2004/03.%2520Shop.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 91,
+    "filesize_mp3_bytes": 734002,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}
