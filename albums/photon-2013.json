@@ -1,0 +1,65 @@
+{
+  "title": "Photoninfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-07T07:01:45.008806+00:00",
+  "slug": "photon-2013",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/photon-2013",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation",
+    "PS2": "https://downloads.khinsider.com/game-soundtracks/playstation-2"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/photon-2013/Front.JPG"
+  ],
+  "year": 2013,
+  "catalog_number": "Lvlt-0015",
+  "date_added": "2023-12-07T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Levo Lution": "https://downloads.khinsider.com/game-soundtracks/publisher/levo-lution"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 45099253,
+      "filesize_mp3_bytes": 10789847,
+      "track_number": 1,
+      "title": "Ion Collision",
+      "runtime": 335,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/photon-2013/qrmriniedz/01.%20Ion%20Collision.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/photon-2013/qrmriniedz/01.%20Ion%20Collision.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/photon-2013/01.%2520Ion%2520Collision.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 43861934,
+      "filesize_mp3_bytes": 10307502,
+      "track_number": 2,
+      "title": "Home Port R8",
+      "runtime": 319,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/photon-2013/jhbqdzfjsu/02.%20Home%20Port%20R8.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/photon-2013/jhbqdzfjsu/02.%20Home%20Port%20R8.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/photon-2013/02.%2520Home%2520Port%2520R8.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 47437578,
+      "filesize_mp3_bytes": 12593397,
+      "track_number": 3,
+      "title": "Over^3 Kill (1043 Progressive Mix)",
+      "runtime": 375,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/photon-2013/ekbdgadsmz/03.%20Over%5E3%20Kill%20%281043%20Progressive%20Mix%29.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/photon-2013/ekbdgadsmz/03.%20Over%5E3%20Kill%20%281043%20Progressive%20Mix%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/photon-2013/03.%2520Over%255E3%2520Kill%2520%25281043%2520Progressive%2520Mix%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1029,
+    "filesize_mp3_bytes": 33690746,
+    "filesize_flac_bytes": 136398765,
+    "tracks": 3
+  }
+}

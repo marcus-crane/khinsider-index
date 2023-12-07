@@ -1,0 +1,63 @@
+{
+  "title": "Overdriveinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-07T07:01:43.706783+00:00",
+  "slug": "overdrive-2012",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/overdrive-2012",
+  "platforms": {
+    "PS2": "https://downloads.khinsider.com/game-soundtracks/playstation-2",
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/overdrive-2012/Front.jpg"
+  ],
+  "year": 2012,
+  "catalog_number": "Lvlt-0014",
+  "date_added": "2023-12-07T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Levo Lution": "https://downloads.khinsider.com/game-soundtracks/publisher/levo-lution"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 12624855,
+      "track_number": 1,
+      "title": "Desire Drive Overkill",
+      "runtime": 393,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/overdrive-2012/ktkmdzzdhg/01.%20Desire%20Drive%20Overkill.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/overdrive-2012/01.%2520Desire%2520Drive%2520Overkill.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 15592325,
+      "track_number": 2,
+      "title": "7th Ruins Overdrive",
+      "runtime": 486,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/overdrive-2012/eacqaaxesd/02.%207th%20Ruins%20Overdrive.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/overdrive-2012/02.%25207th%2520Ruins%2520Overdrive.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11607736,
+      "track_number": 3,
+      "title": "Twilight Horizons 1632",
+      "runtime": 362,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/overdrive-2012/acczqffpjq/03.%20Twilight%20Horizons%201632.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/overdrive-2012/03.%2520Twilight%2520Horizons%25201632.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1241,
+    "filesize_mp3_bytes": 39824916,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}
