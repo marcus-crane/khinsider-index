@@ -1,0 +1,81 @@
+{
+  "title": "EDGEinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-09T07:01:38.824282+00:00",
+  "slug": "edge-2001",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/edge-2001",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/edge-2001/Cover.jpg"
+  ],
+  "year": 2001,
+  "catalog_number": "Lvlt-0001",
+  "date_added": "2023-12-09T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Levo Lution": "https://downloads.khinsider.com/game-soundtracks/publisher/levo-lution"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4750049,
+      "track_number": 1,
+      "title": "Bird's Poetry - Trancision Euro Style [Air]",
+      "runtime": 256,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/edge-2001/xocgodcemr/01.%20Bird%27s%20Poetry%20-%20Trancision%20Euro%20Style%20%5BAir%5D.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/edge-2001/01.%2520Bird%2527s%2520Poetry%2520-%2520Trancision%2520Euro%2520Style%2520%255BAir%255D.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6018826,
+      "track_number": 2,
+      "title": "Kami - Power Trance Mix [Air]",
+      "runtime": 294,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/edge-2001/jindnoodtb/02.%20Kami%20-%20Power%20Trance%20Mix%20%5BAir%5D.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/edge-2001/02.%2520Kami%2520-%2520Power%2520Trance%2520Mix%2520%255BAir%255D.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6144655,
+      "track_number": 3,
+      "title": "Fabrication - F.D. Mix [Air]",
+      "runtime": 311,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/edge-2001/pmqjrlyjgk/03.%20Fabrication%20-%20F.D.%20Mix%20%5BAir%5D.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/edge-2001/03.%2520Fabrication%2520-%2520F.D.%2520Mix%2520%255BAir%255D.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5987368,
+      "track_number": 4,
+      "title": "Nocturne - Silent Pulse Mix [Air]",
+      "runtime": 301,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/edge-2001/xabxglszcz/04.%20Nocturne%20-%20Silent%20Pulse%20Mix%20%5BAir%5D.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/edge-2001/04.%2520Nocturne%2520-%2520Silent%2520Pulse%2520Mix%2520%255BAir%255D.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11282677,
+      "track_number": 5,
+      "title": "Reason - Edge of Dispair [Air]",
+      "runtime": 638,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/edge-2001/aiubgaulty/05.%20Reason%20-%20Edge%20of%20Dispair%20%5BAir%5D.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/edge-2001/05.%2520Reason%2520-%2520Edge%2520of%2520Dispair%2520%255BAir%255D.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1800,
+    "filesize_mp3_bytes": 34183575,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

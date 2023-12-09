@@ -1,0 +1,54 @@
+{
+  "title": "Sweet Landinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-09T07:05:53.560623+00:00",
+  "slug": "sweet-land-arcade-gamerip-1986",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/sweet-land-arcade-gamerip-1986",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/sweet-land-arcade-gamerip-1986/Sweet%20Land.jpg"
+  ],
+  "year": 1986,
+  "date_added": "2023-12-09T00:00:00+00:00",
+  "developers": {
+    "Bandai Namco Entertainment": "https://downloads.khinsider.com/game-soundtracks/developer/bandai-namco-entertainment"
+  },
+  "publishers": {
+    "Namco Bandai Namco Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/namco-bandai-namco-entertainment"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 15760097,
+      "filesize_mp3_bytes": 6291456,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 293,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/sweet-land-arcade-gamerip-1986/yaejxvaobj/01.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/sweet-land-arcade-gamerip-1986/yaejxvaobj/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sweet-land-arcade-gamerip-1986/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5798625,
+      "filesize_mp3_bytes": 2296381,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 120,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/sweet-land-arcade-gamerip-1986/joedkbksih/02.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/sweet-land-arcade-gamerip-1986/joedkbksih/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sweet-land-arcade-gamerip-1986/02.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 413,
+    "filesize_mp3_bytes": 8587837,
+    "filesize_flac_bytes": 21558722,
+    "tracks": 2
+  }
+}

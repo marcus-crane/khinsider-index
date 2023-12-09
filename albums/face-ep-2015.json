@@ -1,0 +1,86 @@
+{
+  "title": "Face EPinfo",
+  "titles_alternative": [
+    "Levo Lution arrangements."
+  ],
+  "crawled_at": "2023-12-09T07:01:53.301878+00:00",
+  "slug": "face-ep-2015",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/face-ep-2015",
+  "platforms": {},
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/face-ep-2015/cover.jpg"
+  ],
+  "year": 2015,
+  "catalog_number": "Lvlt-0016",
+  "date_added": "2023-12-09T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Levo Lution": "https://downloads.khinsider.com/game-soundtracks/publisher/levo-lution"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 55679385,
+      "filesize_mp3_bytes": 14019461,
+      "track_number": 1,
+      "title": "Face IV (the Asteroids)",
+      "runtime": 430,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/face-ep-2015/lhkzhonlgo/01.%20Face%20IV%20%28the%20Asteroids%29.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/face-ep-2015/lhkzhonlgo/01.%20Face%20IV%20%28the%20Asteroids%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/face-ep-2015/01.%2520Face%2520IV%2520%2528the%2520Asteroids%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 53162803,
+      "filesize_mp3_bytes": 14522777,
+      "track_number": 2,
+      "title": "Face (type Obsidian)",
+      "runtime": 439,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/face-ep-2015/qgabrrxrhz/02.%20Face%20%28type%20Obsidian%29.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/face-ep-2015/qgabrrxrhz/02.%20Face%20%28type%20Obsidian%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/face-ep-2015/02.%2520Face%2520%2528type%2520Obsidian%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 35064381,
+      "filesize_mp3_bytes": 10265559,
+      "track_number": 3,
+      "title": "Face",
+      "runtime": 279,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/face-ep-2015/bkhryxmkzg/03.%20Face.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/face-ep-2015/bkhryxmkzg/03.%20Face.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/face-ep-2015/03.%2520Face.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 73830236,
+      "filesize_mp3_bytes": 19461570,
+      "track_number": 4,
+      "title": "S.T.M.L. - Face ][",
+      "runtime": 616,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/face-ep-2015/grrmieceoi/04.%20S.T.M.L.%20-%20Face%20%5D%5B.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/face-ep-2015/grrmieceoi/04.%20S.T.M.L.%20-%20Face%20%5D%5B.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/face-ep-2015/04.%2520S.T.M.L.%2520-%2520Face%2520%255D%255B.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 60974694,
+      "filesize_mp3_bytes": 16745758,
+      "track_number": 5,
+      "title": "Face ]i[ (the Orbit)",
+      "runtime": 502,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/face-ep-2015/saydeyjzuw/05.%20Face%20%5Di%5B%20%28the%20Orbit%29.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/face-ep-2015/saydeyjzuw/05.%20Face%20%5Di%5B%20%28the%20Orbit%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/face-ep-2015/05.%2520Face%2520%255Di%255B%2520%2528the%2520Orbit%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2266,
+    "filesize_mp3_bytes": 75015125,
+    "filesize_flac_bytes": 278711499,
+    "tracks": 5
+  }
+}
