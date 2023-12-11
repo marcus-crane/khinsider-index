@@ -1,0 +1,53 @@
+{
+  "title": "Snowball!info",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-11T07:03:57.522369+00:00",
+  "slug": "snowball-2019",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/snowball-2019",
+  "platforms": {
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/snowball-2019/Image.jpg"
+  ],
+  "year": 2019,
+  "date_added": "2023-12-11T00:00:00+00:00",
+  "developers": {
+    "Pixeljam": "https://downloads.khinsider.com/game-soundtracks/developer/pixeljam"
+  },
+  "publishers": {
+    "Pixeljam": "https://downloads.khinsider.com/game-soundtracks/publisher/pixeljam"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7507804,
+      "track_number": 1,
+      "title": "Day Theme",
+      "runtime": 235,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/snowball-2019/hqnvgeqgkz/01.%20Day%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/snowball-2019/01.%2520Day%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3764387,
+      "track_number": 2,
+      "title": "Night Theme",
+      "runtime": 118,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/snowball-2019/qmaqyqzawu/02.%20Night%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/snowball-2019/02.%2520Night%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 353,
+    "filesize_mp3_bytes": 11272191,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}
