@@ -1,0 +1,78 @@
+{
+  "title": "MOAI 2: Path to Another Worldinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-12T07:03:37.136891+00:00",
+  "slug": "moai-2-path-to-another-world-2015",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/moai-2-path-to-another-world-2015",
+  "platforms": {
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/moai-2-path-to-another-world-2015/MOAI%202%20Path%20to%20Another%20World.jpg"
+  ],
+  "year": 2015,
+  "date_added": "2023-12-12T00:00:00+00:00",
+  "developers": {
+    "Alawar Entertainment": "https://downloads.khinsider.com/game-soundtracks/developer/alawar-entertainment",
+    "Buka Entertainment": "https://downloads.khinsider.com/game-soundtracks/developer/buka-entertainment",
+    "Toyman Interactive": "https://downloads.khinsider.com/game-soundtracks/developer/toyman-interactive"
+  },
+  "publishers": {
+    "Alawar Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/alawar-entertainment",
+    "Buka Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/buka-entertainment",
+    "ESDigital Games": "https://downloads.khinsider.com/game-soundtracks/publisher/esdigital-games",
+    "Nevosoft": "https://downloads.khinsider.com/game-soundtracks/publisher/nevosoft"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2034237,
+      "track_number": 1,
+      "title": "Menu",
+      "runtime": 64,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/moai-2-path-to-another-world-2015/qvmipaeefx/01.%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/moai-2-path-to-another-world-2015/01.%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2191523,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 71,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/moai-2-path-to-another-world-2015/zcrvytdtqa/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/moai-2-path-to-another-world-2015/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2181038,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 70,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/moai-2-path-to-another-world-2015/abojkhdmge/03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/moai-2-path-to-another-world-2015/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2118123,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 67,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/moai-2-path-to-another-world-2015/lvddbgmkxq/04.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/moai-2-path-to-another-world-2015/04.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 272,
+    "filesize_mp3_bytes": 8524921,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

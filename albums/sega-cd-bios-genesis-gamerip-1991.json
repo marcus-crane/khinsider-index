@@ -1,0 +1,60 @@
+{
+  "title": "Sega CD Biosinfo",
+  "titles_alternative": [
+    "Mega-CD (\u30e1\u30ac\uff23\uff24) CD Aladdin Boy (CD \uc54c\ub77c\ub518 \ubcf4\uc774)"
+  ],
+  "crawled_at": "2023-12-12T07:07:24.248120+00:00",
+  "slug": "sega-cd-bios-genesis-gamerip-1991",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/sega-cd-bios-genesis-gamerip-1991",
+  "platforms": {
+    "Genesis / Mega Drive": "https://downloads.khinsider.com/game-soundtracks/sega-mega-drive-genesis"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/sega-cd-bios-genesis-gamerip-1991/maxresdefault.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2023-12-12T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3082813,
+      "track_number": 1,
+      "title": "Japanese - European BIOS",
+      "runtime": 77,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/sega-cd-bios-genesis-gamerip-1991/pdhfwrncda/01.%20Japanese%20-%20European%20BIOS.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sega-cd-bios-genesis-gamerip-1991/01.%2520Japanese%2520-%2520European%2520BIOS.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3596615,
+      "track_number": 2,
+      "title": "American BIOS Version 1",
+      "runtime": 90,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/sega-cd-bios-genesis-gamerip-1991/niesibmigs/02.%20American%20BIOS%20Version%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sega-cd-bios-genesis-gamerip-1991/02.%2520American%2520BIOS%2520Version%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2988441,
+      "track_number": 3,
+      "title": "American BIOS Version 2",
+      "runtime": 75,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/sega-cd-bios-genesis-gamerip-1991/detmncmpmz/03.%20American%20BIOS%20Version%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sega-cd-bios-genesis-gamerip-1991/03.%2520American%2520BIOS%2520Version%25202.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 242,
+    "filesize_mp3_bytes": 9667869,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}
