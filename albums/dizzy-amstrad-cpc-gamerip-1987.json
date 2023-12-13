@@ -1,0 +1,52 @@
+{
+  "title": "Dizzy (Amstrad CPC)info",
+  "titles_alternative": [
+    "Dizzy: The Ultimate Cartoon Adventure"
+  ],
+  "crawled_at": "2023-12-13T07:02:08.738803+00:00",
+  "slug": "dizzy-amstrad-cpc-gamerip-1987",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dizzy-amstrad-cpc-gamerip-1987",
+  "platforms": {},
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/dizzy-amstrad-cpc-gamerip-1987/Dizzy%20Amstrad%20CPC%20Cassette.jpg"
+  ],
+  "year": 1987,
+  "date_added": "2023-12-13T00:00:00+00:00",
+  "developers": {
+    "The Oliver Twins": "https://downloads.khinsider.com/game-soundtracks/developer/the-oliver-twins"
+  },
+  "publishers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/publisher/codemasters"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1656750,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 59,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/dizzy-amstrad-cpc-gamerip-1987/usfwtiabjb/01.%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dizzy-amstrad-cpc-gamerip-1987/01.%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2589982,
+      "track_number": 2,
+      "title": "In-Game",
+      "runtime": 98,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/dizzy-amstrad-cpc-gamerip-1987/femdhpampp/02.%20In-Game.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dizzy-amstrad-cpc-gamerip-1987/02.%2520In-Game.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 157,
+    "filesize_mp3_bytes": 4246732,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

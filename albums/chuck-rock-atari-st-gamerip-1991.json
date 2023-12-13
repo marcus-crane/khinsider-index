@@ -1,0 +1,42 @@
+{
+  "title": "Chuck Rockinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-13T07:01:56.634246+00:00",
+  "slug": "chuck-rock-atari-st-gamerip-1991",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/chuck-rock-atari-st-gamerip-1991",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/chuck-rock-atari-st-gamerip-1991/Chuck%20Rock%20Atari%20ST%20Cover.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2023-12-13T00:00:00+00:00",
+  "developers": {
+    "Core Design": "https://downloads.khinsider.com/game-soundtracks/developer/core-design"
+  },
+  "publishers": {
+    "Core Design": "https://downloads.khinsider.com/game-soundtracks/publisher/core-design"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3974103,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 151,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/chuck-rock-atari-st-gamerip-1991/hejrzydlpb/01.%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chuck-rock-atari-st-gamerip-1991/01.%2520Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 151,
+    "filesize_mp3_bytes": 3974103,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "title": "Cosmo Fightersinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-13T07:02:01.064826+00:00",
+  "slug": "cosmo-fighters-ds-gamerip-2010",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/cosmo-fighters-ds-gamerip-2010",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/cosmo-fighters-ds-gamerip-2010/coverart.jpg"
+  ],
+  "year": 2010,
+  "date_added": "2023-12-13T00:00:00+00:00",
+  "developers": {
+    "Abylight": "https://downloads.khinsider.com/game-soundtracks/developer/abylight"
+  },
+  "publishers": {
+    "Abylight": "https://downloads.khinsider.com/game-soundtracks/publisher/abylight"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 230686,
+      "track_number": 1,
+      "title": "Gameend",
+      "runtime": 6,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/cosmo-fighters-ds-gamerip-2010/ivhlydgdqg/01.%20Gameend.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cosmo-fighters-ds-gamerip-2010/01.%2520Gameend.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 146800,
+      "track_number": 2,
+      "title": "Gameend 0",
+      "runtime": 4,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/cosmo-fighters-ds-gamerip-2010/xqdlbarshc/02.%20Gameend%200.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cosmo-fighters-ds-gamerip-2010/02.%2520Gameend%25200.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4928307,
+      "track_number": 3,
+      "title": "Ingame",
+      "runtime": 123,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/cosmo-fighters-ds-gamerip-2010/efhtjwpqpr/03.%20Ingame.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cosmo-fighters-ds-gamerip-2010/03.%2520Ingame.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2464153,
+      "track_number": 4,
+      "title": "Ingame 0",
+      "runtime": 123,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/cosmo-fighters-ds-gamerip-2010/tsfsduvofu/04.%20Ingame%200.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cosmo-fighters-ds-gamerip-2010/04.%2520Ingame%25200.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4110417,
+      "track_number": 5,
+      "title": "Menu",
+      "runtime": 103,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/cosmo-fighters-ds-gamerip-2010/hqizyyuwlh/05.%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cosmo-fighters-ds-gamerip-2010/05.%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2055208,
+      "track_number": 6,
+      "title": "Menu 0",
+      "runtime": 103,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/cosmo-fighters-ds-gamerip-2010/eadrhohqap/06.%20Menu%200.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/cosmo-fighters-ds-gamerip-2010/06.%2520Menu%25200.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 462,
+    "filesize_mp3_bytes": 13935571,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}
