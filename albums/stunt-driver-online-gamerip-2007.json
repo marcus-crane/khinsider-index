@@ -1,0 +1,76 @@
+{
+  "title": "Stunt Driverinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-16T21:04:06.131028+00:00",
+  "slug": "stunt-driver-online-gamerip-2007",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/stunt-driver-online-gamerip-2007",
+  "platforms": {
+    "Online": "https://downloads.khinsider.com/game-soundtracks/online"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/stunt-driver-online-gamerip-2007/Cover.png"
+  ],
+  "year": 2007,
+  "date_added": "2023-12-16T00:00:00+00:00",
+  "developers": {
+    "Silent Bay Studios": "https://downloads.khinsider.com/game-soundtracks/developer/silent-bay-studios"
+  },
+  "publishers": {
+    "Miniclip": "https://downloads.khinsider.com/game-soundtracks/publisher/miniclip"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 408944,
+      "filesize_mp3_bytes": 377487,
+      "track_number": 1,
+      "title": "Base",
+      "runtime": 38,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/stunt-driver-online-gamerip-2007/qfdimlajlw/01.%20Base.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/stunt-driver-online-gamerip-2007/qfdimlajlw/01.%20Base.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stunt-driver-online-gamerip-2007/01.%2520Base.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1279262,
+      "filesize_mp3_bytes": 356515,
+      "track_number": 2,
+      "title": "Main Menu",
+      "runtime": 12,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/stunt-driver-online-gamerip-2007/ueuiyyritj/02.%20Main%20Menu.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/stunt-driver-online-gamerip-2007/ueuiyyritj/02.%20Main%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stunt-driver-online-gamerip-2007/02.%2520Main%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 31457,
+      "filesize_mp3_bytes": 41943,
+      "track_number": 3,
+      "title": "Round Completed",
+      "runtime": 4,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/stunt-driver-online-gamerip-2007/gedobpvhkp/03.%20Round%20Completed.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/stunt-driver-online-gamerip-2007/gedobpvhkp/03.%20Round%20Completed.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stunt-driver-online-gamerip-2007/03.%2520Round%2520Completed.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 31457,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 4,
+      "title": "Round Failed",
+      "runtime": 3,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/stunt-driver-online-gamerip-2007/yimqexkskf/04.%20Round%20Failed.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/stunt-driver-online-gamerip-2007/yimqexkskf/04.%20Round%20Failed.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stunt-driver-online-gamerip-2007/04.%2520Round%2520Failed.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 57,
+    "filesize_mp3_bytes": 807402,
+    "filesize_flac_bytes": 1751120,
+    "tracks": 4
+  }
+}
