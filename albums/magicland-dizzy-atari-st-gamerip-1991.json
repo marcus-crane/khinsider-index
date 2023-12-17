@@ -1,0 +1,82 @@
+{
+  "title": "Magicland Dizzyinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-17T14:05:17.611046+00:00",
+  "slug": "magicland-dizzy-atari-st-gamerip-1991",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/magicland-dizzy-atari-st-gamerip-1991",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/magicland-dizzy-atari-st-gamerip-1991/Magicland%20Dizzy%20Atari%20ST%20Cover.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2023-12-17T00:00:00+00:00",
+  "developers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/developer/codemasters"
+  },
+  "publishers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/publisher/codemasters"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2317352,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 109,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/magicland-dizzy-atari-st-gamerip-1991/diiufczelk/01.%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magicland-dizzy-atari-st-gamerip-1991/01.%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1038090,
+      "track_number": 2,
+      "title": "Victory",
+      "runtime": 46,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/magicland-dizzy-atari-st-gamerip-1991/wmbhxpgias/02.%20Victory.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magicland-dizzy-atari-st-gamerip-1991/02.%2520Victory.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 262144,
+      "track_number": 3,
+      "title": "Game Over",
+      "runtime": 3,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/magicland-dizzy-atari-st-gamerip-1991/tbbwtejnzl/03.%20Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magicland-dizzy-atari-st-gamerip-1991/03.%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 251658,
+      "track_number": 4,
+      "title": "Unknown 1",
+      "runtime": 2,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/magicland-dizzy-atari-st-gamerip-1991/yprvmcwble/04.%20Unknown%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magicland-dizzy-atari-st-gamerip-1991/04.%2520Unknown%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1751121,
+      "track_number": 5,
+      "title": "Unknown 2",
+      "runtime": 61,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/magicland-dizzy-atari-st-gamerip-1991/hozvveuzgg/05.%20Unknown%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/magicland-dizzy-atari-st-gamerip-1991/05.%2520Unknown%25202.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 221,
+    "filesize_mp3_bytes": 5620365,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

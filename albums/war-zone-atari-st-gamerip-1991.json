@@ -1,0 +1,42 @@
+{
+  "title": "War Zoneinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-17T14:08:49.280320+00:00",
+  "slug": "war-zone-atari-st-gamerip-1991",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/war-zone-atari-st-gamerip-1991",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/war-zone-atari-st-gamerip-1991/War%20Zone%20Atari%20ST%20Ad.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2023-12-17T00:00:00+00:00",
+  "developers": {
+    "Core Design": "https://downloads.khinsider.com/game-soundtracks/developer/core-design"
+  },
+  "publishers": {
+    "Core Design": "https://downloads.khinsider.com/game-soundtracks/publisher/core-design"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6973030,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 234,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/war-zone-atari-st-gamerip-1991/xpofrcqsdf/01.%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/war-zone-atari-st-gamerip-1991/01.%2520Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 234,
+    "filesize_mp3_bytes": 6973030,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

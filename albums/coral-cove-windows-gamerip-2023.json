@@ -1,0 +1,78 @@
+{
+  "title": "Coral Coveinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-17T14:03:24.632531+00:00",
+  "slug": "coral-cove-windows-gamerip-2023",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/coral-cove-windows-gamerip-2023",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/coral-cove-windows-gamerip-2023/cc_1.jpg"
+  ],
+  "year": 2023,
+  "date_added": "2023-12-17T00:00:00+00:00",
+  "developers": {
+    "Iris Trummer": "https://downloads.khinsider.com/game-soundtracks/developer/iris-trummer",
+    "Johannes Schatteiner": "https://downloads.khinsider.com/game-soundtracks/developer/johannes-schatteiner",
+    "Sandro Figo": "https://downloads.khinsider.com/game-soundtracks/developer/sandro-figo"
+  },
+  "publishers": {
+    "MediaCube Games": "https://downloads.khinsider.com/game-soundtracks/publisher/mediacube-games"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4896849,
+      "filesize_mp3_bytes": 2516582,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 89,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/coral-cove-windows-gamerip-2023/htgixkggqr/1.%20Title%20Screen.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/coral-cove-windows-gamerip-2023/htgixkggqr/1.%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/coral-cove-windows-gamerip-2023/1.%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 5232394,
+      "filesize_mp3_bytes": 3554672,
+      "track_number": 2,
+      "title": "Coral Cove",
+      "runtime": 137,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/coral-cove-windows-gamerip-2023/hsfpkmnekc/2.%20Coral%20Cove.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/coral-cove-windows-gamerip-2023/hsfpkmnekc/2.%20Coral%20Cove.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/coral-cove-windows-gamerip-2023/2.%2520Coral%2520Cove.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 167772,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 3,
+      "title": "Quest Complete",
+      "runtime": 5,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/coral-cove-windows-gamerip-2023/ykcselufga/3.%20Quest%20Complete.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/coral-cove-windows-gamerip-2023/ykcselufga/3.%20Quest%20Complete.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/coral-cove-windows-gamerip-2023/3.%2520Quest%2520Complete.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 251658,
+      "filesize_mp3_bytes": 199229,
+      "track_number": 4,
+      "title": "Quest Failed",
+      "runtime": 9,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/coral-cove-windows-gamerip-2023/zmnhwjzmkj/4.%20Quest%20Failed.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/coral-cove-windows-gamerip-2023/zmnhwjzmkj/4.%20Quest%20Failed.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/coral-cove-windows-gamerip-2023/4.%2520Quest%2520Failed.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 240,
+    "filesize_mp3_bytes": 6385826,
+    "filesize_flac_bytes": 10548673,
+    "tracks": 4
+  }
+}

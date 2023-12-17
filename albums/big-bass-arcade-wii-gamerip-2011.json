@@ -1,0 +1,94 @@
+{
+  "title": "Big Bass Arcadeinfo",
+  "titles_alternative": [
+    "WiiWare"
+  ],
+  "crawled_at": "2023-12-17T14:02:39.798708+00:00",
+  "slug": "big-bass-arcade-wii-gamerip-2011",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/big-bass-arcade-wii-gamerip-2011",
+  "platforms": {
+    "Wii": "https://downloads.khinsider.com/game-soundtracks/nintendo-wii"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/big-bass-arcade-wii-gamerip-2011/coverart.jpg"
+  ],
+  "year": 2011,
+  "date_added": "2023-12-17T00:00:00+00:00",
+  "developers": {
+    "Digital Clay": "https://downloads.khinsider.com/game-soundtracks/developer/digital-clay"
+  },
+  "publishers": {
+    "Big John": "https://downloads.khinsider.com/game-soundtracks/publisher/big-john"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5945425,
+      "track_number": 1,
+      "title": "Fish3",
+      "runtime": 149,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/big-bass-arcade-wii-gamerip-2011/cwbnezsvyi/01.%20Fish3.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/big-bass-arcade-wii-gamerip-2011/01.%2520Fish3.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7182745,
+      "track_number": 2,
+      "title": "Fish4",
+      "runtime": 179,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/big-bass-arcade-wii-gamerip-2011/jldivjsaqc/02.%20Fish4.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/big-bass-arcade-wii-gamerip-2011/02.%2520Fish4.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1803550,
+      "track_number": 3,
+      "title": "Fishbite",
+      "runtime": 45,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/big-bass-arcade-wii-gamerip-2011/axwpzbnwky/03.%20Fishbite.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/big-bass-arcade-wii-gamerip-2011/03.%2520Fishbite.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3355443,
+      "track_number": 4,
+      "title": "Fishbite2",
+      "runtime": 84,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/big-bass-arcade-wii-gamerip-2011/udouqitwas/04.%20Fishbite2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/big-bass-arcade-wii-gamerip-2011/04.%2520Fishbite2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 283115,
+      "track_number": 5,
+      "title": "Fishlost",
+      "runtime": 7,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/big-bass-arcade-wii-gamerip-2011/xffpppfmkr/05.%20Fishlost.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/big-bass-arcade-wii-gamerip-2011/05.%2520Fishlost.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 325058,
+      "track_number": 6,
+      "title": "Fishwin",
+      "runtime": 8,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/big-bass-arcade-wii-gamerip-2011/xmkcqtyeus/06.%20Fishwin.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/big-bass-arcade-wii-gamerip-2011/06.%2520Fishwin.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 472,
+    "filesize_mp3_bytes": 18895336,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}
