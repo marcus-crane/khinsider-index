@@ -1,0 +1,52 @@
+{
+  "title": "Groggy Balldricinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-18T07:03:58.725680+00:00",
+  "slug": "groggy-balldric-atari-st-gamerip-1990",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/groggy-balldric-atari-st-gamerip-1990",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/groggy-balldric-atari-st-gamerip-1990/Groggy%20Balldric%20Title%20Screen.png"
+  ],
+  "year": 1990,
+  "date_added": "2023-12-18T00:00:00+00:00",
+  "developers": {
+    "Magnus Adolphzon": "https://downloads.khinsider.com/game-soundtracks/developer/magnus-adolphzon"
+  },
+  "publishers": {
+    "Magnus Adolphzon": "https://downloads.khinsider.com/game-soundtracks/publisher/magnus-adolphzon"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 325058,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 10,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/groggy-balldric-atari-st-gamerip-1990/nezheihaim/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/groggy-balldric-atari-st-gamerip-1990/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5096079,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 300,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/groggy-balldric-atari-st-gamerip-1990/vyfeqybnbk/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/groggy-balldric-atari-st-gamerip-1990/02.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 310,
+    "filesize_mp3_bytes": 5421137,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

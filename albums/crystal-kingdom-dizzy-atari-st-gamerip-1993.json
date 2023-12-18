@@ -1,0 +1,83 @@
+{
+  "title": "Crystal Kingdom Dizzyinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-18T07:03:36.217591+00:00",
+  "slug": "crystal-kingdom-dizzy-atari-st-gamerip-1993",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/crystal-kingdom-dizzy-atari-st-gamerip-1993",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/crystal-kingdom-dizzy-atari-st-gamerip-1993/Crystal%20Kingdom%20Dizzy%20Atari%20ST%20Cover.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2023-12-18T00:00:00+00:00",
+  "developers": {
+    "Reflective Designs": "https://downloads.khinsider.com/game-soundtracks/developer/reflective-designs",
+    "Synergy": "https://downloads.khinsider.com/game-soundtracks/developer/synergy"
+  },
+  "publishers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/publisher/codemasters"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 650117,
+      "track_number": 1,
+      "title": "Level Start",
+      "runtime": 8,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/crystal-kingdom-dizzy-atari-st-gamerip-1993/kqymxfdbww/01.%20Level%20Start.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/crystal-kingdom-dizzy-atari-st-gamerip-1993/01.%2520Level%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3690987,
+      "track_number": 2,
+      "title": "Level 1",
+      "runtime": 138,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/crystal-kingdom-dizzy-atari-st-gamerip-1993/gpqizyqmtv/02.%20Level%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/crystal-kingdom-dizzy-atari-st-gamerip-1993/02.%2520Level%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2631925,
+      "track_number": 3,
+      "title": "Level 2",
+      "runtime": 100,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/crystal-kingdom-dizzy-atari-st-gamerip-1993/poyiuzaiay/03.%20Level%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/crystal-kingdom-dizzy-atari-st-gamerip-1993/03.%2520Level%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2726297,
+      "track_number": 4,
+      "title": "Level 3",
+      "runtime": 96,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/crystal-kingdom-dizzy-atari-st-gamerip-1993/eghzxthgdn/04.%20Level%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/crystal-kingdom-dizzy-atari-st-gamerip-1993/04.%2520Level%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2548039,
+      "track_number": 5,
+      "title": "Level 4",
+      "runtime": 96,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/crystal-kingdom-dizzy-atari-st-gamerip-1993/hrxgxlwxeo/05.%20Level%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/crystal-kingdom-dizzy-atari-st-gamerip-1993/05.%2520Level%25204.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 438,
+    "filesize_mp3_bytes": 12247365,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

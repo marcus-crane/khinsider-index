@@ -1,0 +1,42 @@
+{
+  "title": "Head Coachinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-18T07:04:09.954375+00:00",
+  "slug": "head-coach-atari-st-gamerip-1988",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/head-coach-atari-st-gamerip-1988",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/head-coach-atari-st-gamerip-1988/Head%20Coach%20Title%20Screen.png"
+  ],
+  "year": 1988,
+  "date_added": "2023-12-18T00:00:00+00:00",
+  "developers": {
+    "Coda Software": "https://downloads.khinsider.com/game-soundtracks/developer/coda-software"
+  },
+  "publishers": {
+    "Qualsoft": "https://downloads.khinsider.com/game-soundtracks/publisher/qualsoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 450887,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 22,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/head-coach-atari-st-gamerip-1988/immtdrvoiq/01.%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/head-coach-atari-st-gamerip-1988/01.%2520Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 22,
+    "filesize_mp3_bytes": 450887,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

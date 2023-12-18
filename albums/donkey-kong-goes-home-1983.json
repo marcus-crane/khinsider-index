@@ -1,0 +1,93 @@
+{
+  "title": "Donkey Kong Goes Homeinfo",
+  "titles_alternative": [
+    "Donkey Kong"
+  ],
+  "crawled_at": "2023-12-18T07:03:38.376486+00:00",
+  "slug": "donkey-kong-goes-home-1983",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/donkey-kong-goes-home-1983",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/donkey-kong-goes-home-1983/cover.jpg"
+  ],
+  "year": 1983,
+  "catalog_number": "KSS-5037",
+  "date_added": "2023-12-18T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Kid Stuff Records": "https://downloads.khinsider.com/game-soundtracks/publisher/kid-stuff-records"
+  },
+  "genres": {
+    "Inspired By": "https://downloads.khinsider.com/game-soundtracks/inspired-by"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3376414,
+      "track_number": 1,
+      "title": "Donkey Kong Theme",
+      "runtime": 134,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/donkey-kong-goes-home-1983/iqtmnhxzrt/01.%20Donkey%20Kong%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/donkey-kong-goes-home-1983/01.%2520Donkey%2520Kong%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3753902,
+      "track_number": 2,
+      "title": "Jump Up",
+      "runtime": 152,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/donkey-kong-goes-home-1983/nseywndgyz/02.%20Jump%20Up.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/donkey-kong-goes-home-1983/02.%2520Jump%2520Up.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4037017,
+      "track_number": 3,
+      "title": "Mario Delivers",
+      "runtime": 162,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/donkey-kong-goes-home-1983/shqbfyjdfm/03.%20Mario%20Delivers.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/donkey-kong-goes-home-1983/03.%2520Mario%2520Delivers.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4655677,
+      "track_number": 4,
+      "title": "No More Zoo For You",
+      "runtime": 184,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/donkey-kong-goes-home-1983/hgifnqklcf/04.%20No%20More%20Zoo%20For%20You.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/donkey-kong-goes-home-1983/04.%2520No%2520More%2520Zoo%2520For%2520You.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3607101,
+      "track_number": 5,
+      "title": "On Top Of The World",
+      "runtime": 146,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/donkey-kong-goes-home-1983/ccxnzicvve/05.%20On%20Top%20Of%20The%20World.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/donkey-kong-goes-home-1983/05.%2520On%2520Top%2520Of%2520The%2520World.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4865392,
+      "track_number": 6,
+      "title": "The Climber",
+      "runtime": 203,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/donkey-kong-goes-home-1983/leoswlhduu/06.%20The%20Climber.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/donkey-kong-goes-home-1983/06.%2520The%2520Climber.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 981,
+    "filesize_mp3_bytes": 24295503,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}
