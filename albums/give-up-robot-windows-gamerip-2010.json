@@ -1,0 +1,64 @@
+{
+  "title": "Give Up Robotinfo",
+  "titles_alternative": [
+    "Give Up, Robot"
+  ],
+  "crawled_at": "2023-12-19T07:03:51.406366+00:00",
+  "slug": "give-up-robot-windows-gamerip-2010",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/give-up-robot-windows-gamerip-2010",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/give-up-robot-windows-gamerip-2010/Give_Up_Robot.png"
+  ],
+  "year": 2010,
+  "date_added": "2023-12-19T00:00:00+00:00",
+  "developers": {
+    "Matt Thorson": "https://downloads.khinsider.com/game-soundtracks/developer/matt-thorson"
+  },
+  "publishers": {
+    "Matt Thorson": "https://downloads.khinsider.com/game-soundtracks/publisher/matt-thorson"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1478492,
+      "track_number": 1,
+      "title": "Game",
+      "runtime": 184,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/give-up-robot-windows-gamerip-2010/badnfyflss/01.%20Game.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/give-up-robot-windows-gamerip-2010/01.%2520Game.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 220200,
+      "track_number": 2,
+      "title": "Intro",
+      "runtime": 27,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/give-up-robot-windows-gamerip-2010/viekdnqkdy/02.%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/give-up-robot-windows-gamerip-2010/02.%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 3,
+      "title": "Menu",
+      "runtime": 7,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/give-up-robot-windows-gamerip-2010/wrjlemcybj/03.%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/give-up-robot-windows-gamerip-2010/03.%2520Menu.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 218,
+    "filesize_mp3_bytes": 1761606,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Ghost Mineinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-19T07:03:50.801412+00:00",
+  "slug": "ghost-mine-atari-st-gamerip-1990",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ghost-mine-atari-st-gamerip-1990",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/ghost-mine-atari-st-gamerip-1990/Ghost%20Mine%20Title%20Screen.png"
+  ],
+  "year": 1990,
+  "date_added": "2023-12-19T00:00:00+00:00",
+  "developers": {
+    "Albert Baggetta": "https://downloads.khinsider.com/game-soundtracks/developer/albert-baggetta"
+  },
+  "publishers": {
+    "Albert Baggetta": "https://downloads.khinsider.com/game-soundtracks/publisher/albert-baggetta"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 199229,
+      "track_number": 1,
+      "title": "Theme",
+      "runtime": 10,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/ghost-mine-atari-st-gamerip-1990/wfqvfzwbuf/01.%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ghost-mine-atari-st-gamerip-1990/01.%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 10,
+    "filesize_mp3_bytes": 199229,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

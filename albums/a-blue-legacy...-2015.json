@@ -1,0 +1,43 @@
+{
+  "title": "A Blue Legacy...info",
+  "titles_alternative": [
+    "A Blue Legacy"
+  ],
+  "crawled_at": "2023-12-19T07:01:12.298445+00:00",
+  "slug": "a-blue-legacy...-2015",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/a-blue-legacy...-2015",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/a-blue-legacy...-2015/folder.jpg"
+  ],
+  "year": 2015,
+  "date_added": "2023-12-19T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "ThePlasmas": "https://downloads.khinsider.com/game-soundtracks/publisher/theplasmas"
+  },
+  "genres": {
+    "Remix": "https://downloads.khinsider.com/game-soundtracks/remixes"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 241906483,
+      "filesize_mp3_bytes": 38052823,
+      "track_number": 1,
+      "title": "A Blue Legacy",
+      "runtime": 1109,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/a-blue-legacy...-2015/certuyrqfz/01.%20A%20Blue%20Legacy.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/a-blue-legacy...-2015/certuyrqfz/01.%20A%20Blue%20Legacy.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/a-blue-legacy...-2015/01.%2520A%2520Blue%2520Legacy.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1109,
+    "filesize_mp3_bytes": 38052823,
+    "filesize_flac_bytes": 241906483,
+    "tracks": 1
+  }
+}

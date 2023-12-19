@@ -1,0 +1,43 @@
+{
+  "title": "Lords of Uberdarkinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-19T07:05:05.902205+00:00",
+  "slug": "lords-of-uberdark-windows-gamerip-2011",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/lords-of-uberdark-windows-gamerip-2011",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/lords-of-uberdark-windows-gamerip-2011/UberdarkLogo.webp"
+  ],
+  "year": 2011,
+  "catalog_number": null,
+  "date_added": "2023-12-19T00:00:00+00:00",
+  "developers": {
+    "Aaron Bishop": "https://downloads.khinsider.com/game-soundtracks/developer/aaron-bishop"
+  },
+  "publishers": {
+    "Aaron Bishop": "https://downloads.khinsider.com/game-soundtracks/publisher/aaron-bishop"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2810183,
+      "track_number": 4,
+      "title": "Title",
+      "runtime": 96,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/lords-of-uberdark-windows-gamerip-2011/vqvraredcm/04.%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lords-of-uberdark-windows-gamerip-2011/04.%2520Title.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 96,
+    "filesize_mp3_bytes": 2810183,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

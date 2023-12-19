@@ -1,0 +1,82 @@
+{
+  "title": "Dizzy Down the Rapidsinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-19T07:03:14.186802+00:00",
+  "slug": "dizzy-down-the-rapids-commodore-64-gamerip-1992",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dizzy-down-the-rapids-commodore-64-gamerip-1992",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/dizzy-down-the-rapids-commodore-64-gamerip-1992/Dizzy%20Down%20the%20Rapids%20C64%20Cover.jpg"
+  ],
+  "year": 1992,
+  "date_added": "2023-12-19T00:00:00+00:00",
+  "developers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/developer/codemasters"
+  },
+  "publishers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/publisher/codemasters"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2684354,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 131,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/dizzy-down-the-rapids-commodore-64-gamerip-1992/izwjyqpcir/01.%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dizzy-down-the-rapids-commodore-64-gamerip-1992/01.%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 660602,
+      "track_number": 2,
+      "title": "Ready 1",
+      "runtime": 4,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/dizzy-down-the-rapids-commodore-64-gamerip-1992/weltblgces/02.%20Ready%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dizzy-down-the-rapids-commodore-64-gamerip-1992/02.%2520Ready%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 639631,
+      "track_number": 3,
+      "title": "Well Done - Level Complete",
+      "runtime": 3,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/dizzy-down-the-rapids-commodore-64-gamerip-1992/dhgieeljjs/03.%20Well%20Done%20-%20Level%20Complete.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dizzy-down-the-rapids-commodore-64-gamerip-1992/03.%2520Well%2520Done%2520-%2520Level%2520Complete.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 660602,
+      "track_number": 4,
+      "title": "Ready 2",
+      "runtime": 4,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/dizzy-down-the-rapids-commodore-64-gamerip-1992/yubjasjsdw/04.%20Ready%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dizzy-down-the-rapids-commodore-64-gamerip-1992/04.%2520Ready%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 723517,
+      "track_number": 5,
+      "title": "Well Done - Mission Complete",
+      "runtime": 8,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/dizzy-down-the-rapids-commodore-64-gamerip-1992/qywohnbgon/05.%20Well%20Done%20-%20Mission%20Complete.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dizzy-down-the-rapids-commodore-64-gamerip-1992/05.%2520Well%2520Done%2520-%2520Mission%2520Complete.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 150,
+    "filesize_mp3_bytes": 5368706,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}
