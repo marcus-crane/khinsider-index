@@ -1,0 +1,42 @@
+{
+  "title": "Tiny Wingsinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-20T21:02:23.153309+00:00",
+  "slug": "tiny-wings-ios-mobile-gamerip-2011",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tiny-wings-ios-mobile-gamerip-2011",
+  "platforms": {
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios",
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/tiny-wings-ios-mobile-gamerip-2011/Tiny-wings-icon.jpg"
+  ],
+  "year": 2011,
+  "date_added": "2023-12-20T00:00:00+00:00",
+  "developers": {
+    "Andreas Illiger": "https://downloads.khinsider.com/game-soundtracks/developer/andreas-illiger"
+  },
+  "publishers": {
+    "Andreas Illiger": "https://downloads.khinsider.com/game-soundtracks/publisher/andreas-illiger"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9038725,
+      "title": "Tiny Wings Theme",
+      "runtime": 214,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/tiny-wings-ios-mobile-gamerip-2011/ptfyvxbooz/Tiny%20Wings%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tiny-wings-ios-mobile-gamerip-2011/Tiny%2520Wings%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 214,
+    "filesize_mp3_bytes": 9038725,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}
