@@ -1,0 +1,67 @@
+{
+  "title": "Tiny Thorinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-22T14:05:19.543700+00:00",
+  "slug": "tiny-thor-2023",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tiny-thor-2023",
+  "platforms": {
+    "Switch": "https://downloads.khinsider.com/game-soundtracks/nintendo-switch",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/tiny-thor-2023/cover.jpg"
+  ],
+  "year": 2023,
+  "catalog_number": null,
+  "date_added": "2023-12-22T00:00:00+00:00",
+  "developers": {
+    "Asylum Square": "https://downloads.khinsider.com/game-soundtracks/developer/asylum-square"
+  },
+  "publishers": {
+    "Gameforge": "https://downloads.khinsider.com/game-soundtracks/publisher/gameforge"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 6469713,
+      "filesize_mp3_bytes": 2139095,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 62,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/tiny-thor-2023/gywjnvqwsr/01.%20Intro.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/tiny-thor-2023/gywjnvqwsr/01.%20Intro.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tiny-thor-2023/01.%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 13610516,
+      "filesize_mp3_bytes": 4215275,
+      "track_number": 3,
+      "title": "Choose Your Path",
+      "runtime": 137,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/tiny-thor-2023/gnwxfvtxjj/03.%20Choose%20Your%20Path.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/tiny-thor-2023/gnwxfvtxjj/03.%20Choose%20Your%20Path.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tiny-thor-2023/03.%2520Choose%2520Your%2520Path.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 15655239,
+      "filesize_mp3_bytes": 4435476,
+      "track_number": 25,
+      "title": "Quantum Knights Theme (Bonus Track)",
+      "runtime": 132,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/tiny-thor-2023/uusjxkiodd/25.%20Quantum%20Knights%20Theme%20%28Bonus%20Track%29.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/tiny-thor-2023/uusjxkiodd/25.%20Quantum%20Knights%20Theme%20%28Bonus%20Track%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tiny-thor-2023/25.%2520Quantum%2520Knights%2520Theme%2520%2528Bonus%2520Track%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 331,
+    "filesize_mp3_bytes": 10789846,
+    "filesize_flac_bytes": 35735468,
+    "tracks": 3
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "title": "Necrosmithinfo",
+  "titles_alternative": [
+    "Necrosmith Original Soundtrack"
+  ],
+  "crawled_at": "2023-12-22T14:03:50.493608+00:00",
+  "slug": "necrosmith-2022",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/necrosmith-2022",
+  "platforms": {
+    "PS5": "https://downloads.khinsider.com/game-soundtracks/playstation-5",
+    "Switch": "https://downloads.khinsider.com/game-soundtracks/nintendo-switch",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/necrosmith-2022/Necrosmith%20%28Cover%29.jpg"
+  ],
+  "year": 2022,
+  "catalog_number": null,
+  "date_added": "2023-12-22T00:00:00+00:00",
+  "developers": {
+    "Alawar Entertainment": "https://downloads.khinsider.com/game-soundtracks/developer/alawar-entertainment"
+  },
+  "publishers": {
+    "Alawar Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/alawar-entertainment"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 17542676,
+      "filesize_mp3_bytes": 3365928,
+      "track_number": 1,
+      "title": "A Little Bit of Peace",
+      "runtime": 117,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/necrosmith-2022/nvdakcrzkd/01.%20A%20Little%20Bit%20of%20Peace.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/necrosmith-2022/nvdakcrzkd/01.%20A%20Little%20Bit%20of%20Peace.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/necrosmith-2022/01.%2520A%2520Little%2520Bit%2520of%2520Peace.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10412359,
+      "filesize_mp3_bytes": 1740636,
+      "track_number": 2,
+      "title": "Be Careful",
+      "runtime": 60,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/necrosmith-2022/zfdbugbacv/02.%20Be%20Careful.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/necrosmith-2022/zfdbugbacv/02.%20Be%20Careful.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/necrosmith-2022/02.%2520Be%2520Careful.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 19084083,
+      "filesize_mp3_bytes": 3544186,
+      "track_number": 3,
+      "title": "Experiment Field",
+      "runtime": 120,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/necrosmith-2022/btuxsypvak/03.%20Experiment%20Field.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/necrosmith-2022/btuxsypvak/03.%20Experiment%20Field.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/necrosmith-2022/03.%2520Experiment%2520Field.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 18255708,
+      "filesize_mp3_bytes": 3533701,
+      "track_number": 4,
+      "title": "Medieval Sun",
+      "runtime": 121,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/necrosmith-2022/hfunhjmhlg/04.%20Medieval%20Sun.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/necrosmith-2022/hfunhjmhlg/04.%20Medieval%20Sun.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/necrosmith-2022/04.%2520Medieval%2520Sun.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20499660,
+      "filesize_mp3_bytes": 3774873,
+      "track_number": 5,
+      "title": "Unliving Anthem",
+      "runtime": 120,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/necrosmith-2022/qezpwslnmp/05.%20Unliving%20Anthem.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/necrosmith-2022/qezpwslnmp/05.%20Unliving%20Anthem.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/necrosmith-2022/05.%2520Unliving%2520Anthem.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 538,
+    "filesize_mp3_bytes": 15959324,
+    "filesize_flac_bytes": 85794486,
+    "tracks": 5
+  }
+}
