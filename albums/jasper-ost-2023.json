@@ -1,0 +1,92 @@
+{
+  "title": "Jasper OSTinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-24T07:01:30.543178+00:00",
+  "slug": "jasper-ost-2023",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/jasper-ost-2023",
+  "platforms": {
+    "Linux": "https://downloads.khinsider.com/game-soundtracks/linux",
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/jasper-ost-2023/Player2.png"
+  ],
+  "year": 2023,
+  "date_added": "2023-12-24T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "LightningSoft": "https://downloads.khinsider.com/game-soundtracks/publisher/lightningsoft"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2799697,
+      "track_number": 1,
+      "title": "Electric Booga-Flippin-Loo",
+      "runtime": 140,
+      "source_mp3": "https://vgmsite.com/soundtracks/jasper-ost-2023/umermusyti/01.%20Electric%20Booga-Flippin-Loo.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jasper-ost-2023/01.%2520Electric%2520Booga-Flippin-Loo.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7843348,
+      "track_number": 2,
+      "title": "Get Out (Jasper)",
+      "runtime": 245,
+      "source_mp3": "https://vgmsite.com/soundtracks/jasper-ost-2023/aftzknsxzx/02.%20Get%20Out%20%28Jasper%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jasper-ost-2023/02.%2520Get%2520Out%2520%2528Jasper%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5001707,
+      "track_number": 3,
+      "title": "Run Right Now!",
+      "runtime": 250,
+      "source_mp3": "https://vgmsite.com/soundtracks/jasper-ost-2023/nsgouctjuo/03.%20Run%20Right%20Now%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jasper-ost-2023/03.%2520Run%2520Right%2520Now%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7591690,
+      "track_number": 4,
+      "title": "The End Is Near",
+      "runtime": 190,
+      "source_mp3": "https://vgmsite.com/soundtracks/jasper-ost-2023/aiutkyvrhb/04.%20The%20End%20Is%20Near.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jasper-ost-2023/04.%2520The%2520End%2520Is%2520Near.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3502243,
+      "track_number": 5,
+      "title": "The Smeggin End",
+      "runtime": 128,
+      "source_mp3": "https://vgmsite.com/soundtracks/jasper-ost-2023/oeigujzfgw/05.%20The%20Smeggin%20End.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jasper-ost-2023/05.%2520The%2520Smeggin%2520End.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6710886,
+      "track_number": 6,
+      "title": "Theme (2)",
+      "runtime": 209,
+      "source_mp3": "https://vgmsite.com/soundtracks/jasper-ost-2023/gctsalxzzk/06.%20Theme%20%282%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jasper-ost-2023/06.%2520Theme%2520%25282%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1162,
+    "filesize_mp3_bytes": 33449571,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}
