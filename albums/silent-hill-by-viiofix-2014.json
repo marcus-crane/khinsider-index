@@ -1,0 +1,41 @@
+{
+  "title": "Silent Hill [By VIIOFIX]info",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-25T14:03:11.585151+00:00",
+  "slug": "silent-hill-by-viiofix-2014",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/silent-hill-by-viiofix-2014",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/silent-hill-by-viiofix-2014/cover.jpg"
+  ],
+  "year": 2014,
+  "date_added": "2023-12-25T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "VIIOFIX": "https://downloads.khinsider.com/game-soundtracks/publisher/viiofix"
+  },
+  "genres": {
+    "Remix": "https://downloads.khinsider.com/game-soundtracks/remixes"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 27304919,
+      "filesize_mp3_bytes": 10454302,
+      "track_number": 1,
+      "title": "Silent Hill",
+      "runtime": 377,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/silent-hill-by-viiofix-2014/mpccspukps/01.%20Silent%20Hill.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/silent-hill-by-viiofix-2014/mpccspukps/01.%20Silent%20Hill.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/silent-hill-by-viiofix-2014/01.%2520Silent%2520Hill.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 377,
+    "filesize_mp3_bytes": 10454302,
+    "filesize_flac_bytes": 27304919,
+    "tracks": 1
+  }
+}
