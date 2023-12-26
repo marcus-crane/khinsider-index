@@ -1,0 +1,81 @@
+{
+  "title": "Tilt to Liveinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-26T14:04:55.457955+00:00",
+  "slug": "tilt-to-live-2010",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tilt-to-live-2010",
+  "platforms": {
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/tilt-to-live-2010/Tilt_to_Live%20Cover.png"
+  ],
+  "year": 2010,
+  "catalog_number": null,
+  "date_added": "2023-12-26T00:00:00+00:00",
+  "developers": {
+    "One Man Left": "https://downloads.khinsider.com/game-soundtracks/developer/one-man-left"
+  },
+  "publishers": {},
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3460300,
+      "track_number": 1,
+      "title": "Viva La Turret!",
+      "runtime": 192,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/tilt-to-live-2010/eueizxdzjw/01.%20Viva%20La%20Turret%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tilt-to-live-2010/01.%2520Viva%2520La%2520Turret%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2285895,
+      "track_number": 2,
+      "title": "Mambolicious",
+      "runtime": 119,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/tilt-to-live-2010/wsunwvwfrm/02.%20Mambolicious.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tilt-to-live-2010/02.%2520Mambolicious.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2380267,
+      "track_number": 3,
+      "title": "Frostbite",
+      "runtime": 125,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/tilt-to-live-2010/wsmogetuyx/03.%20Frostbite.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tilt-to-live-2010/03.%2520Frostbite.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3040870,
+      "track_number": 4,
+      "title": "French Fried",
+      "runtime": 166,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/tilt-to-live-2010/fpazkwslyu/04.%20French%20Fried.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tilt-to-live-2010/04.%2520French%2520Fried.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3145728,
+      "track_number": 5,
+      "title": "Code Red",
+      "runtime": 173,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/tilt-to-live-2010/gqijznfoze/05.%20Code%20Red.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tilt-to-live-2010/05.%2520Code%2520Red.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 775,
+    "filesize_mp3_bytes": 14313060,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}
