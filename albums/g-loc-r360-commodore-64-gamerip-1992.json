@@ -1,0 +1,45 @@
+{
+  "title": "G-LOC: R360info",
+  "titles_alternative": [
+    "G-LOC: Air Battle"
+  ],
+  "crawled_at": "2023-12-27T21:01:48.186036+00:00",
+  "slug": "g-loc-r360-commodore-64-gamerip-1992",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/g-loc-r360-commodore-64-gamerip-1992",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/g-loc-r360-commodore-64-gamerip-1992/G-LOC%20C64%20Cover.jpg"
+  ],
+  "year": 1992,
+  "date_added": "2023-12-27T00:00:00+00:00",
+  "developers": {
+    "Images Software": "https://downloads.khinsider.com/game-soundtracks/developer/images-software",
+    "Sega": "https://downloads.khinsider.com/game-soundtracks/developer/sega"
+  },
+  "publishers": {
+    "U.S. Gold": "https://downloads.khinsider.com/game-soundtracks/publisher/u.s.-gold"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1237319,
+      "track_number": 1,
+      "title": "Opening Titles",
+      "runtime": 29,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/g-loc-r360-commodore-64-gamerip-1992/wkqtcijmft/01%20Opening%20Titles.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/g-loc-r360-commodore-64-gamerip-1992/01%2520Opening%2520Titles.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 29,
+    "filesize_mp3_bytes": 1237319,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Milk Shakeinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-27T21:02:00.491128+00:00",
+  "slug": "milk-shake-online-gamerip-2007",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/milk-shake-online-gamerip-2007",
+  "platforms": {
+    "Online": "https://downloads.khinsider.com/game-soundtracks/online"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/milk-shake-online-gamerip-2007/Cover.png"
+  ],
+  "year": 2007,
+  "date_added": "2023-12-27T00:00:00+00:00",
+  "developers": {
+    "Silent Bay Studios": "https://downloads.khinsider.com/game-soundtracks/developer/silent-bay-studios"
+  },
+  "publishers": {
+    "Miniclip": "https://downloads.khinsider.com/game-soundtracks/publisher/miniclip"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 534773,
+      "title": "Base",
+      "runtime": 44,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/milk-shake-online-gamerip-2007/zbpdnevklw/Base.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/milk-shake-online-gamerip-2007/Base.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 20971,
+      "title": "Jingle",
+      "runtime": 8,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/milk-shake-online-gamerip-2007/oiazyduptw/Jingle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/milk-shake-online-gamerip-2007/Jingle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 31457,
+      "title": "Main Menu",
+      "runtime": 15,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/milk-shake-online-gamerip-2007/nzbeszpstk/Main%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/milk-shake-online-gamerip-2007/Main%2520Menu.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 67,
+    "filesize_mp3_bytes": 587201,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

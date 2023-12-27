@@ -1,0 +1,59 @@
+{
+  "title": "Power Boatinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-27T21:02:22.195829+00:00",
+  "slug": "power-boat-online-gamerip-2006",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/power-boat-online-gamerip-2006",
+  "platforms": {
+    "Online": "https://downloads.khinsider.com/game-soundtracks/online"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/power-boat-online-gamerip-2006/Cover.png"
+  ],
+  "year": 2006,
+  "date_added": "2023-12-27T00:00:00+00:00",
+  "developers": {
+    "Silent Bay Studios": "https://downloads.khinsider.com/game-soundtracks/developer/silent-bay-studios"
+  },
+  "publishers": {
+    "Miniclip": "https://downloads.khinsider.com/game-soundtracks/publisher/miniclip"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 450887,
+      "title": "Base",
+      "runtime": 39,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/power-boat-online-gamerip-2006/uzgmneafra/Base.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/power-boat-online-gamerip-2006/Base.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10485,
+      "title": "Jingle",
+      "runtime": 7,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/power-boat-online-gamerip-2006/grczrpvttc/Jingle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/power-boat-online-gamerip-2006/Jingle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 20971,
+      "title": "Main Menu",
+      "runtime": 13,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/power-boat-online-gamerip-2006/tjesfxfswm/Main%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/power-boat-online-gamerip-2006/Main%2520Menu.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 59,
+    "filesize_mp3_bytes": 482343,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

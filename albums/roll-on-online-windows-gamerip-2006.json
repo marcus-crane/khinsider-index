@@ -1,0 +1,52 @@
+{
+  "title": "Roll Oninfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-27T21:02:23.862867+00:00",
+  "slug": "roll-on-online-windows-gamerip-2006",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/roll-on-online-windows-gamerip-2006",
+  "platforms": {
+    "Online": "https://downloads.khinsider.com/game-soundtracks/online",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/roll-on-online-windows-gamerip-2006/Cover.png"
+  ],
+  "year": 2006,
+  "date_added": "2023-12-27T00:00:00+00:00",
+  "developers": {
+    "Catalyst Pictures": "https://downloads.khinsider.com/game-soundtracks/developer/catalyst-pictures"
+  },
+  "publishers": {
+    "ArcadeTown": "https://downloads.khinsider.com/game-soundtracks/publisher/arcadetown",
+    "Miniclip": "https://downloads.khinsider.com/game-soundtracks/publisher/miniclip"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 304087,
+      "title": "Base",
+      "runtime": 21,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/roll-on-online-windows-gamerip-2006/yekkkutdqe/Base.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/roll-on-online-windows-gamerip-2006/Base.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 31457,
+      "title": "Neodelight",
+      "runtime": 9,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/roll-on-online-windows-gamerip-2006/crdessqats/Neodelight.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/roll-on-online-windows-gamerip-2006/Neodelight.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 30,
+    "filesize_mp3_bytes": 335544,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

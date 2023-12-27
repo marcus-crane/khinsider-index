@@ -1,0 +1,68 @@
+{
+  "title": "Aqua Energizerinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-27T21:01:23.591200+00:00",
+  "slug": "aqua-energizer-online-gamerip-2002",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/aqua-energizer-online-gamerip-2002",
+  "platforms": {
+    "Online": "https://downloads.khinsider.com/game-soundtracks/online"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/aqua-energizer-online-gamerip-2002/Cover.png"
+  ],
+  "year": 2002,
+  "date_added": "2023-12-27T00:00:00+00:00",
+  "developers": {
+    "UseLab": "https://downloads.khinsider.com/game-soundtracks/developer/uselab"
+  },
+  "publishers": {
+    "Miniclip": "https://downloads.khinsider.com/game-soundtracks/publisher/miniclip"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 20971,
+      "title": "Loop 1",
+      "runtime": 3,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/aqua-energizer-online-gamerip-2002/oeungwvjyu/Loop%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/aqua-energizer-online-gamerip-2002/Loop%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 31457,
+      "title": "Loop 2",
+      "runtime": 7,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/aqua-energizer-online-gamerip-2002/fdkfswxxgf/Loop%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/aqua-energizer-online-gamerip-2002/Loop%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 31457,
+      "title": "Menu Loop",
+      "runtime": 7,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/aqua-energizer-online-gamerip-2002/ntaonosdbo/Menu%20Loop.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/aqua-energizer-online-gamerip-2002/Menu%2520Loop.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 20971,
+      "title": "Start Level",
+      "runtime": 2,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/aqua-energizer-online-gamerip-2002/wnsgohyjbp/Start%20Level.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/aqua-energizer-online-gamerip-2002/Start%2520Level.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 19,
+    "filesize_mp3_bytes": 104856,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}
