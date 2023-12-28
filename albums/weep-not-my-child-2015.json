@@ -1,0 +1,43 @@
+{
+  "title": "Weep not, my childinfo",
+  "titles_alternative": [
+    "Starbound"
+  ],
+  "crawled_at": "2023-12-28T14:15:59.830449+00:00",
+  "slug": "weep-not-my-child-2015",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/weep-not-my-child-2015",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://dl.vgmdownloads.com/soundtracks/weep-not-my-child-2015/a3069480032_10.jpg"
+  ],
+  "year": 2015,
+  "date_added": "2023-12-28T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Curtis Schweitzer Music": "https://downloads.khinsider.com/game-soundtracks/publisher/curtis-schweitzer-music"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 71900856,
+      "filesize_mp3_bytes": 12341739,
+      "track_number": 1,
+      "title": "Curtis Schweitzer - Weep not, my child",
+      "runtime": 413,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/weep-not-my-child-2015/dxhxfabeeu/01.%20Curtis%20Schweitzer%20-%20Weep%20not%2C%20my%20child.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/weep-not-my-child-2015/dxhxfabeeu/01.%20Curtis%20Schweitzer%20-%20Weep%20not%2C%20my%20child.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/weep-not-my-child-2015/01.%2520Curtis%2520Schweitzer%2520-%2520Weep%2520not%252C%2520my%2520child.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 413,
+    "filesize_mp3_bytes": 12341739,
+    "filesize_flac_bytes": 71900856,
+    "tracks": 1
+  }
+}

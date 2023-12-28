@@ -1,0 +1,72 @@
+{
+  "title": "Super Grand Prixinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-28T14:15:04.385853+00:00",
+  "slug": "super-grand-prix-atari-st-gamerip-1991",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/super-grand-prix-atari-st-gamerip-1991",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/super-grand-prix-atari-st-gamerip-1991/Super%20Grand%20Prix%20Atari%20ST%20Cover.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2023-12-28T00:00:00+00:00",
+  "developers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/developer/codemasters"
+  },
+  "publishers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/publisher/codemasters"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 734003,
+      "track_number": 1,
+      "title": "Main Menu",
+      "runtime": 31,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/super-grand-prix-atari-st-gamerip-1991/rdcxzwvjhy/01.%20Main%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-grand-prix-atari-st-gamerip-1991/01.%2520Main%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 251658,
+      "track_number": 2,
+      "title": "Select Vehicle",
+      "runtime": 4,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/super-grand-prix-atari-st-gamerip-1991/jwlnyjaerv/02.%20Select%20Vehicle.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-grand-prix-atari-st-gamerip-1991/02.%2520Select%2520Vehicle.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 241172,
+      "track_number": 3,
+      "title": "Results",
+      "runtime": 4,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/super-grand-prix-atari-st-gamerip-1991/zykkxmuwsm/03.%20Results.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-grand-prix-atari-st-gamerip-1991/03.%2520Results.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1824522,
+      "track_number": 4,
+      "title": "Unused (Title Screen)",
+      "runtime": 77,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/super-grand-prix-atari-st-gamerip-1991/gdvoorkinl/04.%20Unused%20%28Title%20Screen%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-grand-prix-atari-st-gamerip-1991/04.%2520Unused%2520%2528Title%2520Screen%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 116,
+    "filesize_mp3_bytes": 3051355,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

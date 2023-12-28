@@ -1,0 +1,82 @@
+{
+  "title": "Themisinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-28T14:15:45.948670+00:00",
+  "slug": "themis-2000",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/themis-2000",
+  "platforms": {
+    "PC-98": "https://downloads.khinsider.com/game-soundtracks/pc-9801",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://dl.vgmdownloads.com/soundtracks/themis-2000/Back.jpg"
+  ],
+  "year": 2000,
+  "catalog_number": "WDCD-0017",
+  "date_added": "2023-12-28T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Woodsoft": "https://downloads.khinsider.com/game-soundtracks/publisher/woodsoft"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9133096,
+      "track_number": 1,
+      "title": "Melancholy Girl (\u5f7c\u5973\u306e\u6182\u9b31)",
+      "runtime": 281,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/themis-2000/tlknncqvzb/01.%20Melancholy%20Girl%20%28%E5%BD%BC%E5%A5%B3%E3%81%AE%E6%86%82%E9%AC%B1%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/themis-2000/01.%2520Melancholy%2520Girl%2520%2528%25E5%25BD%25BC%25E5%25A5%25B3%25E3%2581%25AE%25E6%2586%2582%25E9%25AC%25B1%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9437184,
+      "track_number": 2,
+      "title": "Bird's Poem (\u9ce5\u306e\u8a69)",
+      "runtime": 300,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/themis-2000/zomadncpbb/02.%20Bird%27s%20Poem%20%28%E9%B3%A5%E3%81%AE%E8%A9%A9%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/themis-2000/02.%2520Bird%2527s%2520Poem%2520%2528%25E9%25B3%25A5%25E3%2581%25AE%25E8%25A9%25A9%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5976883,
+      "track_number": 3,
+      "title": "FILL YOU",
+      "runtime": 203,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/themis-2000/xuqqkkiwjd/03.%20FILL%20YOU.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/themis-2000/03.%2520FILL%2520YOU.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4896849,
+      "track_number": 4,
+      "title": "Ted (\u30c6\u30c3\u30c9)",
+      "runtime": 155,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/themis-2000/xkttpplstd/04.%20Ted%20%28%E3%83%86%E3%83%83%E3%83%89%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/themis-2000/04.%2520Ted%2520%2528%25E3%2583%2586%25E3%2583%2583%25E3%2583%2589%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6438256,
+      "track_number": 5,
+      "title": "Farewell song",
+      "runtime": 215,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/themis-2000/oesboirshe/05.%20Farewell%20song.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/themis-2000/05.%2520Farewell%2520song.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1154,
+    "filesize_mp3_bytes": 35882268,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

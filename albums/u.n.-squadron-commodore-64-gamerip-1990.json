@@ -1,0 +1,65 @@
+{
+  "title": "U.N. Squadroninfo",
+  "titles_alternative": [
+    "Area 88",
+    "\u30a8\u30ea\u30a2\uff18\uff18"
+  ],
+  "crawled_at": "2023-12-28T14:15:53.777678+00:00",
+  "slug": "u.n.-squadron-commodore-64-gamerip-1990",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/u.n.-squadron-commodore-64-gamerip-1990",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://dl.vgmdownloads.com/soundtracks/u.n.-squadron-commodore-64-gamerip-1990/U.N.%20Squadron%20C64%20Cover.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2023-12-28T00:00:00+00:00",
+  "developers": {
+    "Capcom": "https://downloads.khinsider.com/game-soundtracks/developer/capcom"
+  },
+  "publishers": {
+    "U.S. Gold": "https://downloads.khinsider.com/game-soundtracks/publisher/u.s.-gold"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1373634,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 70,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/u.n.-squadron-commodore-64-gamerip-1990/iptroxmcvp/01.%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/u.n.-squadron-commodore-64-gamerip-1990/01.%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1090519,
+      "track_number": 2,
+      "title": "Player Select",
+      "runtime": 52,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/u.n.-squadron-commodore-64-gamerip-1990/wvfgvsdxgs/02.%20Player%20Select.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/u.n.-squadron-commodore-64-gamerip-1990/02.%2520Player%2520Select.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 545259,
+      "track_number": 3,
+      "title": "Shop",
+      "runtime": 18,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/u.n.-squadron-commodore-64-gamerip-1990/xlanakrirl/03.%20Shop.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/u.n.-squadron-commodore-64-gamerip-1990/03.%2520Shop.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 140,
+    "filesize_mp3_bytes": 3009412,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

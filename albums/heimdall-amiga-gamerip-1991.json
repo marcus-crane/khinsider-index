@@ -1,0 +1,83 @@
+{
+  "title": "Heimdallinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-28T14:08:24.116427+00:00",
+  "slug": "heimdall-amiga-gamerip-1991",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/heimdall-amiga-gamerip-1991",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/heimdall-amiga-gamerip-1991/Heimdall%20Amiga%20Cover%201.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2023-12-28T00:00:00+00:00",
+  "developers": {
+    "The 8th Day": "https://downloads.khinsider.com/game-soundtracks/developer/the-8th-day"
+  },
+  "publishers": {
+    "Core Design": "https://downloads.khinsider.com/game-soundtracks/publisher/core-design",
+    "Virgin": "https://downloads.khinsider.com/game-soundtracks/publisher/virgin"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2338324,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 134,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/heimdall-amiga-gamerip-1991/wpzubvdgxt/01.%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/heimdall-amiga-gamerip-1991/01.%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3376414,
+      "track_number": 2,
+      "title": "Title",
+      "runtime": 199,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/heimdall-amiga-gamerip-1991/gxzzlinyka/02.%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/heimdall-amiga-gamerip-1991/02.%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 325058,
+      "track_number": 3,
+      "title": "Cheers",
+      "runtime": 8,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/heimdall-amiga-gamerip-1991/xqbrthdwin/03.%20Cheers.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/heimdall-amiga-gamerip-1991/03.%2520Cheers.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 450887,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 16,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/heimdall-amiga-gamerip-1991/bansetycet/04.%20Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/heimdall-amiga-gamerip-1991/04.%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1184890,
+      "track_number": 5,
+      "title": "End Tune",
+      "runtime": 62,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/heimdall-amiga-gamerip-1991/qrsdyxsljh/05.%20End%20Tune.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/heimdall-amiga-gamerip-1991/05.%2520End%2520Tune.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 419,
+    "filesize_mp3_bytes": 7675573,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

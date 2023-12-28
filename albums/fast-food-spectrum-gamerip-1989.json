@@ -1,0 +1,75 @@
+{
+  "title": "Fast Foodinfo",
+  "titles_alternative": [
+    "Fast Food Dizzy"
+  ],
+  "crawled_at": "2023-12-28T14:06:29.714266+00:00",
+  "slug": "fast-food-spectrum-gamerip-1989",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/fast-food-spectrum-gamerip-1989",
+  "platforms": {
+    "Spectrum": "https://downloads.khinsider.com/game-soundtracks/spectrum"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/fast-food-spectrum-gamerip-1989/Fast%20Food%20ZX%20Spectrum%20Cover.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2023-12-28T00:00:00+00:00",
+  "developers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/developer/codemasters",
+    "The Oliver Twins": "https://downloads.khinsider.com/game-soundtracks/developer/the-oliver-twins"
+  },
+  "publishers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/publisher/codemasters"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1793064,
+      "track_number": 1,
+      "title": "Title (48k)",
+      "runtime": 70,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/fast-food-spectrum-gamerip-1989/pbbgalxiea/01.%20Title%20%2848k%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fast-food-spectrum-gamerip-1989/01.%2520Title%2520%252848k%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2841640,
+      "track_number": 2,
+      "title": "Title (128k)",
+      "runtime": 113,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/fast-food-spectrum-gamerip-1989/tgpnctslug/02.%20Title%20%28128k%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fast-food-spectrum-gamerip-1989/02.%2520Title%2520%2528128k%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4057989,
+      "track_number": 3,
+      "title": "Ingame (128k)",
+      "runtime": 164,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/fast-food-spectrum-gamerip-1989/bxnwvzwsea/03.%20Ingame%20%28128k%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fast-food-spectrum-gamerip-1989/03.%2520Ingame%2520%2528128k%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2254438,
+      "track_number": 4,
+      "title": "Name Entry (128k)",
+      "runtime": 89,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/fast-food-spectrum-gamerip-1989/yfbtjyjumc/04.%20Name%20Entry%20%28128k%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fast-food-spectrum-gamerip-1989/04.%2520Name%2520Entry%2520%2528128k%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 436,
+    "filesize_mp3_bytes": 10947131,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

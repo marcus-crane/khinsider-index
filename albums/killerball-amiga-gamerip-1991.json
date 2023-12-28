@@ -1,0 +1,42 @@
+{
+  "title": "Killerballinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-28T14:11:54.409471+00:00",
+  "slug": "killerball-amiga-gamerip-1991",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/killerball-amiga-gamerip-1991",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://dl.vgmdownloads.com/soundtracks/killerball-amiga-gamerip-1991/Killerball%20Amiga%20Cover.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2023-12-28T00:00:00+00:00",
+  "developers": {
+    "Microids": "https://downloads.khinsider.com/game-soundtracks/developer/microids"
+  },
+  "publishers": {
+    "Micro\u00efds": "https://downloads.khinsider.com/game-soundtracks/publisher/micro-ds"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 429916,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 24,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/killerball-amiga-gamerip-1991/kgdictvujo/01.%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/killerball-amiga-gamerip-1991/01.%2520Title.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 24,
+    "filesize_mp3_bytes": 429916,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

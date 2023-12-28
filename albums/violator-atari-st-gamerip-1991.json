@@ -1,0 +1,62 @@
+{
+  "title": "Violatorinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-28T14:15:55.218763+00:00",
+  "slug": "violator-atari-st-gamerip-1991",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/violator-atari-st-gamerip-1991",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/violator-atari-st-gamerip-1991/Violator%20Atari%20ST%20Title%20Screen.png"
+  ],
+  "year": 1991,
+  "date_added": "2023-12-28T00:00:00+00:00",
+  "developers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/developer/codemasters"
+  },
+  "publishers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/publisher/codemasters"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3711959,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 157,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/violator-atari-st-gamerip-1991/oimjxjuxtr/01.%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/violator-atari-st-gamerip-1991/01.%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 2,
+      "title": "Name Entry",
+      "runtime": 4,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/violator-atari-st-gamerip-1991/rpqnxjoniz/02.%20Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/violator-atari-st-gamerip-1991/02.%2520Name%2520Entry.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 167772,
+      "track_number": 3,
+      "title": "Unknown",
+      "runtime": 6,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/violator-atari-st-gamerip-1991/vsqnvnzydx/03.%20Unknown.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/violator-atari-st-gamerip-1991/03.%2520Unknown.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 167,
+    "filesize_mp3_bytes": 4005560,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

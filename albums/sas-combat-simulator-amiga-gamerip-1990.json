@@ -1,0 +1,42 @@
+{
+  "title": "SAS Combat Simulatorinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-28T14:14:19.050174+00:00",
+  "slug": "sas-combat-simulator-amiga-gamerip-1990",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/sas-combat-simulator-amiga-gamerip-1990",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/sas-combat-simulator-amiga-gamerip-1990/SAS%20Combat%20Simulator%20Amiga%20Cover.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2023-12-28T00:00:00+00:00",
+  "developers": {
+    "Optimus": "https://downloads.khinsider.com/game-soundtracks/developer/optimus"
+  },
+  "publishers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/publisher/codemasters"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2170552,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 131,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/sas-combat-simulator-amiga-gamerip-1990/aebwiihyvz/01.%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sas-combat-simulator-amiga-gamerip-1990/01.%2520Title.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 131,
+    "filesize_mp3_bytes": 2170552,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

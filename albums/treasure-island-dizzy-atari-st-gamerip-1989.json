@@ -1,0 +1,73 @@
+{
+  "title": "Treasure Island Dizzyinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-28T14:15:50.676046+00:00",
+  "slug": "treasure-island-dizzy-atari-st-gamerip-1989",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/treasure-island-dizzy-atari-st-gamerip-1989",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://dl.vgmdownloads.com/soundtracks/treasure-island-dizzy-atari-st-gamerip-1989/Treasure%20Island%20Dizzy%20Atari%20ST%20Cover.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2023-12-28T00:00:00+00:00",
+  "developers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/developer/codemasters",
+    "The Oliver Twins": "https://downloads.khinsider.com/game-soundtracks/developer/the-oliver-twins"
+  },
+  "publishers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/publisher/codemasters"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2768240,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 108,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/treasure-island-dizzy-atari-st-gamerip-1989/xohzmxighg/01.%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/treasure-island-dizzy-atari-st-gamerip-1989/01.%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1709178,
+      "track_number": 2,
+      "title": "In-Game BGM",
+      "runtime": 67,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/treasure-island-dizzy-atari-st-gamerip-1989/pnjeeuikww/02.%20In-Game%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/treasure-island-dizzy-atari-st-gamerip-1989/02.%2520In-Game%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 335544,
+      "track_number": 3,
+      "title": "Round Start",
+      "runtime": 5,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/treasure-island-dizzy-atari-st-gamerip-1989/klbjcmcjxj/03.%20Round%20Start.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/treasure-island-dizzy-atari-st-gamerip-1989/03.%2520Round%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 335544,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 5,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/treasure-island-dizzy-atari-st-gamerip-1989/hloqozibzq/04.%20Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/treasure-island-dizzy-atari-st-gamerip-1989/04.%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 185,
+    "filesize_mp3_bytes": 5148506,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

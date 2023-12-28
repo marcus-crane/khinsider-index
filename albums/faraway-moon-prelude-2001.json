@@ -1,0 +1,64 @@
+{
+  "title": "Faraway Moon preludeinfo",
+  "titles_alternative": [
+    "FarawayMoon.-toccata-"
+  ],
+  "crawled_at": "2023-12-28T14:06:28.493259+00:00",
+  "slug": "faraway-moon-prelude-2001",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/faraway-moon-prelude-2001",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/faraway-moon-prelude-2001/Image%20%281%29.jpg"
+  ],
+  "year": 2001,
+  "catalog_number": "WRCD-0003",
+  "date_added": "2023-12-28T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Rolando": "https://downloads.khinsider.com/game-soundtracks/publisher/rolando",
+    "Woodsoft": "https://downloads.khinsider.com/game-soundtracks/publisher/woodsoft"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1394606,
+      "track_number": 1,
+      "title": "Memories of June",
+      "runtime": 163,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/faraway-moon-prelude-2001/mzmnwaeqsx/01.%20Memories%20of%20June.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/faraway-moon-prelude-2001/01.%2520Memories%2520of%2520June.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1237319,
+      "track_number": 2,
+      "title": "Unknown",
+      "runtime": 105,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/faraway-moon-prelude-2001/ekromxongn/02.%20Unknown.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/faraway-moon-prelude-2001/02.%2520Unknown.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1876951,
+      "track_number": 3,
+      "title": "Rumbling Hearts [PF Version]",
+      "runtime": 139,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/faraway-moon-prelude-2001/mhckspnzfr/03.%20Rumbling%20Hearts%20%5BPF%20Version%5D.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/faraway-moon-prelude-2001/03.%2520Rumbling%2520Hearts%2520%255BPF%2520Version%255D.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 407,
+    "filesize_mp3_bytes": 4508876,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

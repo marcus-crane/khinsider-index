@@ -1,0 +1,76 @@
+{
+  "title": "Hot Snowinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-28T14:08:29.949488+00:00",
+  "slug": "hot-snow-1997",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hot-snow-1997",
+  "platforms": {
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://dl.vgmdownloads.com/soundtracks/hot-snow-1997/back.png"
+  ],
+  "year": 1997,
+  "catalog_number": "WDCD-0009",
+  "date_added": "2023-12-28T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Woodsoft": "https://downloads.khinsider.com/game-soundtracks/publisher/woodsoft"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20373831,
+      "filesize_mp3_bytes": 6689914,
+      "track_number": 1,
+      "title": "CD TRACK No. 30 [Hatsune no Naisho!!]",
+      "runtime": 200,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/hot-snow-1997/scihjsobxn/01.%20CD%20TRACK%20No.%2030%20%5BHatsune%20no%20Naisho%21%21%5D.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/hot-snow-1997/scihjsobxn/01.%20CD%20TRACK%20No.%2030%20%5BHatsune%20no%20Naisho%21%21%5D.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hot-snow-1997/01.%2520CD%2520TRACK%2520No.%252030%2520%255BHatsune%2520no%2520Naisho%2521%2521%255D.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9447669,
+      "filesize_mp3_bytes": 3470786,
+      "track_number": 2,
+      "title": "My Friend [To Heart]",
+      "runtime": 112,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/hot-snow-1997/cpwqfyltci/02.%20My%20Friend%20%5BTo%20Heart%5D.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/hot-snow-1997/cpwqfyltci/02.%20My%20Friend%20%5BTo%20Heart%5D.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hot-snow-1997/02.%2520My%2520Friend%2520%255BTo%2520Heart%255D.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 26078085,
+      "filesize_mp3_bytes": 8923381,
+      "track_number": 3,
+      "title": "Demon Seed [Akumaj\u014d Densetsu FC (Castlevania III)]",
+      "runtime": 256,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/hot-snow-1997/vdshwlzknz/03.%20Demon%20Seed%20%5BAkumaj%C5%8D%20Densetsu%20FC%20%28Castlevania%20III%29%5D.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/hot-snow-1997/vdshwlzknz/03.%20Demon%20Seed%20%5BAkumaj%C5%8D%20Densetsu%20FC%20%28Castlevania%20III%29%5D.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hot-snow-1997/03.%2520Demon%2520Seed%2520%255BAkumaj%25C5%258D%2520Densetsu%2520FC%2520%2528Castlevania%2520III%2529%255D.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 23278387,
+      "filesize_mp3_bytes": 8933867,
+      "track_number": 4,
+      "title": "The End... and the Beginning [Kizuato]",
+      "runtime": 273,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/hot-snow-1997/jzhnyhvzct/04.%20The%20End...%20and%20the%20Beginning%20%5BKizuato%5D.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/hot-snow-1997/jzhnyhvzct/04.%20The%20End...%20and%20the%20Beginning%20%5BKizuato%5D.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hot-snow-1997/04.%2520The%2520End...%2520and%2520the%2520Beginning%2520%255BKizuato%255D.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 841,
+    "filesize_mp3_bytes": 28017948,
+    "filesize_flac_bytes": 79177972,
+    "tracks": 4
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Fantasy World Dizzyinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-28T14:06:27.808103+00:00",
+  "slug": "fantasy-world-dizzy-ibm-pc-gamerip-1991",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/fantasy-world-dizzy-ibm-pc-gamerip-1991",
+  "platforms": {
+    "IBM PC": "https://downloads.khinsider.com/game-soundtracks/ibm-pc"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/fantasy-world-dizzy-ibm-pc-gamerip-1991/Fantasy%20World%20Dizzy%20IBM%20PC%20Cover.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2023-12-28T00:00:00+00:00",
+  "developers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/developer/codemasters"
+  },
+  "publishers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/publisher/codemasters"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3386900,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 133,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/fantasy-world-dizzy-ibm-pc-gamerip-1991/godsjrikib/01.%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fantasy-world-dizzy-ibm-pc-gamerip-1991/01.%2520Title.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 133,
+    "filesize_mp3_bytes": 3386900,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}
