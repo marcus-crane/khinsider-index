@@ -1,0 +1,89 @@
+{
+  "title": "Eitango Target 1900 DSinfo",
+  "titles_alternative": [
+    "\u82f1\u5358\u8a9e\u30bf\u30fc\u30b2\u30c3\u30c81900DS"
+  ],
+  "crawled_at": "2023-12-28T07:01:24.450255+00:00",
+  "slug": "eitango-target-1900-ds-ds-gamerip-2006",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/eitango-target-1900-ds-ds-gamerip-2006",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/eitango-target-1900-ds-ds-gamerip-2006/Eitango%20Target%201900%20DS.png"
+  ],
+  "year": 2006,
+  "date_added": "2023-12-28T00:00:00+00:00",
+  "developers": {
+    "Mechanic Arms": "https://downloads.khinsider.com/game-soundtracks/developer/mechanic-arms"
+  },
+  "publishers": {
+    "IE Institute": "https://downloads.khinsider.com/game-soundtracks/publisher/ie-institute"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 11838423,
+      "filesize_mp3_bytes": 3093299,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 122,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/eitango-target-1900-ds-ds-gamerip-2006/emjxqwrdry/01.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/eitango-target-1900-ds-ds-gamerip-2006/emjxqwrdry/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/eitango-target-1900-ds-ds-gamerip-2006/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 13893632,
+      "filesize_mp3_bytes": 3344957,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 145,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/eitango-target-1900-ds-ds-gamerip-2006/xicccgwyve/02.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/eitango-target-1900-ds-ds-gamerip-2006/xicccgwyve/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/eitango-target-1900-ds-ds-gamerip-2006/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3481272,
+      "filesize_mp3_bytes": 1163919,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 43,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/eitango-target-1900-ds-ds-gamerip-2006/ksnxqgaldu/03.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/eitango-target-1900-ds-ds-gamerip-2006/ksnxqgaldu/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/eitango-target-1900-ds-ds-gamerip-2006/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4466933,
+      "filesize_mp3_bytes": 1163919,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 52,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/eitango-target-1900-ds-ds-gamerip-2006/blmbxncwkk/04.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/eitango-target-1900-ds-ds-gamerip-2006/blmbxncwkk/04.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/eitango-target-1900-ds-ds-gamerip-2006/04.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2558525,
+      "filesize_mp3_bytes": 660602,
+      "track_number": 5,
+      "title": "Track 5",
+      "runtime": 31,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/eitango-target-1900-ds-ds-gamerip-2006/pelidvcqzq/05.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/eitango-target-1900-ds-ds-gamerip-2006/pelidvcqzq/05.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/eitango-target-1900-ds-ds-gamerip-2006/05.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 393,
+    "filesize_mp3_bytes": 9426696,
+    "filesize_flac_bytes": 36238785,
+    "tracks": 5
+  }
+}

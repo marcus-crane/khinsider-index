@@ -1,0 +1,42 @@
+{
+  "title": "Kelly Xinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-28T07:01:36.838831+00:00",
+  "slug": "kelly-x-amiga-gamerip-1989",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/kelly-x-amiga-gamerip-1989",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/kelly-x-amiga-gamerip-1989/Kelly%20X%20Amiga%20Cover.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2023-12-28T00:00:00+00:00",
+  "developers": {
+    "16 Blitz": "https://downloads.khinsider.com/game-soundtracks/developer/16-blitz"
+  },
+  "publishers": {
+    "Virgin": "https://downloads.khinsider.com/game-soundtracks/publisher/virgin"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2222981,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 134,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/kelly-x-amiga-gamerip-1989/mywcdgqfpj/01%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kelly-x-amiga-gamerip-1989/01%2520Intro.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 134,
+    "filesize_mp3_bytes": 2222981,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

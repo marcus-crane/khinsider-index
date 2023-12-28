@@ -1,0 +1,42 @@
+{
+  "title": "The Lands of Havocinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-28T07:02:05.467687+00:00",
+  "slug": "the-lands-of-havoc-commodore-64-gamerip-1985",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/the-lands-of-havoc-commodore-64-gamerip-1985",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/the-lands-of-havoc-commodore-64-gamerip-1985/The%20Lands%20of%20Havoc%20C64%20Cover.jpg"
+  ],
+  "year": 1985,
+  "date_added": "2023-12-28T00:00:00+00:00",
+  "developers": {
+    "Microdeal": "https://downloads.khinsider.com/game-soundtracks/developer/microdeal"
+  },
+  "publishers": {
+    "Microdeal": "https://downloads.khinsider.com/game-soundtracks/publisher/microdeal"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 524288,
+      "track_number": 1,
+      "title": "Theme",
+      "runtime": 16,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/the-lands-of-havoc-commodore-64-gamerip-1985/ngwkwikxiv/01%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-lands-of-havoc-commodore-64-gamerip-1985/01%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 16,
+    "filesize_mp3_bytes": 524288,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}
