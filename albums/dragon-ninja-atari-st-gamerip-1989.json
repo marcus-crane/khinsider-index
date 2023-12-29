@@ -1,0 +1,77 @@
+{
+  "title": "Dragon Ninjainfo",
+  "titles_alternative": [
+    "Bad Dudes Vs. DragonNinja",
+    "\u30c9\u30e9\u30b4\u30f3\u30cb\u30f3\u30b8\u30e3"
+  ],
+  "crawled_at": "2023-12-29T14:03:58.720351+00:00",
+  "slug": "dragon-ninja-atari-st-gamerip-1989",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dragon-ninja-atari-st-gamerip-1989",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/dragon-ninja-atari-st-gamerip-1989/Bad%20Dudes%20Atari%20ST%20Cover%201.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2023-12-29T00:00:00+00:00",
+  "developers": {
+    "Data East": "https://downloads.khinsider.com/game-soundtracks/developer/data-east",
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/developer/ocean"
+  },
+  "publishers": {
+    "Imagine": "https://downloads.khinsider.com/game-soundtracks/publisher/imagine",
+    "The Hit Squad": "https://downloads.khinsider.com/game-soundtracks/publisher/the-hit-squad"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1447034,
+      "track_number": 1,
+      "title": "Odd Stages",
+      "runtime": 59,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/dragon-ninja-atari-st-gamerip-1989/telxkftijp/01%20Odd%20Stages.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dragon-ninja-atari-st-gamerip-1989/01%2520Odd%2520Stages.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1656750,
+      "track_number": 2,
+      "title": "Even Stages",
+      "runtime": 70,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/dragon-ninja-atari-st-gamerip-1989/ihkpvdjyxa/02%20Even%20Stages.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dragon-ninja-atari-st-gamerip-1989/02%2520Even%2520Stages.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 524288,
+      "track_number": 3,
+      "title": "Boss Theme",
+      "runtime": 15,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/dragon-ninja-atari-st-gamerip-1989/jfsrbxwjzp/03%20Boss%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dragon-ninja-atari-st-gamerip-1989/03%2520Boss%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 304087,
+      "track_number": 4,
+      "title": "Stage Clear",
+      "runtime": 4,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/dragon-ninja-atari-st-gamerip-1989/yltfikarwi/04%20Stage%20Clear.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dragon-ninja-atari-st-gamerip-1989/04%2520Stage%2520Clear.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 148,
+    "filesize_mp3_bytes": 3932159,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

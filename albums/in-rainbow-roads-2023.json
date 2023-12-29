@@ -1,0 +1,43 @@
+{
+  "title": "In Rainbow Roadsinfo",
+  "titles_alternative": [
+    "on4word - In Rainbow Roads ",
+    "Super Mario 64"
+  ],
+  "crawled_at": "2023-12-29T14:05:58.503938+00:00",
+  "slug": "in-rainbow-roads-2023",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/in-rainbow-roads-2023",
+  "platforms": {
+    "N64": "https://downloads.khinsider.com/game-soundtracks/nintendo-64"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/in-rainbow-roads-2023/cover.png"
+  ],
+  "year": 2023,
+  "date_added": "2023-12-29T00:00:00+00:00",
+  "developers": {
+    "on4word": "https://downloads.khinsider.com/game-soundtracks/developer/on4word"
+  },
+  "publishers": {},
+  "genres": {
+    "Inspired By": "https://downloads.khinsider.com/game-soundtracks/inspired-by"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4225761,
+      "track_number": 11,
+      "title": "Faust Arp (mushroom mix)",
+      "runtime": 131,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/in-rainbow-roads-2023/mdbrqsiofi/11.%20Faust%20Arp%20%28mushroom%20mix%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/in-rainbow-roads-2023/11.%2520Faust%2520Arp%2520%2528mushroom%2520mix%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 131,
+    "filesize_mp3_bytes": 4225761,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

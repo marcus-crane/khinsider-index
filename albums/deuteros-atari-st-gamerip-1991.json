@@ -1,0 +1,74 @@
+{
+  "title": "Deuterosinfo",
+  "titles_alternative": [
+    "Deuteros: The Next Millennium"
+  ],
+  "crawled_at": "2023-12-29T14:03:09.757033+00:00",
+  "slug": "deuteros-atari-st-gamerip-1991",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/deuteros-atari-st-gamerip-1991",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/deuteros-atari-st-gamerip-1991/Deuteros%20Atari%20ST%20Cover.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2023-12-29T00:00:00+00:00",
+  "developers": {
+    "Mediagenic": "https://downloads.khinsider.com/game-soundtracks/developer/mediagenic"
+  },
+  "publishers": {
+    "Activision": "https://downloads.khinsider.com/game-soundtracks/publisher/activision"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3449815,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 132,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/deuteros-atari-st-gamerip-1991/dpsqlxqyjk/01%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/deuteros-atari-st-gamerip-1991/01%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 849346,
+      "track_number": 2,
+      "title": "BGM",
+      "runtime": 38,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/deuteros-atari-st-gamerip-1991/jgnzkezebc/02%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/deuteros-atari-st-gamerip-1991/02%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1845493,
+      "track_number": 3,
+      "title": "Congratulations",
+      "runtime": 86,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/deuteros-atari-st-gamerip-1991/elhzfwrita/03%20Congratulations.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/deuteros-atari-st-gamerip-1991/03%2520Congratulations.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1017118,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 50,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/deuteros-atari-st-gamerip-1991/edcjdtfpyo/04%20Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/deuteros-atari-st-gamerip-1991/04%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 306,
+    "filesize_mp3_bytes": 7161772,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}
