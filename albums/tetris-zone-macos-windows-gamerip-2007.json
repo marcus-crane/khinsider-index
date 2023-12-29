@@ -1,0 +1,58 @@
+{
+  "title": "Tetris Zoneinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-29T21:01:40.922549+00:00",
+  "slug": "tetris-zone-macos-windows-gamerip-2007",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-zone-macos-windows-gamerip-2007",
+  "platforms": {
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/tetris-zone-macos-windows-gamerip-2007/GameScreenshot.png"
+  ],
+  "year": 2007,
+  "date_added": "2023-12-29T00:00:00+00:00",
+  "developers": {
+    "Blue Planet Software": "https://downloads.khinsider.com/game-soundtracks/developer/blue-planet-software"
+  },
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 28689039,
+      "title": "Kalinka",
+      "runtime": 892,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/tetris-zone-macos-windows-gamerip-2007/irgxwpsbvj/Kalinka.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-zone-macos-windows-gamerip-2007/Kalinka.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 19503513,
+      "title": "Kalinka Dream",
+      "runtime": 633,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/tetris-zone-macos-windows-gamerip-2007/whypjxytuy/Kalinka%20Dream.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-zone-macos-windows-gamerip-2007/Kalinka%2520Dream.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 20310917,
+      "title": "Zig Zag",
+      "runtime": 658,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/tetris-zone-macos-windows-gamerip-2007/tfwueigfge/Zig%20Zag.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetris-zone-macos-windows-gamerip-2007/Zig%2520Zag.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2183,
+    "filesize_mp3_bytes": 68503469,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}
