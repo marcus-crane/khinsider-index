@@ -1,0 +1,92 @@
+{
+  "title": "Kwik Snaxinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-30T21:03:15.012423+00:00",
+  "slug": "kwik-snax-atari-st-gamerip-1991",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/kwik-snax-atari-st-gamerip-1991",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/kwik-snax-atari-st-gamerip-1991/Kwik%20Snax%20Atari%20ST%20Title%20Screen.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2023-12-30T00:00:00+00:00",
+  "developers": {
+    "Optimus": "https://downloads.khinsider.com/game-soundtracks/developer/optimus"
+  },
+  "publishers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/publisher/codemasters"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 985661,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 38,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/kwik-snax-atari-st-gamerip-1991/zycqrjsoiz/01.%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kwik-snax-atari-st-gamerip-1991/01.%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2086666,
+      "track_number": 2,
+      "title": "World 1",
+      "runtime": 85,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/kwik-snax-atari-st-gamerip-1991/esvcextnoh/02.%20World%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kwik-snax-atari-st-gamerip-1991/02.%2520World%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2086666,
+      "track_number": 3,
+      "title": "World 2",
+      "runtime": 85,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/kwik-snax-atari-st-gamerip-1991/gdblwzyudr/03.%20World%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kwik-snax-atari-st-gamerip-1991/03.%2520World%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1352663,
+      "track_number": 4,
+      "title": "World 3",
+      "runtime": 54,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/kwik-snax-atari-st-gamerip-1991/swlikpgvfc/04.%20World%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kwik-snax-atari-st-gamerip-1991/04.%2520World%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1761607,
+      "track_number": 5,
+      "title": "World 4",
+      "runtime": 71,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/kwik-snax-atari-st-gamerip-1991/oyowwyqrld/05.%20World%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kwik-snax-atari-st-gamerip-1991/05.%2520World%25204.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2275409,
+      "track_number": 6,
+      "title": "Victory",
+      "runtime": 92,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/kwik-snax-atari-st-gamerip-1991/gijrashguv/06.%20Victory.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kwik-snax-atari-st-gamerip-1991/06.%2520Victory.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 425,
+    "filesize_mp3_bytes": 10548672,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

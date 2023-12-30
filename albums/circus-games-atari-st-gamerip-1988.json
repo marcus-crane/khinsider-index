@@ -1,0 +1,83 @@
+{
+  "title": "Circus Gamesinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-30T21:02:04.221189+00:00",
+  "slug": "circus-games-atari-st-gamerip-1988",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/circus-games-atari-st-gamerip-1988",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/circus-games-atari-st-gamerip-1988/Circus%20Games%20Atari%20ST%20Cover.png"
+  ],
+  "year": 1988,
+  "date_added": "2023-12-30T00:00:00+00:00",
+  "developers": {
+    "Subway": "https://downloads.khinsider.com/game-soundtracks/developer/subway",
+    "Tynesoft": "https://downloads.khinsider.com/game-soundtracks/developer/tynesoft"
+  },
+  "publishers": {
+    "Tynesoft": "https://downloads.khinsider.com/game-soundtracks/publisher/tynesoft"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9154068,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 108,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/circus-games-atari-st-gamerip-1988/ridiixccic/01.%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/circus-games-atari-st-gamerip-1988/01.%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7570718,
+      "track_number": 2,
+      "title": "Tightrope Walking",
+      "runtime": 31,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/circus-games-atari-st-gamerip-1988/nkcfhzsozr/02.%20Tightrope%20Walking.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/circus-games-atari-st-gamerip-1988/02.%2520Tightrope%2520Walking.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7560232,
+      "track_number": 3,
+      "title": "Trick Riding",
+      "runtime": 31,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/circus-games-atari-st-gamerip-1988/yhgwsrfvly/03.%20Trick%20Riding.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/circus-games-atari-st-gamerip-1988/03.%2520Trick%2520Riding.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10989076,
+      "track_number": 4,
+      "title": "Trapeze",
+      "runtime": 191,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/circus-games-atari-st-gamerip-1988/djnbinvfkh/04.%20Trapeze.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/circus-games-atari-st-gamerip-1988/04.%2520Trapeze.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8241807,
+      "track_number": 5,
+      "title": "Tiger Training",
+      "runtime": 61,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/circus-games-atari-st-gamerip-1988/qratoryvxm/05.%20Tiger%20Training.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/circus-games-atari-st-gamerip-1988/05.%2520Tiger%2520Training.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 422,
+    "filesize_mp3_bytes": 43515901,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

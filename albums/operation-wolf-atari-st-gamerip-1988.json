@@ -1,0 +1,75 @@
+{
+  "title": "Operation Wolfinfo",
+  "titles_alternative": [
+    "\u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3\u30fb\u30a6\u30eb\u30d5"
+  ],
+  "crawled_at": "2023-12-30T21:03:41.665691+00:00",
+  "slug": "operation-wolf-atari-st-gamerip-1988",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/operation-wolf-atari-st-gamerip-1988",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/operation-wolf-atari-st-gamerip-1988/Operation%20Wolf%20Atari%20ST%20Cover%201.jpg"
+  ],
+  "year": 1988,
+  "date_added": "2023-12-30T00:00:00+00:00",
+  "developers": {
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/developer/ocean",
+    "Taito": "https://downloads.khinsider.com/game-soundtracks/developer/taito"
+  },
+  "publishers": {
+    "Ocean": "https://downloads.khinsider.com/game-soundtracks/publisher/ocean"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 754974,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 8,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/operation-wolf-atari-st-gamerip-1988/zzwzpyaezd/01.%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/operation-wolf-atari-st-gamerip-1988/01.%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 754974,
+      "track_number": 2,
+      "title": "Operation Initiated! Rescue Hostages!",
+      "runtime": 8,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/operation-wolf-atari-st-gamerip-1988/vijjzqfibm/02.%20Operation%20Initiated%21%20Rescue%20Hostages%21.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/operation-wolf-atari-st-gamerip-1988/02.%2520Operation%2520Initiated%2521%2520Rescue%2520Hostages%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 754974,
+      "track_number": 3,
+      "title": "Stage Map",
+      "runtime": 8,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/operation-wolf-atari-st-gamerip-1988/hgjwznggcd/03.%20Stage%20Map.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/operation-wolf-atari-st-gamerip-1988/03.%2520Stage%2520Map.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 702545,
+      "track_number": 4,
+      "title": "Name Entry",
+      "runtime": 13,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/operation-wolf-atari-st-gamerip-1988/chtehnpfvg/04.%20Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/operation-wolf-atari-st-gamerip-1988/04.%2520Name%2520Entry.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 37,
+    "filesize_mp3_bytes": 2967467,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

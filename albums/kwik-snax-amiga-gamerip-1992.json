@@ -1,0 +1,92 @@
+{
+  "title": "Kwik Snaxinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-30T21:03:12.992213+00:00",
+  "slug": "kwik-snax-amiga-gamerip-1992",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/kwik-snax-amiga-gamerip-1992",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/kwik-snax-amiga-gamerip-1992/Kwik%20Snax%20Amiga%20Cover.jpg"
+  ],
+  "year": 1992,
+  "date_added": "2023-12-30T00:00:00+00:00",
+  "developers": {
+    "Optimus": "https://downloads.khinsider.com/game-soundtracks/developer/optimus"
+  },
+  "publishers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/publisher/codemasters"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2401239,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 92,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/kwik-snax-amiga-gamerip-1992/iixnbswibh/01.%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kwik-snax-amiga-gamerip-1992/01.%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1876951,
+      "track_number": 2,
+      "title": "World 1",
+      "runtime": 70,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/kwik-snax-amiga-gamerip-1992/ybvrdpjnck/02.%20World%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kwik-snax-amiga-gamerip-1992/02.%2520World%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2212495,
+      "track_number": 3,
+      "title": "World 2",
+      "runtime": 85,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/kwik-snax-amiga-gamerip-1992/aaaxnmxqhy/03.%20World%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kwik-snax-amiga-gamerip-1992/03.%2520World%25202.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2338324,
+      "track_number": 4,
+      "title": "World 3",
+      "runtime": 90,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/kwik-snax-amiga-gamerip-1992/erxogqhnyj/04.%20World%203.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kwik-snax-amiga-gamerip-1992/04.%2520World%25203.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2212495,
+      "track_number": 5,
+      "title": "World 4",
+      "runtime": 85,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/kwik-snax-amiga-gamerip-1992/xhbuabmpco/05.%20World%204.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kwik-snax-amiga-gamerip-1992/05.%2520World%25204.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2212495,
+      "track_number": 6,
+      "title": "Victory",
+      "runtime": 85,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/kwik-snax-amiga-gamerip-1992/ddujinwyrg/06.%20Victory.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kwik-snax-amiga-gamerip-1992/06.%2520Victory.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 507,
+    "filesize_mp3_bytes": 13253999,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}
