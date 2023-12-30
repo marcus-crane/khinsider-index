@@ -1,0 +1,86 @@
+{
+  "title": "Stargazeinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-30T14:06:49.493399+00:00",
+  "slug": "stargaze-2012",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/stargaze-2012",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/stargaze-2012/Cover.jpg"
+  ],
+  "year": 2012,
+  "catalog_number": "CCCD0004",
+  "date_added": "2023-12-30T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "VARITOP studio": "https://downloads.khinsider.com/game-soundtracks/publisher/varitop-studio"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7004487,
+      "filesize_mp3_bytes": 1950351,
+      "track_number": 1,
+      "title": "Your Introduction",
+      "runtime": 54,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/stargaze-2012/tzxoufauat/01.%20Your%20Introduction.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/stargaze-2012/tzxoufauat/01.%20Your%20Introduction.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stargaze-2012/01.%2520Your%2520Introduction.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 33323745,
+      "filesize_mp3_bytes": 10338959,
+      "track_number": 2,
+      "title": "Zencode",
+      "runtime": 280,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/stargaze-2012/snilgnbora/02.%20Zencode.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/stargaze-2012/snilgnbora/02.%20Zencode.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stargaze-2012/02.%2520Zencode.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 46745518,
+      "filesize_mp3_bytes": 10370416,
+      "track_number": 3,
+      "title": "Bosstalk",
+      "runtime": 318,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/stargaze-2012/jqvjmkmmqu/03.%20Bosstalk.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/stargaze-2012/jqvjmkmmqu/03.%20Bosstalk.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stargaze-2012/03.%2520Bosstalk.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 4131389,
+      "filesize_mp3_bytes": 1174405,
+      "track_number": 4,
+      "title": "Happy End of the World",
+      "runtime": 32,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/stargaze-2012/feeynpcchr/04.%20Happy%20End%20of%20the%20World.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/stargaze-2012/feeynpcchr/04.%20Happy%20End%20of%20the%20World.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stargaze-2012/04.%2520Happy%2520End%2520of%2520the%2520World.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 32967229,
+      "filesize_mp3_bytes": 7224688,
+      "track_number": 5,
+      "title": "For the Tharsis",
+      "runtime": 225,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/stargaze-2012/rzwlvaqboc/05.%20For%20the%20Tharsis.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/stargaze-2012/rzwlvaqboc/05.%20For%20the%20Tharsis.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stargaze-2012/05.%2520For%2520the%2520Tharsis.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 909,
+    "filesize_mp3_bytes": 31058819,
+    "filesize_flac_bytes": 124172368,
+    "tracks": 5
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "title": "STARDUSTinfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-30T14:06:47.932714+00:00",
+  "slug": "stardust-2011",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/stardust-2011",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/stardust-2011/00%20Front.jpg"
+  ],
+  "year": 2011,
+  "catalog_number": "CCCD0003",
+  "date_added": "2023-12-30T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "circular circuit": "https://downloads.khinsider.com/game-soundtracks/publisher/circular-circuit"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 32589742,
+      "filesize_mp3_bytes": 8724152,
+      "track_number": 1,
+      "title": "Fear",
+      "runtime": 252,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/stardust-2011/hpaznqolnp/01.%20Fear.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/stardust-2011/hpaznqolnp/01.%20Fear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stardust-2011/01.%2520Fear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 36731617,
+      "filesize_mp3_bytes": 7591690,
+      "track_number": 2,
+      "title": "Outside Attack",
+      "runtime": 241,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/stardust-2011/cvxunolfmp/02.%20Outside%20Attack.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/stardust-2011/cvxunolfmp/02.%20Outside%20Attack.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stardust-2011/02.%2520Outside%2520Attack.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 22229811,
+      "filesize_mp3_bytes": 6564085,
+      "track_number": 3,
+      "title": "Ease",
+      "runtime": 185,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/stardust-2011/pdeizcwfgy/03.%20Ease.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/stardust-2011/pdeizcwfgy/03.%20Ease.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stardust-2011/03.%2520Ease.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 42760929,
+      "filesize_mp3_bytes": 9846128,
+      "track_number": 4,
+      "title": "The Horoscope Combat",
+      "runtime": 291,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/stardust-2011/wsgygzgvmv/04.%20The%20Horoscope%20Combat.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/stardust-2011/wsgygzgvmv/04.%20The%20Horoscope%20Combat.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stardust-2011/04.%2520The%2520Horoscope%2520Combat.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 969,
+    "filesize_mp3_bytes": 32726055,
+    "filesize_flac_bytes": 134312099,
+    "tracks": 4
+  }
+}

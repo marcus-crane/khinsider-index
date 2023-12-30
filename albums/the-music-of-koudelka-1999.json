@@ -1,0 +1,53 @@
+{
+  "title": "The Music of Koudelkainfo",
+  "titles_alternative": [],
+  "crawled_at": "2023-12-30T14:07:40.053266+00:00",
+  "slug": "the-music-of-koudelka-1999",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/the-music-of-koudelka-1999",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/the-music-of-koudelka-1999/Back.jpg"
+  ],
+  "year": 1999,
+  "catalog_number": "SNK-232",
+  "date_added": "2023-12-30T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Sacnoth Digital Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/sacnoth-digital-entertainment"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 33470545,
+      "filesize_mp3_bytes": 10590617,
+      "track_number": 1,
+      "title": "Incantation",
+      "runtime": 320,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/the-music-of-koudelka-1999/frvwbqtdud/01.%20Incantation.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/the-music-of-koudelka-1999/frvwbqtdud/01.%20Incantation.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-music-of-koudelka-1999/01.%2520Incantation.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 33344716,
+      "filesize_mp3_bytes": 10422845,
+      "track_number": 2,
+      "title": "Incantation+",
+      "runtime": 319,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/the-music-of-koudelka-1999/jujuyvnlmi/02.%20Incantation%2B.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/the-music-of-koudelka-1999/jujuyvnlmi/02.%20Incantation%2B.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-music-of-koudelka-1999/02.%2520Incantation%252B.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 639,
+    "filesize_mp3_bytes": 21013462,
+    "filesize_flac_bytes": 66815261,
+    "tracks": 2
+  }
+}
