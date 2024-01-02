@@ -1,0 +1,44 @@
+{
+  "title": "Bubble +info",
+  "titles_alternative": [
+    "Bubble Ghost"
+  ],
+  "crawled_at": "2024-01-02T14:01:38.217686+00:00",
+  "slug": "bubble-amiga-gamerip-1990",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/bubble-amiga-gamerip-1990",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/bubble-amiga-gamerip-1990/Cover.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2024-01-02T00:00:00+00:00",
+  "developers": {
+    "ERE": "https://downloads.khinsider.com/game-soundtracks/developer/ere"
+  },
+  "publishers": {
+    "Infogrames": "https://downloads.khinsider.com/game-soundtracks/publisher/infogrames"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9667870,
+      "filesize_mp3_bytes": 3921674,
+      "title": "Bubble +",
+      "runtime": 116,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/bubble-amiga-gamerip-1990/vvtnyemymm/Bubble%20%2B.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/bubble-amiga-gamerip-1990/vvtnyemymm/Bubble%20%2B.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/bubble-amiga-gamerip-1990/Bubble%2520%252B.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 116,
+    "filesize_mp3_bytes": 3921674,
+    "filesize_flac_bytes": 9667870,
+    "tracks": 1
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Dark Sideinfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-01-02T14:01:56.695768+00:00",
+  "slug": "dark-side-atari-st-gamerip-1989",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/dark-side-atari-st-gamerip-1989",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/dark-side-atari-st-gamerip-1989/Dark%20Side%20Atari%20ST%20Ad.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2024-01-02T00:00:00+00:00",
+  "developers": {
+    "Major Developments": "https://downloads.khinsider.com/game-soundtracks/developer/major-developments"
+  },
+  "publishers": {
+    "Micro Status": "https://downloads.khinsider.com/game-soundtracks/publisher/micro-status",
+    "Spotlight Software": "https://downloads.khinsider.com/game-soundtracks/publisher/spotlight-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 18507366,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 753,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/dark-side-atari-st-gamerip-1989/xwkjpfzsdq/01.%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/dark-side-atari-st-gamerip-1989/01.%2520Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 753,
+    "filesize_mp3_bytes": 18507366,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}
