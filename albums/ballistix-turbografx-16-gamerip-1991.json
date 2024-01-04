@@ -1,0 +1,72 @@
+{
+  "title": "Ballistixinfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-01-04T14:01:23.276092+00:00",
+  "slug": "ballistix-turbografx-16-gamerip-1991",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/ballistix-turbografx-16-gamerip-1991",
+  "platforms": {
+    "TurboGrafx-16": "https://downloads.khinsider.com/game-soundtracks/turbografx-16"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/ballistix-turbografx-16-gamerip-1991/Ballistix.png"
+  ],
+  "year": 1991,
+  "date_added": "2024-01-04T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 17930649,
+      "filesize_mp3_bytes": 7119831,
+      "track_number": 1,
+      "title": "Contact",
+      "runtime": 181,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/ballistix-turbografx-16-gamerip-1991/sznavsdfus/01%20Contact.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/ballistix-turbografx-16-gamerip-1991/sznavsdfus/01%20Contact.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ballistix-turbografx-16-gamerip-1991/01%2520Contact.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8482979,
+      "filesize_mp3_bytes": 4162846,
+      "track_number": 2,
+      "title": "Options",
+      "runtime": 104,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/ballistix-turbografx-16-gamerip-1991/meolbowmrt/02%20Options.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/ballistix-turbografx-16-gamerip-1991/meolbowmrt/02%20Options.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ballistix-turbografx-16-gamerip-1991/02%2520Options.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 25102909,
+      "filesize_mp3_bytes": 11020533,
+      "track_number": 3,
+      "title": "Ending",
+      "runtime": 276,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/ballistix-turbografx-16-gamerip-1991/hsnuhjatqu/03%20Ending.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/ballistix-turbografx-16-gamerip-1991/hsnuhjatqu/03%20Ending.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ballistix-turbografx-16-gamerip-1991/03%2520Ending.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20478689,
+      "filesize_mp3_bytes": 9300869,
+      "track_number": 4,
+      "title": "Hiscore",
+      "runtime": 233,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/ballistix-turbografx-16-gamerip-1991/ftjplnjkqk/04%20Hiscore.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/ballistix-turbografx-16-gamerip-1991/ftjplnjkqk/04%20Hiscore.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/ballistix-turbografx-16-gamerip-1991/04%2520Hiscore.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 794,
+    "filesize_mp3_bytes": 31604079,
+    "filesize_flac_bytes": 71995226,
+    "tracks": 4
+  }
+}
