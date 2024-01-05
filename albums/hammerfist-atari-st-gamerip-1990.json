@@ -1,0 +1,93 @@
+{
+  "title": "Hammerfistinfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-01-05T14:05:13.153519+00:00",
+  "slug": "hammerfist-atari-st-gamerip-1990",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hammerfist-atari-st-gamerip-1990",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/hammerfist-atari-st-gamerip-1990/Hammerfirst%20Atari%20ST%20Cover.png"
+  ],
+  "year": 1990,
+  "date_added": "2024-01-05T00:00:00+00:00",
+  "developers": {
+    "Vivid Image": "https://downloads.khinsider.com/game-soundtracks/developer/vivid-image"
+  },
+  "publishers": {
+    "Activision": "https://downloads.khinsider.com/game-soundtracks/publisher/activision",
+    "Media": "https://downloads.khinsider.com/game-soundtracks/publisher/media"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9353297,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 161,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/hammerfist-atari-st-gamerip-1990/wshztgsqsu/01.%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hammerfist-atari-st-gamerip-1990/01.%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7759462,
+      "track_number": 2,
+      "title": "Stage BGM #1",
+      "runtime": 102,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/hammerfist-atari-st-gamerip-1990/dewimclgqy/02.%20Stage%20BGM%20%231.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hammerfist-atari-st-gamerip-1990/02.%2520Stage%2520BGM%2520%25231.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6385827,
+      "track_number": 3,
+      "title": "Stage BGM #2",
+      "runtime": 51,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/hammerfist-atari-st-gamerip-1990/svcgpxyily/03.%20Stage%20BGM%20%232.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hammerfist-atari-st-gamerip-1990/03.%2520Stage%2520BGM%2520%25232.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6564085,
+      "track_number": 4,
+      "title": "Stage BGM #3",
+      "runtime": 51,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/hammerfist-atari-st-gamerip-1990/ztutknhiwc/04.%20Stage%20BGM%20%233.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hammerfist-atari-st-gamerip-1990/04.%2520Stage%2520BGM%2520%25233.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5452595,
+      "track_number": 5,
+      "title": "Sector Report",
+      "runtime": 6,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/hammerfist-atari-st-gamerip-1990/crcpqstcik/05.%20Sector%20Report.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hammerfist-atari-st-gamerip-1990/05.%2520Sector%2520Report.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6511656,
+      "track_number": 6,
+      "title": "Make Your Mark (Name Entry)",
+      "runtime": 51,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/hammerfist-atari-st-gamerip-1990/avcqpxyowx/06.%20Make%20Your%20Mark%20%28Name%20Entry%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hammerfist-atari-st-gamerip-1990/06.%2520Make%2520Your%2520Mark%2520%2528Name%2520Entry%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 422,
+    "filesize_mp3_bytes": 42026922,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}
