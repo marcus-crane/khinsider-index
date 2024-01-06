@@ -1,0 +1,45 @@
+{
+  "title": "Roadwarsinfo",
+  "titles_alternative": [
+    "Road Wars"
+  ],
+  "crawled_at": "2024-01-06T14:27:54.041211+00:00",
+  "slug": "roadwars-commodore-64-gamerip-1988",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/roadwars-commodore-64-gamerip-1988",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/roadwars-commodore-64-gamerip-1988/Roadwars%20C64%20Cover.jpg"
+  ],
+  "year": 1988,
+  "date_added": "2024-01-06T00:00:00+00:00",
+  "developers": {
+    "Arcadia Systems": "https://downloads.khinsider.com/game-soundtracks/developer/arcadia-systems",
+    "Binary Design": "https://downloads.khinsider.com/game-soundtracks/developer/binary-design"
+  },
+  "publishers": {
+    "Melbourne House": "https://downloads.khinsider.com/game-soundtracks/publisher/melbourne-house"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 744488,
+      "track_number": 1,
+      "title": "Intro",
+      "runtime": 39,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/roadwars-commodore-64-gamerip-1988/kdcucimcsp/01.%20Intro.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/roadwars-commodore-64-gamerip-1988/01.%2520Intro.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 39,
+    "filesize_mp3_bytes": 744488,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

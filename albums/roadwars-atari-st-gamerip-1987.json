@@ -1,0 +1,45 @@
+{
+  "title": "Roadwarsinfo",
+  "titles_alternative": [
+    "Road Wars"
+  ],
+  "crawled_at": "2024-01-06T14:27:53.420345+00:00",
+  "slug": "roadwars-atari-st-gamerip-1987",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/roadwars-atari-st-gamerip-1987",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/roadwars-atari-st-gamerip-1987/Roadwars%20Atari%20ST%20Cover.jpg"
+  ],
+  "year": 1987,
+  "date_added": "2024-01-06T00:00:00+00:00",
+  "developers": {
+    "Arcadia Systems": "https://downloads.khinsider.com/game-soundtracks/developer/arcadia-systems",
+    "Binary Design": "https://downloads.khinsider.com/game-soundtracks/developer/binary-design"
+  },
+  "publishers": {
+    "Melbourne House": "https://downloads.khinsider.com/game-soundtracks/publisher/melbourne-house"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1237319,
+      "track_number": 1,
+      "title": "Theme",
+      "runtime": 38,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/roadwars-atari-st-gamerip-1987/pgaevouxec/01.%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/roadwars-atari-st-gamerip-1987/01.%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 38,
+    "filesize_mp3_bytes": 1237319,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

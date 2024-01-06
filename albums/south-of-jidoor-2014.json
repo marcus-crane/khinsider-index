@@ -1,0 +1,65 @@
+{
+  "title": "South of Jidoorinfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-01-06T14:28:50.362051+00:00",
+  "slug": "south-of-jidoor-2014",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/south-of-jidoor-2014",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation",
+    "SNES": "https://downloads.khinsider.com/game-soundtracks/nintendo-snes"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/south-of-jidoor-2014/00%20Front.jpg"
+  ],
+  "year": 2014,
+  "catalog_number": null,
+  "date_added": "2024-01-06T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Knight of the Round": "https://downloads.khinsider.com/game-soundtracks/publisher/knight-of-the-round"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 40726691,
+      "filesize_mp3_bytes": 11450449,
+      "track_number": 1,
+      "title": "South of Jidoor (FFVI - Overture)",
+      "runtime": 348,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/south-of-jidoor-2014/hbaesdqjar/01.%20South%20of%20Jidoor%20%28FFVI%20-%20Overture%29.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/south-of-jidoor-2014/hbaesdqjar/01.%20South%20of%20Jidoor%20%28FFVI%20-%20Overture%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/south-of-jidoor-2014/01.%2520South%2520of%2520Jidoor%2520%2528FFVI%2520-%2520Overture%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 33900462,
+      "filesize_mp3_bytes": 9028239,
+      "track_number": 2,
+      "title": "Heavy Mako 2014 (FFVII - Mako Reactor)",
+      "runtime": 279,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/south-of-jidoor-2014/agnseweuif/02.%20Heavy%20Mako%202014%20%28FFVII%20-%20Mako%20Reactor%29.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/south-of-jidoor-2014/agnseweuif/02.%20Heavy%20Mako%202014%20%28FFVII%20-%20Mako%20Reactor%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/south-of-jidoor-2014/02.%2520Heavy%2520Mako%25202014%2520%2528FFVII%2520-%2520Mako%2520Reactor%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 28888268,
+      "filesize_mp3_bytes": 7665090,
+      "track_number": 3,
+      "title": "TEAR IT UP 2014 (FFIX - Battle 2)",
+      "runtime": 238,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/south-of-jidoor-2014/wsbouyhmyw/03.%20TEAR%20IT%20UP%202014%20%28FFIX%20-%20Battle%202%29.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/south-of-jidoor-2014/wsbouyhmyw/03.%20TEAR%20IT%20UP%202014%20%28FFIX%20-%20Battle%202%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/south-of-jidoor-2014/03.%2520TEAR%2520IT%2520UP%25202014%2520%2528FFIX%2520-%2520Battle%25202%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 865,
+    "filesize_mp3_bytes": 28143778,
+    "filesize_flac_bytes": 103515421,
+    "tracks": 3
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Lancasterinfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-01-06T14:07:39.465237+00:00",
+  "slug": "lancaster-atari-st-gamerip-1989",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/lancaster-atari-st-gamerip-1989",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/lancaster-atari-st-gamerip-1989/Lancaster%20Atari%20ST%20Title%20Screen.png"
+  ],
+  "year": 1989,
+  "date_added": "2024-01-06T00:00:00+00:00",
+  "developers": {
+    "Showroom Dummies": "https://downloads.khinsider.com/game-soundtracks/developer/showroom-dummies"
+  },
+  "publishers": {
+    "Actual Screenshots": "https://downloads.khinsider.com/game-soundtracks/publisher/actual-screenshots",
+    "CRL Group": "https://downloads.khinsider.com/game-soundtracks/publisher/crl-group"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4026531,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 178,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/lancaster-atari-st-gamerip-1989/plpiqbtxxr/01.%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/lancaster-atari-st-gamerip-1989/01.%2520Title.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 178,
+    "filesize_mp3_bytes": 4026531,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

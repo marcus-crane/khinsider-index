@@ -1,0 +1,42 @@
+{
+  "title": "Phantasminfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-01-06T14:27:27.913643+00:00",
+  "slug": "phantasm-amiga-gamerip-1988",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/phantasm-amiga-gamerip-1988",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/phantasm-amiga-gamerip-1988/Phantasm%20Amiga%20Loading%20Screen.png"
+  ],
+  "year": 1988,
+  "date_added": "2024-01-06T00:00:00+00:00",
+  "developers": {
+    "Exocet": "https://downloads.khinsider.com/game-soundtracks/developer/exocet"
+  },
+  "publishers": {
+    "Exocet": "https://downloads.khinsider.com/game-soundtracks/publisher/exocet"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2915041,
+      "track_number": 1,
+      "title": "Theme",
+      "runtime": 177,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/phantasm-amiga-gamerip-1988/nyxltscerj/01.%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/phantasm-amiga-gamerip-1988/01.%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 177,
+    "filesize_mp3_bytes": 2915041,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "title": "Da' Numbainfo",
+  "titles_alternative": [
+    "Can U Make? Da' Numba"
+  ],
+  "crawled_at": "2024-01-06T14:03:15.710717+00:00",
+  "slug": "da-numba-2004",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/da-numba-2004",
+  "platforms": {
+    "Online": "https://downloads.khinsider.com/game-soundtracks/online",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/da-numba-2004/Cover.png"
+  ],
+  "year": 2004,
+  "date_added": "2024-01-06T00:00:00+00:00",
+  "developers": {
+    "Blockdot": "https://downloads.khinsider.com/game-soundtracks/developer/blockdot"
+  },
+  "publishers": {
+    "Kewlbox": "https://downloads.khinsider.com/game-soundtracks/publisher/kewlbox",
+    "Miniclip": "https://downloads.khinsider.com/game-soundtracks/publisher/miniclip"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 188743,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 1,
+      "title": "Da Numba Game Master Loop",
+      "runtime": 12,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/da-numba-2004/jqbfrhcwad/01.%20Da%20Numba%20Game%20Master%20Loop.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/da-numba-2004/jqbfrhcwad/01.%20Da%20Numba%20Game%20Master%20Loop.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/da-numba-2004/01.%2520Da%2520Numba%2520Game%2520Master%2520Loop.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 503316,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 2,
+      "title": "Da Numba Rumba",
+      "runtime": 11,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/da-numba-2004/ipuulvhugj/02.%20Da%20Numba%20Rumba.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/da-numba-2004/ipuulvhugj/02.%20Da%20Numba%20Rumba.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/da-numba-2004/02.%2520Da%2520Numba%2520Rumba.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 146800,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 3,
+      "title": "End Of Game",
+      "runtime": 3,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/da-numba-2004/gavhhhrfos/03.%20End%20Of%20Game.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/da-numba-2004/gavhhhrfos/03.%20End%20Of%20Game.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/da-numba-2004/03.%2520End%2520Of%2520Game.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 125829,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 4,
+      "title": "Title Screen",
+      "runtime": 5,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/da-numba-2004/qbgexfhbtl/04.%20Title%20Screen.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/da-numba-2004/qbgexfhbtl/04.%20Title%20Screen.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/da-numba-2004/04.%2520Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 31,
+    "filesize_mp3_bytes": 367000,
+    "filesize_flac_bytes": 964688,
+    "tracks": 4
+  }
+}
