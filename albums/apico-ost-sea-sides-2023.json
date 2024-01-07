@@ -1,0 +1,100 @@
+{
+  "title": "APICO OST (Sea-sides)info",
+  "titles_alternative": [],
+  "crawled_at": "2024-01-07T07:01:37.941266+00:00",
+  "slug": "apico-ost-sea-sides-2023",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/apico-ost-sea-sides-2023",
+  "platforms": {
+    "Linux": "https://downloads.khinsider.com/game-soundtracks/linux",
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/apico-ost-sea-sides-2023/00%20-%20Cover%20Art.png"
+  ],
+  "year": 2023,
+  "date_added": "2024-01-07T00:00:00+00:00",
+  "developers": {
+    "Mothense": "https://downloads.khinsider.com/game-soundtracks/developer/mothense"
+  },
+  "publishers": {
+    "TNgineers": "https://downloads.khinsider.com/game-soundtracks/publisher/tngineers"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9269411,
+      "filesize_mp3_bytes": 3869245,
+      "track_number": 1,
+      "title": "Padina",
+      "runtime": 126,
+      "source_mp3": "https://vgmsite.com/soundtracks/apico-ost-sea-sides-2023/tkfgehrwkq/01%20-%20Padina.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/apico-ost-sea-sides-2023/tkfgehrwkq/01%20-%20Padina.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/apico-ost-sea-sides-2023/01%2520-%2520Padina.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9164554,
+      "filesize_mp3_bytes": 4624220,
+      "track_number": 2,
+      "title": "Champia",
+      "runtime": 147,
+      "source_mp3": "https://vgmsite.com/soundtracks/apico-ost-sea-sides-2023/desjsmltiy/02%20-%20Champia.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/apico-ost-sea-sides-2023/desjsmltiy/02%20-%20Champia.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/apico-ost-sea-sides-2023/02%2520-%2520Champia.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8965324,
+      "filesize_mp3_bytes": 3261071,
+      "track_number": 3,
+      "title": "Bryopsis",
+      "runtime": 106,
+      "source_mp3": "https://vgmsite.com/soundtracks/apico-ost-sea-sides-2023/udkzfybjlg/03%20-%20Bryopsis.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/apico-ost-sea-sides-2023/udkzfybjlg/03%20-%20Bryopsis.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/apico-ost-sea-sides-2023/03%2520-%2520Bryopsis.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 8000634,
+      "filesize_mp3_bytes": 2789212,
+      "track_number": 4,
+      "title": "Amphiroa",
+      "runtime": 88,
+      "source_mp3": "https://vgmsite.com/soundtracks/apico-ost-sea-sides-2023/hrznenehyj/04%20-%20Amphiroa.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/apico-ost-sea-sides-2023/hrznenehyj/04%20-%20Amphiroa.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/apico-ost-sea-sides-2023/04%2520-%2520Amphiroa.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 10412359,
+      "filesize_mp3_bytes": 4529848,
+      "track_number": 5,
+      "title": "Caulerpa",
+      "runtime": 149,
+      "source_mp3": "https://vgmsite.com/soundtracks/apico-ost-sea-sides-2023/emoflvlxcb/05%20-%20Caulerpa.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/apico-ost-sea-sides-2023/emoflvlxcb/05%20-%20Caulerpa.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/apico-ost-sea-sides-2023/05%2520-%2520Caulerpa.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7832862,
+      "filesize_mp3_bytes": 3617587,
+      "track_number": 6,
+      "title": "Neomeris",
+      "runtime": 117,
+      "source_mp3": "https://vgmsite.com/soundtracks/apico-ost-sea-sides-2023/uzinxkqexk/06%20-%20Neomeris.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/apico-ost-sea-sides-2023/uzinxkqexk/06%20-%20Neomeris.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/apico-ost-sea-sides-2023/06%2520-%2520Neomeris.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 733,
+    "filesize_mp3_bytes": 22691183,
+    "filesize_flac_bytes": 53645144,
+    "tracks": 6
+  }
+}
