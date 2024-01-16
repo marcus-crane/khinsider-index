@@ -1,0 +1,78 @@
+{
+  "title": "Tetra Onlineinfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-01-16T14:15:34.428572+00:00",
+  "slug": "tetra-online-2023",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/tetra-online-2023",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/tetra-online-2023/folder.png"
+  ],
+  "year": 2023,
+  "date_added": "2024-01-16T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7906263,
+      "filesize_mp3_bytes": 2170552,
+      "title": "Burning Skylines",
+      "runtime": 66,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/tetra-online-2023/mgpivhfrra/Burning%20Skylines.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/tetra-online-2023/mgpivhfrra/Burning%20Skylines.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetra-online-2023/Burning%2520Skylines.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 23320330,
+      "filesize_mp3_bytes": 8032092,
+      "title": "Dance Grid",
+      "runtime": 216,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/tetra-online-2023/zamuabbsgo/Dance%20Grid.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/tetra-online-2023/zamuabbsgo/Dance%20Grid.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetra-online-2023/Dance%2520Grid.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 13715374,
+      "filesize_mp3_bytes": 4414504,
+      "title": "Metro Party",
+      "runtime": 130,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/tetra-online-2023/hkxcrgyxze/Metro%20Party.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/tetra-online-2023/hkxcrgyxze/Metro%20Party.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetra-online-2023/Metro%2520Party.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 17406361,
+      "filesize_mp3_bytes": 5609881,
+      "title": "Mindful Stacking",
+      "runtime": 168,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/tetra-online-2023/lytqdynwvo/Mindful%20Stacking.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/tetra-online-2023/lytqdynwvo/Mindful%20Stacking.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetra-online-2023/Mindful%2520Stacking.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 18601738,
+      "filesize_mp3_bytes": 4571791,
+      "title": "Russian Rave",
+      "runtime": 141,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/tetra-online-2023/pcoywjzzaz/Russian%20Rave.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/tetra-online-2023/pcoywjzzaz/Russian%20Rave.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/tetra-online-2023/Russian%2520Rave.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 721,
+    "filesize_mp3_bytes": 24798820,
+    "filesize_flac_bytes": 80950066,
+    "tracks": 5
+  }
+}

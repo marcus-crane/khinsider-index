@@ -1,0 +1,55 @@
+{
+  "title": "NASCAR Racing 2003 Seasoninfo",
+  "titles_alternative": [
+    "NR2003"
+  ],
+  "crawled_at": "2024-01-16T14:09:25.264058+00:00",
+  "slug": "nascar-racing-2003-season-ibm-pc-macos-gamerip-2003",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/nascar-racing-2003-season-ibm-pc-macos-gamerip-2003",
+  "platforms": {
+    "IBM PC": "https://downloads.khinsider.com/game-soundtracks/ibm-pc",
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/nascar-racing-2003-season-ibm-pc-macos-gamerip-2003/NASCAR_Racing_2003_Season_boxart.jpg"
+  ],
+  "year": 2003,
+  "date_added": "2024-01-16T00:00:00+00:00",
+  "developers": {
+    "Papyrus Design Group": "https://downloads.khinsider.com/game-soundtracks/developer/papyrus-design-group"
+  },
+  "publishers": {
+    "Sierra Entertainment": "https://downloads.khinsider.com/game-soundtracks/publisher/sierra-entertainment"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1509949,
+      "track_number": 1,
+      "title": "Victory Lane",
+      "runtime": 63,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/nascar-racing-2003-season-ibm-pc-macos-gamerip-2003/nprmaspqlh/01.%20Victory%20Lane.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nascar-racing-2003-season-ibm-pc-macos-gamerip-2003/01.%2520Victory%2520Lane.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2946498,
+      "track_number": 2,
+      "title": "Credits",
+      "runtime": 122,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/nascar-racing-2003-season-ibm-pc-macos-gamerip-2003/agrnaervng/02.%20Credits.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nascar-racing-2003-season-ibm-pc-macos-gamerip-2003/02.%2520Credits.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 185,
+    "filesize_mp3_bytes": 4456447,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

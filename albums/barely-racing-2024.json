@@ -1,0 +1,61 @@
+{
+  "title": "Barely Racinginfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-01-16T14:01:52.439306+00:00",
+  "slug": "barely-racing-2024",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/barely-racing-2024",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/barely-racing-2024/folder.jpg"
+  ],
+  "year": 2024,
+  "date_added": "2024-01-16T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Remix": "https://downloads.khinsider.com/game-soundtracks/remixes"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 69132615,
+      "filesize_mp3_bytes": 10223616,
+      "track_number": 1,
+      "title": "Menu",
+      "runtime": 293,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/barely-racing-2024/ceohtmbvws/01%20Menu.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/barely-racing-2024/ceohtmbvws/01%20Menu.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/barely-racing-2024/01%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 73358376,
+      "filesize_mp3_bytes": 10768875,
+      "track_number": 2,
+      "title": "Garage",
+      "runtime": 314,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/barely-racing-2024/bkaxczodvn/02%20Garage.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/barely-racing-2024/bkaxczodvn/02%20Garage.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/barely-racing-2024/02%2520Garage.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 202343710,
+      "filesize_mp3_bytes": 28626124,
+      "track_number": 3,
+      "title": "Racing Mix",
+      "runtime": 839,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/barely-racing-2024/tyfiudshqu/03%20Racing%20Mix.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/barely-racing-2024/tyfiudshqu/03%20Racing%20Mix.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/barely-racing-2024/03%2520Racing%2520Mix.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1446,
+    "filesize_mp3_bytes": 49618615,
+    "filesize_flac_bytes": 344834701,
+    "tracks": 3
+  }
+}

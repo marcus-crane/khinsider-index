@@ -1,0 +1,82 @@
+{
+  "title": "Carrier Command 2info",
+  "titles_alternative": [
+    "Carrier Command 2 OST"
+  ],
+  "crawled_at": "2024-01-16T14:03:21.016122+00:00",
+  "slug": "carrier-command-2-2021",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/carrier-command-2-2021",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/carrier-command-2-2021/ss_055475f46408788d7c302777f50940a4212a2c86.jpg"
+  ],
+  "year": 2021,
+  "date_added": "2024-01-16T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "MicroProse Software": "https://downloads.khinsider.com/game-soundtracks/publisher/microprose-software"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6490685,
+      "track_number": 1,
+      "title": "Carrier Command",
+      "runtime": 276,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/carrier-command-2-2021/pzavgwxrfd/01.%20Carrier%20Command.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/carrier-command-2-2021/01.%2520Carrier%2520Command.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6532628,
+      "track_number": 2,
+      "title": "Just Another Missile",
+      "runtime": 298,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/carrier-command-2-2021/zpptloblmb/02.%20Just%20Another%20Missile.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/carrier-command-2-2021/02.%2520Just%2520Another%2520Missile.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8115978,
+      "track_number": 3,
+      "title": "List",
+      "runtime": 367,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/carrier-command-2-2021/zcghuqfqnh/03.%20List.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/carrier-command-2-2021/03.%2520List.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7172259,
+      "track_number": 4,
+      "title": "Night Maneuvers",
+      "runtime": 336,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/carrier-command-2-2021/gwuwbbohyx/04.%20Night%20Maneuvers.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/carrier-command-2-2021/04.%2520Night%2520Maneuvers.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6029312,
+      "track_number": 5,
+      "title": "Planetary Defense Systems",
+      "runtime": 255,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/carrier-command-2-2021/gilgfrxujv/05.%20Planetary%20Defense%20Systems.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/carrier-command-2-2021/05.%2520Planetary%2520Defense%2520Systems.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1532,
+    "filesize_mp3_bytes": 34340862,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}
