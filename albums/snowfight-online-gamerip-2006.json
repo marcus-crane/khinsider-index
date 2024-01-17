@@ -1,0 +1,90 @@
+{
+  "title": "Snowfightinfo",
+  "titles_alternative": [
+    "Snowfight 3D"
+  ],
+  "crawled_at": "2024-01-17T14:05:15.301479+00:00",
+  "slug": "snowfight-online-gamerip-2006",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/snowfight-online-gamerip-2006",
+  "platforms": {
+    "Online": "https://downloads.khinsider.com/game-soundtracks/online"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/snowfight-online-gamerip-2006/Cover.png"
+  ],
+  "year": 2006,
+  "date_added": "2024-01-17T00:00:00+00:00",
+  "developers": {
+    "Robotduck": "https://downloads.khinsider.com/game-soundtracks/developer/robotduck"
+  },
+  "publishers": {
+    "Fetchfido": "https://downloads.khinsider.com/game-soundtracks/publisher/fetchfido",
+    "Miniclip": "https://downloads.khinsider.com/game-soundtracks/publisher/miniclip"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 83886,
+      "filesize_mp3_bytes": 52428,
+      "track_number": 1,
+      "title": "Gameover",
+      "runtime": 3,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/snowfight-online-gamerip-2006/fmrouflsis/01.%20Gameover.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/snowfight-online-gamerip-2006/fmrouflsis/01.%20Gameover.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/snowfight-online-gamerip-2006/01.%2520Gameover.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 178257,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 2,
+      "title": "Level Finished",
+      "runtime": 7,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/snowfight-online-gamerip-2006/ljsxvsanxy/02.%20Level%20Finished.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/snowfight-online-gamerip-2006/ljsxvsanxy/02.%20Level%20Finished.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/snowfight-online-gamerip-2006/02.%2520Level%2520Finished.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1908408,
+      "filesize_mp3_bytes": 996147,
+      "track_number": 3,
+      "title": "Title Full",
+      "runtime": 62,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/snowfight-online-gamerip-2006/lyggiialpb/03.%20Title%20Full.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/snowfight-online-gamerip-2006/lyggiialpb/03.%20Title%20Full.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/snowfight-online-gamerip-2006/03.%2520Title%2520Full.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 272629,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 4,
+      "title": "Title Intro",
+      "runtime": 9,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/snowfight-online-gamerip-2006/qaymvojtuq/04.%20Title%20Intro.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/snowfight-online-gamerip-2006/qaymvojtuq/04.%20Title%20Intro.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/snowfight-online-gamerip-2006/04.%2520Title%2520Intro.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 283115,
+      "filesize_mp3_bytes": 125829,
+      "track_number": 5,
+      "title": "Title Loop",
+      "runtime": 9,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/snowfight-online-gamerip-2006/knxhjldugc/05.%20Title%20Loop.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/snowfight-online-gamerip-2006/knxhjldugc/05.%20Title%20Loop.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/snowfight-online-gamerip-2006/05.%2520Title%2520Loop.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 90,
+    "filesize_mp3_bytes": 1384119,
+    "filesize_flac_bytes": 2726295,
+    "tracks": 5
+  }
+}

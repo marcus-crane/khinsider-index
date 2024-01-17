@@ -1,0 +1,52 @@
+{
+  "title": "Snow Lineinfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-01-17T14:05:14.312350+00:00",
+  "slug": "snow-line-online-gamerip-2007",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/snow-line-online-gamerip-2007",
+  "platforms": {
+    "Online": "https://downloads.khinsider.com/game-soundtracks/online"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/snow-line-online-gamerip-2007/Cover%202.png"
+  ],
+  "year": 2007,
+  "date_added": "2024-01-17T00:00:00+00:00",
+  "developers": {
+    "IriySoft": "https://downloads.khinsider.com/game-soundtracks/developer/iriysoft"
+  },
+  "publishers": {
+    "Miniclip": "https://downloads.khinsider.com/game-soundtracks/publisher/miniclip"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 293601,
+      "track_number": 1,
+      "title": "Game Background",
+      "runtime": 37,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/snow-line-online-gamerip-2007/gnaspkovdl/01.%20Game%20Background.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/snow-line-online-gamerip-2007/01.%2520Game%2520Background.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 188743,
+      "track_number": 2,
+      "title": "Menu Background",
+      "runtime": 24,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/snow-line-online-gamerip-2007/mkwwihbwhh/02.%20Menu%20Background.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/snow-line-online-gamerip-2007/02.%2520Menu%2520Background.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 61,
+    "filesize_mp3_bytes": 482344,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

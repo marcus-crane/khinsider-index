@@ -1,0 +1,52 @@
+{
+  "title": "Heli Attack 2info",
+  "titles_alternative": [],
+  "crawled_at": "2024-01-17T14:03:39.205370+00:00",
+  "slug": "heli-attack-2-online-gamerip-2003",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/heli-attack-2-online-gamerip-2003",
+  "platforms": {
+    "Online": "https://downloads.khinsider.com/game-soundtracks/online"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/heli-attack-2-online-gamerip-2003/Cover.png"
+  ],
+  "year": 2003,
+  "date_added": "2024-01-17T00:00:00+00:00",
+  "developers": {
+    "SquareCircleCo": "https://downloads.khinsider.com/game-soundtracks/developer/squarecircleco"
+  },
+  "publishers": {
+    "Miniclip": "https://downloads.khinsider.com/game-soundtracks/publisher/miniclip"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1237319,
+      "track_number": 1,
+      "title": "Music Extended",
+      "runtime": 62,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/heli-attack-2-online-gamerip-2003/puqaewwxrc/01.%20Music%20Extended.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/heli-attack-2-online-gamerip-2003/01.%2520Music%2520Extended.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 2,
+      "title": "Music Loop",
+      "runtime": 7,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/heli-attack-2-online-gamerip-2003/vsmfxfetls/02.%20Music%20Loop.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/heli-attack-2-online-gamerip-2003/02.%2520Music%2520Loop.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 69,
+    "filesize_mp3_bytes": 1268776,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "title": "On The Road / RADIODRIVEinfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-01-17T14:03:59.923304+00:00",
+  "slug": "on-the-road-radiodrive-2001",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/on-the-road-radiodrive-2001",
+  "platforms": {
+    "PS2": "https://downloads.khinsider.com/game-soundtracks/playstation-2"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/on-the-road-radiodrive-2001/Cover.png"
+  ],
+  "year": 2001,
+  "catalog_number": "AKCJ-81003",
+  "date_added": "2024-01-17T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "purple hills record": "https://downloads.khinsider.com/game-soundtracks/publisher/purple-hills-record"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 13925089,
+      "track_number": 1,
+      "title": "On The Road",
+      "runtime": 237,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/on-the-road-radiodrive-2001/tfzmlooaac/01.%20On%20The%20Road.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/on-the-road-radiodrive-2001/01.%2520On%2520The%2520Road.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 16609443,
+      "track_number": 2,
+      "title": "After Grow",
+      "runtime": 304,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/on-the-road-radiodrive-2001/lxujnbobrv/02.%20After%20Grow.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/on-the-road-radiodrive-2001/02.%2520After%2520Grow.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 13925089,
+      "track_number": 3,
+      "title": "On The Road [off vocal]",
+      "runtime": 237,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/on-the-road-radiodrive-2001/dmsjkwynzd/03.%20On%20The%20Road%20%5Boff%20vocal%5D.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/on-the-road-radiodrive-2001/03.%2520On%2520The%2520Road%2520%255Boff%2520vocal%255D.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 16483614,
+      "track_number": 4,
+      "title": "After Grow [off vocal]",
+      "runtime": 301,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/on-the-road-radiodrive-2001/vwbdsyibbr/04.%20After%20Grow%20%5Boff%20vocal%5D.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/on-the-road-radiodrive-2001/04.%2520After%2520Grow%2520%255Boff%2520vocal%255D.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1079,
+    "filesize_mp3_bytes": 60943235,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}
