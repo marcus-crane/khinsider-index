@@ -1,0 +1,76 @@
+{
+  "title": "When The Lights Go Diminfo",
+  "titles_alternative": [
+    "When The Lights Go Dim OST"
+  ],
+  "crawled_at": "2024-01-18T21:08:55.039419+00:00",
+  "slug": "when-the-lights-go-dim-2023",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/when-the-lights-go-dim-2023",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/when-the-lights-go-dim-2023/Cover.png"
+  ],
+  "year": 2023,
+  "catalog_number": null,
+  "date_added": "2024-01-18T00:00:00+00:00",
+  "developers": {
+    "DaRadsla": "https://downloads.khinsider.com/game-soundtracks/developer/daradsla",
+    "Fredinator": "https://downloads.khinsider.com/game-soundtracks/developer/fredinator"
+  },
+  "publishers": {
+    "Matson": "https://downloads.khinsider.com/game-soundtracks/publisher/matson"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3376414,
+      "track_number": 1,
+      "title": "Lights Out",
+      "runtime": 48,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/when-the-lights-go-dim-2023/hiuwpabqfp/01.%20Lights%20Out.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/when-the-lights-go-dim-2023/01.%2520Lights%2520Out.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4078960,
+      "track_number": 2,
+      "title": "The Haunting Theme",
+      "runtime": 106,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/when-the-lights-go-dim-2023/jaimltyihr/02.%20The%20Haunting%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/when-the-lights-go-dim-2023/02.%2520The%2520Haunting%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3187671,
+      "track_number": 3,
+      "title": "It's Over",
+      "runtime": 40,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/when-the-lights-go-dim-2023/wgnpjsfeun/03.%20It%27s%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/when-the-lights-go-dim-2023/03.%2520It%2527s%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4687134,
+      "track_number": 4,
+      "title": "Sweet Relief",
+      "runtime": 112,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/when-the-lights-go-dim-2023/bozuczhhyu/04.%20Sweet%20Relief.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/when-the-lights-go-dim-2023/04.%2520Sweet%2520Relief.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 306,
+    "filesize_mp3_bytes": 15330179,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

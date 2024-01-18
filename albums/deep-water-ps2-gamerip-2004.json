@@ -1,0 +1,69 @@
+{
+  "title": "Deep Waterinfo",
+  "titles_alternative": [
+    "SIMPLE2000\u30b7\u30ea\u30fc\u30ba Vol.54 THE \u5927\u6d77\u7363",
+    "SIMPLE2000 Series Vol.54 THE Daikaijuu"
+  ],
+  "crawled_at": "2024-01-18T21:02:57.115007+00:00",
+  "slug": "deep-water-ps2-gamerip-2004",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/deep-water-ps2-gamerip-2004",
+  "platforms": {
+    "PS2": "https://downloads.khinsider.com/game-soundtracks/playstation-2"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/deep-water-ps2-gamerip-2004/cover.png"
+  ],
+  "year": 2004,
+  "date_added": "2024-01-18T00:00:00+00:00",
+  "developers": {
+    "Tamsoft": "https://downloads.khinsider.com/game-soundtracks/developer/tamsoft"
+  },
+  "publishers": {
+    "505 GameStreet": "https://downloads.khinsider.com/game-soundtracks/publisher/505-gamestreet",
+    "D3Publisher": "https://downloads.khinsider.com/game-soundtracks/publisher/d3publisher"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 22680698,
+      "filesize_mp3_bytes": 5819596,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 176,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/deep-water-ps2-gamerip-2004/ntxruzsnos/01.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/deep-water-ps2-gamerip-2004/ntxruzsnos/01.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/deep-water-ps2-gamerip-2004/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 22177382,
+      "filesize_mp3_bytes": 6333399,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 176,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/deep-water-ps2-gamerip-2004/mgwkuthpoe/02.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/deep-water-ps2-gamerip-2004/mgwkuthpoe/02.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/deep-water-ps2-gamerip-2004/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 20573061,
+      "filesize_mp3_bytes": 4666163,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 146,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/deep-water-ps2-gamerip-2004/ymzfapjyhk/03.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/deep-water-ps2-gamerip-2004/ymzfapjyhk/03.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/deep-water-ps2-gamerip-2004/03.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 498,
+    "filesize_mp3_bytes": 16819158,
+    "filesize_flac_bytes": 65431141,
+    "tracks": 3
+  }
+}
