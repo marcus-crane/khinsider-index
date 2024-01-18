@@ -1,0 +1,75 @@
+{
+  "title": "MCU x SEGA Sound Collectioninfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-01-18T14:10:12.643532+00:00",
+  "slug": "mcu-x-sega-sound-collection-2021",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mcu-x-sega-sound-collection-2021",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/mcu-x-sega-sound-collection-2021/00%20Booklet%20Front.jpg"
+  ],
+  "year": 2021,
+  "catalog_number": "GG-202102",
+  "date_added": "2024-01-18T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "GAMES GLORIOUS Records": "https://downloads.khinsider.com/game-soundtracks/publisher/games-glorious-records"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 17291018,
+      "filesize_mp3_bytes": 4445962,
+      "track_number": 1,
+      "title": "FANTASY ZONE",
+      "runtime": 132,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/mcu-x-sega-sound-collection-2021/zxdxebukyl/01%20FANTASY%20ZONE.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/mcu-x-sega-sound-collection-2021/zxdxebukyl/01%20FANTASY%20ZONE.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mcu-x-sega-sound-collection-2021/01%2520FANTASY%2520ZONE.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 15938355,
+      "filesize_mp3_bytes": 4750049,
+      "track_number": 2,
+      "title": "PENGO",
+      "runtime": 136,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/mcu-x-sega-sound-collection-2021/icgivchjuo/02%20PENGO.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/mcu-x-sega-sound-collection-2021/icgivchjuo/02%20PENGO.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mcu-x-sega-sound-collection-2021/02%2520PENGO.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 26329743,
+      "filesize_mp3_bytes": 6742343,
+      "track_number": 3,
+      "title": "GAIN GROUND",
+      "runtime": 202,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/mcu-x-sega-sound-collection-2021/cwwpgbsmbw/03%20GAIN%20GROUND.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/mcu-x-sega-sound-collection-2021/cwwpgbsmbw/03%20GAIN%20GROUND.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mcu-x-sega-sound-collection-2021/03%2520GAIN%2520GROUND.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 18360565,
+      "filesize_mp3_bytes": 4739563,
+      "track_number": 4,
+      "title": "ALEX KIDD IN MIRACLE WORLD",
+      "runtime": 145,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/mcu-x-sega-sound-collection-2021/mzqgiyymby/04%20ALEX%20KIDD%20IN%20MIRACLE%20WORLD.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/mcu-x-sega-sound-collection-2021/mzqgiyymby/04%20ALEX%20KIDD%20IN%20MIRACLE%20WORLD.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mcu-x-sega-sound-collection-2021/04%2520ALEX%2520KIDD%2520IN%2520MIRACLE%2520WORLD.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 615,
+    "filesize_mp3_bytes": 20677917,
+    "filesize_flac_bytes": 77919681,
+    "tracks": 4
+  }
+}

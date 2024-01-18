@@ -1,0 +1,75 @@
+{
+  "title": "Yume Nikki EPinfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-01-18T14:19:23.645269+00:00",
+  "slug": "yume-nikki-ep-2019",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/yume-nikki-ep-2019",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/yume-nikki-ep-2019/00%20Front.jpg"
+  ],
+  "year": 2019,
+  "catalog_number": null,
+  "date_added": "2024-01-18T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Chaos X": "https://downloads.khinsider.com/game-soundtracks/publisher/chaos-x"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 37832622,
+      "filesize_mp3_bytes": 11639193,
+      "track_number": 1,
+      "title": "Dream Diary",
+      "runtime": 333,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/yume-nikki-ep-2019/qpcmmkyvux/01.%20Dream%20Diary.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/yume-nikki-ep-2019/qpcmmkyvux/01.%20Dream%20Diary.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/yume-nikki-ep-2019/01.%2520Dream%2520Diary.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 40705720,
+      "filesize_mp3_bytes": 12163481,
+      "track_number": 2,
+      "title": "Famicom Faults",
+      "runtime": 333,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/yume-nikki-ep-2019/dnrvuyeswt/02.%20Famicom%20Faults.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/yume-nikki-ep-2019/dnrvuyeswt/02.%20Famicom%20Faults.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/yume-nikki-ep-2019/02.%2520Famicom%2520Faults.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 60177776,
+      "filesize_mp3_bytes": 19094568,
+      "track_number": 3,
+      "title": "Somber Settlements",
+      "runtime": 566,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/yume-nikki-ep-2019/suonepeajc/03.%20Somber%20Settlements.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/yume-nikki-ep-2019/suonepeajc/03.%20Somber%20Settlements.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/yume-nikki-ep-2019/03.%2520Somber%2520Settlements.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 32264683,
+      "filesize_mp3_bytes": 10003415,
+      "track_number": 4,
+      "title": "Requiem Rites",
+      "runtime": 303,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/yume-nikki-ep-2019/uufaetsguw/04.%20Requiem%20Rites.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/yume-nikki-ep-2019/uufaetsguw/04.%20Requiem%20Rites.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/yume-nikki-ep-2019/04.%2520Requiem%2520Rites.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1535,
+    "filesize_mp3_bytes": 52900657,
+    "filesize_flac_bytes": 170980801,
+    "tracks": 4
+  }
+}

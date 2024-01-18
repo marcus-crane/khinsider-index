@@ -1,0 +1,75 @@
+{
+  "title": "RALLY 99info",
+  "titles_alternative": [],
+  "crawled_at": "2024-01-18T14:14:41.442222+00:00",
+  "slug": "rally-99-2023",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/rally-99-2023",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/rally-99-2023/cover.jpg"
+  ],
+  "year": 2023,
+  "catalog_number": null,
+  "date_added": "2024-01-18T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "SAM WAITIN": "https://downloads.khinsider.com/game-soundtracks/publisher/sam-waitin"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 38419824,
+      "filesize_mp3_bytes": 5305794,
+      "track_number": 1,
+      "title": "ALL U NEED",
+      "runtime": 167,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/rally-99-2023/cjccfmhldi/01.%20ALL%20U%20NEED.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/rally-99-2023/cjccfmhldi/01.%20ALL%20U%20NEED.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rally-99-2023/01.%2520ALL%2520U%2520NEED.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 41156608,
+      "filesize_mp3_bytes": 6322913,
+      "track_number": 2,
+      "title": "WRECKING BOOM",
+      "runtime": 180,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/rally-99-2023/okarpxoedh/02.%20WRECKING%20BOOM.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/rally-99-2023/okarpxoedh/02.%20WRECKING%20BOOM.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rally-99-2023/02.%2520WRECKING%2520BOOM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 39195770,
+      "filesize_mp3_bytes": 5714739,
+      "track_number": 3,
+      "title": "BRAKE CHECK",
+      "runtime": 180,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/rally-99-2023/qstjvcbpko/03.%20BRAKE%20CHECK.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/rally-99-2023/qstjvcbpko/03.%20BRAKE%20CHECK.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rally-99-2023/03.%2520BRAKE%2520CHECK.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 34477178,
+      "filesize_mp3_bytes": 5358223,
+      "track_number": 4,
+      "title": "ASPHALT DREAMS",
+      "runtime": 160,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/rally-99-2023/bhqggzaaev/04.%20ASPHALT%20DREAMS.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/rally-99-2023/bhqggzaaev/04.%20ASPHALT%20DREAMS.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rally-99-2023/04.%2520ASPHALT%2520DREAMS.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 687,
+    "filesize_mp3_bytes": 22701669,
+    "filesize_flac_bytes": 153249380,
+    "tracks": 4
+  }
+}

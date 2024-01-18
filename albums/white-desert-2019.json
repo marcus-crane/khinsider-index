@@ -1,0 +1,77 @@
+{
+  "title": "White Desertinfo",
+  "titles_alternative": [
+    "Yume Nikki"
+  ],
+  "crawled_at": "2024-01-18T14:19:01.433481+00:00",
+  "slug": "white-desert-2019",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/white-desert-2019",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/white-desert-2019/00%20Front.jpg"
+  ],
+  "year": 2019,
+  "catalog_number": null,
+  "date_added": "2024-01-18T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Inmsomnia": "https://downloads.khinsider.com/game-soundtracks/publisher/inmsomnia"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 7769948,
+      "filesize_mp3_bytes": 2956984,
+      "track_number": 1,
+      "title": "Monoko",
+      "runtime": 91,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/white-desert-2019/tvqbdyxfle/01.%20Monoko.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/white-desert-2019/tvqbdyxfle/01.%20Monoko.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/white-desert-2019/01.%2520Monoko.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9950986,
+      "filesize_mp3_bytes": 3774873,
+      "track_number": 2,
+      "title": "Monoe",
+      "runtime": 115,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/white-desert-2019/ucmwnqpyqg/02.%20Monoe.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/white-desert-2019/ucmwnqpyqg/02.%20Monoe.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/white-desert-2019/02.%2520Monoe.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 12551454,
+      "filesize_mp3_bytes": 4372561,
+      "track_number": 3,
+      "title": "Dave Spector",
+      "runtime": 140,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/white-desert-2019/mvjdvwrzuf/03.%20Dave%20Spector.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/white-desert-2019/mvjdvwrzuf/03.%20Dave%20Spector.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/white-desert-2019/03.%2520Dave%2520Spector.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9646899,
+      "filesize_mp3_bytes": 3638558,
+      "track_number": 4,
+      "title": "Eye People",
+      "runtime": 114,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/white-desert-2019/quuxgnqevq/04.%20Eye%20People.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/white-desert-2019/quuxgnqevq/04.%20Eye%20People.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/white-desert-2019/04.%2520Eye%2520People.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 460,
+    "filesize_mp3_bytes": 14742976,
+    "filesize_flac_bytes": 39919287,
+    "tracks": 4
+  }
+}

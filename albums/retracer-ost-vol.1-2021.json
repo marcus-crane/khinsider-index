@@ -1,0 +1,86 @@
+{
+  "title": "RETRACER OST Vol.1info",
+  "titles_alternative": [],
+  "crawled_at": "2024-01-18T14:14:43.124562+00:00",
+  "slug": "retracer-ost-vol.1-2021",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/retracer-ost-vol.1-2021",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/retracer-ost-vol.1-2021/cover.jpg"
+  ],
+  "year": 2021,
+  "catalog_number": null,
+  "date_added": "2024-01-18T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "SAM WAITIN": "https://downloads.khinsider.com/game-soundtracks/publisher/sam-waitin"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 1384120,
+      "filesize_mp3_bytes": 387973,
+      "track_number": 1,
+      "title": "START",
+      "runtime": 12,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/retracer-ost-vol.1-2021/qtevgmvuub/01.%20START.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/retracer-ost-vol.1-2021/qtevgmvuub/01.%20START.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/retracer-ost-vol.1-2021/01.%2520START.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 21590179,
+      "filesize_mp3_bytes": 5347737,
+      "track_number": 2,
+      "title": "GIVE U ALL",
+      "runtime": 167,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/retracer-ost-vol.1-2021/llqpjajrjh/02.%20GIVE%20U%20ALL.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/retracer-ost-vol.1-2021/llqpjajrjh/02.%20GIVE%20U%20ALL.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/retracer-ost-vol.1-2021/02.%2520GIVE%2520U%2520ALL.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 25406996,
+      "filesize_mp3_bytes": 6354370,
+      "track_number": 3,
+      "title": "GET FUNKY",
+      "runtime": 188,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/retracer-ost-vol.1-2021/ussgjopuct/03.%20GET%20FUNKY.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/retracer-ost-vol.1-2021/ussgjopuct/03.%20GET%20FUNKY.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/retracer-ost-vol.1-2021/03.%2520GET%2520FUNKY.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 25595740,
+      "filesize_mp3_bytes": 6186598,
+      "track_number": 4,
+      "title": "SELECT",
+      "runtime": 194,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/retracer-ost-vol.1-2021/ohcjltudsz/04.%20SELECT.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/retracer-ost-vol.1-2021/ohcjltudsz/04.%20SELECT.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/retracer-ost-vol.1-2021/04.%2520SELECT.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 24704450,
+      "filesize_mp3_bytes": 6427770,
+      "track_number": 5,
+      "title": "B.T. PASSAGE",
+      "runtime": 198,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/retracer-ost-vol.1-2021/dppvoyumeq/05.%20B.T.%20PASSAGE.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/retracer-ost-vol.1-2021/dppvoyumeq/05.%20B.T.%20PASSAGE.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/retracer-ost-vol.1-2021/05.%2520B.T.%2520PASSAGE.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 759,
+    "filesize_mp3_bytes": 24704448,
+    "filesize_flac_bytes": 98681485,
+    "tracks": 5
+  }
+}
