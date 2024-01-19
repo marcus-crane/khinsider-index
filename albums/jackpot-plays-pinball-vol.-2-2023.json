@@ -1,0 +1,53 @@
+{
+  "title": "Jackpot Plays PINBALL, Vol. 2info",
+  "titles_alternative": [],
+  "crawled_at": "2024-01-19T07:02:31.791631+00:00",
+  "slug": "jackpot-plays-pinball-vol.-2-2023",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/jackpot-plays-pinball-vol.-2-2023",
+  "platforms": {
+    "Arcade": "https://downloads.khinsider.com/game-soundtracks/arcade"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/jackpot-plays-pinball-vol.-2-2023/00%20Front.webp"
+  ],
+  "year": 2023,
+  "catalog_number": "JPR105",
+  "date_added": "2024-01-19T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Jackpot Records": "https://downloads.khinsider.com/game-soundtracks/publisher/jackpot-records"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 355614064,
+      "filesize_mp3_bytes": 35253125,
+      "track_number": 1,
+      "title": "Side A [JPR105]",
+      "runtime": 1073,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/jackpot-plays-pinball-vol.-2-2023/lebyeebyrm/01%20Side%20A%20%5BJPR105%5D.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/jackpot-plays-pinball-vol.-2-2023/lebyeebyrm/01%20Side%20A%20%5BJPR105%5D.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jackpot-plays-pinball-vol.-2-2023/01%2520Side%2520A%2520%255BJPR105%255D.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 305439703,
+      "filesize_mp3_bytes": 29265756,
+      "track_number": 2,
+      "title": "Side B [JPR105]",
+      "runtime": 885,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/jackpot-plays-pinball-vol.-2-2023/nwxrxagfgn/02%20Side%20B%20%5BJPR105%5D.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/jackpot-plays-pinball-vol.-2-2023/nwxrxagfgn/02%20Side%20B%20%5BJPR105%5D.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jackpot-plays-pinball-vol.-2-2023/02%2520Side%2520B%2520%255BJPR105%255D.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1958,
+    "filesize_mp3_bytes": 64518881,
+    "filesize_flac_bytes": 661053767,
+    "tracks": 2
+  }
+}
