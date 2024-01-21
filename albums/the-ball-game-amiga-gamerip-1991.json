@@ -1,0 +1,42 @@
+{
+  "title": "The Ball Gameinfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-01-21T21:05:40.719878+00:00",
+  "slug": "the-ball-game-amiga-gamerip-1991",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/the-ball-game-amiga-gamerip-1991",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/the-ball-game-amiga-gamerip-1991/The%20Ball%20Game%20Amiga%20Cover.png"
+  ],
+  "year": 1991,
+  "date_added": "2024-01-21T00:00:00+00:00",
+  "developers": {
+    "ESP": "https://downloads.khinsider.com/game-soundtracks/developer/esp"
+  },
+  "publishers": {
+    "Electronic Zoo": "https://downloads.khinsider.com/game-soundtracks/publisher/electronic-zoo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5368709,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 330,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/the-ball-game-amiga-gamerip-1991/udwfnzyexc/01.%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-ball-game-amiga-gamerip-1991/01.%2520Title.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 330,
+    "filesize_mp3_bytes": 5368709,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}
