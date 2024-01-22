@@ -1,0 +1,64 @@
+{
+  "title": "Slayerinfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-01-22T14:06:52.349218+00:00",
+  "slug": "slayer-atari-st-gamerip-1989",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/slayer-atari-st-gamerip-1989",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/slayer-atari-st-gamerip-1989/Slayer%20Atari%20ST%20Cover%201.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2024-01-22T00:00:00+00:00",
+  "developers": {
+    "Imperial Software Designs": "https://downloads.khinsider.com/game-soundtracks/developer/imperial-software-designs",
+    "Micro Wish": "https://downloads.khinsider.com/game-soundtracks/developer/micro-wish"
+  },
+  "publishers": {
+    "Hewson Consultants": "https://downloads.khinsider.com/game-soundtracks/publisher/hewson-consultants",
+    "Prism Leisure": "https://downloads.khinsider.com/game-soundtracks/publisher/prism-leisure"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2474639,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 64,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/slayer-atari-st-gamerip-1989/klyrrbngow/01.%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/slayer-atari-st-gamerip-1989/01.%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 838860,
+      "track_number": 2,
+      "title": "Loading",
+      "runtime": 9,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/slayer-atari-st-gamerip-1989/nkviwryhup/02.%20Loading.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/slayer-atari-st-gamerip-1989/02.%2520Loading.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2768240,
+      "track_number": 3,
+      "title": "Name Entry",
+      "runtime": 84,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/slayer-atari-st-gamerip-1989/obvsiyivax/03.%20Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/slayer-atari-st-gamerip-1989/03.%2520Name%2520Entry.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 157,
+    "filesize_mp3_bytes": 6081739,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

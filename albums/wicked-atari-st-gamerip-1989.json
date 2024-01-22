@@ -1,0 +1,93 @@
+{
+  "title": "Wickedinfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-01-22T14:09:07.385805+00:00",
+  "slug": "wicked-atari-st-gamerip-1989",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/wicked-atari-st-gamerip-1989",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/wicked-atari-st-gamerip-1989/Winter%20Challenge%20Atari%20ST%20Cover%201.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2024-01-22T00:00:00+00:00",
+  "developers": {
+    "Binary Vision": "https://downloads.khinsider.com/game-soundtracks/developer/binary-vision"
+  },
+  "publishers": {
+    "Electric Dreams": "https://downloads.khinsider.com/game-soundtracks/publisher/electric-dreams",
+    "Mediagenic": "https://downloads.khinsider.com/game-soundtracks/publisher/mediagenic"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1709178,
+      "track_number": 1,
+      "title": "Title Screen ~ Opening Ceremony",
+      "runtime": 82,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/wicked-atari-st-gamerip-1989/jfctqueups/01.%20Title%20Screen%20~%20Opening%20Ceremony.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wicked-atari-st-gamerip-1989/01.%2520Title%2520Screen%2520~%2520Opening%2520Ceremony.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1237319,
+      "track_number": 2,
+      "title": "Downhill",
+      "runtime": 51,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/wicked-atari-st-gamerip-1989/phzbaljnht/02.%20Downhill.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wicked-atari-st-gamerip-1989/02.%2520Downhill.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1793064,
+      "track_number": 3,
+      "title": "Ski Jump",
+      "runtime": 82,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/wicked-atari-st-gamerip-1989/jahdhsnufp/03.%20Ski%20Jump.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wicked-atari-st-gamerip-1989/03.%2520Ski%2520Jump.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1174405,
+      "track_number": 4,
+      "title": "Biathlon",
+      "runtime": 54,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/wicked-atari-st-gamerip-1989/zkwrhhzfqq/04.%20Biathlon.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wicked-atari-st-gamerip-1989/04.%2520Biathlon.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1625292,
+      "track_number": 5,
+      "title": "Slalom",
+      "runtime": 69,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/wicked-atari-st-gamerip-1989/sjauswcujc/05.%20Slalom.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wicked-atari-st-gamerip-1989/05.%2520Slalom.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1719664,
+      "track_number": 6,
+      "title": "Bobsled",
+      "runtime": 82,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/wicked-atari-st-gamerip-1989/jaikomahme/06.%20Bobsled.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wicked-atari-st-gamerip-1989/06.%2520Bobsled.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 420,
+    "filesize_mp3_bytes": 9258922,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

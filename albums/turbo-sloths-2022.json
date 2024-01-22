@@ -1,0 +1,43 @@
+{
+  "title": "Turbo Slothsinfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-01-22T14:08:21.885637+00:00",
+  "slug": "turbo-sloths-2022",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/turbo-sloths-2022",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/turbo-sloths-2022/folder.jpg"
+  ],
+  "year": 2022,
+  "date_added": "2024-01-22T00:00:00+00:00",
+  "developers": {
+    "RainStyle Games Limited": "https://downloads.khinsider.com/game-soundtracks/developer/rainstyle-games-limited"
+  },
+  "publishers": {
+    "RainStyle Games Limited": "https://downloads.khinsider.com/game-soundtracks/publisher/rainstyle-games-limited"
+  },
+  "genres": {
+    "Remix": "https://downloads.khinsider.com/game-soundtracks/remixes"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 79240888,
+      "filesize_mp3_bytes": 19807600,
+      "track_number": 1,
+      "title": "Turbo Sloths",
+      "runtime": 600,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/turbo-sloths-2022/ogucbukgnm/01.%20Turbo%20Sloths.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/turbo-sloths-2022/ogucbukgnm/01.%20Turbo%20Sloths.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/turbo-sloths-2022/01.%2520Turbo%2520Sloths.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 600,
+    "filesize_mp3_bytes": 19807600,
+    "filesize_flac_bytes": 79240888,
+    "tracks": 1
+  }
+}

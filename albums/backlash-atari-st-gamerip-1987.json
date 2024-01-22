@@ -1,0 +1,43 @@
+{
+  "title": "Backlashinfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-01-22T14:01:47.594452+00:00",
+  "slug": "backlash-atari-st-gamerip-1987",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/backlash-atari-st-gamerip-1987",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/backlash-atari-st-gamerip-1987/Backlash%20Atari%20ST%20Cover.jpg"
+  ],
+  "year": 1987,
+  "date_added": "2024-01-22T00:00:00+00:00",
+  "developers": {
+    "Novagen Software": "https://downloads.khinsider.com/game-soundtracks/developer/novagen-software"
+  },
+  "publishers": {
+    "Action 16": "https://downloads.khinsider.com/game-soundtracks/publisher/action-16",
+    "Novagen Software": "https://downloads.khinsider.com/game-soundtracks/publisher/novagen-software"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2160066,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 75,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/backlash-atari-st-gamerip-1987/zpphmuwyli/01.%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/backlash-atari-st-gamerip-1987/01.%2520Title.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 75,
+    "filesize_mp3_bytes": 2160066,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}
