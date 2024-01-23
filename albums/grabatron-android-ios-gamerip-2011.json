@@ -1,0 +1,63 @@
+{
+  "title": "Grabatroninfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-01-23T21:03:57.019512+00:00",
+  "slug": "grabatron-android-ios-gamerip-2011",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/grabatron-android-ios-gamerip-2011",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/grabatron-android-ios-gamerip-2011/GraboCover.png"
+  ],
+  "year": 2011,
+  "date_added": "2024-01-23T00:00:00+00:00",
+  "developers": {
+    "Future Games Of London": "https://downloads.khinsider.com/game-soundtracks/developer/future-games-of-london"
+  },
+  "publishers": {
+    "Future Games Of London": "https://downloads.khinsider.com/game-soundtracks/publisher/future-games-of-london"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4645191,
+      "track_number": 1,
+      "title": "Menu Music",
+      "runtime": 174,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/grabatron-android-ios-gamerip-2011/ovrkkoxsjw/01.%20Menu%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/grabatron-android-ios-gamerip-2011/01.%2520Menu%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7256145,
+      "track_number": 2,
+      "title": "Game Music",
+      "runtime": 268,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/grabatron-android-ios-gamerip-2011/lsuvhhikqh/02.%20Game%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/grabatron-android-ios-gamerip-2011/02.%2520Game%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 975175,
+      "track_number": 3,
+      "title": "Game Over",
+      "runtime": 13,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/grabatron-android-ios-gamerip-2011/wbhugelqjp/03.%20Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/grabatron-android-ios-gamerip-2011/03.%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 455,
+    "filesize_mp3_bytes": 12876511,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}
