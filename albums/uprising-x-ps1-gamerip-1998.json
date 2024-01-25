@@ -1,0 +1,62 @@
+{
+  "title": "Uprising Xinfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-01-25T21:08:52.409352+00:00",
+  "slug": "uprising-x-ps1-gamerip-1998",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/uprising-x-ps1-gamerip-1998",
+  "platforms": {
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/uprising-x-ps1-gamerip-1998/cover.jpg"
+  ],
+  "year": 1998,
+  "date_added": "2024-01-25T00:00:00+00:00",
+  "developers": {
+    "Cyclone": "https://downloads.khinsider.com/game-soundtracks/developer/cyclone"
+  },
+  "publishers": {
+    "3DO": "https://downloads.khinsider.com/game-soundtracks/publisher/3do"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1530920,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 67,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/uprising-x-ps1-gamerip-1998/ipnyesvqkq/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/uprising-x-ps1-gamerip-1998/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2401239,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 105,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/uprising-x-ps1-gamerip-1998/itkilstvgv/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/uprising-x-ps1-gamerip-1998/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6102712,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 263,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/uprising-x-ps1-gamerip-1998/rtriqdubhi/03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/uprising-x-ps1-gamerip-1998/03.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 435,
+    "filesize_mp3_bytes": 10034871,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}
