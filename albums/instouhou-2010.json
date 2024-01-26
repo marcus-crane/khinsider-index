@@ -1,0 +1,81 @@
+{
+  "title": "InsTouhouinfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-01-26T21:19:56.590982+00:00",
+  "slug": "instouhou-2010",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/instouhou-2010",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/instouhou-2010/01-IST-FRONT.JPG"
+  ],
+  "year": 2010,
+  "catalog_number": null,
+  "date_added": "2024-01-26T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "DDBY": "https://downloads.khinsider.com/game-soundtracks/publisher/ddby"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9657384,
+      "track_number": 1,
+      "title": "Show Window",
+      "runtime": 215,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/instouhou-2010/scvstnxfxi/01.%20Show%20Window.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/instouhou-2010/01.%2520Show%2520Window.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7937720,
+      "track_number": 2,
+      "title": "Station",
+      "runtime": 173,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/instouhou-2010/lseuanizgt/02.%20Station.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/instouhou-2010/02.%2520Station.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7969177,
+      "track_number": 3,
+      "title": "Craftwells",
+      "runtime": 173,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/instouhou-2010/ypgnutexbh/03.%20Craftwells.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/instouhou-2010/03.%2520Craftwells.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8210350,
+      "track_number": 4,
+      "title": "Night Sparrow Big Band",
+      "runtime": 179,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/instouhou-2010/shsrjgyhbs/04.%20Night%20Sparrow%20Big%20Band.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/instouhou-2010/04.%2520Night%2520Sparrow%2520Big%2520Band.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 12016680,
+      "track_number": 5,
+      "title": "Secret in the Moonlit Night",
+      "runtime": 274,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/instouhou-2010/baoguhwvjc/05.%20Secret%20in%20the%20Moonlit%20Night.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/instouhou-2010/05.%2520Secret%2520in%2520the%2520Moonlit%2520Night.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1014,
+    "filesize_mp3_bytes": 45791311,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

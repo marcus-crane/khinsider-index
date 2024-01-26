@@ -1,0 +1,81 @@
+{
+  "title": "Highway 2info",
+  "titles_alternative": [],
+  "crawled_at": "2024-01-26T21:19:52.456356+00:00",
+  "slug": "highway-2-2010",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/highway-2-2010",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/highway-2-2010/01-HG2-FRONT.JPG"
+  ],
+  "year": 2010,
+  "catalog_number": null,
+  "date_added": "2024-01-26T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "DDBY": "https://downloads.khinsider.com/game-soundtracks/publisher/ddby"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 14260633,
+      "track_number": 1,
+      "title": "City",
+      "runtime": 324,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/highway-2-2010/nhxwdysdil/01.%20City.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/highway-2-2010/01.%2520City.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 14428405,
+      "track_number": 2,
+      "title": "Syncopation",
+      "runtime": 328,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/highway-2-2010/yatxmgcezd/02.%20Syncopation.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/highway-2-2010/02.%2520Syncopation.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 13316915,
+      "track_number": 3,
+      "title": "Piano Soon",
+      "runtime": 301,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/highway-2-2010/eanslvkiuf/03.%20Piano%20Soon.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/highway-2-2010/03.%2520Piano%2520Soon.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11251220,
+      "track_number": 4,
+      "title": "Square Night",
+      "runtime": 249,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/highway-2-2010/ojppkckeax/04.%20Square%20Night.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/highway-2-2010/04.%2520Square%2520Night.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9982443,
+      "track_number": 5,
+      "title": "Auto Pilot",
+      "runtime": 217,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/highway-2-2010/dsxtgkpite/05.%20Auto%20Pilot.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/highway-2-2010/05.%2520Auto%2520Pilot.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1419,
+    "filesize_mp3_bytes": 63239616,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "title": "Highwayinfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-01-26T21:19:54.105458+00:00",
+  "slug": "highway-2009",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/highway-2009",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/highway-2009/01-HGW-FRONT.JPG"
+  ],
+  "year": 2009,
+  "catalog_number": null,
+  "date_added": "2024-01-26T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "DDBY": "https://downloads.khinsider.com/game-soundtracks/publisher/ddby"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10664017,
+      "track_number": 1,
+      "title": "Midnight Cafe",
+      "runtime": 242,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/highway-2009/cewyxbicqg/01.%20Midnight%20Cafe.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/highway-2009/01.%2520Midnight%2520Cafe.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 13872660,
+      "track_number": 2,
+      "title": "Coler of the Wind",
+      "runtime": 323,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/highway-2009/zbmhffczkd/02.%20Coler%20of%20the%20Wind.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/highway-2009/02.%2520Coler%2520of%2520the%2520Wind.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 18203279,
+      "track_number": 3,
+      "title": "Keep",
+      "runtime": 431,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/highway-2009/khzjpxctys/03.%20Keep.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/highway-2009/03.%2520Keep.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11010048,
+      "track_number": 4,
+      "title": "Translucent Lake",
+      "runtime": 251,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/highway-2009/dlpmpdergw/04.%20Translucent%20Lake.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/highway-2009/04.%2520Translucent%2520Lake.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 13086228,
+      "track_number": 5,
+      "title": "Mirror Wind",
+      "runtime": 303,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/highway-2009/hbwfimtlnm/05.%20Mirror%20Wind.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/highway-2009/05.%2520Mirror%2520Wind.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8829009,
+      "track_number": 6,
+      "title": "Clock",
+      "runtime": 197,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/highway-2009/imaiortkcr/06.%20Clock.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/highway-2009/06.%2520Clock.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1747,
+    "filesize_mp3_bytes": 75665241,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}
