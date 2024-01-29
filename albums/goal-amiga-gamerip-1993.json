@@ -1,0 +1,42 @@
+{
+  "title": "Goal!info",
+  "titles_alternative": [],
+  "crawled_at": "2024-01-29T21:07:51.446188+00:00",
+  "slug": "goal-amiga-gamerip-1993",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/goal-amiga-gamerip-1993",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/goal-amiga-gamerip-1993/Goal%20Amiga%20Cover.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2024-01-29T00:00:00+00:00",
+  "developers": {
+    "Dini & Dini Productions": "https://downloads.khinsider.com/game-soundtracks/developer/dini-dini-productions"
+  },
+  "publishers": {
+    "Virgin": "https://downloads.khinsider.com/game-soundtracks/publisher/virgin"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2915041,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 176,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/goal-amiga-gamerip-1993/pgitiutdbu/01.%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/goal-amiga-gamerip-1993/01.%2520Title.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 176,
+    "filesize_mp3_bytes": 2915041,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

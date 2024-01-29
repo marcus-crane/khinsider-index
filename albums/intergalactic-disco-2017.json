@@ -1,0 +1,75 @@
+{
+  "title": "Intergalactic Discoinfo",
+  "titles_alternative": [
+    "JAPANESE",
+    "\u9280\u6cb3\u9593\u30c7\u30a3\u30b9\u30b3",
+    "KOREAN",
+    "\uc740\ud558\uacc4\uc758 \ub514\uc2a4\ucf54"
+  ],
+  "crawled_at": "2024-01-29T21:09:08.850127+00:00",
+  "slug": "intergalactic-disco-2017",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/intergalactic-disco-2017",
+  "platforms": {},
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/intergalactic-disco-2017/cover.jpg"
+  ],
+  "year": 2017,
+  "date_added": "2024-01-29T00:00:00+00:00",
+  "developers": {
+    "I MY ME": "https://downloads.khinsider.com/game-soundtracks/developer/i-my-me"
+  },
+  "publishers": {
+    "I MY ME": "https://downloads.khinsider.com/game-soundtracks/publisher/i-my-me"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 12247367,
+      "track_number": 1,
+      "title": "Intergalactic Disco",
+      "runtime": 301,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/intergalactic-disco-2017/kamvuvalfh/01.%20Intergalactic%20Disco.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/intergalactic-disco-2017/01.%2520Intergalactic%2520Disco.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 12247367,
+      "track_number": 2,
+      "title": "Intergalactic Disco (Japanese Version)",
+      "runtime": 301,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/intergalactic-disco-2017/pvgpuolrlp/02.%20Intergalactic%20Disco%20%28Japanese%20Version%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/intergalactic-disco-2017/02.%2520Intergalactic%2520Disco%2520%2528Japanese%2520Version%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 12247367,
+      "track_number": 3,
+      "title": "Intergalactic Disco (Korean Version)",
+      "runtime": 301,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/intergalactic-disco-2017/cozxpmpnsp/03.%20Intergalactic%20Disco%20%28Korean%20Version%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/intergalactic-disco-2017/03.%2520Intergalactic%2520Disco%2520%2528Korean%2520Version%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 12247367,
+      "track_number": 4,
+      "title": "Intergalactic Disco (Instrumental)",
+      "runtime": 301,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/intergalactic-disco-2017/pwfkyokxkn/04.%20Intergalactic%20Disco%20%28Instrumental%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/intergalactic-disco-2017/04.%2520Intergalactic%2520Disco%2520%2528Instrumental%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1204,
+    "filesize_mp3_bytes": 48989468,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

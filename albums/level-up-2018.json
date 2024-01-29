@@ -1,0 +1,70 @@
+{
+  "title": "Level Up!info",
+  "titles_alternative": [],
+  "crawled_at": "2024-01-29T21:09:34.600769+00:00",
+  "slug": "level-up-2018",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/level-up-2018",
+  "platforms": {},
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/level-up-2018/cover.jpg"
+  ],
+  "year": 2018,
+  "date_added": "2024-01-29T00:00:00+00:00",
+  "developers": {
+    "Interlunium": "https://downloads.khinsider.com/game-soundtracks/developer/interlunium"
+  },
+  "publishers": {
+    "Interlunium": "https://downloads.khinsider.com/game-soundtracks/publisher/interlunium"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8294236,
+      "track_number": 1,
+      "title": "Level Up",
+      "runtime": 202,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/level-up-2018/tkxveshxds/01.%20Level%20Up.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/level-up-2018/01.%2520Level%2520Up.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8294236,
+      "track_number": 2,
+      "title": "Level Up (Japanese Version)",
+      "runtime": 202,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/level-up-2018/sojyhlaxww/02.%20Level%20Up%20%28Japanese%20Version%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/level-up-2018/02.%2520Level%2520Up%2520%2528Japanese%2520Version%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8294236,
+      "track_number": 3,
+      "title": "Level Up (Korean Version)",
+      "runtime": 202,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/level-up-2018/luauybqimm/03.%20Level%20Up%20%28Korean%20Version%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/level-up-2018/03.%2520Level%2520Up%2520%2528Korean%2520Version%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8294236,
+      "track_number": 4,
+      "title": "Level Up (Instrumental)",
+      "runtime": 202,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/level-up-2018/wwjdopckbo/04.%20Level%20Up%20%28Instrumental%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/level-up-2018/04.%2520Level%2520Up%2520%2528Instrumental%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 808,
+    "filesize_mp3_bytes": 33176944,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}
