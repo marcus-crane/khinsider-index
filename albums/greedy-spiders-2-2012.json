@@ -1,0 +1,83 @@
+{
+  "title": "Greedy spiders 2info",
+  "titles_alternative": [],
+  "crawled_at": "2024-02-04T21:33:57.542670+00:00",
+  "slug": "greedy-spiders-2-2012",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/greedy-spiders-2-2012",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/greedy-spiders-2-2012/5c4f487ca842cb04e19cf8b23dd449dc.jpg"
+  ],
+  "year": 2012,
+  "date_added": "2024-01-31T00:00:00+00:00",
+  "developers": {
+    "Blyts": "https://downloads.khinsider.com/game-soundtracks/developer/blyts"
+  },
+  "publishers": {
+    "Blyts": "https://downloads.khinsider.com/game-soundtracks/publisher/blyts"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2443182,
+      "track_number": 1,
+      "title": "Abducted",
+      "runtime": 150,
+      "source_mp3": "https://vgmsite.com/soundtracks/greedy-spiders-2-2012/zeskugjnvr/01.%20Abducted.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/greedy-spiders-2-2012/01.%2520Abducted.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1824522,
+      "track_number": 2,
+      "title": "Aztec Bait",
+      "runtime": 111,
+      "source_mp3": "https://vgmsite.com/soundtracks/greedy-spiders-2-2012/wlbxrlnrwx/02.%20Aztec%20Bait.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/greedy-spiders-2-2012/02.%2520Aztec%2520Bait.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2348810,
+      "track_number": 3,
+      "title": "Deep Fear",
+      "runtime": 144,
+      "source_mp3": "https://vgmsite.com/soundtracks/greedy-spiders-2-2012/mmrfcjlsrm/03.%20Deep%20Fear.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/greedy-spiders-2-2012/03.%2520Deep%2520Fear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2076180,
+      "track_number": 4,
+      "title": "Hunting",
+      "runtime": 127,
+      "source_mp3": "https://vgmsite.com/soundtracks/greedy-spiders-2-2012/cdvdblqccj/04.%20Hunting.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/greedy-spiders-2-2012/04.%2520Hunting.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1499463,
+      "track_number": 5,
+      "title": "Main Theme",
+      "runtime": 91,
+      "source_mp3": "https://vgmsite.com/soundtracks/greedy-spiders-2-2012/jfbwnpvuil/05.%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/greedy-spiders-2-2012/05.%2520Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 623,
+    "filesize_mp3_bytes": 10192157,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

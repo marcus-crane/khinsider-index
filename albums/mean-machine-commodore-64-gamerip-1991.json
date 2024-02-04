@@ -1,0 +1,72 @@
+{
+  "title": "Mean Machineinfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-02-04T21:54:31.141849+00:00",
+  "slug": "mean-machine-commodore-64-gamerip-1991",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/mean-machine-commodore-64-gamerip-1991",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/mean-machine-commodore-64-gamerip-1991/Mean%20Machine%20C64%20Cover.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2024-02-04T00:00:00+00:00",
+  "developers": {
+    "Digital Design": "https://downloads.khinsider.com/game-soundtracks/developer/digital-design"
+  },
+  "publishers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/publisher/codemasters"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2076180,
+      "track_number": 1,
+      "title": "Title Screen ~ Enter Your Name",
+      "runtime": 108,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/mean-machine-commodore-64-gamerip-1991/gjdivbnxyk/01.%20Title%20Screen%20~%20Enter%20Your%20Name.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mean-machine-commodore-64-gamerip-1991/01.%2520Title%2520Screen%2520~%2520Enter%2520Your%2520Name.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1279262,
+      "track_number": 2,
+      "title": "Race BGM",
+      "runtime": 58,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/mean-machine-commodore-64-gamerip-1991/kdgradodnr/02.%20Race%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mean-machine-commodore-64-gamerip-1991/02.%2520Race%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 429916,
+      "track_number": 3,
+      "title": "Unknown 1",
+      "runtime": 5,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/mean-machine-commodore-64-gamerip-1991/erbmydqcjq/03.%20Unknown%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mean-machine-commodore-64-gamerip-1991/03.%2520Unknown%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 419430,
+      "track_number": 4,
+      "title": "Unknown 2",
+      "runtime": 4,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/mean-machine-commodore-64-gamerip-1991/ezihczqaih/04.%20Unknown%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/mean-machine-commodore-64-gamerip-1991/04.%2520Unknown%25202.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 175,
+    "filesize_mp3_bytes": 4204788,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

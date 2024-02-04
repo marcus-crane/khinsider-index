@@ -1,0 +1,52 @@
+{
+  "title": "Pro Powerboat Simulatorinfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-02-04T22:07:01.941107+00:00",
+  "slug": "pro-powerboat-simulator-atari-st-gamerip-1990",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/pro-powerboat-simulator-atari-st-gamerip-1990",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/pro-powerboat-simulator-atari-st-gamerip-1990/Pro%20Boxing%20Simulator%20Atari%20ST%20Cover.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2024-02-04T00:00:00+00:00",
+  "developers": {
+    "Optimus": "https://downloads.khinsider.com/game-soundtracks/developer/optimus"
+  },
+  "publishers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/publisher/codemasters"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3785359,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 167,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/pro-powerboat-simulator-atari-st-gamerip-1990/akukyznjon/01.%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pro-powerboat-simulator-atari-st-gamerip-1990/01.%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 304087,
+      "track_number": 2,
+      "title": "Round Start",
+      "runtime": 5,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/pro-powerboat-simulator-atari-st-gamerip-1990/ymukbnhlhi/02.%20Round%20Start.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/pro-powerboat-simulator-atari-st-gamerip-1990/02.%2520Round%2520Start.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 172,
+    "filesize_mp3_bytes": 4089446,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

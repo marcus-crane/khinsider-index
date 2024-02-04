@@ -1,0 +1,40 @@
+{
+  "title": "SEUMinfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-02-04T22:15:30.297256+00:00",
+  "slug": "seum-2017",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/seum-2017",
+  "platforms": {},
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/seum-2017/images.jpg"
+  ],
+  "year": 2017,
+  "date_added": "2024-02-04T00:00:00+00:00",
+  "developers": {
+    "Pine Studio": "https://downloads.khinsider.com/game-soundtracks/developer/pine-studio"
+  },
+  "publishers": {
+    "Pine Studio": "https://downloads.khinsider.com/game-soundtracks/publisher/pine-studio"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6637486,
+      "track_number": 1,
+      "title": "The Edge of Space",
+      "runtime": 230,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/seum-2017/hjvdjbouwx/01.%20The%20Edge%20of%20Space.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/seum-2017/01.%2520The%2520Edge%2520of%2520Space.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 230,
+    "filesize_mp3_bytes": 6637486,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

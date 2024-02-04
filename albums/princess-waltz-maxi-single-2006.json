@@ -1,0 +1,55 @@
+{
+  "title": "PRINCESS WALTZ Maxi Singleinfo",
+  "titles_alternative": [
+    "PRINCESS WALTZ \u4e88\u7d04\u7279\u5178\u30de\u30ad\u30b7\u30f3\u30b0\u30eb"
+  ],
+  "crawled_at": "2024-02-04T22:06:43.038513+00:00",
+  "slug": "princess-waltz-maxi-single-2006",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/princess-waltz-maxi-single-2006",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/princess-waltz-maxi-single-2006/00%20Disc.jpg"
+  ],
+  "year": 2006,
+  "catalog_number": "WILL-147Y",
+  "date_added": "2024-02-02T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Will": "https://downloads.khinsider.com/game-soundtracks/publisher/will"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 32107397,
+      "filesize_mp3_bytes": 7916748,
+      "track_number": 1,
+      "title": "dissonant chord",
+      "runtime": 243,
+      "source_mp3": "https://vgmsite.com/soundtracks/princess-waltz-maxi-single-2006/ofuicyxsuu/01.%20dissonant%20chord.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/princess-waltz-maxi-single-2006/ofuicyxsuu/01.%20dissonant%20chord.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/princess-waltz-maxi-single-2006/01.%2520dissonant%2520chord.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 42152755,
+      "filesize_mp3_bytes": 10873733,
+      "track_number": 2,
+      "title": "Dawn walker",
+      "runtime": 331,
+      "source_mp3": "https://vgmsite.com/soundtracks/princess-waltz-maxi-single-2006/twcvdjegng/02.%20Dawn%20walker.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/princess-waltz-maxi-single-2006/twcvdjegng/02.%20Dawn%20walker.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/princess-waltz-maxi-single-2006/02.%2520Dawn%2520walker.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 574,
+    "filesize_mp3_bytes": 18790481,
+    "filesize_flac_bytes": 74260152,
+    "tracks": 2
+  }
+}
