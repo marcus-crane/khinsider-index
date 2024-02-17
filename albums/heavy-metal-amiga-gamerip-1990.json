@@ -1,0 +1,45 @@
+{
+  "title": "Heavy Metalinfo",
+  "titles_alternative": [
+    "Heavy Metal: Modern Land Combat Vol. I"
+  ],
+  "crawled_at": "2024-02-16T22:26:49.606285+00:00",
+  "slug": "heavy-metal-amiga-gamerip-1990",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/heavy-metal-amiga-gamerip-1990",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://epsilon.vgmsite.com/soundtracks/heavy-metal-amiga-gamerip-1990/Heavy%20Metal%20Amiga%20Cover%201.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2024-02-14T00:00:00+00:00",
+  "developers": {
+    "Access": "https://downloads.khinsider.com/game-soundtracks/developer/access",
+    "Probe": "https://downloads.khinsider.com/game-soundtracks/developer/probe"
+  },
+  "publishers": {
+    "Access": "https://downloads.khinsider.com/game-soundtracks/publisher/access"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3837788,
+      "track_number": 1,
+      "title": "Theme",
+      "runtime": 119,
+      "source_mp3": "https://dl.vgmdownloads.com/soundtracks/heavy-metal-amiga-gamerip-1990/kfxzicajmy/01.%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/heavy-metal-amiga-gamerip-1990/01.%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 119,
+    "filesize_mp3_bytes": 3837788,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

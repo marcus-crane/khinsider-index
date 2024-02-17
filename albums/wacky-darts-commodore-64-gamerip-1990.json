@@ -1,0 +1,42 @@
+{
+  "title": "Wacky Dartsinfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-02-17T00:20:17.639432+00:00",
+  "slug": "wacky-darts-commodore-64-gamerip-1990",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/wacky-darts-commodore-64-gamerip-1990",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/wacky-darts-commodore-64-gamerip-1990/Wacky%20Darts%20C64%20Cover.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2024-02-14T00:00:00+00:00",
+  "developers": {
+    "Digital Design": "https://downloads.khinsider.com/game-soundtracks/developer/digital-design"
+  },
+  "publishers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/publisher/codemasters"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2579496,
+      "track_number": 1,
+      "title": "Theme",
+      "runtime": 139,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/wacky-darts-commodore-64-gamerip-1990/xjtusvnnhy/01%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wacky-darts-commodore-64-gamerip-1990/01%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 139,
+    "filesize_mp3_bytes": 2579496,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

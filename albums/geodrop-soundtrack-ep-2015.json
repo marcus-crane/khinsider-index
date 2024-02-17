@@ -1,0 +1,75 @@
+{
+  "title": "GeoDrop Soundtrack EPinfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-02-16T22:22:47.959723+00:00",
+  "slug": "geodrop-soundtrack-ep-2015",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/geodrop-soundtrack-ep-2015",
+  "platforms": {
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://epsilon.vgmsite.com/soundtracks/geodrop-soundtrack-ep-2015/cover.jpg"
+  ],
+  "year": 2015,
+  "catalog_number": null,
+  "date_added": "2024-02-12T00:00:00+00:00",
+  "developers": {
+    "Chronocore": "https://downloads.khinsider.com/game-soundtracks/developer/chronocore"
+  },
+  "publishers": {},
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 9573498,
+      "filesize_mp3_bytes": 3229614,
+      "track_number": 1,
+      "title": "GeoDrop Theme",
+      "runtime": 96,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/geodrop-soundtrack-ep-2015/wrntamciha/01%20-%20GeoDrop%20Theme.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/geodrop-soundtrack-ep-2015/wrntamciha/01%20-%20GeoDrop%20Theme.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/geodrop-soundtrack-ep-2015/01%2520-%2520GeoDrop%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 27892121,
+      "filesize_mp3_bytes": 8357150,
+      "track_number": 2,
+      "title": "Shapes (from GeoDrop)",
+      "runtime": 251,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/geodrop-soundtrack-ep-2015/oaqxhhsuqr/02%20-%20Shapes%20%28from%20GeoDrop%29.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/geodrop-soundtrack-ep-2015/oaqxhhsuqr/02%20-%20Shapes%20%28from%20GeoDrop%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/geodrop-soundtrack-ep-2015/02%2520-%2520Shapes%2520%2528from%2520GeoDrop%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 19713228,
+      "filesize_mp3_bytes": 6071255,
+      "track_number": 3,
+      "title": "Colors (from GeoDrop)",
+      "runtime": 198,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/geodrop-soundtrack-ep-2015/yfbxshzbdz/03%20-%20Colors%20%28from%20GeoDrop%29.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/geodrop-soundtrack-ep-2015/yfbxshzbdz/03%20-%20Colors%20%28from%20GeoDrop%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/geodrop-soundtrack-ep-2015/03%2520-%2520Colors%2520%2528from%2520GeoDrop%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 61719183,
+      "filesize_mp3_bytes": 18025021,
+      "track_number": 4,
+      "title": "GeoDrop Remix Medley",
+      "runtime": 538,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/geodrop-soundtrack-ep-2015/pdtxudtpiq/04%20-%20GeoDrop%20Remix%20Medley.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/geodrop-soundtrack-ep-2015/pdtxudtpiq/04%20-%20GeoDrop%20Remix%20Medley.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/geodrop-soundtrack-ep-2015/04%2520-%2520GeoDrop%2520Remix%2520Medley.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1083,
+    "filesize_mp3_bytes": 35683040,
+    "filesize_flac_bytes": 118898030,
+    "tracks": 4
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Drag Racing: Bike Editioninfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-02-16T22:13:26.186773+00:00",
+  "slug": "drag-racing-bike-edition-android-ios-gamerip-2012",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/drag-racing-bike-edition-android-ios-gamerip-2012",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/drag-racing-bike-edition-android-ios-gamerip-2012/Cover.png"
+  ],
+  "year": 2012,
+  "date_added": "2024-02-10T00:00:00+00:00",
+  "developers": {
+    "CM Legacy": "https://downloads.khinsider.com/game-soundtracks/developer/cm-legacy"
+  },
+  "publishers": {
+    "Creative Mobile Publishing": "https://downloads.khinsider.com/game-soundtracks/publisher/creative-mobile-publishing"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2348810,
+      "track_number": 1,
+      "title": "Main Menu",
+      "runtime": 146,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/drag-racing-bike-edition-android-ios-gamerip-2012/ewekkqwdyr/01.%20Main%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/drag-racing-bike-edition-android-ios-gamerip-2012/01.%2520Main%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1247805,
+      "track_number": 2,
+      "title": "Main Menu 2",
+      "runtime": 109,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/drag-racing-bike-edition-android-ios-gamerip-2012/haaqdcxccq/02.%20Main%20Menu%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/drag-racing-bike-edition-android-ios-gamerip-2012/02.%2520Main%2520Menu%25202.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 255,
+    "filesize_mp3_bytes": 3596615,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

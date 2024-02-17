@@ -1,0 +1,62 @@
+{
+  "title": "The Final Dayinfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-02-16T23:56:02.404493+00:00",
+  "slug": "the-final-day-atari-st-gamerip-1991",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/the-final-day-atari-st-gamerip-1991",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://epsilon.vgmsite.com/soundtracks/the-final-day-atari-st-gamerip-1991/The%20Final%20Day%20Atari%20ST%20Title%20Screen.png"
+  ],
+  "year": 1991,
+  "date_added": "2024-02-14T00:00:00+00:00",
+  "developers": {
+    "Tension": "https://downloads.khinsider.com/game-soundtracks/developer/tension"
+  },
+  "publishers": {
+    "ST Fun": "https://downloads.khinsider.com/game-soundtracks/publisher/st-fun"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 314572,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 15,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/the-final-day-atari-st-gamerip-1991/ntxvbcldiu/01%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-final-day-atari-st-gamerip-1991/01%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3303014,
+      "track_number": 2,
+      "title": "Unknown 1",
+      "runtime": 154,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/the-final-day-atari-st-gamerip-1991/tiseltbreu/02%20Unknown%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-final-day-atari-st-gamerip-1991/02%2520Unknown%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3103784,
+      "track_number": 3,
+      "title": "Unknown 2",
+      "runtime": 160,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/the-final-day-atari-st-gamerip-1991/acitcqsfao/03%20Unknown%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/the-final-day-atari-st-gamerip-1991/03%2520Unknown%25202.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 329,
+    "filesize_mp3_bytes": 6721370,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

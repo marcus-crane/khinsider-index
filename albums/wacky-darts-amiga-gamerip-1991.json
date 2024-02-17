@@ -1,0 +1,42 @@
+{
+  "title": "Wacky Dartsinfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-02-17T00:20:16.045514+00:00",
+  "slug": "wacky-darts-amiga-gamerip-1991",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/wacky-darts-amiga-gamerip-1991",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/wacky-darts-amiga-gamerip-1991/Wacky%20Darts%20Amiga%20Cover.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2024-02-14T00:00:00+00:00",
+  "developers": {
+    "The Big Red Software Company": "https://downloads.khinsider.com/game-soundtracks/developer/the-big-red-software-company"
+  },
+  "publishers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/publisher/codemasters"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8472494,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 512,
+      "source_mp3": "https://vgmsite.com/soundtracks/wacky-darts-amiga-gamerip-1991/ibnooudzwg/01%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wacky-darts-amiga-gamerip-1991/01%2520Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 512,
+    "filesize_mp3_bytes": 8472494,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

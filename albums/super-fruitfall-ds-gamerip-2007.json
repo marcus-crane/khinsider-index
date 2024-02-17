@@ -1,0 +1,69 @@
+{
+  "title": "Super Fruitfallinfo",
+  "titles_alternative": [
+    "Super Fruit Fall Deluxe Edition"
+  ],
+  "crawled_at": "2024-02-16T23:48:46.626234+00:00",
+  "slug": "super-fruitfall-ds-gamerip-2007",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/super-fruitfall-ds-gamerip-2007",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/super-fruitfall-ds-gamerip-2007/cover.jpg"
+  ],
+  "year": 2007,
+  "date_added": "2024-02-12T00:00:00+00:00",
+  "developers": {
+    "Aqua Pacific": "https://downloads.khinsider.com/game-soundtracks/developer/aqua-pacific",
+    "Broadsword": "https://downloads.khinsider.com/game-soundtracks/developer/broadsword"
+  },
+  "publishers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/publisher/codemasters",
+    "System 3": "https://downloads.khinsider.com/game-soundtracks/publisher/system-3"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 671088,
+      "filesize_mp3_bytes": 681574,
+      "track_number": 1,
+      "title": "MAIN",
+      "runtime": 66,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/super-fruitfall-ds-gamerip-2007/xeuaitcnmw/01%20MAIN.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/super-fruitfall-ds-gamerip-2007/xeuaitcnmw/01%20MAIN.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-fruitfall-ds-gamerip-2007/01%2520MAIN.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 346030,
+      "filesize_mp3_bytes": 283115,
+      "track_number": 2,
+      "title": "SHORE",
+      "runtime": 32,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/super-fruitfall-ds-gamerip-2007/phylsxnvgt/02%20SHORE.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/super-fruitfall-ds-gamerip-2007/phylsxnvgt/02%20SHORE.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-fruitfall-ds-gamerip-2007/02%2520SHORE.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 597688,
+      "filesize_mp3_bytes": 765460,
+      "track_number": 3,
+      "title": "IN GAME",
+      "runtime": 72,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/super-fruitfall-ds-gamerip-2007/thiasznrfx/03%20IN%20GAME.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/super-fruitfall-ds-gamerip-2007/thiasznrfx/03%20IN%20GAME.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/super-fruitfall-ds-gamerip-2007/03%2520IN%2520GAME.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 170,
+    "filesize_mp3_bytes": 1730149,
+    "filesize_flac_bytes": 1614806,
+    "tracks": 3
+  }
+}

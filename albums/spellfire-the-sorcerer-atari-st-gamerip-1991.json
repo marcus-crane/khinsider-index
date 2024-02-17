@@ -1,0 +1,64 @@
+{
+  "title": "Spellfire the Sorcererinfo",
+  "titles_alternative": [
+    "Wizard Willy"
+  ],
+  "crawled_at": "2024-02-16T23:42:10.847533+00:00",
+  "slug": "spellfire-the-sorcerer-atari-st-gamerip-1991",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/spellfire-the-sorcerer-atari-st-gamerip-1991",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://dl.vgmdownloads.com/soundtracks/spellfire-the-sorcerer-atari-st-gamerip-1991/Spellfire%20the%20Sorcerer%20Atari%20ST%20Cover.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2024-02-10T00:00:00+00:00",
+  "developers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/developer/codemasters"
+  },
+  "publishers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/publisher/codemasters"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3114270,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 148,
+      "source_mp3": "https://dl.vgmdownloads.com/soundtracks/spellfire-the-sorcerer-atari-st-gamerip-1991/igviimurqv/01.%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/spellfire-the-sorcerer-atari-st-gamerip-1991/01.%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 94371,
+      "track_number": 2,
+      "title": "Level Start",
+      "runtime": 2,
+      "source_mp3": "https://dl.vgmdownloads.com/soundtracks/spellfire-the-sorcerer-atari-st-gamerip-1991/uydhhpzswx/02.%20Level%20Start.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/spellfire-the-sorcerer-atari-st-gamerip-1991/02.%2520Level%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 199229,
+      "track_number": 3,
+      "title": "Game Over",
+      "runtime": 8,
+      "source_mp3": "https://dl.vgmdownloads.com/soundtracks/spellfire-the-sorcerer-atari-st-gamerip-1991/hydyckcged/03.%20Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/spellfire-the-sorcerer-atari-st-gamerip-1991/03.%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 158,
+    "filesize_mp3_bytes": 3407870,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

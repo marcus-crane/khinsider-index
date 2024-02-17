@@ -1,0 +1,44 @@
+{
+  "title": "Spellfire the Sorcererinfo",
+  "titles_alternative": [
+    "Wizard Willy"
+  ],
+  "crawled_at": "2024-02-16T23:42:10.182114+00:00",
+  "slug": "spellfire-the-sorcerer-amiga-gamerip-1991",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/spellfire-the-sorcerer-amiga-gamerip-1991",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://epsilon.vgmsite.com/soundtracks/spellfire-the-sorcerer-amiga-gamerip-1991/Spellfire%20the%20Sorcerer%20Amiga%20Cover%201.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2024-02-10T00:00:00+00:00",
+  "developers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/developer/codemasters"
+  },
+  "publishers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/publisher/codemasters"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8388608,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 512,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/spellfire-the-sorcerer-amiga-gamerip-1991/zwmkwlhgyk/01.%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/spellfire-the-sorcerer-amiga-gamerip-1991/01.%2520Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 512,
+    "filesize_mp3_bytes": 8388608,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

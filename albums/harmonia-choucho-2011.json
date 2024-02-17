@@ -1,0 +1,75 @@
+{
+  "title": "Harmonia / ChouChoinfo",
+  "titles_alternative": [
+    "\u30cf\u30eb\u30e2\u30cb\u30a2 / \u3061\u3087\u3046\u3061\u3087"
+  ],
+  "crawled_at": "2024-02-16T22:26:29.350173+00:00",
+  "slug": "harmonia-choucho-2011",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/harmonia-choucho-2011",
+  "platforms": {},
+  "images": [
+    "https://epsilon.vgmsite.com/soundtracks/harmonia-choucho-2011/00%20Front.jpg"
+  ],
+  "year": 2011,
+  "catalog_number": "LACM-4887",
+  "date_added": "2024-02-09T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Lantis": "https://downloads.khinsider.com/game-soundtracks/publisher/lantis"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 37895536,
+      "filesize_mp3_bytes": 9028239,
+      "track_number": 1,
+      "title": "Harmonia",
+      "runtime": 275,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/harmonia-choucho-2011/trdyzridhm/01.%20Harmonia.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/harmonia-choucho-2011/trdyzridhm/01.%20Harmonia.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/harmonia-choucho-2011/01.%2520Harmonia.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 38818283,
+      "filesize_mp3_bytes": 9332326,
+      "track_number": 2,
+      "title": "Dramatic daydream",
+      "runtime": 276,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/harmonia-choucho-2011/tdrgwlamfk/02.%20Dramatic%20daydream.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/harmonia-choucho-2011/tdrgwlamfk/02.%20Dramatic%20daydream.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/harmonia-choucho-2011/02.%2520Dramatic%2520daydream.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 37004247,
+      "filesize_mp3_bytes": 9374269,
+      "track_number": 3,
+      "title": "Harmonia (inst)",
+      "runtime": 275,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/harmonia-choucho-2011/vbpaxlqnyk/03.%20Harmonia%20%28inst%29.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/harmonia-choucho-2011/vbpaxlqnyk/03.%20Harmonia%20%28inst%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/harmonia-choucho-2011/03.%2520Harmonia%2520%2528inst%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 37926993,
+      "filesize_mp3_bytes": 9741271,
+      "track_number": 4,
+      "title": "Dramatic daydream (inst)",
+      "runtime": 271,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/harmonia-choucho-2011/awzgmfopgl/04.%20Dramatic%20daydream%20%28inst%29.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/harmonia-choucho-2011/awzgmfopgl/04.%20Dramatic%20daydream%20%28inst%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/harmonia-choucho-2011/04.%2520Dramatic%2520daydream%2520%2528inst%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1097,
+    "filesize_mp3_bytes": 37476105,
+    "filesize_flac_bytes": 151645059,
+    "tracks": 4
+  }
+}

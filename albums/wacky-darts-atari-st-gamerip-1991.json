@@ -1,0 +1,52 @@
+{
+  "title": "Wacky Dartsinfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-02-17T00:20:16.703272+00:00",
+  "slug": "wacky-darts-atari-st-gamerip-1991",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/wacky-darts-atari-st-gamerip-1991",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://dl.vgmdownloads.com/soundtracks/wacky-darts-atari-st-gamerip-1991/Wacky%20Darts%20Atati%20ST%20Loading%20Screen.png"
+  ],
+  "year": 1991,
+  "date_added": "2024-02-14T00:00:00+00:00",
+  "developers": {
+    "The Big Red Software Company": "https://downloads.khinsider.com/game-soundtracks/developer/the-big-red-software-company"
+  },
+  "publishers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/publisher/codemasters"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1855979,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 92,
+      "source_mp3": "https://dl.vgmdownloads.com/soundtracks/wacky-darts-atari-st-gamerip-1991/nxwxcvwryd/01%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wacky-darts-atari-st-gamerip-1991/01%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 178257,
+      "track_number": 2,
+      "title": "Round Start",
+      "runtime": 8,
+      "source_mp3": "https://dl.vgmdownloads.com/soundtracks/wacky-darts-atari-st-gamerip-1991/dnzkuunyiq/02%20Round%20Start.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wacky-darts-atari-st-gamerip-1991/02%2520Round%2520Start.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 100,
+    "filesize_mp3_bytes": 2034236,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

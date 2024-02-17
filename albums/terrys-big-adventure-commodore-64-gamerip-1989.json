@@ -1,0 +1,72 @@
+{
+  "title": "Terry's Big Adventureinfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-02-16T23:54:48.395934+00:00",
+  "slug": "terrys-big-adventure-commodore-64-gamerip-1989",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/terrys-big-adventure-commodore-64-gamerip-1989",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://epsilon.vgmsite.com/soundtracks/terrys-big-adventure-commodore-64-gamerip-1989/Terry_s%20Big%20Adventure%20C64%20Cover.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2024-02-14T00:00:00+00:00",
+  "developers": {
+    "Gametec": "https://downloads.khinsider.com/game-soundtracks/developer/gametec"
+  },
+  "publishers": {
+    "Shades": "https://downloads.khinsider.com/game-soundtracks/publisher/shades"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1132462,
+      "track_number": 1,
+      "title": "In-Game BGM",
+      "runtime": 65,
+      "source_mp3": "https://dl.vgmdownloads.com/soundtracks/terrys-big-adventure-commodore-64-gamerip-1989/lzniwgtvfn/01%20In-Game%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/terrys-big-adventure-commodore-64-gamerip-1989/01%2520In-Game%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 220200,
+      "track_number": 2,
+      "title": "Stage Clear",
+      "runtime": 8,
+      "source_mp3": "https://dl.vgmdownloads.com/soundtracks/terrys-big-adventure-commodore-64-gamerip-1989/dkfjqvvsfa/02%20Stage%20Clear.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/terrys-big-adventure-commodore-64-gamerip-1989/02%2520Stage%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 3,
+      "title": "Bonus Scene",
+      "runtime": 3,
+      "source_mp3": "https://dl.vgmdownloads.com/soundtracks/terrys-big-adventure-commodore-64-gamerip-1989/kvzlpjeojl/03%20Bonus%20Scene.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/terrys-big-adventure-commodore-64-gamerip-1989/03%2520Bonus%2520Scene.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 167772,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 5,
+      "source_mp3": "https://dl.vgmdownloads.com/soundtracks/terrys-big-adventure-commodore-64-gamerip-1989/rpcswyvbje/04%20Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/terrys-big-adventure-commodore-64-gamerip-1989/04%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 81,
+    "filesize_mp3_bytes": 1656748,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "title": "Wizard Willyinfo",
+  "titles_alternative": [
+    "Spellfire the Sorcerer"
+  ],
+  "crawled_at": "2024-02-17T00:24:43.923634+00:00",
+  "slug": "wizard-willy-commodore-64-gamerip-1990",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/wizard-willy-commodore-64-gamerip-1990",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/wizard-willy-commodore-64-gamerip-1990/Wizard%20Willy%20C64%20Cover.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2024-02-10T00:00:00+00:00",
+  "developers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/developer/codemasters"
+  },
+  "publishers": {
+    "Cartoon Time": "https://downloads.khinsider.com/game-soundtracks/publisher/cartoon-time",
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/publisher/codemasters"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2432696,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 103,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/wizard-willy-commodore-64-gamerip-1990/sdkrlpdsqh/01.%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wizard-willy-commodore-64-gamerip-1990/01.%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 838860,
+      "track_number": 2,
+      "title": "Level Start",
+      "runtime": 4,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/wizard-willy-commodore-64-gamerip-1990/bclevfqoyy/02.%20Level%20Start.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wizard-willy-commodore-64-gamerip-1990/02.%2520Level%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 828375,
+      "track_number": 3,
+      "title": "Game Over",
+      "runtime": 3,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/wizard-willy-commodore-64-gamerip-1990/egccsokkqa/03.%20Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/wizard-willy-commodore-64-gamerip-1990/03.%2520Game%2520Over.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 110,
+    "filesize_mp3_bytes": 4099931,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

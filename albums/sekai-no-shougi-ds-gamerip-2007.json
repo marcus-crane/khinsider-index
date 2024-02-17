@@ -1,0 +1,84 @@
+{
+  "title": "Sekai no Shougiinfo",
+  "titles_alternative": [
+    "\u4e16\u754c\u306e\u5c06\u68cb"
+  ],
+  "crawled_at": "2024-02-16T23:32:34.053256+00:00",
+  "slug": "sekai-no-shougi-ds-gamerip-2007",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/sekai-no-shougi-ds-gamerip-2007",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/sekai-no-shougi-ds-gamerip-2007/cover.jpg"
+  ],
+  "year": 2007,
+  "date_added": "2024-02-13T00:00:00+00:00",
+  "developers": {
+    "Skonec": "https://downloads.khinsider.com/game-soundtracks/developer/skonec"
+  },
+  "publishers": {
+    "Success": "https://downloads.khinsider.com/game-soundtracks/publisher/success"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1237319,
+      "track_number": 1,
+      "title": "Chess",
+      "runtime": 62,
+      "source_mp3": "https://vgmsite.com/soundtracks/sekai-no-shougi-ds-gamerip-2007/ksijiitzpy/01.%20Chess.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sekai-no-shougi-ds-gamerip-2007/01.%2520Chess.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1080033,
+      "track_number": 2,
+      "title": "Jangki",
+      "runtime": 54,
+      "source_mp3": "https://vgmsite.com/soundtracks/sekai-no-shougi-ds-gamerip-2007/boiexihzvt/02.%20Jangki.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sekai-no-shougi-ds-gamerip-2007/02.%2520Jangki.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 964689,
+      "track_number": 3,
+      "title": "Menu",
+      "runtime": 48,
+      "source_mp3": "https://vgmsite.com/soundtracks/sekai-no-shougi-ds-gamerip-2007/wgkolqxkwv/03.%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sekai-no-shougi-ds-gamerip-2007/03.%2520Menu.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 387973,
+      "track_number": 4,
+      "title": "Title",
+      "runtime": 19,
+      "source_mp3": "https://vgmsite.com/soundtracks/sekai-no-shougi-ds-gamerip-2007/azhpfeoehm/04.%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sekai-no-shougi-ds-gamerip-2007/04.%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1006632,
+      "track_number": 5,
+      "title": "Tsyogi",
+      "runtime": 51,
+      "source_mp3": "https://vgmsite.com/soundtracks/sekai-no-shougi-ds-gamerip-2007/evgthrmzfh/05.%20Tsyogi.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/sekai-no-shougi-ds-gamerip-2007/05.%2520Tsyogi.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 234,
+    "filesize_mp3_bytes": 4676646,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

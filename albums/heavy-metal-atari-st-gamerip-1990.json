@@ -1,0 +1,44 @@
+{
+  "title": "Heavy Metalinfo",
+  "titles_alternative": [
+    "Heavy Metal: Modern Land Combat Vol. I"
+  ],
+  "crawled_at": "2024-02-16T22:26:50.278772+00:00",
+  "slug": "heavy-metal-atari-st-gamerip-1990",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/heavy-metal-atari-st-gamerip-1990",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://epsilon.vgmsite.com/soundtracks/heavy-metal-atari-st-gamerip-1990/Heavy%20Metal%20Atari%20ST%20Cover.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2024-02-14T00:00:00+00:00",
+  "developers": {
+    "Access": "https://downloads.khinsider.com/game-soundtracks/developer/access"
+  },
+  "publishers": {
+    "U.S. Gold": "https://downloads.khinsider.com/game-soundtracks/publisher/u.s.-gold"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4362076,
+      "track_number": 1,
+      "title": "Theme",
+      "runtime": 119,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/heavy-metal-atari-st-gamerip-1990/xmnuiyrttn/01.%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/heavy-metal-atari-st-gamerip-1990/01.%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 119,
+    "filesize_mp3_bytes": 4362076,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

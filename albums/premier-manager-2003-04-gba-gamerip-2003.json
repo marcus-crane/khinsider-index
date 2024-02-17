@@ -1,0 +1,62 @@
+{
+  "title": "Premier Manager 2003-04info",
+  "titles_alternative": [],
+  "crawled_at": "2024-02-16T23:02:50.777964+00:00",
+  "slug": "premier-manager-2003-04-gba-gamerip-2003",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/premier-manager-2003-04-gba-gamerip-2003",
+  "platforms": {
+    "GBA": "https://downloads.khinsider.com/game-soundtracks/gameboy-advance"
+  },
+  "images": [
+    "https://epsilon.vgmsite.com/soundtracks/premier-manager-2003-04-gba-gamerip-2003/56266_front.jpg"
+  ],
+  "year": 2003,
+  "date_added": "2024-02-13T00:00:00+00:00",
+  "developers": {
+    "Tuna Technologies": "https://downloads.khinsider.com/game-soundtracks/developer/tuna-technologies"
+  },
+  "publishers": {
+    "Zoo Digital": "https://downloads.khinsider.com/game-soundtracks/publisher/zoo-digital"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 503316,
+      "track_number": 1,
+      "title": "Player Creation",
+      "runtime": 36,
+      "source_mp3": "https://dl.vgmdownloads.com/soundtracks/premier-manager-2003-04-gba-gamerip-2003/ynwibrfqut/01.%20Player%20Creation.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/premier-manager-2003-04-gba-gamerip-2003/01.%2520Player%2520Creation.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1709178,
+      "track_number": 2,
+      "title": "Main BGM",
+      "runtime": 125,
+      "source_mp3": "https://dl.vgmdownloads.com/soundtracks/premier-manager-2003-04-gba-gamerip-2003/dreotdhwwx/02.%20Main%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/premier-manager-2003-04-gba-gamerip-2003/02.%2520Main%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 702545,
+      "track_number": 3,
+      "title": "Unknown",
+      "runtime": 49,
+      "source_mp3": "https://dl.vgmdownloads.com/soundtracks/premier-manager-2003-04-gba-gamerip-2003/ghbsasvcky/03.%20Unknown.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/premier-manager-2003-04-gba-gamerip-2003/03.%2520Unknown.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 210,
+    "filesize_mp3_bytes": 2915039,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

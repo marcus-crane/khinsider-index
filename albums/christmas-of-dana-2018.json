@@ -1,0 +1,59 @@
+{
+  "title": "Christmas of DANAinfo",
+  "titles_alternative": [
+    "\u30af\u30ea\u30b9\u30de\u30b9\u30fb\u30aa\u30d6\u30fb\u30c0\u30fc\u30ca",
+    "Ys VIII -Lacrimosa of DANA-"
+  ],
+  "crawled_at": "2024-02-16T21:32:21.316415+00:00",
+  "slug": "christmas-of-dana-2018",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/christmas-of-dana-2018",
+  "platforms": {
+    "PS Vita": "https://downloads.khinsider.com/game-soundtracks/playstation-vita",
+    "PS4": "https://downloads.khinsider.com/game-soundtracks/playstation-4",
+    "Switch": "https://downloads.khinsider.com/game-soundtracks/nintendo-switch",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/christmas-of-dana-2018/cover.jpg"
+  ],
+  "year": 2018,
+  "catalog_number": "YS8-XMAS",
+  "date_added": "2024-02-09T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Nihon Falcom Corporation": "https://downloads.khinsider.com/game-soundtracks/publisher/nihon-falcom-corporation"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 59538145,
+      "filesize_mp3_bytes": 5567938,
+      "track_number": 1,
+      "title": "LACRIMOSA OF DANA -Xmas-",
+      "runtime": 172,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/christmas-of-dana-2018/vecltzevwh/01_LACRIMOSA%20OF%20DANA%20-Xmas-.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/christmas-of-dana-2018/vecltzevwh/01_LACRIMOSA%20OF%20DANA%20-Xmas-.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/christmas-of-dana-2018/01_LACRIMOSA%2520OF%2520DANA%2520-Xmas-.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 81222696,
+      "filesize_mp3_bytes": 7644119,
+      "track_number": 2,
+      "title": "ICLUCIAN DANCE -Xmas-",
+      "runtime": 212,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/christmas-of-dana-2018/ncbxzxzxkl/02_ICLUCIAN%20DANCE%20-Xmas-.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/christmas-of-dana-2018/ncbxzxzxkl/02_ICLUCIAN%20DANCE%20-Xmas-.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/christmas-of-dana-2018/02_ICLUCIAN%2520DANCE%2520-Xmas-.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 384,
+    "filesize_mp3_bytes": 13212057,
+    "filesize_flac_bytes": 140760841,
+    "tracks": 2
+  }
+}

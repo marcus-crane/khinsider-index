@@ -1,0 +1,42 @@
+{
+  "title": "Three Tribes (Demo)info",
+  "titles_alternative": [],
+  "crawled_at": "2024-02-17T00:09:08.414448+00:00",
+  "slug": "three-tribes-demo-gba-gamerip-2004",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/three-tribes-demo-gba-gamerip-2004",
+  "platforms": {
+    "GBA": "https://downloads.khinsider.com/game-soundtracks/gameboy-advance"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/three-tribes-demo-gba-gamerip-2004/7POS9.png"
+  ],
+  "year": 2004,
+  "date_added": "2024-02-13T00:00:00+00:00",
+  "developers": {
+    "Two Tribes": "https://downloads.khinsider.com/game-soundtracks/developer/two-tribes"
+  },
+  "publishers": {
+    "Two Tribes": "https://downloads.khinsider.com/game-soundtracks/publisher/two-tribes"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1677721,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 113,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/three-tribes-demo-gba-gamerip-2004/xolgoktuum/01.%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/three-tribes-demo-gba-gamerip-2004/01.%2520Title.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 113,
+    "filesize_mp3_bytes": 1677721,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

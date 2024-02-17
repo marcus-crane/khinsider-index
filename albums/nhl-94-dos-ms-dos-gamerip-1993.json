@@ -1,0 +1,44 @@
+{
+  "title": "NHL '94 (DOS)info",
+  "titles_alternative": [
+    "EA NHL Hockey"
+  ],
+  "crawled_at": "2024-02-16T22:50:20.874895+00:00",
+  "slug": "nhl-94-dos-ms-dos-gamerip-1993",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/nhl-94-dos-ms-dos-gamerip-1993",
+  "platforms": {
+    "MS-DOS": "https://downloads.khinsider.com/game-soundtracks/ms-dos"
+  },
+  "images": [
+    "https://dl.vgmdownloads.com/soundtracks/nhl-94-dos-ms-dos-gamerip-1993/Folder.jpg"
+  ],
+  "year": 1993,
+  "date_added": "2024-02-14T00:00:00+00:00",
+  "developers": {
+    "EA Canada": "https://downloads.khinsider.com/game-soundtracks/developer/ea-canada"
+  },
+  "publishers": {
+    "EA Sports": "https://downloads.khinsider.com/game-soundtracks/publisher/ea-sports"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1447034,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 85,
+      "source_mp3": "https://dl.vgmdownloads.com/soundtracks/nhl-94-dos-ms-dos-gamerip-1993/dvciwurujb/01.%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/nhl-94-dos-ms-dos-gamerip-1993/01.%2520Main%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 85,
+    "filesize_mp3_bytes": 1447034,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

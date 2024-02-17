@@ -1,0 +1,74 @@
+{
+  "title": "NeverEndinfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-02-16T22:50:04.768918+00:00",
+  "slug": "neverend-ps-vita-ps4-windows-gamerip-2017",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/neverend-ps-vita-ps4-windows-gamerip-2017",
+  "platforms": {
+    "PS Vita": "https://downloads.khinsider.com/game-soundtracks/playstation-vita",
+    "PS4": "https://downloads.khinsider.com/game-soundtracks/playstation-4",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://epsilon.vgmsite.com/soundtracks/neverend-ps-vita-ps4-windows-gamerip-2017/Schermata%202024-02-01%20alle%20140929.png"
+  ],
+  "year": 2017,
+  "date_added": "2024-02-08T00:00:00+00:00",
+  "developers": {
+    "Duck": "https://downloads.khinsider.com/game-soundtracks/developer/duck"
+  },
+  "publishers": {
+    "Sometimes You": "https://downloads.khinsider.com/game-soundtracks/publisher/sometimes-you"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3439329,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 192,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/neverend-ps-vita-ps4-windows-gamerip-2017/fpoepntuou/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/neverend-ps-vita-ps4-windows-gamerip-2017/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1279262,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 82,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/neverend-ps-vita-ps4-windows-gamerip-2017/pxbbxtnetn/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/neverend-ps-vita-ps4-windows-gamerip-2017/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 629145,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 37,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/neverend-ps-vita-ps4-windows-gamerip-2017/bcyxnenipy/03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/neverend-ps-vita-ps4-windows-gamerip-2017/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1583349,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 98,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/neverend-ps-vita-ps4-windows-gamerip-2017/vibudnzqdf/04.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/neverend-ps-vita-ps4-windows-gamerip-2017/04.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 409,
+    "filesize_mp3_bytes": 6931085,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

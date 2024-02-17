@@ -1,0 +1,52 @@
+{
+  "title": "Slightly Magicinfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-02-16T23:38:06.484673+00:00",
+  "slug": "slightly-magic-amiga-gamerip-1991",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/slightly-magic-amiga-gamerip-1991",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/slightly-magic-amiga-gamerip-1991/Slightly%20Magic%20Amiga%20Cover.png"
+  ],
+  "year": 1991,
+  "date_added": "2024-02-10T00:00:00+00:00",
+  "developers": {
+    "Astonishing Animations": "https://downloads.khinsider.com/game-soundtracks/developer/astonishing-animations"
+  },
+  "publishers": {
+    "Codemasters": "https://downloads.khinsider.com/game-soundtracks/publisher/codemasters"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3607101,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 218,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/slightly-magic-amiga-gamerip-1991/mbobgsiwoh/01.%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/slightly-magic-amiga-gamerip-1991/01.%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8315207,
+      "track_number": 2,
+      "title": "In-Game BGM",
+      "runtime": 512,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/slightly-magic-amiga-gamerip-1991/khigftxdqs/02.%20In-Game%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/slightly-magic-amiga-gamerip-1991/02.%2520In-Game%2520BGM.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 730,
+    "filesize_mp3_bytes": 11922308,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "title": "Terry's Big Adventureinfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-02-16T23:54:47.175206+00:00",
+  "slug": "terrys-big-adventure-atari-st-gamerip-1989",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/terrys-big-adventure-atari-st-gamerip-1989",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://epsilon.vgmsite.com/soundtracks/terrys-big-adventure-atari-st-gamerip-1989/Terry_s%20Big%20Adventure%20Atari%20ST%20Ad.jpg"
+  ],
+  "year": 1989,
+  "date_added": "2024-02-14T00:00:00+00:00",
+  "developers": {
+    "Gametec": "https://downloads.khinsider.com/game-soundtracks/developer/gametec"
+  },
+  "publishers": {
+    "Shades": "https://downloads.khinsider.com/game-soundtracks/publisher/shades"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1646264,
+      "track_number": 1,
+      "title": "In-Game BGM",
+      "runtime": 65,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/terrys-big-adventure-atari-st-gamerip-1989/gvtkungzwb/01%20In-Game%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/terrys-big-adventure-atari-st-gamerip-1989/01%2520In-Game%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 178257,
+      "track_number": 2,
+      "title": "Stage Clear",
+      "runtime": 8,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/terrys-big-adventure-atari-st-gamerip-1989/rqypfgnbmc/02%20Stage%20Clear.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/terrys-big-adventure-atari-st-gamerip-1989/02%2520Stage%2520Clear.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 62914,
+      "track_number": 3,
+      "title": "Bonus Scene",
+      "runtime": 3,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/terrys-big-adventure-atari-st-gamerip-1989/jrtnreixoz/03%20Bonus%20Scene.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/terrys-big-adventure-atari-st-gamerip-1989/03%2520Bonus%2520Scene.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 76,
+    "filesize_mp3_bytes": 1887435,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}
