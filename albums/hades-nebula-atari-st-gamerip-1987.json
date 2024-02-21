@@ -1,0 +1,63 @@
+{
+  "title": "Hades Nebulainfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-02-21T14:10:53.955491+00:00",
+  "slug": "hades-nebula-atari-st-gamerip-1987",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hades-nebula-atari-st-gamerip-1987",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/hades-nebula-atari-st-gamerip-1987/Hades%20Nebula%20Atari%20ST%20Cover.jpg"
+  ],
+  "year": 1987,
+  "date_added": "2024-02-21T00:00:00+00:00",
+  "developers": {
+    "Paranoid": "https://downloads.khinsider.com/game-soundtracks/developer/paranoid"
+  },
+  "publishers": {
+    "Gamebusters": "https://downloads.khinsider.com/game-soundtracks/publisher/gamebusters",
+    "Nexus": "https://downloads.khinsider.com/game-soundtracks/publisher/nexus"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3355443,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 174,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/hades-nebula-atari-st-gamerip-1987/hlkrwwtdwo/01.%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hades-nebula-atari-st-gamerip-1987/01.%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 241172,
+      "track_number": 2,
+      "title": "Player Stand By",
+      "runtime": 5,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/hades-nebula-atari-st-gamerip-1987/ymwvgqwhlh/02.%20Player%20Stand%20By.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hades-nebula-atari-st-gamerip-1987/02.%2520Player%2520Stand%2520By.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 450887,
+      "track_number": 3,
+      "title": "Name Entry",
+      "runtime": 17,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/hades-nebula-atari-st-gamerip-1987/kizriyyrrp/03.%20Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hades-nebula-atari-st-gamerip-1987/03.%2520Name%2520Entry.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 196,
+    "filesize_mp3_bytes": 4047502,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

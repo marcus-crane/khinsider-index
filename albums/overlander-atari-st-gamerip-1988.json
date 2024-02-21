@@ -1,0 +1,82 @@
+{
+  "title": "Overlanderinfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-02-21T14:19:26.278505+00:00",
+  "slug": "overlander-atari-st-gamerip-1988",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/overlander-atari-st-gamerip-1988",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/overlander-atari-st-gamerip-1988/Overlander%20Atari%20ST%20Cover.jpg"
+  ],
+  "year": 1988,
+  "date_added": "2024-02-18T00:00:00+00:00",
+  "developers": {
+    "PMS Systems": "https://downloads.khinsider.com/game-soundtracks/developer/pms-systems"
+  },
+  "publishers": {
+    "Elite": "https://downloads.khinsider.com/game-soundtracks/publisher/elite"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1499463,
+      "track_number": 1,
+      "title": "Loader",
+      "runtime": 57,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/overlander-atari-st-gamerip-1988/cbekjlfmuu/01.%20Loader.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/overlander-atari-st-gamerip-1988/01.%2520Loader.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5337251,
+      "track_number": 2,
+      "title": "Title Screen",
+      "runtime": 195,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/overlander-atari-st-gamerip-1988/ibaftieejn/02.%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/overlander-atari-st-gamerip-1988/02.%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 325058,
+      "track_number": 3,
+      "title": "Round Start",
+      "runtime": 5,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/overlander-atari-st-gamerip-1988/fessepuaqo/03.%20Round%20Start.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/overlander-atari-st-gamerip-1988/03.%2520Round%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 272629,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 3,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/overlander-atari-st-gamerip-1988/rxgcbmpfjr/04.%20Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/overlander-atari-st-gamerip-1988/04.%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 964689,
+      "track_number": 5,
+      "title": "Name Entry",
+      "runtime": 31,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/overlander-atari-st-gamerip-1988/beyephlxbr/05.%20Name%20Entry.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/overlander-atari-st-gamerip-1988/05.%2520Name%2520Entry.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 291,
+    "filesize_mp3_bytes": 8399090,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

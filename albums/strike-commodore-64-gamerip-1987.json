@@ -1,0 +1,42 @@
+{
+  "title": "Strike!info",
+  "titles_alternative": [],
+  "crawled_at": "2024-02-21T14:23:00.482088+00:00",
+  "slug": "strike-commodore-64-gamerip-1987",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/strike-commodore-64-gamerip-1987",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/strike-commodore-64-gamerip-1987/Strike%20C64%20Cover.jpg"
+  ],
+  "year": 1987,
+  "date_added": "2024-02-20T00:00:00+00:00",
+  "developers": {
+    "Binary Design": "https://downloads.khinsider.com/game-soundtracks/developer/binary-design"
+  },
+  "publishers": {
+    "Mastertronic": "https://downloads.khinsider.com/game-soundtracks/publisher/mastertronic"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2401239,
+      "track_number": 1,
+      "title": "Theme",
+      "runtime": 109,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/strike-commodore-64-gamerip-1987/mzutpgqitt/01.%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/strike-commodore-64-gamerip-1987/01.%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 109,
+    "filesize_mp3_bytes": 2401239,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

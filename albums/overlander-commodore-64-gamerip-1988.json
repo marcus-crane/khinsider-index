@@ -1,0 +1,82 @@
+{
+  "title": "Overlanderinfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-02-21T14:19:28.022859+00:00",
+  "slug": "overlander-commodore-64-gamerip-1988",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/overlander-commodore-64-gamerip-1988",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/overlander-commodore-64-gamerip-1988/Overlander%20C64%20Cover.jpg"
+  ],
+  "year": 1988,
+  "date_added": "2024-02-18T00:00:00+00:00",
+  "developers": {
+    "Elite": "https://downloads.khinsider.com/game-soundtracks/developer/elite"
+  },
+  "publishers": {
+    "Elite": "https://downloads.khinsider.com/game-soundtracks/publisher/elite"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5494538,
+      "track_number": 1,
+      "title": "Loader",
+      "runtime": 267,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/overlander-commodore-64-gamerip-1988/hjygueedka/01.%20Loader.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/overlander-commodore-64-gamerip-1988/01.%2520Loader.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8378122,
+      "track_number": 2,
+      "title": "Main Theme",
+      "runtime": 447,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/overlander-commodore-64-gamerip-1988/ngdnwuwkui/02.%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/overlander-commodore-64-gamerip-1988/02.%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2212495,
+      "track_number": 3,
+      "title": "Menu ~ Enter Your Name",
+      "runtime": 62,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/overlander-commodore-64-gamerip-1988/xakmwblxmd/03.%20Menu%20~%20Enter%20Your%20Name.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/overlander-commodore-64-gamerip-1988/03.%2520Menu%2520~%2520Enter%2520Your%2520Name.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1509949,
+      "track_number": 4,
+      "title": "Level Completed ~ Mission Completed ~ Game Over",
+      "runtime": 18,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/overlander-commodore-64-gamerip-1988/sfncqdnkug/04.%20Level%20Completed%20~%20Mission%20Completed%20~%20Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/overlander-commodore-64-gamerip-1988/04.%2520Level%2520Completed%2520~%2520Mission%2520Completed%2520~%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2202009,
+      "track_number": 5,
+      "title": "Unknown",
+      "runtime": 61,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/overlander-commodore-64-gamerip-1988/gkxlwpvivn/05.%20Unknown.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/overlander-commodore-64-gamerip-1988/05.%2520Unknown.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 855,
+    "filesize_mp3_bytes": 19797113,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

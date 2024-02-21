@@ -1,0 +1,73 @@
+{
+  "title": "Galaga Warsinfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-02-21T14:08:41.867559+00:00",
+  "slug": "galaga-wars-android-ios-gamerip-2016",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/galaga-wars-android-ios-gamerip-2016",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/galaga-wars-android-ios-gamerip-2016/Image.JPEG"
+  ],
+  "year": 2016,
+  "date_added": "2024-02-21T00:00:00+00:00",
+  "developers": {
+    "Paladin Studios": "https://downloads.khinsider.com/game-soundtracks/developer/paladin-studios"
+  },
+  "publishers": {
+    "Bandai Namco": "https://downloads.khinsider.com/game-soundtracks/publisher/bandai-namco"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 1,
+      "title": "Beep1",
+      "runtime": 1,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/galaga-wars-android-ios-gamerip-2016/upjinthjjc/01.%20Beep1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/galaga-wars-android-ios-gamerip-2016/01.%2520Beep1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 20971,
+      "track_number": 2,
+      "title": "Beep2",
+      "runtime": 1,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/galaga-wars-android-ios-gamerip-2016/jffubohhom/02.%20Beep2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/galaga-wars-android-ios-gamerip-2016/02.%2520Beep2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 178257,
+      "track_number": 3,
+      "title": "Galaga Wars Main Theme",
+      "runtime": 11,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/galaga-wars-android-ios-gamerip-2016/fdgtvvhchg/03.%20Galaga%20Wars%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/galaga-wars-android-ios-gamerip-2016/03.%2520Galaga%2520Wars%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 534773,
+      "track_number": 4,
+      "title": "Menu",
+      "runtime": 34,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/galaga-wars-android-ios-gamerip-2016/dcyvfkkzsz/04.%20Menu.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/galaga-wars-android-ios-gamerip-2016/04.%2520Menu.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 47,
+    "filesize_mp3_bytes": 754972,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

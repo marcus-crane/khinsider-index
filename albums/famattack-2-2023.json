@@ -1,0 +1,92 @@
+{
+  "title": "FAMATTACK 2info",
+  "titles_alternative": [],
+  "crawled_at": "2024-02-21T14:08:01.660358+00:00",
+  "slug": "famattack-2-2023",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/famattack-2-2023",
+  "platforms": {
+    "Family Computer": "https://downloads.khinsider.com/game-soundtracks/family-computer",
+    "FDS": "https://downloads.khinsider.com/game-soundtracks/famicom-disk-system",
+    "NES": "https://downloads.khinsider.com/game-soundtracks/nintendo-nes"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/famattack-2-2023/cover.png"
+  ],
+  "year": 2023,
+  "date_added": "2024-02-21T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Various Artists": "https://downloads.khinsider.com/game-soundtracks/publisher/various-artists"
+  },
+  "genres": {
+    "Inspired By": "https://downloads.khinsider.com/game-soundtracks/inspired-by"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10370416,
+      "track_number": 1,
+      "title": "FDS",
+      "runtime": 475,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/famattack-2-2023/tjxsrkrldw/01.%20FDS.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/famattack-2-2023/01.%2520FDS.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10003415,
+      "track_number": 2,
+      "title": "N163",
+      "runtime": 460,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/famattack-2-2023/yrzqkhsnvm/02.%20N163.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/famattack-2-2023/02.%2520N163.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 8294236,
+      "track_number": 4,
+      "title": "S5B",
+      "runtime": 369,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/famattack-2-2023/yuwhbvtvqx/04.%20S5B.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/famattack-2-2023/04.%2520S5B.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11439964,
+      "track_number": 5,
+      "title": "VRC6",
+      "runtime": 536,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/famattack-2-2023/vheqpknunm/05.%20VRC6.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/famattack-2-2023/05.%2520VRC6.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 13673431,
+      "track_number": 6,
+      "title": "MMC5",
+      "runtime": 640,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/famattack-2-2023/aecbbopqry/06.%20MMC5.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/famattack-2-2023/06.%2520MMC5.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 16389242,
+      "track_number": 7,
+      "title": "2A03",
+      "runtime": 767,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/famattack-2-2023/dxoaspylzf/07.%202A03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/famattack-2-2023/07.%25202A03.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 3247,
+    "filesize_mp3_bytes": 70170704,
+    "filesize_flac_bytes": 0,
+    "tracks": 6
+  }
+}

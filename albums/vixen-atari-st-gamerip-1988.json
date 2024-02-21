@@ -1,0 +1,65 @@
+{
+  "title": "Vixeninfo",
+  "titles_alternative": [
+    "She-Fox"
+  ],
+  "crawled_at": "2024-02-21T14:26:25.942289+00:00",
+  "slug": "vixen-atari-st-gamerip-1988",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/vixen-atari-st-gamerip-1988",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/vixen-atari-st-gamerip-1988/Vixen%20Atari%20ST%20Cover.jpg"
+  ],
+  "year": 1988,
+  "date_added": "2024-02-21T00:00:00+00:00",
+  "developers": {
+    "Intelligent Design": "https://downloads.khinsider.com/game-soundtracks/developer/intelligent-design"
+  },
+  "publishers": {
+    "EA": "https://downloads.khinsider.com/game-soundtracks/publisher/ea",
+    "Martech": "https://downloads.khinsider.com/game-soundtracks/publisher/martech"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4016046,
+      "track_number": 1,
+      "title": "Main Theme",
+      "runtime": 197,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/vixen-atari-st-gamerip-1988/owlbrafemj/01.%20Main%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vixen-atari-st-gamerip-1988/01.%2520Main%2520Theme.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 136314,
+      "track_number": 2,
+      "title": "Level Complete",
+      "runtime": 2,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/vixen-atari-st-gamerip-1988/cjwrenkfun/02.%20Level%20Complete.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vixen-atari-st-gamerip-1988/02.%2520Level%2520Complete.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1038090,
+      "track_number": 3,
+      "title": "Enter Your Name",
+      "runtime": 41,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/vixen-atari-st-gamerip-1988/vmswvgukea/03.%20Enter%20Your%20Name.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/vixen-atari-st-gamerip-1988/03.%2520Enter%2520Your%2520Name.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 240,
+    "filesize_mp3_bytes": 5190450,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

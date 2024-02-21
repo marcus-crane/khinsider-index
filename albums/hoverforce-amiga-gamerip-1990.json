@@ -1,0 +1,45 @@
+{
+  "title": "Hoverforceinfo",
+  "titles_alternative": [
+    "Resolution 101"
+  ],
+  "crawled_at": "2024-02-21T14:11:30.947624+00:00",
+  "slug": "hoverforce-amiga-gamerip-1990",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/hoverforce-amiga-gamerip-1990",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/hoverforce-amiga-gamerip-1990/Hoverforce%20Amiga%20Cover%201.jpg"
+  ],
+  "year": 1990,
+  "date_added": "2024-02-18T00:00:00+00:00",
+  "developers": {
+    "Astral": "https://downloads.khinsider.com/game-soundtracks/developer/astral"
+  },
+  "publishers": {
+    "Gremlin": "https://downloads.khinsider.com/game-soundtracks/publisher/gremlin",
+    "Millennium": "https://downloads.khinsider.com/game-soundtracks/publisher/millennium"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1887436,
+      "track_number": 1,
+      "title": "Theme",
+      "runtime": 100,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/hoverforce-amiga-gamerip-1990/fxvkzuxdvv/01.%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/hoverforce-amiga-gamerip-1990/01.%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 100,
+    "filesize_mp3_bytes": 1887436,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

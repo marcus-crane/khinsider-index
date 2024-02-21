@@ -1,0 +1,112 @@
+{
+  "title": "Postman Patinfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-02-21T14:19:59.357995+00:00",
+  "slug": "postman-pat-ds-gamerip-2008",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/postman-pat-ds-gamerip-2008",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/postman-pat-ds-gamerip-2008/Postman%20Pat%20Cover.jpg"
+  ],
+  "year": 2008,
+  "date_added": "2024-02-21T00:00:00+00:00",
+  "developers": {
+    "The Code Monkeys": "https://downloads.khinsider.com/game-soundtracks/developer/the-code-monkeys"
+  },
+  "publishers": {
+    "Blast!": "https://downloads.khinsider.com/game-soundtracks/publisher/blast"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7486832,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 187,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/postman-pat-ds-gamerip-2008/rxcbgaovse/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/postman-pat-ds-gamerip-2008/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9961472,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 249,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/postman-pat-ds-gamerip-2008/iljpsotzks/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/postman-pat-ds-gamerip-2008/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 9804185,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 245,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/postman-pat-ds-gamerip-2008/ukqnwrvtop/03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/postman-pat-ds-gamerip-2008/03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 10045358,
+      "track_number": 4,
+      "title": "Track 4",
+      "runtime": 251,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/postman-pat-ds-gamerip-2008/nmvjjccuzb/04.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/postman-pat-ds-gamerip-2008/04.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6721372,
+      "track_number": 5,
+      "title": "Track 5",
+      "runtime": 168,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/postman-pat-ds-gamerip-2008/ickqjtmbty/05.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/postman-pat-ds-gamerip-2008/05.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7203717,
+      "track_number": 6,
+      "title": "Track 6",
+      "runtime": 180,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/postman-pat-ds-gamerip-2008/rfvqfwmeej/06.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/postman-pat-ds-gamerip-2008/06.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6050283,
+      "track_number": 7,
+      "title": "Track 7",
+      "runtime": 151,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/postman-pat-ds-gamerip-2008/itwioytrrz/07.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/postman-pat-ds-gamerip-2008/07.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6647971,
+      "track_number": 8,
+      "title": "Track 8",
+      "runtime": 166,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/postman-pat-ds-gamerip-2008/awvytyjzrj/08.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/postman-pat-ds-gamerip-2008/08.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1597,
+    "filesize_mp3_bytes": 63921190,
+    "filesize_flac_bytes": 0,
+    "tracks": 8
+  }
+}

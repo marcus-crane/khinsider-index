@@ -1,0 +1,84 @@
+{
+  "title": "Thunderstrikeinfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-02-21T14:25:57.353164+00:00",
+  "slug": "thunderstrike-atari-st-gamerip-1991",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/thunderstrike-atari-st-gamerip-1991",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/thunderstrike-atari-st-gamerip-1991/Thunderstrike%20Atari%20ST%20Cover%201.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2024-02-21T00:00:00+00:00",
+  "developers": {
+    "Millennium": "https://downloads.khinsider.com/game-soundtracks/developer/millennium",
+    "Peakstar": "https://downloads.khinsider.com/game-soundtracks/developer/peakstar"
+  },
+  "publishers": {
+    "Gremlin": "https://downloads.khinsider.com/game-soundtracks/publisher/gremlin",
+    "Millennium": "https://downloads.khinsider.com/game-soundtracks/publisher/millennium"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2894069,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 122,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/thunderstrike-atari-st-gamerip-1991/uoirsxzcju/01.%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thunderstrike-atari-st-gamerip-1991/01.%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 440401,
+      "track_number": 2,
+      "title": "Prepare for Round",
+      "runtime": 2,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/thunderstrike-atari-st-gamerip-1991/efosvqzsnv/02.%20Prepare%20for%20Round.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thunderstrike-atari-st-gamerip-1991/02.%2520Prepare%2520for%2520Round.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 450887,
+      "track_number": 3,
+      "title": "Round Cleared",
+      "runtime": 3,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/thunderstrike-atari-st-gamerip-1991/hqzitosrmh/03.%20Round%20Cleared.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thunderstrike-atari-st-gamerip-1991/03.%2520Round%2520Cleared.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 471859,
+      "track_number": 4,
+      "title": "Craft Destroyed - Contract Terminated",
+      "runtime": 4,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/thunderstrike-atari-st-gamerip-1991/fplyhfxues/04.%20Craft%20Destroyed%20-%20Contract%20Terminated.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thunderstrike-atari-st-gamerip-1991/04.%2520Craft%2520Destroyed%2520-%2520Contract%2520Terminated.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 429916,
+      "track_number": 5,
+      "title": "Unknown",
+      "runtime": 1,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/thunderstrike-atari-st-gamerip-1991/gggelartrs/05.%20Unknown.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thunderstrike-atari-st-gamerip-1991/05.%2520Unknown.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 132,
+    "filesize_mp3_bytes": 4687132,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

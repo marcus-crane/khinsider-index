@@ -1,0 +1,62 @@
+{
+  "title": "Infernoinfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-02-21T14:12:09.907663+00:00",
+  "slug": "inferno-atari-st-gamerip-1989",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/inferno-atari-st-gamerip-1989",
+  "platforms": {
+    "Atari ST": "https://downloads.khinsider.com/game-soundtracks/atari-st"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/inferno-atari-st-gamerip-1989/Inferno%20Atari%20ST%20Title%20Screen.png"
+  ],
+  "year": 1989,
+  "date_added": "2024-02-21T00:00:00+00:00",
+  "developers": {
+    "Simon Brown": "https://downloads.khinsider.com/game-soundtracks/developer/simon-brown"
+  },
+  "publishers": {
+    "Budgie UK": "https://downloads.khinsider.com/game-soundtracks/publisher/budgie-uk"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 419430,
+      "track_number": 1,
+      "title": "Stage BGM",
+      "runtime": 20,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/inferno-atari-st-gamerip-1989/sizuagcxqe/01.%20Stage%20BGM.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/inferno-atari-st-gamerip-1989/01.%2520Stage%2520BGM.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 387973,
+      "track_number": 2,
+      "title": "Unknown 1",
+      "runtime": 19,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/inferno-atari-st-gamerip-1989/nqzcfzafgz/02.%20Unknown%201.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/inferno-atari-st-gamerip-1989/02.%2520Unknown%25201.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 765460,
+      "track_number": 3,
+      "title": "Unknown 2",
+      "runtime": 37,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/inferno-atari-st-gamerip-1989/jubyaytatl/03.%20Unknown%202.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/inferno-atari-st-gamerip-1989/03.%2520Unknown%25202.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 76,
+    "filesize_mp3_bytes": 1572863,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

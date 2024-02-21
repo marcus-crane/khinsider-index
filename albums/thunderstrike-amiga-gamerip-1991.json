@@ -1,0 +1,44 @@
+{
+  "title": "Thunderstrikeinfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-02-21T14:25:56.699877+00:00",
+  "slug": "thunderstrike-amiga-gamerip-1991",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/thunderstrike-amiga-gamerip-1991",
+  "platforms": {
+    "Amiga": "https://downloads.khinsider.com/game-soundtracks/amiga"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/thunderstrike-amiga-gamerip-1991/Thunderstrike%20Amiga%20Cover%201.jpg"
+  ],
+  "year": 1991,
+  "date_added": "2024-02-21T00:00:00+00:00",
+  "developers": {
+    "Millennium": "https://downloads.khinsider.com/game-soundtracks/developer/millennium",
+    "Peakstar": "https://downloads.khinsider.com/game-soundtracks/developer/peakstar"
+  },
+  "publishers": {
+    "Gremlin": "https://downloads.khinsider.com/game-soundtracks/publisher/gremlin",
+    "LIVE": "https://downloads.khinsider.com/game-soundtracks/publisher/live"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2306867,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 122,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/thunderstrike-amiga-gamerip-1991/bbfjtdmwrm/01.%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/thunderstrike-amiga-gamerip-1991/01.%2520Title%2520Screen.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 122,
+    "filesize_mp3_bytes": 2306867,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

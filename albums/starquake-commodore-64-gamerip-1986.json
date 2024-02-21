@@ -1,0 +1,84 @@
+{
+  "title": "Starquakeinfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-02-21T14:22:32.435578+00:00",
+  "slug": "starquake-commodore-64-gamerip-1986",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/starquake-commodore-64-gamerip-1986",
+  "platforms": {
+    "Commodore 64": "https://downloads.khinsider.com/game-soundtracks/commodore-64"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/starquake-commodore-64-gamerip-1986/Starquake%20C64%20Cover%201.jpg"
+  ],
+  "year": 1986,
+  "date_added": "2024-02-20T00:00:00+00:00",
+  "developers": {
+    "Bubble Bus": "https://downloads.khinsider.com/game-soundtracks/developer/bubble-bus"
+  },
+  "publishers": {
+    "Bubble Bus": "https://downloads.khinsider.com/game-soundtracks/publisher/bubble-bus",
+    "Mastertronic": "https://downloads.khinsider.com/game-soundtracks/publisher/mastertronic",
+    "Share Data": "https://downloads.khinsider.com/game-soundtracks/publisher/share-data"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1855979,
+      "track_number": 1,
+      "title": "Title Screen",
+      "runtime": 65,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/starquake-commodore-64-gamerip-1986/rqzfreatgt/01.%20Title%20Screen.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/starquake-commodore-64-gamerip-1986/01.%2520Title%2520Screen.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1216348,
+      "track_number": 2,
+      "title": "Intro Text",
+      "runtime": 25,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/starquake-commodore-64-gamerip-1986/mtmcskkknz/02.%20Intro%20Text.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/starquake-commodore-64-gamerip-1986/02.%2520Intro%2520Text.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1216348,
+      "track_number": 3,
+      "title": "Game Complete",
+      "runtime": 25,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/starquake-commodore-64-gamerip-1986/tjeusiwnpp/03.%20Game%20Complete.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/starquake-commodore-64-gamerip-1986/03.%2520Game%2520Complete.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1583349,
+      "track_number": 4,
+      "title": "Game Over",
+      "runtime": 48,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/starquake-commodore-64-gamerip-1986/akuwqsfazd/04.%20Game%20Over.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/starquake-commodore-64-gamerip-1986/04.%2520Game%2520Over.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1583349,
+      "track_number": 5,
+      "title": "Core of Heroes (High Scores)",
+      "runtime": 48,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/starquake-commodore-64-gamerip-1986/qaycchtvyz/05.%20Core%20of%20Heroes%20%28High%20Scores%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/starquake-commodore-64-gamerip-1986/05.%2520Core%2520of%2520Heroes%2520%2528High%2520Scores%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 211,
+    "filesize_mp3_bytes": 7455373,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

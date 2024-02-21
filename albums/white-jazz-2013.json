@@ -1,0 +1,64 @@
+{
+  "title": "WHITE JAZZinfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-02-21T14:27:26.827040+00:00",
+  "slug": "white-jazz-2013",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/white-jazz-2013",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/white-jazz-2013/00%20Front%20small.jpg"
+  ],
+  "year": 2013,
+  "catalog_number": "DBT-2006",
+  "date_added": "2024-02-18T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Data by Ton2": "https://downloads.khinsider.com/game-soundtracks/publisher/data-by-ton2"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 40139489,
+      "filesize_mp3_bytes": 12782141,
+      "track_number": 1,
+      "title": "WHITE JAZZ",
+      "runtime": 402,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/white-jazz-2013/fruursmsgs/01.%20WHITE%20JAZZ.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/white-jazz-2013/fruursmsgs/01.%20WHITE%20JAZZ.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/white-jazz-2013/01.%2520WHITE%2520JAZZ.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 32547799,
+      "filesize_mp3_bytes": 10821304,
+      "track_number": 2,
+      "title": "Unreachable Bossa",
+      "runtime": 335,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/white-jazz-2013/kcnbudihiw/02.%20Unreachable%20Bossa.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/white-jazz-2013/kcnbudihiw/02.%20Unreachable%20Bossa.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/white-jazz-2013/02.%2520Unreachable%2520Bossa.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 46514831,
+      "filesize_mp3_bytes": 14218690,
+      "track_number": 3,
+      "title": "Swing of Destiny",
+      "runtime": 428,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/white-jazz-2013/zicplfpelt/03.%20Swing%20of%20Destiny.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/white-jazz-2013/zicplfpelt/03.%20Swing%20of%20Destiny.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/white-jazz-2013/03.%2520Swing%2520of%2520Destiny.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 1165,
+    "filesize_mp3_bytes": 37822135,
+    "filesize_flac_bytes": 119202119,
+    "tracks": 3
+  }
+}

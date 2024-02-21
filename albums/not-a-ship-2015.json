@@ -1,0 +1,97 @@
+{
+  "title": "Not A Shipinfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-02-21T14:19:00.951761+00:00",
+  "slug": "not-a-ship-2015",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/not-a-ship-2015",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/not-a-ship-2015/00%20Front.jpg"
+  ],
+  "year": 2015,
+  "catalog_number": "DBT-2008",
+  "date_added": "2024-02-21T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Data by Ton2": "https://downloads.khinsider.com/game-soundtracks/publisher/data-by-ton2"
+  },
+  "genres": {
+    "Arrangement": "https://downloads.khinsider.com/game-soundtracks/arrangements"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 33648803,
+      "filesize_mp3_bytes": 10475274,
+      "track_number": 1,
+      "title": "Four Fleets",
+      "runtime": 315,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/not-a-ship-2015/fcmtwvdxtw/01.%20Four%20Fleets.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/not-a-ship-2015/fcmtwvdxtw/01.%20Four%20Fleets.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/not-a-ship-2015/01.%2520Four%2520Fleets.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 39594229,
+      "filesize_mp3_bytes": 11932794,
+      "track_number": 2,
+      "title": "Happy Commander",
+      "runtime": 361,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/not-a-ship-2015/jdhsnbrdmk/02.%20Happy%20Commander.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/not-a-ship-2015/jdhsnbrdmk/02.%20Happy%20Commander.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/not-a-ship-2015/02.%2520Happy%2520Commander.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 29790044,
+      "filesize_mp3_bytes": 10391388,
+      "track_number": 3,
+      "title": "Home",
+      "runtime": 337,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/not-a-ship-2015/lcnygogivr/03.%20Home.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/not-a-ship-2015/lcnygogivr/03.%20Home.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/not-a-ship-2015/03.%2520Home.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 39762001,
+      "filesize_mp3_bytes": 12268339,
+      "track_number": 4,
+      "title": "The Dock",
+      "runtime": 371,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/not-a-ship-2015/hpdgrmgblq/04.%20The%20Dock.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/not-a-ship-2015/hpdgrmgblq/04.%20The%20Dock.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/not-a-ship-2015/04.%2520The%2520Dock.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 38786826,
+      "filesize_mp3_bytes": 11796480,
+      "track_number": 5,
+      "title": "Attack of the Night",
+      "runtime": 353,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/not-a-ship-2015/mbkkcuumuj/05.%20Attack%20of%20the%20Night.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/not-a-ship-2015/mbkkcuumuj/05.%20Attack%20of%20the%20Night.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/not-a-ship-2015/05.%2520Attack%2520of%2520the%2520Night.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 43190845,
+      "filesize_mp3_bytes": 13820231,
+      "track_number": 6,
+      "title": "Wedding Party",
+      "runtime": 425,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/not-a-ship-2015/cvummuuhow/06.%20Wedding%20Party.mp3",
+      "source_flac": "https://delta.vgmsite.com/soundtracks/not-a-ship-2015/cvummuuhow/06.%20Wedding%20Party.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/not-a-ship-2015/06.%2520Wedding%2520Party.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 2162,
+    "filesize_mp3_bytes": 70684506,
+    "filesize_flac_bytes": 224772748,
+    "tracks": 6
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "title": "Eye For Designinfo",
+  "titles_alternative": [],
+  "crawled_at": "2024-02-21T14:07:55.892256+00:00",
+  "slug": "eye-for-design-2008",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/eye-for-design-2008",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://delta.vgmsite.com/soundtracks/eye-for-design-2008/Eye%20For%20Design.jpg"
+  ],
+  "year": 2008,
+  "date_added": "2024-02-19T00:00:00+00:00",
+  "developers": {
+    "TechFront Studios": "https://downloads.khinsider.com/game-soundtracks/developer/techfront-studios"
+  },
+  "publishers": {
+    "Sandlot Games": "https://downloads.khinsider.com/game-soundtracks/publisher/sandlot-games"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2044723,
+      "track_number": 1,
+      "title": "Ingame",
+      "runtime": 90,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/eye-for-design-2008/bgodleofce/01.%20Ingame.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/eye-for-design-2008/01.%2520Ingame.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1405091,
+      "track_number": 2,
+      "title": "Ingame02",
+      "runtime": 61,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/eye-for-design-2008/dsemparjpl/02.%20Ingame02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/eye-for-design-2008/02.%2520Ingame02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1698693,
+      "track_number": 3,
+      "title": "Ingame03",
+      "runtime": 77,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/eye-for-design-2008/jwxljtsgyp/03.%20Ingame03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/eye-for-design-2008/03.%2520Ingame03.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 870318,
+      "track_number": 4,
+      "title": "Ingame04",
+      "runtime": 38,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/eye-for-design-2008/ljiyntvbib/04.%20Ingame04.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/eye-for-design-2008/04.%2520Ingame04.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1939865,
+      "track_number": 5,
+      "title": "Menu Theme",
+      "runtime": 86,
+      "source_mp3": "https://delta.vgmsite.com/soundtracks/eye-for-design-2008/fekrdszyev/05.%20Menu%20Theme.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/eye-for-design-2008/05.%2520Menu%2520Theme.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 352,
+    "filesize_mp3_bytes": 7958690,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}
