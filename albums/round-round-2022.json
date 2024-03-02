@@ -1,0 +1,50 @@
+{
+  "title": "Round & Round",
+  "titles_alternative": [],
+  "crawled_at": "2024-03-02T15:22:21.395145+00:00",
+  "slug": "round-round-2022",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/round-round-2022",
+  "platforms": {},
+  "images": [
+    "https://dl.vgmdownloads.com/soundtracks/round-round-2022/roundroundcover.png.webp"
+  ],
+  "year": 2022,
+  "date_added": "2024-03-01T00:00:00+00:00",
+  "developers": {
+    "I MY ME": "https://downloads.khinsider.com/game-soundtracks/developer/i-my-me"
+  },
+  "publishers": {
+    "I MY ME": "https://downloads.khinsider.com/game-soundtracks/publisher/i-my-me"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7423918,
+      "track_number": 1,
+      "title": "Round & Round",
+      "runtime": 226,
+      "source_mp3": "https://dl.vgmdownloads.com/soundtracks/round-round-2022/ijcaejguwa/01.%20Round%20%26%20Round.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/round-round-2022/01.%2520Round%2520%2526%2520Round.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7570718,
+      "track_number": 2,
+      "title": "Round & Round (Instrumental)",
+      "runtime": 226,
+      "source_mp3": "https://dl.vgmdownloads.com/soundtracks/round-round-2022/swfvrcnowz/02.%20Round%20%26%20Round%20%28Instrumental%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/round-round-2022/02.%2520Round%2520%2526%2520Round%2520%2528Instrumental%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 452,
+    "filesize_mp3_bytes": 14994636,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

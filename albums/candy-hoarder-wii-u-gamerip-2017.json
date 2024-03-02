@@ -1,0 +1,72 @@
+{
+  "title": "Candy Hoarder",
+  "titles_alternative": [],
+  "crawled_at": "2024-03-02T14:18:41.690956+00:00",
+  "slug": "candy-hoarder-wii-u-gamerip-2017",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/candy-hoarder-wii-u-gamerip-2017",
+  "platforms": {
+    "Wii U": "https://downloads.khinsider.com/game-soundtracks/nintendo-wii-u"
+  },
+  "images": [
+    "https://vgmtreasurechest.com/soundtracks/candy-hoarder-wii-u-gamerip-2017/Candy%20Hoarder%20Title%20Screen.jpg"
+  ],
+  "year": 2017,
+  "date_added": "2024-02-28T00:00:00+00:00",
+  "developers": {
+    "Nitrolic": "https://downloads.khinsider.com/game-soundtracks/developer/nitrolic"
+  },
+  "publishers": {
+    "Nitrolic": "https://downloads.khinsider.com/game-soundtracks/publisher/nitrolic"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 849346,
+      "track_number": 1,
+      "title": "Bootsound",
+      "runtime": 33,
+      "source_mp3": "https://vgmtreasurechest.com/soundtracks/candy-hoarder-wii-u-gamerip-2017/fvzliqlurk/01.%20Bootsound.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/candy-hoarder-wii-u-gamerip-2017/01.%2520Bootsound.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5494538,
+      "track_number": 2,
+      "title": "Music",
+      "runtime": 165,
+      "source_mp3": "https://vgmtreasurechest.com/soundtracks/candy-hoarder-wii-u-gamerip-2017/ibjbcervbu/02.%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/candy-hoarder-wii-u-gamerip-2017/02.%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5683281,
+      "track_number": 3,
+      "title": "Music2",
+      "runtime": 175,
+      "source_mp3": "https://vgmtreasurechest.com/soundtracks/candy-hoarder-wii-u-gamerip-2017/zqgnwkzukf/03.%20Music2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/candy-hoarder-wii-u-gamerip-2017/03.%2520Music2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3481272,
+      "track_number": 4,
+      "title": "Musicambient",
+      "runtime": 112,
+      "source_mp3": "https://vgmtreasurechest.com/soundtracks/candy-hoarder-wii-u-gamerip-2017/ttpfdhxmjn/04.%20Musicambient.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/candy-hoarder-wii-u-gamerip-2017/04.%2520Musicambient.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 485,
+    "filesize_mp3_bytes": 15508437,
+    "filesize_flac_bytes": 0,
+    "tracks": 4
+  }
+}

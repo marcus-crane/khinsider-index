@@ -1,0 +1,48 @@
+{
+  "title": "Halo Wars 2 - \"I Know You\"",
+  "titles_alternative": [
+    "I Know You",
+    "HW2",
+    "Halo Wars Two"
+  ],
+  "crawled_at": "2024-03-02T14:41:30.235174+00:00",
+  "slug": "halo-wars-2-i-know-you-2023",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/halo-wars-2-i-know-you-2023",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows",
+    "Xbox One": "https://downloads.khinsider.com/game-soundtracks/xbox-one"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/halo-wars-2-i-know-you-2023/halowars2-i-know-you-cover.jpg"
+  ],
+  "year": 2023,
+  "catalog_number": null,
+  "date_added": "2024-02-25T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "343 Industries": "https://downloads.khinsider.com/game-soundtracks/publisher/343-industries",
+    "Microsoft": "https://downloads.khinsider.com/game-soundtracks/publisher/microsoft",
+    "Unison Music Group": "https://downloads.khinsider.com/game-soundtracks/publisher/unison-music-group"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3051356,
+      "track_number": 1,
+      "title": "I Know You",
+      "runtime": 133,
+      "source_mp3": "https://vgmsite.com/soundtracks/halo-wars-2-i-know-you-2023/johhvtmvmh/01.%20I%20Know%20You.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/halo-wars-2-i-know-you-2023/01.%2520I%2520Know%2520You.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 133,
+    "filesize_mp3_bytes": 3051356,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

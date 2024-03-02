@@ -1,0 +1,68 @@
+{
+  "title": "Touch Solitaire",
+  "titles_alternative": [
+    "\u30bd\u30ea\u30c6\u30a3\u30a2 DSi",
+    "2-in-1 Solitaire"
+  ],
+  "crawled_at": "2024-03-02T15:46:37.751802+00:00",
+  "slug": "touch-solitaire-ds-gamerip-2009",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/touch-solitaire-ds-gamerip-2009",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://dl.vgmdownloads.com/soundtracks/touch-solitaire-ds-gamerip-2009/logo.png"
+  ],
+  "year": 2009,
+  "date_added": "2024-02-27T00:00:00+00:00",
+  "developers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/developer/nintendo"
+  },
+  "publishers": {
+    "Nintendo": "https://downloads.khinsider.com/game-soundtracks/publisher/nintendo"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2128609,
+      "filesize_mp3_bytes": 1352663,
+      "track_number": 1,
+      "title": "Title",
+      "runtime": 43,
+      "source_mp3": "https://dl.vgmdownloads.com/soundtracks/touch-solitaire-ds-gamerip-2009/wpithpztrm/01.%20Title.mp3",
+      "source_flac": "https://dl.vgmdownloads.com/soundtracks/touch-solitaire-ds-gamerip-2009/wpithpztrm/01.%20Title.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/touch-solitaire-ds-gamerip-2009/01.%2520Title.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 440401,
+      "filesize_mp3_bytes": 241172,
+      "track_number": 2,
+      "title": "Game Start",
+      "runtime": 10,
+      "source_mp3": "https://dl.vgmdownloads.com/soundtracks/touch-solitaire-ds-gamerip-2009/bdovqgcqnh/02.%20Game%20Start.mp3",
+      "source_flac": "https://dl.vgmdownloads.com/soundtracks/touch-solitaire-ds-gamerip-2009/bdovqgcqnh/02.%20Game%20Start.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/touch-solitaire-ds-gamerip-2009/02.%2520Game%2520Start.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 608174,
+      "filesize_mp3_bytes": 272629,
+      "track_number": 3,
+      "title": "Game Clear",
+      "runtime": 9,
+      "source_mp3": "https://dl.vgmdownloads.com/soundtracks/touch-solitaire-ds-gamerip-2009/lipxmpsmsq/03.%20Game%20Clear.mp3",
+      "source_flac": "https://dl.vgmdownloads.com/soundtracks/touch-solitaire-ds-gamerip-2009/lipxmpsmsq/03.%20Game%20Clear.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/touch-solitaire-ds-gamerip-2009/03.%2520Game%2520Clear.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 62,
+    "filesize_mp3_bytes": 1866464,
+    "filesize_flac_bytes": 3177184,
+    "tracks": 3
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Red Ash",
+  "titles_alternative": [],
+  "crawled_at": "2024-03-02T15:20:44.862322+00:00",
+  "slug": "red-ash-2023",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/red-ash-2023",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://dl.vgmdownloads.com/soundtracks/red-ash-2023/red%20ash.png"
+  ],
+  "year": 2023,
+  "date_added": "2024-02-28T00:00:00+00:00",
+  "developers": {},
+  "publishers": {},
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4582277,
+      "track_number": 1,
+      "title": "Red ash",
+      "runtime": 191,
+      "source_mp3": "https://dl.vgmdownloads.com/soundtracks/red-ash-2023/uxlvhbnkwd/01.%20Red%20ash.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/red-ash-2023/01.%2520Red%2520ash.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 191,
+    "filesize_mp3_bytes": 4582277,
+    "filesize_flac_bytes": 0,
+    "tracks": 1
+  }
+}

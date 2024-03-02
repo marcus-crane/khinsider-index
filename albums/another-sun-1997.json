@@ -1,0 +1,67 @@
+{
+  "title": "another sun",
+  "titles_alternative": [
+    "Mega Man Legends"
+  ],
+  "crawled_at": "2024-03-02T14:07:44.092165+00:00",
+  "slug": "another-sun-1997",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/another-sun-1997",
+  "platforms": {
+    "N64": "https://downloads.khinsider.com/game-soundtracks/nintendo-64",
+    "PS1": "https://downloads.khinsider.com/game-soundtracks/playstation"
+  },
+  "images": [
+    "https://dl.vgmdownloads.com/soundtracks/another-sun-1997/00%20Front.jpg"
+  ],
+  "year": 1997,
+  "catalog_number": "AMDM-6228",
+  "date_added": "2024-02-27T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "east west": "https://downloads.khinsider.com/game-soundtracks/publisher/east-west"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 38965084,
+      "filesize_mp3_bytes": 10108272,
+      "track_number": 1,
+      "title": "another sun",
+      "runtime": 295,
+      "source_mp3": "https://dl.vgmdownloads.com/soundtracks/another-sun-1997/tyemjhhqwn/01.%20another%20sun.mp3",
+      "source_flac": "https://dl.vgmdownloads.com/soundtracks/another-sun-1997/tyemjhhqwn/01.%20another%20sun.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/another-sun-1997/01.%2520another%2520sun.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 39185285,
+      "filesize_mp3_bytes": 10527703,
+      "track_number": 2,
+      "title": "\u3042\u306a\u305f\u306e\u98a8\u304c\u5439\u304f\u304b\u3089",
+      "runtime": 314,
+      "source_mp3": "https://dl.vgmdownloads.com/soundtracks/another-sun-1997/mawshotvco/02.%20%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E9%A2%A8%E3%81%8C%E5%90%B9%E3%81%8F%E3%81%8B%E3%82%89.mp3",
+      "source_flac": "https://dl.vgmdownloads.com/soundtracks/another-sun-1997/mawshotvco/02.%20%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E9%A2%A8%E3%81%8C%E5%90%B9%E3%81%8F%E3%81%8B%E3%82%89.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/another-sun-1997/02.%2520%25E3%2581%2582%25E3%2581%25AA%25E3%2581%259F%25E3%2581%25AE%25E9%25A2%25A8%25E3%2581%258C%25E5%2590%25B9%25E3%2581%258F%25E3%2581%258B%25E3%2582%2589.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 38419824,
+      "filesize_mp3_bytes": 10317987,
+      "track_number": 3,
+      "title": "another sun (original karaoke)",
+      "runtime": 294,
+      "source_mp3": "https://dl.vgmdownloads.com/soundtracks/another-sun-1997/goxhtioqkv/03.%20another%20sun%20%28original%20karaoke%29.mp3",
+      "source_flac": "https://dl.vgmdownloads.com/soundtracks/another-sun-1997/goxhtioqkv/03.%20another%20sun%20%28original%20karaoke%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/another-sun-1997/03.%2520another%2520sun%2520%2528original%2520karaoke%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 903,
+    "filesize_mp3_bytes": 30953962,
+    "filesize_flac_bytes": 116570193,
+    "tracks": 3
+  }
+}

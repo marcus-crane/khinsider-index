@@ -1,0 +1,66 @@
+{
+  "title": "stellar / KCB",
+  "titles_alternative": [
+    "Mega Man Star Force 3"
+  ],
+  "crawled_at": "2024-03-02T15:32:51.058216+00:00",
+  "slug": "stellar-kcb-2008",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/stellar-kcb-2008",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://dl.vgmdownloads.com/soundtracks/stellar-kcb-2008/00%20Case%20Front.jpg"
+  ],
+  "year": 2008,
+  "catalog_number": "SRCL-6928~9",
+  "date_added": "2024-02-27T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "Studioseven Recordings": "https://downloads.khinsider.com/game-soundtracks/publisher/studioseven-recordings"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 27996979,
+      "filesize_mp3_bytes": 7969177,
+      "track_number": 1,
+      "title": "stellar",
+      "runtime": 214,
+      "source_mp3": "https://dl.vgmdownloads.com/soundtracks/stellar-kcb-2008/ibndxyexxc/01.%20stellar.mp3",
+      "source_flac": "https://dl.vgmdownloads.com/soundtracks/stellar-kcb-2008/ibndxyexxc/01.%20stellar.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stellar-kcb-2008/01.%2520stellar.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 26214400,
+      "filesize_mp3_bytes": 7277117,
+      "track_number": 2,
+      "title": "Heigh-pooooo!!",
+      "runtime": 201,
+      "source_mp3": "https://dl.vgmdownloads.com/soundtracks/stellar-kcb-2008/pvihifyibw/02.%20Heigh-pooooo%21%21.mp3",
+      "source_flac": "https://dl.vgmdownloads.com/soundtracks/stellar-kcb-2008/pvihifyibw/02.%20Heigh-pooooo%21%21.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stellar-kcb-2008/02.%2520Heigh-pooooo%2521%2521.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 27650949,
+      "filesize_mp3_bytes": 8032092,
+      "track_number": 3,
+      "title": "stellar (instrumental)",
+      "runtime": 213,
+      "source_mp3": "https://dl.vgmdownloads.com/soundtracks/stellar-kcb-2008/iqcvwemald/03.%20stellar%20%28instrumental%29.mp3",
+      "source_flac": "https://dl.vgmdownloads.com/soundtracks/stellar-kcb-2008/iqcvwemald/03.%20stellar%20%28instrumental%29.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/stellar-kcb-2008/03.%2520stellar%2520%2528instrumental%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 628,
+    "filesize_mp3_bytes": 23278386,
+    "filesize_flac_bytes": 81862328,
+    "tracks": 3
+  }
+}

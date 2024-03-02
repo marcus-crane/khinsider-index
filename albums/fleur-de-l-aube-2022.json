@@ -1,0 +1,60 @@
+{
+  "title": "Fleur de l'Aube",
+  "titles_alternative": [],
+  "crawled_at": "2024-03-02T14:31:56.841953+00:00",
+  "slug": "fleur-de-l-aube-2022",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/fleur-de-l-aube-2022",
+  "platforms": {},
+  "images": [
+    "https://vgmtreasurechest.com/soundtracks/fleur-de-l-aube-2022/cover.png"
+  ],
+  "year": 2022,
+  "date_added": "2024-02-27T00:00:00+00:00",
+  "developers": {
+    "S\u00e9l\u00e8ne": "https://downloads.khinsider.com/game-soundtracks/developer/s-l-ne"
+  },
+  "publishers": {
+    "S\u00e9l\u00e8ne": "https://downloads.khinsider.com/game-soundtracks/publisher/s-l-ne"
+  },
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11345592,
+      "track_number": 1,
+      "title": "Fleur de l'Aube",
+      "runtime": 280,
+      "source_mp3": "https://vgmtreasurechest.com/soundtracks/fleur-de-l-aube-2022/gcrastumsx/01.%20Fleur%20de%20l%27Aube.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fleur-de-l-aube-2022/01.%2520Fleur%2520de%2520l%2527Aube.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11345592,
+      "track_number": 2,
+      "title": "Fleur de l'Aube (instrumental)",
+      "runtime": 280,
+      "source_mp3": "https://vgmtreasurechest.com/soundtracks/fleur-de-l-aube-2022/qrqwmgdbxw/02.%20Fleur%20de%20l%27Aube%20%28instrumental%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fleur-de-l-aube-2022/02.%2520Fleur%2520de%2520l%2527Aube%2520%2528instrumental%2529.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 11125391,
+      "track_number": 3,
+      "title": "Fleur de l'Aube (acapella)",
+      "runtime": 274,
+      "source_mp3": "https://vgmtreasurechest.com/soundtracks/fleur-de-l-aube-2022/fjrwdzdlth/03.%20Fleur%20de%20l%27Aube%20%28acapella%29.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/fleur-de-l-aube-2022/03.%2520Fleur%2520de%2520l%2527Aube%2520%2528acapella%2529.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 834,
+    "filesize_mp3_bytes": 33816575,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

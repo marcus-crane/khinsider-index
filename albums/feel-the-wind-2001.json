@@ -1,0 +1,55 @@
+{
+  "title": "feel the wind",
+  "titles_alternative": [
+    "Mega Man Battle Network 2"
+  ],
+  "crawled_at": "2024-03-02T14:31:49.091571+00:00",
+  "slug": "feel-the-wind-2001",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/feel-the-wind-2001",
+  "platforms": {
+    "GBA": "https://downloads.khinsider.com/game-soundtracks/gameboy-advance"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/feel-the-wind-2001/00%20Booklet%20Front.jpg"
+  ],
+  "year": 2001,
+  "catalog_number": "CTCR-40094",
+  "date_added": "2024-02-27T00:00:00+00:00",
+  "developers": {},
+  "publishers": {
+    "cutting edge": "https://downloads.khinsider.com/game-soundtracks/publisher/cutting-edge"
+  },
+  "genres": {
+    "Soundtrack": "https://downloads.khinsider.com/game-soundtracks/ost"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 36584816,
+      "filesize_mp3_bytes": 9363783,
+      "track_number": 1,
+      "title": "feel the wind",
+      "runtime": 277,
+      "source_mp3": "https://vgmsite.com/soundtracks/feel-the-wind-2001/heoogsxrbn/01.%20feel%20the%20wind.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/feel-the-wind-2001/heoogsxrbn/01.%20feel%20the%20wind.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/feel-the-wind-2001/01.%2520feel%2520the%2520wind.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 39961231,
+      "filesize_mp3_bytes": 10926161,
+      "track_number": 2,
+      "title": "Dear my...",
+      "runtime": 328,
+      "source_mp3": "https://vgmsite.com/soundtracks/feel-the-wind-2001/exabxzmvuj/02.%20Dear%20my....mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/feel-the-wind-2001/exabxzmvuj/02.%20Dear%20my....flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/feel-the-wind-2001/02.%2520Dear%2520my....mp3"
+    }
+  ],
+  "total": {
+    "runtime": 605,
+    "filesize_mp3_bytes": 20289944,
+    "filesize_flac_bytes": 76546047,
+    "tracks": 2
+  }
+}

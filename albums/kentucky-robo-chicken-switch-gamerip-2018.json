@@ -1,0 +1,52 @@
+{
+  "title": "Kentucky Robo Chicken",
+  "titles_alternative": [],
+  "crawled_at": "2024-03-02T14:49:02.449465+00:00",
+  "slug": "kentucky-robo-chicken-switch-gamerip-2018",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/kentucky-robo-chicken-switch-gamerip-2018",
+  "platforms": {
+    "Switch": "https://downloads.khinsider.com/game-soundtracks/nintendo-switch"
+  },
+  "images": [
+    "https://dl.vgmdownloads.com/soundtracks/kentucky-robo-chicken-switch-gamerip-2018/cover.jpg"
+  ],
+  "year": 2018,
+  "date_added": "2024-03-01T00:00:00+00:00",
+  "developers": {
+    "Solid9": "https://downloads.khinsider.com/game-soundtracks/developer/solid9"
+  },
+  "publishers": {
+    "Solid9": "https://downloads.khinsider.com/game-soundtracks/publisher/solid9"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3502243,
+      "track_number": 1,
+      "title": "Gameplay Music",
+      "runtime": 105,
+      "source_mp3": "https://dl.vgmdownloads.com/soundtracks/kentucky-robo-chicken-switch-gamerip-2018/hvgzdfwnbx/01.%20Gameplay%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kentucky-robo-chicken-switch-gamerip-2018/01.%2520Gameplay%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2348810,
+      "track_number": 2,
+      "title": "Menu Music",
+      "runtime": 70,
+      "source_mp3": "https://dl.vgmdownloads.com/soundtracks/kentucky-robo-chicken-switch-gamerip-2018/qmmpxtbuon/02.%20Menu%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/kentucky-robo-chicken-switch-gamerip-2018/02.%2520Menu%2520Music.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 175,
+    "filesize_mp3_bytes": 5851053,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

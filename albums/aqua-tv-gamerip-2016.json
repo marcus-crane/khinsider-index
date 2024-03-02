@@ -1,0 +1,69 @@
+{
+  "title": "Aqua TV",
+  "titles_alternative": [],
+  "crawled_at": "2024-03-02T14:08:22.590114+00:00",
+  "slug": "aqua-tv-gamerip-2016",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/aqua-tv-gamerip-2016",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios",
+    "MacOS": "https://downloads.khinsider.com/game-soundtracks/mac-os",
+    "Mobile": "https://downloads.khinsider.com/game-soundtracks/mobile",
+    "PS4": "https://downloads.khinsider.com/game-soundtracks/playstation-4",
+    "Switch": "https://downloads.khinsider.com/game-soundtracks/nintendo-switch",
+    "Wii U": "https://downloads.khinsider.com/game-soundtracks/nintendo-wii-u",
+    "Xbox One": "https://downloads.khinsider.com/game-soundtracks/xbox-one"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/aqua-tv-gamerip-2016/cover.jpg"
+  ],
+  "year": 2016,
+  "date_added": "2024-02-29T00:00:00+00:00",
+  "developers": {
+    "Extra Mile": "https://downloads.khinsider.com/game-soundtracks/developer/extra-mile"
+  },
+  "publishers": {
+    "Extra Mile": "https://downloads.khinsider.com/game-soundtracks/publisher/extra-mile"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 6585057,
+      "track_number": 1,
+      "title": "Track 1",
+      "runtime": 249,
+      "source_mp3": "https://vgmsite.com/soundtracks/aqua-tv-gamerip-2016/hyevxeyqfc/01.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/aqua-tv-gamerip-2016/01.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5316280,
+      "track_number": 2,
+      "title": "Track 2",
+      "runtime": 191,
+      "source_mp3": "https://vgmsite.com/soundtracks/aqua-tv-gamerip-2016/qdisjwybyc/02.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/aqua-tv-gamerip-2016/02.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3753902,
+      "track_number": 3,
+      "title": "Track 3",
+      "runtime": 146,
+      "source_mp3": "https://vgmsite.com/soundtracks/aqua-tv-gamerip-2016/mdwokkpolf/03.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/aqua-tv-gamerip-2016/03.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 586,
+    "filesize_mp3_bytes": 15655239,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

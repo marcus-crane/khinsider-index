@@ -1,0 +1,47 @@
+{
+  "title": "Compass",
+  "titles_alternative": [
+    "Limbus Company"
+  ],
+  "crawled_at": "2024-03-02T14:23:02.711543+00:00",
+  "slug": "compass-2023",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/compass-2023",
+  "platforms": {
+    "Android": "https://downloads.khinsider.com/game-soundtracks/android",
+    "iOS": "https://downloads.khinsider.com/game-soundtracks/ios",
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://dl.vgmdownloads.com/soundtracks/compass-2023/album.jpg"
+  ],
+  "year": 2023,
+  "catalog_number": null,
+  "date_added": "2024-02-25T00:00:00+00:00",
+  "developers": {
+    "Mili": "https://downloads.khinsider.com/game-soundtracks/developer/mili",
+    "Project Moon": "https://downloads.khinsider.com/game-soundtracks/developer/project-moon"
+  },
+  "publishers": {},
+  "genres": {
+    "Single": "https://downloads.khinsider.com/game-soundtracks/singles"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 17228103,
+      "filesize_mp3_bytes": 5976883,
+      "track_number": 1,
+      "title": "Compass",
+      "runtime": 169,
+      "source_mp3": "https://dl.vgmdownloads.com/soundtracks/compass-2023/snfzjcqpix/01.%20Compass.mp3",
+      "source_flac": "https://dl.vgmdownloads.com/soundtracks/compass-2023/snfzjcqpix/01.%20Compass.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/compass-2023/01.%2520Compass.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 169,
+    "filesize_mp3_bytes": 5976883,
+    "filesize_flac_bytes": 17228103,
+    "tracks": 1
+  }
+}

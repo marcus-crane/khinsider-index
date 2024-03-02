@@ -1,0 +1,52 @@
+{
+  "title": "Space Force",
+  "titles_alternative": [],
+  "crawled_at": "2024-03-02T15:28:42.351807+00:00",
+  "slug": "space-force-windows-gamerip-2018",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/space-force-windows-gamerip-2018",
+  "platforms": {
+    "Windows": "https://downloads.khinsider.com/game-soundtracks/windows"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/space-force-windows-gamerip-2018/cover.jpg"
+  ],
+  "year": 2018,
+  "date_added": "2024-02-29T00:00:00+00:00",
+  "developers": {
+    "Semi Saglam": "https://downloads.khinsider.com/game-soundtracks/developer/semi-saglam"
+  },
+  "publishers": {
+    "Semi Saglam": "https://downloads.khinsider.com/game-soundtracks/publisher/semi-saglam"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2548039,
+      "track_number": 1,
+      "title": "Game Loop",
+      "runtime": 89,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-force-windows-gamerip-2018/plmncqffbz/01.%20Game%20Loop.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-force-windows-gamerip-2018/01.%2520Game%2520Loop.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 7654604,
+      "track_number": 2,
+      "title": "Intro Loop",
+      "runtime": 262,
+      "source_mp3": "https://vgmsite.com/soundtracks/space-force-windows-gamerip-2018/fulqdhpsiy/02.%20Intro%20Loop.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/space-force-windows-gamerip-2018/02.%2520Intro%2520Loop.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 351,
+    "filesize_mp3_bytes": 10202643,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}

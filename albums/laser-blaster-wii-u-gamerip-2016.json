@@ -1,0 +1,62 @@
+{
+  "title": "Laser Blaster",
+  "titles_alternative": [],
+  "crawled_at": "2024-03-02T14:51:01.090172+00:00",
+  "slug": "laser-blaster-wii-u-gamerip-2016",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/laser-blaster-wii-u-gamerip-2016",
+  "platforms": {
+    "Wii U": "https://downloads.khinsider.com/game-soundtracks/nintendo-wii-u"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/laser-blaster-wii-u-gamerip-2016/cover.jpg"
+  ],
+  "year": 2016,
+  "date_added": "2024-02-28T00:00:00+00:00",
+  "developers": {
+    "Petite": "https://downloads.khinsider.com/game-soundtracks/developer/petite"
+  },
+  "publishers": {
+    "Petite": "https://downloads.khinsider.com/game-soundtracks/publisher/petite"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 849346,
+      "track_number": 1,
+      "title": "Boot Sound",
+      "runtime": 33,
+      "source_mp3": "https://vgmsite.com/soundtracks/laser-blaster-wii-u-gamerip-2016/bzzibongop/01.%20Boot%20Sound.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/laser-blaster-wii-u-gamerip-2016/01.%2520Boot%2520Sound.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1121976,
+      "track_number": 2,
+      "title": "Menuzene",
+      "runtime": 47,
+      "source_mp3": "https://vgmsite.com/soundtracks/laser-blaster-wii-u-gamerip-2016/pkfctitilw/02.%20Menuzene.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/laser-blaster-wii-u-gamerip-2016/02.%2520Menuzene.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 4257218,
+      "track_number": 3,
+      "title": "Music",
+      "runtime": 190,
+      "source_mp3": "https://vgmsite.com/soundtracks/laser-blaster-wii-u-gamerip-2016/fhtuveozxm/03.%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/laser-blaster-wii-u-gamerip-2016/03.%2520Music.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 270,
+    "filesize_mp3_bytes": 6228540,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

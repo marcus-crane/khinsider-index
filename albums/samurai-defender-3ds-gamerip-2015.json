@@ -1,0 +1,68 @@
+{
+  "title": "Samurai Defender",
+  "titles_alternative": [
+    "\u30b5\u30e0\u30e9\u30a4\u30c7\u30a3\u30d5\u30a7\u30f3\u30c0\u30fc"
+  ],
+  "crawled_at": "2024-03-02T15:22:56.932981+00:00",
+  "slug": "samurai-defender-3ds-gamerip-2015",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/samurai-defender-3ds-gamerip-2015",
+  "platforms": {
+    "3DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-3ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/samurai-defender-3ds-gamerip-2015/cover.jpg"
+  ],
+  "year": 2015,
+  "date_added": "2024-02-27T00:00:00+00:00",
+  "developers": {
+    "Link Kit": "https://downloads.khinsider.com/game-soundtracks/developer/link-kit"
+  },
+  "publishers": {
+    "Circle": "https://downloads.khinsider.com/game-soundtracks/publisher/circle",
+    "Flyhigh Works": "https://downloads.khinsider.com/game-soundtracks/publisher/flyhigh-works"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3753902,
+      "filesize_mp3_bytes": 996147,
+      "track_number": 1,
+      "title": "Boss",
+      "runtime": 54,
+      "source_mp3": "https://vgmsite.com/soundtracks/samurai-defender-3ds-gamerip-2015/zmicetbpbm/01.%20Boss.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/samurai-defender-3ds-gamerip-2015/zmicetbpbm/01.%20Boss.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/samurai-defender-3ds-gamerip-2015/01.%2520Boss.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 3670016,
+      "filesize_mp3_bytes": 1006632,
+      "track_number": 2,
+      "title": "Game",
+      "runtime": 54,
+      "source_mp3": "https://vgmsite.com/soundtracks/samurai-defender-3ds-gamerip-2015/zphmcjqqjl/02.%20Game.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/samurai-defender-3ds-gamerip-2015/zphmcjqqjl/02.%20Game.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/samurai-defender-3ds-gamerip-2015/02.%2520Game.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": 2013265,
+      "filesize_mp3_bytes": 734003,
+      "track_number": 3,
+      "title": "Title",
+      "runtime": 40,
+      "source_mp3": "https://vgmsite.com/soundtracks/samurai-defender-3ds-gamerip-2015/wkisczqcxb/03.%20Title.mp3",
+      "source_flac": "https://vgmsite.com/soundtracks/samurai-defender-3ds-gamerip-2015/wkisczqcxb/03.%20Title.flac",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/samurai-defender-3ds-gamerip-2015/03.%2520Title.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 148,
+    "filesize_mp3_bytes": 2736782,
+    "filesize_flac_bytes": 9437183,
+    "tracks": 3
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "title": "Rescue Tale",
+  "titles_alternative": [],
+  "crawled_at": "2024-03-02T15:21:10.914958+00:00",
+  "slug": "rescue-tale-switch-gamerip-2019",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/rescue-tale-switch-gamerip-2019",
+  "platforms": {
+    "Switch": "https://downloads.khinsider.com/game-soundtracks/nintendo-switch"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/rescue-tale-switch-gamerip-2019/cover.jpg"
+  ],
+  "year": 2019,
+  "date_added": "2024-02-27T00:00:00+00:00",
+  "developers": {
+    "Bitecore": "https://downloads.khinsider.com/game-soundtracks/developer/bitecore"
+  },
+  "publishers": {
+    "Bitecore": "https://downloads.khinsider.com/game-soundtracks/publisher/bitecore"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2464153,
+      "track_number": 1,
+      "title": "Bouncerescue Darkland V1m",
+      "runtime": 72,
+      "source_mp3": "https://vgmsite.com/soundtracks/rescue-tale-switch-gamerip-2019/lanbdvoprl/01.%20Bouncerescue%20Darkland%20V1m.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rescue-tale-switch-gamerip-2019/01.%2520Bouncerescue%2520Darkland%2520V1m.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2202009,
+      "track_number": 2,
+      "title": "Bouncerescue Greenland V2m",
+      "runtime": 64,
+      "source_mp3": "https://vgmsite.com/soundtracks/rescue-tale-switch-gamerip-2019/hirzewzldy/02.%20Bouncerescue%20Greenland%20V2m.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rescue-tale-switch-gamerip-2019/02.%2520Bouncerescue%2520Greenland%2520V2m.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3900702,
+      "track_number": 3,
+      "title": "Bouncerescue Menutheme V1m",
+      "runtime": 110,
+      "source_mp3": "https://vgmsite.com/soundtracks/rescue-tale-switch-gamerip-2019/lauefmglfu/03.%20Bouncerescue%20Menutheme%20V1m.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rescue-tale-switch-gamerip-2019/03.%2520Bouncerescue%2520Menutheme%2520V1m.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 2044723,
+      "track_number": 4,
+      "title": "Bouncerescue Midnight V1m",
+      "runtime": 60,
+      "source_mp3": "https://vgmsite.com/soundtracks/rescue-tale-switch-gamerip-2019/ridrlqrzha/04.%20Bouncerescue%20Midnight%20V1m.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rescue-tale-switch-gamerip-2019/04.%2520Bouncerescue%2520Midnight%2520V1m.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 31457,
+      "track_number": 5,
+      "title": "Success-Jingle  Justinvoke",
+      "runtime": 1,
+      "source_mp3": "https://vgmsite.com/soundtracks/rescue-tale-switch-gamerip-2019/rhazlqjxsj/05.%20Success-Jingle%20%20Justinvoke.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/rescue-tale-switch-gamerip-2019/05.%2520Success-Jingle%2520%2520Justinvoke.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 307,
+    "filesize_mp3_bytes": 10643044,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "title": "Chroma Blast",
+  "titles_alternative": [],
+  "crawled_at": "2024-03-02T14:21:40.693932+00:00",
+  "slug": "chroma-blast-wii-u-gamerip-2016",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/chroma-blast-wii-u-gamerip-2016",
+  "platforms": {
+    "Wii U": "https://downloads.khinsider.com/game-soundtracks/nintendo-wii-u"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/chroma-blast-wii-u-gamerip-2016/cover.png"
+  ],
+  "year": 2016,
+  "date_added": "2024-02-28T00:00:00+00:00",
+  "developers": {
+    "WizByte": "https://downloads.khinsider.com/game-soundtracks/developer/wizbyte"
+  },
+  "publishers": {
+    "WizByte": "https://downloads.khinsider.com/game-soundtracks/publisher/wizbyte"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 849346,
+      "track_number": 1,
+      "title": "Boot Sound",
+      "runtime": 33,
+      "source_mp3": "https://vgmsite.com/soundtracks/chroma-blast-wii-u-gamerip-2016/zcvlycdesz/01.%20Boot%20Sound.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chroma-blast-wii-u-gamerip-2016/01.%2520Boot%2520Sound.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 3019898,
+      "track_number": 2,
+      "title": "DST 5thStreet",
+      "runtime": 105,
+      "source_mp3": "https://vgmsite.com/soundtracks/chroma-blast-wii-u-gamerip-2016/jctingbkxk/02.%20DST%205thStreet.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chroma-blast-wii-u-gamerip-2016/02.%2520DST%25205thStreet.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 5211422,
+      "track_number": 3,
+      "title": "DST Assembly",
+      "runtime": 144,
+      "source_mp3": "https://vgmsite.com/soundtracks/chroma-blast-wii-u-gamerip-2016/cmvgiwemkv/03.%20DST%20Assembly.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/chroma-blast-wii-u-gamerip-2016/03.%2520DST%2520Assembly.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 282,
+    "filesize_mp3_bytes": 9080666,
+    "filesize_flac_bytes": 0,
+    "tracks": 3
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "title": "Datamine (DSiWare)",
+  "titles_alternative": [],
+  "crawled_at": "2024-03-02T14:25:46.714600+00:00",
+  "slug": "datamine-dsiware-ds-gamerip-2010",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/datamine-dsiware-ds-gamerip-2010",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://vgmsite.com/soundtracks/datamine-dsiware-ds-gamerip-2010/cover.jpg"
+  ],
+  "year": 2010,
+  "date_added": "2024-02-27T00:00:00+00:00",
+  "developers": {
+    "Visual Impact": "https://downloads.khinsider.com/game-soundtracks/developer/visual-impact"
+  },
+  "publishers": {
+    "Enjoy Gaming": "https://downloads.khinsider.com/game-soundtracks/publisher/enjoy-gaming"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 807403,
+      "track_number": 1,
+      "title": "Menu Music",
+      "runtime": 61,
+      "source_mp3": "https://vgmsite.com/soundtracks/datamine-dsiware-ds-gamerip-2010/wiidkvfaea/01.%20Menu%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/datamine-dsiware-ds-gamerip-2010/01.%2520Menu%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 922746,
+      "track_number": 2,
+      "title": "Music1",
+      "runtime": 60,
+      "source_mp3": "https://vgmsite.com/soundtracks/datamine-dsiware-ds-gamerip-2010/zrwropwetq/02.%20Music1.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/datamine-dsiware-ds-gamerip-2010/02.%2520Music1.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 870318,
+      "track_number": 3,
+      "title": "Music2",
+      "runtime": 60,
+      "source_mp3": "https://vgmsite.com/soundtracks/datamine-dsiware-ds-gamerip-2010/pihupjdkjd/03.%20Music2.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/datamine-dsiware-ds-gamerip-2010/03.%2520Music2.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 115343,
+      "track_number": 4,
+      "title": "Story Intro Music",
+      "runtime": 8,
+      "source_mp3": "https://vgmsite.com/soundtracks/datamine-dsiware-ds-gamerip-2010/gzluhjveos/04.%20Story%20Intro%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/datamine-dsiware-ds-gamerip-2010/04.%2520Story%2520Intro%2520Music.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 83886,
+      "track_number": 5,
+      "title": "Story Tribunal Music",
+      "runtime": 6,
+      "source_mp3": "https://vgmsite.com/soundtracks/datamine-dsiware-ds-gamerip-2010/tankrljjgp/05.%20Story%20Tribunal%20Music.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/datamine-dsiware-ds-gamerip-2010/05.%2520Story%2520Tribunal%2520Music.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 195,
+    "filesize_mp3_bytes": 2799696,
+    "filesize_flac_bytes": 0,
+    "tracks": 5
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Jetix Puzzle Buzzle",
+  "titles_alternative": [],
+  "crawled_at": "2024-03-02T14:47:08.097448+00:00",
+  "slug": "jetix-puzzle-buzzle-ds-gamerip-2008",
+  "url": "https://downloads.khinsider.com/game-soundtracks/album/jetix-puzzle-buzzle-ds-gamerip-2008",
+  "platforms": {
+    "DS": "https://downloads.khinsider.com/game-soundtracks/nintendo-ds"
+  },
+  "images": [
+    "https://dl.vgmdownloads.com/soundtracks/jetix-puzzle-buzzle-ds-gamerip-2008/cover.jpg"
+  ],
+  "year": 2008,
+  "date_added": "2024-03-01T00:00:00+00:00",
+  "developers": {
+    "Broadsword": "https://downloads.khinsider.com/game-soundtracks/developer/broadsword"
+  },
+  "publishers": {
+    "Blast!": "https://downloads.khinsider.com/game-soundtracks/publisher/blast"
+  },
+  "genres": {
+    "Gamerip": "https://downloads.khinsider.com/game-soundtracks/gamerips"
+  },
+  "tracks": [
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1625292,
+      "track_number": 1,
+      "title": "Jetix",
+      "runtime": 41,
+      "source_mp3": "https://dl.vgmdownloads.com/soundtracks/jetix-puzzle-buzzle-ds-gamerip-2008/tnfhtxxdek/01.%20Jetix.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jetix-puzzle-buzzle-ds-gamerip-2008/01.%2520Jetix.mp3"
+    },
+    {
+      "disc_number": null,
+      "filesize_flac_bytes": null,
+      "filesize_mp3_bytes": 1373634,
+      "track_number": 2,
+      "title": "Title",
+      "runtime": 34,
+      "source_mp3": "https://dl.vgmdownloads.com/soundtracks/jetix-puzzle-buzzle-ds-gamerip-2008/jvabaszpcj/02.%20Title.mp3",
+      "track_url": "https://downloads.khinsider.com/game-soundtracks/album/jetix-puzzle-buzzle-ds-gamerip-2008/02.%2520Title.mp3"
+    }
+  ],
+  "total": {
+    "runtime": 75,
+    "filesize_mp3_bytes": 2998926,
+    "filesize_flac_bytes": 0,
+    "tracks": 2
+  }
+}
