@@ -12,6 +12,9 @@ BASE_URL = 'https://downloads.khinsider.com/'
 
 Path('../albums').mkdir(exist_ok=True)
 
+class InvalidAlbumError(Exception):
+    pass
+
 # TODO: Error out when file is malformed so it can be handled properly. Probably write a log in a directory for me to review
 # TODO: Convert string numbers to proper integers
 # TODO: Add totals for runtime and file sizes
@@ -54,6 +57,9 @@ def human2bytes(s):
           ...
       ValueError: can't interpret '12 foo'
     """
+    # Remove any commas (e.g. "2,048 M")
+    s = s.replace(',', '')
+
     init = s
     num = ""
     while s and s[0:1].isdigit() or s[0:1] == '.':
@@ -95,7 +101,12 @@ def parse_album_metadata(album, msoup):
         if inCategory == 'platforms' and entry.name == 'a':
             platforms[entry.text.strip()] = urllib.parse.urljoin(BASE_URL, entry.attrs['href'])
         if inCategory == 'year':
-            album['year'] = int(entry.text.strip())
+            try:
+                album['year'] = int(entry.text.strip())
+            except ValueError:
+                # Some albums have non-numeric text ("unknown"), or multiple years separated by
+                # commas, ampersand, or other things. Skip these.
+                pass
         if inCategory == 'catalog number' and entry.name == 'b':
             if entry.text.strip().lower() == 'n/a':
                 album['catalog_number'] = None
@@ -152,20 +163,30 @@ def parse_album_tracks(album, msoup):
                 # Skip table footer
                 continue
             if idx in headers.keys() and headers[idx] == 'CD':
-                track_metadata['disc_number'] = int(entry.text.strip())
+                try:
+                    track_metadata['disc_number'] = int(entry.text.strip())
+                except ValueError:
+                    pass
             if idx in headers.keys() and headers[idx] == 'Track Length':
                 track_metadata['runtime'] = timeparse(entry.text.strip())
             if idx in headers.keys() and headers[idx] == '#':
-                track_metadata['track_number'] = int(entry.text.strip().replace(".", ""))
+                try:
+                    track_metadata['track_number'] = int(entry.text.strip().replace(".", ""))
+                except ValueError:
+                    pass
             if idx in headers.keys() and headers[idx] == 'Song Name':
                 track_metadata['title'] = entry.text.strip()
             if idx in headers.keys() and headers[idx] == 'MP3':
-                track_metadata['filesize_mp3_bytes'] = human2bytes(entry.text.strip()[:-1])
-                track_url = f"https://downloads.khinsider.com{entry.find('a')['href']}"
+                # If this is missing, the link is likely zero bytes (or only as FLAC)
+                if entry.text.strip():
+                    track_metadata['filesize_mp3_bytes'] = human2bytes(entry.text.strip()[:-1])
+                    track_url = f"https://downloads.khinsider.com{entry.find('a')['href']}"
             if idx in headers.keys() and headers[idx] == 'FLAC':
-                track_metadata['filesize_flac_bytes'] = human2bytes(entry.text.strip()[:-1])
-                # It's probably possible to only have a FLAC file and no MP3s
-                track_url = f"https://downloads.khinsider.com{entry.find('a')['href']}"
+                # If this is missing, the link is likely zero bytes (or only as MP3)
+                if entry.text.strip():
+                    track_metadata['filesize_flac_bytes'] = human2bytes(entry.text.strip()[:-1])
+                    # It's probably possible to only have a FLAC file and no MP3s
+                    track_url = f"https://downloads.khinsider.com{entry.find('a')['href']}"
         
         if track_url is not None:
             track_sources = get_real_tracks(track_url)
@@ -235,14 +256,20 @@ for link in links:
         mr = requests.get(url)
         msoup = BeautifulSoup(mr.text, 'html.parser')
         title = msoup.css.select("#pageContent h2")[0].text
+        # Recognize error pages (or redirects to the home page)
+        if title.strip() in ("Latest Soundtracks rss_feed", "Ooops!"):
+            if not msoup.css.select(".playlistDownloadSong"):
+                raise InvalidAlbumError()
 
         print(f"Processing {slug}")
 
         images = []
 
-        for image in msoup.find("div", {"class": "albumImage"}).find_all("a"):
-            images.append(image['href'])
-            
+        image_div = msoup.find("div", {"class": "albumImage"})
+        if image_div:
+            for image in image_div.find_all("a"):
+                images.append(image['href'])
+
 
         album = {
             "title": title,
@@ -263,6 +290,9 @@ for link in links:
 
         with open(f"../albums/{slug}.json", 'w') as file:
             json.dump(album, file, indent=2)
+
+    # TODO: consider handling InvalidAlbumError and writing it to a separate
+    # failure list, since these are semi-expected failure scenarios.
     except Exception:
         with open("../failure.log", "a") as file:
             file.write(f"{slug}\n")
