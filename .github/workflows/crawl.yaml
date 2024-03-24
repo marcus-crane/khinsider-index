@@ -1,7 +1,7 @@
 name: "Generate extra info from index"
 on:
-  schedule:
-    - cron: "0 */7 * * *"
+  # schedule:
+  #   - cron: "0 */7 * * *"
   # push:
   #   branches:
   #     - 'main'
