@@ -156,7 +156,10 @@ def parse_album_tracks(album, msoup):
             if idx in headers.keys() and headers[idx] == 'Track Length':
                 track_metadata['runtime'] = timeparse(entry.text.strip())
             if idx in headers.keys() and headers[idx] == '#':
-                track_metadata['track_number'] = int(entry.text.strip().replace(".", ""))
+                try:
+                    track_metadata['track_number'] = int(entry.text.strip().replace(".", ""))
+                except ValueError:
+                    track_metadata['track_number'] = 0
             if idx in headers.keys() and headers[idx] == 'Song Name':
                 track_metadata['title'] = entry.text.strip()
             if idx in headers.keys() and headers[idx] == 'MP3':
